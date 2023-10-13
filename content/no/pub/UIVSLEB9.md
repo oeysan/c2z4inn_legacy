@@ -5,7 +5,7 @@ type: pub
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-UIVSLEB9" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Andersen, R., Fr&#xE5;g&#xE5;t, T., Bogar, Y., Juellund, J., &amp; Mifsud, L. (2023). Representations of Computational Thinking in Policy Documents in an Educational Context: The Cases of Denmark, Finland, and Norway. <i>Proceedings (International Conference of the Learning Sciences)</i>, 35&#x2013;42.</div>
+  <div class="csl-entry">Andersen, R., Fr&#xE5;g&#xE5;t, T., Bogar, Y., Juellund, J., &amp; Mifsud, L. (2023). Representations of Computational Thinking in Policy Documents in an Educational Context: The Cases of Denmark, Finland, and Norway. <i>Proceedings (International Conference of the Learning Sciences)</i>, 35&#x2013;42. <a href="https://2023.isls.org/proceedings/">https://2023.isls.org/proceedings/</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UIVSLEB9" class="csl-bib-button">Arkiv</a>
