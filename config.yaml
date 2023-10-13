@@ -71,7 +71,7 @@ taxonomies:
   tag: "tags"
 
 params:
-  version: "0.1.0"
+  version: "0.1.1"
   subfolder: "/"
   keywords: 
   - "Hugo"

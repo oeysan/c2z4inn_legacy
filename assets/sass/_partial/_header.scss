@@ -1,16 +1,13 @@
 @use '_utils/_serve' as *;
+
 header {
-  min-height: 80px;
+  height: 80px;
   position: fixed;
   top: 0;
-  transition: top 0.2s ease-in-out;
+  transition: top 0.3s ease-in-out;
   width: 100%;
   background: $global-background;
   z-index: 5;
-
-  .nav-up {
-    top: -80px !important;
-  }
 
   .navbar {
     color: $global-font-color;
@@ -121,4 +118,8 @@ header {
     
   }
   
+}
+
+.nav-up {
+  top: -80px;
 }

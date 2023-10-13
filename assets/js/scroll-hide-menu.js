@@ -15,6 +15,8 @@ function initializeMenu() {
       // Get references to related elements
       const header = document.querySelector('header');
       const menuIcon = document.querySelector('#menu-icon');
+      const menuClosed = document.querySelector('#menu-closed');
+      const menuOpen = document.querySelector('#menu-open');
       const menuIcons = document.querySelectorAll('.menu-icon i');
   
       /**
@@ -68,14 +70,13 @@ function initializeMenu() {
         if (st > lastScrollTop && st > navbarHeight) {
           header.classList.remove('nav-down');
           header.classList.add('nav-up');
-          menu.classList.remove('nav-down');
-          menu.classList.add('nav-up');
+          menu.classList.remove('active');
+          menuOpen.classList.add('inactive');
+          menuClosed.classList.remove('inactive');
         } else {
           if (st + window.innerHeight < document.documentElement.scrollHeight) {
             header.classList.remove('nav-up');
             header.classList.add('nav-down');
-            menu.classList.remove('nav-up');
-            menu.classList.add('nav-down');
           }
         }
   
