@@ -184,11 +184,11 @@ function initializeArchivePage() {
             }
             
             const urlButton = createButton({ 
-                type: "i",
-                className: "las la-copy copy-pub",
+                type: "a",
+                className: "las la-link go-to-pub",
                 attribute: {
-                    "data-key": key,
-                    "title": "Copy URL"
+                    "href": baseURL + `${defaultContentLanguage}/pub/${key}`,
+                    "title": item.title
                 }
             });
             buttonsContainer.appendChild(urlButton);
@@ -237,12 +237,6 @@ function initializeArchivePage() {
             // Call the toggleMeta function
             toggleMeta(key, target, container);
         }
-
-        if (event.target.classList.contains('copy-pub')) {
-            const key = clickedButton.getAttribute('data-key');
-            const publicationURL = baseURL + `${defaultContentLanguage}/pub/${key}`;
-            showPopup(publicationURL, 'copiedToClipboard', false);
-        }
     });
  
     function toggleMeta(key, targetId, containerId) {
@@ -263,6 +257,14 @@ function initializeArchivePage() {
         const lastSelected = Array.from(collectionsSelects).find(select => select.value);
         return lastSelected ? lastSelected.value : ''; // Return the value of the last selected element, or an empty string if none is selected
     }
+
+    // Toggle filter-box
+    const filterButton = document.getElementById('filter-button');
+    const filterDiv = document.getElementById('filters');
+    filterButton.addEventListener('click', () => {
+        filterDiv.classList.toggle('show');
+    });
+
 
     // Get the reset button element by its id
     // Event listener for the reset button

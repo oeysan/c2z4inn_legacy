@@ -35,28 +35,43 @@
     text-decoration: underline;
   }
 
+  #filters {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 1s ease;
+  }
+  #filters.show {
+    max-height: 300px;
+  }
+
+  #archive-buttons {
+    text-align: center;
+
+    i {
+      font-size: 30px;
+    }
+
+    i:hover {
+      color: $global-flashy;
+    }
+
+  }
+  
+  .go-to-pub {
+    font-size: 20px;
+    position: relative;
+    top: 3px;
+  }
+
+  .go-to-pub:hover {
+    color: $global-font-color !important;
+    text-decoration: none !important;
+  }
+
   #more-results {
     margin: 50px auto 0 auto;
     text-align: center;
   }
-
-  #archive-buttons {
-  
-  }
-  
-  .reset-button, .copy-button, .copy-pub {
-    font-size: 30px;
-  }
-
-  .copy-pub {
-    position: relative;
-    top: 8px;
-  }
-
-  .reset-button:hover, .copy-button:hover, .copy-pub:hover {
-    color: $global-flashy;
-  }
-
 
   /* Style the select element */
   select, button {
@@ -116,10 +131,7 @@
     max-width: 500px;
     margin: 5px auto;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    position: relative;
-    left: 5px;
   }
-
 
   #search::placeholder {
     color: $global-flashy;
@@ -147,7 +159,6 @@
     padding: 10px !important;
     width: 100% !important;
   }
-
 
   #filters {
     text-align: center;
@@ -210,5 +221,16 @@
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
   }
+
+  @media only screen and (max-width: 768px) {
+
+    #archive article {
+      border: 0;
+      padding: 0;
+      box-shadow: none;
+    }
+
+  }
+
 }
 

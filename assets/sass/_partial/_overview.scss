@@ -1,6 +1,5 @@
 @use '_utils/_serve' as *;
 
-
 @media (min-width: 769px) {
 
   #overview::after {
@@ -334,7 +333,6 @@
 
   .chart {
     display: block !important;
-    border-bottom: 3px solid $global-background-opaque;
     max-width: 100% !important;
   }
 

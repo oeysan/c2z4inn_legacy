@@ -267,4 +267,3 @@ function showPopup(text, messageKey, includeText = true, copyText = true) {
       }, 3000);
     });
 }
-
