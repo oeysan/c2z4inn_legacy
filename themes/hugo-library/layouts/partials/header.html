@@ -1,0 +1,27 @@
+<header class="nav-down">
+	<div class="header-options">
+		<nav class="navbar">
+			<a href="{{ .Site.BaseURL }}{{ .Site.Language }}" title="Go to Main Page" id="logo">
+				<img src="{{ .Site.BaseURL }}images/logo.svg" alt="Logo" />
+			  </a>
+			<ul class="menu" id="menu">
+				{{ range .Site.Menus.main }}
+				<li>
+				  <a href="{{ .URL }}" {{ with .Identifier -}} id="{{.}}" {{ end -}}>
+					{{ with .Pre -}} <i class="{{.}}"></i> {{ end -}}
+					<span {{ with .Params.i18n -}} data-i18n="{{.}}" {{ end -}}>
+					  {{ with .Name -}} {{.}} {{ end -}}
+					</span>
+				  </a>
+				</li>
+				{{ end }}
+				<li id="dark-mode" class="la la-sun view-mode" title="Dark theme"></li>
+				<li id="light-mode" class="la la-moon view-mode" title="Light theme"></li>
+			</ul>                        
+		  <div class="menu-icon" id="menu-icon">
+			  <i class="las la-bars menu-icon"></i>
+			  <i class="las la-times menu-icon inactive"></i>
+		  </div>
+		</nav>
+	</div>
+</header>

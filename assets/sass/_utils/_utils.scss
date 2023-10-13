@@ -1,0 +1,123 @@
+@use "_custom/custom" as *;
+@use "_variables" as *;
+@mixin clearfix() {
+  &:before,
+  &:after {
+    content: " ";
+    display: table;
+  }
+  
+  &:after {
+    clear: both;
+  }
+}
+
+@mixin min-screen($min-width: $global-body-width) {
+   @media screen and (min-width: $min-width) {
+     @content;
+   }
+}
+
+@mixin max-screen($max-width: $global-body-width) {
+   @media screen and (max-width: $max-width) {
+     @content;
+   }
+}
+
+
+/* Styling for the pop-up container */
+.popup {
+  display: none;
+  position: fixed;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: $global-flashy;
+  color: $white;
+  padding: 20px;
+  border-radius: 50px;
+  z-index: 1000;
+  animation: fadeIn 0.5s ease-in-out, fadeOut 0.5s ease-in-out 2s forwards;
+}
+
+/* Styling for the pop-up content */
+.popup-content {
+  text-align: center;
+}
+
+/* Keyframes for fading in and out */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+/* CSS for the loader animation */
+#loader-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: $loader-background;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+#loader-container img {
+  width: 100px; /* Adjust the width as needed */
+  filter: $loader-filter;
+  animation: flashLogo 1s ease-in-out infinite alternate;
+}
+
+@keyframes flashLogo {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+#back-to-top {
+  display: block;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: $global-flashy;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  padding: 10px 15px;
+  font-size: 18px;
+  transform: scale(0);
+  transition: transform 0.3s ease, background-size 0.3s ease, background-color 0.3s ease;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#back-to-top.active {
+  transform: scale(1);
+  background-size: 100%;
+}
+
+#back-to-top:hover {
+  transform: scale(1.2);
+  color: $black;
+}

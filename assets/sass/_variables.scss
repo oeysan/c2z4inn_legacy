@@ -1,0 +1,98 @@
+// ========== Global ========== //
+
+@use "_custom/custom" as *;
+@use "hugo:vars" as h;
+
+:root {
+  --primary-color: #004002 ;
+  --secondary-color: #056731;
+  --font-color: #424242;
+  --background: #fefefe;
+  --background-lite: #f0f2f5;
+  --background-opaque: rgba(255, 255, 255, 0.8);
+  --heading-color: #292922;
+  --flashy: #009c05;
+  --flashy-opaque: rgba(#009c05, 1);
+  --logo-color: invert(0%) sepia(0%) saturate(7469%) hue-rotate(206deg) brightness(95%) contrast(108%);
+  --logo-hover: invert(38%) sepia(84%) saturate(4196%) hue-rotate(112deg) brightness(95%) contrast(104%);
+  --cover-image: url(#{h.$subfolder}images/nature.jpg);
+  --cover-filter: none;
+  --image-brightness: brightness(100%);
+}
+  
+// we only override the variables we need:
+[data-theme="dark"] {
+  --primary-color: #9A97F3;
+  --secondary-color: #818cab;
+  --font-color: #e1e1ff;
+  --background: #131324;
+  --background-lite: #161625;
+  --background-opaque: rgba(22, 22, 37, 0.8);
+  --heading-color: #818cab;
+  --flashy: #c05b4d;
+  --logo-color: invert(96%) sepia(4%) saturate(16%) hue-rotate(61deg) brightness(103%) contrast(103%);
+  --logo-hover: invert(45%) sepia(23%) saturate(1454%) hue-rotate(319deg) brightness(90%) contrast(82%);
+  --cover-image: url(#{h.$subfolder}images/nature.jpg);
+  --cover-filter: grayscale(100%) brightness(30%);
+  --image-brightness: brightness(70%);
+}
+
+$global-font-color: var(--font-color) !default;
+$global-heading-color: var(--heading-color) !default;
+$global-primary-color: var(--primary-color) !default;
+$global-secondary-color: var(--secondary-color) !default;
+$global-background: var(--background) !default;
+$global-background-lite: var(--background-lite) !default;
+$global-flashy: var(--flashy) !default;
+$global-background-opaque: var(--background-opaque) !default;
+$cover-image: var(--cover-image) !default;
+$cover-filter: var(--cover-filter) !default;
+$image-brightness: var(--image-brightness) !default;
+  
+// Define default base colors
+$black: #0a0a0a !default;
+$white: #fefefe !default;
+$light-gray: #e6e6e6 !default;
+$gray: #cacaca !default;
+$dark-gray: #8a8a8a !default;
+
+// ========== Loader ========== //
+$loader-background: #131324;
+$loader-filter: invert(96%) sepia(4%) saturate(16%) hue-rotate(61deg) brightness(103%) contrast(103%);
+
+// ========== Header ========== //
+// Padding of the site header.
+$header-padding: 20px 20px !default;
+$logo-width: 100px !default;
+$logo-color: var(--logo-color) !default;
+$logo-hover: var(--logo-hover) !default;
+
+// ========== Global font and sizes ========== //
+
+// Font size attribute applied to '<html>' and '<body>'.
+$global-font-size: 16px !default;
+
+// Global width of '<body>'.
+$global-body-width: 800px !default;
+
+// Padding of container main
+$global-container-padding: 0 20px !default;
+
+// Default line height for all type. `$global-lineheight` is 24px while `$global-font-size` is 16px.
+$global-lineheight: 1.5 !default;
+
+// Font family of the site.
+$global-font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif !default;
+
+// Serif font family of the site.
+$global-serif-font-family: Athelas, STHeiti, Microsoft Yahei, serif !default;
+
+// Headings font size of the site.
+$global-headings: (
+  h1: 26px,
+  h2: 24px,
+  h3: 20px,
+  h4: 16px,
+  h5: 14px,
+  h6: 14px
+) !default;

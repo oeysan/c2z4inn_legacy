@@ -1,0 +1,412 @@
+@use '_utils/_serve' as *;
+
+
+@media (min-width: 769px) {
+
+  #overview::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: $cover-image;
+    filter: $cover-filter;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: inherit !important;
+    display: flex;
+    z-index: -1;
+  }
+
+  #overview {
+      min-height: calc(100vh - 80px); 
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+    }
+    
+  #overview article {
+    display: grid;
+    box-shadow: none !important;
+    grid-gap: 100px !important;
+    max-width: 100% !important;
+  }
+
+
+  #overview article .left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #overview article .right {
+    background-color: $global-background-opaque;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+  }
+
+  
+  #chart-container.full-viewport .chartjs  {
+    width: 100% !important;
+    max-height: 90vh !important;
+  }
+  
+  #chart-container.full-viewport .chartjs canvas {
+    max-width: 100%;
+  }
+  
+  .chartjs {
+    width: 550px !important;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+  }
+  
+  .chart {
+    padding: 0 60px;
+    margin: 0 auto;
+  }
+
+  .chart h1 {
+    padding-top: 20px;
+  }
+
+  @media (min-height: 500px) and (min-width: 550px) {
+    .fullscreen-toggle  {
+      display: inline-block !important;
+      opacity: 1 !important;
+    }    
+    .fullscreen-toggle span:hover {
+      color: $global-flashy;
+      cursor: pointer;
+    }
+  }
+
+  #overview article .graph {
+    margin: 10px;
+    padding: 10px;
+    background-color: $global-background-opaque;
+    border-radius: 10px;
+    width : 100%;
+  }
+  
+  #overview article .graph {
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center horizontally */
+    text-align: left;
+    margin: 0 auto;
+  }
+
+  @media (min-width: 1800px) {
+    #overview article {
+      grid-template-columns: 700px 900px;
+    }
+  }
+  
+  @media (max-width: 1799px) {
+    #overview article {
+      grid-template-columns: 1fr;
+      margin: 30px !important;
+    }
+  }
+
+}
+
+#overview h1 {
+  font-size: 150%;
+}
+
+
+.chart {
+  
+  a, strong {
+    color: $global-flashy;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+}
+
+.chartjs {
+  margin: 0 auto;
+}
+
+.sdg-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center horizontally */
+    width: 100%;
+}
+
+
+.sdg-container .sdg {
+    width: 140px;
+    text-align: center;
+    margin: 10px;
+    position: relative;
+    display: inline-block;
+}
+
+.sdg-container .image {
+    max-width: 100%;
+    height: auto;
+}
+
+.sdg-container .sdg-publication-count {
+    margin: 0;
+}
+
+/* Initially hide the overlay */
+.sdg-overlay {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  color: white;
+  text-align: center;
+  /* Remove or change this property */
+  pointer-events: auto; /* Allow click events for the overlay */
+  justify-content: center;
+  align-items: center;
+}
+
+#sdg1 .sdg-overlay {background-color: rgba(229, 36, 59, 1);}
+#sdg2 .sdg-overlay {background-color: rgba(221, 166, 58, 1);}
+#sdg3 .sdg-overlay {background-color: rgba(76, 159, 56, 1);}
+#sdg4 .sdg-overlay {background-color: rgba(197, 25, 45, 1);}
+#sdg5 .sdg-overlay {background-color: rgba(255, 58, 33, 1);}
+#sdg6 .sdg-overlay {background-color: rgba(38, 189, 226, 1);}
+#sdg7 .sdg-overlay {background-color: rgba(252, 195, 11, 1);}
+#sdg8 .sdg-overlay {background-color: rgba(162, 25, 66, 1);}
+#sdg9 .sdg-overlay {background-color: rgba(253, 105, 37, 1);}
+#sdg10 .sdg-overlay {background-color: rgba(221, 19, 103, 1);}
+#sdg11 .sdg-overlay {background-color: rgba(253, 157, 36, 1);}
+#sdg12 .sdg-overlay {background-color: rgba(191, 139, 46, 1);}
+#sdg13 .sdg-overlay {background-color: rgba(63, 126, 68, 1);}
+#sdg14 .sdg-overlay {background-color: rgba(10, 151, 217, 1);}
+#sdg15 .sdg-overlay {background-color: rgba(86, 192, 43, 1);}
+#sdg16 .sdg-overlay {background-color: rgba(0, 104, 157, 1);}
+#sdg17 .sdg-overlay {background-color: rgba(25, 72, 106, 1);}
+
+/* Style the "Read More" link */
+.sdg-read-more {
+  color: $white !important;
+  text-decoration: underline !important;
+}
+
+.sdg-read-more:hover {
+  text-decoration: none !important;
+}
+
+/* When hovering over the .sdg container, show the overlay */
+.sdg:hover .sdg-overlay {
+  display: flex; /* Use flexbox for centering */
+  flex-direction: column; /* Stack elements vertically */
+}
+
+.sdg-overlay p {
+  margin: 0 auto;
+  transition: font-size 0.3s; /* Smooth transition effect */
+}
+
+.sdg-overlay span {
+  font-size: 150%;
+  font-weight: bolder;
+  display: block;
+}
+
+.slideshow-container {
+  max-width: 700px;
+  position: relative;
+  margin: auto;
+}
+
+
+.slideshow-previous,
+.slideshow-next {
+  display: none;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: auto;
+  padding: 16px;
+  color: $global-font-color;
+  font-weight: bold;
+  font-size: 30px;
+  transition: transform 0.3s ease-out, opacity 0.3s ease-out;
+  user-select: none;
+  opacity: 0.5;
+}
+
+
+.slideshow-previous {
+  left: 0;
+}
+
+
+.slideshow-next {
+  right: 0;
+}
+
+.slideshow-previous:hover,
+.slideshow-next:hover {
+  color: $global-flashy;
+  opacity: 1;
+  transform: translateY(-50%) scale(1.5);
+  transition: transform 0s;
+}
+
+
+.slideshow-text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+
+.slideshow-fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.canvas-hidden {
+  opacity: 0 !important;
+  transition: opacity 10.0s ease-in-out !important;
+}
+
+.numbertext {
+  color: $global-font-color;
+  font-size: 14px;
+  padding: 0px 12px;
+  position: absolute;
+  top: 0;
+  right: 0;
+
+}
+
+
+@media only screen and (orientation: portrait) and (max-width: 768px)  {
+  .chartjs {
+    height: 100vh !important;
+  }
+}
+
+@media screen and (max-width: 450px) and (orientation: portrait) {
+  html {
+    font-size: 80% !important;
+  }
+}
+
+@media screen and (max-width: 768px) {
+
+  #overview {
+    article {
+      margin: 0 auto !important;
+      width: 95vw !important;
+    }
+  }  
+
+  .chart {
+    display: block !important;
+    border-bottom: 3px solid $global-background-opaque;
+    max-width: 100% !important;
+  }
+
+  .graph {
+    margin: 10px !important;
+    padding: 10px !important;
+  }
+
+  .right {
+    padding: 10px !important;
+  }
+  
+  #chart-container {
+    width: 100% !important;
+    margin: 0;
+  }
+
+  .slideshow-buttons, .numbertext {
+    display: none !important;
+  }
+
+}
+
+#chart-container.full-viewport {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9998;
+  background-color: $global-background;
+  overflow: hidden !important;
+  font-size: 130%;
+
+  .graph {  
+    background-color: $global-background !important;
+  }
+
+  .numbertext {
+    top: 10px;
+    right: 10px;
+    position: fixed;
+  } 
+  
+  /* Center the "previous button" to the left */
+  .slideshow-previous, .slideshow-next  {
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  /* Center the "previous button" to the left */
+  .slideshow-previous:hover, .slideshow-next:hover  {
+    transform: translateY(-50%) scale(1.5);
+    transition: transform 0s;
+  }
+  
+  .slideshow-container, .graph {
+    width: 100% !important;
+    max-width: 100% !important;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .chart {
+    max-width: 800px !important;
+    width: 90vw !important;
+  }
+
+  .chartjs {
+    max-width: 100% !important;
+    height: 80vh !important;
+  }
+
+}

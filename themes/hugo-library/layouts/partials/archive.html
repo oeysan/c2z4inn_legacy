@@ -1,0 +1,79 @@
+ <!-- Archive Section -->
+ <section id="archive">
+    <article>
+        <h1 data-i18n="archive">Arkivet</h1>                 
+        <div class="search-container">
+        <input type="text" id="search" data-i18n="search" placeholder="{{ i18n "search"}}" />
+        </div>
+        <div id="filters">
+        <div id="collections-container">
+            <!-- Other options will be populated dynamically -->
+        </div><!--
+        --><select id="item-type">
+            <option value="" data-i18n="allTypes">All Types</option>
+            <!-- Other options will be populated dynamically -->
+        </select><!--
+        --><select id="year">
+            <!-- Populate this dynamically from your JSON data -->
+        </select><!--
+        --><select id="month">
+            <option value="">{{ i18n "allMonths" }}</option>
+            <option value="1">{{ i18n "month_1" }}</option>
+            <option value="2">{{ i18n "month_2" }}</option>
+            <option value="3">{{ i18n "month_3" }}</option>
+            <option value="4">{{ i18n "month_4" }}</option>
+            <option value="5">{{ i18n "month_5" }}</option>
+            <option value="6">{{ i18n "month_6" }}</option>
+            <option value="7">{{ i18n "month_7" }}</option>
+            <option value="8">{{ i18n "month_8" }}</option>
+            <option value="9">{{ i18n "month_9" }}</option>
+            <option value="10">{{ i18n "month_10" }}</option>
+            <option value="11">{{ i18n "month_11" }}</option>
+            <option value="12">{{ i18n "month_12" }}</option>
+        </select><!--
+        --><select id="sdg">
+            <option value="">{{ i18n "sdg" }}</option>
+            <option value="1">{{ i18n "sdg1" }}</option>
+            <option value="2">{{ i18n "sdg2" }}</option>
+            <option value="3">{{ i18n "sdg3" }}</option>
+            <option value="4">{{ i18n "sdg4" }}</option>
+            <option value="5">{{ i18n "sdg5" }}</option>
+            <option value="6">{{ i18n "sdg6" }}</option>
+            <option value="7">{{ i18n "sdg7" }}</option>
+            <option value="8">{{ i18n "sdg8" }}</option>
+            <option value="9">{{ i18n "sdg9" }}</option>
+            <option value="10">{{ i18n "sdg10" }}</option>
+            <option value="11">{{ i18n "sdg11" }}</option>
+            <option value="12">{{ i18n "sdg12" }}</option>
+            <option value="13">{{ i18n "sdg13" }}</option>
+            <option value="14">{{ i18n "sdg14" }}</option>
+            <option value="15">{{ i18n "sdg15" }}</option>
+            <option value="16">{{ i18n "sdg16" }}</option>
+            <option value="17">{{ i18n "sdg17" }}</option>
+        </select>
+        <p id="archive-buttons">
+            <i id="reset-button" class="la la-trash-alt reset-button" title="Delete filter"></i>
+            <i id="copy-button"  class="las la-copy copy-button" title="Copy filter"></i>
+        </p>
+        </div>
+        <div class="data"> 
+            <div class="show-results">
+                <span class="current-items">0</span>
+                <span>{{ i18n "of_total" }}</span>
+                <span class="total-items">0</span>
+            </div>
+            <div id="data-container">
+                <!-- Populate data dynamically in script.js -->
+            </div>
+            <div id="more-results">
+                <button id="read-more-button">Read More</button>
+                <button id="show-all-button">Show all</button>
+            </div>
+            <div class="show-results">
+                <span class="current-items">0</span>
+                <span>{{ i18n "of_total" }}</span>
+                <span class="total-items">0</span>
+            </div>
+        </div>
+    </article>
+</section>

@@ -1,0 +1,81 @@
+---
+title: "The institutional turn in service research: taking stock and moving ahead"
+type: pub
+---
+<h1>Publication</h1>
+<article id="csl-bib-container-UIL79NJF" class="csl-bib-container">
+  <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
+  <div class="csl-entry">Koskela-Huotari, K., Vink, J., &amp; Edvardsson, B. (2020). The institutional turn in service research: taking stock and moving ahead. <i>Journal of Services Marketing</i>, <i>34</i>(3), 373&#x2013;387. <a href="https://doi.org/10.1108/JSM-02-2019-0101">https://doi.org/10.1108/JSM-02-2019-0101</a></div>
+</div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-UIL79NJF" class="csl-bib-button">Archive</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1810209" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/UIL79NJF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-UIL79NJF" class="csl-bib-button">Abstract</a>
+    <a href="#contributors-article-UIL79NJF" class="csl-bib-button">Contributors</a>
+    <a href="#sdg-article-UIL79NJF" class="csl-bib-button">Sustainable Development Goals</a>
+  </div>
+  <div id="csl-bib-meta-container-UIL79NJF"></div>
+</article>
+<div id="csl-bib-meta-UIL79NJF" class="csl-bib-meta">
+  <article id="abstract-article-UIL79NJF" class="abstract-article">
+    <h1>Abstract</h1>
+    PurposeService scholars are finding that institutions – enduring social structures, such as rules, norms, beliefs – are increasingly important in theorizing on service-related phenomena. The purpose of this paper is to advance the use of institutional theory in service research by synthesizing the key insights from institutional theory that have been applied to service-related phenomena and developing a research agenda to guide the future use of institutional theory in service research. Design/methodology/approachThis paper is an integrative literature review covering 68 articles from major service research and marketing journals that adopt institutional concepts and frameworks to study service-related phenomena. FindingsThe paper maps the “institutional turn” of service research, that is, the increasing tendency to draw on institutional theory for theoretical insights within service research and builds a conceptual framework of the institutional stabilization and destabilization mechanisms that explain endurance and change in service phenomena. The paper also proposes a research agenda that outlines four previously ignored aspects of institutions that have important implications for service research. Research limitations/implicationsIn addition to synthesizing insights and proposing directions for future research, the paper highlights specific theoretical and methodological considerations for the future use of institutional theory within service research. The literature review is limited to the 13 major service research and marketing journals. Originality/valueThis paper is the first literature review of the use of institutional theory in service research.
+  </article>
+  <article id="contributors-article-UIL79NJF" class="contributors-article">
+    <h1>Contributors</h1>
+    <div class="personas">
+<div class="vrtx-hinn-person-card">
+<div class="photo">
+<i class="lar la-user-circle missing-person"></i>
+</div>
+<div class="info">
+<hgroup><h1>Bo Edvardsson</h1>
+<h2>Professor II</h2>
+</hgroup><dl>
+<dt>Email</dt>
+<dd>
+<a href="mailto:bo.edvardsson@inn.no">bo.edvardsson@inn.no</a>
+</dd>
+<dt>Phone number</dt>
+<dd><a href="tel:+4762430535">
++47 62 43 05 35
+</a></dd>
+</dl>
+<p>
+Inland School of Business and Social Sciences<br>
+Department of Business Administration<br>
+Campus Rena,
+Room 3Ø205
+</p>
+<ul class="vrtx-hinn-links">
+<li><a href="https://www.google.com/maps?q=61.13620,11.37454">Show on map</a></li>
+<li><a href="https://www.inn.no/english/find-an-employee/bo-edvardsson.html#vrtx-hinn-addresses">See Addresses</a></li>
+<li><a href="https://www.inn.no/english/find-an-employee/bo-edvardsson.html?vrtx=vcf">Download business card</a></li>
+</ul>
+</div>
+</div>
+<a href="https://app.cristin.no/persons/show.jsf?id=494358" alt="Cristin URL" class="personas-cristin">Cristin</a>
+</div>
+  </article>
+  <article id="sdg-article-UIL79NJF" class="sdg-article">
+    <h1>Sustainable Development Goals</h1>
+    <div class="sdg-container"><div id="sdg16" class="sdg">
+<img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
+<div class="sdg-overlay">
+<p class="sdg-publication-count"><span>110</span> Publications</p>
+<p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
+</div>
+</div></div>
+  </article>
+  <article id="taxonomy-article-UIL79NJF" class="taxonomy-article">
+    <h1>Archive</h1>
+    <ul>
+      <li>Inland Norway University of Applied Sciences</li>
+      <li>Inland School of Business and Social Sciences</li>
+      <li>Department of Tourism, Creative Industries and Marketing</li>
+      <li>2020</li>
+      <li>May</li>
+    </ul>
+  </article>
+</div>

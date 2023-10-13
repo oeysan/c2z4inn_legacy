@@ -1,0 +1,79 @@
+
+
+<!-- JS Functions -->
+{{ $loadingScreen := resources.Get "js/loading-screen.js" }}
+{{ $changeLocale := resources.Get "js/change-locale.js" }}
+{{ $changeMode := resources.Get "js/change-mode.js" }}
+{{ $slideShow := resources.Get "js/slide-show.js" }}
+{{ $scrollToTop := resources.Get "js/scroll-to-top.js" }}
+{{ $scrollHideMenu := resources.Get "js/scroll-hide-menu.js" }}
+{{ $archive := resources.Get "js/archive.js" }}
+{{ $createCharts := resources.Get "js/create-charts.js" }}
+
+{{ $jsResources := slice 
+  $loadingScreen 
+  $changeLocale 
+  $changeMode 
+  $slideShow 
+  $scrollToTop 
+  $scrollHideMenu 
+  $archive 
+  $createCharts 
+}}
+{{ $validResources := slice }}
+
+{{ range $jsResources }}
+  {{ if . }}
+    {{ $validResources = $validResources | append . }}
+  {{ end }}
+{{ end }}
+
+{{ $js := $validResources | resources.Concat "js/main.js" | resources.Minify | resources.Fingerprint }}
+<script type="text/javascript" src="{{ $js.RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+
+<!-- Custom JavaScript -->
+{{ range .Site.Params.customJS -}}
+  {{ $inputPath := printf "js/%s.js" . }}
+  {{ $outputPath := printf "/js/%s.js" . }}
+  {{ $jsResource := resources.Get $inputPath }}
+  {{ if $jsResource }}
+    {{ $options := dict "targetPath" $outputPath }}
+    {{ with $jsResource | resources.Minify | resources.Fingerprint }}
+      <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+    {{ end }}
+  {{ end }}
+{{ end }}
+s
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+
+  // To initialize the scroll-to-top button, call the function
+  createChart(charts);
+  initializeSlideshow(1);
+  // To initialize the dark mode toggle, call the function
+  initializeDarkModeToggle();
+  // To initialize the menu, call the function
+  initializeMenu();
+  // Call initializeSlideshow to set up the slideshow initially
+  initializeScrollToTopButton();
+  // To initialize the archive page, call the function
+  if (document.querySelector('#archive')) {
+    initializeArchivePage();
+  }
+  // Call the updateLocale function with the selected language
+  // To initialize the translation updater, call the function
+  initializeTranslationUpdater(defaultContentLanguage);
+  // Hide the loader with a delay of 500 ms after the page is fully loaded
+  const loaderContainer = document.querySelector('#loader-container');
+  window.addEventListener("load", function () {
+    setTimeout(function () {
+      document.body.style.overflow = "auto";
+      loaderContainer.style.opacity = "0";
+      setTimeout(function () {
+        loaderContainer.style.display = "none";
+      }, 500); // Additional delay for fading out
+    }, 500); // Delay before starting the fade-out
+  });
+
+});
+</script>

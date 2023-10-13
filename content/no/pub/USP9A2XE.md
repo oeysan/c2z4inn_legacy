@@ -1,0 +1,33 @@
+---
+title: "The smell of success: Reproductive success related to rub behavior in brown bears"
+type: pub
+---
+<h1>Publikasjon</h1>
+<article id="csl-bib-container-USP9A2XE" class="csl-bib-container">
+  <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
+  <div class="csl-entry">Morehouse, A. T., Loosen, A. E., Graves, T. A., &amp; Boyce, M. S. (2021). The smell of success: Reproductive success related to rub behavior in brown bears. <i>Plos One</i>, <i>16</i>(3), e0247964. <a href="https://doi.org/10.1371/journal.pone.0247964">https://doi.org/10.1371/journal.pone.0247964</a></div>
+</div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-USP9A2XE" class="csl-bib-button">Arkiv</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1979316" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/USP9A2XE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-USP9A2XE" class="csl-bib-button">Samandrag</a>
+  </div>
+  <div id="csl-bib-meta-container-USP9A2XE"></div>
+</article>
+<div id="csl-bib-meta-USP9A2XE" class="csl-bib-meta">
+  <article id="abstract-article-USP9A2XE" class="abstract-article">
+    <h1>Samandrag</h1>
+    Several species of bears are known to rub deliberately against trees and other objects, but little is known about why bears rub. Patterns in rubbing behavior of male and female brown bears ( Ursus arctos ) suggest that scent marking via rubbing functions to communicate among potential mates or competitors. Using DNA from bear hairs collected from rub objects in southwestern Alberta from 2011–2014 and existing DNA datasets from Montana and southeastern British Columbia, we determined sex and individual identity of each bear detected. Using these data, we completed a parentage analysis. From the parentage analysis and detection data, we determined the number of offspring, mates, unique rub objects where an individual was detected, and sampling occasions during which an individual was detected for each brown bear identified through our sampling methods. Using a Poisson regression, we found a positive relationship between bear rubbing behavior and reproductive success; both male and female bears with a greater number of mates and a greater number of offspring were detected at more rub objects and during more occasions. Our results suggest a fitness component to bear rubbing, indicate that rubbing is adaptive, and provide insight into a poorly understood behaviour.
+  </article>
+  <article id="taxonomy-article-USP9A2XE" class="taxonomy-article">
+    <h1>Arkiv</h1>
+    <ul>
+      <li>Høgskolen i Innlandet</li>
+      <li>Fakultet for anvendt økologi, landbruksfag og bioteknologi</li>
+      <li>Institutt for skog- og utmarksfag</li>
+      <li>2022</li>
+      <li>Januar</li>
+    </ul>
+  </article>
+</div>

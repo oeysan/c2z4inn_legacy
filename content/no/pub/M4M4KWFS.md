@@ -1,0 +1,28 @@
+---
+title: "An Epistemic Advantage of Accommodation over Prediction"
+type: pub
+---
+<h1>Publikasjon</h1>
+<article id="csl-bib-container-M4M4KWFS" class="csl-bib-container">
+  <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
+  <div class="csl-entry">Dells&#xE9;n, F. U. (2022). An Epistemic Advantage of Accommodation over Prediction. <i>Philosophers&#x2019; Imprint</i>. <a href="http://philsci-archive.pitt.edu/19298/1/Accommodationism%20Draft14.pdf">http://philsci-archive.pitt.edu/19298/1/Accommodationism%20Draft14.pdf</a></div>
+</div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-M4M4KWFS" class="csl-bib-button">Arkiv</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1967263" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/M4M4KWFS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+  </div>
+  <div id="csl-bib-meta-container-M4M4KWFS"></div>
+</article>
+<div id="csl-bib-meta-M4M4KWFS" class="csl-bib-meta">
+  <article id="taxonomy-article-M4M4KWFS" class="taxonomy-article">
+    <h1>Arkiv</h1>
+    <ul>
+      <li>Høgskolen i Innlandet</li>
+      <li>Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</li>
+      <li>Institutt for rettsvitenskap, filosofi og internasjonale studier</li>
+      <li>2021</li>
+      <li>Desember</li>
+    </ul>
+  </article>
+</div>

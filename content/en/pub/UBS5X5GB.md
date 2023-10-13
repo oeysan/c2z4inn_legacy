@@ -1,0 +1,69 @@
+---
+title: "Norskprøven fra papir til skjerm -Læreres oppfatninger om digitalisering av prøven i leseforståelse"
+type: pub
+---
+<h1>Publication</h1>
+<article id="csl-bib-container-UBS5X5GB" class="csl-bib-container">
+  <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
+  <div class="csl-entry">Randen, G. T., &amp; Heydari, G. (2021). Norskpr&#xF8;ven fra papir til skjerm -L&#xE6;reres oppfatninger om digitalisering av pr&#xF8;ven i leseforst&#xE5;else. In V. P&#xE1;jaro &amp; M. Monsen (Eds.), <i>Andrespr&#xE5;ksl&#xE6;ring hos voksne: vitenskapelige innsikter og didaktiske refleksjoner</i>. Cappelen Damm akademisk.</div>
+</div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-UBS5X5GB" class="csl-bib-button">Archive</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1994795" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/UBS5X5GB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#contributors-article-UBS5X5GB" class="csl-bib-button">Contributors</a>
+  </div>
+  <div id="csl-bib-meta-container-UBS5X5GB"></div>
+</article>
+<div id="csl-bib-meta-UBS5X5GB" class="csl-bib-meta">
+  <article id="contributors-article-UBS5X5GB" class="contributors-article">
+    <h1>Contributors</h1>
+    <div class="personas">
+<div class="vrtx-hinn-person-card">
+<div class="photo">
+<img src="data:image/jpeg;base64,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" alt="Gunhild Tveit Randen" loading="lazy">
+</div>
+<div class="info">
+<hgroup><h1>Gunhild Tveit Randen</h1>
+<h2>Associate Professor</h2>
+</hgroup><dl>
+<dt>Email</dt>
+<dd>
+<a href="mailto:gunhild.randen@inn.no">gunhild.randen@inn.no</a>
+</dd>
+<dt>Phone number</dt>
+<dd><a href="tel:+4762517887">
++47 62 51 78 87
+</a></dd>
+<dt>Mobile number</dt>
+<dd><a href="tel:+4740853629">
++47 408 53 629
+</a></dd>
+</dl>
+<p>
+Faculty of education<br>
+Department of Scandinavian Languages and Literature<br>
+Campus Hamar,
+Room 2C256-4
+</p>
+<ul class="vrtx-hinn-links">
+<li><a href="https://www.google.com/maps?q=60.79625,11.07386">Show on map</a></li>
+<li><a href="https://www.inn.no/english/find-an-employee/gunhild-randen.html#vrtx-hinn-addresses">See Addresses</a></li>
+<li><a href="https://www.inn.no/english/find-an-employee/gunhild-randen.html?vrtx=vcf">Download business card</a></li>
+</ul>
+</div>
+</div>
+<a href="https://app.cristin.no/persons/show.jsf?id=328387" alt="Cristin URL" class="personas-cristin">Cristin</a>
+</div>
+  </article>
+  <article id="taxonomy-article-UBS5X5GB" class="taxonomy-article">
+    <h1>Archive</h1>
+    <ul>
+      <li>Inland Norway University of Applied Sciences</li>
+      <li>Faculty of Education</li>
+      <li>Department of Scandinavian Languages and Literature</li>
+      <li>2022</li>
+      <li>January</li>
+    </ul>
+  </article>
+</div>

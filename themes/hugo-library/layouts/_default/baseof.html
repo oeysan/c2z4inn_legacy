@@ -1,0 +1,59 @@
+{{ $versionParts := split .Site.Params.version "." }}
+{{ $majorMinorVersion := slice (index $versionParts 0) (index $versionParts 1) }}
+
+{{ if ne (printf "%s.%s" (index $majorMinorVersion 0) (index $majorMinorVersion 1)) "0.1" }}
+  {{ errorf "\n\nCheck your theme version\n" }}
+{{ end }}
+<!DOCTYPE html>
+<html lang="{{ .Site.Language }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>
+    {{ block "title" . }}
+      {{ if or .IsHome (not .Title) }}
+        {{ $.Site.Title }}{{ with $.Site.Params.subtitle }} - {{ . }}{{ end }}
+      {{ else }}
+        {{ $.Site.Title }} - {{ .Title }}
+      {{ end }}
+    {{ end }}  
+  </title>
+  {{ partial "head.html" . }} <!-- Include partial for head section -->
+</head>
+<body>
+  <!-- Loader animation -->
+  <div id="loader-container">
+    <img id="logo" src="{{ .Site.BaseURL }}images/logo.svg" alt="Logo">
+  </div>
+  <!-- Main HTML -->
+  <main id="main">
+    
+    <!-- Start Wrapper -->
+    <section id="wrapper">
+      
+      <!-- Header -->
+      {{ partial "header.html" . }}
+
+      <!-- Content -->
+      <article id="content"> 
+        {{ block "main" . }}{{ end }}
+      </article>
+
+    </section>
+    <!-- End Wrapper -->
+    
+    <!-- Footer -->
+    {{ partial "footer.html" . }}
+    <div class="back-to-top" id="back-to-top">
+      <i class="las la-angle-up" title="Back to the top"></i>
+    </div>
+    <!-- Popup -->
+    <div id="popup" class="popup">
+      <div class="popup-content">
+        <span id="popup-text"></span>
+      </div>
+    </div>
+  </main>
+  {{ partial "scripts.html" . }}
+</body>
+</html>

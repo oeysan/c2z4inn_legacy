@@ -1,0 +1,35 @@
+@use '_utils/_serve' as *;
+#footer {
+  height: 80px;
+  margin-top: -80px;
+  overflow: hidden;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: $global-background;
+  color: $global-font-color;
+  padding: 0;
+  text-align: center;
+
+  span {
+    color: $global-font-color;
+  }
+
+  a {
+    transition: color 0.3s;
+    font-weight: bolder;
+    color: $global-primary-color;
+  }
+
+  a:hover {
+    color: $global-flashy;
+  }
+
+  #github {
+    position: relative;
+    top: 3px;
+    font-size: 150%;
+  }
+
+}

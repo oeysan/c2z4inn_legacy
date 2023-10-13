@@ -1,0 +1,92 @@
+theme: "hugo-library"
+baseURL: "http://localhost:4321/"
+defaultContentLanguage: "no"
+defaultContentLanguageInSubdir: true
+disableFastRender: true
+disablePathToLower: true
+languages:
+  "no":
+    title: "INN-arkivet"
+    weight: 1
+    contentDir: "content/no"
+    disabled: false
+    languageCode: nn-NO
+    languageDirection: ltr
+    languageName: Norsk
+    menu:
+      main:
+      - name: Oversikt
+        url: "/no/overview"
+        weight: 10
+      - name: Arkivet
+        url: "/no/archive"
+        weight: 20
+      - name: English
+        identifier: "change-lang"
+        url: "en"
+        weight: 30
+    params:
+      subtitle: eit Zotero-bibliotek for INN
+  en:
+    title: The INN Archive
+    weight: 2
+    contentDir: "content/en"
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
+    menu:
+      main:
+      - name: Overview
+        url: "/en/overview"
+        weight: 10
+      - name: Archive
+        url: "/en/archive"
+        weight: 20
+      - name: Norsk
+        identifier: "change-lang"
+        url: "no"
+        weight: 30
+    params:
+      subtitle: a Zotero library for INN
+      footer: Bam!
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+frontmatter:
+  ignoreFiles:
+    - \.Rmd$
+    - \.Rmarkdown$
+    - \.Rtex$
+
+disableKinds:
+  - "taxonomy"
+  - "term"
+  
+taxonomies:
+  category: "categories"
+  tag: "tags"
+
+params:
+  version: "0.1.0"
+  subfolder: "/"
+  keywords: 
+  - "Hugo"
+  - "theme"
+  - "library"
+  - "Zotero"
+  description: "Hugo Library theme"
+  customJS: []
+  customCSS: []
+  CDN: 
+  - "https://cdn.jsdelivr.net/npm/line-awesome@1.3.0/dist/line-awesome/css/line-awesome.min.css"
+  - "https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"
+  - "https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"
+  charts:
+    - "about"
+    - "sdg_doughnut"
+    - "sdg_units"
+  image: "sdg"

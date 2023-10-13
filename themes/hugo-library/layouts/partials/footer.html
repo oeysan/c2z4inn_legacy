@@ -1,0 +1,11 @@
+<footer id="footer">
+  {{ with .Site.GetPage "section" "footer" }}
+    {{ .Content }}
+  {{ else }}
+    {{ with .Site.Params.footer }}
+      <p>{{ . }}</p>
+    {{ else }}
+      <a href="https://github.com/oeysan/hugo-library">Hugo Library</a>
+    {{ end }}
+  {{ end }}
+</footer>

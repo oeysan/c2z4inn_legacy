@@ -1,0 +1,80 @@
+---
+title: "The Pedagogue and the Poetic - Kristeva and the Quest for Singularity in Education."
+type: pub
+---
+<h1>Publikasjon</h1>
+<article id="csl-bib-container-W73P8AIN" class="csl-bib-container">
+  <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
+  <div class="csl-entry">Myklestad, S. (2022). <i>The Pedagogue and the Poetic - Kristeva and the Quest for Singularity in Education.</i> [Journal article]. Zenodo. <a href="https://doi.org/10.5281/ZENODO.7451812">https://doi.org/10.5281/ZENODO.7451812</a></div>
+</div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-W73P8AIN" class="csl-bib-button">Arkiv</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2097679" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/W73P8AIN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-W73P8AIN" class="csl-bib-button">Samandrag</a>
+    <a href="#contributors-article-W73P8AIN" class="csl-bib-button">Medverkande</a>
+    <a href="#sdg-article-W73P8AIN" class="csl-bib-button">Berekraftsmål</a>
+  </div>
+  <div id="csl-bib-meta-container-W73P8AIN"></div>
+</article>
+<div id="csl-bib-meta-W73P8AIN" class="csl-bib-meta">
+  <article id="abstract-article-W73P8AIN" class="abstract-article">
+    <h1>Samandrag</h1>
+    In this article, I argue that Julia Kristeva&amp;rsquo;s concepts of semiotization and transubstantiation may contribute both to an understanding of the way in which the human subject might realize itself, and to the way in which educational institutions may serve as keepers of such a notion of humanity. To focus the human subject is urgent in a time of various neo-liberal pressures &amp;ndash; including the area of education. Mechanisms of effectivization and standardization in education are unable to bring forth the singularity of the human being. Inspired by the Russian Futurists and their word-creation, I follow up on the theoretical discussion with a classroom exercise for students, that potentially provides them with a space to begin the process of exploring (regaining) their semiotic selves and their potential to experience and share human singularity.
+  </article>
+  <article id="contributors-article-W73P8AIN" class="contributors-article">
+    <h1>Medverkande</h1>
+    <div class="personas">
+<div class="vrtx-hinn-person-card">
+<div class="photo">
+<img src="data:image/jpeg;base64,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" alt="Synnøve Myklestad" loading="lazy">
+</div>
+<div class="info">
+<hgroup><h1>Synnøve Myklestad</h1>
+<h2>Førsteamanuensis</h2>
+<p>Underviser i hovedsak i spesialpedagogikk (bachelor, master og PhD)</p>
+</hgroup><dl>
+<dt>E-post</dt>
+<dd>
+<a href="mailto:synnove.myklestad@inn.no">synnove.myklestad@inn.no</a>
+</dd>
+<dt>Telefonnummer</dt>
+<dd><a href="tel:+4761288091">
++47 61 28 80 91
+</a></dd>
+</dl>
+<p>
+Fakultet for lærerutdanning og pedagogikk<br>
+Institutt for pedagogikk – Lillehammer<br>
+Studiested Lillehammer
+</p>
+<ul class="vrtx-hinn-links">
+<li><a href="https://www.inn.no/finn-en-ansatt/synnove-myklestad.html#vrtx-hinn-addresses">Se adresser</a></li>
+<li><a href="https://www.inn.no/finn-en-ansatt/synnove-myklestad.html?vrtx=vcf">Last ned visittkort</a></li>
+</ul>
+</div>
+</div>
+<a href="https://app.cristin.no/persons/show.jsf?id=34530" alt="Cristin URL" class="personas-cristin">Cristin</a>
+</div>
+  </article>
+  <article id="sdg-article-W73P8AIN" class="sdg-article">
+    <h1>Berekraftsmål</h1>
+    <div class="sdg-container"><div id="sdg4" class="sdg">
+<img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
+<div class="sdg-overlay">
+<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
+</div>
+</div></div>
+  </article>
+  <article id="taxonomy-article-W73P8AIN" class="taxonomy-article">
+    <h1>Arkiv</h1>
+    <ul>
+      <li>Høgskolen i Innlandet</li>
+      <li>Fakultet for lærerutdanning og pedagogikk</li>
+      <li>Institutt for pedagogikk – Lillehammer</li>
+      <li>2022</li>
+      <li>Desember</li>
+    </ul>
+  </article>
+</div>

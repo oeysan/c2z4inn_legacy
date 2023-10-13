@@ -1,0 +1,77 @@
+baseURL: "/"
+defaultContentLanguage: "no"
+defaultContentLanguageInSubdir: true
+disableFastRender: true
+disablePathToLower: true
+languages:
+  "no":
+    contentDir: "content/no"
+    disabled: false
+    languageCode: nn-NO
+    languageDirection: ltr
+    languageName: Norsk
+    menu:
+      main:
+      - name: Oversikt
+        url: "/no/overview"
+        weight: 10
+      - name: Arkivet
+        url: "/no/archive"
+        weight: 20
+      - name: Engelsk
+        identifier: "change-lang"
+        url: "en"
+        weight: 30
+    params:
+      subtitle: eit Cristin-bibliotek for INN
+    title: Arkivet
+    weight: 1
+  en:
+    contentDir: "content/en"
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
+    menu:
+      main:
+      - name: Overview
+        url: "/en/overview"
+        weight: 10
+      - name: Arkivet
+        url: "/en/archive"
+        weight: 20
+      - name: Norsk
+        identifier: "change-lang"
+        url: "no"
+        weight: 30
+    params:
+      subtitle: a Cristin library for INN
+    title: The Archive
+    weight: 2
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+frontmatter:
+  ignoreFiles:
+    - \.Rmd$
+    - \.Rmarkdown$
+    - \.Rtex$
+
+disableKinds:
+  - "taxonomy"
+  - "term"
+  
+taxonomies:
+  category: "categories"
+  tag: "tags"
+
+params:
+  version: "1.0"
+  charts:
+    - "about"
+    - "sdg_doughnut"
+    - "sdg_units"
+  image: "sdg"

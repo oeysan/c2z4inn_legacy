@@ -1,0 +1,35 @@
+<section id="overview">
+    <article> 
+        {{ if .Site.Params.charts }}
+        <div id="chart-container" class="left">
+            <div class="graph">
+                <div class="slideshow-container">
+                    {{ $totalSlides := len .Site.Params.charts }}
+                    <!-- Add your graph content here -->
+                    {{ range $index, $chart := .Site.Params.charts }}
+                    {{ with $.Site.GetPage $chart }}
+                    <div class="chart">{{ .Content }}
+                        <div class="numbertext">{{ add $index 1 }} / {{ $totalSlides }}
+                            <span class="fullscreen-toggle hidden">
+                                | <span data-i18n="fullscreen">Full screen</span>
+                            </span>
+                        </div>
+                    </div>
+                    {{ end }}
+                    {{ end }}
+                    <a class="slideshow-previous slideshow-buttons"><i class="las la-arrow-circle-left"></i></a>
+                    <a class="slideshow-next slideshow-buttons"><i class="las la-arrow-circle-right"></i></a>
+                </div>     
+            </div>
+        </div>
+        {{ end }}
+        
+        <!-- Add your image content here -->
+        {{ if .Site.Params.image }}
+        <div class="right">
+        {{ $headless := .Site.GetPage .Site.Params.image }}
+        {{ with $headless.Content -}} {{.}} {{ end -}}
+        </div>
+        {{ end }}
+    </article>
+</section>

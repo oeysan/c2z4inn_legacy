@@ -1,0 +1,17 @@
+---
+headless: true
+output: 
+  html_document:
+    keep_md: true
+    preserve_yaml: true
+---
+
+```{r knitrrrr, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  out.width = "100%"
+)
+```
+
+`r params$html`

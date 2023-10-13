@@ -1,0 +1,101 @@
+<meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<!-- author & description & keywords  -->
+<meta name="author" content="{{ if .Params.author }}{{ .Params.author | safeHTML }}{{ else }}{{ .Site.Author.name | safeHTML }}{{ end }}" />
+
+{{- if .Description -}}
+  <meta name="description" content="{{ .Description | safeHTML }}" />
+{{- else if .IsPage -}}
+  <meta name="description" content="{{ .Summary | plainify }}" />
+{{- else if .Site.Params.description -}}
+  <meta name="description" content="{{ .Site.Params.description | safeHTML }}" />
+{{- end -}}
+
+{{- if .Keywords -}}
+  {{ $length := len .Keywords | add -1 -}}
+  <meta name="keywords" content="{{ range $index, $element := .Keywords }}{{ $element | safeHTML }}{{if ne $index $length }}, {{ end }}{{ end }}" />
+{{- else if .Site.Params.keywords -}}
+  {{ $length := len .Site.Params.keywords | add -1 -}}
+  <meta name="keywords" content="{{ range $index, $element := .Site.Params.keywords }}{{ $element | safeHTML }}{{if ne $index $length }}, {{ end }}{{ end }}" />
+{{- end }}
+
+<!-- Site Generator -->
+<meta name="generator" content="Hugo {{ .Site.Hugo.Version }} with Hugo Library theme" />
+
+<!-- Permalink & RSSlink -->
+<link rel="canonical" href="{{ .Permalink }}" />
+{{- with .OutputFormats.Get "RSS" }}
+<link href="{{ .Permalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
+<link href="{{ .Permalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
+{{- end -}}
+
+<!-- Favicon and Touch icons -->
+<link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | relURL }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon-16x16.png" | relURL }}">
+<link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
+<link rel="mask-icon" href="{{ "safari-pinned-tab.svg" | relURL }}" color="#054707">
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="theme-color" content="#054707">
+
+<!-- Main CSS -->
+{{ $options := dict 
+  "targetPath" "/css/main.css" 
+  "transpiler" "dartsass" 
+  "vars" (dict
+    "subfolder" site.Params.subfolder 
+  )  
+}}
+{{ with resources.Get "sass/main.scss" | resources.ToCSS $options | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" />
+{{ end }}
+
+<!-- Custom CSS -->
+{{ range .Site.Params.customCSS -}}
+  {{ $inputPath := printf "css/%s.css" . }}
+  {{ $outputPath := printf "/css/%s.css" . }}
+  {{ $cssResource := resources.Get $inputPath }}
+  {{ if $cssResource }}
+    {{ $options := dict "targetPath" $outputPath }}
+    {{ with $cssResource | resources.ToCSS $options | resources.Minify | resources.Fingerprint }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+<!-- Custom CDN -->
+{{ range .Site.Params.CDN }}
+  {{ $cdnURL := . }}
+  {{ $isCSS := strings.HasSuffix $cdnURL "css" }}
+  {{ if $isCSS }}
+    <!-- If the CDN entry contains "css", generate <link> tag for stylesheets -->
+    <link rel="stylesheet" href="{{ $cdnURL }}">
+  {{ else }}
+    <!-- If the CDN entry does not contain "css", generate <script> tag for JavaScript -->
+    <script src="{{ $cdnURL }}"></script>
+  {{ end }}
+{{ end }}
+
+<!-- Utils Functions -->
+{{ $utils := resources.Get "js/utils.js" }}
+{{ $js := slice $utils | resources.Concat "js/utils.js" | resources.Minify | resources.Fingerprint }}
+<script type="text/javascript" src="{{ $js.RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+
+<!-- Global Variables -->
+<script>
+var baseURL = "{{ .Site.BaseURL }}";
+var defaultContentLanguage = "{{ .Site.Language }}";
+var charts = [];
+const storedPreference = getCookie("viewMode");
+var isDarkMode;
+
+if (storedPreference !== null) {
+    isDarkMode = storedPreference === "dark"; // Use the stored preference if available
+} else {
+    // Check the browser's preference
+    isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
+}
+</script>

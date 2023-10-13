@@ -1,0 +1,73 @@
+@use '_utils/_serve' as *;
+@use 'sass:math';
+html {
+  font-size: $global-font-size;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: $global-font-family;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: $global-lineheight;
+  color: $global-font-color;
+  scroll-behavior: smooth;
+  background-size: 40px 40px;
+  background-color: $global-background;
+  overflow: hidden;
+}
+
+@include max-screen() {
+  body {
+    border-top: 0;
+  }
+}
+
+::selection {
+  background: $global-flashy;
+  color: #fff; 
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: inline-block;
+  vertical-align: middle;
+  transition: transform 0.3s ease-out, opacity 0.3s ease-out;
+}
+
+a {
+  color: $global-font-color;
+  text-decoration: none;
+}
+
+@each $header, $size in $global-headings {
+  #{$header} {
+    font-size: $size;
+    font-family: $global-serif-font-family;
+    color: $global-heading-color;
+  }
+}
+
+#wrapper {
+  min-height: calc(100vh - 80px);
+  margin: 0 auto;
+}
+
+#content {
+  margin: 80px auto !important;
+}
+
+#content section article {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.hidden {
+  display: none !important;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}

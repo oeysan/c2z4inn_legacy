@@ -1,0 +1,214 @@
+// ==============================
+// Archive
+// =============================
+@use '_utils/_serve' as *;
+#content {
+
+  #archive {
+    min-height: calc(100vh - 80px); 
+    padding: 20px;
+    overflow-y: hidden;
+    animation: fadeIn 1 1s ease-out;
+    overflow-x: hidden;
+    box-shadow: none !important;
+    margin: 0 auto;
+  }
+  
+  #archive article {
+    background-color: $global-background;
+    color: $global-font-color;
+    border: 1px solid #000; /* Add a border around the page */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add a subtle shadow effect */
+    padding: 1cm;
+  }
+
+  #archive #data-container article {
+    box-shadow: none;
+    border: none;
+  }
+  
+  #archive article a {
+    color: $global-flashy;
+  }
+
+  #archive a:hover {
+    text-decoration: underline;
+  }
+
+  #more-results {
+    margin: 50px auto 0 auto;
+    text-align: center;
+  }
+
+  #archive-buttons {
+  
+  }
+  
+  .reset-button, .copy-button, .copy-pub {
+    font-size: 30px;
+  }
+
+  .copy-pub {
+    position: relative;
+    top: 8px;
+  }
+
+  .reset-button:hover, .copy-button:hover, .copy-pub:hover {
+    color: $global-flashy;
+  }
+
+
+  /* Style the select element */
+  select, button {
+    /* Remove default browser styles */
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    /* Add your custom styles */
+    padding: 10px;
+    border: 1px solid $global-secondary-color;
+    background-color: $global-background;
+    color: $global-font-color;
+    max-width: 200px;
+    width: 100%;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }  
+
+  option:hover {
+    background-color: $global-flashy !important;
+    color: $white !important;
+}
+  select:hover, button:hover {
+    background-color: $global-flashy;
+    color: $white;
+  }
+
+  /* Style the select arrow icon (you may need to use an image) */
+  select::-ms-expand {
+    display: none; /* Remove arrow icon in IE */
+  }
+  select::after {
+    content: '\25BC'; /* Unicode character for down arrow */
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none; /* Prevent clicking on the arrow */
+  }
+
+  /* Style the options in the dropdown */
+  select option {
+    background-color: $global-background;
+    color: $global-font-color;
+    font-size: 16px;
+  }
+
+  .search-container {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    background-color: $global-background;
+    border: 1px solid $global-secondary-color;
+    width: 100%;
+    max-width: 500px;
+    margin: 5px auto;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: relative;
+    left: 5px;
+  }
+
+
+  #search::placeholder {
+    color: $global-flashy;
+    opacity: 1; /* Firefox */
+    margin: 0;
+    padding: 0;
+    font-weight: bolder;
+  }
+  
+  #search::-ms-input-placeholder { /* Edge 12 -18 */
+    color: $global-flashy;
+    margin: 0;
+    padding: 0;
+  }
+
+  #search {
+    flex: 1;
+    border: none;
+    background-color: $global-background;
+    color: $global-font-color;
+    outline: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding: 10px !important;
+    width: 100% !important;
+  }
+
+
+  #filters {
+    text-align: center;
+  }
+
+  #filters select {
+    margin: 5px;
+  }
+
+  .show-results {
+    margin: 20px;
+    display: block;
+    text-align: center;
+  }
+
+  .show-results .count {
+    font-weight: bolder;
+  }
+
+  .csl-bib-buttons {
+    margin: 0 0 20px 0 !important;
+    padding: 0 !important;
+    text-indent: 0 !important;
+    text-align: right;
+  }
+
+  .csl-bib-button {
+    display: inline-block;
+    font-size: .875rem;
+    text-decoration: none;
+    line-height: 2rem;
+    background-color: $global-background;
+    border: 1px solid $global-secondary-color;
+    color: $global-font-color !important;
+    border-radius: .25rem;
+    cursor: pointer;
+    margin: 3px !important;
+    padding: 0 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .csl-bib-button:hover, .csl-bib-button.active {
+    text-decoration: none !important;
+    background-color: $global-flashy;
+    color: white !important;
+  }
+
+    /* CSS for the spinning loader */
+  .page-loader {
+    border: 4px solid rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    border-top: 4px solid #3498db;
+    width: 30px;
+    height: 30px;
+    animation: spin 2s linear infinite;
+    margin: 20px auto;
+  }
+
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+}
+

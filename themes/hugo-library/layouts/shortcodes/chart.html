@@ -1,0 +1,20 @@
+{{ $w := default "100%" (.Get 0) }}
+{{ $h := default "500px" (.Get 1) }}
+{{ $r := ( .Inner | chomp) }}
+{{ $seed := "foo" }}
+{{ $id := delimit (shuffle (split (md5 $seed) "" )) "" }}
+
+<div id="chart-container-{{ $id }}" class="chartjs" style="width: {{ $w }};height: {{ $h }};">
+    <canvas id="chart-{{ $id }}"></canvas>
+</div>
+
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () { 
+        var options = {{ $r | safeJS }};
+        charts.push({ 
+            containerId:  'chart-container-{{ $id }}', 
+            chartId: 'chart-{{ $id }}', 
+            options: options
+        });
+    });
+</script>

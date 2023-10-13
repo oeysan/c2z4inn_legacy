@@ -1,0 +1,174 @@
+// ==============================
+// Publications
+// =============================
+@use '_utils/_serve' as *;
+
+
+#publications {
+    a {
+        color: $global-flashy;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+}
+
+
+#data-container {
+	.sdg-article a {
+		color: $white !important;
+	}
+
+	.sdg-article a:hover {
+		text-decoration: none !important;
+	}
+
+
+}
+
+.csl-bib-meta {
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 0;
+
+	article {
+		margin: 20px 0 20px 0 !important;
+		padding: 0 !important;
+	}
+
+	
+	.sdg-container {
+		display: flex !important;
+		flex-wrap: wrap !important;
+		justify-content: left !important;
+		align-items: left !important;
+		width: 100% !important;
+	}
+
+	.personas {
+		position: relative;
+
+		.vrtx-hinn-person-card {
+			display: flex;
+			margin: 30px 0;
+			padding: 1em;
+			background-color: $global-background-lite;
+			border: 1px solid $black;
+            display: flex;
+            position: relative; 
+
+			.missing-person {
+				font-size: 140px;
+				position: relative;
+				right: 5px;
+				color: $global-flashy;
+			}
+    
+            .photo {
+				margin-top: 10px;
+           		width: 150px !important;
+            }
+
+            .photo img {
+                max-width: 90%;
+                max-height: 90%;
+                width: auto;
+                height: auto;
+            }
+
+			
+            .info {
+                flex: 1;
+                position: relative;
+            }
+
+			dt {
+				display: inline-block;
+				margin: 0;
+			}
+
+			dd {
+				display: inline;
+				margin: 0;
+			}
+
+			dt::after {
+				content: ":";
+			}
+
+			dd::after {
+				content: "\A";
+				white-space: pre;
+			}
+
+
+			h1,
+			h2 {
+				margin-top: 0;
+				font-size: 150%;
+			}
+
+			.vrtx-hinn-links {
+				list-style-type: none;
+				display: inline;
+			}
+
+			.vrtx-hinn-links li {
+				display: inline;
+				margin: 10px;
+			}
+		}
+
+		.personas-cristin {
+			position: absolute;
+			top: 20px;
+			right: 20px;
+			display: block;
+			font-size: .875rem;
+			text-decoration: none;
+			line-height: 2rem;
+			background-color: $global-background;
+			border: 1px solid $global-secondary-color;
+			color: $global-font-color !important;
+			border-radius: .25rem;
+			cursor: pointer;
+			margin: 3px !important;
+			padding: 0 1rem;
+			box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+		}
+
+		.personas-cristin:hover {
+			text-decoration: none !important;
+			background-color: $global-flashy;
+			color: white !important;
+		}
+	}
+
+}
+
+
+@media screen and (max-width: 768px) {
+
+	#publications {
+		padding: 0 20px;
+	}
+
+	.personas-cristin {
+		position: fixed;
+		top: 0;
+		right: 0;
+	}
+
+	.vrtx-hinn-person-card {
+        flex-direction: column; /* Stack items vertically */
+        align-items: center; /* Center items horizontally */
+        text-align: center; /* Center text */
+    }
+
+    .vrtx-hinn-person-card .photo {
+        margin-bottom: 1em; /* Add some space between the image and info */
+    }
+
+}
+

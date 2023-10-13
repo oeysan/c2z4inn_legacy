@@ -1,0 +1,28 @@
+---
+title: "Global Self-Worth among Adolescents: The Role of Basic Psychological Need Satisfaction in Physical Education"
+type: pub
+---
+<h1>Publikasjon</h1>
+<article id="csl-bib-container-BQVQPKCJ" class="csl-bib-container">
+  <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
+  <div class="csl-entry">Erdvik, I. B., Haugen, T., Ivarsson, A., &amp; S&#xE4;fvenbom, R. (2019). Global Self-Worth among Adolescents: The Role of Basic Psychological Need Satisfaction in Physical Education. <i>Scandinavian Journal of Educational Research</i>. <a href="https://doi.org/10.1080/00313831.2019.1600578">https://doi.org/10.1080/00313831.2019.1600578</a></div>
+</div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-BQVQPKCJ" class="csl-bib-button">Arkiv</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1690922" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/BQVQPKCJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+  </div>
+  <div id="csl-bib-meta-container-BQVQPKCJ"></div>
+</article>
+<div id="csl-bib-meta-BQVQPKCJ" class="csl-bib-meta">
+  <article id="taxonomy-article-BQVQPKCJ" class="taxonomy-article">
+    <h1>Arkiv</h1>
+    <ul>
+      <li>Høgskolen i Innlandet</li>
+      <li>Fakultet for helse- og sosialvitenskap</li>
+      <li>Institutt for folkehelse- og idrettsvitenskap</li>
+      <li>2019</li>
+      <li>April</li>
+    </ul>
+  </article>
+</div>

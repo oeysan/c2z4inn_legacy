@@ -1,0 +1,87 @@
+---
+title: "De vegetatie van Nederland - 6. Mossen- en korstmossengemeenschappen"
+type: pub
+---
+<h1>Publication</h1>
+<article id="csl-bib-container-MM9G26RW" class="csl-bib-container">
+  <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
+  <div class="csl-entry">van Dort, K., van Gennip, B., &amp; Schrijvers-Gonlag, M. (2017). <i>De vegetatie van Nederland - 6. Mossen- en korstmossengemeenschappen</i>. KNNV Publishers.</div>
+</div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-MM9G26RW" class="csl-bib-button">Archive</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1513552" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/MM9G26RW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-MM9G26RW" class="csl-bib-button">Abstract</a>
+    <a href="#contributors-article-MM9G26RW" class="csl-bib-button">Contributors</a>
+    <a href="#sdg-article-MM9G26RW" class="csl-bib-button">Sustainable Development Goals</a>
+  </div>
+  <div id="csl-bib-meta-container-MM9G26RW"></div>
+</article>
+<div id="csl-bib-meta-MM9G26RW" class="csl-bib-meta">
+  <article id="abstract-article-MM9G26RW" class="abstract-article">
+    <h1>Abstract</h1>
+    Mossen- en korstmossengemeenschappen van Nederland. 
+ 
+In moeras, bos en hei, op kerkmuren, zeedijken en dakpannen, haast overal geven mossen en korstmossen kleur aan onze leefomgeving. Net als vaatplanten groeien soorten met overeenkomstige milieueisen bij elkaar: ze vormen gemeenschappen. Deze gids geeft een beeld van alle tot nu toe onbelicht gebleven gemeenschappen van mossen en/of korstmossen in Nederland. De diversiteit zal u verbazen! 
+ 
+'De vegetatie van Nederland deel 6' brengt voor het eerst alle in Nederland waargenomen gemeenschappen van mossen en korstmossen in één overzicht samen. Het boek behandelt alle aquatische, epilitische, epifytische en terrestrische associaties, verdeeld over 16 klassen. De soortensamenstelling is per klasse weergegeven in synoptische tabellen. Ook alle associaties zijn met vegetatieopnamen onderbouwd en in tabelvorm opgenomen. 
+•Inleiding met definities en naamgeving, relatie met andere plantengemeenschappen, het bryolichenologisch complex, substraat, milieu, microbiotopen, ecologische indicatiegetallen en opnamemethodiek 
+•Beschrijvingen van alle Nederlandse mossen- en korstmossengemeenschappen (vanaf 1990) 
+•Per klasse: diagnostische soorten, ecologie, successie, natuurwaarde en trend, syntaxonomische indeling, verschil met andere klassen 
+•Synoptische tabel: soortensamenstelling met alle ken- en diagnostische soorten 
+•Determinatie met behulp van dichotome sleutels, kenmerkende soortcombinaties en eigenschappen zoals substraat en groeiplaats 
+•Per (sub)associatie informatie zoals kensoorten, ecologie en verspreiding in Nederland 
+•Per associatie een tabel met 10 floristiek karakteristieke opnamen met wetenschappelijke en Nederlandse soortnamen 
+ 
+Het boek sluit hiermee aan op de eerdere delen van De vegetatie van Nederland. Een uniek naslagwerk voor bryologen, lichenologen en natuurbeheerders. Ook prima toegankelijk voor amateurs en liefhebbers.
+  </article>
+  <article id="contributors-article-MM9G26RW" class="contributors-article">
+    <h1>Contributors</h1>
+    <div class="personas">
+<div class="vrtx-hinn-person-card">
+<div class="photo">
+<i class="lar la-user-circle missing-person"></i>
+</div>
+<div class="info">
+<hgroup><h1>Marcel Schrijvers-Gonlag</h1>
+<h2>Technician</h2>
+</hgroup><dl>
+<dt>Email</dt>
+<dd>
+<a href="mailto:marcel.schrijversgonlag@inn.no">marcel.schrijversgonlag@inn.no</a>
+</dd>
+</dl>
+<p>
+Faculty of Applied Ecology, Agricultural Sciences and Biotechnology<br>
+Campus Evenstad
+</p>
+<ul class="vrtx-hinn-links">
+<li><a href="https://www.inn.no/english/find-an-employee/marcel-schrijversgonlag.html#vrtx-hinn-addresses">See Addresses</a></li>
+<li><a href="https://www.inn.no/english/find-an-employee/marcel-schrijversgonlag.html?vrtx=vcf">Download business card</a></li>
+</ul>
+</div>
+</div>
+<a href="https://app.cristin.no/persons/show.jsf?id=515404" alt="Cristin URL" class="personas-cristin">Cristin</a>
+</div>
+  </article>
+  <article id="sdg-article-MM9G26RW" class="sdg-article">
+    <h1>Sustainable Development Goals</h1>
+    <div class="sdg-container"><div id="sdg14" class="sdg">
+<img src="{{< params subfolder >}}images/sdg/sdg14_en.png" class="image" alt="SDG 14">
+<div class="sdg-overlay">
+<p class="sdg-publication-count"><span>41</span> Publications</p>
+<p><a href="https://sdgs.un.org/goals/goal14" class="sdg-read-more">Read More</a></p>
+</div>
+</div></div>
+  </article>
+  <article id="taxonomy-article-MM9G26RW" class="taxonomy-article">
+    <h1>Archive</h1>
+    <ul>
+      <li>Inland Norway University of Applied Sciences</li>
+      <li>Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</li>
+      <li>Department of Forestry and Wildlife Management</li>
+      <li>2017</li>
+      <li>November</li>
+    </ul>
+  </article>
+</div>
