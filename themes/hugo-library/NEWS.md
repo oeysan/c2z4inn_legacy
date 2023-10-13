@@ -1,3 +1,7 @@
+# Hugo Library 0.1.3
+
+* Removed rouge `s` from `scripts.html`
+
 # Hugo Library 0.1.2
 
 * Removed a rouge shortcode in `no/footer.md`

@@ -24,13 +24,15 @@ style="width:200px;text-align:center;margin:0 auto;"/></a>
 
 # Hugo Library for INN University
 
-This githoub repository contains the source code for an archive for scientific 
+This GitHub repository contains the source code for an archive for scientific 
 publications at Inland Norway University of Applied Sciences 
 (registered in Cristin since the institution was established on January 1, 2017).
 
 ```{r update, include=FALSE}
+setwd(dirname(rstudioapi::getSourceEditorContext()$path))
+source("backend.R")
 updated <- format(Sys.time(), "%m-%d-%Y (at %H:%M)")
-n <- length(list.files("content/en/pub/"))
+n <- length(MdFiles("content/en/pub/"))
 ```
 
 The archive was last updated **`r updated`** and contains **`r n`** publications.

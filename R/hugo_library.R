@@ -44,7 +44,7 @@ SdgUnits("en")
 # Render README
 RenderSave("README.Rmd", remove.blank = FALSE)
 
-commit.name <- "Initial launch"
+commit.name <- "Refresh commit"
 branch.name <- "main"
 
 init <- system(
