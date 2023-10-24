@@ -25,15 +25,13 @@
       justify-content: center;
       align-items: center;
       position: relative;
-    }
+  }
     
   #overview article {
     display: grid;
     box-shadow: none;
     grid-gap: 100px;
-    max-width: 100%;
   }
-
 
   #overview article .left {
     display: flex;

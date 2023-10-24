@@ -16,7 +16,7 @@ Denne nettsida fungerer som eit arkiv for vitskaplege publikasjonar ved
 Høgskulen i Innlandet (registert i Cristin frå instutisjonen vart oppretta 1. 
 januar, 2017). Den vert oppdatert månadleg.
 
-Arkivet vart sist oppdatert **10-24-2023 (at 13:29)** og inneheld **4198** publikasjonar.
+Arkivet vart sist oppdatert **10-24-2023 (at 20:50)** og inneheld **4199** publikasjonar.
 
 Bruk [arkivet](#archive) for å finne publikasjonar for fakultet og institutt ved 
 høgskulen for år eller månad. Du kan òg bruke søkefunksjonen til å finne 

@@ -16,7 +16,7 @@ project.
  * [Chart.js](https://www.chartjs.org/) charting library
  * i18n (currently Norwegian and English)
 
-# Versioning (0.1.4)
+# Versioning (0.1.5)
 
 The theme uses a semantic versioning (Major.Minor.Patch), where breaking changes
 may occur at both new major and minor versions but not with patches. Thus, Hugo

@@ -5,6 +5,8 @@
 
 
 #publications {
+	max-width: 1000px;
+	margin: 0 auto;
     .personas a {
         color: $global-flashy;
     }
@@ -23,8 +25,6 @@
 	.sdg-article a:hover {
 		text-decoration: none;
 	}
-
-
 }
 
 .csl-bib-meta {
@@ -37,7 +37,6 @@
 		padding: 0;
 	}
 
-	
 	.sdg-container {
 		display: flex;
 		flex-wrap: wrap;
