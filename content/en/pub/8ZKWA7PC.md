@@ -1,5 +1,5 @@
 ---
-title: "Lead exposure in American black bears increases with age and big game harvest density"
+title: "8ZKWA7PC"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8ZKWA7PC" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2068813" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/8ZKWA7PC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-8ZKWA7PC" class="csl-bib-button">Contributors</a>
+    <a href="https://brage.inn.no/inn-xmlui/bitstream/11250/3036961/4/Brown%20et%20al%202022.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-8ZKWA7PC"></div>
 </article>

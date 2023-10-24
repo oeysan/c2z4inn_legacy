@@ -1,5 +1,5 @@
 ---
-title: "Prolonged Heat Acclimation and Aerobic Performance in Endurance Trained Athletes"
+title: "JE5BQQYP"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JE5BQQYP" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1782212" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JE5BQQYP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JE5BQQYP" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fphys.2019.01372/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JE5BQQYP"></div>
 </article>

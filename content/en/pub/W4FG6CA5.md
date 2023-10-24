@@ -1,5 +1,5 @@
 ---
-title: "Explanatory Rivals and the Ultimate Argument"
+title: "W4FG6CA5"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-W4FG6CA5" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1503967" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/W4FG6CA5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="http://philsci-archive.pitt.edu/15542/1/Explanatory-Rivals-Version-29.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-W4FG6CA5"></div>
 </article>

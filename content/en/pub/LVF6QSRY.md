@@ -1,5 +1,5 @@
 ---
-title: "Promoting a reading culture through a rural community library in Uganda"
+title: "LVF6QSRY"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LVF6QSRY" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1879091" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LVF6QSRY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-LVF6QSRY" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LVF6QSRY" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-LVF6QSRY" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/0340035214529732" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-LVF6QSRY"></div>
 </article>
 <div id="csl-bib-meta-LVF6QSRY" class="csl-bib-meta">
-  <article id="abstract-article-LVF6QSRY" class="abstract-article">
-    <h1>Abstract</h1>
-    This paper discusses what is meant by “reading culture”, and how a rural community library in Uganda can contribute to promoting one, by posing the question: How does a community library promote a reading culture in Uganda, and how successful is it in doing this? Data consist of semi-structured interviews, observations, and the library records of borrowed items. Street’s (1984) concepts of “autonomous” and “ideological” models of literacy are adapted to develop a framework of critical questions. The findings indicate that the library is based on a local initiative, relatively well resourced, and fairly well integrated in the community. Together, these indicate the gradual development of a reading culture. Rather than assuming libraries and literacy are intrinsically good, this article stresses the need to take on a critical view of the role and function of community libraries in developing countries, and suggests a framework for doing this.
-  </article>
   <article id="contributors-article-LVF6QSRY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Room 2M34-2
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

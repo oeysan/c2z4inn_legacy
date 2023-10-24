@@ -1,5 +1,5 @@
 ---
-title: "Collected worker experiences, knowledge management practices and service innovation in urban Norway"
+title: "8SULYMUZ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8SULYMUZ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1925448" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/8SULYMUZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-8SULYMUZ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-8SULYMUZ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-8SULYMUZ" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/pirs.12633" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-8SULYMUZ"></div>
 </article>
 <div id="csl-bib-meta-8SULYMUZ" class="csl-bib-meta">
-  <article id="abstract-article-8SULYMUZ" class="abstract-article">
-    <h1>Abstract</h1>
-    Knowledge‐intensive services firms prefer to locate in cities that provide access to rich information flows and abundant opportunities for learning‐by‐recruiting. Focusing specifically on such locations, this paper explores how innovation is associated with work experiences ‘collected’ by employees through their recent career paths and the implementation by current employer firms of practices to manage knowledge. Strong complementarities are found using a unique Norwegian dataset: The statistical association between practices and innovation outcomes depends strongly on variety of experience‐knowledge among employees. Conversely, while said variety does not affect innovation in the absence of dedicated practices, it strongly does in their presence.
-  </article>
   <article id="contributors-article-8SULYMUZ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -87,7 +83,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>64</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

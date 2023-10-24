@@ -1,5 +1,5 @@
 ---
-title: "Exploring the EQ-5D Dimension of Pain/Discomfort in Dermatology Outpatients from a Multicentre Study in 13 European Countries"
+title: "N3KYXK87"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-N3KYXK87" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1871765" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/N3KYXK87" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-N3KYXK87" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.2340/00015555-3477" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-N3KYXK87"></div>
 </article>

@@ -13,6 +13,7 @@ type: pub
     <a href="http://zotero.org/groups/5022929/items/RYW6K9FF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-RYW6K9FF" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-RYW6K9FF" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1386/jptv_00102_1" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-RYW6K9FF"></div>
 </article>

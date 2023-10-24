@@ -1,5 +1,5 @@
 ---
-title: "Identifying and correcting spatial bias in opportunistic citizen science data for wild ungulates in Norway"
+title: "JTERRRYI"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,21 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JTERRRYI" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1943625" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JTERRRYI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JTERRRYI" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JTERRRYI" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-JTERRRYI" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.8200" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JTERRRYI"></div>
 </article>
 <div id="csl-bib-meta-JTERRRYI" class="csl-bib-meta">
-  <article id="abstract-article-JTERRRYI" class="abstract-article">
-    <h1>Abstract</h1>
-    Many publications make use of opportunistic data, such as citizen science observation data, to infer large-scale properties of species’ distributions. However, the few publications that use opportunistic citizen science data to study animal ecology at a habitat level do so without accounting for spatial biases in opportunistic records or using methods that are difficult to generalize. In this study, we explore the biases that exist in opportunistic observations and suggest an approach to correct for them. We first examined the extent of the biases in opportunistic citizen science observations of three wild ungulate species in Norway by comparing them to data from GPS telemetry. We then quantified the extent of the biases by specifying a model of the biases. From the bias model, we sampled available locations within the species’ home range. Along with opportunistic observations, we used the corrected availability locations to estimate a resource selection function (RSF). We tested this method with simulations and empirical datasets for the three species. We compared the results of our correction method to RSFs obtained using opportunistic observations without correction and to RSFs using GPS-telemetry data. Finally, we compared habitat suitability maps obtained using each of these models. Opportunistic observations are more affected by human access and visibility than locations derived from GPS telemetry. This has consequences for drawing inferences about species’ ecology. Models naïvely using opportunistic observations in habitat-use studies can result in spurious inferences. However, sampling availability locations based on the spatial biases in opportunistic data improves the estimation of the species’ RSFs and predicted habitat suitability maps in some cases. This study highlights the challenges and opportunities of using opportunistic observations in habitat-use studies. While our method is not foolproof it is a first step toward unlocking the potential of opportunistic citizen science data for habitat-use studies. 
-citizen science, habitat selection, opportunistic data, preferential sampling, spatial bias,  
-ungulates
-  </article>
   <article id="contributors-article-JTERRRYI" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -59,7 +53,7 @@ Campus Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

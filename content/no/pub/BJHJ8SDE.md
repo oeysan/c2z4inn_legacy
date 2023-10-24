@@ -1,5 +1,5 @@
 ---
-title: "Individual Variation in Predatory Behavior, Scavenging and Seasonal Prey Availability as Potential Drivers of Coexistence between Wolves and Bears"
+title: "BJHJ8SDE"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BJHJ8SDE" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1831093" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BJHJ8SDE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-BJHJ8SDE" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BJHJ8SDE" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.mdpi.com/1424-2818/12/9/356/pdf?version=1600177225" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-BJHJ8SDE"></div>
 </article>
 <div id="csl-bib-meta-BJHJ8SDE" class="csl-bib-meta">
-  <article id="abstract-article-BJHJ8SDE" class="abstract-article">
-    <h1>Samandrag</h1>
-    Several large carnivore populations are recovering former ranges, and it is important to understand interspecific interactions between overlapping species. In Scandinavia, recent research has reported that brown bear presence influences gray wolf habitat selection and kill rates. Here, we characterized the temporal use of a common prey resource by sympatric wolves and bears and described individual and seasonal variation in their direct and/or indirect interactions. Most bear–wolf interactions were indirect, via bear scavenging of wolf kills. Bears used &gt;50% of wolf kills, whereas we did not record any wolf visit at bear kills. Adult and subadult bears visited wolf kills, but female bears with cubs of the year, the most vulnerable age class to conspecifics and other predators, did not. Wolf and bear kill rates peaked in early summer, when both targeted neonate moose calves, which coincided with a reduction in bear scavenging rate. Some bears were highly predatory and some did not kill any calf. Individual and age-class variation (in bear predation and scavenging patterns) and seasonality (in bear scavenging patterns and main prey availability of both wolves and bears) could mediate coexistence of these apex predators. Similar processes likely occur in other ecosystems with varying carnivore assemblages.
-  </article>
   <article id="contributors-article-BJHJ8SDE" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

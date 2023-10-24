@@ -1,5 +1,5 @@
 ---
-title: "Extended valence theory perspective on consumers' e-waste recycling intentions in Japan"
+title: "GZ8GGZCF"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GZ8GGZCF" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2096685" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GZ8GGZCF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GZ8GGZCF" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1016/j.jclepro.2021.127443" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-GZ8GGZCF"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "Leaf Extracts from Resistant Wild Tomato Can Be Used to Control Late Blight (Phytophthora infestans) in the Cultivated Tomato"
+title: "U4E4NK8G"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-U4E4NK8G" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2038048" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/U4E4NK8G" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-U4E4NK8G" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-U4E4NK8G" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.mdpi.com/2223-7747/11/14/1824/pdf?version=1657605584" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-U4E4NK8G"></div>
 </article>
 <div id="csl-bib-meta-U4E4NK8G" class="csl-bib-meta">
-  <article id="abstract-article-U4E4NK8G" class="abstract-article">
-    <h1>Samandrag</h1>
-    Late blight disease, caused by Phytophthora infestans (Mont.) de Bary, is one of the most chal-lenging diseases threatening tomato production and other Solanaceae crops. Resistance to late blight is found in certain wild species, but the mechanism behind the resistance is not fully un-derstood. The aim of this study was to examine the metabolic profiles in the leaf tissue of late blight-resistant wild tomato and to investigate if leaf extracts from such genotypes could be used to control late blight in tomato production. We included three recognized late blight-resistant wild tomato accessions of Solanum habrochaites (LA1777, LA2855, and LA1352) and two recognized highly susceptible genotypes, S. lycopersicum (‘Super Strain B’) and S. pimpinellifolium (LA0375). The metabolic profiles were obtained in both inoculated and non-inoculated plants by analyzing leaf extracts using high-resolution gas chromatography-mass spectrometry (GC-MS) with three replicate analyses of each genotype. We focused on volatile organic compounds (VOCs) and identified 31 such compounds from the five genotypes with a retention time ranging from 6.6 to 22.8 min. The resistant genotype LA 1777 produced the highest number of VOCs (22 and 21 in the inoculated and control plants, respectively), whereas the susceptible genotype ‘Super Strain B’ produced the lowest number of VOCs (11 and 13 in the respective plants). Among the VOCs, 14 were detected only in the resistant genotypes, while two were detected only in the susceptible ones. In vitro trials, with the use of a detached leaflet assay and whole-plant approach, were conducted. We revealed promising insights regarding late blight management and showed that metabolic profiling may contribute to a better understanding of the mechanisms behind P. infestans resistance in tomato and its wild relatives.
-  </article>
   <article id="contributors-article-U4E4NK8G" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

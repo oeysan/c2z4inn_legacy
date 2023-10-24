@@ -1,5 +1,5 @@
 ---
-title: "Heat Training Efficiently Increases and Maintains Hemoglobin Mass and Temperate Endurance Performance in Elite Cyclists"
+title: "SSHK47IV"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SSHK47IV" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2118782" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SSHK47IV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-SSHK47IV" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SSHK47IV" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-SSHK47IV" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1249/MSS.0000000000002928" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-SSHK47IV"></div>
 </article>
 <div id="csl-bib-meta-SSHK47IV" class="csl-bib-meta">
-  <article id="abstract-article-SSHK47IV" class="abstract-article">
-    <h1>Samandrag</h1>
-    Purpose and Methods To test whether heat training performed as 5 × 50-min sessions per week for 5 wk in a heat chamber (CHAMBER) or while wearing a heat suit (SUIT), in temperate conditions, increases hemoglobin mass (Hb mass ) and endurance performance in elite cyclists, compared with a control group (CON-1). Furthermore, after the 5-wk intervention, we tested whether three sessions per week for 3 wk with heat suit (SUIT main ) would maintain Hb mass elevated compared with athletes who returned to normal training (HEAT stop ) or who continued to be the control group (CON-2). Results During the initial 5 wk, SUIT and CHAMBER increased Hb mass (2.6% and 2.4%) to a greater extent than CON-1 (−0.7%; both P &lt; 0.01). The power output at 4 mmol·L −1 blood lactate and 1-min power output ( Wmax ) improved more in SUIT (3.6% and 7.3%, respectively) than CON-1 (−0.6%, P &lt; 0.05; 0.2%, P &lt; 0.01), whereas this was not the case for CHAMBER (1.4%, P = 0.24; 3.4%, P = 0.29). However, when SUIT and CHAMBER were pooled this revealed a greater improvement in a performance index (composed of power output at 4 mmol·L −1 blood lactate, Wmax , and 15-min power output) than CON-1 (4.9% ± 3.2% vs 1.7% ± 1.1%, respectively; P &lt; 0.05). During the 3-wk maintenance period, SUIT main induced a larger increase in Hb mass than HEAT stop (3.3% vs 0.8%; P &lt; 0.05), which was not different from the control (CON-2; 1.6%; P = 0.19), with no differences between HEAT stop and CON-2 ( P = 0.52). Conclusions Both SUIT and CHAMBER can increase Hb mass , and pooling SUIT and CHAMBER demonstrates that heat training can increase performance. Furthermore, compared with cessation of heat training, a sustained increase in Hb mass was observed during a subsequent 3-wk maintenance period, although the number of weekly heat training sessions was reduced to 3.
-  </article>
   <article id="contributors-article-SSHK47IV" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg7" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg07_no.png" class="image" alt="SDG 7">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>27</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=7#archive" class="sdg-publication-count"><span>27</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/ren-energi-til-alle?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Examining leopard attacks: spatio-temporal clustering of human injuries and deaths in Western Himalayas, India"
+title: "9WHSQX3Z"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9WHSQX3Z" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2159914" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/9WHSQX3Z" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-9WHSQX3Z" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9WHSQX3Z" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-9WHSQX3Z" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fcosc.2023.1157067/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-9WHSQX3Z"></div>
 </article>
 <div id="csl-bib-meta-9WHSQX3Z" class="csl-bib-meta">
-  <article id="abstract-article-9WHSQX3Z" class="abstract-article">
-    <h1>Abstract</h1>
-    Shared spaces in Africa and Asia accommodate both humans and big cats. This engenders rare but distinctive cases of human fatalities by lions, tigers, and leopards. Among big cats, leopards have the widest range and occur even among high densities of humans. This increased potential for encounters with humans results in attacks, exemplified most by India where 50% of the states report human injuries and deaths due to leopards. Himachal Pradesh (HP) state reported 30 lethal and 287 non-lethal leopard attacks on humans per year between 2004 – 2015 (N=317). Identifying patterns in big cat attacks on people facilitates targeted interventions for decreasing such fatalities. This study aims to detect if leopards are cluster-causing agents of human injuries and deaths. We identify the patterns of leopard attacks on humans in Himachal Pradesh by examining the following questions: (a) do leopard-attributed attacks on humans cluster in space and time? and among the leopard-attributed attacks (b) do unprovoked attacks on humans cluster spatio-temporally? and (c) what environmental factors are associated with the clustered leopard attacks on humans? We employed a space-time permutation scan statistic commonly used in epidemiology to test for spatio-temporal clustering of leopard attacks. Attacks were spread across 75% (~42,000 km sq.) of HP in 11 out of 12 districts. We found that 23% of attacks clustered into 12 significant spatio-temporal clusters. Nearly 14% of the leopard-attributed attacks (N=317) were unprovoked and attacks displaying “predatory” signs did not form significant clusters. Binomial regression models were run to test association of eight environmental factors with clustered attacks. We found that leopard-attributed attacks farther away from the protected area boundary and closer to the district boundary had higher probability of clustering. The framework developed in this study to identify the outbreak of unprovoked leopard attacks confirms the absence of dedicated “man-eaters” in the study region. This approach can be applied to adaptively manage human-wildlife conflict and it also demonstrates the utility of scan statistic in ecological research.
-  </article>
   <article id="contributors-article-9WHSQX3Z" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -67,7 +63,7 @@ Room 6N208
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

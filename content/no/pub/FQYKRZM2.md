@@ -1,5 +1,5 @@
 ---
-title: "Learner translation of metaphor: Smooth sailing?"
+title: "FQYKRZM2"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FQYKRZM2" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1947982" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/FQYKRZM2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-FQYKRZM2" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FQYKRZM2" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-FQYKRZM2" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1075/msw.00016.nac" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-FQYKRZM2"></div>
 </article>
 <div id="csl-bib-meta-FQYKRZM2" class="csl-bib-meta">
-  <article id="abstract-article-FQYKRZM2" class="abstract-article">
-    <h1>Samandrag</h1>
-    This article explores metaphor translation strategies of novice translators: university students translating from L1 Norwegian to L2 English. We first describe the translation strategies they employ in their translated texts (TTs), thereby offering evidence of what translators do with metaphor based on multiple translations of the same metaphor-dense source text (ST). We then go beyond this descriptive analysis to discuss why these translators make their particular choices, analyzing the students’ in-class discussion and individual written reflections about their translations. We thus illuminate the challenges that the novice translators consciously perceive (that is, is metaphor a problem?), as well as their motivation for and evaluation of their translation solutions. In this way, we shed light on the concept of the ‘successful’ translation of metaphor.
-  </article>
   <article id="contributors-article-FQYKRZM2" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -99,7 +95,7 @@ Rom 2C256-6
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

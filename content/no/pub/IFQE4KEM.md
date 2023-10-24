@@ -1,5 +1,5 @@
 ---
-title: "Using Games for Teaching Crisis Communication in Higher Education and Training"
+title: "IFQE4KEM"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IFQE4KEM" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1445571" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/IFQE4KEM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-IFQE4KEM" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IFQE4KEM" class="csl-bib-button">Medverkande</a>
+    <a href="https://opus.lib.uts.edu.au/bitstream/10453/103211/4/0F09C61B-E56A-49BA-9736-70F1FB361197%20am.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-IFQE4KEM"></div>
 </article>
 <div id="csl-bib-meta-IFQE4KEM" class="csl-bib-meta">
-  <article id="abstract-article-IFQE4KEM" class="abstract-article">
-    <h1>Samandrag</h1>
-    Abstract: 
-Terror actions and catastrophes are frequently described in media. As more and more countries experience terror actions and natural disasters, there has been a greater focus on learning how to handle and to manage them. In Norway on the 22nd of July 2011, Anders Behring Breivik placed a bomb in a car that exploded near the Governmental Offices killing 8 persons. He went on to an island where there was a political camp for youths killing another 67. The rescue operations unveiled an unprepared task force. The Gjrv-report provide a massive critique towards the call out services [1]. This kicked off a major work on updating safety routines in all municipalities. The municipalities are now obliged to have a plan for crisis preparedness [2]. This again triggered the need for education within the area of crisis preparedness, crisis training and crisis management. Hedmark University of Applied Science now offers different study programs, including a BA within these areas. It is, however, very expensive to train realistically and the need for different approaches regarding training has been discussed. One of the solutions that the University is currently working on, is the use of games. Game based learning, also called “serious games”, has become an academic genre and using games for learning and training has proven fruitful [3-12]. In the military, games have been used for simulation purposes [13] and spin offs from these have also reached a commercial market [14, 15]. Using games in education opens up a range of opportunities. One of them is within the area of Crisis Communication. Crisis Communication as a curriculum is about how to approach the area of crisis communication, understanding the key concepts and develop skills within the curriculum. Games that support communication between the gamers can for instance contribute towards a greater understanding of communication in a crisis situation. What is needed to communicate and how messages are received, in order to support handling a crisis, are amongst the concrete learning objectives one can attribute towards this type of training. To use games to support the hands on training can thus provide the learners with valuable know how, and support their learning outcome. The learning from this will be beneficial to the organizations they work in as they will have an experience that will aid them in the work on planning for and preparing for crisis in their own organizations.
-  </article>
   <article id="contributors-article-IFQE4KEM" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

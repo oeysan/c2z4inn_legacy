@@ -1,5 +1,5 @@
 ---
-title: "The Association Between Toddlers’ Temperament and Well-Being in Norwegian Early Childhood Education and Care, and the Moderating Effect of Center-Based Daycare Process Quality"
+title: "CLDW2VCP"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CLDW2VCP" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1954997" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/CLDW2VCP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-CLDW2VCP" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CLDW2VCP" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.763682/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-CLDW2VCP"></div>
 </article>
 <div id="csl-bib-meta-CLDW2VCP" class="csl-bib-meta">
-  <article id="abstract-article-CLDW2VCP" class="abstract-article">
-    <h1>Samandrag</h1>
-    Children who experience well-being are engaging more confidently and positively with their caregiver(s) and peers, which helps them to profit more from available learning opportunities and support current and later life outcomes. The goodness-of-fit theory suggests that children’s well-being might be a result of the interplay between their temperament and the environment. However, there is a lack of studies that examined the association between children’s temperament and well-being in early childhood education and care (ECEC), and whether this association is affected by ECEC process quality. Using a multilevel random coefficient approach, this study examines the association between toddlers’ ( N = 1,561) temperament (shyness, emotionality, sociability, and activity) and well-being in Norwegian ECEC and investigates whether process quality moderates this association. Results reveal an association between temperament and well-being. Staff-child conflict moderates the association between shyness and well-being, and between activity and well-being. Moreover, high emotional behavioral support moderates the association between activity and well-being. Extra attention should be paid by the staff to these children’s needs.
-  </article>
   <article id="contributors-article-CLDW2VCP" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

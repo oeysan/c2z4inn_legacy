@@ -1,5 +1,5 @@
 ---
-title: "Associations between social media use and loneliness in a cross-national population: do motives for social media use matter?"
+title: "X94UUCJS"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-X94UUCJS" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2089020" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/X94UUCJS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-X94UUCJS" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.1080/21642850.2022.2158089" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-X94UUCJS"></div>
 </article>

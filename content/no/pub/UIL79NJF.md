@@ -1,5 +1,5 @@
 ---
-title: "The institutional turn in service research: taking stock and moving ahead"
+title: "UIL79NJF"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UIL79NJF" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1810209" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UIL79NJF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-UIL79NJF" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UIL79NJF" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-UIL79NJF" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/JSM-02-2019-0101" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-UIL79NJF"></div>
 </article>
 <div id="csl-bib-meta-UIL79NJF" class="csl-bib-meta">
-  <article id="abstract-article-UIL79NJF" class="abstract-article">
-    <h1>Samandrag</h1>
-    PurposeService scholars are finding that institutions – enduring social structures, such as rules, norms, beliefs – are increasingly important in theorizing on service-related phenomena. The purpose of this paper is to advance the use of institutional theory in service research by synthesizing the key insights from institutional theory that have been applied to service-related phenomena and developing a research agenda to guide the future use of institutional theory in service research. Design/methodology/approachThis paper is an integrative literature review covering 68 articles from major service research and marketing journals that adopt institutional concepts and frameworks to study service-related phenomena. FindingsThe paper maps the “institutional turn” of service research, that is, the increasing tendency to draw on institutional theory for theoretical insights within service research and builds a conceptual framework of the institutional stabilization and destabilization mechanisms that explain endurance and change in service phenomena. The paper also proposes a research agenda that outlines four previously ignored aspects of institutions that have important implications for service research. Research limitations/implicationsIn addition to synthesizing insights and proposing directions for future research, the paper highlights specific theoretical and methodological considerations for the future use of institutional theory within service research. The literature review is limited to the 13 major service research and marketing journals. Originality/valueThis paper is the first literature review of the use of institutional theory in service research.
-  </article>
   <article id="contributors-article-UIL79NJF" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 3Ø205
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

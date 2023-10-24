@@ -1,5 +1,5 @@
 ---
-title: "Defectology and inclusion"
+title: "JAQZYDJX"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JAQZYDJX" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1677204" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JAQZYDJX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JAQZYDJX" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JAQZYDJX" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-JAQZYDJX" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://czasopisma.bg.ug.edu.pl/index.php/pwe/article/download/2001/1459" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JAQZYDJX"></div>
 </article>
 <div id="csl-bib-meta-JAQZYDJX" class="csl-bib-meta">
-  <article id="abstract-article-JAQZYDJX" class="abstract-article">
-    <h1>Samandrag</h1>
-    In this article we claimed that the conception and rhetoric Vygotsky questioned in his works on Defectology still are relevant today in the age of inclusive education. The educational system in several western countries is built upon the strategy of reducing the gap between what the “normal” child can do and the expectations of the disabled child’s competence and skills. The educational system is constructed to handle the “normal” child, and will make adjustments for the disabled child in relations to what the “normal” child is capable of. This is in conflict with the ideology of inclusive education. In our opinion, the educational strategy as a “negative education” is a paradox to the overarching aim of inclusive education. As long as we measure what the child is not able to do, we will not be working towards an inclusive education. In this article we make use of Vygotsky’s perspectives on defectology and “positive differential approach” to discuss these issues.
-  </article>
   <article id="contributors-article-JAQZYDJX" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -93,13 +89,13 @@ Rom 2P304
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

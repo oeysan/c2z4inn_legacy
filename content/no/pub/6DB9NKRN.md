@@ -1,5 +1,5 @@
 ---
-title: "Nordisk samtidspoesi: Øyvind Bergs forfatterskap"
+title: "6DB9NKRN"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6DB9NKRN" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1572394" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/6DB9NKRN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-6DB9NKRN" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-6DB9NKRN" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-6DB9NKRN"></div>
 </article>
 <div id="csl-bib-meta-6DB9NKRN" class="csl-bib-meta">
-  <article id="abstract-article-6DB9NKRN" class="abstract-article">
-    <h1>Samandrag</h1>
-    Nordisk samtidspoesi, Øyvind Bergs forfatterskap er den sjuende utgivelsen i skriftserien knyttet til Nordisk poesifestival - Rolf Jacobsen-dagene som arrangeres i Hamar primo mars hvert år. I bøkene presenteres artikler, essays og annet materiale som omhandler eller kan knyttes til festivalpoetens forfatterskap.
-  </article>
   <article id="contributors-article-6DB9NKRN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

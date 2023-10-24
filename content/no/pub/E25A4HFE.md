@@ -1,5 +1,5 @@
 ---
-title: "Energy metabolism in skeletal muscle cells from donors with different body mass index"
+title: "E25A4HFE"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E25A4HFE" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2094404" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/E25A4HFE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-E25A4HFE" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-E25A4HFE" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-E25A4HFE" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fphys.2022.982842/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-E25A4HFE"></div>
 </article>
 <div id="csl-bib-meta-E25A4HFE" class="csl-bib-meta">
-  <article id="abstract-article-E25A4HFE" class="abstract-article">
-    <h1>Samandrag</h1>
-    Obesity and physical inactivity have a profound impact on skeletal muscle metabolism. In the present work, we have investigated differences in protein expression and energy metabolism in primary human skeletal muscle cells established from lean donors (BMI25 kg/m 2 ) and individuals with obesity (BMI;30 kg/m 2 ). Furthermore, we have studied the effect of fatty acid pretreatment on energy metabolism in myotubes from these donor groups. Alterations in protein expression were investigated using proteomic analysis, and energy metabolism was studied using radiolabeled substrates. Gene Ontology enrichment analysis showed that glycolytic, apoptotic, and hypoxia pathways were upregulated, whereas the pentose phosphate pathway was downregulated in myotubes from donors with obesity compared to myotubes from lean donors. Moreover, fatty acid, glucose, and amino acid uptake were increased in myotubes from individuals with obesity. However, fatty acid oxidation was reduced, glucose oxidation was increased in myotubes from subjects with obesity compared to cells from lean. Pretreatment of myotubes with palmitic acid (PA) or eicosapentaenoic acid (EPA) for 24 h increased glucose oxidation and oleic acid uptake. EPA pretreatment increased the glucose and fatty acid uptake and reduced leucine fractional oxidation in myotubes from donors with obesity. In conclusion, these results suggest that myotubes from individuals with obesity showed increased fatty acid, glucose, and amino acid uptake compared to cells from lean donors. Furthermore, myotubes from individuals with obesity had reduced fatty acid oxidative capacity, increased glucose oxidation, and a higher glycolytic reserve capacity compared to cells from lean donors. Fatty acid pretreatment enhances glucose metabolism, and EPA reduces oleic acid and leucine fractional oxidation in myotubes from donor with obesity, suggesting increased metabolic flexibility after EPA treatment.
-  </article>
   <article id="contributors-article-E25A4HFE" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -98,7 +94,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg7" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg07_no.png" class="image" alt="SDG 7">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>27</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=7#archive" class="sdg-publication-count"><span>27</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/ren-energi-til-alle?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

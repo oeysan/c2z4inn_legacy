@@ -1,5 +1,5 @@
 ---
-title: "System Dynamics Modelling of the Global Extraction, Supply, Price, Reserves, Resources and Environmental Losses of Mercury"
+title: "GVX9AGZ6"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GVX9AGZ6" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1838320" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GVX9AGZ6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GVX9AGZ6" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GVX9AGZ6" class="csl-bib-button">Medverkande</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s11270-020-04757-x.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-GVX9AGZ6"></div>
 </article>
 <div id="csl-bib-meta-GVX9AGZ6" class="csl-bib-meta">
-  <article id="abstract-article-GVX9AGZ6" class="abstract-article">
-    <h1>Samandrag</h1>
-    How mercury flows from geological sources to society and to the environment was modelled for this study. The industrial dynamics of mercury was modelled and included in the integrated assessment model WORLD7. The simulated mercury losses were used as input for a simplified global model for environmental pollution. The outputs were analysed and used to assess mercury pollution amounts and supply to society. In fossil fuels, there are a potential stock of 2 million tons in coal and other hydrocarbons, and 450,000 tons of that could be released to the environment if the fossil fuels are all to be burned. Such release would potentially cause major environmental damage and a significant human health risk. The simulations suggest that environmental mercury flows may peak in 2025, and slowly decline as mercury gets immobilized in nature. The simulations show that the pollution from technical use is eliminated by putting the 2013 Minimata Convention into effect, but that environmental pollution from fossil fuels combustion and from environmental re-emissions will remain a significant problem for the next decades.
-  </article>
   <article id="contributors-article-GVX9AGZ6" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

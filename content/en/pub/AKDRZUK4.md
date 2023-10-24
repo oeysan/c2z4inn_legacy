@@ -1,5 +1,5 @@
 ---
-title: "Praksissamtalen i kulturskolelærerutdanninger: En arena for utvikling av studenters profesjonsforståelse"
+title: "AKDRZUK4"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AKDRZUK4" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1926719" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/AKDRZUK4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-AKDRZUK4" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AKDRZUK4" class="csl-bib-button">Contributors</a>
+    <a href="https://nrme.no/index.php/nrme/article/download/3020/5223" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-AKDRZUK4"></div>
 </article>
 <div id="csl-bib-meta-AKDRZUK4" class="csl-bib-meta">
-  <article id="abstract-article-AKDRZUK4" class="abstract-article">
-    <h1>Abstract</h1>
-    Denne artikkelen retter blikket mot praksisopplæringen i norske musikkpedagogiske utdanninger og har fokus på praksissamtalen, der tre parter fra utdanningsløpet møtes: student, faglærer og praksisveileder. Gjennom å observere studenters praksisundervisning i kulturskoler samt praksissamtaler knyttet til praksisundervisningen, er målet i denne artikkelen å utforske hvordan praksissamtalen fungerer som en arena der studentene tilegner seg profesjonsforståelse, samt hvilke forståelser av kulturskolelærerprofesjonen som framtrer i samtalene mellom de tre partene. Resultatene drøftes i lys av profesjonsteoretiske og sosiokulturelle forståelsesrammer. Artikkelen argumenterer for viktigheten av studentenes aktive deltakelse i praksisfellesskapet, og løfter fram noen utfordringer tilknyttet praksissamtalen og relasjonene mellom utdanningsinstitusjon og praksisfelt. English abstract English title: The practicum conversation in School of Music and Performing Arts teacher educating programs: An arena for development of students’ professional understandings This article addresses the practicum training in Norwegian teacher educating programs, and focuses on the practicum conversation, where three participants of the teacher educating program meet: the student, the teacher educator and the practicum supervisor. By observing students’ practicum-related teaching in School of Music and Performing Arts (SMPA) as well as practicum conversations related to this teaching, the aim of this study is to investigate how the practicum conversation functions as an arena where students acquire professional understanding, as well as exploring the understandings of the SMPA teacher profession that appear in these conversations between the three participants. The results are discussed in light of theory of professions and socio-cultural learning theory. The article argues for the importance of students’ active participation in the community of practice, and highlights some challenges associated with the practicum conversation and the relationship between educational institutions and the practice field.
-  </article>
   <article id="contributors-article-AKDRZUK4" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

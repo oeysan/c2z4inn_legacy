@@ -1,5 +1,5 @@
 ---
-title: "Fra første ide til ferdig spill i bruk. Eksempel på innovasjonsatferd i spillutvikling og spillifisering"
+title: "L4XMY4AP"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-L4XMY4AP" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2176894" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/L4XMY4AP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-L4XMY4AP" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-L4XMY4AP"></div>

@@ -1,5 +1,5 @@
 ---
-title: "Contract interpretation in investment treaty arbitration: a theory of the incidental issue"
+title: "LNSBAG8I"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LNSBAG8I" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1982961" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LNSBAG8I" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-LNSBAG8I" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LNSBAG8I" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-LNSBAG8I" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-LNSBAG8I"></div>
 </article>
 <div id="csl-bib-meta-LNSBAG8I" class="csl-bib-meta">
-  <article id="abstract-article-LNSBAG8I" class="abstract-article">
-    <h1>Abstract</h1>
-    Contracts are relevant, frequently central, for a significant number of investment disputes. Yet, the way tribunals ascertain their content remains largely underexplored. How do tribunals interpret contracts in investment treaty arbitration? How should they interpret contracts? Does national law have any role to play? Contract Interpretation in Investment Treaty Arbitration: A Theory of the Incidental Issue addresses these questions. The monograph offers a valuable insight into the practice and theory of contract interpretation in investment treaty arbitration. By proposing a theoretical frame for seamless integration of contract interpretation into the overall structure of decision-making, the book contributes to predictability, coherence, sufficiency and correctness of the tribunals’ interpretative practices in investment treaty arbitration.
-  </article>
   <article id="contributors-article-LNSBAG8I" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,13 +56,13 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

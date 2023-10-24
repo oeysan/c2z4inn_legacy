@@ -1,5 +1,5 @@
 ---
-title: "Elevated cortisol levels in Norwegian toddlers in childcare"
+title: "HL6FHWCY"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HL6FHWCY" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1435691" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HL6FHWCY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HL6FHWCY" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.duo.uio.no/bitstream/handle/10852/64952/Main_manuscript_withauthors.pdf?sequence=5&amp;isAllowed=y" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-HL6FHWCY"></div>
 </article>

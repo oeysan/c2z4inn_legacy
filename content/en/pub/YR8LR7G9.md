@@ -1,5 +1,5 @@
 ---
-title: "Emergence of new industries in peripheral regions: the role of narratives in delegitimation of onshore wind in the Arctic Finnmark region"
+title: "YR8LR7G9"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YR8LR7G9" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2063434" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YR8LR7G9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-YR8LR7G9" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1080/21681376.2022.2122863" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-YR8LR7G9"></div>
 </article>

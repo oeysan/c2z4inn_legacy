@@ -1,5 +1,5 @@
 ---
-title: "Indoor climatic status during winter conditions in dairy herds in Bosnia and Herzegovina"
+title: "BU8TWYXU"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BU8TWYXU" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1454053" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BU8TWYXU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BU8TWYXU" class="csl-bib-button">Contributors</a>
+    <a href="http://ojs.aas.bf.uni-lj.si/index.php/AAS/article/download/327/194" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-BU8TWYXU"></div>
 </article>

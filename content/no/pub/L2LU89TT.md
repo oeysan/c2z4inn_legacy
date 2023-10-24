@@ -1,5 +1,5 @@
 ---
-title: "Gjensyn med spørsmålet om metode: En kritisk vurdering av hypotetisk-deduktiv metode (HDM)sammenlignet med induksjonsdrevne problemstillinger (IdP)"
+title: "L2LU89TT"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-L2LU89TT" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1677072" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/L2LU89TT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-L2LU89TT" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.idunn.no/file/pdf/67094050/gjensyn_med_spoersmaalet_om_metode.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-L2LU89TT"></div>
 </article>

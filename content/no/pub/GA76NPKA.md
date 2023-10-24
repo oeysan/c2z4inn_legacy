@@ -1,5 +1,5 @@
 ---
-title: "Culture dependent and independent analyses suggest a low level of sharing of endospore-forming species between mothers and their children"
+title: "GA76NPKA"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GA76NPKA" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1821108" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GA76NPKA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GA76NPKA" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GA76NPKA" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-GA76NPKA" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.nature.com/articles/s41598-020-58858-y.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-GA76NPKA"></div>
 </article>
 <div id="csl-bib-meta-GA76NPKA" class="csl-bib-meta">
-  <article id="abstract-article-GA76NPKA" class="abstract-article">
-    <h1>Samandrag</h1>
-    Spore forming bacteria comprise a large part of the human gut microbiota. However, study of the endospores in gut microbiota is limited due to difficulties of culturing and numerous unknown germination factors. In this study we propose a new method for culture-independent characterization of endospores in stool samples. We have enriched DNA of spore-forming bacterial species from stool samples of 40 mother-child pairs from a previously described mother-child cohort. The samples were exposed to a two-step purification process comprising ethanol and ethidium monoazide (EMA) treatment to first kill vegetative cells and to subsequently eliminate their DNA from the samples. The composition of the ethanol-EMA resistant DNA was characterized by 16S rRNA marker gene sequencing. Operational taxonomic units (OTUs) belonging to the Clostridia class (OTU1: Romboutsia , OTU5: Peptostreptococcaceae and OTU14: Clostridium senso stricto) and one belonging to the Bacillus class (OTU20: Turicibacter ) were significantly more abundant in the samples from mothers and children after ethanol-EMA treatment than in those treated with ethanol only. No correlation was observed between ethanol-EMA resistant OTUs detected in children and in their mothers, which indicates that a low level of spore-forming species are shared between mothers and their children. Anaerobic ethanol-resistant bacteria were isolated from all mothers and all children over 1 year of age. Generally, in 70% of the ethanol-treated samples used for anaerobic culturing, 16S rRNA gene sequences of bacterial isolates corresponded to OTUs detected in these samples after EMA treatment. We report a new DNA-based method for the characterization of endospores in gut microbiota. Our method has high degree of correspondence to the culture-based method, although it requires further optimization. Our results also indicate a high turnover of endospores in the gut during the first two years of life, perhaps with a high environmental impact.
-  </article>
   <article id="contributors-article-GA76NPKA" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 2N1247
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

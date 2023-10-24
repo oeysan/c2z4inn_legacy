@@ -1,5 +1,5 @@
 ---
-title: "Locationally Varying Production Technology and Productivity: The Case of Norwegian Farming"
+title: "LJKE6TJJ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LJKE6TJJ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2174954" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LJKE6TJJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-LJKE6TJJ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LJKE6TJJ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-LJKE6TJJ" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2225-1146/11/3/20/pdf?version=1692365173" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LJKE6TJJ"></div>
 </article>
 <div id="csl-bib-meta-LJKE6TJJ" class="csl-bib-meta">
-  <article id="abstract-article-LJKE6TJJ" class="abstract-article">
-    <h1>Samandrag</h1>
-    In this study, we leverage geographical coordinates and firm-level panel data to uncover variations in production across different locations. Our approach involves using a semiparametric proxy variable regression estimator, which allows us to define and estimate a customized production function for each firm and its corresponding location. By employing kernel methods, we estimate the nonparametric functions that determine the model’s parameters based on latitude and longitude. Furthermore, our model incorporates productivity components that consider various factors that influence production. Unlike spatially autoregressive-type production functions that assume a uniform technology across all locations, our approach estimates technology and productivity at both the firm and location levels, taking into account their specific characteristics. To handle endogenous regressors, we incorporate a proxy variable identification technique, distinguishing our method from geographically weighted semiparametric regressions. To investigate the heterogeneity in production technology and productivity among Norwegian grain farmers, we apply our model to a sample of farms using panel data spanning from 2001 to 2020. Through this analysis, we provide empirical evidence of regional variations in both technology and productivity among Norwegian grain farmers. Finally, we discuss the suitability of our approach for addressing the heterogeneity in this industry.
-  </article>
   <article id="contributors-article-LJKE6TJJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -65,13 +61,13 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>54</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>64</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

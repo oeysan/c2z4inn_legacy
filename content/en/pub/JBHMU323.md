@@ -1,5 +1,5 @@
 ---
-title: "Communication in mental health nursing - Bachelor Students' appraisal of a blended learning training programme - an exploratory study"
+title: "JBHMU323"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,31 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JBHMU323" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1586668" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JBHMU323" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JBHMU323" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JBHMU323" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-JBHMU323" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://bmcnurs.biomedcentral.com/track/pdf/10.1186/s12912-018-0288-9" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JBHMU323"></div>
 </article>
 <div id="csl-bib-meta-JBHMU323" class="csl-bib-meta">
-  <article id="abstract-article-JBHMU323" class="abstract-article">
-    <h1>Abstract</h1>
-    Background 
-It is important that mental health nursing students at Bachelor level obtain effective communication skills. Many students dread the fact that in the mental health field they will encounter patients and relatives with various backgrounds and personalities. Large classes and limited teaching resources in nursing education are challenging. To prepare students for mental health nursing practice, a communication skills course based on the blended learning method was developed and carried out at two different campuses. 
- 
-The aim of the study is to explore Bachelor nursing students’ appraisal of blended learning methods for enhancing communication skills in mental health nursing. 
- 
-Methods 
-This study employed an exploratory design. Teaching and information materials were available on the learning management system (LMS). Videotaped role play training was carried out in the Simulation Department. Data were collected after the course by means of a questionnaire with closed and open-ended questions. The response rate was 59.2%. Quantitative data were analysed using the Statistical package for the Social Sciences (SPSS) and the Kruskal Wallis test, while qualitative data were analysed by content analysis based on Graneheim and Lundman’s approach. 
- 
-Results 
-No impact of background variables was observed. Students appreciated teachers’ participation in role play and immediate feedback was considered especially important for learning outcomes. The students perceived that their communication skills and knowledge had improved after completing the blended learning programme. 
- 
-Conclusions 
-According to the nursing students, blended learning is an appropriate method for improving communication skills in preparation for mental health nursing. Blended learning makes it possible to build flexible courses with limited resources.
-  </article>
   <article id="contributors-article-JBHMU323" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -113,7 +97,7 @@ Room 4L3241
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Declining survival rates of red foxes Vulpes vulpes during the first outbreak of sarcoptic mange in Sweden"
+title: "R4U2GSY3"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-R4U2GSY3" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1994187" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/R4U2GSY3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-R4U2GSY3" class="csl-bib-button">Medverkande</a>
+    <a href="https://kops.uni-konstanz.de/bitstream/123456789/58461/1/Willebrand_2-pbeme87i1bls1.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-R4U2GSY3"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "Extraction, Solubility and Antimicrobial Activity of (-) Usnic Acid in Ethanol, a Pharmaceutically Relevant Solvent"
+title: "QN3CHVKP"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,26 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QN3CHVKP" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1478937" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/QN3CHVKP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-QN3CHVKP" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-QN3CHVKP" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-QN3CHVKP" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://journals.sagepub.com/doi/pdf/10.1177/1934578X1701200725" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-QN3CHVKP"></div>
 </article>
 <div id="csl-bib-meta-QN3CHVKP" class="csl-bib-meta">
-  <article id="abstract-article-QN3CHVKP" class="abstract-article">
-    <h1>Abstract</h1>
-    Usnic acid (UA) is the most studied bioactive secondary metabolite from lichens. Recently, UA research has focused on its antibacterial activity. However, 
-increased application in healthcare products of UA is hampered by low solubility in aqueous solutions. Here, we report ethanol both as an alternative extraction 
-solvent to acetone and as a pharmaceutically relevant solvent for future formulations. Dried samples of the abundant reindeer lichen (Cladonia stellaris) were 
-extracted in a 23 factorial design using either ethanol or acetone, varying both time and solvent-to-dry mass ratio. In both extracts, UA was the predominant 
-compound as shown by two-dimensional thin-layer chromatography (TLC). In a disc diffusion assay, both extracts demonstrated similar antibacterial 
-susceptibility towards Gram-positive (Bacillus subtilis and Staphylococcus aureus), while showing little to no activity against Gram-negative bacteria 
-(Escherichia coli and Pseudomonas aeruginosa). Among a range of pharmaceutically relevant solvents tested, UA was only soluble in ethanol (at 
-concentrations up to 1-2 mg mL-1).
-  </article>
   <article id="contributors-article-QN3CHVKP" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -134,7 +123,7 @@ Room 2N1246
     <div class="sdg-container"><div id="sdg6" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg06_en.png" class="image" alt="SDG 6">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>26</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=6#archive" class="sdg-publication-count"><span>29</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal6" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Using markers for digital engagement and social change: Tracking meaningful narrative exchange in transmedia edutainment with text analytics techniques"
+title: "TZAQICDQ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TZAQICDQ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2038132" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TZAQICDQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-TZAQICDQ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TZAQICDQ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-TZAQICDQ" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://journals.sagepub.com/doi/pdf/10.1177/20552076221107892" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TZAQICDQ"></div>
 </article>
 <div id="csl-bib-meta-TZAQICDQ" class="csl-bib-meta">
-  <article id="abstract-article-TZAQICDQ" class="abstract-article">
-    <h1>Samandrag</h1>
-    While social media offer an unprecedented opportunity for orchestrating large-scale communication campaigns, it is often difficult to track audience responses on various digital platforms over time and to ascertain if their engagement is aligned with the original intention. In this article, we share a promising solution—the purposive embedding and tracking of unique content elements as “markers” using text analytics techniques. Four markers were introduced in an Indian melodramatic television serial, Main Kuch Bhi Kar Sakti Hoon (I, A Woman, Can Achieve Anything), which was part of a larger transmedia edutainment initiative in India to promote sanitation, family planning, and gender equality. These markers served as anchors for audience engagement with the originally intended messaging embedded in the narratives as well as for program monitoring and evaluation. We applied various web-based tools to systematically track marker-related engagement on Facebook, Twitter, and YouTube across eight months. We also conducted semantic network analysis to better understand how marker-related social media comments evolved over time. Our investigation of using markers for digital engagement and narrative exchange in MKBKSH makes an important and timely methodological contribution to the scholarship and praxis of social and behavior change communication.
-  </article>
   <article id="contributors-article-TZAQICDQ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -57,7 +53,7 @@ Studiested Rena
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

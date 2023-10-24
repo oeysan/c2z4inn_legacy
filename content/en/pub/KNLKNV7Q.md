@@ -1,5 +1,5 @@
 ---
-title: "Acting on audit & feedback: a qualitative instrumental case study in mental health services in Norway"
+title: "KNLKNV7Q"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,25 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KNLKNV7Q" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1595130" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/KNLKNV7Q" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-KNLKNV7Q" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KNLKNV7Q" class="csl-bib-button">Contributors</a>
+    <a href="https://bmchealthservres.biomedcentral.com/track/pdf/10.1186/s12913-018-2862-y" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-KNLKNV7Q"></div>
 </article>
 <div id="csl-bib-meta-KNLKNV7Q" class="csl-bib-meta">
-  <article id="abstract-article-KNLKNV7Q" class="abstract-article">
-    <h1>Abstract</h1>
-    Background 
-The National Guideline for Assessment, Treatment and Social Rehabilitation of Persons with Concurrent Substance Use and Mental Health Disorders, launched in 2012, is to be implemented in mental health services in Norway. Audit and feedback (A&amp;F) is commonly used as the starting point of an implementation process. It aims to measure the research-practice gap, but its effect varies greatly. Less is known of how audit and feedback is used in natural settings. The aim of this study was to describe and investigate what is discussed and thematised when Quality Improvement (QI) teams in a District Psychiatric Centre (DPC) work to complete an action form as part of an A&amp;F cycle in 2014. 
-Methods 
-This was an instrumental multiple case study involving four units in a DPC in Norway. We used open non-participant observation of QI team meetings in their natural setting, a total of seven teams and eleven meetings. 
-Results 
-The discussions provided health professionals with insight into their own and their colleagues’ practices. They revealed insufficient knowledge of substance-related disorders and experienced unclear role expectations. We found differences in how professional groups sought answers to questions of clinical practice and that they were concerned about whether new tasks fitted in with their routine ways of working. 
-Conclusion 
-Acting on A&amp;F provided an opportunity to discuss practice in general, enhancing awareness of good practice. There was a general need for arenas to relate to practice and QI team meetings after A&amp;F may well be a suitable arena for this. Self-assessment audits seem valuable, particular in areas where no benchmarked data exists, and there is a demand for implementation of new guidelines that might change routines and develop new roles. QI teams could benefit from having a unit leader present at meetings. Nurses and social educators and others turn to psychiatrists or psychologists for answers to clinical and organisational questions beyond guidelines, and show less confidence or routine in seeking research-based information. There is a general need to emphasise training in evidence-based practice and information seeking behaviour for all professional groups
-  </article>
   <article id="contributors-article-KNLKNV7Q" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "'Le droit communautaire – c’est moi !': Statsmonopol, national ret og euro-integrationisme i tiden efter Danmarks indtræden i EF"
+title: "3BF4MJBU"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3BF4MJBU" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2059079" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3BF4MJBU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3BF4MJBU" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-3BF4MJBU"></div>

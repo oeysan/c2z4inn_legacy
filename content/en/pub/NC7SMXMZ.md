@@ -1,5 +1,5 @@
 ---
-title: "Effect of a dialogue-based intervention on psychosocial well-being 6 months after stroke in Norway: A randomized controlled trial"
+title: "NC7SMXMZ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,28 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NC7SMXMZ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1721009" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NC7SMXMZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-NC7SMXMZ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NC7SMXMZ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-NC7SMXMZ" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.medicaljournals.se/jrm/content_files/download.php?doi=10.2340/16501977-2585" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-NC7SMXMZ"></div>
 </article>
 <div id="csl-bib-meta-NC7SMXMZ" class="csl-bib-meta">
-  <article id="abstract-article-NC7SMXMZ" class="abstract-article">
-    <h1>Abstract</h1>
-    Abstract 
-Objective: To evaluate the effect of a dialogue-based intervention on psychosocial well-being 6 months after stroke. 
-Design: Multicentre, prospective, randomized controlled trial.  
-Subjects: Adults (aged ≥ 18 years) who had their first or recurrent stroke within the last month, were medically stable, had sufficient cognitive functioning to participate and understood and spoke Norwegian. 
-Methods: A total of 322 participants were randomly assigned to the intervention (n = 166) or control (n = 156) group. Participants in the intervention group received up to 8 individual sessions aimed at supporting the coping and life skills of stroke survivors in addition to usual care. The primary outcome was the proportion of participants with normal mood measured by the General Health Questionnaire-28 (GHQ-28). The secondary outcomes included health-related quality of life (Stroke and Aphasia Quality of Life Scale; SAQOL-39g), depression (Yale-Brown single-item questionnaire; Yale) and sense of coherence (SOC-13). 
-Results: After controlling for the baseline values, no significant benefit was found in the intervention group over the control group (odds ratio (OR): 0.898: 95% confidence interval (95% CI): 0.54-1.50, p = 0.680) 6 months post-stroke.  
-Conclusion: Psychosocial well-being improved during the first 6 months after stroke in both arms of the trial, but no statistically significant benefit of the dialogue-based intervention was found compared with usual care. 
- 
-Lay Abstract 
-The aim of this study was to evaluate the effect of a dialogue-based intervention on psychosocial well-being 6 months after stroke. A total of 322 participants were assigned to an intervention (= 166) or control (= 156) group. Participants in the intervention group received up to 8 individual sessions aimed at supporting the coping and life skills of stroke survivors in addition to usual care. Psychosocial well-being improved during the first 6 months after the stroke in both arms of the trial. However, no benefit of the dialogue-based intervention was found compared with usual care.
-  </article>
   <article id="contributors-article-NC7SMXMZ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -141,7 +128,7 @@ Campus Elverum
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Bildeboka som dobbelt teater: kunstmotiv, kunsthendelser og sceniske trekk i to bildebøker av Cecilie Løveid og Hilde Kramer"
+title: "G8PQ5WNS"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-G8PQ5WNS" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2114076" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/G8PQ5WNS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-G8PQ5WNS" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-G8PQ5WNS" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.54797/tfl.v52i2-3.6403" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-G8PQ5WNS"></div>
 </article>
 <div id="csl-bib-meta-G8PQ5WNS" class="csl-bib-meta">
-  <article id="abstract-article-G8PQ5WNS" class="abstract-article">
-    <h1>Abstract</h1>
-    “The Picturebook as Double Theatre. Art Motifs, Art Events, and Scenic Features in Two Picturebooks by Cecilie Løveid and Hilde Kramer” How can the picturebook as medium establish itself as a theatre performance, with the reader as a participatory audience? Which possibilities does the picturebook hold in exploring the experience of art by placing the stage and the art event at the center of the storyline? These are the research questions in focus in this article on Cecilie Løveid and Hilde Kramer’s two picturebooks Lille Pille and lille Fille in The Deep Forest’s Theatre (Lille Pille og lille Fille i Den dype skogs teater, 1998) and Lille Pille and lille Fille in The Deep Forest’s Ballet (Lille Pille og lille Fille i Den dype skogs ballett, 1998). The article’s thesis is that these picturebooks work as double theatre: As well as dealing with announced stage performances on the thematic level, they also amount to stage performances in themselves, as the picturebook medium is employed in order to place the reader together with the literary characters in a theatre room. The analysis is inspired by theoretical insights from the research fields of picturebook, drama, and theatre. By drawing on and combining perspectives from different fields, the analysis aims at demonstrating the picturebook’s specific material and medial traits, as well as its openness towards other media and art forms. Furthermore, directing the analytical attention towards how the picturebooks are staged as a double theatre performance, also enables an unfolding of the fundamental questions about art and art experience that these books raise.
-  </article>
   <article id="contributors-article-G8PQ5WNS" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

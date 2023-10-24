@@ -1,5 +1,5 @@
 ---
-title: "Blinded by Emotions: The Association between Emotional Reactivity and Trust in Fictitious News Stories on Crime"
+title: "AGXMW7XE"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AGXMW7XE" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1983894" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/AGXMW7XE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-AGXMW7XE" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AGXMW7XE" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-AGXMW7XE" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://doi.org/10.31577/sp.2021.04.833" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-AGXMW7XE"></div>
 </article>
 <div id="csl-bib-meta-AGXMW7XE" class="csl-bib-meta">
-  <article id="abstract-article-AGXMW7XE" class="abstract-article">
-    <h1>Abstract</h1>
-    We investigated the relation between emotional reactivity measured by Perth Emotional Reactivity Scale – Short Form (PERS-S) and trust in fictitious news stories on crime. In Study 1 we found on a sample of 508 older adults (M = 70.6 years) that their general positive and negative emotional reactivity was associated with trust in the presented misinformation, experienced negative emotions elicited by the news stories and willingness to share the news. For young adults in Study 2 (N = 186; M = 21.7) there was a weaker association between emotional reactivity and trust in misinformation, which involved only negative emo-tional reactivity. For both samples, trust in fictitious news stories was associated with trust in traditional and new media. There was no association between trust in fictitious news stories and the amount of news consumption and Internet use. Based on our findings, the focus on emotion control and critical reading seems to be important in the fight against misinformation.
-  </article>
   <article id="contributors-article-AGXMW7XE" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

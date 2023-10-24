@@ -1,5 +1,5 @@
 ---
-title: "Defining animal welfare standards in hunting: body mass determines thresholds for incapacitation time and flight distance"
+title: "CQCK7QNI"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CQCK7QNI" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1609651" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/CQCK7QNI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-CQCK7QNI" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CQCK7QNI" class="csl-bib-button">Contributors</a>
+    <a href="https://www.nature.com/articles/s41598-018-32102-0.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-CQCK7QNI"></div>
 </article>
 <div id="csl-bib-meta-CQCK7QNI" class="csl-bib-meta">
-  <article id="abstract-article-CQCK7QNI" class="abstract-article">
-    <h1>Abstract</h1>
-    Shooting is an important tool for managing terrestrial wildlife populations worldwide. To date, however, there has been few quantitative methods available enabling assessment of the animal welfare outcomes of rifle hunting. We apply a variety of factors to model flight distance (distance travelled by an animal after bullet impact) and incapacitation from the moment of bullet impact. These factors include body mass, allometric and isometric scaling, comparative physiology, wound ballistics and linear kinematics. This approach provides for the first time a method for quantifying and grading the quality of shooting processes by examining only body mass and flight distance. Our model is a universally applicable tool for measuring animal welfare outcomes of shooting regimes both within and among species. For management agencies the model should be a practical tool for monitoring and evaluating animal welfare outcomes regarding shooting of mammalian populations.
-  </article>
   <article id="contributors-article-CQCK7QNI" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

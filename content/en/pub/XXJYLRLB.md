@@ -1,5 +1,5 @@
 ---
-title: "State sport policy for indigenous sport: inclusive ambitions and exclusive coalitions"
+title: "XXJYLRLB"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,39 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XXJYLRLB" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1471432" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XXJYLRLB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-XXJYLRLB" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XXJYLRLB" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-XXJYLRLB" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/19406940.2016.1232297" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-XXJYLRLB"></div>
 </article>
 <div id="csl-bib-meta-XXJYLRLB" class="csl-bib-meta">
-  <article id="abstract-article-XXJYLRLB" class="abstract-article">
-    <h1>Abstract</h1>
-    With the policy aim ‘Sport for all’ as a backdrop, this paper investigates 
-sport policies for Sami sport in Sweden and Norway (the Sami is the 
-indigenous people residing in the northern parts of Finland, Norway, 
-Russia and Sweden). By applying an Advocacy Coalition Framework, the 
-purpose of the paper is to explore how the organisation of and possibilities 
-to exercise Sami sport are affected by political coalitions, social 
-structures and institutions. Drawing on data from policy documents and 
-interviews with government and Sami Parliament representatives, results 
-show how institutionalised relationships affect the general ambitions to 
-provide sport for all and the more specific ambitions to reach underrepresented 
-groups. In both countries, dominant coalitions are made up 
-by the institutionalised cooperation between the states’ Ministry of 
-Culture and the umbrella sport organisations. Alternative and emerging 
-coalitions are made up by the Sami sport organisations, the Sami 
-Parliaments and the Sami policy units of the states. While the dominant 
-coalition is stronger in Sweden, the alternative coalition is stronger in 
-Norway. These differences are interpreted as being results of policy 
-elements outside the policy subsystem of sport – the two countries’ 
-different relationships to legal adoptions of indigenous rights. These 
-findings suggest that approaching sport organisations outside dominant 
-coalitions can be conducive in reaching sport for all ambitions.
-  </article>
   <article id="contributors-article-XXJYLRLB" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -87,13 +63,13 @@ Room 4R4142
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

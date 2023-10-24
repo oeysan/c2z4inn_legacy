@@ -1,5 +1,5 @@
 ---
-title: "Leisure time physical activity and depressive symptoms among adolescents in Sweden"
+title: "Z3GPSPLR"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,32 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Z3GPSPLR" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1821313" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Z3GPSPLR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-Z3GPSPLR" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Z3GPSPLR" class="csl-bib-button">Contributors</a>
+    <a href="https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-020-09022-8" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-Z3GPSPLR"></div>
 </article>
 <div id="csl-bib-meta-Z3GPSPLR" class="csl-bib-meta">
-  <article id="abstract-article-Z3GPSPLR" class="abstract-article">
-    <h1>Abstract</h1>
-    Abstract 
-Background: Mental health problems have increased noticeably among adolescents. Physical activity has been 
-identified as an important factor in the promotion of mental health. The purpose of this study was to explore how 
-leisure time physical activity was associated with depressive symptoms among adolescents in Sweden. 
-Methods: Using binary logistic regression we analyzed Swedish data collected as part of the Children of 
-Immigrants: Longitudinal Survey in Four European Countries. The complete sample used for analysis consisted of 
-3787 adolescents (including 1855 boys and 1932 girls). 
-Results: Adolescents who participated in physical activity during their leisure time on a daily, weekly, or monthly 
-basis had substantially lower odds of often feeling depressed than those who were physically inactive. This pattern 
-applied to both boys and girls. Relative to boys, girls had significantly higher odds of often feeling depressed. 
-Conclusions: The findings of this study suggested that participation in physical activity regularly during leisure time 
-was associated with a lower level of depressive symptoms among adolescents in Sweden. Because of the crosssectional study design conclusions about causality cannot be drawn. Future research based on longitudinal data is 
-needed to further explore the mechanisms behind the association. This study calls for recognition of the value of 
-physical activity in promoting mental health among adolescents. 
-Keywords: Physical activity frequency, Depressive symptoms, Adolescents, Sweden
-  </article>
   <article id="contributors-article-Z3GPSPLR" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

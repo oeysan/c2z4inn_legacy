@@ -1,5 +1,5 @@
 ---
-title: "“Is it a slow day or a go day?”: The perceptions and applications of velocity-based training within elite strength and conditioning"
+title: "2WQBU72I"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2WQBU72I" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2050282" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/2WQBU72I" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://journals.sagepub.com/doi/pdf/10.1177/17479541221099641" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-2WQBU72I"></div>
 </article>

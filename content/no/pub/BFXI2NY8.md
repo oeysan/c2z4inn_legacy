@@ -1,5 +1,5 @@
 ---
-title: "Å vera to om å fortelja eit liv. Ein analyse av forhandlinga om ei livshistorie i Demian Vitanzas Dette livet eller det neste"
+title: "BFXI2NY8"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BFXI2NY8" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1932889" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BFXI2NY8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BFXI2NY8" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.18261/issn.1500-1989-2021-03-05" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-BFXI2NY8"></div>
 </article>

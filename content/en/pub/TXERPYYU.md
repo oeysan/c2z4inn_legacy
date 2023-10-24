@@ -1,5 +1,5 @@
 ---
-title: "Metaethics as conceptual engineering"
+title: "TXERPYYU"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TXERPYYU" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2147713" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TXERPYYU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-TXERPYYU" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TXERPYYU" class="csl-bib-button">Contributors</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/phib.12305" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TXERPYYU"></div>
 </article>
 <div id="csl-bib-meta-TXERPYYU" class="csl-bib-meta">
-  <article id="abstract-article-TXERPYYU" class="abstract-article">
-    <h1>Abstract</h1>
-    On the traditional approach to metaethics, theories are expected to be faithful to ordinary normative discourse—or at worst (if we think the ordinary discourse is metaphysically unsound) to deviate from it as little as possible. This paper develops an alternative, “conceptual engineering” approach to metaethical enquiry, which is not in this way restricted by our present discourse. On this approach, we will seek to understand the psychology, semantics, metaphysics and epistemology, not just of our present concepts, but also of other possible normative concepts. The ultimate point of the enquiry is to choose between the available alternatives: to decide what kinds of normative concepts to use, going forward. The paper aims to make this suggestion precise, in a way that (a) answers worries about circularity, (b) answers worries about “changing the subject”, (c) retains metaethics as a truth‐seeking enquiry, and (d) leads to an independently plausible methodology.
-  </article>
   <article id="contributors-article-TXERPYYU" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Sperm chromatin integrity and DNA methylation in Norwegian Red bulls of contrasting fertility"
+title: "JYY7C5HE"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JYY7C5HE" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1894059" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JYY7C5HE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JYY7C5HE" class="csl-bib-button">Contributors</a>
+    <a href="https://www.duo.uio.no/bitstream/10852/86229/1/PhD-Narud-2021.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JYY7C5HE"></div>
 </article>

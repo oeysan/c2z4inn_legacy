@@ -1,5 +1,5 @@
 ---
-title: "Forestry and environmental conditions as determinants of pine marten Martes martes occurrence in Norway"
+title: "RKKNT6JD"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RKKNT6JD" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2164617" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RKKNT6JD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-RKKNT6JD" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RKKNT6JD" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-RKKNT6JD" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wlb3.01113" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-RKKNT6JD"></div>
 </article>
 <div id="csl-bib-meta-RKKNT6JD" class="csl-bib-meta">
-  <article id="abstract-article-RKKNT6JD" class="abstract-article">
-    <h1>Abstract</h1>
-    The European pine marten Martes martes is often associated with late seral stage coniferous forest stands. Earlier research has indicated that this species may be negatively influenced by clearcutting practices. However, the effects of current clearcutting methods on pine marten occurrence in conjunction with changing environmental conditions are not well known. In this study, we combined four complete years of nationwide data collected during a long‐term camera trap (CT) monitoring program in Norway. We employed a multi‐scale occupancy model to investigate the relationship of pine marten occurrence to clearcuts (regenerating stands ≤ 10 years old) and forests ≥ 120 years old. We also examined pine marten detection in relation to habitat features (i.e. dominant microsite characteristics) and to varying snow depths and temperatures. We found no relationship between pine marten occurrence and the proportions of old forest and clearcuts at the landscape scale. At the habitat‐patch scale, pine marten occurrence was positively associated with the presence of old forest patches and terrain ruggedness, but not with clearcuts ≤ 100 m from sites. At CT sites near clearcuts, the detection probability was negatively correlated with snow depth. In contrast, pine marten occurrence was positively associated with snow depth at CT sites &gt; 100 m from clearcuts. Furthermore, the detection probability increased with temperature and the presence of boulders at CT sites. Boulders may provide important access points for foraging, and cover for resting and predator avoidance. While previous studies indicate that pine martens prefer older forest and avoid clearcuts, the current level and scale of clearcutting in Norway does not appear to influence its occurrence at the landscape scale.
-  </article>
   <article id="contributors-article-RKKNT6JD" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -87,7 +83,7 @@ Campus Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

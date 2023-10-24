@@ -1,5 +1,5 @@
 ---
-title: "Kroppsøvingslæreren som en inkluderende pedagog i skjæringspunktet mellom individ og samfunn"
+title: "DJWJ8YVP"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DJWJ8YVP" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1810431" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/DJWJ8YVP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-DJWJ8YVP" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-DJWJ8YVP" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-DJWJ8YVP" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://jased.net/index.php/jased/article/download/1530/4064" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-DJWJ8YVP"></div>
 </article>
 <div id="csl-bib-meta-DJWJ8YVP" class="csl-bib-meta">
-  <article id="abstract-article-DJWJ8YVP" class="abstract-article">
-    <h1>Samandrag</h1>
-    Forskning har vist at kroppsøvingsfaget favoriserer enkelte elevgrupper og marginaliserer andre (se f. eks. Dowling, 2016; Fitzpatrick, 2013; Gerdin et al., 2019; Öhman, Almqvist &amp;amp; Meckbach, 2014). Denne artikkelen baserer seg på data fra et internasjonalt forskningssamarbeid mellom forskere fra New Zealand, Sverige og Norge; EDUHEALTH. Prosjektet har som mål, gjennom et «bottom-up» perspektiv, å studere de presumptivt gode eksemplene på kroppsøvingslærere som jobber sosialt inkluderende i faget. Dette er lærere som anerkjenner sosiale bakgrunnsvariabler og sosial ulikhet, og som tar høyde for dette i sin undervisning for å skape inkludering snarere enn utenforskap. Denne artikkelen bygger på observasjon (Critical Incident Technique) og intervju (Stimulated-Recall Interview) med én kroppsøvingslærer i New Zealand. Vi har benyttet Bronfenbrenners utviklingsøkologiske modell som analytisk rammeverk. Våre analyser viser at lærerens inkluderende handlingsvalg i undervisningen springer ut fra faglige refleksjoner basert på kunnskap om elevene i skjæringspunktet mellom individ og samfunn. Våre funn viser med andre ord at inkluderende undervisning er både en praksis og en prosess som krever refleksjon på mikro-, meso-, ekso- og makronivå.
-  </article>
   <article id="contributors-article-DJWJ8YVP" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -103,7 +99,7 @@ Rom 4R4141
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

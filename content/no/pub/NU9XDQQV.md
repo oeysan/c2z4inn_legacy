@@ -1,5 +1,5 @@
 ---
-title: "Insults according to notions of intelligence: Perspectives from education and newsmedia"
+title: "NU9XDQQV"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,26 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NU9XDQQV" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2012245" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NU9XDQQV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-NU9XDQQV" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NU9XDQQV" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-NU9XDQQV" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://oro.open.ac.uk/82672/1/82672.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-NU9XDQQV"></div>
 </article>
 <div id="csl-bib-meta-NU9XDQQV" class="csl-bib-meta">
-  <article id="abstract-article-NU9XDQQV" class="abstract-article">
-    <h1>Samandrag</h1>
-    Background  
-The terms idiot, imbecile and moron are generally associated with notions of intelligence, having served both scientific and mundane roles across cultural-historical contexts and in many different countries. This paper seeks to explore the degree to which the use of these terms is an everyday part of our lives and to map out the meanings being attached to them.  
-Methods 
- This paper reports on their current usage in two arenas: within 29 academic papers published from 2016-2021, reporting on interviews or observations undertaken in educational contexts; and within 134 articles from four English language newspapers published in the first three months of 2021. Using a discursive and thematic approach to the analysis,  it considers the degree to which these may be considered slur or taboo words, and whether they can be linked to discriminatory practices frequently experienced by groups with whom they are associated. 
-Findings  
-It is evident is that people use the terms differently in different arenas. However, they see them as negative, associate them with stereotypical characteristics, are happy to apply them to others, but want to avoid having them applied to themselves.  
-Conclusion  
-This study shows how widely these words are used across social contexts, and suggests that as with other historical terms for marginalised populations we need to regard them as slurs and treat them as taboo.
-  </article>
   <article id="contributors-article-NU9XDQQV" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -64,13 +53,13 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

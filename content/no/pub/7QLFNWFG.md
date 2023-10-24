@@ -1,5 +1,5 @@
 ---
-title: "Metaphor comprehension and production in a second language"
+title: "7QLFNWFG"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7QLFNWFG" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1419950" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7QLFNWFG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7QLFNWFG" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-7QLFNWFG"></div>

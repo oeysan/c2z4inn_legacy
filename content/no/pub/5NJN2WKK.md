@@ -1,5 +1,5 @@
 ---
-title: "Experiences of WNGER II Ph.D. Fellows During the COVID-19 Pandemic – A Case Study"
+title: "5NJN2WKK"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5NJN2WKK" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2017982" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/5NJN2WKK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-5NJN2WKK" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-5NJN2WKK" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-5NJN2WKK" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/feduc.2022.860828/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-5NJN2WKK"></div>
 </article>
 <div id="csl-bib-meta-5NJN2WKK" class="csl-bib-meta">
-  <article id="abstract-article-5NJN2WKK" class="abstract-article">
-    <h1>Samandrag</h1>
-    Since January 2020 there have been over 97 million reported cases and 2 million deaths worldwide from COVID-19 and it is not over yet. In many ways, the COVID-19 pandemic is a slow-motion disaster and an ‘external intervention’ that suddenly began in early 2020 and has maintained its grip on the world. The pandemic has influenced the education sector strongly as well, and Ph.D. candidates enrolled in Ph.D. programs during COVID-19 (‘the Ph.D. corona generation’) at Western Norway Graduate School of Educational Research II (WNGER II) were examined in this case study. WNGER II is a research school consortium with seven universities and universities colleges, 97 Ph.D.-candidates, and 48 supervisors and was established in 2018 to complement the Ph.D.-programs and strengthen the Ph.D. education in Western Norway. A pilot phase (2016–2017) was used to identify and address specific challenges in Ph.D. education as experienced in the seven universities and university colleges in Western Norway. The pandemic has presented an urgent need for a better knowledge base to understand the professional, social, and existential conditions for doctoral fellows when society is shut down for an extended period. This explorative case study examined what the doctoral fellows experienced when home office, digital teaching, and digital supervision suddenly replaced physical presence in the workplace (more or less) from March 12, 2020 to November 30, 2021 as a result of the COVID-19 pandemic. A mixed-methods research, formative dialog research, and case study design was applied to try to bridge the conceptual and contextual understanding of this phenomenon. The main data sources were a survey ( N = 62, 85% women, 15% men, response rate 70%) and semi-structured interviews (with six Ph.D. fellows). Supplementary data collection was based on formative dialog research and comprised field dialog (13 seminars, eight Ph.D. courses, three Ph.D. supervision seminars, and two Ph.D. gatherings, N = 26), one focus group ( n = 11), 21 online observations, and document analysis of Ph.D. policy documents and course evaluations ( N = 15). The explorative case study found that the WNGER II Ph.D. fellows are satisfied with the educational quality concerning digital teaching and supervision (micro-level) but have experienced several research-related and psycho-social challenges during the pandemic (meso-level). These changed frame factors have impeded their feasibility and doctoral progression. Even if the WNGER II Ph.D. fellows experienced support during the pandemic, it seems like it entailed incremental measures that have not been sufficient. The Ph.D. regulations were created before the pandemic under normal conditions for normal conditions, but it appears that no substantial adjustments have been made for these extraordinary pandemic conditions in which frame factors attached to data collection, publication delays, childcare responsibilities, social distancing, etc. have changed the premises for their feasibility. This has been particularly critical for these Ph.D. fellows, who have been in this slow-motion disaster for up to 20 months (55% of their 3-year scholarship). Therefore, results from the case study indicate it is more important than ever to understand the gap between formulation, -transformation, and realization arena when it comes to the distinction between incremental, semi-structural changes and fundamental changes in Ph.D. regulations and guidelines caused by societal crises. Even if time compensation has been offered, it seems like the overall Ph.D. guidelines, regulations, and assessment norms have remained unchanged in the transformation arena (meso-level), which might have given some unforeseen implications for some Ph.D.-candidates, which calls for better crisis preparedness on a doctoral level in the years to come.
-  </article>
   <article id="contributors-article-5NJN2WKK" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

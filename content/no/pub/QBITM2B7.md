@@ -1,5 +1,5 @@
 ---
-title: "Beyond Naming: Narrative Production in L1 and L2 in Multilingual Individuals with and without Dementia"
+title: "QBITM2B7"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QBITM2B7" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2173687" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/QBITM2B7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-QBITM2B7" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-QBITM2B7" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-QBITM2B7" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4324/9781003330318-10" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-QBITM2B7"></div>
 </article>
 <div id="csl-bib-meta-QBITM2B7" class="csl-bib-meta">
-  <article id="abstract-article-QBITM2B7" class="abstract-article">
-    <h1>Samandrag</h1>
-    Persons with dementia (PWD) experience language impairments, mainly related to lexical retrieval. Linguistic assessment of multilingual PWD is particularly challenging due to a lack of appropriate tools. Narrative production may provide a broader understanding of the language impairments in dementia. Thus, we investigate narrative production in native (L1) and non-native (L2) speakers of Norwegian with dementia of the Alzheimer's type (DAT) and the logopenic variant of Primary Progressive Aphasia (lvPPA), and neurologically healthy controls. The participants described the Bird story from the Bilingual Aphasia Test. We calculated several lexical variables, including lexical density and pronoun ratio. Additionally, through a bottom-up procedure, we identified 10 key content components across both storylines of the cartoon, considered necessary for a coherent story. The lexical analysis showed that PWD had lower lexical density and higher pronoun ratio than control participants, indicative of word retrieval difficulties. Furthermore, the combination of being an L2 user and having dementia amplified the word-finding difficulties. Concerning content, only dementia seems to play a role – PWD produced fewer key components than control participants regardless of whether testing occurred in their L1 or L2. The results confirm that analyses of narratives can provide a broader understanding of the multifaceted impairments than single-word naming, in language impairment associated with dementia.
-  </article>
   <article id="contributors-article-QBITM2B7" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -67,7 +63,7 @@ Rom 2C275
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

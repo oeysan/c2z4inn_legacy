@@ -1,5 +1,5 @@
 ---
-title: "Læreroppfatninger om språkstøttende fagundervisning i språklig heterogene klasser. En kasusstudie"
+title: "RZE5MWW6"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RZE5MWW6" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2020335" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RZE5MWW6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-RZE5MWW6" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RZE5MWW6" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-RZE5MWW6" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://pedagogikkogkritikk.no/index.php/ntpk/article/download/3666/6415" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-RZE5MWW6"></div>
 </article>
 <div id="csl-bib-meta-RZE5MWW6" class="csl-bib-meta">
-  <article id="abstract-article-RZE5MWW6" class="abstract-article">
-    <h1>Abstract</h1>
-    I artikkelen presenteres en kasusstudie av to læreres samarbeid om å utvikle en inkluderende fagundervisning i klasser der noen elever lærer norsk og fag parallelt. Med inkluderende fagundervisning forstås her en undervisning der høye forventninger møtes med høy grad av støtte til elever med behov for det. Gjennom et skoleår deltar to erfarne mellomtrinnslærere, en andrespråkslærer og en naturfaglærer, i et forskningsprosjekt der de prøver ut undervisningsopplegg med ulike støttestrukturer. Lærernes samarbeid belyses gjennom en studie av deres oppfatninger om undervisningssituasjonen og bruk av støttestrukturer. Det er foretatt en kvalitativ analyse av lærernes svar på skriftlige spørsmål og bidrag i filmede samtaler med andre lærere. Analysen viser at det særlig er tre støttestrukturer lærerne er opptatt av: arbeid med fagspråk med vekt på ordforrådet, bruk av elevenes førstespråk som ressurs og den valgte undervisningsmodellen med språkundervisning i forkant av fagundervisningen. Avslutningsvis diskuteres på hvilke måter slike støttestrukturer styrker grunnlaget for en likeverdig og inkluderende fagundervisning. Kasusstudien illustrerer både hva lærerne oppfatter som vellykket, og hvilke dilemmaer de står i. Slik bidrar den til å utfylle forståelsen av hvordan lærere oppfatter og tar i bruk støttestrukturer som er kjent fra faglitteraturen. English abstract Teacher beliefs on language scaffolding in mainstream subject teaching. A case study The article presents a case study of two teachers’ collaboration to develop inclusive subject teaching in classes where some students learn Norwegian and the subject at the same time. Inclusive subject teaching is understood as teaching where high expectations are met with a high degree of support. Two experienced middle school teachers, a second language teacher and a science teacher, participate in a research project where they tried out different scaffolding strategies. The teachers’ collaboration is analyzed through a study of their beliefs about the teaching situation and the use of scaffolding strategies. The data analyzed are the teachers’ answers to written questions and their contributions in filmed dialogs with other teachers. The analysis shows that the teachers emphasize three scaffolding strategies: work with subject language with emphasis on vocabulary, use of students’ first language as a resource and the chosen teaching model with language teaching prior to subject teaching. Finally, the article discusses in what ways teachers’ work with scaffolding contribute to an inclusive subject teaching. The case study illustrates both what teachers perceive as successful, and what dilemmas they face. In this way, the study complement the understanding of how teachers perceive and use scaffolding strategies that are known from the literature.
-  </article>
   <article id="contributors-article-RZE5MWW6" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -101,7 +97,7 @@ Room 2N2209
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

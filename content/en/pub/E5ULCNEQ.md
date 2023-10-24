@@ -1,5 +1,5 @@
 ---
-title: "Retten til å sitte i uskiftet bo for norske «Syden-pensjonister»"
+title: "E5ULCNEQ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E5ULCNEQ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1842624" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/E5ULCNEQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-E5ULCNEQ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-E5ULCNEQ" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/issn.0809-9553-2020-03-04-03" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-E5ULCNEQ"></div>
 </article>
 <div id="csl-bib-meta-E5ULCNEQ" class="csl-bib-meta">
-  <article id="abstract-article-E5ULCNEQ" class="abstract-article">
-    <h1>Abstract</h1>
-    En artikkel om internasjonal privatrett, og reglene som bestemmer i hvilken grad en typisk norsk "Syden-pensjonist" har rett til å sitte i uskiftet bo etter norsk rett hvis ektefellen avgår ved døden mens de bor i utlandet, f.eks. i Spania.
-  </article>
   <article id="contributors-article-E5ULCNEQ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

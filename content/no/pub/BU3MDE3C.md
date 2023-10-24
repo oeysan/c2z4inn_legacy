@@ -1,5 +1,5 @@
 ---
-title: "Knowing Music as Representation or as Operation: Exploring Musical Diversity through Collaborative Music Making in Kaleidoscope"
+title: "BU3MDE3C"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BU3MDE3C" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1928782" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BU3MDE3C" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-BU3MDE3C" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BU3MDE3C" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-BU3MDE3C" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://journals.oslomet.no/index.php/information/article/download/3770/3958" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-BU3MDE3C"></div>
 </article>
 <div id="csl-bib-meta-BU3MDE3C" class="csl-bib-meta">
-  <article id="abstract-article-BU3MDE3C" class="abstract-article">
-    <h1>Samandrag</h1>
-    A society considered to be in a multicultural condition is likely to condition the way things are seen and what is seen as important. Attention is likely to be drawn to difference and diversity and the prospects of including it, and high hopes may be set on music in this. Within a certain multicultural discourse, music is expected to affirm and represent identities, while at the same time to create unity across diversity. Departing from a Norwegian context, drawing on results from fieldwork within the intercultural ensemble Kaleidoscope, this paper explores collaborative music making in relation to diversity and knowledge production. It is argued that musical knowledge may be generated in useful ways by thinking beyond music as representation. Knowing music as operation may better benefit co-construction of diverse and inclusive music practices. 
-  </article>
   <article id="contributors-article-BU3MDE3C" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -67,7 +63,7 @@ Rom 2K225
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "A 6-day high-intensity interval microcycle improves indicators of endurance performance in elite cross-country skiers"
+title: "FWC4NI49"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FWC4NI49" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2078418" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/FWC4NI49" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-FWC4NI49" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FWC4NI49" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-FWC4NI49" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fspor.2022.948127/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-FWC4NI49"></div>
 </article>
 <div id="csl-bib-meta-FWC4NI49" class="csl-bib-meta">
-  <article id="abstract-article-FWC4NI49" class="abstract-article">
-    <h1>Samandrag</h1>
-    Purpose The aim of this study was to compare the effects of a 6-day high-intensity interval (HIT) block [BLOCK, n = 12, maximal oxygen uptake (V̇O 2max = 69. 6 ± 4.3 mL·min −1 ·kg −1 )] with a time-matched period with usual training (CON, n = 12, V̇O 2max = 69.2 ± 4.2 mL·min −1 ·kg −1 ) in well-trained cross-country (XC) skiers on physiological determinants and indicators of endurance performance. Furthermore, the study aimed to investigate the acute physiological responses, including time ≥90% of V̇O 2max , and its associated reliability during repeated HIT sessions in the HIT microcycle. Methods Before the 6-day HIT block and following 5 days of recovery after the HIT block, both groups were tested on indicators of endurance performance. To quantify time ≥90% of V̇O 2max during interval sessions in the HIT block, V̇O 2 measurements were performed on the 1st, 2nd, and last HIT session in BLOCK. Results BLOCK had a larger improvement than CON in maximal 1-min velocity achieved during the V̇O 2max test (3.1 ± 3.1% vs. 1.2 ± 1.6%, respectively; p = 0.010) and velocity corresponding to 4 mmol·L −1 blood lactate (3.2 ± 2.9% vs. 0.6 ± 2.1%, respectively; p = 0.024). During submaximal exercise, BLOCK displayed a larger reduction in respiratory exchange ratio, blood lactate concentration, heart rate, and rate of perceived exertion ( p 0.05) and a tendency towards less energy expenditure compared to CON ( p = 0.073). The ICC of time ≥90% V̇O 2max in the present study was 0.57, which indicates moderate reliability. Conclusions In well-trained XC skiers, BLOCK induced superior changes in indicators of endurance performance compared with CON, while time ≥90% of V̇O 2max during the HIT sessions in the 6-day block had a moderate reliability.
-  </article>
   <article id="contributors-article-FWC4NI49" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -125,7 +121,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg7" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg07_no.png" class="image" alt="SDG 7">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>27</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=7#archive" class="sdg-publication-count"><span>27</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/ren-energi-til-alle?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

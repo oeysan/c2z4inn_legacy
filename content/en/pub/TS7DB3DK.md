@@ -1,5 +1,5 @@
 ---
-title: "Experiences of Professional Helping Relations by Persons with Co-occurring Mental Health and Substance Use Disorders"
+title: "TS7DB3DK"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TS7DB3DK" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1495309" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TS7DB3DK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-TS7DB3DK" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TS7DB3DK" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-TS7DB3DK" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://link.springer.com/content/pdf/10.1007%2Fs11469-017-9780-9.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TS7DB3DK"></div>
 </article>
 <div id="csl-bib-meta-TS7DB3DK" class="csl-bib-meta">
-  <article id="abstract-article-TS7DB3DK" class="abstract-article">
-    <h1>Abstract</h1>
-    Recovery in co-occurring mental health and substance use disorders often involves relationships with professional helpers, yet little is known about how these are experienced by service users. The aim of this study was to explore and describe behaviour and attributes of professional helpers that support recovery, as experienced by persons with co-occurring disorders. Within a collaborative approach, in-depth individual interviews with eight persons with lived experience of co-occurring disorders were analysed using systematic text condensation. The analysis yielded four categories of recovery-supporting behaviour and attributes of professional helpers and the ability to build trust cuts across all of them: Building trust through (a) hopefulness and loving concern, (b) commitment, (c) direct honesty and expectation and (d) action and courage. Services should allow for flexibility and continuity, and training should recognise the importance of establishing trust in order to reach out to this group.
-  </article>
   <article id="contributors-article-TS7DB3DK" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -67,7 +63,7 @@ Room 4L3202
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

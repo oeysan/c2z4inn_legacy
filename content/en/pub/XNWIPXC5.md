@@ -1,5 +1,5 @@
 ---
-title: "The meaning of democracy in an era of good governance: Views of representation and their implications for board composition"
+title: "XNWIPXC5"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XNWIPXC5" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2018368" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XNWIPXC5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-XNWIPXC5" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XNWIPXC5" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-XNWIPXC5" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://journals.sagepub.com/doi/pdf/10.1177/10126902221088127" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-XNWIPXC5"></div>
 </article>
 <div id="csl-bib-meta-XNWIPXC5" class="csl-bib-meta">
-  <article id="abstract-article-XNWIPXC5" class="abstract-article">
-    <h1>Abstract</h1>
-    Contemporary sport governance contexts are marked by a trend towards efficiency-based board composition and an increasing use of instruments aimed to (re)shape boards. Yet, democratic governance is integral to many countries’ sport systems, and research tells us that representation still matters in sport governance. Considering this, the aim with this paper is to provide researchers and practitioners with a vocabulary to understand and address issues of representation in board composition. The paper builds on interviews with nomination committee representatives of 62 Swedish national sport federations (NSFs). The analysis provides insights into the meaning and implications of four distinct views of representation, along with an interpretation of potential responses to board-shaping instruments engendered by these views.
-  </article>
   <article id="contributors-article-XNWIPXC5" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -93,7 +89,7 @@ Room 4R4142
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

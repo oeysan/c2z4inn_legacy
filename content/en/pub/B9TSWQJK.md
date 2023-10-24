@@ -1,5 +1,5 @@
 ---
-title: "Dehydration during Long Lasting Dog Sled Races: Experiences from Finnmarksløpet"
+title: "B9TSWQJK"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-B9TSWQJK" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1687320" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/B9TSWQJK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-B9TSWQJK" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-B9TSWQJK" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-B9TSWQJK"></div>
 </article>
 <div id="csl-bib-meta-B9TSWQJK" class="csl-bib-meta">
-  <article id="abstract-article-B9TSWQJK" class="abstract-article">
-    <h1>Abstract</h1>
-    Objective. The purpose was to summarize results from our projects studying hydration status in mushers participating in the long-distance dog sled races, Finnmarksløpet (FL). Methods. Urine samples from six male mushers, participating in the 2007 FL and two female mushers, participated in the 2008 FL, were collected. To evaluate hydration status, urine osmolality (Uosm) and urine specific gravity (Usg) were analysed. Urine osmolality (Uosm) was determined using freezing point depression, and urine specific gravity (Usg) was determined using a hand-held refractometer. Values of Uosm &gt; 900 mOsm/L-1 and Usg &gt; 1,030 were used as signs of dehydration. Results. Eighteen urine samples from male mushers and twenty-five samples from female mushers were analysed. One male and the young female mushers did not finish the race. One male musher were dehydrated before the race. All male mushers were dehydrated at some time during the race, two were not dehydrated at the end of the race. The older female musher were not dehydrated. The younger musher showed dehydration in most of the samples. Conclusions. All male mushers showed signs of dehydration at some point. Even when there had been a focus on hydration ahead of the race, dehydration occurred in the young female. Key words: Mushers, urine osmolality, urine specific gravity, exercise
-  </article>
   <article id="contributors-article-B9TSWQJK" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Belief Gambles in Epistemic Decision Theory"
+title: "VTPA44E5"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VTPA44E5" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2051652" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VTPA44E5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VTPA44E5" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-VTPA44E5"></div>

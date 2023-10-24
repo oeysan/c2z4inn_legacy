@@ -1,5 +1,5 @@
 ---
-title: "Challenges and opportunities of species distribution modelling of terrestrial arthropod predators"
+title: "UCVYIGVJ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UCVYIGVJ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1952871" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UCVYIGVJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ddi.13434" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-UCVYIGVJ"></div>
 </article>

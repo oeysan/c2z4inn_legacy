@@ -1,5 +1,5 @@
 ---
-title: "Living with strangers: exploring motivations and stated preferences for considering co-housing and shared living in Bergen, Norway"
+title: "LX2UIHYM"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LX2UIHYM" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1931129" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LX2UIHYM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LX2UIHYM" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/08882746.2021.1972264?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LX2UIHYM"></div>
 </article>

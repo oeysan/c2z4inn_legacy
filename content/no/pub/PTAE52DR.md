@@ -1,5 +1,5 @@
 ---
-title: "Periphery and Integrated Planning: Coping with Rural and Touristic Challenges across Scales in the German Wadden Sea Region"
+title: "PTAE52DR"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PTAE52DR" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2150197" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PTAE52DR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-PTAE52DR" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PTAE52DR" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-PTAE52DR" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2073-445X/12/4/904/pdf?version=1681808270" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PTAE52DR"></div>
 </article>
 <div id="csl-bib-meta-PTAE52DR" class="csl-bib-meta">
-  <article id="abstract-article-PTAE52DR" class="abstract-article">
-    <h1>Samandrag</h1>
-    Rural landscapes face multiple challenges, but they can be attractive for developing nature-based tourism. Encouraging place-based participatory governance in local communities represents a relevant transdisciplinary landscape approach. In this study, we map (1) rural and touristic challenges and (2) coping strategies in peripheral–rural municipalities, and we (3) discuss the need for integration of local and regional-level actions. Two island and two mainland municipalities with different demographic profiles and different degrees of touristic specialization in the German Wadden Sea Region were selected as case studies. Through meetings and interviews we mapped perceived challenges and analyzed policies and other coping strategies. We then discuss the need for integration at multiple scales. Island municipalities were more exposed to tourism development challenges than mainland municipalities. Securing public services and welfare, and the sustainable conservation of ecological green infrastructures were particularly challenging. Applying a participatory approach was a coping strategy at the local level. However, there is a need for activities at multiple scales. In coping with rural development challenges, local level participatory approaches and regional planning complement each other. Combination and integration of local and regional-level concepts should be encouraged to support collaborative learning through evaluation.
-  </article>
   <article id="contributors-article-PTAE52DR" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -57,13 +53,13 @@ Studiested Evenstad
     <div class="sdg-container"><div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>54</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>64</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "From small and generalized to big or specialized: A historical analysis of sports retail forms in Sweden"
+title: "87YLV7LE"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-87YLV7LE" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2098768" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/87YLV7LE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-87YLV7LE" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-87YLV7LE" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-87YLV7LE" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/JMH-11-2017-0057" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-87YLV7LE"></div>
 </article>
 <div id="csl-bib-meta-87YLV7LE" class="csl-bib-meta">
-  <article id="abstract-article-87YLV7LE" class="abstract-article">
-    <h1>Abstract</h1>
-    PurposeRetail has evolved over the past century alongside megatrends such as urbanization, consumerism and digitalization. To contribute to existing knowledge on patterns of retail form evolution, the purpose of this paper is to investigate when and how novel retail forms have evolved in the Swedish sporting goods market. Design/methodology/approachAn evolutionary approach that encompasses population thinking is used to interpret the history of sporting goods retailing in Sweden from the interwar era onwards. Drawing on archival data and interviews, the focus in the historical analysis is on the evolution of retail form variation in terms of size, strategy, product range and retail channel (online/offline). FindingsThe paper suggests that evolutionary mechanisms cumulatively have changed the sports retail population from a rather homogenous set of smaller generalist stores toward a larger variety and specialization in mainly two directions: one trajectory toward small and service-focused niche specialists and the other toward high-volume sales outlets. Originality/valueThe paper provides a detailed empirical account of sports retail history in Sweden and an application of theoretical concepts contributing to an integrated investigation of empirical issues and theoretical positions. It concludes that being able to attain “closures” – finding ways to close off a section of the market and avoid direct competition – has historically been a crucial capability for individual retailers to thrive.
-  </article>
   <article id="contributors-article-87YLV7LE" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -62,7 +58,7 @@ Campus Kongsvinger
     <div class="sdg-container"><div id="sdg11" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>23</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=11#archive" class="sdg-publication-count"><span>23</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

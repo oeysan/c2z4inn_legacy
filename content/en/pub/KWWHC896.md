@@ -1,5 +1,5 @@
 ---
-title: "The privacy and control paradoxes in the context of smartphone apps"
+title: "KWWHC896"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KWWHC896" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2057481" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/KWWHC896" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-KWWHC896" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KWWHC896" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-KWWHC896" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fcomp.2022.986138/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-KWWHC896"></div>
 </article>
 <div id="csl-bib-meta-KWWHC896" class="csl-bib-meta">
-  <article id="abstract-article-KWWHC896" class="abstract-article">
-    <h1>Abstract</h1>
-    This research examines how various factors, such as the degree of e-privacy concerns and control over data access permissions, can influence a user's intention to install a smartphone app. We conducted two survey-based experiments with 441 participants. In each experiment, we manipulated the degree of control over the number and type of data access permissions granted to different fictional apps. In Study 1, participants were informed about the set of permissions the apps required. In Study 2, participants indicated which individual permissions they were willing to grant to the apps. In both experiments, we assessed the level of e-privacy concerns, perceived app importance, and the intention to install the apps. The results suggest that the type of app plays a central role in determining both the perceived benefit of installing the app and the level of e-privacy concerns. The intention to install an app is more strongly associated with perceived app importance than with e-privacy concerns (especially when app importance is high, and users have explicit control over which specific data access permissions they want to grant). The implications of these results are discussed regarding psychological factors involved in app installation decision-making process and the importance of promoting data protection by design.
-  </article>
   <article id="contributors-article-KWWHC896" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

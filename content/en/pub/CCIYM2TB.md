@@ -1,5 +1,5 @@
 ---
-title: "Disturbance Severity and Human–Nature Relationships: A New Approach to Analyze People’s Well-Being along a Bark Beetle Infestation Gradient"
+title: "CCIYM2TB"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CCIYM2TB" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2134406" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/CCIYM2TB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-CCIYM2TB" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CCIYM2TB" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-CCIYM2TB" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.mdpi.com/1999-4907/13/11/1954/pdf?version=1669107385" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-CCIYM2TB"></div>
 </article>
 <div id="csl-bib-meta-CCIYM2TB" class="csl-bib-meta">
-  <article id="abstract-article-CCIYM2TB" class="abstract-article">
-    <h1>Abstract</h1>
-    Contact to nature and greenspace is important for emotional well-being and can promote human health. Forest landscapes provide such access to greenspace, especially in protected areas. However, forested protected areas are impacted by natural disturbances such as bark beetle infestations. On the one hand, such disturbances have positive impacts on ecological processes and biodiversity. On the other hand, they have allegedly negative impacts on the recreational value of a landscape. Limited knowledge about the public’s perception of forests subject to natural disturbances still hampers forest management to balance ecological functions and visitors’ recreational experience. Thus, our aim was to determine how attitudes towards nature influence the personal well-being in a naturally disturbed landscape. We investigated self-reported well-being and attitudes towards nature in a standardized questionnaire-based survey of 1008 German inhabitants in an experimentally adapted landscape visualization. Self-reported well-being was generally highest in landscapes with relatively few bark-beetle-killed trees. This was especially the case for people who felt included with nature and preferred an appreciative use or preservation of nature. Conversely, people who had previously visited a national park with visible bark beetle infestations rated their personal well-being highest in landscapes with larger proportions of beetle-killed trees. Our results indicate that it is necessary to analyze people’s knowledge about and relations to forest landscapes as well as concepts of nature conservation, natural landscapes, and biodiversity to gain a better understanding of people’s perceptions of natural disturbances.
-  </article>
   <article id="contributors-article-CCIYM2TB" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -57,7 +53,7 @@ Campus Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

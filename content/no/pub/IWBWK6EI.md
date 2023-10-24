@@ -1,5 +1,5 @@
 ---
-title: "Hospital Chaplains as Interlocutors on Existential Themes with Patients at Risk of Suicide: A Norwegian Qualitative Study"
+title: "IWBWK6EI"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IWBWK6EI" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2147139" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/IWBWK6EI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-IWBWK6EI" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IWBWK6EI" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1558/hscc.23010" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-IWBWK6EI"></div>
 </article>
 <div id="csl-bib-meta-IWBWK6EI" class="csl-bib-meta">
-  <article id="abstract-article-IWBWK6EI" class="abstract-article">
-    <h1>Samandrag</h1>
-    This qualitative study focuses on how hospital chaplains encounter and explore existential themes in their conversations with patients at risk of suicide. Hospital chaplains from three of the four health regions in Norway participated in focus group interviews. The interviews were analysed by systematic text condensation. We found that the participants emphasized support and being a witness to patients’ narratives, exploring existential themes regarding life and death, guilt and shame, relatedness and loneliness, faith and hope. The chaplains understood their role as representing life. Their theological perspectives, pastoral clinical education and experiences were seen as being important in these conversations. Further research may investigate how the hospital chaplains’ role and existential competence can contribute to interdisciplinary teams working with patients at risk of suicide, examining how conversations about existential themes affect patients’ health, and whether these conversations prevent suicide.
-  </article>
   <article id="contributors-article-IWBWK6EI" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Barndomspedagogikk?: På leit etter pedagogikkens selvforståelse"
+title: "FZUZDNFS"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FZUZDNFS" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2137479" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/FZUZDNFS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-FZUZDNFS" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FZUZDNFS" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-FZUZDNFS"></div>
 </article>
 <div id="csl-bib-meta-FZUZDNFS" class="csl-bib-meta">
-  <article id="abstract-article-FZUZDNFS" class="abstract-article">
-    <h1>Abstract</h1>
-    Denne boka henvender seg til deg som er opptatt av barn og barndommens vilkår – i vid forstand. I dragsuget etter de siste 15–20 årenes politiske handlingsiver,med forebyggende og tidlige innsatser, kan det hevdes at pedagogikken er i ferd med å miste både fotfeste og selvbevissthet. Slik barndommen er blitt institusjonalisert, har også pedagogikk som fag endt opp institusjonalisert. Mer enn å verne om barnet og barndommens egenverdi i institusjonene,har pedagogikken selv blitt rammet inn av institusjonenes rammebetingelser. Faren for å fremstå som et ureflektert redskapsfag for politiske satsningsområder og markedsdefinerte behov, er overhengende. Dette krever handling. Barn og barndom stiller alle og enhver overfor et etisk ansvar– pedagoger især. Pedagogikk som fag kan ikke unndra seg dette ansvaret. Boka inneholder to essays der forfatterne søker å reforhandle pedagogikkens selvforståelse gjennom å undersøke og drøfte egenverdiens problem.
-  </article>
   <article id="contributors-article-FZUZDNFS" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

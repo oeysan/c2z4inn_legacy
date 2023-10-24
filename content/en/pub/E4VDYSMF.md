@@ -1,5 +1,5 @@
 ---
-title: "Polymedia and family multilingualism: Linguistic repertoires and relationships in digitally mediated interaction"
+title: "E4VDYSMF"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E4VDYSMF" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1969171" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/E4VDYSMF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-E4VDYSMF" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-E4VDYSMF" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-E4VDYSMF" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.duo.uio.no/bitstream/10852/92126/1/Lexander%2b2021_Polymedia.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-E4VDYSMF"></div>
 </article>
 <div id="csl-bib-meta-E4VDYSMF" class="csl-bib-meta">
-  <article id="abstract-article-E4VDYSMF" class="abstract-article">
-    <h1>Abstract</h1>
-    This paper investigates family multilingualism in a polymedia perspective, presenting results from a study of transnational communication among four families with Senegalese background, living in Norway. Ethnographic interview data collected in 2017 and 2018, including mediagrams, are analysed to get insight into the families’ uses of media and language. Furthermore, the moment-by-moment language practices through which family relationships are managed and sustained are examined through fine-grained analysis of interpersonal interaction. The paper thus both draws on and goes beyond polymedia to investigate how linguistic repertoires are developed in digital communication. The aim is to explore ways in which this theory may help us rethink family multilingualism as digital language practices become increasingly significant.
-  </article>
   <article id="contributors-article-E4VDYSMF" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -57,7 +53,7 @@ Campus Hamar
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

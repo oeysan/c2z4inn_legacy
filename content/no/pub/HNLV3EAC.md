@@ -1,5 +1,5 @@
 ---
-title: "Gender differences in symptoms of depression among adolescents in Eastern Norway: Results from a cross-sectional study"
+title: "HNLV3EAC"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HNLV3EAC" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1475587" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HNLV3EAC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-HNLV3EAC" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HNLV3EAC" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/1403494817715379" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-HNLV3EAC"></div>
 </article>
 <div id="csl-bib-meta-HNLV3EAC" class="csl-bib-meta">
-  <article id="abstract-article-HNLV3EAC" class="abstract-article">
-    <h1>Samandrag</h1>
-    Aim: The aim of this study was to compare and describe gender differences and the associations between symptoms of depression and family conflict and economics, lifestyle habits, school satisfaction and the use of health-care services among adolescents. Methods: Data were retrieved from Ungdata which is a cross-sectional study. Adolescents (n=8052) from secondary school grades 8, 9 and 10 (age 13–16 years) participated in the study from 41 municipal schools in four counties. Results: Girls reported a higher prevalence of symptoms of depression than boys. Gender differences were seen on all items related to symptoms of depression, family conflict and economics, lifestyle habits, school satisfaction and health-care services. Multiple regressions showed that family conflicts and economics contributed to 19.2% of the variance in symptoms of depression in girls and 12.4% in boys. School satisfaction made a strong contribution: 21.5% in girls and 15.4% in boys. The total model explained 49% of the total variance in symptoms of depression in girls and 32.5% in boys. Conclusions: Gender demonstrated a pattern through a higher proportion of girls reporting symptoms of depression, family conflict and economics, lifestyle habits, school satisfaction and use of health-care services. Even though the adolescents reported symptoms of depression, few used the school health-care services and public health nurses. This indicates that they need a person-centered approach for symptoms of depression. The findings may have important implications for planning for adolescents in school health services.
-  </article>
   <article id="contributors-article-HNLV3EAC" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

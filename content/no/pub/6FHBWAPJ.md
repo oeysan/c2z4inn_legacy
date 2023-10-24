@@ -1,5 +1,5 @@
 ---
-title: "Exopolysaccharides Production by Cultivating a Bacterial Isolate from the Hypersaline Environment of Salar de Uyuni (Bolivia) in Pretreatment Liquids of Steam-Exploded Quinoa Stalks and Enzymatic Hydrolysates of Curupaú Sawdust"
+title: "6FHBWAPJ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6FHBWAPJ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2179756" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/6FHBWAPJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-6FHBWAPJ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-6FHBWAPJ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-6FHBWAPJ" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2311-5637/7/1/33/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-6FHBWAPJ"></div>
 </article>
 <div id="csl-bib-meta-6FHBWAPJ" class="csl-bib-meta">
-  <article id="abstract-article-6FHBWAPJ" class="abstract-article">
-    <h1>Samandrag</h1>
-    The halotolerant bacterial strain BU-4, isolated from a hypersaline environment, was identified as an exopolysaccharide (EPS) producer. Pretreatment liquids of steam-exploded quinoa stalks and enzymatic hydrolysates of Curupaú sawdust were evaluated as carbon sources for EPS production with the BU-4 strain, and the produced EPS was characterized using FTIR, TGA, and SEM. Cultivation was performed at 30 °C for 48 h, and the cells were separated from the culture broth by centrifugation. EPS was isolated from the cell pellets by ethanol precipitation, and purified by trichloroacetic acid treatment, followed by centrifugation, dialysis, and freeze-drying. EPS production from quinoa stalks- and Curupaú sawdust-based substrates was 2.73 and 0.89 g L−1, respectively, while 2.34 g L−1 was produced when cultivation was performed on glucose. FTIR analysis of the EPS revealed signals typical for polysaccharides, as well as ester carbonyl groups and sulfate groups. High thermal stability, water retention capacity and gel-forming ability were inferred from SEM and TGA. The capability of the halotolerant isolate for producing EPS from pretreatment liquids and hydrolysates was demonstrated, and characterization of the EPS revealed their broad application potential. The study shows a way for producing value-added products from waste materials using a bacterium from a unique Bolivian ecosystem.
-  </article>
   <article id="contributors-article-6FHBWAPJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 2N1247
     <div class="sdg-container"><div id="sdg6" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg06_no.png" class="image" alt="SDG 6">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>26</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=6#archive" class="sdg-publication-count"><span>29</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/rent-vann-og-gode-sanitaerforhold?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

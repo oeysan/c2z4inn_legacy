@@ -1,5 +1,5 @@
 ---
-title: "Variation in language mixing in multilingual aphasia"
+title: "TV8BSZJL"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TV8BSZJL" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1686245" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TV8BSZJL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TV8BSZJL" class="csl-bib-button">Contributors</a>
+    <a href="https://europepmc.org/articles/pmc6760868?pdf=render" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TV8BSZJL"></div>
 </article>

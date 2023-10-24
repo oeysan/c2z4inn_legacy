@@ -1,5 +1,5 @@
 ---
-title: "A humanitarian mission in line with human rights? Assessing Sophia, the EU’s naval response to the migration crisis"
+title: "AZHLPNWS"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AZHLPNWS" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1577647" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/AZHLPNWS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-AZHLPNWS" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AZHLPNWS" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-AZHLPNWS" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/09662839.2018.1451842" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-AZHLPNWS"></div>
 </article>
 <div id="csl-bib-meta-AZHLPNWS" class="csl-bib-meta">
-  <article id="abstract-article-AZHLPNWS" class="abstract-article">
-    <h1>Abstract</h1>
-    This article adds to our understanding of the role of norms in the European  Union’s (EU) response  to  the  migration  crisis  by conducting a critical assessment of the EU’s anti-smuggling naval mission “Sophia”. Is Sophia in line with the normative standards the EU has set for itself in its foreign policies? Conducting the analysis  in  two  steps  in  line  with  the  main  criteria  of  a humanitarian foreign policy model – first exploring Sophia’s launch and then assessing Sophia’s in theatre behaviour – findings suggest that although concerns for migrants at sea mobilised the initial launch of the mission, the mission is not conducted in line with key human rights principles. As the operation mandate is amended and updated with new tasks, and as the EU-NATO in theatre cooperation increases, the EU is moving  further  away  from  what  one  would  expect  of  a humanitarian foreign policy actor.
-  </article>
   <article id="contributors-article-AZHLPNWS" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -67,19 +63,19 @@ Room 3Ø113
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

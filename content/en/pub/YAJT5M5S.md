@@ -1,5 +1,5 @@
 ---
-title: "Et anerkjennende kroppsøvingsfag"
+title: "YAJT5M5S"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YAJT5M5S" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2127715" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YAJT5M5S" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-YAJT5M5S" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-YAJT5M5S" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-YAJT5M5S"></div>
 </article>
 <div id="csl-bib-meta-YAJT5M5S" class="csl-bib-meta">
-  <article id="abstract-article-YAJT5M5S" class="abstract-article">
-    <h1>Abstract</h1>
-    Boka viser hva en anerkjennende pedagogisk praksis kan innebære i kroppsøvingsfaget. Den inneholder gode eksempler på anerkjennende undervisning og hvordan det bidrar til en mer inkluderende skole. Forfatterne argumenterer for at en anerkjennende pedagogisk praksis er en grunnleggende betingelse for et godt kroppsøvingsfag.Et anerkjennende kroppsøvingsfag er aktuell for lærerstudenter, lærere, skoleledere og ansatte i lærerutdanningene.
-  </article>
   <article id="contributors-article-YAJT5M5S" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Where Are “We” in the Economy? Some Reflections on the Place of Moral Sentiments and the Commons in Redefining Economics"
+title: "A57NGIX5"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-A57NGIX5" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2129812" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/A57NGIX5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-A57NGIX5" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-A57NGIX5" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-3-031-23324-1" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-A57NGIX5"></div>
 </article>
 <div id="csl-bib-meta-A57NGIX5" class="csl-bib-meta">
-  <article id="abstract-article-A57NGIX5" class="abstract-article">
-    <h1>Samandrag</h1>
-    In this chapter we provide a discussion of the role of moral sentiments in economics and economic analysis. We aim to uncover some implications of a moral dimension being absent in the mainstream economic framework. This is discussed with a particular focus on the consequences for social welfare, considering the commons. The first section explores the connection between moral sentiments and Economics as a discipline. Next follows a critical and historical analysis of moral sentiments and the commons, emphasizing the need to provide a redefinition of economic agents through the concepts of embeddedness, reflexivity and personal identity. We argue that reflexivity plays a particularly important role in mediating social choices—even if this dimension of moral sentiments has not yet been fully recognized—and in the paradigmatic shift from endless economic growth towards Eudaimonia as an end. Our concluding remarks argue that bringing ethical considerations to economic analysis enables us to overcome the ‘trade-off’ between normatively ‘good’ moral sentiments and social well-being. We uphold that ‘good’ moral sentiments overlap with social moral sentiments, such as the notion of social love. These social moral sentiments offer the opportunity to enhance public policies thanks to a more applicable consideration of social well-being.
-  </article>
   <article id="contributors-article-A57NGIX5" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

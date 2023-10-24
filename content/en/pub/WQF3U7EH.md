@@ -1,5 +1,5 @@
 ---
-title: "‘Meet Me Where I Am’: Mental health service users’ perspectives on the desirable qualities of a mental health nurse"
+title: "WQF3U7EH"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,17 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WQF3U7EH" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1838247" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WQF3U7EH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-WQF3U7EH" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1111/inm.12768" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-WQF3U7EH"></div>
 </article>
 <div id="csl-bib-meta-WQF3U7EH" class="csl-bib-meta">
-  <article id="abstract-article-WQF3U7EH" class="abstract-article">
-    <h1>Abstract</h1>
-    Nurses play a central role in the delivery of quality mental health services. Desired qualities of a mental health nurse, in particular therapeutic relationships, have been described in the literature, primarily reflecting the nursing paradigm. Service users’ perspectives must be more fully understood to reflect contemporary mental health policy and to recognize their position at the centre of mental health service delivery and to directly influence and contribute their perspectives and experiences to mental health nursing education. A qualitative exploratory research project was undertaken to inform and enhance understanding of what service users see as the desired qualities of a mental health nurse. The project was co‐produced by service users as experts by experience, and mental health nurse academics to ensure the service user perspective was privileged. This international project conducted in Europe and Australia included a series of focus groups with service users (n = 50). Data were analysed thematically. Being with me was a major theme identified and reflected the sub‐themes: respect towards service users as persons; empathy, compassion and effective communication; understanding service users; knowledge of services; and fostering hope and believing that recovery is possible. These qualities specifically reflecting the service user perspective must be central to mental health nursing curricula to facilitate the development of holistic care and recovery‐oriented practice. These findings were utilized to directly inform development of a co‐produced mental health nursing learning module, to maximize genuine service user involvement, and to fully realize the benefits of service user led education for undergraduate nursing students.
-  </article>
   <article id="taxonomy-article-WQF3U7EH" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>

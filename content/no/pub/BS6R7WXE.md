@@ -1,5 +1,5 @@
 ---
-title: "Capital stock, energy, and innovation-related aspects as drivers of environmental quality in high-tech investing economies"
+title: "BS6R7WXE"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BS6R7WXE" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2102767" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BS6R7WXE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BS6R7WXE" class="csl-bib-button">Medverkande</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s11356-022-24148-5.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-BS6R7WXE"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "Private football academies—friend or foe? An analysis of Norwegian media's framing of arguments about private football academies and the monopoly of organized sport"
+title: "TMVQIDKZ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TMVQIDKZ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2157989" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TMVQIDKZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-TMVQIDKZ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TMVQIDKZ" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/10126902231164903" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-TMVQIDKZ"></div>
 </article>
 <div id="csl-bib-meta-TMVQIDKZ" class="csl-bib-meta">
-  <article id="abstract-article-TMVQIDKZ" class="abstract-article">
-    <h1>Abstract</h1>
-    Private football academies challenge the monopoly of Norwegian voluntary and democratic sport. Using field theory and framing approach as analytical perspectives, this article presents a media analysis that reveals that, first, association football and private academies agree on the fact that Norwegian football is not good enough and must improve. Second, they disagree on whether to improve it within association football exclusively or supplemented by private actors that are inspired by the international football field. Third, there is a negative popular view of private academies as too expensive, unconcerned with children's best interests, in violation of Norwegian sport's regulations for children's sport, and—in sum—thus being accused of destroying ‘sport for all’. However, by employing the analytical concepts of habitus and fields, the article also shows how actors partake in several subfields—often on both sides of the private—association border.
-  </article>
   <article id="contributors-article-TMVQIDKZ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "The impact of leopards ( Panthera pardus ) on livestock losses and human injuries in a human-use landscape in Maharashtra, India"
+title: "AT5AVDDK"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AT5AVDDK" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1803659" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/AT5AVDDK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-AT5AVDDK" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AT5AVDDK" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.7717/peerj.8405" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-AT5AVDDK"></div>
 </article>
 <div id="csl-bib-meta-AT5AVDDK" class="csl-bib-meta">
-  <article id="abstract-article-AT5AVDDK" class="abstract-article">
-    <h1>Samandrag</h1>
-    There are many ways in which large carnivores and humans interact in shared spaces. In this study we provide insights into human-leopard relationships in an entirely modified, human-dominated landscape inhabited by dense populations of humans (266 per km 2 ), their livestock (162 per km 2 ) and relatively high densities of large predators (10 per 100 km 2 ). No human deaths were recorded, and livestock losses to leopards numbered only 0.45 per km 2 per year (averaged over three years) despite the almost complete dependency of leopards on domestic animals as prey. Predation was not the major cause of livestock mortality as diseases and natural causes caused higher losses (80% of self-reported losses). We also found that ineffective night time livestock protection and the presence of domestic dogs increased the probability of a farmer facing leopard attacks on livestock. Resident farmers faced much lower livestock losses to leopard predation in contrast to the migratory shepherds who reported much higher losses, but rarely availed of the government compensation schemes. We recommend that local wildlife managers continue to shift from reactive measures such as leopard captures after livestock attacks to proactive measures such as focusing on effective livestock protection and informing the affected communities about safety measures to be taken where leopards occur in rural landscapes. The natural causes of livestock deaths due do diseases may be better prevented by involving animal husbandry department for timely vaccinations and treatment.
-  </article>
   <article id="contributors-article-AT5AVDDK" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

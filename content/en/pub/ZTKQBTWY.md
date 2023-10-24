@@ -14,6 +14,7 @@ type: pub
     <a href="#abstract-article-ZTKQBTWY" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-ZTKQBTWY" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-ZTKQBTWY" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://doi.org/10.1080/10494820.2023.2186896" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ZTKQBTWY"></div>
 </article>
@@ -130,7 +131,7 @@ Room 4L3221
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

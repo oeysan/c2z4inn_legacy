@@ -1,5 +1,5 @@
 ---
-title: "Rasch Analysis of the Norwegian Version of the Occupational Balance Questionnaire in a Sample of Occupational Therapy Students"
+title: "UEIF3EDL"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UEIF3EDL" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1898854" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UEIF3EDL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-UEIF3EDL" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UEIF3EDL" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-UEIF3EDL" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://downloads.hindawi.com/journals/oti/2021/8863453.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-UEIF3EDL"></div>
 </article>
 <div id="csl-bib-meta-UEIF3EDL" class="csl-bib-meta">
-  <article id="abstract-article-UEIF3EDL" class="abstract-article">
-    <h1>Samandrag</h1>
-    Background. Recently, the Occupational Balance Questionnaire developed in Sweden was translated into Norwegian. No studies to date have examined the measurement properties of the Norwegian version of this questionnaire. Aim. The study is aimed at examining the psychometric properties of the Norwegian version of the Occupational Balance Questionnaire, the OBQ11-N. Methods. Along with sociodemographic data, 180 occupational therapy students enrolled at two Norwegian universities completed the OBQ11-N as well as one question each related to health and quality of life and some sociodemographic variables. Rasch analysis was employed for examining rating scale functioning, item and person validity, dimensionality, and differential item functioning. Results. Item categories were ordered, but there were potential gaps in the measurement of the construct. Person reliability was fair, whereas item reliability was low. Point biserial correlations were positive, indicating that all items contributed to the construct. Factor loadings were low for two items, and there were indices of a second underlying dimension and item redundancy. Many people were not aligned with the items, and some items functioned differently across various demographic variables. Conclusion and Significance. The OBQ11-N did not function as an adequate measure of occupational balance in a sample of students. Potentially, the detected measurement problems may be solved by adding more relevant items to a larger item pool, from which the best fitting items should be selected.
-  </article>
   <article id="contributors-article-UEIF3EDL" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 4L3213
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

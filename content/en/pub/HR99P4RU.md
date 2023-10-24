@@ -1,5 +1,5 @@
 ---
-title: "In what ways do emerging adults with substance use problems experience their communities as influencing their personal recovery processes?"
+title: "HR99P4RU"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HR99P4RU" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2003871" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HR99P4RU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-HR99P4RU" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HR99P4RU" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-HR99P4RU" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.duo.uio.no/bitstream/10852/100548/2/Bahl_InWhatWay.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-HR99P4RU"></div>
 </article>
 <div id="csl-bib-meta-HR99P4RU" class="csl-bib-meta">
-  <article id="abstract-article-HR99P4RU" class="abstract-article">
-    <h1>Abstract</h1>
-    Applying the multiple psychological sense of community concept (MPSOC), this study explored how emerging adults with substance use problems experience the influences of various senses of community and communities on their personal recovery processes. Semi‐structured interviews with 21 emerging adults from different urban contexts in Norway were analysed using a collaborative, seven‐step, deductive, and reflexive thematic approach. MPSOC is shown to be a key concept for achieving a broad, in‐depth understanding of emerging adults' senses of community and personal experiences of community influences on recovery processes from substance use. Positive and negative senses of community in geographical, relational, substance use‐related and ideal communities influence the potentials and challenges in emerging adults' recovery processes. Supportive and motivating community relationships, meaningful activities with peers, and distance from recovery‐impeding communities were identified as important recovery components. To promote recovery and prevent substance use in emerging adults, community approaches and tools applied in substance use treatment have to take into account and utilise multidimensional and age group‐specific aspects of belonging.
-  </article>
   <article id="contributors-article-HR99P4RU" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Room 4L3227
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

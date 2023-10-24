@@ -1,5 +1,5 @@
 ---
-title: "Predictors of child participation in child welfare emergency placements—A Norwegian case file study"
+title: "MEPAA7TS"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MEPAA7TS" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2171728" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/MEPAA7TS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-MEPAA7TS" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-MEPAA7TS" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-MEPAA7TS" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cfs.13078" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-MEPAA7TS"></div>
 </article>
 <div id="csl-bib-meta-MEPAA7TS" class="csl-bib-meta">
-  <article id="abstract-article-MEPAA7TS" class="abstract-article">
-    <h1>Abstract</h1>
-    BackgroundAlthough child participation has attained significant awareness in child welfare research, little is known about how this right is upheld in emergency cases. Therefore, the various degrees to which children participate in child welfare services' emergency cases and factors predicting such participation were explored. Method Degrees of participation found in 148 case files (M age  = 11–12 years old, range; 3–18 years; 59% girls, 48% with minority backgrounds) from four Norwegian municipalities were regressed on 15 independent variables in a multinomial logistic regression. Results The children's advancing age increases their probabilities of involvement in the decision‐making processes regarding emergency placements ( p   &lt; 0.001). The children's minority backgrounds enhance their likelihood of being informed of the placement and having their opinions given weight in decision‐making processes ( p  = 0.010). The study, nevertheless, revealed that 39% of children in emergency placements are not involved in these processes. ConclusionsCase file documentation indicates inadequate involvement of children in emergency cases. Nevertheless, older children and those with minority backgrounds are more likely to participate, although the degree of their involvement varies. The study did not find a correlation between prior contact with child welfare services and child participation.
-  </article>
   <article id="contributors-article-MEPAA7TS" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

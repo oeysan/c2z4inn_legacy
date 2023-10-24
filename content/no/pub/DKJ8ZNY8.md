@@ -1,5 +1,5 @@
 ---
-title: "An Alternative Correct Answer to the Cognitive Reflection Test"
+title: "DKJ8ZNY8"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DKJ8ZNY8" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1935794" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/DKJ8ZNY8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-DKJ8ZNY8" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.662222/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-DKJ8ZNY8"></div>
 </article>

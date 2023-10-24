@@ -1,5 +1,5 @@
 ---
-title: "Why student mobility does not automatically lead to better understanding: Reflections on the concept of intercultural learning"
+title: "W5MV9HB6"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-W5MV9HB6" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1844605" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/W5MV9HB6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-W5MV9HB6" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-W5MV9HB6"></div>

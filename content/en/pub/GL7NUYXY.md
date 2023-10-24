@@ -1,5 +1,5 @@
 ---
-title: "Promoting psychosocial well-being following stroke: study protocol for a randomized, controlled trial"
+title: "GL7NUYXY"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,40 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GL7NUYXY" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1577255" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GL7NUYXY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GL7NUYXY" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GL7NUYXY" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-GL7NUYXY" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://bmcpsychology.biomedcentral.com/track/pdf/10.1186/s40359-018-0223-6" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-GL7NUYXY"></div>
 </article>
 <div id="csl-bib-meta-GL7NUYXY" class="csl-bib-meta">
-  <article id="abstract-article-GL7NUYXY" class="abstract-article">
-    <h1>Abstract</h1>
-    Background: Stroke is a major public health threat globally. Psychosocial well-being may be affected following 
-stroke. Depressive symptoms, anxiety, general psychological distress and social isolation are prevalent. 
-Approximately one third report depressive symptoms and 20% report anxiety during the first months or years after 
-the stroke. Psychosocial difficulties may impact significantly on long-term functioning and quality of life, reduce the 
-effects of rehabilitation services and lead to higher mortality rates. The aim of the study is to evaluate the effect of 
-a previously developed and feasibility tested dialogue-based psychosocial intervention aimed at promoting 
-psychosocial well-being and coping following stroke among stroke survivors with and without aphasia. 
-Methods: The study will be conducted as a multicenter, randomized, single blind controlled trial with one 
-intervention and one control arm. It will include a total of 330 stroke survivors randomly allocated into either an 
-intervention group (dialogue-based intervention to promote psychosocial well-being) or a control group (usual 
-care). Participants in the intervention group will receive eight individual sessions of supported dialogues in their 
-homes during the first six months following an acute stroke. The primary outcome measure will be psychosocial 
-well-being measured by the General Health Questionnaire (GHQ). Secondary outcome measures will be quality of 
-life (SAQoL), sense of coherence (SOC), and depression (Yale). Process evaluation will be conducted in a longitudinal 
-mixed methods study by individual qualitative interviews with 15–20 participants in the intervention and control 
-groups, focus group interviews with the intervention personnel and data collectors, and a comprehensive analysis 
-of implementation fidelity. 
-Discussion: The intervention described in this study protocol is based on thorough development and feasibility 
-work, guided by the UK medical research council framework for developing and testing complex interventions. It 
-combines classical effectiveness evaluation with a thorough process evaluation. The results from this study may 
-inform the development of further trials aimed at promoting psychosocial well-being following stroke as well as 
-inform the psychosocial follow up of stroke patients living at home
-  </article>
   <article id="contributors-article-GL7NUYXY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -153,7 +128,7 @@ Room 4L3221
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

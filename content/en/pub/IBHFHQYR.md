@@ -1,5 +1,5 @@
 ---
-title: "Association of daily hassles, daily uplifts, coping styles and stress-related symptoms among women exposed to sexual abuse — A cross-sectional study"
+title: "IBHFHQYR"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,29 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IBHFHQYR" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2040400" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/IBHFHQYR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-IBHFHQYR" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IBHFHQYR" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-IBHFHQYR" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.duo.uio.no/bitstream/10852/97118/1/Association%2bof%2bdaily%2bhassles%252C%2bdaily%2buplifts%252C%2bcoping%2bstyles%2band%2bstress-related%2bsymptoms%2bamong%2bwomen%2bexposed%2bto%2bsexual%2babuse%25E2%2580%2594A%2bcross-sectional%2bstudy.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-IBHFHQYR"></div>
 </article>
 <div id="csl-bib-meta-IBHFHQYR" class="csl-bib-meta">
-  <article id="abstract-article-IBHFHQYR" class="abstract-article">
-    <h1>Abstract</h1>
-    Background: Women who experience physical or sexual violence report poor self-perceived health. Knowledge of daily hassles, daily uplifts and coping styles, as well as how these factors can affect health and well-being among survivors of sexual abuse, is important for healthcare professionals to understand and target their needs. 
- 
-Aim: The aim of the current study was to explore the association of daily hassles, daily uplifts, coping strategies and stress-related symptoms among female survivors of sexual abuse. 
- 
-Methods: A group of women (n = 57), exposed to sexual abuse, were recruited from nine support centres in Norway. Participants completed a questionnaire that addressed demographics, socioeconomic conditions, trauma history, daily hassles, daily uplifts, coping styles and stress-related symptoms. Two groups of participants were compared: one group that had above-median scores on uplifts and adaptive coping styles and one group that had above-median scores on daily hassles and maladaptive coping styles. 
- 
-Results: Results indicate that women who experienced more daily hassles and used maladaptive coping styles reported significantly more stress-related symptoms, and particularly emotional symptoms, than women who experienced more daily uplifts and used adaptive coping styles. There were few differences between the two groups related to socioeconomic conditions and trauma history. 
- 
-Conclusion: The results indicate that women in both groups struggle with stress-related physical, emotional, cognitive and target group-specific symptoms. However, high incidence of daily hassles and the use of maladaptive coping styles were associated with an increase in stress-related symptoms. Novell's findings indicate that despite severe traumatic experiences, adaptive coping styles and favourable perceptions of stress in everyday life were associated with a lower frequency of stress-related symptoms. It may therefore be helpful to focus on altering maladaptive coping styles to reduce stress-related symptoms among sexual abuse survivors. 
- 
-Keywords: coping styles; cross-sectional; daily hassles; daily uplifts; sexual abuse; stress-related symptoms; women.
-  </article>
   <article id="contributors-article-IBHFHQYR" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -175,13 +161,13 @@ Campus Elverum
     <div class="sdg-container"><div id="sdg1" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg01_en.png" class="image" alt="SDG 1">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>37</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=1#archive" class="sdg-publication-count"><span>39</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal1" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "A laboratory for conceiving Essential Biodiversity Variables (EBVs)—The ‘Data pool initiative for the Bohemian Forest Ecosystem’"
+title: "JIQFAB4Z"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JIQFAB4Z" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1954272" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JIQFAB4Z" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JIQFAB4Z" class="csl-bib-button">Contributors</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13695" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JIQFAB4Z"></div>
 </article>

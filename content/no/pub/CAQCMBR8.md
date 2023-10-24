@@ -1,5 +1,5 @@
 ---
-title: "Kvalifisering til profesjonell yrkesutøvelse"
+title: "CAQCMBR8"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CAQCMBR8" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1487414" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/CAQCMBR8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-CAQCMBR8" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CAQCMBR8" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-CAQCMBR8"></div>
 </article>
 <div id="csl-bib-meta-CAQCMBR8" class="csl-bib-meta">
-  <article id="abstract-article-CAQCMBR8" class="abstract-article">
-    <h1>Samandrag</h1>
-    Idenne boken gir forfatterne innblikk i ulike dimensjoner ved profesjonskvalifiseringen. Kvalifiseringsbegrepet blir forstått som det som skjer i selve utdanningen innenfor utdanningsinstitusjonene og praksisopplæringen underveis i studiet, og senere i arbeidslivet.
-Store deler av offentlig sektor er avhengig av at profesjoner som lærere, sykepleiere og sosialarbeidere utøver yrket sitt på best mulig måte, og profesjonsutøverne har stor betydning både for den enkelte og for samfunnet. Men hva kjennetegner og hvordan skjer kvalifiseringen til det vi kaller profesjonell yrkesutøvelse?I denne boken gir forfatterne innblikk i ulike dimensjoner ved profesjonskvalifisering. Kvalifiseringsbegrepet blir forstått som det som skjer i selve utdanningen innenfor utdanningsinstitusjonene og praksisopplæringen underveis i studiet og senere i arbeidslivet. Forfatternes ønske er å belyse og diskutere faktorer som kan bidra til å styrke kvalifiseringen av lærere, sykepleiere og sosialarbeidere og andre «velferdsstatsprofesjoner». Boken springer ut fra det aktive forskningsmiljøet ved Senter for Profesjonsstudier (SPS) ved Høgskolen i Oslo og Akershus, men inneholder også bidrag fra flere andre fagmiljøer.
-  </article>
   <article id="contributors-article-CAQCMBR8" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

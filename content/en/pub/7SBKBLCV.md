@@ -1,5 +1,5 @@
 ---
-title: "Generalist, specialist and generic positions experienced by occupational therapists in Norwegian municipalities"
+title: "7SBKBLCV"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7SBKBLCV" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1836123" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7SBKBLCV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-7SBKBLCV" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7SBKBLCV" class="csl-bib-button">Contributors</a>
+    <a href="https://www.emerald.com/insight/content/doi/10.1108/IJOT-03-2020-0006/full/pdf?title=generalist-specialist-and-generic-positions-experienced-by-occupational-therapists-in-norwegian-municipalities" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7SBKBLCV"></div>
 </article>
 <div id="csl-bib-meta-7SBKBLCV" class="csl-bib-meta">
-  <article id="abstract-article-7SBKBLCV" class="abstract-article">
-    <h1>Abstract</h1>
-    PurposeReforms in the health-care system may impact how health-care professionals perceive and enact their roles. This study aims to examine the way in which occupational therapists experience and describe their roles in municipalities after the implementation of a health reform (the Coordination Act) in Norway. Design/methodology/approachThis qualitative study was designed within the perspectives of social constructivism. Data was collected through focus group interviews with 10 community-working occupational therapists. A thematic framework analysis was used to examine the participants’ experiences. FindingsThe following four themes emerged: external factors that framed and shaped the occupational therapists’ roles in municipalities; the strengths and dilemmas of the generalist; the problematic generic position and the strengths; and dilemmas of the specialist. Originality/valueThe study suggests that occupational therapy practitioners should identify new opportunities and adapt to health reform changes. They also need to renegotiate their roles as the health reforms require more specialized competences. Greater emphasis must be placed on the core knowledge and competences of occupational therapists to strengthen their professional identity in the municipalities.
-  </article>
   <article id="contributors-article-7SBKBLCV" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

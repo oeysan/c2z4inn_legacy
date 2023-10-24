@@ -1,5 +1,5 @@
 ---
-title: "When and how the implementation of green human resource management and data‐driven culture to improve the firm sustainable environmental development?"
+title: "PLIYE49F"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PLIYE49F" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2143433" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PLIYE49F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-PLIYE49F" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PLIYE49F" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-PLIYE49F" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://doi.org/10.1002/sd.2543" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PLIYE49F"></div>
 </article>
 <div id="csl-bib-meta-PLIYE49F" class="csl-bib-meta">
-  <article id="abstract-article-PLIYE49F" class="abstract-article">
-    <h1>Abstract</h1>
-    The process by which manufacturing firms incorporate data‐driven culture into existing routines and use them to generate organizational learning (OL) and improve sustainable environmental development is a central concern in the green management literature. For this, the study examines how and to what extent data‐driven culture contributes to developing and integrating organizational learning capability (OLC) for environmental performance (EP). The analysis is informed by theory on a knowledge‐based view and dynamic capabilities. We propose a conceptual model that examines the moderation‐mediation impact of data‐driven culture on green human resource management (HRM) and EP through OLC. We empirically test our model using primary survey data from 274 manufacturing enterprises in Pakistan. Partial least‐square structural equation modeling and moderated‐mediation regression analysis were used to assess the hypothesized correlations between the variables. The study implies that green HRM practices can facilitate OLC to achieve and gain high EP in contexts of rapid change. Further, the findings show that firms adopting a data‐driven culture may have better EP. Having a robust data‐driven culture makes organizations focus more on learning capability development that promotes increased EP. This research offers several significant contributions to green management literature and theory. Managers should promote green human resource strategies and the importance of data‐driven culture for greening organizations. In today's data‐rich and unpredictable world, these empirical studies provide relevant and practical advice for managers to implement data‐driven culture to make shift and support sustainable development issues.
-  </article>
   <article id="contributors-article-PLIYE49F" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Campus Kongsvinger
     <div class="sdg-container"><div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

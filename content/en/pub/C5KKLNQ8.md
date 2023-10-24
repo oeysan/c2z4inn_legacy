@@ -1,5 +1,5 @@
 ---
-title: "On the expression of hegemony in the field of educational technology: a case study of editorials in a Norwegian academic journal"
+title: "C5KKLNQ8"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-C5KKLNQ8" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1870348" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/C5KKLNQ8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-C5KKLNQ8" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-C5KKLNQ8" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-C5KKLNQ8" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.7577/seminar.4044" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-C5KKLNQ8"></div>
 </article>
 <div id="csl-bib-meta-C5KKLNQ8" class="csl-bib-meta">
-  <article id="abstract-article-C5KKLNQ8" class="abstract-article">
-    <h1>Abstract</h1>
-    This article has emerged from a project aiming at gaining an overview of actors and key figures, their perspectives and results after more than 30 years of ambitious governmental efforts to introduce computer technology in school. The main focus of the article is on what we consider to be dominant arguments, discourses and issues related to the hegemonization of meaning formation. Our line of reasoning is based primarily on a case study of the leading journal in the field of educational technology in Norway over the last fifteen years, the Nordic Journal of Digital Literacy. This is a mainstream research journal, which publishes peer-reviewed articles. However, being subject to the Norwegian Ministry of Education and Research, it represents a rather interesting case for interrogating the issue of hegemony. Placing the journal’s policy at the forefront, the focus of our analysis will be on the editorials. The main findings, based on issues of the journal over the first ten years are that the editorials are in keeping with what can be regarded as the political priorities and the prevailing political discourses in the field. They contain relatively few, if any, critical perspectives and scant reference is made to the research articles and research area it claims to serve. The method used is document analysis, inspired by discourse-analytic approaches.
-  </article>
   <article id="contributors-article-C5KKLNQ8" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -91,7 +87,7 @@ Campus Elverum
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

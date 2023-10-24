@@ -1,5 +1,5 @@
 ---
-title: "Can trackers count free-ranging wildlife as effectively and efficiently as conventional aerial survey and distance sampling? Implications for citizen science in the Kalahari, Botswana"
+title: "SEU4BQHX"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SEU4BQHX" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1607672" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SEU4BQHX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SEU4BQHX" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1016/j.biocon.2018.04.027" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-SEU4BQHX"></div>
 </article>

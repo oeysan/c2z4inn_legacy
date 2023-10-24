@@ -1,5 +1,5 @@
 ---
-title: "Conservation Gaps in Traditional Vegetables Native to Europe and Fennoscandia"
+title: "T2BB9VWN"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-T2BB9VWN" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1822138" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/T2BB9VWN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-T2BB9VWN" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-T2BB9VWN" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-T2BB9VWN" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2077-0472/10/8/340/pdf?version=1597911833" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-T2BB9VWN"></div>
 </article>
 <div id="csl-bib-meta-T2BB9VWN" class="csl-bib-meta">
-  <article id="abstract-article-T2BB9VWN" class="abstract-article">
-    <h1>Samandrag</h1>
-    Vegetables are rich in vitamins and other micronutrients and are important crops for healthy diets and diversification of the food system, and many traditional (also termed underutilized or indigenous) species may play a role. The current study analyzed 35 vegetables with a European region of diversity with the effort to map the conservation status in Fennoscandia and beyond. We mapped georeferenced occurrences and current genebank holdings based on global databases and conducted conservation gaps analysis based on representativeness scores in situ and ex situ. Out of the 35 target species, 19 got at a high priority score for further conservation initiatives, while another 14 species got a medium priority score. We identified a pattern where traditional vegetables are poorly represented in genebank holdings. This corresponds well to a lack of attention in the scientific community measured in number of published papers. Considering the grand challenges ahead in terms of climate change, population growth and demand for sustainability, traditional vegetables deserve greater attention. Our contribution is to provide a basis for conservation priorities among the identified vegetables species native to Fennoscandia.
-  </article>
   <article id="contributors-article-T2BB9VWN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -95,13 +91,13 @@ Studiested Blæstad
     <div class="sdg-container"><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_no.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>46</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=2#archive" class="sdg-publication-count"><span>46</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

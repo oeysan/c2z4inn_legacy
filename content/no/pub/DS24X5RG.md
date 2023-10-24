@@ -1,5 +1,5 @@
 ---
-title: "Phrasal verbs in the spoken and written modes of Norwegian L2 learner English"
+title: "DS24X5RG"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DS24X5RG" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1757862" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/DS24X5RG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-DS24X5RG" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-DS24X5RG"></div>

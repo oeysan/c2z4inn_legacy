@@ -1,5 +1,5 @@
 ---
-title: "Moose–tree interactions: rebrowsing is common across tree species"
+title: "B6KW87CJ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,26 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-B6KW87CJ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1466503" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/B6KW87CJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-B6KW87CJ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-B6KW87CJ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-B6KW87CJ" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://bmcecol.biomedcentral.com/track/pdf/10.1186/s12898-017-0122-3" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-B6KW87CJ"></div>
 </article>
 <div id="csl-bib-meta-B6KW87CJ" class="csl-bib-meta">
-  <article id="abstract-article-B6KW87CJ" class="abstract-article">
-    <h1>Abstract</h1>
-    Background 
-Plant strategies to resist herbivory include tolerance and avoidance. Tolerance strategies, such as rapid regrowth which increases the palatability of new shoots, can lead to positive feedback loops between plants and herbivores. An example of such a positive feedback occurs when moose (Alces alces) browse trees in boreal forests. We described the degree of change in tree morphology that accumulated over time in response to repeated browsing by moose, using an index of accumulated browsing. We evaluated whether accumulated browsing could predict the probability and extent of current browsing across woody species in a Norwegian boreal forest, and how our accumulated browsing index related to changes in tree height, shoot availability and shoot size. 
- 
-Results 
-The probability and extent of current browsing increased with the degree of accumulated browsing in all tree species. Plants highly modified by previous browsing were the most attractive, with no indication of decreased preference with repeated browsing over time. The preference for previously browsed trees is most likely driven by increased relative availability of shoots within browsing height and maybe increased palatability. This response to previous browsing was general for both preferred and avoided forage species, in both conifers and deciduous trees. 
- 
-Conclusions 
-Our results suggest that the adaptation for rapid regrowth after browsing does not reduce herbivory on trees. Rather, our results indicate that plant responses to browsing increase the probability of future herbivory. This response could potentially lead to higher plant mortality where cervid populations are maintained at stable high densities and has implications for plant population dynamics and forestry practices.
-  </article>
   <article id="contributors-article-B6KW87CJ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -103,7 +92,7 @@ Campus Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "The role of legitimation and delegitimation in new path development in tourism"
+title: "TRIMAM5L"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TRIMAM5L" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2050230" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TRIMAM5L" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/14616688.2022.2109207" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-TRIMAM5L"></div>
 </article>

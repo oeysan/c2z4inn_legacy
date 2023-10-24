@@ -1,5 +1,5 @@
 ---
-title: "The criticality of transport and export activities in the economic prosperity of high-middle income countries: the role of logistics performance"
+title: "HWU3MF4X"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HWU3MF4X" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2131154" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HWU3MF4X" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HWU3MF4X" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.1080/21650020.2023.2182353" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-HWU3MF4X"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "Examining the patterns of disaggregate energy security risk and crude oil price: the USA scenario over 1970–2040"
+title: "N49LZLWA"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-N49LZLWA" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2138572" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/N49LZLWA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-N49LZLWA" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1016/j.resourpol.2023.103514" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-N49LZLWA"></div>
 </article>

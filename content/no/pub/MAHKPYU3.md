@@ -14,6 +14,7 @@ type: pub
     <a href="#abstract-article-MAHKPYU3" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-MAHKPYU3" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-MAHKPYU3" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/1660-4601/20/6/5062/pdf?version=1678760690" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-MAHKPYU3"></div>
 </article>
@@ -63,7 +64,7 @@ Rom 4L3213
     <div class="sdg-container"><div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>54</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

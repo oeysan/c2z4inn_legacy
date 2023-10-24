@@ -1,5 +1,5 @@
 ---
-title: "Multilingual families in a digital age: mediational repertoires and transnational practices"
+title: "D3JAZD2L"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,23 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-D3JAZD2L" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2142736" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/D3JAZD2L" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-D3JAZD2L" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-D3JAZD2L" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-D3JAZD2L" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-D3JAZD2L"></div>
 </article>
 <div id="csl-bib-meta-D3JAZD2L" class="csl-bib-meta">
-  <article id="abstract-article-D3JAZD2L" class="abstract-article">
-    <h1>Abstract</h1>
-    This book offers new insights into transnational family life in today’s digital age, exploring the media resources and language practices parents and children employ toward maintaining social relationships in digital interactions and constructing transnational family bonds and identities. 
- 
-The book seeks to expand the boundaries of existing research on family multilingualism, in which digital communication has been little studied until now. Drawing on ethnographic studies of four families of Senegalese background in Norway, Lexander and Androutsopoulos develop an integrated approach which weaves together participants’ linguistic choices for situated interaction, the affordances of digital technologies, and the families’ language and media ideologies. The book explores such key themes as the integration of linguistic and media resources in family repertoires, creative practices of digital translanguaging, engagement in diaspora practices, and opportunities of digital communication for the development of children's heritage language skills. 
- 
-With an innovative perspective on ‘doing family’ in the digital age, this book will be of interest to students and scholars in multilingualism, sociolinguistics, digital communication, language and communication, and language and media.
-  </article>
   <article id="contributors-article-D3JAZD2L" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,7 +52,7 @@ Campus Hamar
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

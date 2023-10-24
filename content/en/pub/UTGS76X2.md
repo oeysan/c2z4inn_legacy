@@ -1,5 +1,5 @@
 ---
-title: "Mammal responses to predator scents across multiple study areas"
+title: "UTGS76X2"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UTGS76X2" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2048638" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UTGS76X2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-UTGS76X2" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UTGS76X2" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1002/ecs2.4215" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-UTGS76X2"></div>
 </article>
 <div id="csl-bib-meta-UTGS76X2" class="csl-bib-meta">
-  <article id="abstract-article-UTGS76X2" class="abstract-article">
-    <h1>Abstract</h1>
-    Antipredator behaviors allow prey to mitigate the impacts of their predators. We investigated antipredator responses of two herbivore species, roe deer and European hare, and one mesopredator, red fox, toward predation risk imposed by lynx and wolf. We collected data (using camera traps) on visitation frequency and vigilance behavior to olfactory predator stimuli during 158 standardized scent trials in five areas across Europe, where lynx and wolves either occurred or had been absent for centuries. After a period without scent, trial sites were either marked with lynx or wolf urine, or butyric acid (unspecific scent used to contrast species‐specific scent responses). We expected the two herbivores to respond aversively (reduced visitation frequency, and increased vigilance) to predator urine, while red foxes (scavengers) might adopt a risk‐sensitive exploration strategy by increasing vigilance near predator urine without reducing visitation frequency. For all species, we expected stronger responses toward the ambush predator lynx than to the pursue predator wolf (cryptic predator hypothesis). If prey responds more strongly to predator stimuli when coexisting with the predator, we expected stronger reactions to predator urine in areas where predators occurred (naïve prey hypothesis). Roe deer significantly avoided lynx urine and butyric acid, but not wolf urine. However, roe deer visitation frequency did not differ between scent treatment with large carnivore urine and butyric acid (suggesting that roe deer generally avoid areas with unfamiliar scent), or between areas where large carnivores were present and absent. Hares did not significantly avoid predator urine. Red foxes were attracted to lynx urine in sympatry, but not in allopatry with large carnivores. They increased vigilance rates in the presence of lynx urine independent of sympatry/allopatry with large carnivores. These findings generally confirm our expectations of predator avoidance by herbivores, and attraction combined with increased vigilance of mesopredators. In all species, lynx urine elicited stronger responses than wolf urine (although not significantly different), which to some extent conforms to the cryptic predator hypothesis. We found no support for the naïve prey hypothesis. However, higher attraction of red foxes to lynx urine in sympatric situations might indicate that positive responses by scavengers are learning based.
-  </article>
   <article id="contributors-article-UTGS76X2" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

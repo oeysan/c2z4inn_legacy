@@ -1,5 +1,5 @@
 ---
-title: "Socioeconomic Development Aspects of Democratic Governance across Selected Countries"
+title: "WAGHMZY9"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WAGHMZY9" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2129554" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WAGHMZY9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-WAGHMZY9" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WAGHMZY9" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-WAGHMZY9" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/17419166.2023.2178422?needAccess=true&amp;role=button" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WAGHMZY9"></div>
 </article>
 <div id="csl-bib-meta-WAGHMZY9" class="csl-bib-meta">
-  <article id="abstract-article-WAGHMZY9" class="abstract-article">
-    <h1>Samandrag</h1>
-    here is a need to question the main socioeconomic, political, and cultural aspects of crime rates in a cross-country context. In this context, Dumitrescu and Hurlin’s (2012) Granger causality method, which is not common in the criminological literature, is used – which does not ignore cross-sectional dependence. Moreover, we generate an indicator of “democratic governance” using principal component analysis (PCA) from “government effectiveness” and “voice and accountability.” The key advantage of using PCA is to avoid multicollinearity and make better inferences with dimension-ality reduction. The democratic governance contains 93.5% com-mon variance and is equally affected by both governance indicators. The key findings of our study underscore that crime rates are significantly Granger caused by economic growth, demo-cratic governance, unemployment, and urbanization. The intuition drawn from the findings of this paper and the previous researchers’ contribution is that crime can be reduced as a product of good governance. Moreover, the findings revealed that urbanization and democratic governance Granger causes each other. Therefore, urbanization can make countries converge to democratic govern-ance. What the study is unable to say is the dynamic relationship between variables; however, the current evidence offers relevant policy guidelines.
-  </article>
   <article id="contributors-article-WAGHMZY9" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -66,13 +62,13 @@ Studiested Kongsvinger
     <div class="sdg-container"><div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>54</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg11" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg11_no.png" class="image" alt="SDG 11">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>23</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=11#archive" class="sdg-publication-count"><span>23</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/baerekraftige-byer-og-lokalsamfunn?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

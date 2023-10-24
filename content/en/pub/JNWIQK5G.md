@@ -1,5 +1,5 @@
 ---
-title: "Hva vil vi med fosterdiagnostikken?: fosterdiagnostikkens etikk"
+title: "JNWIQK5G"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JNWIQK5G" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1884805" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JNWIQK5G" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JNWIQK5G" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JNWIQK5G" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-JNWIQK5G"></div>
 </article>
 <div id="csl-bib-meta-JNWIQK5G" class="csl-bib-meta">
-  <article id="abstract-article-JNWIQK5G" class="abstract-article">
-    <h1>Abstract</h1>
-    I omtrent 50 år har man drevet med diagnostikk av ufødte i Norge. Praksisen er den bioteknologien som har vært gjenstand for mest debatt. Ultralyden gir det første bilde av det ufødte barnet. Informasjonen man får kan reise en rekke etiske spørsmål rundt fremtidig liv og død. I denne boken redegjør professor i medisinsk filosofi Bjørn M. Hofmann for de forskjellige formene for fosterdiagnostikk. Med forankring i fire prinsipper i bioetikken: velgjørenhet, ikke skade, rettferdighet og autonomi, drøfter Hofmann de etiske sidene ved denne praksisen. Han ser også på hvordan denne typen diagnostikk vil bli behandlet i fremtiden. Boken egner seg for helsepersonell, de som er med på å utforme helsepolitikk og -tjenester, og for alle som er opptatt av de etiske dilemmaene rundt hvem som skal fødes inn i denne verden og informasjonen man skal ha om dem. Omtalen er utarbeidet av BS.
-  </article>
   <article id="contributors-article-JNWIQK5G" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

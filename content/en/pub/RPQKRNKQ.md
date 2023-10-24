@@ -1,5 +1,5 @@
 ---
-title: "Attention-deficit/hyperactivity disorder persistence from childhood into young adult age: a 10-year longitudinal study"
+title: "RPQKRNKQ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,28 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RPQKRNKQ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2050079" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RPQKRNKQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-RPQKRNKQ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RPQKRNKQ" class="csl-bib-button">Contributors</a>
+    <a href="https://www.duo.uio.no/bitstream/10852/99382/2/ADHD_persistence_preprint.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-RPQKRNKQ"></div>
 </article>
 <div id="csl-bib-meta-RPQKRNKQ" class="csl-bib-meta">
-  <article id="abstract-article-RPQKRNKQ" class="abstract-article">
-    <h1>Abstract</h1>
-    Introduction 
-The aim of this study was to estimate ADHD persistence in a European clinical sample of children diagnosed with ADHD and followed prospectively for 10 years into young adulthood. 
- 
-Methods 
-We assessed 85 children with ADHD at baseline (Mage = 11.6, SD = 2.1, 54% male) and re-assessed 59 at 10-year follow-up (Mage = 21.4, SD = 2.3, 54% male). ADHD symptoms at baseline were assessed with a semi-structured clinical interview (Kiddie-Schedule for Affective Disorders and Schizophrenia/Present and lifetime version) and parent rating scales (ADHD Rating Scale IV, Child Behavior Checklist). ADHD symptoms at 10-year follow-up were assessed with a semi-structured clinical interview (MINI-Plus) and self-report scales (ADHD Self-Report Scale version 1.1 screener, Adult Self Report). Functional impairment at 10-year follow-up was assessed with the Global Assessment of Functioning scale. 
- 
-Results 
-At 10-year follow-up, 39% met ADHD symptom thresholds based on clinical evaluation using MINI-Plus or the ADHD Self-Report Scale version 1.1 screener or the Adult Self Report together with clinicians’ rating of functional impairment. 
- 
-Conclusion 
-ADHD persistence rates in this European clinical sample match previous estimates and indicate that a significant proportion of those diagnosed with ADHD as children still exhibit clinical levels of ADHD symptoms in adulthood.
-  </article>
   <article id="contributors-article-RPQKRNKQ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

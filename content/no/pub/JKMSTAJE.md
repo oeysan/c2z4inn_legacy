@@ -1,5 +1,5 @@
 ---
-title: "Predicting Habitat Properties Using Remote Sensing Data: Soil pH and Moisture, and Ground Vegetation Cover"
+title: "JKMSTAJE"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JKMSTAJE" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2074407" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JKMSTAJE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JKMSTAJE" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JKMSTAJE" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-JKMSTAJE" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2072-4292/14/20/5207/pdf?version=1666081590" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JKMSTAJE"></div>
 </article>
 <div id="csl-bib-meta-JKMSTAJE" class="csl-bib-meta">
-  <article id="abstract-article-JKMSTAJE" class="abstract-article">
-    <h1>Samandrag</h1>
-    Remote sensing data comprise a valuable information source for many ecological landscape studies that may be under-utilized because of an overwhelming amount of processing methods and derived variables. These complexities, combined with a scarcity of quality control studies, make the selection of appropriate remote sensed variables challenging. Quality control studies are necessary to evaluate the predictive power of remote sensing data and also to develop parsimonious models underpinned by functional variables, i.e., cause rather than solely correlation. Cause-based models yield superior model transferability across different landscapes and ecological settings. We propose two basic guidelines for conducting such quality control studies that increase transferability and predictive power. The first is to favor predictors that are causally related to the response. The second is to include additional variables controlling variation in the property of interest and testing for optimum processing method and/or scale. Here, we evaluated these principles in predicting ground vegetation cover, soil moisture and pH under challenging conditions with forest canopies hindering direct remote sensing of the ground. Our model using lidar data combined with natural resource maps explained most of the observed variation in soil pH and moisture, and somewhat less variation of ground vegetation cover. Soil pH was best predicted by topographic position, sediment type and site index (R2 = 0.90). Soil moisture was best predicted by topographic position, radiation load, sediment type and site index (R2 = 0.83). The best model for predicting ground vegetation cover was a combination of lidar-based estimates for light availability below canopy and forest type, including an interaction between these two variables (R2 = 0.65).
-  </article>
   <article id="contributors-article-JKMSTAJE" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -127,13 +123,13 @@ Rom 2N1285
     <div class="sdg-container"><div id="sdg12" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg12_no.png" class="image" alt="SDG 12">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>11</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=12#archive" class="sdg-publication-count"><span>12</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/ansvarlig-forbruk-og-produksjon?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Co-occurrence patterns and habitat selection of the mountain hare, European hare, and European rabbit in urban areas of Sweden"
+title: "LF8JB5I2"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LF8JB5I2" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2122379" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LF8JB5I2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LF8JB5I2" class="csl-bib-button">Medverkande</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s42991-022-00339-y.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LF8JB5I2"></div>
 </article>

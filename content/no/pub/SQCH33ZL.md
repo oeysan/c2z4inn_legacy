@@ -1,5 +1,5 @@
 ---
-title: "Arbeiderklassen, Édouard Louis og Kjartan Fløgstad.Et kritisk tilbakeblikk på debattene rundt Farvel til EddyBellegueule i Frankrike og Norge"
+title: "SQCH33ZL"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SQCH33ZL" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1607515" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SQCH33ZL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SQCH33ZL" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.idunn.no/file/pdf/67074027/arbeiderklassen_douard_louis_og_kjartan_floegstad_et_krit.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-SQCH33ZL"></div>
 </article>

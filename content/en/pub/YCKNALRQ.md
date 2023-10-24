@@ -1,5 +1,5 @@
 ---
-title: "Crisis behaviors as drivers of value co-creation transformation"
+title: "YCKNALRQ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YCKNALRQ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1973290" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YCKNALRQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-YCKNALRQ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-YCKNALRQ" class="csl-bib-button">Contributors</a>
+    <a href="https://www.emerald.com/insight/content/doi/10.1108/IJQSS-01-2021-0001/full/pdf?title=crisis-behaviors-as-drivers-of-value-co-creation-transformation" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-YCKNALRQ"></div>
 </article>
 <div id="csl-bib-meta-YCKNALRQ" class="csl-bib-meta">
-  <article id="abstract-article-YCKNALRQ" class="abstract-article">
-    <h1>Abstract</h1>
-    Purpose–The paper aims to conceptualize how behavioral shifts in times of crisis drive the transformationof value co-creation.Design/methodology/approach–Referencing two empirical contexts, the paper explores how digitalservice platforms facilitate changes in actors’mental models and institutional arrangements (legal, social,technological) that drive transformation of value co-creation in service ecosystems.Findings–The proposed conceptual framework contributes to existing research by identifying micro-levelchanges in actors’mental models and macro-level changes in institutional arrangements enabled by digitalservice platforms in service ecosystems. In particular, the framework identifies motivation, agility andresistance as moderators of behavioral shifts in times of crisis. This account offers afiner-grained theorizationof the moderating factors and underlying mechanisms of service ecosystem transformation but does notextend to the ensuing“new normal.”Practical implications–The proposed framework indicates how digital platforms support shifts in actors’behavior and contribute to the transformation of value co-creation. While the enablers are situation-specificandmay therefore vary according to the prevailing conditions, the actor-related concepts advanced here seem likelyto remain relevant when analyzing the transformation of value co-creation in other crisis situations.Originality/value–The new conceptual framework advanced here clarifies how behavioral shifts duringa crisis drive the transformation of value co-creation and suggests directions for future research
-  </article>
   <article id="contributors-article-YCKNALRQ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

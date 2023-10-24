@@ -1,5 +1,5 @@
 ---
-title: "Roads constrain movement across behavioural processes in a partially migratory ungulate"
+title: "IXQ3K25W"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IXQ3K25W" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1962335" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/IXQ3K25W" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-IXQ3K25W" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IXQ3K25W" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-IXQ3K25W" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://movementecologyjournal.biomedcentral.com/track/pdf/10.1186/s40462-021-00292-4" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-IXQ3K25W"></div>
 </article>
 <div id="csl-bib-meta-IXQ3K25W" class="csl-bib-meta">
-  <article id="abstract-article-IXQ3K25W" class="abstract-article">
-    <h1>Abstract</h1>
-    BackgroundHuman disturbance alters animal movement globally and infrastructure, such as roads, can act as physical barriers that impact behaviour across multiple spatial scales. In ungulates, roads can particularly hamper key ecological processes such as dispersal and migration, which ensure functional connectivity among populations, and may be particularly important for population performance in highly human-dominated landscapes. The impact of roads on some aspects of ungulate behaviour has already been studied. However, potential differences in response to roads during migration, dispersal and home range movements have never been evaluated. Addressing these issues is particularly important to assess the resistance of European landscapes to the range of wildlife movement processes, and to evaluate how animals adjust to anthropogenic constraints. Methods We analysed 95 GPS trajectories from 6 populations of European roe deer ( Capreolus capreolus ) across the Alps and central Europe. We investigated how roe deer movements were affected by landscape characteristics, including roads, and we evaluated potential differences in road avoidance among resident, migratory and dispersing animals (hereafter, movement modes). First, using Net Squared Displacement and a spatio-temporal clustering algorithm, we classified individuals as residents, migrants or dispersers. We then identified the start and end dates of the migration and dispersal trajectories, and retained only the GPS locations that fell between those dates (i.e., during transience). Finally, we used the resulting trajectories to perform an integrated step selection analysis. ResultsWe found that roe deer moved through more forested areas during the day and visited less forested areas at night. They also minimised elevation gains and losses along their movement trajectories. Road crossings were strongly avoided at all times of day, but when they occurred, they were more likely to occur during longer steps and in more forested areas. Road avoidance did not vary among movement modes and, during dispersal and migration, it remained high and consistent with that expressed during home range movements. ConclusionsRoads can represent a major constraint to movement across modes and populations, potentially limiting functional connectivity at multiple ecological scales. In particular, they can affect migrating individuals that track seasonal resources, and dispersing animals searching for novel ranges.
-  </article>
   <article id="contributors-article-IXQ3K25W" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -62,7 +58,7 @@ Campus Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Øving på cybersikkerheit: Ein casestudie av ei cybersikkerheitsøving"
+title: "UJ4CKQ4K"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UJ4CKQ4K" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2053090" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UJ4CKQ4K" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UJ4CKQ4K" class="csl-bib-button">Contributors</a>
+    <a href="http://sjms.nu/articles/10.31374/sjms.119/galley/176/download/" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-UJ4CKQ4K"></div>
 </article>

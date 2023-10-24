@@ -1,5 +1,5 @@
 ---
-title: "Cognisance as a Human Factor in Military Cyber Defence Education"
+title: "HBCSEA3X"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HBCSEA3X" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1727514" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HBCSEA3X" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-HBCSEA3X" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HBCSEA3X" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.1016/j.ifacol.2019.12.168" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-HBCSEA3X"></div>
 </article>
 <div id="csl-bib-meta-HBCSEA3X" class="csl-bib-meta">
-  <article id="abstract-article-HBCSEA3X" class="abstract-article">
-    <h1>Samandrag</h1>
-    Cyber Defence Exercises (CDX) are common training and learning tools. A recently discussed challenge in cyber defence teaching and training is the gap between the fast technological advancement accompanied by rapidly changing demands on future cyber defence operators, and the lack of science-based teaching and training methods. A growing body of evidence suggests a crucial role of human factors as a central predictor for human performance in sociotechnical systems. While this has been acknowledged in a wide range of safety-critical applied fields, there is still a lack of knowledge about the impact of human factors on cyber defence performance. The lack of conventional metrics of performance and learning progress contribute to this deficit. To address this gap, the Norwegian Defence Cyber Academy (NDCA) follows a science-based educational approach that identified in a series of empirical studies cognitive-psychological predictors for learning success of future cyber defence operators. These predictors and elements of a human factors research program are deeply embedded into educational practice and include processes such as metacognition, self-regulation, coping, communication and shared mental modelling. Slow education methods and mentoring are fundamental to enabling the advancement of human factors cognisance among military cyber cadets. As a tool for efficient training, the NDCA developed and implemented a mentoring concept that involves a cyber defence retrospective timeline analysis involving expert and practitioner level mentors. The timeline differentiates between performance relevant hard-and soft-skills and leads progressively towards an alignment of Security Operation Centre (SOC)-and expert judgments of performance. The NDCA argues that this educational concept facilitates educational benefits based on insight, accurate self-perception, motivation and decreased team workloads following more efficient collaboration.
-  </article>
   <article id="contributors-article-HBCSEA3X" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

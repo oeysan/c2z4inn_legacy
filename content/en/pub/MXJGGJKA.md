@@ -1,5 +1,5 @@
 ---
-title: "Is pass-through of the exchange rate to restaurant and hotel prices asymmetric in the US? Role of monetary policy uncertainty"
+title: "MXJGGJKA"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MXJGGJKA" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2114904" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/MXJGGJKA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-MXJGGJKA" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-MXJGGJKA" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-MXJGGJKA" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://jfin-swufe.springeropen.com/counter/pdf/10.1186/s40854-022-00425-7" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-MXJGGJKA"></div>
 </article>
 <div id="csl-bib-meta-MXJGGJKA" class="csl-bib-meta">
-  <article id="abstract-article-MXJGGJKA" class="abstract-article">
-    <h1>Abstract</h1>
-    This study examines the exchange rate pass-through to the United States (US) restaurant and hotel prices by incorporating the effect of monetary policy uncertainty over the period 2001:M12 to 2019:M01. Using the nonlinear autoregressive distributed lag (NARDL) model, empirical evidence indicates asymmetric  pass-through of exchange rate and monetary policy uncertainty. Moreover, a stronger pass-through effect is observed during depreciation and a negative shock in monetary policy uncertainty, corroborating asymmetric pass-through predictions. Our results further show that a positive shock in energy prices leads to an increase in restaurant and hotel prices. Furthermore, asymmetric causality indicates that a positive shock in the exchange rate causes a positive shock to restaurant and hotel prices. We found feedback causal effects between positive and negative shocks in monetary policy uncertainty and positive and negative shocks in the exchange rate. Additionally, we detected a one-way asymmetric causality, flowing from a positive (negative) shock to a positive (negative) shock in energy prices. Therefore, these findings provide insights for policymakers to achieve low and stable prices in the US restaurant and hotel industry through sound monetary policy formulations.
-  </article>
   <article id="contributors-article-MXJGGJKA" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Campus Kongsvinger
     <div class="sdg-container"><div id="sdg7" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg07_en.png" class="image" alt="SDG 7">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>27</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=7#archive" class="sdg-publication-count"><span>27</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal7" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

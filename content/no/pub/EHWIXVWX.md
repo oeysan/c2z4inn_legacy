@@ -1,5 +1,5 @@
 ---
-title: "Why Do Those With Long-Term Substance Use Disorders Stop Abusing Substances? A Qualitative Study"
+title: "EHWIXVWX"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EHWIXVWX" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1578213" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/EHWIXVWX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-EHWIXVWX" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EHWIXVWX" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-EHWIXVWX" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://journals.sagepub.com/doi/pdf/10.1177/1178221817752678" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-EHWIXVWX"></div>
 </article>
 <div id="csl-bib-meta-EHWIXVWX" class="csl-bib-meta">
-  <article id="abstract-article-EHWIXVWX" class="abstract-article">
-    <h1>Samandrag</h1>
-    Although a significant proportion of adults recover from substance use disorders (SUDs), little is known about how they reach this turning point or why they stop using. The purpose of the study was to explore the factors that influence reasoning and decision making about quitting substance use after a long-term SUD. Semistructured interviews were conducted with 18 participants, each of whom had been diagnosed with a SUD and had been abstinent for at least 5 years. A resource group of peer consultants in long-term recovery from SUDs contributed to the study’s planning, preparation, and initial analyses. Participants recalled harmful consequences and significant events during their years of substance use. Pressure and concern from close family members were important in their initial efforts to abstain from substance use. Being able to imagine a different life, and the awareness of existing treatment options, promoted hope and further reinforced their motivation to quit. Greater focus on why those with SUDs want to quit may help direct treatment matching; treatment completion may be more likely if the person’s reasons for seeking help are addressed.
-  </article>
   <article id="contributors-article-EHWIXVWX" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -97,13 +93,13 @@ Rom 4L3227
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

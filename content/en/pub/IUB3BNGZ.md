@@ -1,5 +1,5 @@
 ---
-title: "The health and care services of the future from an everyday coping perspective : a conceptual analysis of everyday coping in political documents"
+title: "IUB3BNGZ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IUB3BNGZ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1859829" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/IUB3BNGZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IUB3BNGZ" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/ISSN.1903-2285-2021-04-03" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-IUB3BNGZ"></div>
 </article>

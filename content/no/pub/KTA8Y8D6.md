@@ -1,5 +1,5 @@
 ---
-title: "Equality as a driver of inequality? Universalistic welfare, generalised creditworthiness and financialised housing markets"
+title: "KTA8Y8D6"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KTA8Y8D6" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1740584" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/KTA8Y8D6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KTA8Y8D6" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/01402382.2019.1612161" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-KTA8Y8D6"></div>
 </article>

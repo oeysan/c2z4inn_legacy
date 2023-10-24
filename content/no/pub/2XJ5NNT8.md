@@ -1,5 +1,5 @@
 ---
-title: "Morphological and phenological consequences of ex situ conservation of natural populations of red clover ( Trifolium pratense L.)"
+title: "2XJ5NNT8"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2XJ5NNT8" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1656727" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/2XJ5NNT8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-2XJ5NNT8" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-2XJ5NNT8" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-2XJ5NNT8" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1017/S1479262115000416" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-2XJ5NNT8"></div>
 </article>
 <div id="csl-bib-meta-2XJ5NNT8" class="csl-bib-meta">
-  <article id="abstract-article-2XJ5NNT8" class="abstract-article">
-    <h1>Samandrag</h1>
-    Ex situ seed banks provide an effective conservation and utilization system for crops and their wild relatives. Efforts are made to reduce genetic drift in conservation, where regeneration is a critical step. In the present study, we examined eight wild populations of red clover (Trifolium pratense L.) according to 13 morphological and phenological traits. Samples of original collected seed were grown and compared with plants from first and second ex situ generation, with commercial cultivars and landraces being included for purposes of comparison. Variance analysis and Tukey multiple comparisons of means showed that the commercial cultivars and landraces were clearly distinct from the wild populations and were excluded from the further analysis. Despite the fact that the wild accessions were collected from a geographically delimited region in Norway, they exhibited significant differences in several of the measured traits. The main phenotypic patterns remain after ex situ regenerations. However, the mean values for four of the examined traits (across accessions) did change significantly from one generation to the next. Two of the eight accessions had significantly changed from one generation to the next, a tendency was observed across all the studied traits. The results were discussed in terms of regeneration circumstances. Observed changes appeared to be directional, going from populations with predominantly wild morphological types towards plants more closely resembling the commercial cultivars. Such a directional change implies that selection or gene flow has been acting on the accessions during regeneration, rather than random changes owing to genetic drift.
-  </article>
   <article id="contributors-article-2XJ5NNT8" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Studiested Blæstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

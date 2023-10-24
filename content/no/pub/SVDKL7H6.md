@@ -1,5 +1,5 @@
 ---
-title: "Illusions of Convergence: The Persistent Simplification of a Wicked Crisis"
+title: "SVDKL7H6"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SVDKL7H6" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1794972" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SVDKL7H6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SVDKL7H6" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-SVDKL7H6"></div>

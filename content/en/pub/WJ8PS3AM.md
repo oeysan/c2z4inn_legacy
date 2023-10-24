@@ -1,5 +1,5 @@
 ---
-title: "Politically Engaged Mindset of Everyday Coping in Relation to Nursing Values: A Phenomenological-Hermeneutic Study of District Nurses’ Experiences"
+title: "WJ8PS3AM"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,23 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WJ8PS3AM" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2129515" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WJ8PS3AM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-WJ8PS3AM" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WJ8PS3AM" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1177/23779608231157969" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WJ8PS3AM"></div>
 </article>
 <div id="csl-bib-meta-WJ8PS3AM" class="csl-bib-meta">
-  <article id="abstract-article-WJ8PS3AM" class="abstract-article">
-    <h1>Abstract</h1>
-    IntroductionTo accommodate challenges threatening the healthcare sector's sustainability, district nursing in Norway implemented the rehabilitative and health promoting mindset of everyday coping. When implementing new ideas and practices in nursing care, understanding the significance of this mindset on patient care and whether it corresponds to nursing values are important to ensure healthcare quality. 
-ObjectiveThis study aimed to understand how nurses practice care where everyday coping is implemented in district nursing and their experience of everyday coping as a mindset in relation to nursing values. 
-MethodsA qualitative study was conducted including 19 observations and 19 narrative interviews with 10 district nurses, during two data collection periods. Data were analyzed using a phenomenological-hermeneutic method. The analysis process consisted of three steps: naïve reading, structural analysis, and comprehensive understanding. 
-ResultsThe following two main themes and four sub-themes emerged from the data analyses: (i) Understanding individual patient situations; “Creating a nurse–patient relationship to understand the patient landscape” and “providing care based on individual patient needs,” (ii) knowing when and how to motivate or help patients; “distinction between motivating patients and causing stress” and “realistic and desirable demands to motivate patients to perform tasks.” 
-ConclusionParticipants determined how to provide care to patients based on their values, professional knowledge, and individual patient situations. The patient landscape is diverse and everyday coping is unable to capture the diversity of patient groups. Thus, everyday coping is not expressed as an overall mindset in nursing practice. 
-Keywords: nursing values, everyday coping, political strategies, health promotion models
-  </article>
   <article id="contributors-article-WJ8PS3AM" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

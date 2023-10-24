@@ -1,5 +1,5 @@
 ---
-title: "The effect of changing from campus-based to digital teaching on student attendance: A case study of Norwegian business students"
+title: "DFKCG6CQ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DFKCG6CQ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2088668" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/DFKCG6CQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-DFKCG6CQ" class="csl-bib-button">Contributors</a>
+    <a href="http://www.cell.com/article/S2405844022025956/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-DFKCG6CQ"></div>
 </article>

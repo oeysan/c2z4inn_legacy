@@ -1,5 +1,5 @@
 ---
-title: "Cow cleanliness in dairy herds with tie stall systems in Bosnia and Herzegovina"
+title: "FEY2MIKM"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FEY2MIKM" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1588256" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/FEY2MIKM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-FEY2MIKM" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FEY2MIKM" class="csl-bib-button">Medverkande</a>
+    <a href="http://ojs.aas.bf.uni-lj.si/index.php/AAS/article/download/607/270" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-FEY2MIKM"></div>
 </article>
 <div id="csl-bib-meta-FEY2MIKM" class="csl-bib-meta">
-  <article id="abstract-article-FEY2MIKM" class="abstract-article">
-    <h1>Samandrag</h1>
-    This study involved 70 tie stall dairy herds from all over Bosnia and Herzegovina. In each herd, trained observers scored the cleanliness (score 1 = clean to score 4 = very dirty) of 5 randomly chosen cows, total 350 cows, on 5 different body parts (rear, thigh, leg, udder and belly). Total cleanliness score was calculated by adding together the scores for the different body parts. The observers also recorded data on stall design, flooring and use of bedding materials. The proportion of cows scored as dirty or very dirty (score 3 and 4) was 33.4 %, 50.8 %, 55.1 %, 16.0 % and 18.6 % for the legs, thighs, rear, udder and belly respectively. 57.4 % of the cows got a total cleanliness score &gt; 10. The mean total cleanliness score on herd level varied from 5.2 to 18.8. Tests of each stall design variable showed that tying system (p  0.15) and floor type (p &gt; 0.15) had smaller effect. However, only the presence of stall dividers showed significant association to total cleanliness score in the full statistical model (p &lt; 0.05).
-  </article>
   <article id="contributors-article-FEY2MIKM" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

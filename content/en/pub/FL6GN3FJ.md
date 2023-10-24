@@ -1,5 +1,5 @@
 ---
-title: "Home range variation in leopards living across the human density gradient"
+title: "FL6GN3FJ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FL6GN3FJ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1937948" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/FL6GN3FJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-FL6GN3FJ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FL6GN3FJ" class="csl-bib-button">Contributors</a>
+    <a href="https://ora.ox.ac.uk/objects/uuid:3c6163ea-e242-40bf-b7db-e060f695ce42/files/r5t34sj95b" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-FL6GN3FJ"></div>
 </article>
 <div id="csl-bib-meta-FL6GN3FJ" class="csl-bib-meta">
-  <article id="abstract-article-FL6GN3FJ" class="abstract-article">
-    <h1>Abstract</h1>
-    Home range size is a fundamental measure of animal space use, providing insight into habitat quality, animal density, and social organization. Human impacts increasingly are affecting wildlife, especially among wide-ranging species that encounter anthropogenic disturbance. Leopards (Panthera pardus) provide a useful model for studying this relationship because leopards coexist with people at high and low human densities and are sensitive to human disturbance. To compare leopard home range size across a range of human densities and other environmental conditions, we combined animal tracking data from 74 leopards in multiple studies with new analytical techniques that accommodate different sampling regimes. We predicted that home ranges would be smaller in more productive habitats and areas of higher human population density due to possible linkage with leopard prey subsidies from domestic species. We also predicted that male leopards would have larger home ranges than those of females. Home ranges varied in size from 14.5 km2 in India to 885.6 km2 in Namibia, representing a 60-fold magnitude of variation. Home range stability was evident for 95.2% of nontranslocated individuals and 38.5% of translocated individuals. Leopard home range sizes were negatively correlated with landscape productivity, and males used larger areas than females. Leopards in open habitats had a predicted negative correlation in home range size with human population density, but leopards in closed habitats used larger home ranges in areas with more people.
-  </article>
   <article id="contributors-article-FL6GN3FJ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

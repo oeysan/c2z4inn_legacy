@@ -1,5 +1,5 @@
 ---
-title: "Nitrate and oxalate in germplasm collections of spinach and other leafy vegetables"
+title: "AQXF5MHN"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,20 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AQXF5MHN" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1656731" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/AQXF5MHN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-AQXF5MHN" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AQXF5MHN" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.ejfa.me/index.php/journal/article/download/839/608" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-AQXF5MHN"></div>
 </article>
 <div id="csl-bib-meta-AQXF5MHN" class="csl-bib-meta">
-  <article id="abstract-article-AQXF5MHN" class="abstract-article">
-    <h1>Samandrag</h1>
-    Accumulation of nitrate and oxalate is a concern in the production and marketing of leafy vegetables. High nitrate levels can be related to fertilization regime, light conditions and plant factors. Plant factors are of major importance for oxalate content. Plant breeding has been reported as one way of reducing the content of nitrate and oxalate. In this study we have examined germplasm collections of spinach (Spinacia oleracea), orache (Atriplex hortensis) and rocket (Eruca sativa). For spinach contents were related to morphological characters and to breeding method. Across accessions, rocket showed significantly higher nitrate levels than spinach and orache. No clear differences were detected between spinach and orache with regard to either nitrate or oxalate content. However, oarche showed higher dry matter content. A general strong positive correlation was found between nitrate and oxalate. The mechanism behind such a relationship is discussed but not fully understood. No differences were detected between old and new spinach cultivars or between open-pollinated cultivars and F1-hybrids, but potential interesting accessions for future breeding of low-nitrate/low-oxalate spinach were identified. 
- 
-Keywords:   breeding, Eruca sativa, orache, rocket, Spinacia oleracea
-  </article>
   <article id="contributors-article-AQXF5MHN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

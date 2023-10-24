@@ -1,5 +1,5 @@
 ---
-title: "Norwegian public health nurses’ competence areas"
+title: "PMT3BCFY"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PMT3BCFY" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1930433" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PMT3BCFY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-PMT3BCFY" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PMT3BCFY" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-PMT3BCFY" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/phn.13083" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PMT3BCFY"></div>
 </article>
 <div id="csl-bib-meta-PMT3BCFY" class="csl-bib-meta">
-  <article id="abstract-article-PMT3BCFY" class="abstract-article">
-    <h1>Abstract</h1>
-    ObjectiveTo explore the competence areas of public health nurses in Norway. DesignA qualitative and comparative design was employed. SampleA purposive sample of 41 public health nurses participated. MeasurementsData were gathered from focus groups and individual interviews. The interviews centered around an open question about public health nurses’ knowledge. They also discussed 10 proposed competence areas for public health nursing, developed from the literature. A qualitative content analysis was conducted on the interview transcripts, followed by a synthesis of the data from the interviews and earlier developed competencies. The 10 competence areas for Norwegian public health nursing were then refined. Finally, we compared the affirmed competence areas with earlier developed cornerstones and the new educational guidelines. ResultsThe interviews revealed 10 competence areas. These 10 competence areas were synthesized with the 10 proposed competencies from literature. Ten affirmed competence areas, which mostly corresponded with the competences from literature, were developed. The affirmed competencies were supported by the previously developed cornerstones and new educational guidelines. ConclusionsThe affirmed competencies will help promote and explain the content and focus of PHNs’ work in Norway and may have implications for education and international research.
-  </article>
   <article id="contributors-article-PMT3BCFY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,13 +59,13 @@ Room 4L3223
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

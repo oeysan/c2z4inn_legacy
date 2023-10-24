@@ -1,5 +1,5 @@
 ---
-title: "Norwegian in-service teachers’ perspectives on language corpora in teaching English"
+title: "U4PUXZD2"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-U4PUXZD2" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1986444" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/U4PUXZD2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-U4PUXZD2" class="csl-bib-button">Contributors</a>
+    <a href="https://journal.uia.no/index.php/NJLTL/article/download/933/739" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-U4PUXZD2"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "New practices of comparison, quantification and expertise in education: conducting empirically based research"
+title: "VFZKQAZU"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VFZKQAZU" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1703812" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VFZKQAZU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-VFZKQAZU" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VFZKQAZU" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-VFZKQAZU" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-VFZKQAZU"></div>
 </article>
 <div id="csl-bib-meta-VFZKQAZU" class="csl-bib-meta">
-  <article id="abstract-article-VFZKQAZU" class="abstract-article">
-    <h1>Samandrag</h1>
-    "Numbers and Knowledge in Education discusses contemporary trends and activities related to comparisons and quantifications. It aims to help scholars to conduct empirically based research on how comparisons and quantifications are instituted in practice at different levels in the educational system. Numbers and Knowledge in Education will be of great interest to academics, researchers and post-graduate students in the fields of comparative education, curriculum research and policy studies. It will also appeal to those in the fields of teacher education, including student teachers"-
-  </article>
   <article id="contributors-article-VFZKQAZU" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -67,7 +62,7 @@ Rom 2P239
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

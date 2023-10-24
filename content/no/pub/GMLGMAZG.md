@@ -1,5 +1,5 @@
 ---
-title: "Totalforsvaret i praksis"
+title: "GMLGMAZG"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GMLGMAZG" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2043486" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GMLGMAZG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GMLGMAZG" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GMLGMAZG" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-GMLGMAZG"></div>
 </article>
 <div id="csl-bib-meta-GMLGMAZG" class="csl-bib-meta">
-  <article id="abstract-article-GMLGMAZG" class="abstract-article">
-    <h1>Samandrag</h1>
-    Forfatterne drøfter også erfaringer fra koronapandemien og fra Russlands krig mot Ukraina – hendelser som har hatt og vil få enorme konsekvenser for både det norske samfunnet og for totalforsvaret. Boken presenterer dessuten noen mulige hovedutfordringer for totalforsvaret i årene som kommer, og stiller noen grunnleggende spørsmål: Vil totalforsvaret fungere godt nok i en krise, og hva skal til for at totalforsvaret skal fungere best mulig?Det norske totalforsvaret er et omfattende system som skal sikre best mulig utnyttelse av samfunnets ressurser ved en stats- eller samfunnssikkerhetskrise, gjennom gjensidig støtte og samarbeid mellom sivil og militær sektor. Totalforsvaret har røtter i statens planer for total krigsmobilisering under den kalde krigen, men har blitt gjenopplivet og videreutviklet etter årtusenskiftet i en ny tid med terrortrusler, hyppigere naturkatastrofer, digital sårbarhet, gråsonetrusler – og stadig økende sikkerhetspolitisk spenning. Samtidig har økt privatisering og fragmentering av statens virke- og myndighetsområde endret totalforsvarets rammer fundamentalt.
-  </article>
   <article id="contributors-article-GMLGMAZG" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

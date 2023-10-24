@@ -1,5 +1,5 @@
 ---
-title: "Successful public policy in the Nordic countries: cases, lessons, challenges"
+title: "GLUEGIZ7"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,21 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GLUEGIZ7" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2051494" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GLUEGIZ7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GLUEGIZ7" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GLUEGIZ7" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-GLUEGIZ7"></div>
 </article>
 <div id="csl-bib-meta-GLUEGIZ7" class="csl-bib-meta">
-  <article id="abstract-article-GLUEGIZ7" class="abstract-article">
-    <h1>Samandrag</h1>
-    23 stories of iconic public policies that 'worked', that delivered public value, received broad political and public support, and have remained viable for decades 
-    Each case study is analysed using a systematic framework for success assessment that builds on the pioneering work of Allan McConnell, and which has now been applied to nearly 100 case studies spread across four open access volumes 
-    Offers in depth descriptions of the origins, design, and evolution of the policies under study, bringing to life the actors, ideas, interests, and interactions that gave birth to them and steered their implementation 
-    An open access title available under the terms of a CC BY-NC-ND 4.0 licence
-  </article>
   <article id="contributors-article-GLUEGIZ7" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Prediction of high fecal propionate-to-butyrate ratios using 16S rRNA-based detection of bacterial groups with liquid array diagnostics"
+title: "T5APTWST"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,20 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-T5APTWST" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2113727" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/T5APTWST" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-T5APTWST" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-T5APTWST" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-T5APTWST" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.2144/btn-2022-0045" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-T5APTWST"></div>
 </article>
 <div id="csl-bib-meta-T5APTWST" class="csl-bib-meta">
-  <article id="abstract-article-T5APTWST" class="abstract-article">
-    <h1>Samandrag</h1>
-    Butyrate and propionate represent two of three main short-chain fatty acids produced by the intestinal microbiota. In healthy populations, their levels are reportedly equimolar, whereas a deviation in their ratio has been observed in various diseased cohorts. Monitoring such a ratio represents a valuable metric; however, it remains a challenge to adopt short-chain fatty acid detection techniques in clinical settings because of the volatile nature of these acids. Here we aimed to estimate short-chain fatty acid information indirectly through a novel, simple quantitative PCR-compatible assay (liquid array diagnostics) targeting a limited number of microbiome 16S markers. Utilizing 15 liquid array diagnostics probes to target microbiome markers selected by a model that combines partial least squares and linear discriminant analysis, the classes (normal vs high propionate-to-butyrate ratio) separated at a threshold of 2.6 with a prediction accuracy of 96%.
-METHOD SUMMARY We present a quantitative PCR-compatible test based on the liquid array diagnostics method to be used as a tool for detecting/classifying fecal samples with an atypically high propionate-to-butyrate ratio. The liquid array diagnostics-based test presented here targets the 16S rRNA gene of a limited number of bacterial markers to infer their presence and abundance in fecal samples. The classification of samples (normal vs high propionate-to-butyrate ratio) is performed utilizing an algorithm combining partial least squares and linear discriminant analysis.
-  </article>
   <article id="contributors-article-T5APTWST" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -100,13 +95,13 @@ Rom 2N1247
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Body temperature patterns during pregnancy and parturition in moose"
+title: "UZ8FZYDP"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UZ8FZYDP" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2058614" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UZ8FZYDP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UZ8FZYDP" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1016/j.jtherbio.2022.103334" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-UZ8FZYDP"></div>
 </article>

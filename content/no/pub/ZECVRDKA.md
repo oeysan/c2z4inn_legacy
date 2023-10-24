@@ -1,5 +1,5 @@
 ---
-title: "Outdoor life, nature experience, and sports in Norway: tensions and dilemmas in the preservation and use of urban forest"
+title: "ZECVRDKA"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,34 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZECVRDKA" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1517207" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ZECVRDKA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ZECVRDKA" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ZECVRDKA" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-ZECVRDKA" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/17430437.2017.1390938?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ZECVRDKA"></div>
 </article>
 <div id="csl-bib-meta-ZECVRDKA" class="csl-bib-meta">
-  <article id="abstract-article-ZECVRDKA" class="abstract-article">
-    <h1>Samandrag</h1>
-    How should contemporary societies promote physical activity in 
-nature and preservation of the natural environment? Outdoor life 
-occupies a central and contested position on this question in the 
-Nordic countries. In Norway, a 1957 Act of Parliament took a major 
-step by guaranteeing free public access to both public and private 
-uncultivated land. This article explores the media debate that raged in 
-2008–2009, when the national government proposed new legislation 
-intended to promote outdoor life, sport, nature experience and urban 
-forest preservation around Oslo, Norway’s capital. Applying narrative 
-and discourse methodologies, this case study reveals how the media 
-debate evolved from an initial cacophony of voices into a schism 
-between advocates of nature preservation and advocates of sport. The 
-controversy explored here is increasingly relevant throughout all of 
-Europe: how to encourage urban active living, sustainable recreation 
-and democratic citizenship that embody distinct social practices, 
-identities, emotional bonds and symbolic meaning.
-  </article>
   <article id="contributors-article-ZECVRDKA" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -78,7 +59,7 @@ Rom 4L3333
     <div class="sdg-container"><div id="sdg11" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg11_no.png" class="image" alt="SDG 11">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>23</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=11#archive" class="sdg-publication-count"><span>23</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/baerekraftige-byer-og-lokalsamfunn?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

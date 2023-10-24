@@ -1,5 +1,5 @@
 ---
-title: "Persistent level of mental distress in PTSD patients is not reflected in cytokine levels 1 year after the treatment"
+title: "3PNEDN6R"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,35 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3PNEDN6R" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1910980" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3PNEDN6R" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-3PNEDN6R" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3PNEDN6R" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-3PNEDN6R" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5B4B9D18F0F3F8162F059C2AA2C74EA3/S0924270821000119a.pdf/div-class-title-persistent-level-of-mental-distress-in-ptsd-patients-is-not-reflected-in-cytokine-levels-1-year-after-the-treatment-div.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3PNEDN6R"></div>
 </article>
 <div id="csl-bib-meta-3PNEDN6R" class="csl-bib-meta">
-  <article id="abstract-article-3PNEDN6R" class="abstract-article">
-    <h1>Samandrag</h1>
-    Objective: Cross-sectional data show that post-traumatic stress disorder (PTSD) patients often 
-have increased levels of circulating inflammatory markers. There is, however, still a paucity of 
-longitudinal studies with long follow-up times on levels of cytokines in such patients. The current study assesses patients with and without PTSD diagnosis 1 year after discharge from 
-inpatient treatment. Methods: Patients in treatment for serious non-psychotic mental disorders 
-were recruited at the beginning of their treatment stay at a psychiatric centre in Norway. Ninety 
-patients submitted serum samples and filled out the Hopkins Symptom Checklist-90 Revised 
-Global Severity Index (HSCL-90R GSI) questionnaire during their mainstay and at a follow-up 
-stay 1 year after discharge. Of these patients, 33 were diagnosed with PTSD, 48 with anxiety, 
-depression, or eating disorder, while 9 patients had missing data. The patients were diagnosed 
-using the Mini-International Neuropsychiatric Interview (MINI). Results: At the follow-up stay 
-(T3), PTSD patients had higher levels of GSI scores than non-PTSD patients (p = 0.048). 
-These levels were unchanged from the year before (T2) in both groups. The levels of circulating cytokines/chemokine did not differ between the PTSD and non-PTSD patients at T3. 
-At T2, however, the PTSD and non-PTSD groups exhibited different levels of interleukin 1β 
-(IL-1β) (p = 0.053), IL-1RA (p = 0.042), and TNF-α (p = 0.037), with the PTSD patients 
-having the higher levels. Conclusion: Despite exhibiting different mental distress scores, 
-the PTSD and non-PTSD patients did not differ regarding levels of circulating inflammatory markers at 1-year follow-up. 
-© The Author(s), 2021. Published by Cambridge University Press in association with Scandinavian College of Neuropsychopharmacology.
-  </article>
   <article id="contributors-article-3PNEDN6R" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -115,7 +95,7 @@ Rom 4L3202
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Societal challenges, methodological issues and transdisciplinary approaches"
+title: "WS5AI2AZ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WS5AI2AZ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1774773" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WS5AI2AZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WS5AI2AZ" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4324/9781315180144-2" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-WS5AI2AZ"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "Nanofarming: Promising Solutions for the Future of the Global Agricultural Industry"
+title: "7TZ2ABA3"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7TZ2ABA3" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2157539" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7TZ2ABA3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-7TZ2ABA3" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7TZ2ABA3" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-7TZ2ABA3" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.mdpi.com/2073-4395/13/6/1600/pdf?version=1686658823" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7TZ2ABA3"></div>
 </article>
 <div id="csl-bib-meta-7TZ2ABA3" class="csl-bib-meta">
-  <article id="abstract-article-7TZ2ABA3" class="abstract-article">
-    <h1>Abstract</h1>
-    The agricultural sector is a vital source of human well-being that provides the necessities of daily life. A variety of farming systems are utilized in agriculture, such as a wide range of tillage options, no-till, agroforestry, precision farming, organic farming, cover cropping, crop rotations, etc. Each of these farming systems has unique challenges, and nanotechnology has successfully improved on many of them. Agricultural applications of nanotechnology include nanofertilizers, nanopesticides, nanosensors, nanobiotechnology, and nanoremediation. This study focuses on the application of nano-farming technologies to different farming systems. Suggested practices include nano improvement of soil quality, crop nano-protection under biotic stress, nanoremediation of polluted soil and water environments, nanomanagement of agro-wastes, nano-agrochemicals, nano-precision farming, and nanobiotechnology for modern farming. This review also addresses expected problems that may occur due to over application of nanomaterials to farming systems, such as nanopollution and nanotoxicity of agroecosystem compartments. Several dimensions are emphasized in this study, such as green energy, sustainable development, the circular bioeconomy, land biodegradation, pollution, and the one health approach, as essential for the global goals of sustainable development. Nanofarming presents both benefits and obstacles to human life. The exact balance between these benefits and challenges needs more study.
-  </article>
   <article id="contributors-article-7TZ2ABA3" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Campus Blæstad
     <div class="sdg-container"><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>46</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=2#archive" class="sdg-publication-count"><span>46</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

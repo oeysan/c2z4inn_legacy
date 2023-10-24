@@ -1,5 +1,5 @@
 ---
-title: "Mapping the digital food environment: A systematic scoping review"
+title: "DVBS6U8Y"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DVBS6U8Y" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2010374" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/DVBS6U8Y" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-DVBS6U8Y" class="csl-bib-button">Medverkande</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/obr.13356" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-DVBS6U8Y"></div>
 </article>

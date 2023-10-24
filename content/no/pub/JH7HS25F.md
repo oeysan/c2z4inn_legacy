@@ -1,5 +1,5 @@
 ---
-title: "Effect of caffeine ingestion on competitive rifle shooting performance"
+title: "JH7HS25F"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JH7HS25F" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1744240" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JH7HS25F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0224596&amp;type=printable" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JH7HS25F"></div>
 </article>

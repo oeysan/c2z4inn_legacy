@@ -1,5 +1,5 @@
 ---
-title: "The ambiguity of 'new' masculinities: Zayn Malik and disordered eating"
+title: "577QRZBA"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-577QRZBA" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1710657" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/577QRZBA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-577QRZBA" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-577QRZBA" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-577QRZBA" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/19392397.2019.1639975" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-577QRZBA"></div>
 </article>
 <div id="csl-bib-meta-577QRZBA" class="csl-bib-meta">
-  <article id="abstract-article-577QRZBA" class="abstract-article">
-    <h1>Samandrag</h1>
-    Conversations concerning gender ideals, gender roles, and equality have been revitalized in the public sphere following the rise of the #MeToo movement, and increased scrutiny is directed towards the behaviors, attitudes, and values associated with men and masculinity. In the following, I attempt to explicate the ambiguous gendered meanings afforded by Zayn Malik’s multiply constructed persona in context of the current cultural moment in which masculinity appears in a state of flux. By drawing on the theorisation of hybrid masculinities (Bridges and Pascoe 2018), I focus in particular on Zayn’s openness about disordered eating in relation to narratives of ‘new’ masculinities.
-  </article>
   <article id="contributors-article-577QRZBA" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 2K223
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

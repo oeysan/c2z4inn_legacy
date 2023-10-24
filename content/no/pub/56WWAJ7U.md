@@ -1,5 +1,5 @@
 ---
-title: "Preferences for home care to enable home death among adult patients with cancer in late palliative phase – a grounded theory study"
+title: "56WWAJ7U"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-56WWAJ7U" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2018539" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/56WWAJ7U" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-56WWAJ7U" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-56WWAJ7U" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-56WWAJ7U" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://bmcpalliatcare.biomedcentral.com/track/pdf/10.1186/s12904-022-00939-y" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-56WWAJ7U"></div>
 </article>
 <div id="csl-bib-meta-56WWAJ7U" class="csl-bib-meta">
-  <article id="abstract-article-56WWAJ7U" class="abstract-article">
-    <h1>Samandrag</h1>
-    BackgroundThe wish to be cared for and to die at home is common among people with end-stage cancer in the western world. However, home deaths are declining in many countries. The aim of this study was to explore the preferences for home care over time to enable home death among adult patients with cancer in the late palliative phase. Methods A qualitative method was applied according to grounded theory (Corbin &amp; Strauss, 2008). Data was collected using individual interviews ( n  = 15) with nine adult patients. One to two follow up interviews were conducted with four patients. Sampling, data collection and constant comparative analysis were undertaken simultaneously. ResultsThe findings are presented as a conceptual model of patients’ preferences for care to enable home death. The core category “Hope and trust to get the care I need to die at home” showed that the preference to die at home seemed stable over time and did not change with deterioration in health status and progression in illness. Five categories were related to the core category. The categories “being in the present”, “be safe and in charge” and “be seen and acknowledged” describe the patients’ preferences to live a meaningful life until death and be the same person as always. These preferences depended on the categories describing characteristics of healthcare personnel and the organisation of care: “reliable, compassionate and competent healthcare personnel” and “timely, predictive, continuous and adaptive organisation”. ConclusionAn important preference over time was to be here and now and to live as meaningful a life as possible until death. Moreover, the patients preferred to retain control over their lives, to be autonomous and to be seen as the person they had always been. To achieve this, person-centred care provided by healthcare personnel with competence, skills and enough/ample time were required. In addition, home care needed to be organised in a way that ensured continuity and predictability. Systematic implementation of a person-centred care model and the use of advanced home care plans with continued re-evaluation for patients’ preferences of home care were proposed measures to enable home death.
-  </article>
   <article id="contributors-article-56WWAJ7U" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -103,7 +99,7 @@ Rom 4L3250
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

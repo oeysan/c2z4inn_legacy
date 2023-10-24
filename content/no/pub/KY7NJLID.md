@@ -1,5 +1,5 @@
 ---
-title: "Exploring hair cortisone concentration as a novel tool to assess chronic stress in sheep with tick-borne fever"
+title: "KY7NJLID"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,37 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KY7NJLID" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1589753" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/KY7NJLID" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-KY7NJLID" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KY7NJLID" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-KY7NJLID" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://orgprints.org/35030/1/Vitartkortison.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-KY7NJLID"></div>
 </article>
 <div id="csl-bib-meta-KY7NJLID" class="csl-bib-meta">
-  <article id="abstract-article-KY7NJLID" class="abstract-article">
-    <h1>Samandrag</h1>
-    Tick-borne fever (TBF), caused by the bacterium Anaplasma phagocytophilum and transmitted by the tick Ixodes 
-ricinus, has considerable consequences for animal welfare and economy in the sheep industry. Non-invasive, 
-objective methods to quantify chronic stress are needed in order to evaluate the welfare impact of disease. The 
-aim of this study was 1) to evaluate hair cortisol (HC) and hair cortisone (HCn) as biomarkers of chronic stress in 
-sheep with TBF and 2) to test whether there was an association between the development of TBF and con- 
-centrations of HC, HCn and faecal cortisol metabolites (FCM) and body weight. The experiment took place in an 
-area with a high prevalence of TBF, and thirty lambs were used in the study. Wool samples were collected in 
-Week 0, in Week 3 (before turn out on homeland spring pasture), in Week 6 (before turn out on summer 
-rangeland pasture) and at the end of the summer (Week 15). Faecal samples were collected every week (ie. Week 
-0–6 and Week 15). Symptoms of TBF developed in 15 lambs, of which all recovered from the disease after 
-treatment with antibiotics. HC levels decreased progressively, and signiﬁcantly, between Week 0, 3, 6 and 15 
-(p &lt; 0.001), while HCn only decreased from Week 0 to Week 3 (p &lt; 0.001) and then remained stable between 
-Week 3–15. FCM increased between Week 0 and 5 (p = 0.027), and a signiﬁcant association was found between 
-increased FCM levels in Week 5 and lambs developing clinical signs of TBF (p = 0.022). We also found an 
-association between lambs developing clinical signs of TBF and elevated HCn levels in Week 6 (p = 0.013). A 
-slightly lower weight gain at later time points (Week 6 and 15) were found in the aﬀected lambs compared to 
-clinically healthy lambs. Our results indicate local production and/or metabolism of glucocorticoids in the hair 
-follicles. This study strengthens our previous ﬁnding of a potential merit of hair cortisone as a biomarker of 
-chronic stress in sheep.
-  </article>
   <article id="contributors-article-KY7NJLID" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -83,7 +61,7 @@ Studiested Evenstad
     <div class="sdg-container"><div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

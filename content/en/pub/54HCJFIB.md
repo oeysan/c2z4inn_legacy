@@ -1,5 +1,5 @@
 ---
-title: "The Norwegian State and Transgender Citizens: A Complicated Relationship"
+title: "54HCJFIB"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-54HCJFIB" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1497741" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/54HCJFIB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-54HCJFIB" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-54HCJFIB" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-54HCJFIB" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1515/wps-2017-0003" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-54HCJFIB"></div>
 </article>
 <div id="csl-bib-meta-54HCJFIB" class="csl-bib-meta">
-  <article id="abstract-article-54HCJFIB" class="abstract-article">
-    <h1>Abstract</h1>
-    The author argues that the Norwegian welfare state has renounced its duties toward a majority of citizens with gender incongruence (i.e. lack of correspondence between sex assigned at birth and a person’s gender identity). The National Treatment Centre for Transsexualism (NBTS in Norwegian), the sole authorised provider of healthcare for gender dysphoria (discomfort related to gender incongruence) in Norway, exercises a strict interpretation of the diagnostic criteria for transsexualism, and rejects all but a quarter of annual referrals. Those “disqualified” do not have access to a second opinion, nor has the Norwegian public health sector established alternative healthcare services, thereby failing its transgender citizens. With regard to legal issues, the Norwegian state failed its transgender citizens by requesting irreversible sterilisation until July 2016 before individuals with gender incongruence can claim legal gender recognition. This is an obvious breach of human rights. Additionally, those rejected by NBTS for not being so-called “real transsexuals” do not have an opportunity to request a legal gender change, and thus the state discriminates, once again, against these gender variant people. Moreover, the author points out that NBTS has a major say in the framing and implementation of trans healthcare policies, building on the conventional gender binary model, which is supported by the “gender-corrected women and men” of the Harry Benjamin Resource Centre (hereafter HBRS), the Clinic’s patient association. This policy framing ensures necessary trans related healthcare only to a very small proportion of citizens with gender incongruence, namely those “selected” by the NBTS, thus causing a grossly unequal distribution of resources within public healthcare services. In order to conceptualise these biased and discriminatory policies toward a considerable number of transgender and gender variant citizens, the author applies political science scholar Nancy Fraser’s conceptual framework of “recognition, (re)presentation and (re-)distribution”. Gender variant groups’ lack of recognition excludes them from access to political representation, and reproduces non-recognition of gender diversity in the transgender spectrum. The author understands the Norwegian authorities’ inept management of large groups of citizens with gender identity issues as institutionalised cisgenderism.
-  </article>
   <article id="contributors-article-54HCJFIB" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -56,13 +52,13 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

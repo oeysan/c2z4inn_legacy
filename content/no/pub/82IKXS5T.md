@@ -1,5 +1,5 @@
 ---
-title: "Semen quality parameters including metabolites, sperm production traits and fertility in young Norwegian Red AI bulls"
+title: "82IKXS5T"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-82IKXS5T" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1984286" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/82IKXS5T" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-82IKXS5T" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-82IKXS5T" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.livsci.2021.104803" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-82IKXS5T"></div>
 </article>
 <div id="csl-bib-meta-82IKXS5T" class="csl-bib-meta">
-  <article id="abstract-article-82IKXS5T" class="abstract-article">
-    <h1>Samandrag</h1>
-    Genomic selection in cattle breeding has gradually allowed younger bulls to be recruited for semen production. In this study, sperm quality parameters, seminal plasma and sperm metabolites, semen production capacity and fertility in young Norwegian Red bulls were analysed. For in vitro analyses of sperm quality and metabolites, ejaculates were collected from the same 25 bulls at both 14 and 17 months of age. Semen production and fertility data were collected for all Norwegian Red bulls in production from December 2017 throughout 2019. Bull fertility was measured as 56 days non-return rate (NR56), for both age groups. In both fresh and frozen-thawed semen samples, the proportion of hyperactive spermatozoa, average path velocity, curvilinear velocity and amplitude of lateral head displacement were higher in samples collected at 17 months of age compared to 14 months (P
-  </article>
   <article id="contributors-article-82IKXS5T" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

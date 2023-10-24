@@ -1,5 +1,5 @@
 ---
-title: "A qualitative study of what care workers do to provide patient safety at home through telecare"
+title: "PCGSG3QW"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PCGSG3QW" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1921520" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PCGSG3QW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-PCGSG3QW" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PCGSG3QW" class="csl-bib-button">Medverkande</a>
+    <a href="https://bmchealthservres.biomedcentral.com/track/pdf/10.1186/s12913-021-06556-4" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PCGSG3QW"></div>
 </article>
 <div id="csl-bib-meta-PCGSG3QW" class="csl-bib-meta">
-  <article id="abstract-article-PCGSG3QW" class="abstract-article">
-    <h1>Samandrag</h1>
-    Background In health care, the work of keeping the patient safe and reducing the risk of harm is defined as safety work . In our digitised and technology-rich era, safety work usually involves a relationship between people and technologies. Telecare is one of the fastest-growing technology-domains in western health care systems. In the marketing of telecare, the expectation is that safety is implicit simply by the presence of technology in patients’ homes. Whilst both researchers and health authorities are concerned with developing cost-benefit analyses and measuring effects, there is a lack of attention to the daily work needed to ensure that technologies contribute to patient safety. This paper aims to describe how patient safety in home care is addressed through and with telecare. We base our exploration on the social alarm, an established technology that care workers are expected to handle as an integrated part of their ordinary work. MethodsThe study has a qualitative explorative design where we draw on empirical data from three case studies, involving five Norwegian municipalities that use social alarm systems in home care services. We analyse observations of practice and interviews with the actors involved, following King’s outline of template analysis. ResultsWe identified three co-existing work processes that contributed to patient safety: “Aligning people and technologies”; “Being alert and staying calm”; and “Coordinating activities based on people and technology”. Attention to these work processes exposes safety practices, and how safety is constructed in relational practices involving multiple people and technologies. ConclusionsWe conclude that the three work processes identified are essential if the safety alarm is to function for the end user’s safety. The safety of home-dwelling patients is reliant on the person-technology interface. The efforts of care workers and their interface with technology are a central feature of creating safety in a patient’s home, and in doing so, they utilise a repertoire of skills and knowledge.
-  </article>
   <article id="contributors-article-PCGSG3QW" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

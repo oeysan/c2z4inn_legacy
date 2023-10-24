@@ -1,5 +1,5 @@
 ---
-title: "Frida: min ukjente farmors krig"
+title: "QP85MJPD"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QP85MJPD" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1803352" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/QP85MJPD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-QP85MJPD" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-QP85MJPD" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-QP85MJPD"></div>
 </article>
 <div id="csl-bib-meta-QP85MJPD" class="csl-bib-meta">
-  <article id="abstract-article-QP85MJPD" class="abstract-article">
-    <h1>Abstract</h1>
-    «Hun var alltid i politiets søkelys, jaget i by etter by, prostituert i 15 år. Hun ble drept og forsvant. Nå er Frida Grünfeld løftet fram for all ettertid, i en bok som forteller europeisk historie av sjeldent merke. Her skildres nazismens fremvekst, Holocaust nedenfra, og innenfra, og direkte - så leseren nesten mister pusten. Ikke minst har Nina Grünfeld gravd fram sosialhistorie man sjelden leser om.» Camilla Norli, VG (Terningkast 5)Første gang Frida Grünfeld ble registrert i en politisak, var våren 1931. Hun var jødisk, prostituert, mistenkt for spionasje - og hun var gravid.Frida ble født i Østerrike-Ungarn i 1908 og levde et omflakkende liv i Sentral-Europa. Hun fødte sønnen Berthold og satte ham bort da han var bare én uke gammel. Han kom senere til Norge som flyktning og ble en av våre mest kjente psykiatere.Men hva skjedde videre med Frida? I denne boken drar barnebarnet Nina F. Grünfeld tilbake og leter etter farmoren sin. I avhør, rettsdokumenter og arkiver finner hun små spor og opplysninger, og hun ser hvordan nettet snører seg stadig tettere rundt henne. Myndighetene var ute etter slike som Frida. Så kom nazistene til makten.Historien om Frida er en rystende fortelling om tilhørighet, savn og tap.
-  </article>
   <article id="contributors-article-QP85MJPD" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

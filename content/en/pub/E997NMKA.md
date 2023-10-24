@@ -1,5 +1,5 @@
 ---
-title: "Interoceptive sensitivity as a proxy for emotional intensity and its relationship with perseverative cognition"
+title: "E997NMKA"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E997NMKA" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1529200" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/E997NMKA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-E997NMKA" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-E997NMKA" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-E997NMKA" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.dovepress.com/getfile.php?fileID=39785" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-E997NMKA"></div>
 </article>
 <div id="csl-bib-meta-E997NMKA" class="csl-bib-meta">
-  <article id="abstract-article-E997NMKA" class="abstract-article">
-    <h1>Abstract</h1>
-    Technical advancement in military cyber defense poses increased cognitive demands on cyber officers. In the cyber domain, the influence of emotion on decision-making is rarely investigated. The purpose of this study was to assess psychophysiological correlation with perseverative cognitions during emotionally intensive/stressful situations in cyber military personnel. In line with parallel research on clinical samples high on perseverative cognition, we expected a decreased interoceptive sensitivity in officers with high levels of perseverative cognition.
-  </article>
   <article id="contributors-article-E997NMKA" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -60,7 +56,7 @@ Campus Hamar
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

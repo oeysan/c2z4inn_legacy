@@ -1,5 +1,5 @@
 ---
-title: "Utdanningens normalitetstradisjoner"
+title: "RGMTSB4S"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RGMTSB4S" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2041071" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RGMTSB4S" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://oa.fagbokforlaget.no/index.php/vboa/catalog/download/20/28/280" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-RGMTSB4S"></div>
 </article>

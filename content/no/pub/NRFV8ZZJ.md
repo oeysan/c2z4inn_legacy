@@ -1,5 +1,5 @@
 ---
-title: "Effects of brown trout ( Salmo trutta L.) stocking and catch‐release practice on angling catches in the River South Rena in southeast Norway"
+title: "NRFV8ZZJ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NRFV8ZZJ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1698685" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NRFV8ZZJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NRFV8ZZJ" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.1111/jai.13909" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-NRFV8ZZJ"></div>
 </article>

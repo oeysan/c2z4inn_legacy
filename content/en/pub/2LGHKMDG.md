@@ -1,5 +1,5 @@
 ---
-title: "Perceptions of social media challenges and benefits during the Covid-19 pandemic: Qualitative findings from a cross sectional international survey"
+title: "2LGHKMDG"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2LGHKMDG" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2104529" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/2LGHKMDG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-2LGHKMDG" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-2LGHKMDG" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-2LGHKMDG" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://journals.plos.org/globalpublichealth/article/file?id=10.1371/journal.pgph.0001463&amp;type=printable" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-2LGHKMDG"></div>
 </article>
 <div id="csl-bib-meta-2LGHKMDG" class="csl-bib-meta">
-  <article id="abstract-article-2LGHKMDG" class="abstract-article">
-    <h1>Abstract</h1>
-    Since the beginning of the Covid-19 pandemic in January 2020 the need for rapid information spread grew and social media became the ultimate platform for information exchange as well as a tool for connection and entertainment. With the rapid information spread along came the various public misconceptions and misinformation which consequently influenced perceptions and behaviors of the public towards the coronavirus pandemic. Thus, there was a need for identification and collation of public perceptions information to address future public health initiatives. This cross-national study aimed to examine the challenges and benefits of using social media during the Covid-19 pandemic outbreak. This study was a content analysis of the open-ended questions from a wider cross-sectional online survey conducted in Norway, UK, USA, and Australia during October/November 2020. 2368 participants out of 3474 respondents to the survey provided the open text responses included in the qualitative analysis. Thematic analysis was conducted independently by two researchers. All statements were coded to positive and negative sentiments. Three overarching themes were identified: 1. Mental health and emotional exhaustion 2. Information and misinformation; 3. Learning and inspiration.While providing a powerful mode of connection during the pandemic, social media also led to negative impact on public perceptions, including mistrust and confusion. Clarity in communications by institutions and education about credible information sources should be considered in the future. Further research is required in exploring and documenting social media narratives around COVID-19 in this and any subsequent incidents of pandemic restrictions. Understanding the public perceptions and their social narratives can support the designing of appropriate support and services for people in the future, while acknowledging the uncertainty and overwhelming impact of the pandemic that may have skewed the experiences of social media.
-  </article>
   <article id="contributors-article-2LGHKMDG" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Room 4L3213
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

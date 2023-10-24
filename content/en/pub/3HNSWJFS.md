@@ -1,5 +1,5 @@
 ---
-title: "Consequences of employees’ collective engagement in knowledge-based service firms"
+title: "3HNSWJFS"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3HNSWJFS" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1419147" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3HNSWJFS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3HNSWJFS" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/s12927-016-0006-7" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-3HNSWJFS"></div>
 </article>

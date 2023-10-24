@@ -1,5 +1,5 @@
 ---
-title: "Getting to What Matters: A Model of Perceptual Guidance"
+title: "Z6M5FEFG"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Z6M5FEFG" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1811002" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Z6M5FEFG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-Z6M5FEFG" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Z6M5FEFG" class="csl-bib-button">Contributors</a>
+    <a href="https://jdbsc.rug.nl/article/download/36075/33522" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-Z6M5FEFG"></div>
 </article>
 <div id="csl-bib-meta-Z6M5FEFG" class="csl-bib-meta">
-  <article id="abstract-article-Z6M5FEFG" class="abstract-article">
-    <h1>Abstract</h1>
-    This article outlines a model of perceptual guidance that aims at giving a child with congenital deafblindness perceptual access to the world, and in particular to the social world. It argues that we can closely interact with, and partially direct, a child’s exploration without instructing the child into culturally similar ways of exploring. Perceptual guidance has two facets. The first is a bodily dimension where child and partner interact so that they create a joint bodily orientation to the world. The second is that partner and child show each other ways of organizing their overlapping perceptual field with arms and hands. This showing bears close resemblance to how we judge and discuss aesthetic matters. As in aesthetics, there is not a given correct procedure for exploring and judging, but an effort at creating community through showing each other how we experience the world. This gives the child access to the social world without purporting that this is the only correct way of exploring. The article ends with two practice examples of perceptual guidance, which additionally shows two ways of spatially organizing the perceptual field.
-  </article>
   <article id="contributors-article-Z6M5FEFG" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

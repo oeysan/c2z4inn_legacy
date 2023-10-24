@@ -1,5 +1,5 @@
 ---
-title: "Morphological ontogeny of Oribatula heterochaeta (Acari, Oribatida, Oribatulidae), with comments on some species of Oribatula Berlese"
+title: "AN8LQIUB"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AN8LQIUB" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2170795" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/AN8LQIUB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-AN8LQIUB" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AN8LQIUB" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-AN8LQIUB" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.11646/zootaxa.5324.1.9" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-AN8LQIUB"></div>
 </article>
 <div id="csl-bib-meta-AN8LQIUB" class="csl-bib-meta">
-  <article id="abstract-article-AN8LQIUB" class="abstract-article">
-    <h1>Abstract</h1>
-    The morphological ontogeny of Oribatula heterochaeta (Feider et al., 1970) is described and illustrated. The larva of this species has 12 pairs of gastronotal setae including h3 and the nymphs have 15 pairs; most are of medium size and barbed except for short and smooth h3 in the larva and p3 in the protonymph and deutonymph. In the larva, the excentrosclerites are present at four pairs of gastronotal setae (c2, la, lp, h1), and in the nymphs at seven pairs (c2, la, lp, h-series, p1). Comparisons of known morphological ontogeny of species in Oribatula are given. 
-  </article>
   <article id="contributors-article-AN8LQIUB" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Campus Blæstad
     <div class="sdg-container"><div id="sdg14" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg14_en.png" class="image" alt="SDG 14">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>41</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=14#archive" class="sdg-publication-count"><span>42</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal14" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

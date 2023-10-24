@@ -1,5 +1,5 @@
 ---
-title: "Litteraturformidling i lokale bibliotek: møte mellom teori og praksis"
+title: "HKLHJPVC"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,20 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HKLHJPVC" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1816778" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HKLHJPVC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-HKLHJPVC" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HKLHJPVC" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-HKLHJPVC"></div>
 </article>
 <div id="csl-bib-meta-HKLHJPVC" class="csl-bib-meta">
-  <article id="abstract-article-HKLHJPVC" class="abstract-article">
-    <h1>Samandrag</h1>
-    Denne boka handlar om litteraturformidling ansikt til ansikt – direkte møte mellom formidlarane og dei det blir formidla til. Forfattarane skildrar ei rekke formidlingspraksisar der små bibliotek i Sogn og Fjordane samarbeider med barnehagar og skoler på ulike vis. Felles for desse formidlingspraksisane er at dei set barn og unge sine interesser, lyster og kunnskapar i sentrum, og at dei er utvikla ut frå konkrete behov i dei ulike lokalmiljøa. Forfattarane bruker teoretiske innsikter om litteratur og om vårt forhold til språket og verda til å sette ord på kva formidlinga tyder for dei involverte. Dei synleggjer òg kor stor tyding økonomiske rammevilkår og politiske føresetnader har for å kunne drive litteraturformidling av høg kvalitet. 
- 
-Boka gir ny kunnskap til forskinga innan bibliotek-, litteratur- og kommunikasjonsfag, og er særleg aktuell for studentar, bibliotekarar, lærarar og andre litteraturformidlarar. Forfattarane viser korleis ein kan tenkje systematisk og vitskapleg om eigen praksis, og bidreg slik til å styrke fagleg og profesjonell dømmekraft.
-  </article>
   <article id="contributors-article-HKLHJPVC" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

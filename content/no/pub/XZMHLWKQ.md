@@ -1,5 +1,5 @@
 ---
-title: "Causes, Consequences, and Conservation of Ungulate Migration"
+title: "XZMHLWKQ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XZMHLWKQ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1963466" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XZMHLWKQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-XZMHLWKQ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XZMHLWKQ" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1146/annurev-ecolsys-012021-011516" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-XZMHLWKQ"></div>
 </article>
 <div id="csl-bib-meta-XZMHLWKQ" class="csl-bib-meta">
-  <article id="abstract-article-XZMHLWKQ" class="abstract-article">
-    <h1>Samandrag</h1>
-    Our understanding of ungulate migration is advancing rapidly due to innovations in modern animal tracking. Herein, we review and synthesize nearly seven decades of work on migration and other long-distance movements of wild ungulates. Although it has long been appreciated that ungulates migrate to enhance access to forage, recent contributions demonstrate that their movements are fine tuned to dynamic landscapes where forage, snow, and drought change seasonally. Researchers are beginning to understand how ungulates navigate migrations, with the emerging view that animals blend gradient tracking with spatial memory, some of which is socially learned. Although migration often promotes abundant populations—with broad effects on ecosystems—many migrations around the world have been lost or are currently threatened by habitat fragmentation, climate change, and barriers to movement. Fortunately, new efforts that use empirical tracking data to map migrations in detail are facilitating effective conservation measures to maintain ungulate migration.
-  </article>
   <article id="contributors-article-XZMHLWKQ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

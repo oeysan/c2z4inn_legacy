@@ -1,5 +1,5 @@
 ---
-title: "Impact of a recolonizing, cross-border carnivore population on ungulate harvest in Scandinavia"
+title: "VX9ANQRN"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VX9ANQRN" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1865091" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VX9ANQRN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-VX9ANQRN" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VX9ANQRN" class="csl-bib-button">Contributors</a>
+    <a href="https://www.nature.com/articles/s41598-020-78585-8.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VX9ANQRN"></div>
 </article>
 <div id="csl-bib-meta-VX9ANQRN" class="csl-bib-meta">
-  <article id="abstract-article-VX9ANQRN" class="abstract-article">
-    <h1>Abstract</h1>
-    Predation from large carnivores and human harvest are the two main mortality factors affecting the dynamics of many ungulate populations. We examined long-term moose ( Alces alces ) harvest data from two countries that share cross-border populations of wolves ( Canis lupus ) and their main prey moose. We tested how a spatial gradient of increasing wolf territory density affected moose harvest density and age and sex composition of the harvested animals (n = 549,310), along a latitudinal gradient during 1995–2017. In areas containing average-sized wolf territories, harvest density was on average 37% (Norway) and 51% (Sweden) lower than in areas without wolves. In Sweden, calves made up a higher proportion of the moose harvest than in Norway, and this proportion was reduced with increased wolf territory density, while it increased in Norway. The proportion of females in the adult harvest was more strongly reduced in Sweden than in Norway as a response to increased wolf territory density. Moose management in both countries performed actions aimed to increase productivity in the moose population, in order to compensate for the increased mortality caused by wolves. These management actions are empirical examples of an adaptive management in response to the return of large carnivores.
-  </article>
   <article id="contributors-article-VX9ANQRN" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

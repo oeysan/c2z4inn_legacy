@@ -1,5 +1,5 @@
 ---
-title: "A Biodiversity Boost From the Eurasian Beaver (Castor fiber) in Germany’s Oldest National Park"
+title: "FD4VC43A"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FD4VC43A" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2048651" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/FD4VC43A" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-FD4VC43A" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FD4VC43A" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-FD4VC43A" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fevo.2022.873307/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-FD4VC43A"></div>
 </article>
 <div id="csl-bib-meta-FD4VC43A" class="csl-bib-meta">
-  <article id="abstract-article-FD4VC43A" class="abstract-article">
-    <h1>Abstract</h1>
-    Freshwater ecosystems are among the most threatened ecosystems on the planet. Beavers are important engineers in freshwater ecosystems and reintroduction programs have enabled the recovery of beaver populations in several European countries, but the impact on biodiversity conservation is still unclear. We studied the effects of beavers on the terrestrial biodiversity of eight taxonomic groups by comparing beaver ponds with river and forest habitats in a mountain forest ecosystem in Central Europe. Among the 1,166 collected species, 196 occurred exclusively at beaver ponds, 192 in plots at the river, and 156 in the forest plots. More species of conservation concern were found at the beaver ponds (76) than on the river (67) and forest (63) plots. Abundances of bats and birds were higher at the beaver ponds than at the river or forest sites. The number of bird species at the beaver ponds was higher than at the river. The community composition of birds, beetles, and true bugs differed significantly between the beaver ponds and river plots, and for seven taxonomic groups it differed significantly between the beaver ponds and forest plots. An indicator species analysis revealed eight indicator species for the beaver pond but none for the river and forest plots. Our results demonstrate that beavers, as ecological engineers, increase habitat heterogeneity in mountain forests and thereby promote biodiversity. The expansion of beaver populations into these ecosystems should thus be supported, as it may serve as a biotic restoration tool.
-  </article>
   <article id="contributors-article-FD4VC43A" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -62,7 +58,7 @@ Campus Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

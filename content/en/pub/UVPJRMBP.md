@@ -1,5 +1,5 @@
 ---
-title: "The origins of the southern Scandinavian wolf Canis lupus population: potential for natural immigration in relation to dispersal distances, geography and Baltic ice"
+title: "UVPJRMBP"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UVPJRMBP" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2164777" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UVPJRMBP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UVPJRMBP" class="csl-bib-button">Contributors</a>
+    <a href="https://bioone.org/journals/wildlife-biology/volume-11/issue-4/0909-6396_2005_11_383_TOOTSS_2.0.CO_2/The-origins-of-the-southern-Scandinavian-wolf-Canis-lupus-population/10.2981/0909-6396(2005)11[383:TOOTSS]2.0.CO;2.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-UVPJRMBP"></div>
 </article>

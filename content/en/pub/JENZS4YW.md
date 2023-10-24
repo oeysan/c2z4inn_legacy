@@ -1,5 +1,5 @@
 ---
-title: "Cinemusespace: A cinematic exploration of the minor magic of everyday life"
+title: "JENZS4YW"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JENZS4YW" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2068076" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JENZS4YW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JENZS4YW" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JENZS4YW" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-JENZS4YW"></div>
 </article>
 <div id="csl-bib-meta-JENZS4YW" class="csl-bib-meta">
-  <article id="abstract-article-JENZS4YW" class="abstract-article">
-    <h1>Abstract</h1>
-    The Cinematic Musée Imaginaire of Spatial Cultural Differences (CineMuseSpace) project, which is explored in this chapter, enlarges upon Malraux’s idea of the “Museum without Walls” to display, compare, contrast, and communicate a novel understanding of cultural differences through an analysis of cinematic spaces. A key hypothesis of the project is that film exposes precious everyday gestures and fragments of our daily life. Equally central to CineMuseSpace’s research is the construction of a cinematic spatial cultural classification based on Descola’s anthropological ontologies. The project identified and analyzed 53 significant fiction films from the Western naturalism tradition and an equivalent number from the Eastern analogism tradition. To extract the everyday threads woven into the filmic fabric, the project leveraged the power of new digital tools to build an extensive film database. This methodology has generated a malleable repository of thousands of film clips that can be searched by specific keyword combinations for analytical purposes and reassembled into new filmic collages. As a result of digital methodologies, this chapter concludes, existing cultural material can be reinvented into new narratives offering novel modes to visualize filmic data and communicate research findings, for example through artworks, catalogues and exhibitions
-  </article>
   <article id="contributors-article-JENZS4YW" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Helsekompetanse i pasient- og pårørendeopplæring – en tematisk analyse"
+title: "WE7CUCCU"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WE7CUCCU" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2141210" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WE7CUCCU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WE7CUCCU" class="csl-bib-button">Contributors</a>
+    <a href="https://sykepleien.no/sites/default/files/pdf-export/pdf-export-91893.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WE7CUCCU"></div>
 </article>

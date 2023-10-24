@@ -1,5 +1,5 @@
 ---
-title: "Decreased serum concentrations of antiseizure medications in children with drug resistant epilepsy following treatment with ketogenic diet"
+title: "RRZX2UEY"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RRZX2UEY" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2150932" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RRZX2UEY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-RRZX2UEY" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RRZX2UEY" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-RRZX2UEY" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/epi4.12746" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-RRZX2UEY"></div>
 </article>
 <div id="csl-bib-meta-RRZX2UEY" class="csl-bib-meta">
-  <article id="abstract-article-RRZX2UEY" class="abstract-article">
-    <h1>Samandrag</h1>
-    ObjectiveTo examine the potential influence of a ketogenic diet on serum concentrations of antiseizure medications (ASMs) in children with drug resistant epilepsy. Methods We investigated the serum concentrations of ASMs in 25 children with drug resistant epilepsy, 2–13 years of age, treated with a classical ketogenic diet for 12 weeks. The patients were recruited from the National Centre for Epilepsy from August 15th, 2017, to January 24th, 2022. Changes in ASM serum concentrations were analyzed using a mixed effect model analysis. Significance level was set at P  &lt; 0.05 for all comparisons. Results The participants used 12 different ASMs during the study. The mean number of ASMs was 2.4 (±SD 0.7). None of the participants changed the type or dose of the ASMs during the intervention period. The serum concentrations of clobazam ( n  = 9, P  = 0.002), desmethylclobazam ( n  = 9, P  = 0.010), and lamotrigine ( n  = 6, P  = 0.016) decreased significantly during the dietary treatment. The analytes with the largest reduction in serum concentration after 12 weeks of dietary treatment were clobazam (mean change −38%) and desmethylclobazam (mean change −37%). We found no significant change in the serum concentrations of levetiracetam, topiramate, and valproic acid. SignificanceWe identified a significant decrease in the serum concentrations of clobazam, desmethylclobazam, and lamotrigine following a 12‐week ketogenic diet intervention in children with drug resistant epilepsy. An unintended decrease in the serum concentrations of ASMs may render the patient prone to seizures. Measurements of ASM serum concentrations might be useful in patients on a ketogenic diet, especially in patients with lack of efficacy of the dietary treatment.
-  </article>
   <article id="contributors-article-RRZX2UEY" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 2N1247
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

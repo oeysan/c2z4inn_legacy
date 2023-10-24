@@ -1,5 +1,5 @@
 ---
-title: "Certification dissonance: Contradictions between environmental values and certification scheme requirements in small-scale companies"
+title: "UJ42GCXC"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UJ42GCXC" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2028030" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UJ42GCXC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-UJ42GCXC" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UJ42GCXC" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1016/j.jclepro.2022.132037" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-UJ42GCXC"></div>
 </article>
 <div id="csl-bib-meta-UJ42GCXC" class="csl-bib-meta">
-  <article id="abstract-article-UJ42GCXC" class="abstract-article">
-    <h1>Abstract</h1>
-    The importance of internalization and employee involvement in the greening of organizations is well-established; however, experiences of environmental certification processes in small-scale companies have largely been overlooked. The aim of this study was to examine the experiences of environmental certification in small-scale companies, and how certification may drive green change in these contexts. The study employed a qualitative approach and thematic analysis. Twenty-eight informants in seven small-scale companies were interviewed, via focus-group interviews with employees and leaders, and in individual interviews with leaders. The main theme that was identified from the reflexive thematic analysis was that certification gave rise to a back-and-forth process between drivers and hindrances, resulting in conflicting emotions and cognitive dissonance—which we denoted certification dissonance. Findings indicate that employees experienced conflicts between their own environmental values and the requirements imposed by the certification scheme. Four main categories of certification dissonance were identified: 1) Company characteristics, 2) the company's relationship with the customers/market, 3) characteristics of the certification scheme, and 4) emotional reactions. The participants struggled to choose between alternatives in different shades of green in what we denoted the ‘eco grey zone’. Systems theory and cognitive dissonance theory provided a theoretical framework for analysis. Based on our findings, we propose a new process model of certification dissonance outcomes. This model illustrates how employees and managers feel trapped within categorical thinking, and experience dissonance between the poles of ‘what is truly green and sustainable’ and ‘being certified’. This study may be of relevance to managers and stakeholders working on environmental sustainability.
-  </article>
   <article id="contributors-article-UJ42GCXC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

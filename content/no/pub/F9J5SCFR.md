@@ -1,5 +1,5 @@
 ---
-title: "Noun-phrase complexity in the texts of intermediate-level Norwegian EFL writers: stasis or development?"
+title: "F9J5SCFR"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-F9J5SCFR" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2113839" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/F9J5SCFR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-F9J5SCFR" class="csl-bib-button">Medverkande</a>
+    <a href="https://journal.uia.no/index.php/NJLTL/article/download/987/803" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-F9J5SCFR"></div>
 </article>

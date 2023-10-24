@@ -1,5 +1,5 @@
 ---
-title: "Fostering innovative behavior in health organizations: a PLS-SEM analysis of Norwegian hospital employees"
+title: "EZNNG4Y7"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EZNNG4Y7" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1910805" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/EZNNG4Y7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-EZNNG4Y7" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EZNNG4Y7" class="csl-bib-button">Medverkande</a>
+    <a href="https://bmchealthservres.biomedcentral.com/track/pdf/10.1186/s12913-021-06505-1" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-EZNNG4Y7"></div>
 </article>
 <div id="csl-bib-meta-EZNNG4Y7" class="csl-bib-meta">
-  <article id="abstract-article-EZNNG4Y7" class="abstract-article">
-    <h1>Samandrag</h1>
-    Background Health organization research is experiencing a strong refocus on employees’ individual innovative behavior (IIB), revealing that many of the influential factors at work remain uncertain. Hence, this study empirically examines fostering of hospital employees’ IIB by focusing on direct and indirect relationships of organizational culture (here labeled internal market-oriented culture , IMOC), psychological capital (PsyCap), and organizational commitment (OC). MethodsThe study focused on a sample of 1008 hospital employees, using a partial least squares–structural equation modeling method to analyze and test the relationships hypothesized in this study. A multigroup comparison was performed to test the heterogeneity of personal characteristics. The indirect relationships of PsyCap were tested using mediator analyses. ResultsOur results reveal that IMOC has a positive and significant correlation to employees’ PsyCap and IIB. PsyCap is directly related to IIB and indirectly related to IMOC and IIB. Furthermore, the study found that IIB is related to OC. ConclusionsThis study extends the current debate on how IIB is fostered at work by examining PsyCap and IMOC as antecedents of IIB. The study has added to the IIB research area by examining the role of IIB on OC. The study is among the first attempts in its category to contribute to health organizations and managers by empirically examining the role of IMOC on employees’ PsyCap and IIB—and, in turn, their OC.
-  </article>
   <article id="contributors-article-EZNNG4Y7" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

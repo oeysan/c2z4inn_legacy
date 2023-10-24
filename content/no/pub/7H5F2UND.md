@@ -1,5 +1,5 @@
 ---
-title: "The Future Isn't What It Used to Be! Revisiting the Changing World of Work After Covid-19"
+title: "7H5F2UND"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7H5F2UND" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2027852" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7H5F2UND" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7H5F2UND" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4324/9781003213000" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-7H5F2UND"></div>
 </article>

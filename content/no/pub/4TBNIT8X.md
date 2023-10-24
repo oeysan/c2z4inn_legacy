@@ -1,5 +1,5 @@
 ---
-title: "Determinants of heart rate in Svalbard reindeer reveal mechanisms of seasonal energy management"
+title: "4TBNIT8X"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4TBNIT8X" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1923403" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/4TBNIT8X" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-4TBNIT8X" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-4TBNIT8X" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.1098/rstb.2020.0215" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-4TBNIT8X"></div>
 </article>
 <div id="csl-bib-meta-4TBNIT8X" class="csl-bib-meta">
-  <article id="abstract-article-4TBNIT8X" class="abstract-article">
-    <h1>Samandrag</h1>
-    Seasonal energetic challenges may constrain an animal's ability to respond to changing individual and environmental conditions. Here, we investigated variation in heart rate, a well-established proxy for metabolic rate, in Svalbard reindeer ( Rangifer tarandus platyrhynchus ), a species with strong seasonal changes in foraging and metabolic activity. In 19 adult females, we recorded heart rate, subcutaneous temperature and activity using biologgers. Mean heart rate more than doubled from winter to summer. Typical drivers of energy expenditure, such as reproduction and activity, explained a relatively limited amount of variation (2–6% in winter and 16–24% in summer) compared to seasonality, which explained 75% of annual variation in heart rate. The relationship between heart rate and subcutaneous temperature depended on individual state via body mass, age and reproductive status, and the results suggested that peripheral heterothermy is an important pathway of energy management in both winter and summer. While the seasonal plasticity in energetics makes Svalbard reindeer well-adapted to their highly seasonal environment, intraseasonal constraints on modulation of their heart rate may limit their ability to respond to severe environmental change. This study emphasizes the importance of encompassing individual state and seasonal context when studying energetics in free-living animals. This article is part of the theme issue ‘Measuring physiology in free-living animals (Part II)’.
-  </article>
   <article id="contributors-article-4TBNIT8X" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Do natural resources and economic components exhibit differential quantile environmental effects?"
+title: "J64TJGCX"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-J64TJGCX" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2150200" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/J64TJGCX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-J64TJGCX" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-J64TJGCX" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1111/1477-8947.12289" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-J64TJGCX"></div>
 </article>
 <div id="csl-bib-meta-J64TJGCX" class="csl-bib-meta">
-  <article id="abstract-article-J64TJGCX" class="abstract-article">
-    <h1>Abstract</h1>
-    In view of the resource curse assumption, the environmental aspects of resource utilization are arguably posing more dangers to human existence. In the Middle East and North Africa (MENA) region, the region that holds more than 60% and 50% of the world's oil and gas reserves respectively, the need to examine the contribution of natural resources to environmental quality among other factors cannot be overemphasized. By leveraging on the novelty of observing the differential impact of natural resources and other economic components such as income and primary energy utilizations across the quantiles of carbon emission, this study implements the quantile regression approach alongside other relevant techniques to analyze data between 1990 and 2018 for selected countries in the MENA region including Saudi Arabia, Iran, Kuwait, Qatar, Algeria, Morocco, Oman, Egypt, and the United Arab Emirates (UAE). The result posits that natural resource utilization generally hampers the environment across the quantiles. However, this negative effect decreases until the 50th quantile before starting to rise again toward the upper quantiles. Additionally, primary energy utilization and globalization respectively worsen and improve environmental quantile, especially toward the upper quantiles while income affirms the inverted U‐shaped hypothesis across the entire quantiles. Moreover, there is a statistically significant one‐way directional causality from natural resources, economic expansion, primary energy use, and globalization to carbon emission levels. Hence, the study offers environmentally friendly resource utilization policies to the MENA economies and other resource‐rich states by extension.
-  </article>
   <article id="contributors-article-J64TJGCX" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Urban concentration and labour market linkages in the Norwegian ICT services sector"
+title: "ANQVCWYN"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ANQVCWYN" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1475618" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ANQVCWYN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ANQVCWYN" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ANQVCWYN" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-ANQVCWYN" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.duo.uio.no/bitstream/10852/65066/1/PhD-Joeranli--2018.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ANQVCWYN"></div>
 </article>
 <div id="csl-bib-meta-ANQVCWYN" class="csl-bib-meta">
-  <article id="abstract-article-ANQVCWYN" class="abstract-article">
-    <h1>Abstract</h1>
-    Building on research that emphasizes the dependence of services firms on the networks and experiences of individual employees, this paper investigates the urban concentration of information and communication technology services employment in Norway from the perspective of labour market linkages. It finds that urban regions generally provide firms with access to sector-specific expertise. Beyond this, intrinsic region characteristics determine the position of individual firms in national labour markets for expertise: Firms in the dominant university town have strong contact points to academic labour markets, whereas firms in the industrial stronghold of the Western Capital region exploit a broader range of recruitment channels than firms in any of the other urban and non-urban locations. The results illustrate how capability building through recruitment is influenced by local conditions, and imply that the industry will continue to concentrate in the large-city regions where surrounding organizations provide firms with priveliged access to expertise. Implications for research, innovation policy and societal development more generally are drawn.
-  </article>
   <article id="contributors-article-ANQVCWYN" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -93,19 +89,19 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>54</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>64</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg11" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>23</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=11#archive" class="sdg-publication-count"><span>23</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

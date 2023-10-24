@@ -1,5 +1,5 @@
 ---
-title: "Multicultural School Events: Possibilities and Pitfalls for Refugee Students and Their Families"
+title: "HS3CVARH"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HS3CVARH" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2179171" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HS3CVARH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-HS3CVARH" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HS3CVARH" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-HS3CVARH" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-3-031-33834-2_13" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-HS3CVARH"></div>
 </article>
 <div id="csl-bib-meta-HS3CVARH" class="csl-bib-meta">
-  <article id="abstract-article-HS3CVARH" class="abstract-article">
-    <h1>Abstract</h1>
-    Multicultural school events have become a useful tool for schools to highlight the different cultures and languages present in the school and draw attention to international solidarity and tolerance of diversity. While prior research has found that multicultural school events play a powerful role in the mobilization of group-based identities—often in ways that promote cultural stereotypes and essentialist cultural identities—much less research has focused on how the events are experienced by the participants, especially by students and families from refugee and asylum-seeking backgrounds. This chapter examines how refugee students and their families experience the practice. A theoretical lens of belonging and diasporic identity is used to critically discuss the possible limitations of such events as well as their positive potential. The chapter identifies the risk of reducing multicultural education to exotic happenings separated from the everyday activities in school. At the same time, the chapter draws attention to the productivity of multicultural school events by presenting counter-narratives about diasporic identity, belonging, and learning.
-  </article>
   <article id="contributors-article-HS3CVARH" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -67,7 +63,7 @@ Room 2P306
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

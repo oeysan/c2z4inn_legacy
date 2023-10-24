@@ -1,5 +1,5 @@
 ---
-title: "Adding Whole-Body Vibration to Preconditioning Squat Exercise Increases Cycling Sprint Performance"
+title: "MF64UWPY"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MF64UWPY" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1525673" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/MF64UWPY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-MF64UWPY" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-MF64UWPY" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1519/JSC.0000000000002236" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-MF64UWPY"></div>
 </article>
 <div id="csl-bib-meta-MF64UWPY" class="csl-bib-meta">
-  <article id="abstract-article-MF64UWPY" class="abstract-article">
-    <h1>Samandrag</h1>
-    Duc, S, Rønnestad, BR, and Bertucci, W. Adding whole-body vibration to preconditioning squat exercise increases cycling sprint performance. J Strength Cond Res 34(5): 1354–1361, 2020—This study investigated the effect of performing a preconditioning exercise with or without whole-body vibration (WBV) on a subsequent cycling sprint performance. Fourteen trained subjects performed 2 separate test sessions in randomized order. After a warm-up, the preconditioning exercise (body-loaded half-squats) was applied: 30 seconds of half-squats with WBV (40 Hz, 2 mm) or 30 seconds of half-squats without WBV with a 10-second all-out sprint performed after 1 minute. Surface electromyography (EMG) was measured from the vastus medialis, vastus lateralis, and gastrocnemius medialis during the sprints. Blood lactate level (BL), heart rate (HR), and rating of perceived exertion (RPE) were determined immediately after the 10-second sprint. Performing preconditioning exercise with WBV resulted in superior peak (1,693 ± 356 vs. 1,637 ± 349 W, p ≤ 0.05) and mean power output (1,121 ± 174 vs. 1,085 ± 175 W, p ≤ 0.05) compared with preconditioning exercise without WBV. Effect sizes showed a moderate and large practical effect of WBV vs. no WBV on peak and mean power output, respectively. No differences were observed between the conditions for BL, HR, and RPE after the sprints and in EMG activity during the sprints. In conclusion, it is plausible to suggest that body-loaded half-squats with WBV acutely induce higher power output levels. The practical application of the current study is that body-loaded squats with WBV can be incorporated into preparations for specific sprint training to improve the quality of the sprint training and also to improve sprint performance in relevant competitions.
-  </article>
   <article id="contributors-article-MF64UWPY" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Pop Music for Kids: Sonic Markers as Narrative Strategies in Children’s Music"
+title: "TJA94ZIH"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TJA94ZIH" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1460279" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TJA94ZIH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-TJA94ZIH" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TJA94ZIH" class="csl-bib-button">Contributors</a>
+    <a href="https://journals.hioa.no/index.php/information/article/download/2277/2065" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TJA94ZIH"></div>
 </article>
 <div id="csl-bib-meta-TJA94ZIH" class="csl-bib-meta">
-  <article id="abstract-article-TJA94ZIH" class="abstract-article">
-    <h1>Abstract</h1>
-    Whilst the creative handling of recording technology has played a major role in the development of popular music, there has been little research into the role of production in music promoted explicitly for a child audience. The term “tween” is most often applied to describe children just before they become teens, referring to children aged 9–12 years. In more recent years, however, the tween category has come to comprise children as young as 4 and up to 15 years of age. Based on the premise that there is a growing tendency for children to be “youthified” at a far younger age than occurred previously, I am keen to investigate the extent to which music plays a part in this process. Through close readings of three songs from different eras in the history of children’s music, I will explore the role of sonic markers as narrative strategies in children’s music. The overall aim is to discuss the extent to which the relationships between lyrical content, vocal performance, and production aesthetics may play a role in the youthification of child performers and audiences. 
-  </article>
   <article id="contributors-article-TJA94ZIH" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Data-driven decentralized breeding increases prediction accuracy in a challenging crop production environment"
+title: "94VSWAWK"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-94VSWAWK" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1927528" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/94VSWAWK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-94VSWAWK" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-94VSWAWK" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-94VSWAWK" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.nature.com/articles/s42003-021-02463-w.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-94VSWAWK"></div>
 </article>
 <div id="csl-bib-meta-94VSWAWK" class="csl-bib-meta">
-  <article id="abstract-article-94VSWAWK" class="abstract-article">
-    <h1>Abstract</h1>
-    Crop breeding must embrace the broad diversity of smallholder agricultural systems to ensure food security to the hundreds of millions of people living in challenging production environments. This need can be addressed by combining genomics, farmers’ knowledge, and environmental analysis into a data-driven decentralized approach (3D-breeding). We tested this idea as a proof-of-concept by comparing a durum wheat ( Triticum durum Desf.) decentralized trial distributed as incomplete blocks in 1,165 farmer-managed fields across the Ethiopian highlands with a benchmark representing genomic prediction applied to conventional breeding. We found that 3D-breeding could double the prediction accuracy of the benchmark. 3D-breeding could identify genotypes with enhanced local adaptation providing superior productive performance across seasons. We propose this decentralized approach to leverage the diversity in farmer fields and complement conventional plant breeding to enhance local adaptation in challenging crop production environments.
-  </article>
   <article id="contributors-article-94VSWAWK" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -95,7 +91,7 @@ Campus Blæstad
     <div class="sdg-container"><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>46</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=2#archive" class="sdg-publication-count"><span>46</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Lack of Cascading Effects of Eurasian Lynx Predation on Roe Deer to Soil and Plant Nutrients"
+title: "SSEAJ9FE"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SSEAJ9FE" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1829889" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SSEAJ9FE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-SSEAJ9FE" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SSEAJ9FE" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-SSEAJ9FE" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.mdpi.com/1424-2818/12/9/352/pdf?version=1600153381" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-SSEAJ9FE"></div>
 </article>
 <div id="csl-bib-meta-SSEAJ9FE" class="csl-bib-meta">
-  <article id="abstract-article-SSEAJ9FE" class="abstract-article">
-    <h1>Abstract</h1>
-    This study examines the extent to which above-ground trophic processes such as large carnivore predation on wild ungulates can cause cascading effects through the provision of carrion resources to below-ground ecosystem processes in the boreal forest of southeastern Norway. We measured the levels of 10 parameters in soil samples and 7 parameters in vegetation (wavy hair-grass, Avenella flexuosa, and bilberry, Vaccinium myrtillus) at 0, 0.5 and 2 m distance from 18 roe deer (Capreolus caprelous) carcasses killed by Eurasian lynx (Lynx lynx). We then compared these values to two control sites 20 m away from each carcass. Sampling was conducted 20–29 months after death. Neither soil nor vegetation samples showed a clear gradient in parameters (CN, NH4+, NO3−, P, PO4−, Ca, K, Mg and Na) from the center of a carcass towards the periphery. Similarly, there was no difference in the effect on soil and vegetation between winter- and summer-killed carcasses. Our results contrast with that of other studies that simulate the effect of predation with whole carcasses and which often exclude scavengers through fencing. The lack of detectable effects after about two years is likely due to the small size of roe deer carcasses and the fact that most tissues are consumed by the predator and scavengers before decomposition.
-  </article>
   <article id="contributors-article-SSEAJ9FE" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -90,7 +86,7 @@ Campus Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

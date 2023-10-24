@@ -1,5 +1,5 @@
 ---
-title: "Absence of neocytolysis in humans returning from a 3‐week high‐altitude sojourn"
+title: "PT9K8ZZG"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PT9K8ZZG" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1990024" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PT9K8ZZG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-PT9K8ZZG" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PT9K8ZZG" class="csl-bib-button">Contributors</a>
+    <a href="https://www.zora.uzh.ch/id/eprint/206501/1/Klein_et_al._apha.13647.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PT9K8ZZG"></div>
 </article>
 <div id="csl-bib-meta-PT9K8ZZG" class="csl-bib-meta">
-  <article id="abstract-article-PT9K8ZZG" class="abstract-article">
-    <h1>Abstract</h1>
-    Aims: Total haemoglobin mass (tot- Hb) increases during high- altitude acclimatiza-tion. Normalization of tot- Hb upon descent is thought to occur via neocytolysis, the selective destruction of newly formed erythrocytes. Because convincing experimen-tal proof of neocytolysis is lacking, we performed a prospective study on erythrocyte survival after a stay at the Jungfraujoch Research Station (JFJRS; 3450 m).Methods: Newly  formed  erythrocytes  of  12  male  subjects  (mean  age  23.3  years)  were age cohort labelled in normoxia (110 m) and during a 19- day high- altitude so-journ  by  ingestion  of  13C2-   and 15N-  labelled  glycine  respectively.  Elimination  dy-namics for erythrocytes produced in normoxia and at high altitude were measured by isotope ratio mass spectrometry of haem, by determining tot- Hb, reticulocyte counts, erythrocyte membrane protein 4.1a/4.1b ratio and by mathematical modelling.Results: Tot- Hb increased by 4.7% ± 2.7% at high altitude and returned to pre- altitude values within 11 days after descent. Elimination of 13C-     (normoxia) and 15N-   (high altitude) labelled erythrocytes was not different. Erythropoietin levels and counts of CD71- positive reticulocytes decreased rapidly after descent. The band 4.1a/4.1b ratio decreased  at  altitude  and  remained  low  for  3-  4  days  after  descent  and  normalized  slowly. There was no indication of haemolysis.Conclusion: We confirm a rapid normalization of tot- Hb upon descent. Based on the lack of accelerated removal of age cohorts of erythrocytes labelled at high altitude, on  patterns  of  changes  in  reticulocyte  counts  and  of  the  band  4.1a/4.1b  ratio  and  on modelling, this decrease did not occur via neocytolysis, but by a reduced rate of erythropoiesis along with normal clearance of senescent erythrocytes.
-  </article>
   <article id="contributors-article-PT9K8ZZG" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

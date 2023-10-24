@@ -1,5 +1,5 @@
 ---
-title: "Understanding the Relationship between Stakeholder Pressure and Sustainability Performance in Manufacturing Firms in Pakistan"
+title: "NVBYX5X4"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NVBYX5X4" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2096709" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NVBYX5X4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NVBYX5X4" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1016/j.promfg.2017.07.178" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-NVBYX5X4"></div>
 </article>

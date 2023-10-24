@@ -1,5 +1,5 @@
 ---
-title: "Brief report: Autism spectrum disorder diagnostic persistence in a 10-year longitudinal study"
+title: "BWKNQRZQ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BWKNQRZQ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2033135" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BWKNQRZQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-BWKNQRZQ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BWKNQRZQ" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.rasd.2022.102007" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-BWKNQRZQ"></div>
 </article>
 <div id="csl-bib-meta-BWKNQRZQ" class="csl-bib-meta">
-  <article id="abstract-article-BWKNQRZQ" class="abstract-article">
-    <h1>Samandrag</h1>
-    Background: The aim was to examine diagnostic persistence of Autism Spectrum Disorder (ASD) in individuals without intellectual disability from childhood to emerging adulthood. Method: We assessed 38 children with estimated full-scale intelligence quotient (IQ) &gt;70 who were diagnosed with ASD at baseline (Mage=12.0, SD=2.3, 84% male), and re-assessed two (n=37, Mage=14.2, SD=2.4, 84% male) and 10 years (n=23, Mage=21.7, SD=2.4, 78% male) later. Results: At two-year follow-up, all participants still met diagnostic criteria for ASD according to the Diagnostic and Statistical Manual for Mental Disorders – fourth version (DSM-IV). At 10-year follow-up, 65% met diagnostic criteria for ASD according to DSM-IV, 48% met diagnostic criteria according to the Diagnostic and Statistical Manual for Mental Disorders – fifth version (DSM-5), 57% met the ASD cut-off on the Autism Spectrum Quotient 10-item (AQ-10), and 78% met either DSM-IV criteria or cut-off on the AQ-10. Higher IQ in childhood predicted loss of ASD diagnosis according to DSM-IV criteria (Hedges g = 1.30). A higher proportion of girls compared to boys displayed loss of ASD diagnosis according to DSM-IV criteria. Conclusions: These findings suggest that ASD traits among individuals without intellectual disability may wane into emerging adulthood and that loss of ASD diagnosis is associated with higher IQ and being a girl. Diagnostic re-evaluations may be warranted for some individuals diagnosed with ASD as children or adolescents.
-  </article>
   <article id="contributors-article-BWKNQRZQ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

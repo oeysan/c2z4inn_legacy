@@ -1,5 +1,5 @@
 ---
-title: "Understory diversity and composition after planting of teak and mahogany in Yogyakarta, Indonesia"
+title: "WND94KRX"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WND94KRX" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1745603" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WND94KRX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WND94KRX" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/10549811.2019.1686029?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WND94KRX"></div>
 </article>

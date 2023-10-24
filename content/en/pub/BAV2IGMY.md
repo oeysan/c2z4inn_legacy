@@ -1,5 +1,5 @@
 ---
-title: "Game-based learning in computer science education: a scoping literature review"
+title: "BAV2IGMY"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BAV2IGMY" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2172939" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BAV2IGMY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-BAV2IGMY" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BAV2IGMY" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-BAV2IGMY" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://stemeducationjournal.springeropen.com/counter/pdf/10.1186/s40594-023-00447-2" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-BAV2IGMY"></div>
 </article>
 <div id="csl-bib-meta-BAV2IGMY" class="csl-bib-meta">
-  <article id="abstract-article-BAV2IGMY" class="abstract-article">
-    <h1>Abstract</h1>
-    Using games in education has the potential to increase students’ motivation and engagement in the learning process, gathering long-lasting practical knowledge. Expanding interest in implementing a game-based approach in computer science education highlights the need for a comprehensive overview of the literature research. This scoping review aims to provide insight into current trends and identify research gaps and potential research topics concerning game-based learning in computer science. Using standard methodology for scoping review, we identified 113 articles from four digital libraries published between 2017 and 2021. Those articles were analyzed concerning the educational level, type of the game, computer science topic covered by the game, pedagogical strategies, and purpose for implementing this approach in different educational levels. The results show that the number of research articles has increased through the years, confirming the importance of implementing a game-based approach in computer science. Different kinds of games, using different technology, concerning different computer science topics are presented in the research. The obtained results indicate that there is no standardized game or standardized methodology that can be used for the creation of an educational game for computer science education. Analyzed articles mainly implement a game-based approach using learning by playing, and no significant focus is given to the effectiveness of learning by designing a game as a pedagogical strategy. Moreover, the approach is mainly implemented for developing computational thinking or programming skills, highlighting the need for its implementation in other topics beyond programming.
-  </article>
   <article id="contributors-article-BAV2IGMY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -99,7 +95,7 @@ Room 3Ø010
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

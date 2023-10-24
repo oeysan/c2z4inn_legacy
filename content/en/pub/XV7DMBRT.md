@@ -1,5 +1,5 @@
 ---
-title: "Do health professionals’ attitudes towards alcohol use matter for alcohol prevention efforts? Results from the WIRUS-OHS study"
+title: "XV7DMBRT"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XV7DMBRT" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2039459" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XV7DMBRT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-XV7DMBRT" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XV7DMBRT" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-XV7DMBRT" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-022-08400-9" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-XV7DMBRT"></div>
 </article>
 <div id="csl-bib-meta-XV7DMBRT" class="csl-bib-meta">
-  <article id="abstract-article-XV7DMBRT" class="abstract-article">
-    <h1>Abstract</h1>
-    Background Use of alcohol is a major public health issue, representing the 7 th largest burden of disease in the world. Workplaces offer a unique arena for health initiatives addressing alcohol use, where occupational health services (OHS) personnel play an important role. However, we do not know if the extent of such initiatives may be influenced by personal drinking attitudes among OHS personnel. Thus, the aim of the study was to explore how drinking attitudes among OHS personnel were associated with their frequency of working with alcohol-related cases and with their views on alcohol prevention activities in the OHS. Methods The WIRUS project included a cross-sectional survey of attitudes and practices among OHS personnel ( n  = 325) employed by Norwegian OHS services ( n  = 69), who informed about sociodemographic and professional characteristics, drinking attitudes, frequency of cases with alcohol-related issues, and perceptions toward the role of the OHS in primary, secondary, and tertiary alcohol prevention activities. Measures of associations were examined with linear and logistic regression models. Results Drinking attitudes were unrelated to the frequency of working with alcohol-related cases. Physicians, psychologists, and nurses had higher frequency of working with alcohol-related cases, compared to those with other professional backgrounds (β = 0.46, p  = 0.01). Drinking attitudes were also unrelated to attitudes towards primary/secondary/tertiary alcohol prevention activities in the OHS, while female OHS personnel were more positive towards increased primary alcohol prevention activities in the OHS (OR: 1.82, p  &lt; 0.05). Only marginal portions (1%-3%) of the variance in attitudes towards alcohol prevention activities in the OHS were accounted for by the models. ConclusionThis study did not find evidence of associations between OHS personnel’s drinking attitudes and their practices and attitudes towards alcohol prevention activities. The lack of association between OHS personnel’s attitudes towards alcohol use and their attitudes and practices relating to alcohol prevention in the workplace might point towards professionalism, as personal attitudes appear not to interfere with their priorities and professional mission. Given the small amount of outcome variance explained by the tested models, other variables should be used in future studies.
-  </article>
   <article id="contributors-article-XV7DMBRT" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Room 4L3213
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

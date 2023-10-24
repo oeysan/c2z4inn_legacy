@@ -1,5 +1,5 @@
 ---
-title: "The potential of food environment policies to reduce socioeconomic inequalities in diets and to improve healthy diets among lower socioeconomic groups: an umbrella review"
+title: "FI3H8E6X"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FI3H8E6X" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2008021" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/FI3H8E6X" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-FI3H8E6X" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FI3H8E6X" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-FI3H8E6X" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-022-12827-4" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-FI3H8E6X"></div>
 </article>
 <div id="csl-bib-meta-FI3H8E6X" class="csl-bib-meta">
-  <article id="abstract-article-FI3H8E6X" class="abstract-article">
-    <h1>Abstract</h1>
-    Socioeconomic inequalities in diets need to be tackled to improve population diets and prevent obesity and diet-related non-communicable diseases. The potential of food environment policies to reduce such inequalities has to date however not been appraised. The objective of this umbrella review was to assess the impact of food environment policies on socioeconomic inequalities in diets and to identify knowledge gaps in the existing literature, using the Healthy Food Environment Policy Index as a conceptual framework. The policies considered in the umbrella review are within six domains: 1) food composition 2) food labelling 3) food promotion 4) food provision 5) food retail 6) food pricing. A systematic search for systematic literature reviews on the effect of food environment policies on dietary-related outcomes across socioeconomic groups and published in English between 2004 and 2019 was conducted. Sixteen systematic literature reviews encompassing 159 primary studies were included, covering food composition (n = 2), food labelling (n = 3), food provision (n = 2), food prices (n = 13) and food in retail (n = 4). Quality assessment using the “Assessing the Methodological Quality of Systematic Reviews” quality rating scale showed that review quality was mainly low or critically low. Results suggest that food taxation may reduce socioeconomic inequalities in diets. For all other policy areas, the evidence base was poor. Current research largely fails to provide good quality evidence on impacts of food environment policies on socioeconomic inequalities in diets. Research to fill this knowledge gap is urgently needed.
-  </article>
   <article id="contributors-article-FI3H8E6X" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,13 +59,13 @@ Room 4L3307
     <div class="sdg-container"><div id="sdg1" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg01_en.png" class="image" alt="SDG 1">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>37</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=1#archive" class="sdg-publication-count"><span>39</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal1" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

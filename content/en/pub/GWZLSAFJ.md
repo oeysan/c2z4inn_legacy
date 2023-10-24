@@ -1,5 +1,5 @@
 ---
-title: "«Jeg er ikke noe offer for mamma»: Ungdoms søken etter mening og sammenheng i dobbeltrollensom pårørende og BUP-pasient"
+title: "GWZLSAFJ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GWZLSAFJ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1688983" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GWZLSAFJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GWZLSAFJ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GWZLSAFJ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-GWZLSAFJ" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/issn.0807-7487-2019-02-02" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-GWZLSAFJ"></div>
 </article>
 <div id="csl-bib-meta-GWZLSAFJ" class="csl-bib-meta">
-  <article id="abstract-article-GWZLSAFJ" class="abstract-article">
-    <h1>Abstract</h1>
-    Artikkelen  tar  utgangspunkt  i  unge  jenters  erfaringer  som  pasient  i  psykisk  helsevern,samtidig som de har en forelder med rus- eller psykisk lidelse. Fokuset er på deres selv-narrativer, og hvilken forståelse de har av hvordan foreldrenes vansker påvirker det deselv  strever  med.  En  kvalitativ  intervjustudie  med  ni  unge  jenter  i  denne  doble  rollensom pasient og pårørende, viser at de forstår egne vansker som forårsaket av ytre psyko-sosiale belastninger, men at de ikke nødvendigvis ser en sammenheng mellom egne ogforeldrenes  vansker.  Funnene  viser  kompliserte  relasjons-  og  identitetsprosesser  hvorinformantene formidler fortellinger som ivaretar familierelasjoner, gir mening og sam-menheng og en positiv identitet. Vi mener å se at fortellingene er påvirket av hvordanforeldre har forholdt seg til belastningene, hvordan ungdommene har blitt hjulpet, og avde overordnede kulturelle narrativene om familieliv, normalitet og psykisk sykdom. Nøkkelord: psykisk helsevern, barn som pårørende, foreldre med rus-/psykiske lidelser, sense of coherence, narrative, familiefokusert praksis.
-  </article>
   <article id="contributors-article-GWZLSAFJ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -93,7 +89,7 @@ Room 1V2047
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

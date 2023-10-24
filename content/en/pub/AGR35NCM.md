@@ -1,5 +1,5 @@
 ---
-title: "Samproduksjon i forskning - hva er det, og hva innebærer det?"
+title: "AGR35NCM"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AGR35NCM" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1689036" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/AGR35NCM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://www.idunn.no/file/pdf/67122910/1_samproduksjon_i_forskning_hva_er_det_og_hva_innebaerer.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-AGR35NCM"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "Að ljóðvæða málið"
+title: "JM22JV3C"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,47 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JM22JV3C" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1986597" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JM22JV3C" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JM22JV3C" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JM22JV3C" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-JM22JV3C" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-JM22JV3C"></div>
 </article>
 <div id="csl-bib-meta-JM22JV3C" class="csl-bib-meta">
-  <article id="abstract-article-JM22JV3C" class="abstract-article">
-    <h1>Samandrag</h1>
-    Abstract 
-Poeticizing Language 
-The author does not think it is very fruitful to search for philosophical truths.  
-The forte of philosophy is the proliferation of possibilities rather than the  
-understanding of actualities. Making philosophical experiments can help us  
-discover possibilities. The author makes a philosophical experiment, he wants  
-to find out whether it is possible that language has poetic moments. The result  
-of the experiment was as follows: Language is partly constituted by narratives,  
-fictions, literary genres and metaphors. Anything that contains these four  
-moments can count as being poetic. Alasdair MacIntyre argues forcefully in favor  
-of the contention that speech acts only make sense when embedded in narratives.  
-Furthermore, they do not really make sense unless they are regarded as parts of  
-conversations. Conversations in their turn must be subsumed under the concept  
-of some literary genre(s). The author concurs and tries to add fuel to MacIntyre’s  
-arguments. The fictionalists put forth some interesting argument in favor of the  
-view that a large swath of that which we call „reality“ consists of fictional entities.  
-Particles are such entities, but scientists are bound to treat them as real. The  
-author adds that through ordinary language, we must refer to fictional entities,  
-while pretending that they are real. He also adds that scientists must willingly  
-Hugur2021Overridesv02.indd 116 16-Dec-21 14:56:38 
-Að ljóðvæða málið 117 
-suspend disbelief, just like the readers of novels. Mary Hesse, George Lakoff, and  
-Mark Johnson point out that language has important metaphoric moments. The  
-author is mainly in agreement but criticizes Lakoff and Johnson for separating  
-language and the conceptual dimension too sharply. Due to this, their separation  
-between a conceptual deep structure and linguistic surface structure becomes  
-problematic. Be that as it may, it makes perfect sense to say that language has  
-poetic traits. 
-Hugur2021Overridesv02.indd 117 16-Dec-21 14:56:3
-  </article>
   <article id="contributors-article-JM22JV3C" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -89,7 +56,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

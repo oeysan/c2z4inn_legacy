@@ -1,5 +1,5 @@
 ---
-title: "Functional Bowel Disorders Are Associated with a Central Immune Activation"
+title: "YGRQJPL6"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YGRQJPL6" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1511063" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YGRQJPL6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-YGRQJPL6" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-YGRQJPL6" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-YGRQJPL6" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://downloads.hindawi.com/journals/grp/2017/1642912.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-YGRQJPL6"></div>
 </article>
 <div id="csl-bib-meta-YGRQJPL6" class="csl-bib-meta">
-  <article id="abstract-article-YGRQJPL6" class="abstract-article">
-    <h1>Abstract</h1>
-    Background. Subjects with depression and unexplained neurological symptoms have a high prevalence of gastrointestinal comorbidity probably related to the brain-gut communication. This study explored associations between functional gastrointestinal disorders (FGID) and inflammatory markers in subjects with these disorders. Methods. The FGID, including irritable bowel syndrome (IBS), were classified according to the Rome III criteria, and degree of symptoms was assessed with IBS symptom severity score (IBS-SSS). A range of interleukins (IL), chemokines and growth factors, tryptophan, and kynurenine were analysed in serum and the cerebrospinal fluid (CSF), and short-chain fatty acids (SCFA) were analysed in the faeces. The results are reported as partial correlation (pc) and  values. Results. Sixty-six subjects were included. IBS was associated with high levels of tryptophan () and kynurenine () and low level of IL-10 () in the CSF. IBS-SSS was associated with high tumor necrosis factor and low IL-10 in the CSF;  and  and  and , respectively. Propionic minus butyric acid in faeces was negatively associated with IL-10 in the CSF (, ). Conclusions. FGID were associated with a proinflammatory immune activation in the central nervous system and a disturbed tryptophan metabolism that could have been mediated by the faecal microbiota
-  </article>
   <article id="contributors-article-YGRQJPL6" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -95,7 +91,7 @@ Room 4L2213
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

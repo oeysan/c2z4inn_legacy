@@ -1,5 +1,5 @@
 ---
-title: "When tragedy embraces the farce: Adaption of Gogol’s The Government Inspector in different cultures"
+title: "ZCJBIX9V"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZCJBIX9V" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1729247" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ZCJBIX9V" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ZCJBIX9V" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ZCJBIX9V" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-ZCJBIX9V" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1386/atr_00008_1" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-ZCJBIX9V"></div>
 </article>
 <div id="csl-bib-meta-ZCJBIX9V" class="csl-bib-meta">
-  <article id="abstract-article-ZCJBIX9V" class="abstract-article">
-    <h1>Abstract</h1>
-    How do drama and theatre contribute to developing a democratic process at the intersection between production, activity and way of working? This article examines how artistic processes can shed light on, investigate and comment about moral dilemmas based on Nicolai Gogol’s dramatic script from 1836, The Government Inspector, a Russian farce about corruption. A Nordplus-project designed in 2013 made it possible for drama students, both in Norway and in Tanzania, to establish platforms enabling the students from each country to freely investigate and interpret their own ideas of corruption through process drama activity by exploring Gogol’s original text. This article also investigates whether and how the students’ cultural identity affected their own perspectives on the matter by pinpointing the aftermath of corrupt activity through dramatic depiction and activity.
-  </article>
   <article id="contributors-article-ZCJBIX9V" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -60,7 +56,7 @@ Campus Hamar
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

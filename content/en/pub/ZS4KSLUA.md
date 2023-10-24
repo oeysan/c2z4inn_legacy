@@ -1,5 +1,5 @@
 ---
-title: "Extreme anoxia tolerance in crucian carp and goldfish through neofunctionalization of duplicated genes creating a new ethanol-producing pyruvate decarboxylase pathway"
+title: "ZS4KSLUA"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZS4KSLUA" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1486117" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ZS4KSLUA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ZS4KSLUA" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ZS4KSLUA" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-ZS4KSLUA" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://doi.org/10.1038/s41598-017-07385-4" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ZS4KSLUA"></div>
 </article>
 <div id="csl-bib-meta-ZS4KSLUA" class="csl-bib-meta">
-  <article id="abstract-article-ZS4KSLUA" class="abstract-article">
-    <h1>Abstract</h1>
-    Without oxygen, most vertebrates die within minutes as they cannot meet cellular energy demands with anaerobic metabolism. However, fish of the genus Carassius (crucian carp and goldfish) have evolved a specialized metabolic system that allows them to survive prolonged periods without oxygen by producing ethanol as their metabolic end-product. Here we show that this has been made possible by the evolution of a pyruvate decarboxylase, analogous to that in brewer’s yeast and the first described in vertebrates, in addition to a specialized alcohol dehydrogenase. Whole-genome duplication events have provided additional gene copies of the pyruvate dehydrogenase multienzyme complex that have evolved into a pyruvate decarboxylase, while other copies retained the essential function of the parent enzymes. We reveal the key molecular substitution in duplicated pyruvate dehydrogenase genes that underpins one of the most extreme hypoxic survival strategies among vertebrates and that is highly deleterious in humans.
-  </article>
   <article id="contributors-article-ZS4KSLUA" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -64,7 +60,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg14" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg14_en.png" class="image" alt="SDG 14">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>41</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=14#archive" class="sdg-publication-count"><span>42</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal14" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

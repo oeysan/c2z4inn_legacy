@@ -1,5 +1,5 @@
 ---
-title: "APOE Polymorphism and Endocrine Functions in Subjects with Morbid Obesity Undergoing Bariatric Surgery"
+title: "UF75TEUR"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UF75TEUR" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2019523" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UF75TEUR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-UF75TEUR" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UF75TEUR" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-UF75TEUR" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2073-4425/13/2/222/pdf?version=1643115953" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-UF75TEUR"></div>
 </article>
 <div id="csl-bib-meta-UF75TEUR" class="csl-bib-meta">
-  <article id="abstract-article-UF75TEUR" class="abstract-article">
-    <h1>Samandrag</h1>
-    Background: Obesity is an interplay between genes and the environment, including lifestyle. The genetics of obesity is insufficiently understood. Apolipoprotein E (APOE) genetic polymorphism has been associated with a wide range of disorders. Knowing that some APOE alleles are associated with obesity and endocrine disorders that are common in obesity, the present study aimed at exploring associations between APOE polymorphisms and endocrine functions in subjects with obesity undergoing bariatric surgery. Methods: Analyses of hormones in blood collected before and one year after bariatric surgery were examined. The APOE alleles were grouped as follows: E2 = ε2ε2 + ε2ε3; E3 = ε3ε3 + ε2ε4; E4 = ε3ε4 + ε4ε4. The APOE groups were analysed as nominal and ordered groups (E2-E3-E4) with a linear mixed model to predict the hormonal effects of the groups. Results: Forty-nine women (79%) and thirteen (21%) men with a mean age of 47.7 (SD 8.5) years were included in the study. The adiponectin level was significantly lower (p &lt; 0.05) in the E2 group compared with the E4 group. Adiponectin and cortisol were positively and negatively associated, respectively, with the ordered APOE groups. Conclusions: The ordered APOE groups E2-E3-E4 were significantly associated with high and low levels of adiponectin and cortisol, respectively. The findings indicate APOE-mediated effects on body weight and metabolic functions in subjects with morbid obesity.
-  </article>
   <article id="contributors-article-UF75TEUR" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 4L2213
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

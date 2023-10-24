@@ -1,5 +1,5 @@
 ---
-title: "Rationalities that underpin employability provision in higher education across eight countries"
+title: "NCLTZHZ8"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NCLTZHZ8" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2077709" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NCLTZHZ8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-NCLTZHZ8" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NCLTZHZ8" class="csl-bib-button">Contributors</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s10734-022-00957-y.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-NCLTZHZ8"></div>
 </article>
 <div id="csl-bib-meta-NCLTZHZ8" class="csl-bib-meta">
-  <article id="abstract-article-NCLTZHZ8" class="abstract-article">
-    <h1>Abstract</h1>
-    This article explores the rationalities advanced by 18 higher education institutions, located across eight countries, for developing and delivering employability provision. The article uses Sultana’s Habermasian-derived framework to categorise rationalities as either technocratic, humanistic or emancipatory. Based on a series of semi-structured dialogic interviews, the article explores how key strategic and operational personnel within higher education institutions articulate their rationality for engaging with employability. It finds that the rationalities advanced to support employability within different institutions vary through a conversation between institutional culture and priorities and the demands of different stakeholders who the institution seeks to engage. The technocratic and humanistic rationalities dominate, with the emancipatory rationality weakly represented in the data. However, in many cases, the different rationalities are woven together, often for tactical reasons, to create bespoke institutional rationalities.
-  </article>
   <article id="contributors-article-NCLTZHZ8" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

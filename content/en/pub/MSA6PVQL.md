@@ -1,5 +1,5 @@
 ---
-title: "Corporate tax behaviour and environmental disclosure: Strategic trade-offs across elements of CSR?"
+title: "MSA6PVQL"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MSA6PVQL" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1715121" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/MSA6PVQL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://doi.org/10.1016/j.scaman.2019.02.001" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-MSA6PVQL"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "Modelling the dynamics of the industrial vanadium cycle using the WORLD7 Integrated Assessment Model"
+title: "AE27WZPL"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AE27WZPL" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2147716" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/AE27WZPL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://doi.org/10.1016/j.resenv.2023.100121" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-AE27WZPL"></div>
 </article>

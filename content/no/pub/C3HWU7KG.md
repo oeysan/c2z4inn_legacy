@@ -1,5 +1,5 @@
 ---
-title: "HumGut: a comprehensive human gut prokaryotic genomes collection filtered by metagenome data"
+title: "C3HWU7KG"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-C3HWU7KG" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1928244" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/C3HWU7KG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-C3HWU7KG" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-C3HWU7KG" class="csl-bib-button">Medverkande</a>
+    <a href="https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-021-01114-w" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-C3HWU7KG"></div>
 </article>
 <div id="csl-bib-meta-C3HWU7KG" class="csl-bib-meta">
-  <article id="abstract-article-C3HWU7KG" class="abstract-article">
-    <h1>Samandrag</h1>
-    BackgroundA major bottleneck in the use of metagenome sequencing for human gut microbiome studies has been the lack of a comprehensive genome collection to be used as a reference database. Several recent efforts have been made to re-construct genomes from human gut metagenome data, resulting in a huge increase in the number of relevant genomes. In this work, we aimed to create a collection of the most prevalent healthy human gut prokaryotic genomes, to be used as a reference database, including both MAGs from the human gut and ordinary RefSeq genomes. ResultsWe screened &gt; 5,700 healthy human gut metagenomes for the containment of &gt; 490,000 publicly available prokaryotic genomes sourced from RefSeq and the recently announced UHGG collection. This resulted in a pool of &gt; 381,000 genomes that were subsequently scored and ranked based on their prevalence in the healthy human metagenomes. The genomes were then clustered at a 97.5% sequence identity resolution, and cluster representatives (30,691 in total) were retained to comprise the HumGut collection. Using the Kraken2 software for classification, we find superior performance in the assignment of metagenomic reads, classifying on average 94.5% of the reads in a metagenome, as opposed to 86% with UHGG and 44% when using standard Kraken2 database. A coarser HumGut collection, consisting of genomes dereplicated at 95% sequence identity—similar to UHGG, classified 88.25% of the reads. HumGut, half the size of standard Kraken2 database and directly comparable to the UHGG size, outperforms them both. Conclusions The HumGut collection contains &gt; 30,000 genomes clustered at a 97.5% sequence identity resolution and ranked by human gut prevalence. We demonstrate how metagenomes from IBD-patients map equally well to this collection, indicating this reference is relevant also for studies well outside the metagenome reference set used to obtain HumGut. All data and metadata, as well as helpful code, are available at http://arken.nmbu.no/~larssn/humgut/.
-  </article>
   <article id="contributors-article-C3HWU7KG" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

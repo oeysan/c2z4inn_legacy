@@ -1,5 +1,5 @@
 ---
-title: "Introduction: The EU and the Changing (Geo)Politics of Energy in Europe"
+title: "DDM4X3AG"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DDM4X3AG" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1619797" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/DDM4X3AG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-DDM4X3AG" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-DDM4X3AG" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-DDM4X3AG" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-3-319-93360-3_1" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-DDM4X3AG"></div>
 </article>
 <div id="csl-bib-meta-DDM4X3AG" class="csl-bib-meta">
-  <article id="abstract-article-DDM4X3AG" class="abstract-article">
-    <h1>Abstract</h1>
-    This introductory chapter has three purposes. First, it presents the background for this volume originating in a research project on European integration funded by the Research Council of Norway (RCN). Second, it explains why EU energy policy in this context deserves closer scrutiny looking at energy relationships between the EU and external suppliers of energy and the EU and member states. Finally, this chapter gives an overview of the content of this book and explains rationales for the choice of cases presenting how the EU projects its power, how external suppliers Norway, Russia, Algeria and LNG providers have responded and how the member states Germany, Poland and the three Baltic countries interact with the EU when implementing their energy policies.
-  </article>
   <article id="contributors-article-DDM4X3AG" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -69,13 +65,13 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg7" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg07_en.png" class="image" alt="SDG 7">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>27</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=7#archive" class="sdg-publication-count"><span>27</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal7" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

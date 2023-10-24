@@ -1,5 +1,5 @@
 ---
-title: "Innovation as a Social Phenomenon: Exploring the Past of PSI Studies"
+title: "I3AXSX67"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-I3AXSX67" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1781626" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/I3AXSX67" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-I3AXSX67" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.34190/ECIE.19.144" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-I3AXSX67"></div>
 </article>

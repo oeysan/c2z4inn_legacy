@@ -1,5 +1,5 @@
 ---
-title: "Bare lerkene kan lese morgenen / den blå bokstaven / i en altfor stor resept : Norwegian Poetry 2000 - 2012 from a form perspective"
+title: "Y7TNGRDF"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Y7TNGRDF" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1519919" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Y7TNGRDF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Y7TNGRDF" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-Y7TNGRDF"></div>

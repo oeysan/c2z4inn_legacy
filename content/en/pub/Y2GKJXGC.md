@@ -1,5 +1,5 @@
 ---
-title: "History of Delirium Tremens in AUD Patients in Treatment: Relationship to AUD Severity and Other Factors"
+title: "Y2GKJXGC"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Y2GKJXGC" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2067719" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Y2GKJXGC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Y2GKJXGC" class="csl-bib-button">Contributors</a>
+    <a href="https://www.dovepress.com/getfile.php?fileID=83863" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-Y2GKJXGC"></div>
 </article>

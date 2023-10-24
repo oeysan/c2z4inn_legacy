@@ -1,5 +1,5 @@
 ---
-title: "‘To be treated as a human’: Using co‐production to explore experts by experience involvement in mental health nursing education – The COMMUNE project"
+title: "K9DIAJ4N"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,36 +9,32 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-K9DIAJ4N" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1578751" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/K9DIAJ4N" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-K9DIAJ4N" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#sdg-article-K9DIAJ4N" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/inm.12435" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-K9DIAJ4N"></div>
 </article>
 <div id="csl-bib-meta-K9DIAJ4N" class="csl-bib-meta">
-  <article id="abstract-article-K9DIAJ4N" class="abstract-article">
-    <h1>Abstract</h1>
-    Increasingly, experts as deemed by personal experience or mental health service use, are involved in the education of nurses; however, accompanying research is limited and focuses primarily on opinions of nurse educators and students. The aim of this study was to develop an understanding of the potential contribution to mental health nursing education by those with experience of mental health service use. The research was part of the international COMMUNE (Co‐production of Mental Health Nursing Education) project, established to develop and evaluate co‐produced mental health content for undergraduate nursing students. A qualitative descriptive design was adopted with data collected through focus group interviews in seven sites across Europe and Australia. Experts by experience (people with experience of distress, service use, and recovery) co‐produced the project in partnership with nursing academics. Co‐production enriched the process of data collection and facilitated the analysis of data from multiple perspectives. Two themes are presented in this paper. The first focuses on how experts by experience can enhance students’ understanding of recovery by seeing the strengths inherent in the ‘human’ behind the diagnostic label. The second highlights the importance of communication and self‐reflection on personal values, where students can explore their own thoughts and feelings about mental distress alongside those with lived experience. Interacting with experts by experience in the classroom can assist in challenging stigmatizing attitudes prior to nursing placements. These findings can be used to inform international nursing curricula by increasing the focus on nursing skills valued by those who use the services.
-  </article>
   <article id="sdg-article-K9DIAJ4N" class="sdg-article">
     <h1>Sustainable Development Goals</h1>
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

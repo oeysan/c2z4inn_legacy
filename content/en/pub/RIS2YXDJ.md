@@ -1,5 +1,5 @@
 ---
-title: "Crisis and Differentiation in the CFSP: Leaders, Laggards and Critical Junctures"
+title: "RIS2YXDJ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RIS2YXDJ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1936131" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RIS2YXDJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-RIS2YXDJ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RIS2YXDJ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-RIS2YXDJ" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.54648/EERR2021026" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-RIS2YXDJ"></div>
 </article>
 <div id="csl-bib-meta-RIS2YXDJ" class="csl-bib-meta">
-  <article id="abstract-article-RIS2YXDJ" class="abstract-article">
-    <h1>Abstract</h1>
-    This article explores the relationship between exogenous crises and internal, formal differentiated integration in the European Union (EU) maritime foreign and security policy. Drawing on institutionalist concepts and the analytical framework in the Introduction, we argue that crises may serve as drivers of uniform rather than differentiated integration in policy areas dominated by dissent or differing needs and interests. Specifically, crises mark ‘critical junctures’ that open windows of opportunity for EU integration supporters (‘leaders’) to convince reluctant states (‘laggards’ and ‘disruptors’) to pursue further integration. To substantiate these theoretical assumptions, the article explores two case studies of integration where Member States were unlikely to agree to joint measures. The first case examines the launch of the EU anti-smuggling mission EUNAVFOR MED Sophia in response to the refugee crisis in the Mediterranean, while the second case looks at the EU’s joint actions against Turkish natural gas exploitation in Greek and Cypriot sovereign waters. Both cases use process tracing to show how, in the face of exogenous crises, ‘leaders’ in maritime foreign and security policy successfully exploited windows of opportunity to persuade formerly reluctant EU Member States to adopt common measures (This article is an output of the EUFLEX project, which has been funded by the Research Council of Norway, project number 287131). crisis, differentiated integration, European Union (EU), leaders, laggards, maritime security policies, institutionalism
-  </article>
   <article id="contributors-article-RIS2YXDJ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -67,7 +63,7 @@ Room 3Ø113
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

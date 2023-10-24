@@ -14,6 +14,7 @@ type: pub
     <a href="#abstract-article-WLG3QIRX" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-WLG3QIRX" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-WLG3QIRX" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://rmdopen.bmj.com/content/rmdopen/9/1/e002924.full.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WLG3QIRX"></div>
 </article>
@@ -63,7 +64,7 @@ Rom 4L3309
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

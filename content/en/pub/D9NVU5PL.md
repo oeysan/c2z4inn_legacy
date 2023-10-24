@@ -1,5 +1,5 @@
 ---
-title: "Time-varying causality nexus of (non)renewable electricity utilization, real output, and carbon emission among selected African states"
+title: "D9NVU5PL"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-D9NVU5PL" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2114892" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/D9NVU5PL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-D9NVU5PL" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-D9NVU5PL" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-D9NVU5PL" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s10668-023-02934-6.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-D9NVU5PL"></div>
 </article>
 <div id="csl-bib-meta-D9NVU5PL" class="csl-bib-meta">
-  <article id="abstract-article-D9NVU5PL" class="abstract-article">
-    <h1>Abstract</h1>
-    Adding to the debate on the drivers of carbon neutrality, the perspective of time-dependent effect of crucial factors such as the renewable and conventional energy utilization should offer relevant policy for the stakeholders in the energy sector. On the empirical front, several studies have investigated the causal interaction between renewable and nonrenewable energy consumption, economic growth, and carbon dioxide (CO 2 ) emission by using the conventional empirical approaches. In contrast, this study utilized a time-varying causality (TC) technique (which offers time inference) to determine the causal relationship between CO 2 emission and its potential drivers such as energy source types and Gross Domestic Product (GDP) in South Africa, Egypt, Algeria, Libya, Nigeria, and Tunisia over the period spanning 1980Q1 and 2017Q4. Importantly, there is statistically significant evidence of causality as examined by the TC approach. For instance, causality from CO 2 emission to renewable energy source for the period 2004Q1–2006Q3 and from GDP to CO 2 emission during 2013Q2–2015Q3 were observed for South Africa. Moreover, the causality from non-renewable energy source to CO 2 emission and from GDP to CO 2 emission compares very well with Nigeria, Libya, and Algeria. Overall, the results largely indicate causality relationships among our variables for all the six countries over different time sequences. These results differ from the Toda–Yamamoto test, which only reveals a causality relationship in Egypt, Libya, and Tunisia. The empirical findings obtained from the time-varying causality approach are essential for designing and implementing appropriate energy policies, especially attaining these countries' Paris agreement and the Sustainable Development Goal 13 since the goals are time periodically assessed.
-  </article>
   <article id="contributors-article-D9NVU5PL" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -65,13 +61,13 @@ Campus Kongsvinger
     <div class="sdg-container"><div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>54</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

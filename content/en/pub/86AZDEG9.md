@@ -1,5 +1,5 @@
 ---
-title: "Adolescence internalizing problems as a mediator between autism diagnosis in childhood and quality of life in emerging adults with and without autism: a 10-year longitudinal study"
+title: "86AZDEG9"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-86AZDEG9" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2129796" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/86AZDEG9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-86AZDEG9" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-86AZDEG9" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-86AZDEG9" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://bmcpsychiatry.biomedcentral.com/counter/pdf/10.1186/s12888-023-04635-w" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-86AZDEG9"></div>
 </article>
 <div id="csl-bib-meta-86AZDEG9" class="csl-bib-meta">
-  <article id="abstract-article-86AZDEG9" class="abstract-article">
-    <h1>Abstract</h1>
-    BackgroundIndividuals with autism tend to have a reduced quality of life across their lifespan. This reduced quality of life may be a result of autism traits, mental distress, and poor person/environment fit. In this longitudinal study, we looked at the role of adolescence internalizing and externalizing problems in mediating the relationship between having an autism diagnosis from childhood and perceived quality of life as emerging adults. MethodsA total of 66 participants in a group of emerging adults with autism (mean age 22.2 years), and without autism (mean age 20.9 years) were assessed in three assessment waves (T1 at 12 years, T2 at 14 years, and T3 at 22 years of age). Parents filled out the Child Behavior Checklist at T2 and participants filled out the Perceived Quality of Life Questionnaire at T3. Total and indirect effects were tested in serial mediation analysis. ResultsThe results showed that internalizing problems fully mediated the association between childhood autism diagnosis and the quality of life in emerging adulthood, while externalizing problems did not. ConclusionOur findings suggest that attention to adolescent internalizing problems is important to improve the later quality of life for emerging adults with autism.
-  </article>
   <article id="contributors-article-86AZDEG9" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg1" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg01_en.png" class="image" alt="SDG 1">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>37</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=1#archive" class="sdg-publication-count"><span>39</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal1" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

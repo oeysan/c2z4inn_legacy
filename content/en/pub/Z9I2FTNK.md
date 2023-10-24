@@ -1,5 +1,5 @@
 ---
-title: "Discourses regarding the sustainability and environmental considerations in physical planning of second homes in Norwegian mountain destinations: a comparison between governmental documents, research literature and the general media"
+title: "Z9I2FTNK"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Z9I2FTNK" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2099037" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Z9I2FTNK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Z9I2FTNK" class="csl-bib-button">Contributors</a>
+    <a href="https://czasopisma.uni.lodz.pl/esrap/article/download/13546/14903" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-Z9I2FTNK"></div>
 </article>

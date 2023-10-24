@@ -1,5 +1,5 @@
 ---
-title: "Liquid storage of porcine in vitro -produced blastocysts; a practical approach for short storage"
+title: "YJWFJL2V"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YJWFJL2V" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2159790" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YJWFJL2V" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-YJWFJL2V" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-YJWFJL2V" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1017/S0967199423000308" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-YJWFJL2V"></div>
 </article>
 <div id="csl-bib-meta-YJWFJL2V" class="csl-bib-meta">
-  <article id="abstract-article-YJWFJL2V" class="abstract-article">
-    <h1>Samandrag</h1>
-    Summary Commercial application of embryo transfer in pig breeding is dependent on the storage of embryos. The aim of this study was to assess the embryo quality of in vitro -produced blastocysts after 3 h liquid storage at 37°C in CO 2 -free medium by evaluating morphology, in vitro developmental capacity and apoptosis. Blastocysts at days 5 and 6 post-fertilization were randomly allocated to the storage group (HEPES-buffered NCSU-23 medium including bovine serum albumin in a portable embryo transport incubator at 37°C) or a control group (porcine blastocyst medium in a conventional culture incubator). Thereafter, blastocysts were evaluated for morphology and stained to assess apoptosis straight after the 3 h storage period or after a further 24 h conventional incubation. There was no significant difference between the storage and control group after 3 h storage and the further 24 h conventional incubation for any of the parameters, nor for apoptosis straight after the 3 h storage. Embryos that reached the blastocyst stage at day 5 showed less apoptosis (6.6% vs 10.9%, P = 0.01) and a trend for a higher rate of developmental capacity (70.6% vs 51.5%, P = 0.089) than embryos reaching the blastocyst stage on day 6. In conclusion, in vitro -produced porcine blastocysts can be stored for 3 h at physiological temperature in transportable incubators using a CO 2 -independent medium without compromising quality.
-  </article>
   <article id="contributors-article-YJWFJL2V" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

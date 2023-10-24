@@ -1,5 +1,5 @@
 ---
-title: "Leadership through the subordinates' eye: perceptions of leader behaviors in relation to age and gender"
+title: "JNPAUCWN"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JNPAUCWN" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2100244" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JNPAUCWN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JNPAUCWN" class="csl-bib-button">Contributors</a>
+    <a href="https://www.emerald.com/insight/content/doi/10.1108/LODJ-07-2021-0333/full/pdf?title=leadership-through-the-subordinates-eye-perceptions-of-leader-behaviors-in-relation-to-age-and-gender" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JNPAUCWN"></div>
 </article>

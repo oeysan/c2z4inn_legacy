@@ -1,5 +1,5 @@
 ---
-title: "Timing and synchrony of birth in Eurasian lynx across Europe"
+title: "3VV7YN3A"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3VV7YN3A" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2040364" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3VV7YN3A" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-3VV7YN3A" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3VV7YN3A" class="csl-bib-button">Contributors</a>
+    <a href="https://repozitorij.uni-lj.si/Dokument.php?id=159014&amp;dn=" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3VV7YN3A"></div>
 </article>
 <div id="csl-bib-meta-3VV7YN3A" class="csl-bib-meta">
-  <article id="abstract-article-3VV7YN3A" class="abstract-article">
-    <h1>Abstract</h1>
-    The ecology and evolution of reproductive timing and synchrony have been a topic of great interest in evolutionary ecology for decades. Originally motivated by questions related to behavioral and reproductive adaptation to environmental conditions, the topic has acquired new relevance in the face of climate change. However, there has been relatively little research on reproductive phenology in mammalian carnivores. The Eurasian lynx ( Lynx lynx ) occurs across the Eurasian continent, covering three of the four main climate regions of the world. Thus, their distribution includes a large variation in climatic conditions, making it an ideal species to explore reproductive phenology. Here, we used data on multiple reproductive events from 169 lynx females across Europe. Mean birth date was May 28 (April 23 to July 1), but was ~10 days later in northern Europe than in central and southern Europe. Birth dates were relatively synchronized across Europe, but more so in the north than in the south. Timing of birth was delayed by colder May temperatures. Severe and cold weather may affect neonatal survival via hypothermia and avoiding inclement weather early in the season may select against early births, especially at northern latitudes. Overall, only about half of the kittens born survived until onset of winter but whether kittens were born relatively late or early did not affect kitten survival. Lynx are strict seasonal breeders but still show a degree of flexibility to adapt the timing of birth to surrounding environmental conditions. We argue that lynx give birth later when exposed to colder spring temperatures and have more synchronized births when the window of favorable conditions for raising kittens is shorter. This suggests that lynx are well adapted to different environmental conditions, from dry and warm climates to alpine, boreal, and arctic climates. This variation in reproductive timing will be favorable in times of climate change, as organisms with high plasticity are more likely to adjust to new environmental conditions.
-  </article>
   <article id="contributors-article-3VV7YN3A" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

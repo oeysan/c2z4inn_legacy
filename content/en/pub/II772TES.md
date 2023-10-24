@@ -1,5 +1,5 @@
 ---
-title: "Teaching in Diverse Lower and Upper Secondary Schools in Norway: The Missing Links in Student Teachers’ Experiences"
+title: "II772TES"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-II772TES" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2144675" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/II772TES" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-II772TES" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-II772TES" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-II772TES" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.mdpi.com/2227-7102/13/4/420/pdf?version=1681985374" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-II772TES"></div>
 </article>
 <div id="csl-bib-meta-II772TES" class="csl-bib-meta">
-  <article id="abstract-article-II772TES" class="abstract-article">
-    <h1>Abstract</h1>
-    Teacher education programs must be able to prepare student teachers to work effectively with heterogeneous groups of students in ways that support the learning of all students and affirm their identities within growing neoliberal and neoconservative discourses. In Norway, classroom composition has also become more diverse, primarily due to a higher number of students of a transnational background. This paper explores student teachers’ experiences of preparation for the changing nature of the teaching profession that is informed by increased student diversity. A case study with four student teachers from a teacher education program at a Norwegian institution of higher education is employed to gain rich insight into the students’ perceptions and experiences. The findings illustrate a need for better preparation on the part of the program in relation to teaching content and methods, the practicum experience, and intercultural training from a pedagogical perspective.
-  </article>
   <article id="contributors-article-II772TES" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,13 +59,13 @@ Room 2P322
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

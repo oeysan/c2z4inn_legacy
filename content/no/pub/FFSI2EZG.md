@@ -1,5 +1,5 @@
 ---
-title: "Nurses’ and occupational therapists’ experiences of conducting a home-based psychosocial intervention following stroke: a qualitative process evaluation"
+title: "FFSI2EZG"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FFSI2EZG" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1925249" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/FFSI2EZG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-FFSI2EZG" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FFSI2EZG" class="csl-bib-button">Medverkande</a>
+    <a href="https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-021-06857-8" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-FFSI2EZG"></div>
 </article>
 <div id="csl-bib-meta-FFSI2EZG" class="csl-bib-meta">
-  <article id="abstract-article-FFSI2EZG" class="abstract-article">
-    <h1>Samandrag</h1>
-    BackgroundPersons with stroke are susceptible to psychosocial problems, and express disappointment at how health care professionals fail to meet their psychosocial needs following discharge to home. The responsibility of nurses and occupational therapists in stroke rehabilitation is to assist the persons and their families during the recovery and adjustment process. A home-based dialogical intervention aiming to enhance psychosocial support was therefore developed and tested in a randomized controlled trial. This study is a part of the process evaluation conducted alongside the trial. The aim was to explore the nurses’ and occupational therapists’ experiences of conducting the intervention. MethodsEighteen nurses and four occupational therapists participated in six focus groups to explore their experiences when providing the intervention. The themes discussed in the focus groups were the aspects that facilitated the delivering of the intervention and the challenges they encountered during the study period. The interviews were analysed using qualitative content analysis. Results The analysis generated two themes. The theme Developing a supportive relationship to facilitate the adjustment process following stroke had two subthemes: Getting personally involved and Handling challenges . This theme reveals how the nurses and occupational therapists experienced their relationship with the persons with stroke and potential threats which challenged them while conducting the intervention. The theme Developing professional skills in providing psychosocial support had two subthemes: Becoming confident in conducting dialogues and Integrating psychosocial topics . This theme reveals the aspects that the nurses and occupational therapists perceived as facilitating the development of their professional skills in conducting the dialogues. ConclusionDelivering the psychosocial intervention was perceived as deeply meaningful and increased the nurses’ and occupational therapists’ understanding of how to support stroke survivors to live with the consequences of stroke. However, balancing the professional and the personal relationship was challenging. A basic educational programme, training, supervision and having dedicated time were crucial elements to instil confidence in professionals conducting theme-based dialogues to promote post-stroke psychosocial well-being. Individual clinical experience and knowledge of stroke care were considering important to enable professionals to integrate psychosocial rehabilitation into community health care. Trial registration ClinicalTrials.gov, NCT 02338869 , registered 10/04/2014.
-  </article>
   <article id="contributors-article-FFSI2EZG" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

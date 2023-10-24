@@ -1,5 +1,5 @@
 ---
-title: "The importance of formal grammar skills: Reflections on Polish students learning Norwegian"
+title: "CDYZGASB"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CDYZGASB" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1666122" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/CDYZGASB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-CDYZGASB" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CDYZGASB" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-CDYZGASB" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://czasopisma.bg.ug.edu.pl/index.php/beyond/article/download/2086/1911" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-CDYZGASB"></div>
 </article>
 <div id="csl-bib-meta-CDYZGASB" class="csl-bib-meta">
-  <article id="abstract-article-CDYZGASB" class="abstract-article">
-    <h1>Samandrag</h1>
-    Norwegian and Scandinavian languages in general have grown quite popular among Polish students in recent years and more and more Polish universities are trying to offer Bachelor’s and even Master’s programmes in a Scandinavian language. Based on experience as a teacher of a Norwegian grammar course at the University of Szczecin and as a teacher of grammar at the Inland Norway University of Applied Sciences which in 2016/2017 hosted around twenty Erasmus+ students from Szczecin, some of the challenges for Polish students of academic Norwegian will be reflected upon, as well as some of the challenges for a teacher of Norwegian who has very little knowledge of Polish. The main purpose of this paper will be to argue for the importance of grammar skills in language education and especially in language teacher education. This study is a contribution to the Educational Role of Language network.
-  </article>
   <article id="contributors-article-CDYZGASB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -67,7 +63,7 @@ Rom 2C256-7
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

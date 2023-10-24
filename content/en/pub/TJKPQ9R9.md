@@ -1,5 +1,5 @@
 ---
-title: "A simple subtraction method for the isolation of cell-specific genes using magnetic monodisperse polymer particles"
+title: "TJKPQ9R9"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TJKPQ9R9" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1914017" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TJKPQ9R9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://www.future-science.com/doi/pdf/10.2144/btn-2019-0162" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TJKPQ9R9"></div>
 </article>

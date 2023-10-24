@@ -1,5 +1,5 @@
 ---
-title: "Climate variability indices for ecological and crop models in R: the climatrends package"
+title: "DG5K6ZX4"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DG5K6ZX4" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2146299" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/DG5K6ZX4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-DG5K6ZX4" class="csl-bib-button">Medverkande</a>
+    <a href="https://joss.theoj.org/papers/10.21105/joss.04405.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-DG5K6ZX4"></div>
 </article>

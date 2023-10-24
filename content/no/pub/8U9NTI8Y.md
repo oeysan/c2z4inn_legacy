@@ -1,5 +1,5 @@
 ---
-title: "Professional Competence Among Registered Nurses Working in Hospitals in Saudi Arabia and Their Experiences of Quality of Nursing Care and Patient Safety"
+title: "8U9NTI8Y"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8U9NTI8Y" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1905837" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/8U9NTI8Y" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-8U9NTI8Y" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-8U9NTI8Y" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/1043659621992845" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-8U9NTI8Y"></div>
 </article>
 <div id="csl-bib-meta-8U9NTI8Y" class="csl-bib-meta">
-  <article id="abstract-article-8U9NTI8Y" class="abstract-article">
-    <h1>Samandrag</h1>
-    Introduction:The Kingdom of Saudi Arabia (KSA) plans to become self-sufficient, generating a national nursing workforce. The study’s purpose was to assess nurses’ self-reported professional competence and illuminate experiences of the quality of nursing care and patient safety. Methodology:A cross-sectional design with 469 nurses working in different units from two public hospitals and Regions of the KSA participated. The Nurse Professional Competence Scale short version including six professional areas of nursing care was used. Results:There are significant relationships between self-reported professional competence and the quality of nursing care, patient safety, nurse’s characteristics, and workplace. Discussion:Registered nurses’ professional competence is related to the clinical areas in which they work and the nature of their involvement in patient care. The Nurse Professional Competence Scale can identify professional competence areas for further development, which is important for culturally congruent health care in KSA for their transformation process.
-  </article>
   <article id="contributors-article-8U9NTI8Y" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

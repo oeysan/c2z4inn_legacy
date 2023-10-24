@@ -1,5 +1,5 @@
 ---
-title: "Sidespor"
+title: "CDW8GC4Y"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CDW8GC4Y" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2119272" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/CDW8GC4Y" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CDW8GC4Y" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.18261/nmt.29.4.5" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-CDW8GC4Y"></div>
 </article>

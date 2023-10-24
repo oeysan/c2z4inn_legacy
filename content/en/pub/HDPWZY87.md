@@ -1,5 +1,5 @@
 ---
-title: "Asymmetric effect of environmental cost of forest rents in the Guinean forest-savanna mosaic: The Nigerian experience"
+title: "HDPWZY87"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HDPWZY87" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2129541" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HDPWZY87" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-HDPWZY87" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HDPWZY87" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/s11356-023-25653-x" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-HDPWZY87"></div>
 </article>
 <div id="csl-bib-meta-HDPWZY87" class="csl-bib-meta">
-  <article id="abstract-article-HDPWZY87" class="abstract-article">
-    <h1>Abstract</h1>
-    Several studies have identified deforestation as a major cause of environmental degradation, but little is known about the asymmetric effect of the environmental cost of forest rents. To fill this gap, our study uses the nonlinear autoregressive distributed lag (NARDL) model and asymmetric causality test to examine the environmental implication of forest rents in the Guinean Forest-Savanna Mosaic of Nigeria over the period 1990:Q1 to 2016:Q4. The empirical results show that forest rents increase CO2 emissions when the shock to forest rents is positive and decreases CO2 emissions when the shock to forest rents is negative. The results further show evidence of asymmetric effects of crop production, fossil fuel energy consumption, and economic growth on CO2 emissions. Moreover, the effects of both positive and negative shocks in economic growth are elastic, suggesting that CO2 emissions respond in a larger magnitude to a 1% positive or negative shock in economic growth. While the positive shock to crop production and economic growth stimulates CO2 emissions, their negative shocks dampen CO2 emissions. In addition, the positive (negative) shocks to fossil energy consumption exert upward (downward) pressure on CO2 emissions. Furthermore, the asymmetric causality test divulges that a positive change in forest rents causes a negative change in CO2 emissions and a negative change in forest rents causes a positive change in CO2 emissions. Based on these findings, the study recommends the need for policymakers to formulate sound policies to protect the forests and transit toward clean energy consumption to minimize energy-related CO2 emissions in the country.
-  </article>
   <article id="contributors-article-HDPWZY87" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

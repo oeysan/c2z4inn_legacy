@@ -1,5 +1,5 @@
 ---
-title: "Transcriptome profiling of porcine testis tissue reveals genes related to sperm hyperactive motility"
+title: "L53UQYQ8"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-L53UQYQ8" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1813433" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/L53UQYQ8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-L53UQYQ8" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-L53UQYQ8" class="csl-bib-button">Contributors</a>
+    <a href="https://bmcvetres.biomedcentral.com/track/pdf/10.1186/s12917-020-02373-9" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-L53UQYQ8"></div>
 </article>
 <div id="csl-bib-meta-L53UQYQ8" class="csl-bib-meta">
-  <article id="abstract-article-L53UQYQ8" class="abstract-article">
-    <h1>Abstract</h1>
-    BackgroundSperm hyperactive motility has previously been shown to influence litter size in pigs, but little is known about the underlying biological mechanisms. The aim of this study was to use RNA sequencing to investigate gene expression differences in testis tissue from Landrace and Duroc boars with high and low levels of sperm hyperactive motility. Boars with divergent phenotypes were selected based on their sperm hyperactivity values at the day of ejaculation (day 0) (contrasts (i) and (ii) for Landrace and Duroc, respectively) and on their change in hyperactivity between day 0 and after 96 h liquid storage at 18 °C (contrast (iii)). Results RNA sequencing was used to measure gene expression in testis. In Landrace boars, 3219 genes were differentially expressed for contrast (i), whereas 102 genes were differentially expressed for contrast (iii). Forty-one differentially expressed genes were identified in both contrasts, suggesting a functional role of these genes in hyperactivity regardless of storage. Zinc finger DNLZ was the most up-regulated gene in contrasts (i) and (iii), whereas the most significant differentially expressed gene for the two contrasts were ADP ribosylation factor ARFGAP1 and solute carrier SLC40A1 , respectively. For Duroc (contrast (ii)), the clustering of boars based on their gene expression data did not reflect their difference in sperm hyperactivity phenotypes. No results were therefore obtained for this breed. A case-control analysis of variants identified in the Landrace RNA sequencing data showed that SNPs in NEU3 , CHRDL2 and HMCN1 might be important for sperm hyperactivity. ConclusionsDifferentially expressed genes were identified in Landrace boars with high and low levels of sperm hyperactivity at the day of ejaculate collection and high and low change in hyperactivity after 96 h of sperm storage. The results point towards important candidate genes, biochemical pathways and sequence variants underlying sperm hyperactivity in pigs.
-  </article>
   <article id="contributors-article-L53UQYQ8" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

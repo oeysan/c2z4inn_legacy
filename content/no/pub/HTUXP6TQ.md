@@ -1,5 +1,5 @@
 ---
-title: "Perceived risk sources and strategies to cope with risk among forest owners with and without off-property work in eastern Norway"
+title: "HTUXP6TQ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HTUXP6TQ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1585472" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HTUXP6TQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-HTUXP6TQ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HTUXP6TQ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-HTUXP6TQ" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/02827580701553701" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-HTUXP6TQ"></div>
 </article>
 <div id="csl-bib-meta-HTUXP6TQ" class="csl-bib-meta">
-  <article id="abstract-article-HTUXP6TQ" class="abstract-article">
-    <h1>Samandrag</h1>
-    This paper presents empirical insight into part-time and full-time property owners’ perceptions of risk and risk management strategies. In addition, the relationships between forest owners with varying degree of off-property work and property and forest owner characteristics, risk perceptions, risk management strategies and harvesting behaviour are examined. The data originate from a questionnaire responded to by forest owners in eastern Norway which were merged with 9 years of logging data. Timber price variability and institutional risks were perceived as primary sources of risk. Use of advisers from the forest owners’ association, buying personal insurance and off-property work were perceived as the most important ways to handle risk. The results show that off-property work affects to a lesser degree what forest owners perceived as important risk sources, but that risk perceptions affect to a stronger degree the ways in which risk was dealt with. The chosen risk management strategies influenced the forest owner's harvesting behaviour to some extent, but more research on the issue is needed to clarify the relationship. There was a positive relationship between owners with off-property activities and their performance as timber suppliers. Several measures, such as improved rural education, revision of some of the arrangements that regulate property mergers and support measures for increased on-property diversification may increase annual timber harvesting and reduce variability in harvesting level.
-  </article>
   <article id="contributors-article-HTUXP6TQ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -91,7 +87,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

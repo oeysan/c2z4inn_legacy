@@ -1,5 +1,5 @@
 ---
-title: "History of Sport, Exercise, and Performance Psychology in Europe"
+title: "ARKVMIAG"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,38 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ARKVMIAG" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1565239" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ARKVMIAG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ARKVMIAG" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ARKVMIAG" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1093/acrefore/9780190236557.013.135" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-ARKVMIAG"></div>
 </article>
 <div id="csl-bib-meta-ARKVMIAG" class="csl-bib-meta">
-  <article id="abstract-article-ARKVMIAG" class="abstract-article">
-    <h1>Samandrag</h1>
-    The evolution in sport, exercise, and performance psychology in Europe goes back to the 
-1800s and spread from the east (Germany and Russia) to the west of the continent 
-(France). Modern European sport psychology theorizing started with Wilhelm Wundt, 
-who studied reaction times and mental processes in 1879, and Philippe Tissié, who wrote 
-about psychological changes during cycling in 1894. However, Pierre de Coubertin was 
-the one to put forward the first definition and promotion of sport psychology as a field of 
-science. From there on, and despite obstacles and delays due to two world wars in 
-Europe, sport psychology accelerated and caught up with North America. Looking back to 
-the history of our disciplines, while sport, exercise, and performance psychology evolved 
-and developed as distinct disciplines in Europe, sport and exercise psychology research 
-appear to be stronger than performance psychology. The research advancements in sport 
-and exercise psychology led to the establishment of the European sport psychology 
-organization (FEPSAC) in the 1960s, as researchers needed an umbrella establishment 
-that would accept the cultural and linguistic borders within the continent. From there on, 
-education programs developed throughout Europe, and a cross-continent program of 
-study with the collaboration of 12 academic institutions and the support of the European 
-Commission was launched in the late 1990s. Applied sport psychology was practiced in 
-the Soviet Union aiming to enhance the performance of their teams in the 1952 Olympics. 
-Unfortunately, in many countries across Europe, research and practice are not 
-comprehensively integrated to enhance sports and sportspersons, and while applied 
-practice has room to grow, it also has challenges to tackle.
-  </article>
   <article id="contributors-article-ARKVMIAG" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

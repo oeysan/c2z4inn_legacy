@@ -1,5 +1,5 @@
 ---
-title: "Day versus night use of forest by red and roe deer as determined by Corine Land Cover and Copernicus Tree Cover Density: assessing use of geographic layers in movement ecology"
+title: "JBKGBCW7"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JBKGBCW7" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2027226" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JBKGBCW7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JBKGBCW7" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JBKGBCW7" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-JBKGBCW7" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s10980-022-01416-w.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JBKGBCW7"></div>
 </article>
 <div id="csl-bib-meta-JBKGBCW7" class="csl-bib-meta">
-  <article id="abstract-article-JBKGBCW7" class="abstract-article">
-    <h1>Abstract</h1>
-    ContextDiel use of forest and open habitats by large herbivores is linked to species-specific needs of multiple and heterogeneous resources. However, forest cover layers might deviate considerably for a given landscape, potentially affecting evaluations of animals’ habitat use. ObjectivesWe assessed inconsistency in the estimates of diel forest use by red and roe deer at GPS location and home range (HR) levels, using two geographic layers: Tree Cover Density (TCD) and Corine Land Cover (CLC). MethodsWe first measured the classification mismatch of red and roe deer GPS locations between TCD and CLC, also with respect to habitat units’ size. Then, we used Generalised Least Squares models to assess the proportional use of forest at day and night at the GPS location and HR levels, both with TCD and CLC. ResultsAbout 20% of the GPS locations were inconsistently classified as forest or open habitat by the two layers, particularly within smaller habitat units. Overall proportion of forest and open habitat, though, was very similar for both layers. In all populations, both deer species used forest more at day than at night and this pattern was more evident with TCD than with CLC. However, at the HR level, forest use estimates were only marginally different between the two layers. ConclusionsWhen estimating animal habitat use, geographic layer choice requires careful evaluation with respect to ecological questions and target species. Habitat use analyses based on GPS locations are more sensitive to layer choice than those based on home ranges.
-  </article>
   <article id="contributors-article-JBKGBCW7" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -62,7 +58,7 @@ Campus Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

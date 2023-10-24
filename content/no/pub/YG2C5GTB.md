@@ -1,5 +1,5 @@
 ---
-title: "På leting etter en gammel suksesshistorie"
+title: "YG2C5GTB"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,17 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YG2C5GTB" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1461467" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YG2C5GTB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-YG2C5GTB" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://www.idunn.no/file/pdf/66945370/paa_leting_etter_en_gammel_suksesshistorie.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-YG2C5GTB"></div>
 </article>
 <div id="csl-bib-meta-YG2C5GTB" class="csl-bib-meta">
-  <article id="abstract-article-YG2C5GTB" class="abstract-article">
-    <h1>Samandrag</h1>
-    En av de viktigste kildene til tidlig norsk film- og kinohistorie er overrettssakfører Jens Chr. Gundersens arkiv fra 1906 til 1927. Arkivet som består av 73 protokoller og 17674 dokumentsider omhandler pioner- og stumfilmtiden i Norge. Gundersen var kinoeieren, filmimportøren og filmdistributøren som regisserte Dæmonen i 1911, og som forble en dominerende kinoeier i Oslo fram til kommunaliseringa i 1926. Da ble han Oslo kommunale kinematografers første direktør. Gundersen-arkivet er stort og uoversiktlig, men -forskingsprosjektet SIFTI har gjort en foreløpig systematisering som kan bidra til tilgjengeliggjøring av kilder som kan utdype, presisere, nyansere og perspektivere noe av det som tidligere er skrevet om gründer- og pionertida i Norge. Artikkelens siste del tar for seg -Gundersens private kinodrift fra 1906–1926
-  </article>
   <article id="taxonomy-article-YG2C5GTB" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>

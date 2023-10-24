@@ -1,5 +1,5 @@
 ---
-title: "Skoleutviklingens ontologi - hva er det som virkelig skjer, kan eller bør skje?"
+title: "P69YDNL2"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-P69YDNL2" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2119733" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/P69YDNL2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-P69YDNL2" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-P69YDNL2"></div>

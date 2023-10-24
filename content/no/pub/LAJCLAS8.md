@@ -1,5 +1,5 @@
 ---
-title: "When singing strengthens the capacity to aspire: girls’ reflexivity in rural Bangladesh"
+title: "LAJCLAS8"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LAJCLAS8" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2038501" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LAJCLAS8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-LAJCLAS8" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LAJCLAS8" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-LAJCLAS8" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/14767430.2022.2095110?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LAJCLAS8"></div>
 </article>
 <div id="csl-bib-meta-LAJCLAS8" class="csl-bib-meta">
-  <article id="abstract-article-LAJCLAS8" class="abstract-article">
-    <h1>Samandrag</h1>
-    In the present paper, we explore the impact of singing for girls in rural Bangladesh. Previous findings in this field-based interview study (with 18 girls) have demonstrated that singing can act as a driving force in young girls’ psychological individuation processes, implying increased agency and autonomy. A critical question, however, is to what extent the village girls will manage to maintain a feeling of agency as they pass through puberty. How do they navigate between their own wish to continue singing and pressure from cultural norms (such as getting married)? Using Margareth Archer’s morphogenetic approach and Arjun Appadurai’s approach to culture as a capacity as analytical tools, we connect different modes of reflexivity to the girls’ capacity to aspire. We discuss specific mechanisms that emerge as relevant for the girls/young women as they navigate their way through the Bengali rural society.
-  </article>
   <article id="contributors-article-LAJCLAS8" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -60,7 +56,7 @@ Rom 2M11-1
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

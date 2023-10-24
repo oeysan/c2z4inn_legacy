@@ -1,5 +1,5 @@
 ---
-title: "Integration and language education in Norwegian immigration policy documents 1980–2016"
+title: "79ZYEQ7T"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-79ZYEQ7T" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1525507" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/79ZYEQ7T" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-79ZYEQ7T" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-79ZYEQ7T" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-79ZYEQ7T" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://apples.jyu.fi/ArticleFile/download/918" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-79ZYEQ7T"></div>
 </article>
 <div id="csl-bib-meta-79ZYEQ7T" class="csl-bib-meta">
-  <article id="abstract-article-79ZYEQ7T" class="abstract-article">
-    <h1>Abstract</h1>
-    During the last decade, Norway has had one of the fastest growing populations in Europe, due to labor immigration and to an increasing number of asylum seekers. More than 16% of the population now has an immigrant family background. In 2015, an agreement across party lines tightened the asylum rules, and Norway got its first Minister dedicated only to immigration and integration. A new immigration policy was introduced to ‘ensure the Norwegian welfare state’ as the Minister expressed herself. The immigrants’ own responsibilities ‘to get integrated’ are stressed, and from 2016 a certain level of competence in Norwegian and knowledge about Norway are required to be granted residence permit. On the backdrop of these recent changes, the article analyzes six white papers on immigration policy 1980–2016. In focus are changes in the understandings of ‘integration’ and how ‘integration’ and language educational policy for adults, kindergarten, and compulsory school are dealt with. The analysis shows that a short-term perspective on integration is taken in the white papers published in 1980, 1988 and 2016, while the three policy documents in between are concerned with long-term integration. The 2016 document distinguishes itself from the other because integration as a two-way process is seldom commented upon. All the papers stress the importance of competence in Norwegian while discussions of mother tongue teaching are most frequently mentioned in 1980. Documents which center on long-term integration stress words like ‘inclusion’, ‘multicultural Norway’ and ‘diversity’.
-  </article>
   <article id="contributors-article-79ZYEQ7T" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -66,7 +62,7 @@ Room 2B234B
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

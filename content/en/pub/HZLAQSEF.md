@@ -1,5 +1,5 @@
 ---
-title: "Likestillingsintegrering i kvinnedominerte sektorer– horisontale styringsutfordringer"
+title: "HZLAQSEF"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HZLAQSEF" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1589424" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HZLAQSEF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HZLAQSEF" class="csl-bib-button">Contributors</a>
+    <a href="https://www.idunn.no/file/pdf/67056144/likestillingsintegrering_i_kvinnedominerte_sektorer_horis.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-HZLAQSEF"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "Fostering learning organisation in transitional economy – the role of authentic leadership and employee affective commitment"
+title: "WRFAD5NK"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,33 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WRFAD5NK" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1498042" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WRFAD5NK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-WRFAD5NK" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WRFAD5NK" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-WRFAD5NK" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/IJQSS-02-2017-0012" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-WRFAD5NK"></div>
 </article>
 <div id="csl-bib-meta-WRFAD5NK" class="csl-bib-meta">
-  <article id="abstract-article-WRFAD5NK" class="abstract-article">
-    <h1>Samandrag</h1>
-    Purpose 
- 
-The aim of this study is to examine how and in what way authentic leadership and affective employee commitment foster the learning organisation in the context of transitional market conditions. Acting as role factors, their relationships with the learning organisation were examined simultaneously, at leadership and employee level. 
-Design/methodology/approach 
- 
-The study was conducted on a sample of 500 employees from various industries of Serbian transitional economy. For the research purposes, structural equation modeling (SEM) methodology was used. 
-Findings 
- 
-The findings reveal that authentic leadership and employee commitment both play an important role. Specifically, authentic leadership directly and indirectly affects the learning organisation. The indirect effect is partially mediated by the employee affective commitment. 
-Research limitations/implications 
- 
-The focus of this study is limited to the role of authentic leadership in fostering the learning organisation. Apart from leadership and employee commitment, it might be assumed that other variables have the potential to play a role in fostering the learning organisation as well. 
-Originality value 
- 
-To the best of the authors’ knowledge, no previous study has focused on authentic leadership and employee commitment as an “enabling-mechanism” in fostering learning organisations in the context of transitional economies. Consequently, this paper provides theoretical and practical implications on how and in what way they impact a learning organisation by empirically studying them in the context of transitional market conditions.
-  </article>
   <article id="contributors-article-WRFAD5NK" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -75,7 +57,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

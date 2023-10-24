@@ -1,5 +1,5 @@
 ---
-title: "Response of Warm Season Turf Grasses to Combined Cold and Salinity Stress under Foliar Applying Organic and Inorganic Amendments"
+title: "I77QYLLR"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-I77QYLLR" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2101938" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/I77QYLLR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-I77QYLLR" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-I77QYLLR" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-I77QYLLR" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.mdpi.com/2311-7524/9/1/49/pdf?version=1672728543" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-I77QYLLR"></div>
 </article>
 <div id="csl-bib-meta-I77QYLLR" class="csl-bib-meta">
-  <article id="abstract-article-I77QYLLR" class="abstract-article">
-    <h1>Abstract</h1>
-    Turfgrasses are considered an important part of the landscape and ecological system of golf courses, sports fields, parks, and home lawns. Turfgrass species are affected by many abiotic stresses (e.g., drought, salinity, cold, heat, waterlogging, and heavy metals) and biotic stresses (mainly diseases and pests). In the current study, seashore paspalum (Paspalum vaginatum Sw.) and Tifway bermudagrass (Cynodon transvaalensis Burtt Davy × C. Dactylon) were selected because they are popular turfgrasses frequently used for outdoor lawns and sport fields. The effect of the combined stress from both soil salinity and cold on these warm season grasses was investigated. Some selected organic and inorganic amendments (i.e., humic acid, ferrous sulphate, and silicon) were applied as foliar sprays five times during the winter season from late October to March. This was repeated over two years in field trials involving salt-affected soils. The physiological and chemical parameters of the plants, including plant height; fresh and dry weight per plot; total chlorophyll content; and nitrogen, phosphorus, iron, and potassium content, were measured. The results showed that all the studied amendments improved the growth of seashore paspalum and Tifway bermudagrass during this period compared to the control, with a greater improvement observed when using ferrous sulphate and humic acid compared to silicon. For seashore paspalum, the highest chlorophyll content in April was recorded after the application of ferrous sulphate at a level of 1000 ppm. The current research indicates that when grown on salt-affected soils, these amendments can be used in warm-season grasses to maintain turf quality during cold periods of the year. Further research is needed to examine any negative long-term effects of these amendments and to explain their mechanisms.
-  </article>
   <article id="contributors-article-I77QYLLR" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Campus Blæstad
     <div class="sdg-container"><div id="sdg14" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg14_en.png" class="image" alt="SDG 14">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>41</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=14#archive" class="sdg-publication-count"><span>42</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal14" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

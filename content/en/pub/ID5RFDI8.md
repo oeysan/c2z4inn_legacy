@@ -1,5 +1,5 @@
 ---
-title: "Let's talk and share! Refugees and migrants building social inclusion and wellbeing through digital stories and online learning resources"
+title: "ID5RFDI8"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ID5RFDI8" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1773532" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ID5RFDI8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ID5RFDI8" class="csl-bib-button">Contributors</a>
+    <a href="https://figshare.com/articles/journal_contribution/Let_s_talk_and_share_Refugees_and_migrants_building_social_inclusion_and_wellbeing_through_digital_stories_and_online_learning_resources/21974111/2/files/39019364.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ID5RFDI8"></div>
 </article>

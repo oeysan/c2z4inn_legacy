@@ -1,5 +1,5 @@
 ---
-title: "”Snakke med ved? Snakke med maskin?” Voksne flyktningers narrativer om norskopplæring"
+title: "PC7LCW9B"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PC7LCW9B" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1617750" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PC7LCW9B" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-PC7LCW9B" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PC7LCW9B" class="csl-bib-button">Contributors</a>
+    <a href="https://journals.uio.no/adno/article/download/5916/5465" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PC7LCW9B"></div>
 </article>
 <div id="csl-bib-meta-PC7LCW9B" class="csl-bib-meta">
-  <article id="abstract-article-PC7LCW9B" class="abstract-article">
-    <h1>Abstract</h1>
-    I denne artikkelen har vi en talerfokusert tilnærming til det å lære språk i voksen alder. Målet vårt er å svare på en oppfordring fra flere forskere om at taleres egne erfaringer med og perspektiver på språkinnlæring bør komme fram i andrespråksforskningen. Fokuset vårt er rettet mot en gruppe voksne flyktninger fra Den demokratiske republikken Kongo, og vi ser på hvordan de opplevde den norskopplæringen de fikk som nyankomne til Norge. Et kjennetegn ved disse personene er at de er svært flerspråklige; de hadde allerede bred erfaring med å lære nye språk da de begynte å lære norsk. Vi har studert et utvalg narrativer der de forteller om sine erfaringer fra norskopplæring. Temaene for narrativene er kartlegging for kursplassering, lærernes kvalifikasjoner, antall timer per kurs og norskpraksis på arbeidsplass. Deltakerne stiller seg kritiske til flere aspekter ved den opplæringen de fikk. De fremstår som selvsikre språkinnlærere og framforhandler ulike identiteter. Narrativene gir et innblikk i disse personenes verden, deres egne behov og refleksjoner rundt norskopplæring for flyktninger. De minner oss på det mangfoldet av opplevelser som finnes blant målgruppen for andrespråksopplæring.Nøkkelord: narrativer, norsk som andrespråk, talerfokuserte tilnærminger, identitet, voksne flyktninger“Talk to the wood? Talk to the machine?”Adult refugees’ narratives from Norwegian classesAbstractIn this article, we have a speaker-centered approach to adult additional language learning. Our aim is to answer the call from several researchers to take learners’ own perspectives and experiences into account in research on learning. Our focus is on how a group of adult refugees from the Democratic republic of Congo experienced the language program they attended when they arrived in Norway. A characteristic of the participants is that they are extremely multilingual, and had already extensive language learning experience when they started to learn Norwegian. Our data are narratives where they tell about their experiences from Norwegian classes. The topics of the narratives are assessment, teacher qualifications, number of teaching hours and language internships at workplaces. The participants express criticism towards several aspects of the programs they attended. They seem to be self-confident language learners and negotiate different identities. The narratives give us an insight into their worlds, needs and reflections on education for refugees. They remind us of the multitude of experiences that exist among members of the target group of language education programs.Keywords: narratives, additional language learning, speaker-centered approaches, identity, adult refugees
-  </article>
   <article id="contributors-article-PC7LCW9B" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

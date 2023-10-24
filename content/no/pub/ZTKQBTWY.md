@@ -14,6 +14,7 @@ type: pub
     <a href="#abstract-article-ZTKQBTWY" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-ZTKQBTWY" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-ZTKQBTWY" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.1080/10494820.2023.2186896" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ZTKQBTWY"></div>
 </article>
@@ -130,7 +131,7 @@ Rom 4L3221
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

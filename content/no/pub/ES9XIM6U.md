@@ -1,5 +1,5 @@
 ---
-title: "Statistics and psychometrics for the CAT-N: Documenting the Comprehensive Aphasia Test for Norwegian"
+title: "ES9XIM6U"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,39 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ES9XIM6U" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2147166" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ES9XIM6U" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ES9XIM6U" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ES9XIM6U" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-ES9XIM6U" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/02687038.2023.2200132?needAccess=true&amp;role=button" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ES9XIM6U"></div>
 </article>
 <div id="csl-bib-meta-ES9XIM6U" class="csl-bib-meta">
-  <article id="abstract-article-ES9XIM6U" class="abstract-article">
-    <h1>Samandrag</h1>
-    Background 
- 
-Ivanova and Hallowell 2013 emphasise the importance of reporting on test development and psychometric properties of tests in international journals. Such documentation may serve as references for other test developers and enable researchers and clinicians to assess reliability and validity issues in tests made for a language unknown to them. 
- 
-The CAT (Comprehensive Aphasia Test) is a general aphasia test which examines linguistic skills broadly, within the cognitive neuropsychological tradition; it has been and is being adapted to a number of languages. 
- 
-Aims 
- 
-The aim of this article is to document the statistical procedures used in the development and standardisation of the Norwegian adaptation of the CAT (CAT-N), to document its psychometric properties, and to discuss validity and reliability issues. 
- 
-Methods &amp; procedures 
- 
-The adaptation of the CAT-N involved careful design of subtests and test items, taking into account features like word frequency, imageability and phonological and other language-specific linguistic variables. The prototype was tested on a normative sample of 85 persons with aphasia and a control group of 84 persons without aphasia. The items of some subtests were reordered based on the norming. A new scoring scheme was developed for two subtests of Picture description. The CAT-N includes the Aphasia Impact Questionnaire (AIQ), which is a new patient reported outcome measure developed for the CAT. 
- 
-Outcomes &amp; Results 
- 
-Statistical methods are documented and discussed. Descriptive statistics for subtests and linguistic domains are presented. Internal consistency and partial inter-rater and intra-rater reliability aspects are investigated and documented. Construct validity is investigated and documented by factor analysis. Sensitivity and specificity are investigated through pairwise comparisons for subtests and domains and the use of normal-language cutoff values. Concurrent validity is investigated through comparisons with results from an existing aphasia test for Norwegian (NBAA). 
- 
-Conclusions 
- 
-The CAT-N is shown to have good reliability and validity, and it distinguishes well between persons with and without aphasia. The article provides explicit documentation of design decisions which may be useful in future adaptations of the CAT.
-  </article>
   <article id="contributors-article-ES9XIM6U" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -83,7 +59,7 @@ Rom 2C262-9
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

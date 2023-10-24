@@ -1,5 +1,5 @@
 ---
-title: "Adolescent girls’ experiences of urban dance programmes: a qualitative analysis of Flemish initiatives targeting disadvantaged youth"
+title: "DLFQ8TD5"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,38 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DLFQ8TD5" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1471428" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/DLFQ8TD5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-DLFQ8TD5" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-DLFQ8TD5" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-DLFQ8TD5" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/16138171.2017.1284380" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-DLFQ8TD5"></div>
 </article>
 <div id="csl-bib-meta-DLFQ8TD5" class="csl-bib-meta">
-  <article id="abstract-article-DLFQ8TD5" class="abstract-article">
-    <h1>Abstract</h1>
-    A study on urban dance initiatives for disadvantaged girls in 
-Flanders (Belgium) was set up, as there is little insight into the 
-underlying social mechanisms that allow developmental benefits 
-to occur for this group. A fieldwork approach, including observations 
-at three dance sites and interviews with 25 participants, 
-resulted in four main findings. First, the access to the programmes 
-is a necessary but not a sufficient condition to foster developmental 
-outcomes. Second, the participants described benefits across 
-four main areas including sport-related skills, positive identity, 
-social competencies and positive values. Third, there are various 
-social mechanisms through which significant others, including 
-adult staff and peers, can have an impact on participating youth’s 
-perceived benefits. Identified mechanisms include observational 
-learning, participants’ perceptions of coaches’ autonomy supportive 
-behaviours, a caring climate and a motivational climate. 
-Fourth, inherent characteristics of urban dance provide a context 
-for facilitating an autonomy supportive coaching climate. This 
-study adds to existing literature in the way it connects sportrelated 
-characteristics with young people’s opportunities for positive 
-youth development.
-  </article>
   <article id="contributors-article-DLFQ8TD5" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -86,7 +63,7 @@ Room 4R4142
     <div class="sdg-container"><div id="sdg13" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg13_en.png" class="image" alt="SDG 13">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>43</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=13#archive" class="sdg-publication-count"><span>45</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal13" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

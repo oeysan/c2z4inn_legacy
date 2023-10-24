@@ -1,5 +1,5 @@
 ---
-title: "Læreres bruk av spørsmål før gjennomføring av et eksperiment"
+title: "JH8YNZKI"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JH8YNZKI" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2180264" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JH8YNZKI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JH8YNZKI" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JH8YNZKI" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-JH8YNZKI"></div>
 </article>
 <div id="csl-bib-meta-JH8YNZKI" class="csl-bib-meta">
-  <article id="abstract-article-JH8YNZKI" class="abstract-article">
-    <h1>Abstract</h1>
-    This study analysed data in Norwegian classrooms in which teachers worked with the same materials and classroom activities, investigating teachers’ use of strategies to promote interaction and scaffolding when participating in a professional development program (PDP). Data material is collected from four case study teachers. In one lesson in this unit, students were involved in planning an experiment with sprouting seeds, and this (similar) lesson was videotaped in four settings. We investigated how teachers used ques-tions in different inquiry contexts to include students and recognize barriers in student understanding and language. The data analysis shows that teachers ask open, closed, influencing and orienting questions.The open, orienting questions induce students to generate their own ideas, while closed orienting and in-fluencing questions often scaffold language and understanding of science.  The study shows how teachers can use questions to scaffold pupils science literacy and thereby including them in classroom interaction.
-  </article>
   <article id="contributors-article-JH8YNZKI" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

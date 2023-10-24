@@ -1,5 +1,5 @@
 ---
-title: "Educating (for) the blossomest of blossoms: Finitude and the temporal arc of the counterfactual"
+title: "VWR6RDXY"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VWR6RDXY" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2100213" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VWR6RDXY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VWR6RDXY" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1080/00131857.2022.2159374" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VWR6RDXY"></div>
 </article>

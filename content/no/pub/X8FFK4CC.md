@@ -1,5 +1,5 @@
 ---
-title: "Mediating Mechanisms of the Incredible Years Teacher Classroom Management Program"
+title: "X8FFK4CC"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-X8FFK4CC" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1826374" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/X8FFK4CC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-X8FFK4CC" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.555442/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-X8FFK4CC"></div>
 </article>

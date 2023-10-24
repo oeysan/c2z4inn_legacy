@@ -1,5 +1,5 @@
 ---
-title: "Introduction to themed issue: Trans* policy, practice and lived experience within a European context"
+title: "L3HMR8RV"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-L3HMR8RV" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1516614" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/L3HMR8RV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-L3HMR8RV" class="csl-bib-button">Contributors</a>
+    <a href="http://eprints.hud.ac.uk/33263/1/Intro%20Transgender%20%20Editorial%20Final.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-L3HMR8RV"></div>
 </article>

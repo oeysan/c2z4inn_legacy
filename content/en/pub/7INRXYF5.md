@@ -1,5 +1,5 @@
 ---
-title: "The real options to shutdown, startup, and abandon: U.S. electricity industry evidence"
+title: "7INRXYF5"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7INRXYF5" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1476072" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7INRXYF5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-7INRXYF5" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7INRXYF5" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-7INRXYF5" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.eneco.2017.01.016" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-7INRXYF5"></div>
 </article>
 <div id="csl-bib-meta-7INRXYF5" class="csl-bib-meta">
-  <article id="abstract-article-7INRXYF5" class="abstract-article">
-    <h1>Abstract</h1>
-    The purpose of this paper is to examine empirically the partially irreversible decisions to shutdown, startup, and abandon existing production assets under cash flow uncertainty and regulatory uncertainty. We use detailed information for 1121 individual electric power generators located in the U.S. for the period 2001–2009 and find strong evidence of real options effects. We find that both profitability uncertainty and regulatory uncertainty decrease the probability of shutdown. Regulatory uncertainty also decreases the probability of startup, but we find that cash flow uncertainty increases the probability of startup, especially for large generators.
-  </article>
   <article id="contributors-article-7INRXYF5" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg7" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg07_en.png" class="image" alt="SDG 7">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>27</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=7#archive" class="sdg-publication-count"><span>27</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal7" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

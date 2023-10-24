@@ -1,5 +1,5 @@
 ---
-title: "Validation of a clinically applicable device for fast and accurate quantification of blood volume"
+title: "PAXE3LBF"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PAXE3LBF" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2159908" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PAXE3LBF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-PAXE3LBF" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PAXE3LBF" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-PAXE3LBF" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcla.24928" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PAXE3LBF"></div>
 </article>
 <div id="csl-bib-meta-PAXE3LBF" class="csl-bib-meta">
-  <article id="abstract-article-PAXE3LBF" class="abstract-article">
-    <h1>Samandrag</h1>
-    Introduction Determination of blood volume (BV) using the dual‐isotope (e.g., 99m Tc‐labeled red blood cells [ 99m Tc‐RBC] and 125 I‐labeled human serum albumin [ 125 I‐HSA]) injection method is limited in medicine due to the long isotope half‐life. However, BV has been determined in laboratory settings for 100 years using the carbon monoxide (CO)‐rebreathing‐based procedure, which allows frequent BV measurements. Methods We investigated the reliability and accuracy of a semi‐automated CO‐rebreathing device by comparing it against the dual‐isotope methodology and its ability to detect a known blood removal. In study A, BV was determined three times in ~2 h; twice using the device with rebreathing protocols lasting 2 (CO 2min ) and 10 min (CO 10min ) and once with the dual‐isotope technique. In study B, the accuracy of the device was assessed by its ability to detect a 2% removal of BV. Results A good correlation was observed between both the CO‐rebreathing protocols ( r2  = 0.89–0.98; p  &lt; 0.001) and the dual‐isotope approach ( r2  = 0.89–0.95; p  &lt; 0.001). In absolute terms BV was 425 ± 263 mL and 491 ± 388 mL lower ( p  &lt; 0.001) when quantified with the dual‐isotope compared to the CO‐rebreathing protocols. When reducing BV by 132 ± 25 mL (2%), the device quantified a lower ( p  &lt; 0.001) BV of 150 ± 45 mL. ConclusionThis study emphasizes that the semi‐automated device accurately determines small changes (i.e., 2%) in BV and that a high correlation with the dual‐isotope methodology exists. The findings are clinically relevant owing to the method's simple and fast nature (the absence of radioactive tracers and reduced time requirements, i.e., ~15 min vs. ~180 min) and the possibility for repeated measurements within a single day.
-  </article>
   <article id="contributors-article-PAXE3LBF" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -95,13 +91,13 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg12" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg12_no.png" class="image" alt="SDG 12">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>11</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=12#archive" class="sdg-publication-count"><span>12</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/ansvarlig-forbruk-og-produksjon?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

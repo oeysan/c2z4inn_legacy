@@ -1,5 +1,5 @@
 ---
-title: "Severity of Autism Symptoms and Degree of Attentional Difficulties Predicts Emotional and Behavioral Problems in Children with High-Functioning Autism; a Two-Year Follow-up Study"
+title: "T9S5EZEM"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-T9S5EZEM" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1510112" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/T9S5EZEM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-T9S5EZEM" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2017.02004/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-T9S5EZEM"></div>
 </article>

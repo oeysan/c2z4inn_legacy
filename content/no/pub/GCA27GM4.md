@@ -1,5 +1,5 @@
 ---
-title: "The self-efficacy for therapeutic use of self-questionnaire (SETUS): psychometric properties of the English version"
+title: "GCA27GM4"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GCA27GM4" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1902086" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GCA27GM4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GCA27GM4" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GCA27GM4" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-GCA27GM4" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.emerald.com/insight/content/doi/10.1108/IJOT-10-2020-0015/full/pdf?title=the-self-efficacy-for-therapeutic-use-of-self-questionnaire-setus-psychometric-properties-of-the-english-version" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-GCA27GM4"></div>
 </article>
 <div id="csl-bib-meta-GCA27GM4" class="csl-bib-meta">
-  <article id="abstract-article-GCA27GM4" class="abstract-article">
-    <h1>Samandrag</h1>
-    PurposeThe purpose of this paper is to investigate psychometric properties of the Self-Efficacy for Therapeutic Use of Self (SETUS) scales, a questionnaire based on the Intentional Relationship model, and to investigate the factor structure and internal consistency of the English version of three-part SETUS questionnaire in occupational therapy students. Design/methodology/approachThe sample of this cross-sectional study included 155 students with age range 18–30 years, of which 95% were women. Principal Components Analysis (PCA) was performed on the questionnaire scales, including the Self-Efficacy for Therapeutic Mode Use (SETMU), Self-Efficacy for Recognizing Interpersonal Characteristics (SERIC) and Self-Efficacy for Managing Interpersonal Events (SEMIE). The internal consistencies were calculated. Pearson correlation analysis was used to evaluate the strength of correlation among the scales. Findings The PCA confirmed that the items of each of the three proposed scales loaded strongly on one factor (self-efficacy for three factors of therapeutic mode use, recognizing interpersonal characteristics and managing interpersonal events). The Cronbach’s alpha for the SETMU, SERIC and SEMIE was 0.85, 0.95 and 0.96, respectively. The three scales significantly inter-correlated strongly (r ranging 0.74–0.83, all p &lt; 0.001). Originality/valueThe SETUS questionnaire comprises three valid and reliable scales. It can be used by occupational therapy supervisors as a means to reflect on students’ self-efficacy in components of therapeutic use of self.
-  </article>
   <article id="contributors-article-GCA27GM4" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 4L3213
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

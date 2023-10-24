@@ -1,5 +1,5 @@
 ---
-title: "Improved Salinity Tolerance-Associated Variables Observed in EMS Mutagenized Wheat Lines"
+title: "ZZXJW55B"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZZXJW55B" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2056360" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ZZXJW55B" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ZZXJW55B" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ZZXJW55B" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-ZZXJW55B" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.mdpi.com/1422-0067/23/19/11386/pdf?version=1664267462" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ZZXJW55B"></div>
 </article>
 <div id="csl-bib-meta-ZZXJW55B" class="csl-bib-meta">
-  <article id="abstract-article-ZZXJW55B" class="abstract-article">
-    <h1>Abstract</h1>
-    Salinity tolerance-associated phenotypes of 35 EMS mutagenized wheat lines originating from BARI Gom-25 were compared. Vegetative growth was measured using non-destructive image-based phenotyping. Five different NaCl concentrations (0 to 160 mM) were applied to plants 19 days after planting (DAP 19), and plants were imaged daily until DAP 38. Plant growth, water use, leaf Na+, K+ and Cl− content, and thousand kernel weight (TKW) were measured, and six lines were selected for further analysis. In saline conditions, leaf Na+, K+, and Cl− content variation on a dry weight basis within these six lines were ~9.3, 1.4, and 2.4-fold, respectively. Relative to BARI Gom-25, two (OA6, OA62) lines had greater K+ accumulation, three (OA6, OA10, OA62) had 50–75% lower Na+:K+ ratios, and OA62 had ~30% greater water-use index (WUI). OA23 had ~2.2-fold greater leaf Na+ and maintained TKW relative to BARI Gom-25. Two lines (OA25, OA52) had greater TKW than BARI Gom-25 when grown in 120 mM NaCl but similar Na+:K+, WUI, and biomass accumulation. OA6 had relatively high TKW, high leaf K+, and WUI, and low leaf Na+ and Cl−. Phenotypic variation revealed differing associations between the parameters measured in the lines. Future identification of the genetic basis of these differences, and crossing of lines with phenotypes of interest, is expected to enable the assessment of which combinations of parameters deliver the greatest improvement in salinity tolerance.
-  </article>
   <article id="contributors-article-ZZXJW55B" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -58,7 +54,7 @@ Campus Blæstad
     <div class="sdg-container"><div id="sdg6" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg06_en.png" class="image" alt="SDG 6">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>26</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=6#archive" class="sdg-publication-count"><span>29</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal6" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Exploring social justice pedagogies in health and physical education through Critical Incident Technique methodology"
+title: "35PAXFCC"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-35PAXFCC" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1810432" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/35PAXFCC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-35PAXFCC" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-35PAXFCC" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-35PAXFCC" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/1356336X20921541" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-35PAXFCC"></div>
 </article>
 <div id="csl-bib-meta-35PAXFCC" class="csl-bib-meta">
-  <article id="abstract-article-35PAXFCC" class="abstract-article">
-    <h1>Samandrag</h1>
-    In this paper, we describe and reflect on the Critical Incident Technique (CIT) methodology used to explore how secondary school health and physical education (HPE) teachers address social justice in their teaching practice. The paper is informed by data generated as part of an ongoing three-year international research project involving eight physical education teacher education (PETE) researchers from three different countries. One of the general aims of the project was to develop teaching strategies to assist HPE teachers to refine and develop their practices so that they may become more inclusive and engaging for all students, thus helping contribute to more equitable educational outcomes. The specific aim of this paper is twofold: to describe the methodological framework of the research project and, secondly, to reflect on the challenges encountered in the research process along with the limitations and further potential of this research approach. We argue that the use of CIT methodology has allowed us to document rich descriptions of examples of teaching for social justice and to identify teacher practices that resonate with critical perspectives, or what we have come to call ‘social justice pedagogies’. We conclude by asserting that our use of CIT methodology in this project serves as a political quest to reaffirm the social justice agenda in HPE practice through providing teachers with examples of social justice pedagogies. It is not an attempt to espouse a one-size-fits-all social justice model for HPE since social justice teaching strategies are enabled and constrained by the contexts in which they are practised.
-  </article>
   <article id="contributors-article-35PAXFCC" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -103,7 +99,7 @@ Rom 4R4141
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

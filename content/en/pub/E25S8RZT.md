@@ -1,5 +1,5 @@
 ---
-title: "Dilemmas and deliberations in managing the care trajectory of elderly patients with complex health needs: a single-case study"
+title: "E25S8RZT"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E25S8RZT" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2045649" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/E25S8RZT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-E25S8RZT" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-E25S8RZT" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-E25S8RZT" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-022-08422-3" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-E25S8RZT"></div>
 </article>
 <div id="csl-bib-meta-E25S8RZT" class="csl-bib-meta">
-  <article id="abstract-article-E25S8RZT" class="abstract-article">
-    <h1>Abstract</h1>
-    Today, the ageing population is larger than ever before, and people who are living longer with chronic illnesses and multimorbidity need support from multiple healthcare service levels. Similarly, healthcare systems are becoming increasingly specialised and fragmented. The World Health Organization has highlighted novel policies for developing integrated and person-centred services. However, patients, next of kin and health professionals face several challenges in managing healthcare during the care trajectory. Limited literature has addressed the challenges experienced by these groups. Therefore, this study aimed to identify the dilemmas and deliberations faced by patients, next of kin and health professionals during the care trajectory of elderly patients with complex healthcare needs.
-  </article>
   <article id="contributors-article-E25S8RZT" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -94,7 +90,7 @@ Campus Elverum
     <div class="sdg-container"><div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

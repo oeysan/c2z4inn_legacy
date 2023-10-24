@@ -1,5 +1,5 @@
 ---
-title: "When is Sustainability a Liability, and When Is It an Asset? Quality Inferences for Core and Peripheral Attributes"
+title: "PRWPIHBP"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PRWPIHBP" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1766515" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PRWPIHBP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s10551-019-04415-1.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PRWPIHBP"></div>
 </article>

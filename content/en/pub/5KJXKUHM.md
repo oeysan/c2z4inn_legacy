@@ -1,5 +1,5 @@
 ---
-title: "The burden of somatic diseases among people with alcohol- and drug use disorders are influenced by mental illness and low socioeconomic status. A registry-based cohort study in Norway"
+title: "5KJXKUHM"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,28 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5KJXKUHM" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2100192" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/5KJXKUHM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-5KJXKUHM" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-5KJXKUHM" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-5KJXKUHM" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://doi.org/10.1016/j.jpsychores.2022.111137" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-5KJXKUHM"></div>
 </article>
 <div id="csl-bib-meta-5KJXKUHM" class="csl-bib-meta">
-  <article id="abstract-article-5KJXKUHM" class="abstract-article">
-    <h1>Abstract</h1>
-    Objectives: Persons with alcohol use disorder (AUD) and drug use disorder (DUD) have a lower life expectancy than the general population. We examined the burden of somatic diseases among persons with AUD or DUD and investigated impact of socioeconomic status (SES) and mental health disorders on the co-occurrence of somatic diseases in these groups. 
- 
-Methods: We performed a retrospective, register-based cohort study with a 6-year follow-up of persons (aged ≥18 y) with AUD (13,478) or DUD (16,659). Cox regression analyses were used to estimate hazard ratios (HRs) of somatic diseases. 
- 
-Results: Patients with DUD were, on average, 10 years younger at the point of diagnosis than patients with AUD. Mental illnesses were prominent in both groups (AUD: 40.5%, and DUD: 46.9% vs 3.5% in controls). Adjusting for mental disorders, the risk of all somatic diseases among the AUD and DUD groups was reduced by 30%. Some of the elevated risk of somatic diseases among persons with AUD and DUD is explained by low SES, though less than that explained by the presence of mental disorders. The diseases with highest risk among AUD patients were metabolic disorders (16.9-fold) and hypertension (14.8-fold), and among AUD patients, viral hepatitis (23.3-fold), after adjusting for low SES and mental disorders. 
- 
-Conclusions: Persons with AUD had a higher risk of most somatic diseases, while those with DUD had specific risks for infections and viral hepatitis. Mental health disorders and SES adjusted the associations regarding most somatic diseases. In general, improvement of socio-economic conditions, preferably in combination with professional support to self-manage mental health problems, will reduce the risk of somatic illness in both groups. For DUD patients, available sterile user equipment will reduce the risk of viral hepatis. 
- 
-Keywords: Alcohol use; Diseases; Drug use; Mental illness; Socioeconomic status; Somatic 
-© 2023 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
-  </article>
   <article id="contributors-article-5KJXKUHM" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -76,7 +63,7 @@ Room 4L3202
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Samfunnets konstitusjon: Searle versus Luhmann"
+title: "CUGB4LUN"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CUGB4LUN" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1831423" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/CUGB4LUN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-CUGB4LUN" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CUGB4LUN" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-CUGB4LUN" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-CUGB4LUN"></div>
 </article>
 <div id="csl-bib-meta-CUGB4LUN" class="csl-bib-meta">
-  <article id="abstract-article-CUGB4LUN" class="abstract-article">
-    <h1>Samandrag</h1>
-    Sosiologiens klassikere har skrevet bindsterke verk om hvordan samfunn integreres og opprettholdes eller er konfliktfylte og ustabile, men få har vært opptatt av hvordan et samfunn konstitueres. Denne boken diskuterer konstitusjonsproblematikken med utgangspunkt i to sentrale bidragsytere til sosialteorien de siste årene, den amerikanske filosofen John Searle og den tyske sosiologen Niklas Luhmann. Heller enn å fokusere på motsetninger mellom de to drøfter boken mulige sammenføyninger i synet på hvordan et samfunn konstitueres. Boken drøfter teorisammenligning som metode, og stiller spørsmålet: Hva har Searles illokusjonære språkhandling å gjøre med Luhmanns begrep om det selvreferensielle samfunn? Finnes det en meningsfull forbindelse mellom disse ytterpunktene? For å kunne gi et adekvat svar på dette spørsmålet analyserer, sammenligner og sammenføyer boken de grunnleggende forklaringsfigurer i teoriene til Searle og Luhmann. Boken drøfter til slutt konstitusjonsproblemet med utgangspunkt i sosial ontologi og selvreferanseproblematikken.
-  </article>
   <article id="contributors-article-CUGB4LUN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,13 +58,13 @@ Rom 3Ø002
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg14" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg14_no.png" class="image" alt="SDG 14">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>41</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=14#archive" class="sdg-publication-count"><span>42</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-i-havet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

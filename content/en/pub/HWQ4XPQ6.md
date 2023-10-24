@@ -1,5 +1,5 @@
 ---
-title: "The Commission’s informal agenda-setting in the CFSP. Agenda leadership, coalition-building, and community framing"
+title: "HWQ4XPQ6"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HWQ4XPQ6" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1823606" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HWQ4XPQ6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HWQ4XPQ6" class="csl-bib-button">Contributors</a>
+    <a href="https://link.springer.com/content/pdf/10.1057/s41295-020-00218-1.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-HWQ4XPQ6"></div>
 </article>

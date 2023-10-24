@@ -1,5 +1,5 @@
 ---
-title: "Fattigmannsblommer: om Vidar Sandbecks forfatterskap"
+title: "ERHYDUJN"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ERHYDUJN" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1699668" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ERHYDUJN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ERHYDUJN" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ERHYDUJN" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-ERHYDUJN"></div>
 </article>
 <div id="csl-bib-meta-ERHYDUJN" class="csl-bib-meta">
-  <article id="abstract-article-ERHYDUJN" class="abstract-article">
-    <h1>Samandrag</h1>
-    I denne boka stilles artikler om Vidar Sandbecks forfatterskap dialogisk sammen med fagstoff om den historiske bakgrunnen for diktningen hans. Som visedikter står han i en lang og ubrutt lyrikktradisjon, særtrekk ved hans visekunst framstår tydelig når han leses i forhold til andre visekunstnere - fra Carl Michael Bellman til Hekla Stålstrenga - i den nordiske sangtradisjonen.
-  </article>
   <article id="contributors-article-ERHYDUJN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

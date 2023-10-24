@@ -1,5 +1,5 @@
 ---
-title: "Stochastic efficiency analysis with risk aversion bounds: a simplified approach"
+title: "BGAYL7VJ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BGAYL7VJ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1585936" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BGAYL7VJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-BGAYL7VJ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BGAYL7VJ" class="csl-bib-button">Medverkande</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1467-8489.2004.00239.x" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-BGAYL7VJ"></div>
 </article>
 <div id="csl-bib-meta-BGAYL7VJ" class="csl-bib-meta">
-  <article id="abstract-article-BGAYL7VJ" class="abstract-article">
-    <h1>Samandrag</h1>
-    A method of stochastic dominance analysis with respect to a function (SDRF) is described and illustrated. The method, called stochastic efficiency with respect to a function (SERF), orders a set of risky alternatives in terms of certainty equivalents for a specified range of attitudes to risk. It can be applied for conforming utility functions with risk attitudes defined by corresponding ranges of absolute, relative or partial risk aversion coefficients. Unlike conventional SDRF, SERF involves comparing each alternative with all the other alternatives simultaneously, not pairwise, and hence can produce a smaller efficient set than that found by simple pairwise SDRF over the same range of risk attitudes. Moreover, the method can be implemented in a simple spreadsheet with no special software needed.
-  </article>
   <article id="contributors-article-BGAYL7VJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

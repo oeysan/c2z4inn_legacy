@@ -1,5 +1,5 @@
 ---
-title: "The high tolerance to aluminium in crucian carp (Carassius carassius) is associated with its ability to avoid hypoxia"
+title: "WWGKYACD"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WWGKYACD" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1484570" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WWGKYACD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WWGKYACD" class="csl-bib-button">Medverkande</a>
+    <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0179519&amp;type=printable" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WWGKYACD"></div>
 </article>

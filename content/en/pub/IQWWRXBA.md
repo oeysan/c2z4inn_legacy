@@ -1,5 +1,5 @@
 ---
-title: "Kulturskolen og kulturskolelæreryrket - fenomener i endring: En intervjuundersøkelse av kulturskolelærerutdanneres forståelser av kulturskolefeltet"
+title: "IQWWRXBA"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IQWWRXBA" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1630055" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/IQWWRXBA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-IQWWRXBA" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IQWWRXBA" class="csl-bib-button">Contributors</a>
+    <a href="https://journals.oslomet.no/index.php/information/article/download/2828/2988" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-IQWWRXBA"></div>
 </article>
 <div id="csl-bib-meta-IQWWRXBA" class="csl-bib-meta">
-  <article id="abstract-article-IQWWRXBA" class="abstract-article">
-    <h1>Abstract</h1>
-    Kulturskolen har i løpet av sin eksistens vært gjennom en omfattende profesjonaliseringsprosess både faglig og organisatorisk, og kulturskolelæreryrket har endret seg som følge av denne prosessen. Kulturskolelæreryrkets utvikling medfører at det stilles nye krav ikke bare til innholdet i utdanningene som kvalifiserer til undervisning i kulturskolen, men også til dem som underviser på slike utdanninger, siden deres forståelse av kulturskolefeltet vil ha betydning for utdanningenes innhold. Gjennom kvalitative individuelle intervjuer og fokusgruppeintervjuer undersøker jeg i denne artikkelen hva slags forståelse av kulturskolen som skoleslag og kulturskolelæreryrket som finnes blant dem som underviser ved musikkpedagogiske utdanninger som kvalifiserer til undervisning i kulturskolen, samt hvilke oppfatninger disse lærerutdannerne har av hva slags utdanninger fremtidige kulturskolelærerne bør ha for å få et best mulig grunnlag for å utføre sitt virke. Datamaterialet er kodet og kategorisert i en refleksiv forståelsesramme, der profesjonsteori i hovedsak utgjør det teoretiske rammeverket.
-  </article>
   <article id="contributors-article-IQWWRXBA" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

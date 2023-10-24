@@ -1,5 +1,5 @@
 ---
-title: "Leisure-Time Activities in Different Contexts and Depressive Symptoms in Norwegian Adolescents: A Cross-Sectional Study"
+title: "54BM6TXK"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-54BM6TXK" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2046887" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/54BM6TXK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-54BM6TXK" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-54BM6TXK" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-54BM6TXK" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/1660-4601/19/17/10769/pdf?version=1661912549" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-54BM6TXK"></div>
 </article>
 <div id="csl-bib-meta-54BM6TXK" class="csl-bib-meta">
-  <article id="abstract-article-54BM6TXK" class="abstract-article">
-    <h1>Samandrag</h1>
-    The purpose of this study was to examine the association between physical activity organised in sports clubs, non-organised physical activity, other organised leisure-time activities, and depressive symptoms among adolescents. This study was based on cross-sectional data from the Ungdata survey conducted between 2017 and 2019. The sample comprised 7656 adolescents (aged 13–16 years). Binominal logistic regression was used to analyse the association between the three different leisure-time activities and depressive symptoms. All models were adjusted for gender, family economy, parents’ higher education, having friends, alcohol intoxication, and smoking. The odds for symptoms of depression were higher for those who were less physically active in a sports club (OR: 1.34, 95% CI: 1.15–1.57) and in non-organised physical activities (OR: 1.50, 95% CI: 1.29–1.74) and lower for those who participated less in other organised leisure-time activities (OR: 0.79, 95% CI: 0.68–0.92) compared with those who were physically active (sports club and non-organised) and those who participated in other organised leisure-time activities. Our findings suggested that being physically active, both in a sports club and in non-organised activities, was associated with lower odds of depressive symptoms among adolescents. Additional research is needed to confirm a possible causal relationship.
-  </article>
   <article id="contributors-article-54BM6TXK" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -99,7 +95,7 @@ Rom 4R4142
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

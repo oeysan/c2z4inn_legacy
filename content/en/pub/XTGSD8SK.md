@@ -1,5 +1,5 @@
 ---
-title: "“An undisturbed afternoon of writing”: a qualitative study of professors’ job satisfaction"
+title: "XTGSD8SK"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XTGSD8SK" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1716320" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XTGSD8SK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-XTGSD8SK" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XTGSD8SK" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-XTGSD8SK" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/JARHE-10-2018-0216" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-XTGSD8SK"></div>
 </article>
 <div id="csl-bib-meta-XTGSD8SK" class="csl-bib-meta">
-  <article id="abstract-article-XTGSD8SK" class="abstract-article">
-    <h1>Abstract</h1>
-    PurposeThe purpose of this paper is to model factors that contribute to job satisfaction among university professors. Design/methodology/approachThe approach was qualitative; 12 in-depth interviews were conducted with Swedish university full professors representing 11 different academic subjects. FindingsFive facets of job satisfaction were identified: distal environment (e.g. impact on society and the scientific community), proximal social environment, self (e.g. receiving external credit and experiencing internal pride), the uplifts of daily life and formal conditions (e.g. pay and opportunities to continue after retirement). A model was inductively developed according to which professors’ job satisfaction is influenced by interacting contextual and individual antecedent conditions. Research limitations/implicationsBecause a qualitative approach was used, with a limited number of informants, there is a lack of representativeness and the concepts generated are of a sensitizing rather than a definitive character. Practical implicationsAttention should be paid to university professors’ need for autonomy, otherwise public management control strivings may become counter-productive. Originality/valueA new model of professors’ job satisfaction with a richness of details was developed.
-  </article>
   <article id="contributors-article-XTGSD8SK" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -57,7 +53,7 @@ Campus Elverum
     <div class="sdg-container"><div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>54</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

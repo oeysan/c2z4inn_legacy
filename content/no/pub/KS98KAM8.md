@@ -1,5 +1,5 @@
 ---
-title: "The essential metals for humans: a brief overview"
+title: "KS98KAM8"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KS98KAM8" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1703170" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/KS98KAM8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.jinorgbio.2019.03.013" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-KS98KAM8"></div>
 </article>

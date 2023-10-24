@@ -1,5 +1,5 @@
 ---
-title: "Disentangling Costs of Persistent and Transient Technical Inefficiency and Input Misallocation: The Case of Norwegian Electricity Distribution Firms"
+title: "23I3UUAV"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-23I3UUAV" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1760151" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/23I3UUAV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-23I3UUAV" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.5547/01956574.41.3.skum" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-23I3UUAV"></div>
 </article>

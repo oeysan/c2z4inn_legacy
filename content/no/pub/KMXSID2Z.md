@@ -1,5 +1,5 @@
 ---
-title: "Hva forteller en bokliste? Forestillinger om barnelitteratur og lesing i Bærekraftsbiblioteket"
+title: "KMXSID2Z"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KMXSID2Z" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2046005" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/KMXSID2Z" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KMXSID2Z" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/blft.13.1.7" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-KMXSID2Z"></div>
 </article>

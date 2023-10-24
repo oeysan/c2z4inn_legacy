@@ -1,5 +1,5 @@
 ---
-title: "Overcoming the business model transformation dilemma: exploring market shaping and stabilizing strategies in incumbent firms"
+title: "HLEPIMEQ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HLEPIMEQ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2096216" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HLEPIMEQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-HLEPIMEQ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HLEPIMEQ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-HLEPIMEQ" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.emerald.com/insight/content/doi/10.1108/JBIM-06-2020-0264/full/pdf?title=overcoming-the-business-model-transformation-dilemma-exploring-market-shaping-and-stabilizing-strategies-in-incumbent-firms" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-HLEPIMEQ"></div>
 </article>
 <div id="csl-bib-meta-HLEPIMEQ" class="csl-bib-meta">
-  <article id="abstract-article-HLEPIMEQ" class="abstract-article">
-    <h1>Samandrag</h1>
-    PurposeThe purpose of this paper is to extend the knowledge on business model transformation (BMT) by developing an integrative framework for BMT dilemmas, including strategies for shaping and stabilizing market structures. Design/methodology/approachThe study uses a case-based approach, with data from the Swedish electric utility industry. FindingsThe findings uncover practices related to both shaping and stabilizing market structure. The study contributes with insights for firms to overcome the BMT dilemma. Shaping strategies involve disruptive innovations while stabilizing strategies concerns incremental improvements in existing structures; by balancing these efforts, firms can find ways toward successful BMT. Originality/valueWith a focus on incumbent firms and the balancing act of BMT in a network, the study covers areas that have scarcely been addressed in the existing literature. Even though most business model literature has focused on shaping consumer markets, the need to consider BMT as a dual-directional process in an industrial context is emphasized in this study.
-  </article>
   <article id="contributors-article-HLEPIMEQ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -62,13 +58,13 @@ Studiested Kongsvinger
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>64</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

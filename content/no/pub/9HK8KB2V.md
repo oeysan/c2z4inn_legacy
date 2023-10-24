@@ -1,5 +1,5 @@
 ---
-title: "Teaching Poetry with Painting: “Why Do You Thus Devise Evil Against Her?”"
+title: "9HK8KB2V"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9HK8KB2V" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1620489" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/9HK8KB2V" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9HK8KB2V" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-3-319-90433-7_5" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-9HK8KB2V"></div>
 </article>

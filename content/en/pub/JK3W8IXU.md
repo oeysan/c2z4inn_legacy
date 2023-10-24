@@ -1,5 +1,5 @@
 ---
-title: "Ungdoms-OL på Lillehammer: barneskirenn eller olympisk innovasjon?"
+title: "JK3W8IXU"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JK3W8IXU" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1449879" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JK3W8IXU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JK3W8IXU" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JK3W8IXU" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-JK3W8IXU"></div>
 </article>
 <div id="csl-bib-meta-JK3W8IXU" class="csl-bib-meta">
-  <article id="abstract-article-JK3W8IXU" class="abstract-article">
-    <h1>Abstract</h1>
-    I "Ungdoms-OL på Lillehammer" belyses rollene til IOC, NIF, nasjonale, regionale og lokale myndigheter, organisasjonskomiteen på Lillehammer, de frivillige og utøverne. Viktige temaer er organisasjonskultur, frivillighet, innovasjon og sosialt entreprenørskap. Ungdommens rolle og involvering får også en sentral plass. Målet med denne utgivelsen er å øke kunnskapen om ungdoms-OL generelt, og arrangementet på Lillehammer i 2016 spesielt. De 15 bidragsyterne tilhører forskjellige utdanningsinstitusjoner, og har sin faglige bakgrunn i samfunnsfag og idrettsfag. Boken danner avslutningen på et forskningsprosjekt som startet i 2010, om ungdoms-OL. Den er relevant for forskere, studenter (særlig innen organisasjon og ledelse, idrettsfag og sport management), arrangører, frivillige og idrettsbyråkrater, men den vil også passe for den interesserte allmennhet.
-  </article>
   <article id="contributors-article-JK3W8IXU" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

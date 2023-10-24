@@ -1,5 +1,5 @@
 ---
-title: "The Long March: The origins of Voice, Emotion and Image in Higher education"
+title: "UD4SKT3F"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UD4SKT3F" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1483926" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UD4SKT3F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UD4SKT3F" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-3-319-51058-3_1" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-UD4SKT3F"></div>
 </article>

@@ -12,6 +12,7 @@ type: pub
     <a href="https://app.cristin.no/results/show.jsf?id=2102716" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5022929/items/J95Z3UFX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-J95Z3UFX" class="csl-bib-button">Medverkande</a>
+    <a href="https://encompass.eku.edu/cgi/viewcontent.cgi?article=1610&amp;context=jote" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-J95Z3UFX"></div>
 </article>

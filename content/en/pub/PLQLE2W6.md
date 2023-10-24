@@ -1,5 +1,5 @@
 ---
-title: "The Pathic Model of Disability: Identity, Moral Force and the Politics of Pain"
+title: "PLQLE2W6"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PLQLE2W6" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1620684" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PLQLE2W6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/1034912X.2017.1416594" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-PLQLE2W6"></div>
 </article>

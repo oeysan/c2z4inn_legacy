@@ -1,5 +1,5 @@
 ---
-title: "Field selection of greylag geese (Anser anser): Implications for management of set-aside fields to alleviate crop damage"
+title: "EGLE9WD2"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EGLE9WD2" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2053818" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/EGLE9WD2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-EGLE9WD2" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EGLE9WD2" class="csl-bib-button">Contributors</a>
+    <a href="https://ornisfennica.journal.fi/article/download/115136/72603" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-EGLE9WD2"></div>
 </article>
 <div id="csl-bib-meta-EGLE9WD2" class="csl-bib-meta">
-  <article id="abstract-article-EGLE9WD2" class="abstract-article">
-    <h1>Abstract</h1>
-    Greylag geese (Anser anser) have been increasing in numbers in Europe during the last decades. They forage and roost in agricultural landscapes and may cause damage to sensitive crops. We studied field selection of greylag geese around lake Sörfjärden in south central Sweden where geese aggregate during the growing season. In this area a set-aside field was established in 2010, i.e., a field where geese can graze undisturbed, with the aim to reduce damage in surrounding conventional fields. The goal of our study was to investigate the general selection of the different field types as well as the specific set-aside field. We used a point survey count to estimate goose numbers and regression analyses to evaluate the relationship between presence or absence of greylag geese and field characteristics such as crop type, distance to roost site and field size. According to the top-ranked model, the probability of presence of foraging greylag geese was higher in spring and in grass fields, while the probability decreased with distance to roost site. Our results also show that the set-aside field in general was used more than other fields in the area during spring and summer but not during autumn. We conclude that it is important to consider variables affecting the probability of field selection by geese, such as season, crop type and distance to roosts to understand the behaviour of geese when establishing set-aside fields.
-  </article>
   <article id="contributors-article-EGLE9WD2" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

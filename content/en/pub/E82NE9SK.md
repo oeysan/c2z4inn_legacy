@@ -1,5 +1,5 @@
 ---
-title: "Childhood abuse and its association with adults’ mental health problems: a cross-sectional study among men and women in the Yangon Region of Myanmar"
+title: "E82NE9SK"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E82NE9SK" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1969401" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/E82NE9SK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-E82NE9SK" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-E82NE9SK" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-E82NE9SK" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://bmjopen.bmj.com/content/bmjopen/11/11/e045870.full.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-E82NE9SK"></div>
 </article>
 <div id="csl-bib-meta-E82NE9SK" class="csl-bib-meta">
-  <article id="abstract-article-E82NE9SK" class="abstract-article">
-    <h1>Abstract</h1>
-    ObjectivesTo estimate the prevalence of emotional, physical and sexual childhood abuse, and symptoms of post-traumatic stress disorder (PTSD) and to examine the association between childhood abuse and adult mental health problems, including mental distress and PTSD symptoms. DesignA community-based cross-sectional study was conducted. Childhood abuse was assessed with the NorVold Abuse Questionnaire, and mental distress and symptoms of PTSD were measured using the Hopkins Symptom Checklist 10 and the Impact of Event Scale—Revised, respectively. The Wald test and multiple linear regression analysis were applied for testing differences between proportions and the association between childhood abuse and adult mental health outcomes, respectively. SettingUrban and rural areas of the Yangon Region, Myanmar. ParticipantsA total of 2377 men and women aged 18–49 years were included. Institutionalised people, monks, nuns and individuals deemed too ill physically and/or mentally to participate were excluded. ResultsOverall, 21.1% (95% CI 18.8 to 23.6) reported any form of childhood abuse, 10.4% (95% CI 8.9 to 12.4) physical abuse, 10.4% (95% CI 8.8 to 12.2) emotional abuse and 7.3% (95% CI 5.7 to 9.3) sexual abuse. Childhood abuse was more common in women (29.8%) than in men (12.4%). The prevalence of PTSD symptoms in the total sample was 6.6%. After adjusting for confounding variables, positive associations were found between childhood abuse with adult mental distress and PTSD symptoms among women and older men. ConclusionsChildhood abuse is prevalent among both men and women in the Yangon Region of Myanmar and associated with adult mental health problems. Approximately 7% of people report PTSD symptoms. It should prompt local health professionals and policy makers to establish prevention programmes to eliminate violence against children and to organise services for victims of childhood abuse. Care should be taken in generalising findings for less populated areas.
-  </article>
   <article id="contributors-article-E82NE9SK" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -67,7 +63,7 @@ Room 4L3202
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

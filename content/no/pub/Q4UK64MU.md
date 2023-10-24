@@ -1,5 +1,5 @@
 ---
-title: "Football and Zumba Training in Female Hospital Staff: Effects after 12 and 40 Weeks on Self-Reported Health Status, Emotional Wellbeing, General Self-Efficacy and Sleep Problems"
+title: "Q4UK64MU"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Q4UK64MU" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1996429" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Q4UK64MU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-Q4UK64MU" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Q4UK64MU" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-Q4UK64MU" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/1660-4601/19/3/1685/pdf?version=1643717617" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-Q4UK64MU"></div>
 </article>
 <div id="csl-bib-meta-Q4UK64MU" class="csl-bib-meta">
-  <article id="abstract-article-Q4UK64MU" class="abstract-article">
-    <h1>Samandrag</h1>
-    Background: This 40-weeks intervention study evaluates the effects on self-reported health status, emotional wellbeing, general self-efficacy and sleep problems among female hospital employees. Methods: 107 employees were cluster-randomized into three groups; football (FG), Zumba (ZG) and control (CG). Outcome measurements were conducted at baseline, 12 and 40 weeks. Weekly training frequencies in the first 12 and next 28 weeks were 2.4 ± 0.3 and 0.8 ± 0.2 in FG and 2.3 ± 0.3 and 0.9 ± 0.2 in ZG. Results: Compared to the CG, the ZG showed significant improvement in self-reported health status (p = 0.025), a reduced frequency of poor and restless sleep (on a 0–4 scale) (p = 0.004), as well as a tendency for reduction in the frequency of problems falling asleep (p = 0.055) and overall sleep problems (p = 0.051). Between baseline and 12 weeks, both the FG (p = 0.017) and the ZG (p = 0.017) showed within-group improvements in emotional wellbeing, whereas this improvement was maintained only in the ZG between baseline and 40 weeks (p = 0.002). The FG showed a significant within-group improvement in general self-efficacy (p = 0.012) between baseline and 12 weeks follow-up, with no such improvements in the other groups. Conclusion: The present findings revealed that a physical activity intervention with Zumba as well as football training may improve mental health and sleep outcomes in female hospital staff.
-  </article>
   <article id="contributors-article-Q4UK64MU" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 4L3305
     <div class="sdg-container"><div id="sdg1" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg01_no.png" class="image" alt="SDG 1">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>37</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=1#archive" class="sdg-publication-count"><span>39</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/utrydde-fattigdom?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

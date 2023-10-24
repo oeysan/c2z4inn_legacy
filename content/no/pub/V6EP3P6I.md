@@ -1,5 +1,5 @@
 ---
-title: "Put your feet up: The impact of personality traits, job pressure, and social support on the need for recovery after work"
+title: "V6EP3P6I"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-V6EP3P6I" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2009777" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/V6EP3P6I" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-V6EP3P6I" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-V6EP3P6I" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-V6EP3P6I" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s12144-022-02950-1.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-V6EP3P6I"></div>
 </article>
 <div id="csl-bib-meta-V6EP3P6I" class="csl-bib-meta">
-  <article id="abstract-article-V6EP3P6I" class="abstract-article">
-    <h1>Samandrag</h1>
-    The need for recovery after work (NFR) is an important warning of work-related fatigue. NFR is linked to prolonged work-related efforts and depletion of resources, creating a need for temporary respite from work demands. The aim of the current study was to investigate the relationships between NFR and the five-factor model (FFM), comprising the personality traits of emotional stability (ES), extraversion (E), agreeableness (A), conscientiousness (C), and openness to experience (O). Perceived job pressure and perceived social support were included as mediators. The study was conducted using structural equation modelling (SEM) on cross-sectional data from a sample of 681 participants from several work sectors (N females = 376, N males = 305; M age = 46.9 years; SD  = 11.1). The results showed that NFR was affected both directly and indirectly by FFM traits. High ES and high O contributed directly to reduced and increased NFR, respectively. High perceived social support contributed to reduced NFR, while high perceived job pressure contributed to increased NFR. High ES contributed indirectly to reduced NFR through perceived job pressure and social support, high O contributed indirectly to increased NFR through perceived social support, and high E contributed indirectly to increased NFR through perceived job pressure. A and C were not related to NFR. The findings demonstrate that personality traits, especially ES, are firmly related to NFR and highlight the importance of incorporating personality factors into studies of work environmental factors on NFR.
-  </article>
   <article id="contributors-article-V6EP3P6I" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,13 +57,13 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>54</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

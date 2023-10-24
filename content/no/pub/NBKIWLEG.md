@@ -1,5 +1,5 @@
 ---
-title: "Nordic research on educational and vocational guidance: a systematic literature review of thematic features between 2003 and 2016"
+title: "NBKIWLEG"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NBKIWLEG" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1624478" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NBKIWLEG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://jyx.jyu.fi/bitstream/123456789/65900/1/nordic%20research%20for%20submission2ndrevisionfinal.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-NBKIWLEG"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "Assessment and Spatial Planning for Peatland Conservation and Restoration: Europe’s Trans-Border Neman River Basin as a Case Study"
+title: "94AKNA3J"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-94AKNA3J" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1943391" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/94AKNA3J" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-94AKNA3J" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-94AKNA3J" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-94AKNA3J" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2073-445X/10/2/174/pdf?version=1613312122" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-94AKNA3J"></div>
 </article>
 <div id="csl-bib-meta-94AKNA3J" class="csl-bib-meta">
-  <article id="abstract-article-94AKNA3J" class="abstract-article">
-    <h1>Samandrag</h1>
-    Peatlands are the “kidneys” of river basins. However, intensification of agriculture and forestry in Europe has resulted in the degradation of peatlands and their biodiversity (i.e., species, habitats and processes in ecosystems), thus impairing water retention, nutrient filtration, and carbon capture. Restoration of peatlands requires assessment of patterns and processes, and spatial planning. To support strategic planning of protection, management, and restoration of peatlands, we assessed the conservation status of three peatland types within the trans-border Neman River basin. First, we compiled a spatial peatland database for the two EU and two non-EU countries involved. Second, we performed quantitative and qualitative gap analyses of fens, transitional mires, and raised bogs at national and sub-basin levels. Third, we identified priority areas for local peatland restoration using a local hotspot analysis. Nationally, the gap analysis showed that the protection of peatlands meets the Convention of Biological Diversity’s quantitative target of 17%. However, qualitative targets like representation and peatland qualities were not met in some regional sub-basins. This stresses that restoration of peatlands, especially fens, is required. This study provides an assessment methodology to support sub-basin-level spatial conservation planning that considers both quantitative and qualitative peatland properties. Finally, we highlight the need for developing and validating evidence-based performance targets for peatland patterns and processes and call for peatland restoration guided by social-ecological research and inter-sectoral collaborative governance.
-  </article>
   <article id="contributors-article-94AKNA3J" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -57,7 +53,7 @@ Studiested Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Datalogisk retsforskning: Kan algoritmer finde juridisk centrale domme afsagt af EMD?"
+title: "AQPZQ6CV"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AQPZQ6CV" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2059067" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/AQPZQ6CV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AQPZQ6CV" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-AQPZQ6CV"></div>

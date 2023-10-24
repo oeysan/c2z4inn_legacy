@@ -1,5 +1,5 @@
 ---
-title: "Internal Communications During the Pandemic: Challenges and Implications"
+title: "INYZPM8V"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-INYZPM8V" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2074346" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/INYZPM8V" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-INYZPM8V" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-INYZPM8V" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-INYZPM8V" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-3-030-94814-6_13" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-INYZPM8V"></div>
 </article>
 <div id="csl-bib-meta-INYZPM8V" class="csl-bib-meta">
-  <article id="abstract-article-INYZPM8V" class="abstract-article">
-    <h1>Samandrag</h1>
-    The Covid-19 pandemic crisis exerted enormous stress on organizations across the world, setting dampers on business operations, effectiveness, and viability. It negatively impacted on both the organization’s internal and external environments. The immediate implications of the lockdown measures imposed during the Covid-19 is that non-essential organizations had to shut down their premises or reduce the number of employees in any physical spaces. Changes in the way workplace functions during the pandemic put internal communication practices into the fore. Employee communication is considered the lifeblood of any organization. The crisis compelled organizations to respond to and adapt to sudden disruptions in their communication order. This chapter examines the internal communication challenges experienced by universities during the pandemic, as well as how institutions responded to these disruptions and the new dispersed communication environment. It captures the experiences of a Head of Department in the aftermath of the lockdown and how the department navigated the turbulent situation.
-  </article>
   <article id="contributors-article-INYZPM8V" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -103,7 +99,7 @@ Rom 3Ø129
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

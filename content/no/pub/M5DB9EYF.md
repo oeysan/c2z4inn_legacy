@@ -1,5 +1,5 @@
 ---
-title: "The Role of Therapy in Impairing Quality of Life in Dermatological Patients: A Multinational Study"
+title: "M5DB9EYF"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-M5DB9EYF" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1577266" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/M5DB9EYF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-M5DB9EYF" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-M5DB9EYF" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-M5DB9EYF" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.medicaljournals.se/acta/download/10.2340/00015555-2918/" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-M5DB9EYF"></div>
 </article>
 <div id="csl-bib-meta-M5DB9EYF" class="csl-bib-meta">
-  <article id="abstract-article-M5DB9EYF" class="abstract-article">
-    <h1>Samandrag</h1>
-    Skin disease and its therapy affect health-related quality of life (HRQoL). The aim of this study was to measure the burden caused by dermatological therapy in 3,846 patients from 13 European countries. Adult outpatients completed questionnaires, including the Dermatology Life Quality Index (DLQI), which has a therapy impact question. Therapy issues were reported by a majority of patients with atopic dermatitis (63.4%), psoriasis (60.7%), prurigo (54.4%), hidradenitis suppurativa (54.3%) and blistering conditions (53%). The largest reduction in HRQoL attributable to therapy, as a percentage of total DLQI, adjusted for confounders, was seen in blistering conditions (10.7%), allergic/drug reactions (10.2%), psoriasis (9.9%), vasculitis/immunological ulcers (8.8%), atopic dermatitis (8.7%), and venous leg ulcers (8.5%). In skin cancer, although it had less impact on HRQoL, the reduction due to therapy was 6.8%. Treatment for skin disease contributes considerably to reducing HRQoL: the burden of dermatological treatment should be considered when planning therapy and designing new dermatological therapies.
-  </article>
   <article id="contributors-article-M5DB9EYF" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -67,7 +63,7 @@ Rom 4L3202
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

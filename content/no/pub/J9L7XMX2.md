@@ -1,5 +1,5 @@
 ---
-title: "Cognitive Impairment in Zambians With HIV Infection and Pulmonary Tuberculosis"
+title: "J9L7XMX2"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-J9L7XMX2" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1695642" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/J9L7XMX2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-J9L7XMX2" class="csl-bib-button">Medverkande</a>
+    <a href="https://journals.lww.com/jaids/Fulltext/2019/01010/Cognitive_Impairment_in_Zambians_With_HIV.18.aspx" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-J9L7XMX2"></div>
 </article>

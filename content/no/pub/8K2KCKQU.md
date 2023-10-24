@@ -1,5 +1,5 @@
 ---
-title: "The politics of organizing indigenous sport – cross-border and cross-sectoral complexity"
+title: "8K2KCKQU"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,29 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8K2KCKQU" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2001571" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/8K2KCKQU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-8K2KCKQU" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-8K2KCKQU" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-8K2KCKQU" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/16184742.2021.1892161?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-8K2KCKQU"></div>
 </article>
 <div id="csl-bib-meta-8K2KCKQU" class="csl-bib-meta">
-  <article id="abstract-article-8K2KCKQU" class="abstract-article">
-    <h1>Samandrag</h1>
-    Research Question: 
-The authors studied the complexity surrounding the organization of sport in nations without nation-state status, exploring three research questions: (1) How do representatives of Sámi sport organizations in Finland and Norway perceive and act upon the proposal to reorganize Sámi sport? (2) How do representatives of the Sámi parliaments in Finland and Norway perceive and act upon the proposal to reorganize Sámi sport? (3) How do representatives of the state bureaucracy in Finland perceive and act upon the proposal to reorganize Sámi sport? 
- 
-Research Methods: 
-We interviewed representatives of the Sámi parliaments and Sámi sport in Norway and Finland, an external consultant in Norway and a state official of Finland constituting a total of eight key actor interviews. 
- 
-Results and Findings: 
-The analysis revealed the dominant role of the Norwegian side of Sámi sport, largely based on the institutional power of the Sámi parliament in Norway. In that respect, voluntary sport organizations in both Finland and Norway were reluctant to consider or were even negative towards an ongoing reorganization of Sámi sport since it was initiated by the Norwegian authorities and by the Norwegian Sámi parliament. 
- 
-Implications: 
-Decision-makers in government agencies involved in cross-border and cross-sectoral issues should consider the opinions of all parties involved. Moreover, concerning indigenous groups striving for self-determination in post-colonial contexts, it is important to create a unified voice in matters important to the group as a collective.
-  </article>
   <article id="contributors-article-8K2KCKQU" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -77,7 +63,7 @@ Rom 4R4142
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

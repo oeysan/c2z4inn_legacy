@@ -1,5 +1,5 @@
 ---
-title: "Meeting the demand of research based education in higher edcation and training — A case from real estate education"
+title: "VBXANWJT"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VBXANWJT" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1460704" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VBXANWJT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VBXANWJT" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1109/ITHET.2016.7760749" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-VBXANWJT"></div>
 </article>

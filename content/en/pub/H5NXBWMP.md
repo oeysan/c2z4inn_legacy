@@ -1,5 +1,5 @@
 ---
-title: "Sleep and energy drink consumption among Norwegian adolescents – a cross-sectional study"
+title: "H5NXBWMP"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,29 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-H5NXBWMP" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2011228" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/H5NXBWMP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-H5NXBWMP" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-H5NXBWMP" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-H5NXBWMP" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-022-12972-w" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-H5NXBWMP"></div>
 </article>
 <div id="csl-bib-meta-H5NXBWMP" class="csl-bib-meta">
-  <article id="abstract-article-H5NXBWMP" class="abstract-article">
-    <h1>Abstract</h1>
-    Background 
-Adolescents are recommended to get 8–10 h of sleep at night, yet more than 80% fail to obtain this goal. Energy drink (ED) consumption has been linked to later bedtime in adolescents. Therefore, we aimed to investigate the potential association between ED consumption and sleep duration, and shuteye latency among adolescents in Norway. 
- 
-Methods 
-This study was based on data from 15- to 16-year-old adolescents living in Oppland County in 2017. In total, 1353 adolescents were included in the analysis. Multiple regression models were used to estimate the associations between the frequency of ED consumption with sleep duration, shuteye latency, and getting 8 h of sleep. 
- 
-Results 
-Forty-six point five percent of the adolescents reported sleeping more than 8 h at night. Those who reported ED consumption at any frequency had significantly shorter sleep duration than those who did not. On average, high consumers of ED (consuming ED ≥ 4 times a week) had 0.95 (95% CI: 0.61, 1.28) hours (i.e., 57 min) less sleep than those who never consumed ED. In addition, high consumers had more than 25 min (95% CI: 13.95, 36.92) longer shuteye period than those who never consumed ED. 
- 
-Conclusion 
-Most ED consumers fail to obtain the recommended 8 h of sleep at night, which could be a consequence of shorter sleep duration and longer shuteye latency. We found a dose-response relationship between frequency of ED consumption and reduced sleep. Yet, the potential long-term effects of both ED consumption and insufficient sleep among adolescents remain unclear.
-  </article>
   <article id="contributors-article-H5NXBWMP" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -77,13 +63,13 @@ Room 4L3202
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg7" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg07_en.png" class="image" alt="SDG 7">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>27</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=7#archive" class="sdg-publication-count"><span>27</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal7" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Terminology in education and research: Honneth’s Anerkennung from the perspective of Norwegian, Danish, and English"
+title: "VJZRLIX7"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,23 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VJZRLIX7" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1990603" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VJZRLIX7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-VJZRLIX7" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VJZRLIX7" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-VJZRLIX7" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://czasopisma.bg.ug.edu.pl/index.php/beyond/article/download/6864/6104" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VJZRLIX7"></div>
 </article>
 <div id="csl-bib-meta-VJZRLIX7" class="csl-bib-meta">
-  <article id="abstract-article-VJZRLIX7" class="abstract-article">
-    <h1>Samandrag</h1>
-    The purpose of this article is to discuss potential challenges related to the introduction (import or translation) and use of terminology from another language. This is exemplified by a discussion on a single term, 
-Anerkennung, from Honneth’s (1992) recognition theory, which is either easily adopted because of an already existing linguistic heritage 
-(Danish, Norwegian, and partly Swedish) or translated (English) with compromises and specifications of the suggested term. The need for such a discussion arises from the fact that the same/identical (morphological) form of the term cannot necessarily be used in Norwegian, 
-since Norwegian has two official written varieties and certain standardization principles that may differ for each of the varieties. The article addresses metalinguistic reflection and the responsibility of translators, researchers, educators, curriculum developers and language 
-authorities in connection with these issues. With reference to the Educational Role of Language network and perspectives like languagebeliefs, language-activity, language-affects, and language-thinking, the article attempts to show that reflection on and standardization of terminology in education may be even more important because of the possible implications for understanding and use, and the consequences it may have.
-  </article>
   <article id="contributors-article-VJZRLIX7" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -71,7 +63,7 @@ Rom 2C256-7
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Oral care quality—Do humanity aspects matter? Nursing staff's and older people's perceptions"
+title: "DQGMPN5K"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DQGMPN5K" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1870117" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/DQGMPN5K" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://kau.diva-portal.org/smash/get/diva2:1304126/FULLTEXT01" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-DQGMPN5K"></div>
 </article>

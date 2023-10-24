@@ -1,5 +1,5 @@
 ---
-title: "Situational awareness in a creeping crisis: How the initial phases of the COVID‐19 pandemic were handled from a crisis management perspective in the Nursing Home Agency in Oslo"
+title: "JHF5PILL"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JHF5PILL" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2131689" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JHF5PILL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JHF5PILL" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JHF5PILL" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-JHF5PILL" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://doi.org/10.1111/1468-5973.12458" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JHF5PILL"></div>
 </article>
 <div id="csl-bib-meta-JHF5PILL" class="csl-bib-meta">
-  <article id="abstract-article-JHF5PILL" class="abstract-article">
-    <h1>Abstract</h1>
-    In March 2020, the municipality of Oslo's Nursing Home Agency was hit by Norway's first COVID‐19 outbreak. Being responsible for a very vulnerable group, they had to deal with a situation never before encountered and of which they had very limited knowledge. In this study, we explored how situational awareness (SA) changed from a creeping to an urgent crisis. We undertook a case study of the Nursing Home Agency's top management during the initial period of the COVID‐19 pandemic (December 2019 through late March 2020). We conducted individual interviews with the management in charge of decisions. Thematic analysis yielded four main categories affecting SA: perception of event development, perception of available time, information, and cooperation and trust. We found that subjective experience of the geographical proximity of the crisis and subjective experience of time were essential in shaping SA. Perception of time was essential to the understanding of urgency, which was an important factor in reacting properly. Further, the perception of space was necessary for the crisis to be interpreted as critical. Time and space are objective factors but are perceived subjectively. Our model showed that the crisis must be perceived as urgent for proper actions to be decided upon.
-  </article>
   <article id="contributors-article-JHF5PILL" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -65,13 +61,13 @@ Campus Rena
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

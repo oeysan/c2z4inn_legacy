@@ -1,5 +1,5 @@
 ---
-title: "Psychiatric symptoms experienced by adolescents in Nepal following the 2015 earthquakes"
+title: "2IPT9CKC"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,32 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2IPT9CKC" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1574791" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/2IPT9CKC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-2IPT9CKC" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-2IPT9CKC" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-2IPT9CKC" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.jad.2018.03.002" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-2IPT9CKC"></div>
 </article>
 <div id="csl-bib-meta-2IPT9CKC" class="csl-bib-meta">
-  <article id="abstract-article-2IPT9CKC" class="abstract-article">
-    <h1>Abstract</h1>
-    Background 
-In 2015, Nepal was hit by two major earthquakes, which caused 8900 deaths and displaced more than 450,000 people. We assessed the prevalence of post-traumatic stress symptoms (PTSS) and depressive symptoms and explored potential risk factors among adolescents. 
- 
-Methods 
-This cross-sectional study comprised 893 students aged 11–17 in school grades 7–10. They lived in two districts affected by the earthquakes: Sindhupalchok and Kathmandu. Psychiatric symptoms were assessed using Child PTSD symptom scale and Depression Self-Rating Scale. Multiple logistic regression analysis examined the associations between demographic, earthquake-related factors and psychiatric symptoms. 
- 
-Results 
-The prevalence of PTSS in the Sindhupalchok and Kathmandu districts were 39.5% and 10.7%, and depression symptoms were 40.4% and 23.2% respectively. The moderating effect of gender on the relationship between age and PTSS was significant. In the multivariate logistic analyses, the factors associated with PTSS and depression were: being female, prior exposure to trauma and being directly affected by the earthquakes. 
- 
-Limitations 
-Due to the lack of pre-earthquake prevalence rates, our estimates may have been due to chronic long-lasting problems of poverty and lack of access to physical and mental health services. The use of self-reported questionnaires might have overestimated the prevalence rates compared to psychiatric interviews. 
- 
-Conclusions 
-One year after the earthquakes, adolescents living in Sindhupalchok had a higher prevalence of PTSS and depressive symptoms than those living in Kathmandu. Socio-economic and earthquake-related factors were associated with psychiatric outcomes. The findings indicate the need for early psychosocial interventions, prevention and future research after emergency relief
-  </article>
   <article id="contributors-article-2IPT9CKC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -80,7 +63,7 @@ Room 4L3202
     <div class="sdg-container"><div id="sdg1" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg01_en.png" class="image" alt="SDG 1">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>37</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=1#archive" class="sdg-publication-count"><span>39</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal1" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

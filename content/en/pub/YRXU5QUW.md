@@ -1,5 +1,5 @@
 ---
-title: "Changing Attitudes Towards Territorial Municipal Reforms – The Case of Inland Norway"
+title: "YRXU5QUW"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YRXU5QUW" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1809274" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YRXU5QUW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-YRXU5QUW" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-YRXU5QUW" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-YRXU5QUW" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://pub.lex-localis.info/index.php/LexLocalis/article/view/1274/632" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-YRXU5QUW"></div>
 </article>
 <div id="csl-bib-meta-YRXU5QUW" class="csl-bib-meta">
-  <article id="abstract-article-YRXU5QUW" class="abstract-article">
-    <h1>Abstract</h1>
-    Inland people’s attitude towards municipal amalgamation reform in Norway from 2013 to 2018 has become more positive. However, a majority does not support the ongoing reform, but the changes have been substantial during such a short time period. However, these changes seem not to be a result of new and more positive judgements of the reforms’ results and outcome. By contrast, the majority has been more critical of anticipated consequences of the amalgamation reform into larger municipalities. Instead, we considered the changes as a type of ‘resignation’ towards a reform pressure from the national government and general changes in their environment. More citizens’ assess that positive municipal economic development and more local competence are favourable effects of mergers, and this finding supports this claim. The reform is likely to catch up with their local units anyway, and the citizens’ attitudes are adapting to what they expect will occur in the upcoming years.
-  </article>
   <article id="contributors-article-YRXU5QUW" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -165,7 +161,7 @@ Room 3Ø006
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

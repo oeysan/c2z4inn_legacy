@@ -1,5 +1,5 @@
 ---
-title: "En analyse av makt og kultursensitivitet blant utvekslingsstudenter til og fra det globale sør gjennom faget Global Knowledge"
+title: "UGPP5D9C"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UGPP5D9C" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2054113" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UGPP5D9C" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-UGPP5D9C" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UGPP5D9C" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/9788215056180-2022-03" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-UGPP5D9C"></div>
 </article>
 <div id="csl-bib-meta-UGPP5D9C" class="csl-bib-meta">
-  <article id="abstract-article-UGPP5D9C" class="abstract-article">
-    <h1>Samandrag</h1>
-    Ved å se på 19 prosjektoppgaver skrevet av norske og zambiske studenter basert på deres utenlandspraksis i faget Global Knowledge drøfter vi hvordan kultur og makt kommer til uttrykk. Vi finner forskjeller i valg av tema, teori, metodisk tilnærming og egen posisjonering som utenlandsstudent. I lys av kritisk hvithetsteori, kritisk pedagogikk og interkulturell kompetanse vektlegger vi i dette kapittelet de norske studentenes prosjektoppgaver relatert til praksis i Zambia.
-  </article>
   <article id="contributors-article-UGPP5D9C" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

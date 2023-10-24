@@ -1,5 +1,5 @@
 ---
-title: "Factors affecting teachers’ motivation: An HRM challenge for public sector higher educational institutions of Pakistan (HEIs)"
+title: "2HVM9E7V"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2HVM9E7V" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2096710" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/2HVM9E7V" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-2HVM9E7V" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-2HVM9E7V" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-2HVM9E7V" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/IJEM-04-2014-0057" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-2HVM9E7V"></div>
 </article>
 <div id="csl-bib-meta-2HVM9E7V" class="csl-bib-meta">
-  <article id="abstract-article-2HVM9E7V" class="abstract-article">
-    <h1>Samandrag</h1>
-    Purpose– The purpose of this paper is to explore/investigate various issues of teachers ' motivation in public sector Higher Educational Institutions of Pakistan. Design/methodology/approach– This is an exploratory research where surveys have been conducted in the well known public sector Universities of Pakistan; primary data have been collected through questionnaire and in depth face to face interviews. Findings– Findings of the research have shown that although compensation packages and financial incentives are important factors for employees in the competitive market environment of the higher education sector but some other factors like job design and working environment, performance management system, and training and development are also significant. The research has also explored various issues being faced by teachers in public sector HEIs related to the above mentioned factors. Originality/value– This study can play a vital role in compelling the higher education authorities to ponder over the motivational issues of teachers in universities. The research can prove to be an effectual document for other worldwide universities where teachers are facing similar issues.
-  </article>
   <article id="contributors-article-2HVM9E7V" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Studiested Kongsvinger
     <div class="sdg-container"><div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>54</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

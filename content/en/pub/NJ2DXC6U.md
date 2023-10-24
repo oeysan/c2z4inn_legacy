@@ -1,5 +1,5 @@
 ---
-title: "Do “Girls Just Wanna Have Fun?” Participation Trends and Motivational Profiles of Women in the Birkebeiner Races, Norway’s Ultimate Mass Participation Ski Event"
+title: "NJ2DXC6U"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NJ2DXC6U" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1755380" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NJ2DXC6U" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-NJ2DXC6U" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NJ2DXC6U" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-NJ2DXC6U" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02548/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-NJ2DXC6U"></div>
 </article>
 <div id="csl-bib-meta-NJ2DXC6U" class="csl-bib-meta">
-  <article id="abstract-article-NJ2DXC6U" class="abstract-article">
-    <h1>Abstract</h1>
-    Mass participation sporting events (MPSEs) are viewed as encouraging regular exercise in the population, but concerns have been expressed about the extent to which they are inclusive for women. This study focuses on an iconic cross-country skiing MPSE in Norway, the Birkebeiner race (BR), which includes different variants (main, Friday, half-distance, and women-only races). In order to shed light on women’s participation in this specific MPSE, as well as add to the understanding of women’s MPSEs participation in general, this study was set up to: (i) analyze trends in women’s participation, (ii) examine the characteristics, and (iii) identify key factors characterizing the motivational profile of women in different BR races, with emphasis on the full-distance vs. the women-only races. Entries in the different races throughout the period 1996–2018 were analyzed using an autoregressive model. Information on women’s sociodemographic characteristics, sport and exercise participation, and a range of psychological variables (motives, perceptions, overall satisfaction, and future participation intention) were extracted from a market survey and analyzed using a machine learning (ML) approach (n = 1,149). Additionally, qualitative information generated through open-ended questions was analyzed thematically (n = 116). The relative prevalence of women in the main BR was generally low (&lt; 20%). While the other variants contributed to boosting women’s participation in the overall event, a future increment of women in the main BR was predicted, with women’s ratings possibly matching the men’s by the year 2034. Across all races, most of the women were physically active, of medium-high income, and living in the most urbanized region of Norway. Satisfaction and future participation intention were relatively high, especially among the participants in the women-only races. “Exercise goal” was the predominant participation motive. The participants in women-only races assigned greater importance to social aspects, and perceived the race as a tradition, whereas those in the full-distance races were younger and gave more importance to performance aspects. These findings corroborate known trends and challenges in MPSE participation, but also contribute to greater understanding in this under-researched field. Further research is needed in order to gain more knowledge on how to foster women’s participation in MPSEs.
-  </article>
   <article id="contributors-article-NJ2DXC6U" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -132,19 +128,19 @@ Room 4L3336
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg11" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>23</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=11#archive" class="sdg-publication-count"><span>23</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

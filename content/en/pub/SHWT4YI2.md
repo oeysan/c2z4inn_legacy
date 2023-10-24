@@ -1,5 +1,5 @@
 ---
-title: "Temperature Effects on Recruitment and Individual Growth of Two Antagonistic Fish Species, Perch Perca fluviatilis and Roach Rutilus rutilus, from a Climate Change Perspective"
+title: "SHWT4YI2"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SHWT4YI2" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2170723" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SHWT4YI2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-SHWT4YI2" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SHWT4YI2" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-SHWT4YI2" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.mdpi.com/2410-3888/8/6/295/pdf?version=1685608209" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-SHWT4YI2"></div>
 </article>
 <div id="csl-bib-meta-SHWT4YI2" class="csl-bib-meta">
-  <article id="abstract-article-SHWT4YI2" class="abstract-article">
-    <h1>Abstract</h1>
-    Perch (Perca fluviatilis) in four boreal lakes and sympatric roach (Rutilis rutilis) in two of these lakes were studied by means of gill net sampling, and age and growth were analyzed to explore whether summer temperature affects recruitment and individual growth of the two species differently. Water temperature logging in the lakes showed a highly significant correlation with air temperature. Year-class strength of the perch was significantly positively affected by the summer air temperature, whereas the temperature effect was non-significant for the roach. There was a significant negative effect of year-class strength of one-year-old perch on roach year-class strength in one lake. ln one of the allopatric perch populations, the year-class strength correlation with temperature failed after biomass removal, probably because fishing affected the age structure. July–August air temperature had a significantly positive effect on individual growth rates of two- to five-year-old perch, whereas the effect on roach growth was less clear. The inclination of perch to predate its competitor, roach, as well as conspecifics, as well as accelerated individual growth, were shown to occur more frequently in years with abundant 1+ perch, i.e., the summer after the rise of a strong year-class. Climate warming may potentially favor perch recruitment and growth.
-  </article>
   <article id="contributors-article-SHWT4YI2" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Room 2N1285
     <div class="sdg-container"><div id="sdg14" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg14_en.png" class="image" alt="SDG 14">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>41</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=14#archive" class="sdg-publication-count"><span>42</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal14" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

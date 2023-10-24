@@ -1,5 +1,5 @@
 ---
-title: "Strength training improves double-poling performance after prolonged submaximal exercise in cross-country skiers"
+title: "VTQINN8U"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VTQINN8U" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1523424" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VTQINN8U" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-VTQINN8U" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VTQINN8U" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1111/sms.12990" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-VTQINN8U"></div>
 </article>
 <div id="csl-bib-meta-VTQINN8U" class="csl-bib-meta">
-  <article id="abstract-article-VTQINN8U" class="abstract-article">
-    <h1>Abstract</h1>
-    The purpose of this study was to investigate the effects of adding strength training with or without vibration to cross-country (XC) skiers' endurance training on double-poling (DP) performance, physiological, and kinematic adaptations. Twenty-one well-trained male XC-skiers combined endurance- and upper-body strength training three times per week, either with (n = 11) or without (n = 10) superimposed vibrations for 8 weeks, whereas eight skiers performed endurance training only (CON). Testing included 1RM in upper-body exercises, work economy, neural activation, oxygen saturation in muscle, and DP kinematics during a prolonged submaximal DP roller ski test which was directly followed by a time to exhaustion (TTE) test. TTE was also performed in rested state, and the difference between the two TTE tests (TTEdiff ) determined the ability to maintain DP performance after prolonged exercise. Vibration induced no additional effect on strength or endurance gains. Therefore, the two strength training groups were pooled (STR, n = 21). 1RM in STR increased more than in CON (P &lt; .05), and there were no differences in changes between STR and CON in any measurements during prolonged submaximal DP. STR improved TTE following prolonged DP (20 ± 16%, P &lt; .001) and revealed a moderate effect size compared to CON (ES = 0.80; P = .07). Furthermore, STR improved TTEdiff more than CON (P = .049). In conclusion, STR superiorly improved 1RM strength, DP performance following prolonged submaximal DP and TTEdiff , indicating a specific effect of improved strength on the ability to maintain performance after long-lasting exercise.
-  </article>
   <article id="contributors-article-VTQINN8U" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

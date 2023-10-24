@@ -1,5 +1,5 @@
 ---
-title: "Development of salutogenic coping skills: experiences with daily challenges among young adults suffering from serious mental illness"
+title: "25ZWQAS3"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-25ZWQAS3" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1873673" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/25ZWQAS3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-25ZWQAS3" class="csl-bib-button">Contributors</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/17482631.2021.1879369?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-25ZWQAS3"></div>
 </article>

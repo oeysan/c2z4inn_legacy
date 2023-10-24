@@ -1,5 +1,5 @@
 ---
-title: "Consumption practices and Social inclusion among children in Lillehammer"
+title: "UUYA3MC3"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UUYA3MC3" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1685400" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UUYA3MC3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UUYA3MC3" class="csl-bib-button">Contributors</a>
+    <a href="https://www.idunn.no/file/pdf/67112530/9_consumption_practices_and_social_inclusion_among_childre.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-UUYA3MC3"></div>
 </article>

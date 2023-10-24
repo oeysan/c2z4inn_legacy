@@ -1,5 +1,5 @@
 ---
-title: "Norwegian Cross-Cultural Adaptation of the Social and Communities Opportunities Profile-Mini for Persons with Concurrent Mental Health and Substance Use Disorders"
+title: "VRURG6Y8"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,46 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VRURG6Y8" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2059195" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VRURG6Y8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-VRURG6Y8" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VRURG6Y8" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-VRURG6Y8" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s40737-022-00309-0.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VRURG6Y8"></div>
 </article>
 <div id="csl-bib-meta-VRURG6Y8" class="csl-bib-meta">
-  <article id="abstract-article-VRURG6Y8" class="abstract-article">
-    <h1>Abstract</h1>
-    Persons with concurrent mental health and 
-substance use disorders often do not participate 
-actively in society and remain marginalized. The 
-promotion of social inclusion is important for the care 
-of persons with concurrent disorders. To measure 
-social inclusion, the Social and Communities Opportunities Profile (SCOPE) was developed, followed by 
-its mini version for English-speaking people in 
-Singapore. In Norway, there is no instrument available 
-to measure social inclusion. Thus, the aim was crosscultural adaptation of SCOPE Mini for persons with 
-concurrent disorders. The Norwegian adaptation was performed using the systematic approach recommended by Beaton et al. After a forward–backward 
-translation, the Norwegian SCOPE-Mini was pretested among 30 persons with a concurrent mental 
-health and substance use disorder in three areas to 
-check its psychometric properties. To evaluate comprehensibility and applicability, participants were 
-asked five open questions. The Norwegian crosscultural adaptation of SCOPE Mini showed acceptable psychometric properties and was considered 
-comparable to the original version. The results of the 
-pre-test showed no linguistic inconsistency, but some 
-indications of the necessity of semantic adaptation 
-regarding the cultural context and persons with 
-concurrent disorders. The Norwegian SCOPE Mini 
-may be a practical tool for health professionals, social 
-workers, and researchers to measure social inclusion 
-among a vulnerable group such as persons with a 
-concurrent mental health and substance use disorder. 
-However, given the relatively small sample size in our 
-study, further research on the validity and reliability of 
-the instrument is recommended. 
-The Author(s) 2022. This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. To view a copy of this licence, visit 
-http://creativecommons.org/licenses/by/4.0/.
-  </article>
   <article id="contributors-article-VRURG6Y8" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -94,7 +63,7 @@ Room 4L3202
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

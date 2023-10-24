@@ -1,5 +1,5 @@
 ---
-title: "The relationship between postural stability and cybersickness: It's complicated – An experimental trial assessing practical implications of cybersickness etiology"
+title: "JHEEB3AB"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JHEEB3AB" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1906049" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JHEEB3AB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JHEEB3AB" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.physbeh.2021.113422" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-JHEEB3AB"></div>
 </article>

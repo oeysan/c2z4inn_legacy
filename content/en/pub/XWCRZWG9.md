@@ -1,5 +1,5 @@
 ---
-title: "Norwegian perspectives on education and cultural diversity"
+title: "XWCRZWG9"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XWCRZWG9" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1583355" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XWCRZWG9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-XWCRZWG9" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XWCRZWG9" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-XWCRZWG9" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-XWCRZWG9"></div>
 </article>
 <div id="csl-bib-meta-XWCRZWG9" class="csl-bib-meta">
-  <article id="abstract-article-XWCRZWG9" class="abstract-article">
-    <h1>Abstract</h1>
-    This collection of articles utilises thematic orientations, methodological approaches and data materials to give an insight into the opportunities and challenges that exist for education in society, in relation to the growing cultural and linguistic complexity that exists. It is written by researchers at Inland Norway University of Applied Sciences, in Norway, and while the book is anchored in a specific Norwegian educational, cultural and political context, it addresses issues that would be of interest to an international academic audience.
-  </article>
   <article id="contributors-article-XWCRZWG9" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -95,7 +90,7 @@ Campus Hamar
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

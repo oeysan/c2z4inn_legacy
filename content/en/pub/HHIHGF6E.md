@@ -1,5 +1,5 @@
 ---
-title: "The alternative prey hypothesis revisited: Still valid for willow ptarmigan population dynamics"
+title: "HHIHGF6E"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HHIHGF6E" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1589576" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HHIHGF6E" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HHIHGF6E" class="csl-bib-button">Contributors</a>
+    <a href="https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0197289/1/pone.0197289.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&amp;X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210222%2Fauto%2Fstorage%2Fgoog4_request&amp;X-Goog-Date=20210222T143849Z&amp;X-Goog-Expires=3600&amp;X-Goog-SignedHeaders=host&amp;X-Goog-Signature=0c7ca4f3705c0a566ba8d553e849244989d1fdd88795a3a2cd71bd082a70eee936e2c726fe3fb2e2150da4aaef8853326ea425964155fe66bb5a3686cc64c0ecdf1cf72306dc257449bb388eed47bf6f15f9107cfd9ee13d36ffa41824bca5621f54bc5b285b3a0b289ede05dbf967e671d63562dba7c4db3fabb01841275227250c606e22d9458646ee766bed639305f4f111409e428a7956bfbb994d90b3a885406ad32af11d14c4279c2996ba4a43a2b7077b4fbecdbd99a8252ee032fb6e8b629850c4e17348460fc9180bee08a543f3cd19cf46acf2d6476e8410027abec2bd1ad10252cb77e548980fff8a5a0a930e4062198592215728beb04f506200" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-HHIHGF6E"></div>
 </article>

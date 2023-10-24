@@ -1,5 +1,5 @@
 ---
-title: "Validating the European Health Literacy Survey Questionnaire in people with type 2 diabetes: Latent trait analyses applying multidimensional Rasch modelling and confirmatory factor analysis"
+title: "NXAQBW6Z"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,40 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NXAQBW6Z" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1472598" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NXAQBW6Z" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-NXAQBW6Z" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NXAQBW6Z" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-NXAQBW6Z" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://kau.diva-portal.org/smash/get/diva2:1111626/FULLTEXT01" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-NXAQBW6Z"></div>
 </article>
 <div id="csl-bib-meta-NXAQBW6Z" class="csl-bib-meta">
-  <article id="abstract-article-NXAQBW6Z" class="abstract-article">
-    <h1>Samandrag</h1>
-    Aim. To validate the European Health Literacy Survey Questionnaire (HLS-EU-Q47) in 
-people with type 2 diabetes mellitus. 
-Background. The HLS-EU-Q47 latent variable is outlined in a framework with four 
-cognitive domains integrated in three health domains, implying 12 theoretically defined 
-subscales. Valid and reliable health literacy measurers are crucial to effectively adapt health 
-communication and education to individuals and groups of patients. 
-Design. Cross-sectional study applying confirmatory latent trait analyses. 
-Methods. Using a paper-and-pencil self-administered approach, 388 adults responded in 
-March 2015. The data were analysed using the Rasch methodology and confirmatory factor 
-analysis. 
-Results. Response violation and trait violation (multidimensionality) of local independence 
-were identified. Fitting the ‘multidimensional random coefficients multinomial logit’ model, 
-1-, 3- and 12-dimensional Rasch models were applied and compared. Poor model fit and 
-differential item functioning were present in some items and several subscales suffered from 
-poor targeting and low reliability. Despite multidimensionality in the data, we did not observe 
-any unordered response categories. 
-Conclusion. Interpreting the domains as distinct but related latent dimensions, the data fit a 
-12-dimensional Rasch model and a 12-factor confirmatory factor model best. Therefore, the 
-analyses did not support the estimation of one overall ‘health literacy score’. To support the 
-plausibility of claims based on the HLS-EU score(s), we suggest: removing the health care 
-aspect to reduce the magnitude of multidimensionality; rejecting redundant items to confine 
-response dependency; adding ‘harder’ items and applying a six-point rating scale to improve subscale targeting and reliability; and revising items to improve model fit.
-  </article>
   <article id="contributors-article-NXAQBW6Z" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -88,13 +63,13 @@ Rom 4L3203
     <div class="sdg-container"><div id="sdg1" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg01_no.png" class="image" alt="SDG 1">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>37</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=1#archive" class="sdg-publication-count"><span>39</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/utrydde-fattigdom?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

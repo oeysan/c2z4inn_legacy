@@ -1,5 +1,5 @@
 ---
-title: "Widespread habitat for Europe's largest herbivores, but poor connectivity limits recolonization"
+title: "IADEKPUC"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IADEKPUC" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2136181" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/IADEKPUC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-IADEKPUC" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IADEKPUC" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-IADEKPUC" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ddi.13671" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-IADEKPUC"></div>
 </article>
 <div id="csl-bib-meta-IADEKPUC" class="csl-bib-meta">
-  <article id="abstract-article-IADEKPUC" class="abstract-article">
-    <h1>Samandrag</h1>
-    Aim Several large‐mammal species in Europe have recovered and recolonized parts of their historical ranges. Knowing where suitable habitat exists, and thus where range expansions are possible, is important for proactively promoting coexistence between people and large mammals in shared landscapes. We aimed to assess the opportunities and limitations for range expansions of Europe's two largest herbivores, the European bison ( Bison bonasus ) and moose ( Alces alces ). LocationCentral Europe. MethodsWe used large occurrence datasets from multiple populations and species distribution models to map environmentally suitable habitats for European bison and moose across Central Europe, and to assess human pressure inside the potential habitat. We then used circuit theory modeling to identify potential recolonization corridors. Results We found widespread suitable habitats for both European bison (&gt;120,000 km 2 ) and moose (&gt;244,000 km 2 ), suggesting substantial potential for range expansions. However, much habitat was associated with high human pressure (37% and 43% for European bison and moose, respectively), particularly in the west of Central Europe. We identified a strong east–west gradient of decreasing connectivity, with major barriers likely limiting natural recolonization in many areas. Main conclusionsWe identify major potential for restoring large herbivores and their functional roles in Europe's landscapes. However, we also highlight considerable challenges for conservation planning and wildlife management, including areas where recolonization likely leads to human–wildlife conflict and where barriers to movement prevent natural range expansion. Conservation measures restoring broad‐scale connectivity are needed in order to allow European bison and moose to recolonize their historical ranges. Finally, our analyses and maps indicate suitable but isolated habitat patches that are unlikely to be colonized but are candidate locations for reintroductions to establish reservoir populations. More generally, our work emphasizes that transboundary cooperation is needed for restoring large herbivores and their ecological roles, and to foster coexistence with people in Europe's landscapes.
-  </article>
   <article id="contributors-article-IADEKPUC" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Studiested Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

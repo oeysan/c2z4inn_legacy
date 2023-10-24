@@ -1,5 +1,5 @@
 ---
-title: "To engage or not: how does concern for personal brand impact consumers’ Social Media Engagement Behaviour (SMEB)?"
+title: "AAJDQVYY"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AAJDQVYY" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2056422" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/AAJDQVYY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AAJDQVYY" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1080/0965254x.2022.2127854" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-AAJDQVYY"></div>
 </article>

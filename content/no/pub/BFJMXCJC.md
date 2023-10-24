@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Work Mode and Its Importance for Home–Work and Work–Home Relationships: The Role of Resilience, Coping with Stress, and Passion for Work"
+title: "BFJMXCJC"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,30 +9,26 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BFJMXCJC" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2058502" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BFJMXCJC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-BFJMXCJC" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#sdg-article-BFJMXCJC" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/1660-4601/19/21/14491/pdf?version=1667959289" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-BFJMXCJC"></div>
 </article>
 <div id="csl-bib-meta-BFJMXCJC" class="csl-bib-meta">
-  <article id="abstract-article-BFJMXCJC" class="abstract-article">
-    <h1>Samandrag</h1>
-    The COVID-19 pandemic necessitated and facilitated the introduction of telework in organizations. This has also impacted the workers’ relationship between work and private life. The aim of the current study was to examine the links between resilience and mode of work (stationary vs. remote) and the work–home and home–work relationships, and whether they are mediated by passion for work and strategies of coping with stress. The study was carried out on a sample of 1251 participants from Great Britain, India, Latvia, Lithuania, Norway, Poland, Romania, Serbia, Slovakia, and Vietnam. The following measures were used: The Survey Work–Home Interaction, The Brief Resilience Coping Scale, The Passion Scale, and the Brief COPE. Results showed that the more stationary the mode of work, the lower the intensity of the negative influence of personal life on work. Resilience was revealed to have a positive effect on worker functioning. The study also showed a relationship between education and gender and passion for work. Finally, the importance of furthering the knowledge on the home–work and work–home relationships among teleworkers is discussed.
-  </article>
   <article id="sdg-article-BFJMXCJC" class="sdg-article">
     <h1>Berekraftsmål</h1>
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

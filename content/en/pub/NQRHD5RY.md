@@ -1,5 +1,5 @@
 ---
-title: "Dissections of input and output efficiency: A generalized stochastic frontier model"
+title: "NQRHD5RY"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NQRHD5RY" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1858424" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NQRHD5RY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.ijpe.2020.107940" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-NQRHD5RY"></div>
 </article>

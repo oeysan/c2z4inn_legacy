@@ -1,5 +1,5 @@
 ---
-title: "Phenolic Acids in Jerusalem Artichoke (Helianthus tuberosus L.): Plant Organ Dependent Antioxidant Activity and Optimized Extraction from Leaves"
+title: "SFJMA2NT"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SFJMA2NT" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1790270" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SFJMA2NT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-SFJMA2NT" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SFJMA2NT" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-SFJMA2NT" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/1420-3049/24/18/3296/pdf?version=1568115743" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-SFJMA2NT"></div>
 </article>
 <div id="csl-bib-meta-SFJMA2NT" class="csl-bib-meta">
-  <article id="abstract-article-SFJMA2NT" class="abstract-article">
-    <h1>Samandrag</h1>
-    Phenolic acids including chlorogenic acids are major polyphenolic compounds found in Jerusalem artichoke (Helianthus tuberosus L.). The plant itself is an emerging biorefinery crop due to the inulin-rich tubers, a bioethanol feedstock, but the aerial parts represent a rich source of bioactive compounds. We have determined the level of major phenolic acids in extracts of four plant organs: tuber, leaf, flower, and stem. Employing three heating conditions (20 °C, 60 °C, and microwaving), corrected total phenolic content (TPC) was highest in the leaves (4.5–5.7 mg gallic acid equivalents g−1 dry substance), followed by flower (2.1–2.9), tuber (0.9–1.4), and lowest in stem extracts (0.1–0.2). A previously overlooked interference of the Folin–Ciocalteu assay, namely a signal contribution from ascorbic acid, caused overestimation of TPC in various organs ranging from 65% to 94%. Radical scavenging activity of extracts correlated significantly with TPC, both on corrected (R2 = 0.841) and uncorrected (R2 = 0.884) values. Out of the identified phenolic acids determined by quantitative HPLC-UV analysis, chlorogenic and dicaffeoylquinic acids accounted for 72–82% of corrected TPC in leaf and tuber extracts. Optimization of leaf extraction was tested in a 23-factorial Central Composite Face (CCF) design. Temperature was the most important model term, and a solvent strength of less than 50% ethanol promoted the highest TPC yields. Further developments in extraction processing of crop residues may open avenues for improving the utilization of Jerusalem artichoke in valuable products.
-  </article>
   <article id="contributors-article-SFJMA2NT" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -95,7 +91,7 @@ Rom 2N1246
     <div class="sdg-container"><div id="sdg6" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg06_no.png" class="image" alt="SDG 6">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>26</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=6#archive" class="sdg-publication-count"><span>29</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/rent-vann-og-gode-sanitaerforhold?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

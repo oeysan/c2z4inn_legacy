@@ -1,5 +1,5 @@
 ---
-title: "Theorising lifestyle drift in health promotion: explaining community and voluntary sector engagement practices in disadvantaged areas"
+title: "B7YHXSDA"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-B7YHXSDA" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1482998" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/B7YHXSDA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-B7YHXSDA" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-B7YHXSDA" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-B7YHXSDA" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://eprints.whiterose.ac.uk/119707/3/Theorising%20lifestyle_drift_in_health_promotion_Author_accepted_copy.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-B7YHXSDA"></div>
 </article>
 <div id="csl-bib-meta-B7YHXSDA" class="csl-bib-meta">
-  <article id="abstract-article-B7YHXSDA" class="abstract-article">
-    <h1>Abstract</h1>
-    The past two decades have seen an increasing role for the UK community and voluntary sector (CVS) in health promotion in disadvantaged areas, largely based on assumptions on the part of funders that CVS providers are better able to engage ‘hard-to-reach’ population groups in services than statutory providers. However, there is limited empirical research exploring CVS provider practices in this field. Using ethnographic data, this paper examines the experiences of a network of CVS providers seeking to engage residents in health-promoting community services in a disadvantaged region in the North of England. The paper shows how CVS providers engaged in apparently contradictory practices, fluctuating between an empathically informed response to complex resident circumstances and (in the context of meeting externally set targets) behavioural lifestyle approaches to health promotion. Drawing on concepts from figurational sociology, the paper explains how lifestyle drift occurs in health promotion as a result of the complex web of relations (with funders, commissioners and residents) in which CVS providers are embedded. Despite the fact that research has revealed the impact of targets on the work of the CVS before, this paper demonstrates more specifically the way in which monitoring processes within CVS contracts can draw providers into the neoliberal lifestyle discourse so prevalent in health promotion.
-  </article>
   <article id="contributors-article-B7YHXSDA" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -64,7 +60,7 @@ Room 4L3336
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

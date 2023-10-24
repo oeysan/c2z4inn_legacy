@@ -1,5 +1,5 @@
 ---
-title: "Explaining variance in self-efficacy among adolescents: the association between mastery experiences, social support, and self-efficacy"
+title: "X6GHA2ZE"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-X6GHA2ZE" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2173148" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/X6GHA2ZE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-X6GHA2ZE" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-X6GHA2ZE" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-X6GHA2ZE" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-023-16603-w" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-X6GHA2ZE"></div>
 </article>
 <div id="csl-bib-meta-X6GHA2ZE" class="csl-bib-meta">
-  <article id="abstract-article-X6GHA2ZE" class="abstract-article">
-    <h1>Samandrag</h1>
-    BackgroundSelf-efficacy has been identified as an important health-promoting factor for both physical and mental health. Previous studies have examined self-efficacy as a moderating factor between negative psychosocial influences and various outcomes, e.g., life satisfaction and stressors. There is, however, limited knowledge about factors that strengthen self-efficacy. The aim of this study is to examine the association between mastery experiences, social support, and self-efficacy among adolescents in secondary schools in Norway. MethodsThis study is based on cross-sectional data from the Ungdata surveys conducted in eastern part of Norway in 2021. The sample comprises 9,221 adolescents aged 13–16. Sequential multivariate linear regression was conducted to explore the association between mastery experiences, social support, and self-efficacy. Results The final model (Model 3) explains 25% of the total variance in self-efficacy. The indicators concerning mastery experiences – defined here as the personal experience of success – explain more of the observed variance in self-efficacy than the other independent variables (change in R square = 10.7%). The items ‘felt mastering things’ ‘and ‘felt useful’ make the strongest and most significant contributions to the variance in self-efficacy in the final model (β = 0.25, p  &lt; 0.001 and β = 0.16, p  &lt; 0.001, respectively), followed by the variables ‘support from friends’ and ‘parental support’ (β = 0.06, p  &lt; 0.001 an β = 0.06, p  &lt; 0.001). ConclusionsMastery experiences are potential sources for creating and strengthening self-efficacy. Awareness of the health-promoting potential in (strengthening) self-efficacy among adolescents is important. Additional research is needed to further explore these associations.
-  </article>
   <article id="contributors-article-X6GHA2ZE" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -131,13 +127,13 @@ Rom 4L3203
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

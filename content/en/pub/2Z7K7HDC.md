@@ -1,5 +1,5 @@
 ---
-title: "Loneliness and Its Associated Factors Nine Months after the COVID-19 Outbreak: A Cross-National Study"
+title: "2Z7K7HDC"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2Z7K7HDC" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1896770" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/2Z7K7HDC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-2Z7K7HDC" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-2Z7K7HDC" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-2Z7K7HDC" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.mdpi.com/1660-4601/18/6/2841/pdf?version=1615433636" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-2Z7K7HDC"></div>
 </article>
 <div id="csl-bib-meta-2Z7K7HDC" class="csl-bib-meta">
-  <article id="abstract-article-2Z7K7HDC" class="abstract-article">
-    <h1>Abstract</h1>
-    COVID-19 has been a global healthcare concern impacting multiple aspects of individual and community wellness. As one moves forward with different methods to reduce the infection and mortality rates, it is critical to continue to study the impact that national and local “social distancing” policies have on the daily lives of individuals. The aim of this study was to examine loneliness in relation to risk assessment, measures taken against risks, concerns, and social media use, while adjusting for sociodemographic variables. The cross-sectional study collected data from 3474 individuals from the USA, the UK, Norway, and Australia. Loneliness was measured with the de Jong Gierveld Loneliness Scale. Multiple linear regression was used in the analysis of associations between variables. The results showed that concerns about finances were more strongly associated with social loneliness, while concerns about the future was more strongly associated with emotional loneliness. Longer daily time spent on social media was associated with higher emotional loneliness. In conclusion, pandemic-related concerns seem to affect perceptions of loneliness. While social media can be used productively to maintain relationships, and thereby prevent loneliness, excessive use may be counterproductive.
-  </article>
   <article id="contributors-article-2Z7K7HDC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Room 4L3213
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

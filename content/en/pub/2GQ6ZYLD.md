@@ -1,5 +1,5 @@
 ---
-title: "Spatiotemporal patterns of red fox scavenging in forest and tundra: the influence of prey fluctuations and winter conditions"
+title: "2GQ6ZYLD"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2GQ6ZYLD" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1901253" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/2GQ6ZYLD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-2GQ6ZYLD" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-2GQ6ZYLD" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-2GQ6ZYLD" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s13364-021-00566-7.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-2GQ6ZYLD"></div>
 </article>
 <div id="csl-bib-meta-2GQ6ZYLD" class="csl-bib-meta">
-  <article id="abstract-article-2GQ6ZYLD" class="abstract-article">
-    <h1>Abstract</h1>
-    Concern has been raised regarding red fox ( Vulpes Vulpes ) population increase and range expansion into alpine tundra, directly and indirectly enhanced by human activities, including carrion supply, and its negative impact on native fauna. In this study, we used cameras on bait stations and hunting remains to investigate how spatiotemporal patterns of red fox scavenging were influenced by abundance and accessibility of live prey, i.e., small rodent population cycles, snow depth, and primary productivity. We found contrasting patterns of scavenging between habitats during winter. In alpine areas, use of baits was highest post rodent peaks and when snow depth was low. This probably reflected relatively higher red fox abundance due to increased reproduction or migration of individuals from neighboring areas, possibly also enhanced by a diet shift. Contrastingly, red fox use of baits in the forest was highest during rodent low phase, and when snow was deep, indicating a higher dependency of carrion under these conditions. Scavenging patterns by red fox on the pulsed but predictable food resource from hunting remains in the autumn revealed no patterns throughout the rodent cycle. In this study, we showed that small rodent dynamics influenced red fox scavenging, at least in winter, but with contrasting patterns depending on environmental conditions. In marginal alpine areas, a numerical response to higher availability of rodents possible lead to the increase in bait visitation the proceeding winter, while in more productive forest areas, low availability of rodents induced a functional diet shift towards scavenging.
-  </article>
   <article id="contributors-article-2GQ6ZYLD" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -67,7 +63,7 @@ Room 6N208
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

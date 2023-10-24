@@ -1,5 +1,5 @@
 ---
-title: "Investment opportunities in the energy market: What can be learnt from different energy sectors"
+title: "2V5JIR3B"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,30 +9,26 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2V5JIR3B" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2016520" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/2V5JIR3B" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-2V5JIR3B" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#sdg-article-2V5JIR3B" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijfe.2610" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-2V5JIR3B"></div>
 </article>
 <div id="csl-bib-meta-2V5JIR3B" class="csl-bib-meta">
-  <article id="abstract-article-2V5JIR3B" class="abstract-article">
-    <h1>Samandrag</h1>
-    We construct portfolio strategies consisting of different stocks from four main energy market sectors, including oil and gas, oil and gas related equipment and services, multiline utilities and renewable energy. To construct portfolio strategies, we first forecast assets' returns by using multivariate copula models. These forecasting frameworks enable us to undertake both symmetric and asymmetric tail connectedness in simulating from the joint distribution. Second, we applied four major risk measures including volatility, mean absolute deviation, conditional value‐at‐risk and conditional drawdown‐at‐Risk. Our findings indicate that the consideration of homogeneity of oil and gas sector and oil and gas related equipment and services sector, together with the heterogeneity of multiline utilities sector and renewable energy sector should lead to information decoupling among these sectors, thereby providing portfolio diversification. The mixed copula model results in better out‐of‐sample economic performance, indicating the advantage obtained from modelling both symmetric and asymmetric tail dependence. Our analysis of the portfolio weights, among the energy market sectors, shows that for optimal portfolios, multiline utilities and renewable energy sectors constitute higher portion of the invested assets. The study results provide an encouraging guideline for developing renewable energy sector from the perspective of financial market.
-  </article>
   <article id="sdg-article-2V5JIR3B" class="sdg-article">
     <h1>Berekraftsmål</h1>
     <div class="sdg-container"><div id="sdg7" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg07_no.png" class="image" alt="SDG 7">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>27</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=7#archive" class="sdg-publication-count"><span>27</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/ren-energi-til-alle?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

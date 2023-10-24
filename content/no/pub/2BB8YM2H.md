@@ -1,5 +1,5 @@
 ---
-title: "Lowered muscle glycogen reduces body mass with no effect on short‐term exercise performance in men"
+title: "2BB8YM2H"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2BB8YM2H" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2140496" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/2BB8YM2H" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-2BB8YM2H" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-2BB8YM2H" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-2BB8YM2H" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sms.14354" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-2BB8YM2H"></div>
 </article>
 <div id="csl-bib-meta-2BB8YM2H" class="csl-bib-meta">
-  <article id="abstract-article-2BB8YM2H" class="abstract-article">
-    <h1>Samandrag</h1>
-    Performance in short‐duration sports is highly dependent on muscle glycogen, but the total degradation is only moderate and considering the water‐binding property of glycogen, unnecessary storing of glycogen may cause an unfavorable increase in body mass. To investigate this, we determined the effect of manipulating dietary carbohydrates (CHO) on muscle glycogen content, body mass, and short‐term exercise performance. In a randomized and counterbalanced cross‐over design, twenty‐two men completed two maximal cycle tests of either 1‐min ( n  = 10) or 15‐min ( n  = 12) duration with different pre‐exercise muscle glycogen levels. Glycogen manipulation was initiated three days prior to the tests by exercise‐induced glycogen depletion followed by ingestion of a moderate (M‐CHO) or high (H‐CHO) CHO‐diet. Subjects were weighed before each test, and muscle glycogen content was determined in biopsies from m. vastus lateralis before and after each test. Pre‐exercise muscle glycogen content was lower following M‐CHO than H‐CHO (367 mmol · kg −1 DW vs. 525 mmol · kg −1 DW, p  &lt; 0.00001), accompanied by a 0.7 kg lower body mass ( p  &lt; 0.00001). No differences were observed in performance between diets in neither the 1‐min ( p  = 0.33) nor the 15‐min ( p  = 0.99) test. In conclusion, pre‐exercise muscle glycogen content and body mass were lower after ingesting moderate compared with high amounts of CHO, while short‐term exercise performance was unaffected. This demonstrates that adjusting pre‐exercise glycogen levels to the requirements of competition may provide an attractive weight management strategy in weight‐bearing sports, particularly in athletes with high resting glycogen levels.
-  </article>
   <article id="contributors-article-2BB8YM2H" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg12" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg12_no.png" class="image" alt="SDG 12">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>11</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=12#archive" class="sdg-publication-count"><span>12</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/ansvarlig-forbruk-og-produksjon?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

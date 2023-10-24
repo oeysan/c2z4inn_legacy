@@ -1,5 +1,5 @@
 ---
-title: "The ethics of knowledge creation : transactions, relations and persons"
+title: "JH3C29ZM"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JH3C29ZM" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1490748" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JH3C29ZM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JH3C29ZM" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.2307/j.ctvw04crd.4" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-JH3C29ZM"></div>
 </article>

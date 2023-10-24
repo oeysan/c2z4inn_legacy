@@ -1,5 +1,5 @@
 ---
-title: "Impacts of Infectious Disease Outbreaks on Firm Performance and Risk: The Forest Industries during the COVID-19 Pandemic"
+title: "ER9BT3RJ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ER9BT3RJ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1938198" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ER9BT3RJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ER9BT3RJ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ER9BT3RJ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-ER9BT3RJ" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.mdpi.com/1911-8074/14/7/318/pdf?version=1626951213" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ER9BT3RJ"></div>
 </article>
 <div id="csl-bib-meta-ER9BT3RJ" class="csl-bib-meta">
-  <article id="abstract-article-ER9BT3RJ" class="abstract-article">
-    <h1>Abstract</h1>
-    We examine the financial performance of the forest products industry in the initial phase of the COVID-19 pandemic, employing data for publicly trading companies in the industry globally. We first examine the market investor reaction to the declaration of a pandemic by the World Health Organization (WHO) in March 2020 by conducting an event-study analysis. Then, we analyze medium-term changes in stock returns and their systematic risk by an econometric estimation of the capital asset pricing model. Our event-study analysis of the forest products industry shows that the forestry subsector was impacted more than the paper subsector when the WHO declared the pandemic. The effect was most prominent in North America. We find that the systematic risk for the forestry subsector tended to increase during 2020, until October. Again, this effect was most clear in North America. Conversely, the impact on the paper subsector was more stable.
-  </article>
   <article id="contributors-article-ER9BT3RJ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -91,7 +87,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

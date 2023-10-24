@@ -1,5 +1,5 @@
 ---
-title: "Norwegian linguistic identity through history – from national identity to linguistic individualism"
+title: "DFAURLRP"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,27 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DFAURLRP" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1990572" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/DFAURLRP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-DFAURLRP" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-DFAURLRP" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-DFAURLRP" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.36534/erlj.2020.02.04" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-DFAURLRP"></div>
 </article>
 <div id="csl-bib-meta-DFAURLRP" class="csl-bib-meta">
-  <article id="abstract-article-DFAURLRP" class="abstract-article">
-    <h1>Samandrag</h1>
-    This paper will discuss how linguistic identity has changed during the history of the Norwegian society 
-and language from the time of the Vikings until today’s identity shaping of Generation Z. Because of the 
-great span of time that is covered in this discussion it will not be possible to go into greater detail. The 
-overall picture is that while there was little awareness about language as an identity marker during the 
-middle ages, linguistic identity became a group project during national romanticism, even though this 
-group project divided into two different linguistic varieties and identities, Bokmål (Dano-Norwegian) and 
-Nynorsk (New Norwegian). In today’s society, linguistic identity is to a large extent characterized by 
-individual language shaping, at least in social media. At the same time, there is still a tendency to 
-accommodate to a group standard and group identity.
-  </article>
   <article id="contributors-article-DFAURLRP" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -75,13 +63,13 @@ Rom 2C256-7
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

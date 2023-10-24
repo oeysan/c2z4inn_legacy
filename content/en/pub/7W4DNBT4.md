@@ -1,5 +1,5 @@
 ---
-title: "Serum biochemistry and haematology in wild and captive bearded seals (Erignathus barbatus) from Svalbard, Norway"
+title: "7W4DNBT4"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7W4DNBT4" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1939274" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7W4DNBT4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-7W4DNBT4" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7W4DNBT4" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-7W4DNBT4" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://actavetscand.biomedcentral.com/track/pdf/10.1186/s13028-021-00598-8" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7W4DNBT4"></div>
 </article>
 <div id="csl-bib-meta-7W4DNBT4" class="csl-bib-meta">
-  <article id="abstract-article-7W4DNBT4" class="abstract-article">
-    <h1>Abstract</h1>
-    BackgroundHealth assessment of seals in captivity include haematology and serum biochemistry measurements. Because such parameters differ between species, it is crucial to have species-specific reference values for the interpretation of clinical samples. Furthermore, differences in nutrition and environment, life cycles as well as seasonal/annual cycles and varying physiological conditions can potentially affect serum chemistry and haematology parameters. Blood samples from four captive adult bearded seals (initially caught as pups in Svalbard, Norway, now held at Polaria, an Arctic experience centre in Tromsø, Norway) collected over a 16-month period were analysed for haematology (n = 22) and serum chemistry (n = 25) parameters. Serum chemistry analyses were also conducted on blood samples from 74 wild bearded seals (1995–2007) collected from Svalbard, Norway. ResultsWe found higher activity of creatine kinase (CK) and higher concentrations of cortisol in the wild animals when compared to the captive seals, probably reflecting the physical restraint and concomitant stress induced during sampling. For the captive bearded seals, we did not find marked differences in haematology or serum chemistry parameters throughout the different seasons of sampling. ConclusionsThis study presents haematology and serum chemistry reference values for captive and wild bearded seals. Comparing physiological parameters for captive seals with wild seals indicated that having wild-caught bearded seals under the conditions offered at Polaria for several years did not markedly affect physiological parameters of the animals, and that training may have helped to alleviate stress associated with blood sampling and veterinary inspection.
-  </article>
   <article id="contributors-article-7W4DNBT4" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -58,7 +54,7 @@ Campus Evenstad
     <div class="sdg-container"><div id="sdg14" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg14_en.png" class="image" alt="SDG 14">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>41</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=14#archive" class="sdg-publication-count"><span>42</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal14" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

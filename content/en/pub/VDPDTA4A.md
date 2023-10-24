@@ -1,5 +1,5 @@
 ---
-title: "Are adolescent elite athletes less psychologically distressed than controls? A cross-sectional study of 966 Norwegian adolescents."
+title: "VDPDTA4A"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,21 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VDPDTA4A" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1593577" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VDPDTA4A" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-VDPDTA4A" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VDPDTA4A" class="csl-bib-button">Contributors</a>
+    <a href="https://www.dovepress.com/getfile.php?fileID=42797" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VDPDTA4A"></div>
 </article>
 <div id="csl-bib-meta-VDPDTA4A" class="csl-bib-meta">
-  <article id="abstract-article-VDPDTA4A" class="abstract-article">
-    <h1>Abstract</h1>
-    Introduction: Psychological distress is increasing among adolescents and clusters with other mental health problems such as eating problems. The aim of this study was to investigate the prevalence of psychological distress among young elite athletes and age-matched controls and whether prevalence figures may be attributed to perfectionism and eating problems.  
-Methods: First-year athletes from all Norwegian elite sport high schools (n=711) and 500 ­students from randomly selected ordinary high schools were eligible for this cross-sectional study. In total, 611 athletes and 355 student controls provided self-report data about psychological distress, perfectionism, and eating problems (ie, body dissatisfaction and a drive for thinness), as well as their physical training/activity.  
-Results: A significantly higher proportion of controls scored above the cutoff point for marked psychological distress. Physical activity above the recommended levels for this age group predicted psychological distress among the controls, while the opposite was found in the student elite athlete sample. In both samples, perfectionistic concerns, ie, concern over mistakes, predicted overall psychological distress. However, among elite athletes, perfectionistic concerns were particularly associated with clinically significant psychological distress. Moreover, the impact of eating problems was negligible.  
-Conclusion: Results from this study highlight the need to target the maladaptive perfectionistic concerns to prevent psychological distress among young athletes as well as among their age-matched nonathlete counterparts.
-  </article>
   <article id="contributors-article-VDPDTA4A" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

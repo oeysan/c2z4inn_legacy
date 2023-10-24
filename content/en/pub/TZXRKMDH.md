@@ -1,5 +1,5 @@
 ---
-title: "Implementation fidelity in a complex intervention promoting psychosocial well-being following stroke: an explanatory sequential mixed methods study"
+title: "TZXRKMDH"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TZXRKMDH" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1685276" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TZXRKMDH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TZXRKMDH" class="csl-bib-button">Contributors</a>
+    <a href="https://bmcmedresmethodol.biomedcentral.com/track/pdf/10.1186/s12874-019-0694-z" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TZXRKMDH"></div>
 </article>

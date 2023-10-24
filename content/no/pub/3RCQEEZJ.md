@@ -1,5 +1,5 @@
 ---
-title: "Saturation Season: Inclusivity, Queerness, and Esthetics in the New Media Practices of Brockhampton"
+title: "3RCQEEZJ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3RCQEEZJ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1949840" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3RCQEEZJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-3RCQEEZJ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3RCQEEZJ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-3RCQEEZJ" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/03007766.2021.1984019?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3RCQEEZJ"></div>
 </article>
 <div id="csl-bib-meta-3RCQEEZJ" class="csl-bib-meta">
-  <article id="abstract-article-3RCQEEZJ" class="abstract-article">
-    <h1>Samandrag</h1>
-    Following the self-release of their Saturation album trilogy in 2017, American hip-hop group Brockhampton broke through to an international audience. The period of the trilogy’s release – known as “Saturation Season” – is notable for the large body of creative content the group produced and released online. In this article, the authors demonstrate how the group’s new media practices query the boundaries that separate amateurs and professionals, consumers and producers, and fans and artists, raising a range of questions concerning digitalization, (social) inclusion, and the democratization of culture. Emphasis is placed on exploring the contradictory effects of the digital turn in popular music.
-  </article>
   <article id="contributors-article-3RCQEEZJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 2K223
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Relevance of Adult Higher Education on Knowledge Management in the Healthcare Sector"
+title: "JDH7RPSK"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JDH7RPSK" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1859037" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JDH7RPSK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JDH7RPSK" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JDH7RPSK" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-JDH7RPSK" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://academic-publishing.org/index.php/ejkm/article/download/1158/1121" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JDH7RPSK"></div>
 </article>
 <div id="csl-bib-meta-JDH7RPSK" class="csl-bib-meta">
-  <article id="abstract-article-JDH7RPSK" class="abstract-article">
-    <h1>Samandrag</h1>
-    Organizations, including the healthcare sector, are subject to changes in market, technology and regulations. This requires enhanced and different types of knowledge, and has led to an increased demand for adult higher education. However, the competencies required need to be met by the providers of higher education. This article presents a qualitative case study investigating the work relevance of an adult education study bachelor programme for middle managers of the public health sector in Norway. The paper explores how the education has shaped the interplay between the student/practitioner and his/her surroundings. The data in the study have been collected using in‑depth interviews. The case study showcases the potential impacts of higher education within public healthcare management in the workplace, also highlighting the factors that are predominant regarding the application and dissemination of formal knowledge in the workplace. The primary findings of this study are that there is an interplay between the form and content of the education, personal capabilities and individual characteristics of the student (employee/health manager), as well as an organizational maturity pertaining to knowledge‑management and the exposure to organizational innovation in the broader healthcare system. The case study contributes to the field of knowledge management issues by showing how a study programme can support the development of knowledge management practices in an organization, through focusing on the relevance pronounced through the management practices.
-  </article>
   <article id="contributors-article-JDH7RPSK" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -95,13 +91,13 @@ Rom 3Ø110
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>64</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

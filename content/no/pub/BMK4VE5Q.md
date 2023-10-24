@@ -1,5 +1,5 @@
 ---
-title: "“Just because it's fun, it's not without purpose”: Exploring the blurred lines of physically active learning"
+title: "BMK4VE5Q"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BMK4VE5Q" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2165758" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BMK4VE5Q" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BMK4VE5Q" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.1016/j.tate.2023.104297" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-BMK4VE5Q"></div>
 </article>

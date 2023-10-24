@@ -1,5 +1,5 @@
 ---
-title: "The Norwegian CDI-III as an assessment tool for lexical and grammatical development in preschoolers"
+title: "UCLKQ4BL"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UCLKQ4BL" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2172366" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UCLKQ4BL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-UCLKQ4BL" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UCLKQ4BL" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-UCLKQ4BL" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.3389/fpsyg.2023.1175658" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-UCLKQ4BL"></div>
 </article>
 <div id="csl-bib-meta-UCLKQ4BL" class="csl-bib-meta">
-  <article id="abstract-article-UCLKQ4BL" class="abstract-article">
-    <h1>Samandrag</h1>
-    Parental report instruments are a non-invasive way to assess children’s language development and have proved to give both valid and reliable results when used with children under the age of 2;6 (and in some cases up to 3). In this study we examine the newly developed Norwegian edition of a language assessment tool for older preschoolers: MacArthur-Bates Communicative Development Inventory III (CDI-III), investigating whether this parental report tool can be used for assessing the language of monolingual Norwegian-speaking children between 2;6 and 4 years. NCDI-III results for 100 children between 2;6 and 4.0 are presented. All sections were significantly intercorrelated. All sections except Pronunciation showed growth with age. Internal consistency was measured both in terms of Cronbach’s alpha and corrected item-scale correlation, and the results are discussed considering features of item difficulty distribution. Methodological considerations are discussed, as well as implications relevant both for possible later revisions and for CDI-III adaptations to new languages.
-  </article>
   <article id="contributors-article-UCLKQ4BL" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -67,7 +63,7 @@ Rom 2C275
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

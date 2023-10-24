@@ -1,5 +1,5 @@
 ---
-title: "Opportunities for Emotion Research on Biodiversity"
+title: "GYNZY5XK"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GYNZY5XK" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2176358" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GYNZY5XK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GYNZY5XK" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GYNZY5XK" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-GYNZY5XK" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://journals.sagepub.com/doi/pdf/10.1177/17540739231193755" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-GYNZY5XK"></div>
 </article>
 <div id="csl-bib-meta-GYNZY5XK" class="csl-bib-meta">
-  <article id="abstract-article-GYNZY5XK" class="abstract-article">
-    <h1>Samandrag</h1>
-    We see unique opportunities to advance emotional research by studying an overlooked environmental problem. The biodiversity crisis is caused by land use, in particular by reducing and damaging habitats, such as deforestation for cattle grazing. Biodiversity processes are proximate and personally moving, like when a person is causing or experiencing changes to livelihood-providing ecosystems, and we suggest this affect-rich context is useful for studying social and psychological processes. In contrast, much research on far-away populations thinking about climate change effects involves more abstract and distant cognitions. We also suggest biodiversity-related emotions have consequential outcomes for health and behavior, and provide advice for shaping research programs on specific populations and wildlife interactions.
-  </article>
   <article id="contributors-article-GYNZY5XK" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

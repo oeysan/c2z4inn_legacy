@@ -1,5 +1,5 @@
 ---
-title: "Litteraturformidlingens arenaer og praksiser"
+title: "3TNDT5XG"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3TNDT5XG" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1669692" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3TNDT5XG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-3TNDT5XG" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3TNDT5XG" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-3TNDT5XG"></div>
 </article>
 <div id="csl-bib-meta-3TNDT5XG" class="csl-bib-meta">
-  <article id="abstract-article-3TNDT5XG" class="abstract-article">
-    <h1>Samandrag</h1>
-    Hvor og hvordan formidles litteratur til barn og unge i dag? Hva skjer med formidlingen når den flyttes til digitale medier? Forfatterne av denne boka undersøker litteraturformidling på ulike arenaer som folkebibliotek, barnehage, skolebibliotek, leseaksjoner, tidsskrifter, dataspill, sosiale medier og i barnekulturen generelt. Et sentralt spørsmål er hvordan de ulike arenaene påvirker samspillet mellom litteraturformidlingens deltakere. Bokformidling er en etablert tradisjon med tydelig definerte roller, men det er ingen tilsvarende tradisjoner for litteraturformidling i digitale medier. Det gir rom for eksperimentering, samtidig som at barna i større grad overlates til seg selv. Boka gir innsikt i dette paradigmeskiftet som nå foregår i litteraturformidling for barn og unge. Boka er nyttig for alle som er opptatt av barn og unges forhold til litteratur, som litteraturformidlere og studenter og forskere innen lærerutdanningene, bibliotekutdanning, litteraturvitenskap og litteraturformidling, medievitenskap og kulturstudier. Forfatterne av denne vitenskapelige antologien har deltatt i et forskningsprosjekt i regi av Norsk barnebokinstitutt.
-  </article>
   <article id="contributors-article-3TNDT5XG" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

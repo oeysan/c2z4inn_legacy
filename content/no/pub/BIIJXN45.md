@@ -1,5 +1,5 @@
 ---
-title: "Physiological recovery among workers in long-distance sleddog races: A case study on female veterinarians in Finnmarksløpet"
+title: "BIIJXN45"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BIIJXN45" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1946810" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BIIJXN45" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-BIIJXN45" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BIIJXN45" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.3233/WOR-210331" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-BIIJXN45"></div>
 </article>
 <div id="csl-bib-meta-BIIJXN45" class="csl-bib-meta">
-  <article id="abstract-article-BIIJXN45" class="abstract-article">
-    <h1>Samandrag</h1>
-    During Finnmarksløpet (FL, one of the longest distance sleddog races in the world), veterinarians are exposed to extreme environmental conditions and tight working schedules, with little and fragmented sleep. OBJECTIVE: The aim of this case study was to examine cardiovascular parameters and sleep-wake patterns among veterinarians working within FL, during and after (for a month) the end of the race. METHODS: Six female veterinarians volunteered for the study. The participants wore a wrist device for a total of eight weeks in order to passively and semi-continuously record physiological responses throughout the day (i.e., heart rate, heart rate variability, number of steps, and sleep quality). Moreover, perceived sleep quality was assessed by Pittsburgh Sleep Quality Index (PSQI). RESULTS: During and for one month after completion of the FL, most veterinarians presented an alteration of cardiovascular parameters and sleep quality. The heart rate circadian rhythm returned to pre-race values within about two weeks. CONCLUSIONS: The long-lasting alteration of the veterinarians’ cardiovascular parameters and sleep-wake patterns might have negative consequences for their health in the long-term, especially if similar experiences are repeated more times though the course of a year or season. More research is needed in order to understand the health risks, as well as how to prevent them, among veterinarians in long-distance sleddog races or other similar events.
-  </article>
   <article id="contributors-article-BIIJXN45" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

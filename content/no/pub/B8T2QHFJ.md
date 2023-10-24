@@ -1,5 +1,5 @@
 ---
-title: "Forskning med nye aktører: Forskningskvalitet og nytteverdi"
+title: "B8T2QHFJ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-B8T2QHFJ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1695964" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/B8T2QHFJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://www.idunn.no/file/pdf/67122958/13_forskning_med_nye_aktoerer_forskningskvalitet_og_nytte.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-B8T2QHFJ"></div>
 </article>

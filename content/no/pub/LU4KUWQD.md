@@ -1,5 +1,5 @@
 ---
-title: "Den moderne telemarksbølgen"
+title: "LU4KUWQD"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,25 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LU4KUWQD" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1431822" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LU4KUWQD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-LU4KUWQD" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LU4KUWQD" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-LU4KUWQD"></div>
 </article>
 <div id="csl-bib-meta-LU4KUWQD" class="csl-bib-meta">
-  <article id="abstract-article-LU4KUWQD" class="abstract-article">
-    <h1>Samandrag</h1>
-    Den moderne telemarksbølgen 
-Den moderne telemarksbølgen  tar for seg telemarkskjøring slik den utviklet seg i Norge på 1980- og 1990-tallet. Boka er en idrettssosiologisk studie som viser hvordan telemark oppsto som sosialt fenomen i Amerika på 1970-tallet, og hvordan den kom til å dominere i mange norske skibakker fra midt på 1980-talet og et tiår framover, før det ser ut til at bølgen mer eller mindre ebbet ut utover 2000-tallet. 
- 
-Den moderne telemarksbølgen behandler mange enkeltmenneskers og noen organisasjoners historier om telemark. Forfatterne analyserer også telemark i mediebildet, telemark som grenkomité i Skiforbundet og telemark som en eksklusiv aktivitet for få og ressurssterke mennesker. 
- 
-Boka bygger på et rikt empirisk materiale; metodisk er det benyttet både dokumentanalyser, intervjuer med nøkkelpersoner samt statistisk analyse. Tematisk og teoretisk skriver studien seg inn i en større idrettssosiologisk kontekst der telemark blir sammenlignet med andre idretter som golf og snowboard ved hjelp av diffusjonsteorien til Rogers og Bourdieus feltteori. 
- 
-Den moderne telemarksbølgen er skrevet for forskere, idrettsstudenter med samfunnsfaglig interesse og for andre som vil vite mer om telemarks spesielle rolle i norsk skihistorie
-  </article>
   <article id="contributors-article-LU4KUWQD" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

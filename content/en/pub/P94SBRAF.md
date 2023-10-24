@@ -1,5 +1,5 @@
 ---
-title: "A Comparison of Small Rodent Assemblages after a 20 Year Interval in the Alps"
+title: "P94SBRAF"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-P94SBRAF" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2142640" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/P94SBRAF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-P94SBRAF" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-P94SBRAF" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-P94SBRAF" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.mdpi.com/2076-2615/13/8/1407/pdf?version=1681908062" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-P94SBRAF"></div>
 </article>
 <div id="csl-bib-meta-P94SBRAF" class="csl-bib-meta">
-  <article id="abstract-article-P94SBRAF" class="abstract-article">
-    <h1>Abstract</h1>
-    Human-induced environmental alterations in the Alps may importantly affect small mammal species, but evidence in this sense is limited. We live-trapped small rodents in the Central-Eastern Italian Alps in three close-by habitat types (rocky scree, alpine grassland, and heath) at 2100 m a.s.l. during summer-fall, in 1997 and 2016. We compared small rodent assemblages through a Redundancy Detrended Analysis (RDA). In both surveys, we detected two specialist species, i.e., the common vole (Microtus arvalis) and the snow vole (Chionomys nivalis), and, unexpectedly, the forest generalist bank vole (Myodes glareolus). In 1997, grassland was mainly occupied by the common vole, while the bank vole and the snow vole were sympatric in the other habitats. In 2016, the snow vole was detected only in the scree, while other species did not show distribution changes. We discuss a series of hypotheses that might have driven the differences observed across decades, among which is a species-specific response to abiotic and biotic environmental alterations, with the alpine habitat specialist moving out of sub-optimal habitats. We encourage further research on this topic, e.g., via long-term longitudinal studies.
-  </article>
   <article id="contributors-article-P94SBRAF" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Campus Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "A game of thrones: Organising and legitimising knowledge through PISA research"
+title: "CZQGY8JX"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,22 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CZQGY8JX" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1485342" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/CZQGY8JX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-CZQGY8JX" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CZQGY8JX" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-CZQGY8JX" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/1474904117715835" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-CZQGY8JX"></div>
 </article>
 <div id="csl-bib-meta-CZQGY8JX" class="csl-bib-meta">
-  <article id="abstract-article-CZQGY8JX" class="abstract-article">
-    <h1>Samandrag</h1>
-    This study investigates knowledge structures and scientific communication using bibliometrics methods to explore scientific knowledge production and dissemination. The aim is to develop knowledge about this growing field by investigating studies using international large-scale assessment (ILSA) data, 
-with a specific focus on those using Programme for International Student Assessment (PISA) data. As international organisations use ILSA to measure, assess and compare the success of national education systems, it is important to study this specific knowledge to understand how it is organized and legitimised within research. The findings show an interchange of legitimisation, where major 
-actors from the USA and other English-speaking and westernised countries determine the academic discourse. Important epistemic cultures for PISA research are identified: the most important of which are situated within psychology and education. These two research environments are epicenters created by patterns of the referrals to and referencing of articles framing the formulation of PISA 
-knowledge. Finally, it is argued that this particular PISA research is self-referential and self-authorizing, which raises questions about whether research accountability leads to ‘a game of thrones’, where rivalry going on within the scientific field concerning how and on what grounds ‘facts’ and ‘truths’ are constructed, as a continuing process with no obvious winner.
-  </article>
   <article id="contributors-article-CZQGY8JX" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -70,7 +63,7 @@ Rom 2P239
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Logic hybridity within the International Baccalaureate: the case of a state school in Poland"
+title: "BM9NQH2V"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BM9NQH2V" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1597082" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BM9NQH2V" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-BM9NQH2V" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BM9NQH2V" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-BM9NQH2V" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/1475240918768986" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-BM9NQH2V"></div>
 </article>
 <div id="csl-bib-meta-BM9NQH2V" class="csl-bib-meta">
-  <article id="abstract-article-BM9NQH2V" class="abstract-article">
-    <h1>Abstract</h1>
-    This article takes a ‘vertical’ comparative case study approach to the study of the human rights logic of the International Baccalaureate. It explores how the global human rights logic is experienced and adhered to by students taking the International Baccalaureate Diploma Programme in one state school in Poland. As part of a larger study the article uses the data scores from the Human Rights Competence Development Survey (Parish, 2018) as a measure of the level to which students adhere to the human rights logic of the International Baccalaureate. Semi-structured interviews with a small sample of students and the International Baccalaureate Diploma Coordinator were conducted to explore how those students experience the International Baccalaureate human rights logic in an attempt to understand why they have or have not developed high levels of adherence. The findings indicate that adherence to the human rights logic varies depending on factors both within and beyond the school learning community. What also becomes clear is that there is logic hybridity as the human-rights-promoting logic competes with the more pragmatic concerns of examination success and university ambitions.
-  </article>
   <article id="contributors-article-BM9NQH2V" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Room 2P313
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Proteolysis inhibition by hibernating bear serum leads to increased protein content in human muscle cells"
+title: "D3WHEUX9"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-D3WHEUX9" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1596488" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/D3WHEUX9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-D3WHEUX9" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-D3WHEUX9" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.nature.com/articles/s41598-018-23891-5.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-D3WHEUX9"></div>
 </article>
 <div id="csl-bib-meta-D3WHEUX9" class="csl-bib-meta">
-  <article id="abstract-article-D3WHEUX9" class="abstract-article">
-    <h1>Samandrag</h1>
-    Muscle atrophy is one of the main characteristics of human ageing and physical inactivity, with resulting adverse health outcomes. To date, there are still no efficient therapeutic strategies for its prevention and/or treatment. However, during hibernation, bears exhibit a unique ability for preserving muscle in conditions where muscle atrophy would be expected in humans. Therefore, our objective was to determine whether there are components of bear serum which can control protein balance in human muscles. In this study, we exposed cultured human differentiated muscle cells to bear serum collected during winter and summer periods, and measured the impact on cell protein content and turnover. In addition, we explored the signalling pathways that control rates of protein synthesis and degradation. We show that the protein turnover of human myotubes is reduced when incubated with winter bear serum, with a dramatic inhibition of proteolysis involving both proteasomal and lysosomal systems, and resulting in an increase in muscle cell protein content. By modulating intracellular signalling pathways and inducing a protein sparing phenotype in human muscle cells, winter bear serum therefore holds potential for developing new tools to fight human muscle atrophy and related metabolic disorders.
-  </article>
   <article id="contributors-article-D3WHEUX9" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

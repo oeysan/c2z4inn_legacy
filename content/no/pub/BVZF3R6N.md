@@ -1,5 +1,5 @@
 ---
-title: "Working with alcohol prevention in occupational health services: “knowing how” is more important than “knowing that” – the WIRUS OHS study"
+title: "BVZF3R6N"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BVZF3R6N" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2050989" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BVZF3R6N" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-BVZF3R6N" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BVZF3R6N" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-BVZF3R6N" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://ascpjournal.biomedcentral.com/counter/pdf/10.1186/s13722-022-00335-0" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-BVZF3R6N"></div>
 </article>
 <div id="csl-bib-meta-BVZF3R6N" class="csl-bib-meta">
-  <article id="abstract-article-BVZF3R6N" class="abstract-article">
-    <h1>Samandrag</h1>
-    BackgroundAlcohol consumption is a major public health challenge; the majority of employees consume alcohol regularly and a considerable proportion of employees can be characterized as risky drinkers in need of interventions. Occupational health services (OHS) are uniquely positioned for implementing alcohol prevention interventions targeting employees, but rarely do so. Studies have shown that lack of knowledge among OHS personnel is a barrier to alcohol prevention activity. This study aimed to explore OHS personnels’ levels of theoretical and practical alcohol knowledge, and whether these two ways of knowing were differentially associated with alcohol prevention activity. MethodsIn this cross-sectional study, survey data were collected from 322 OHS personnel in Norway in 2018 (response rate = 53.6%). The survey included variables of two ways of knowing (theoretical and practical) and three types of doing (intervention frequency, conducting individual interventions, and conducting group interventions). Data were analyzed with descriptive statistics, paired sample t-tests, bivariate correlations, and adjusted linear and logistic regression analyses. Results OHS personnel rated their theoretical alcohol knowledge higher than their practical knowledge (η 2  = 0.33, p  &lt; 0.001). Higher reported levels of practical knowledge were associated with higher intervention frequency (b = 0.39, β = 0.60, p  &lt; 0.001) and greater likelihood of conducting individual interventions (OR = 1.60, p  &lt; .001) as well as group interventions (OR = 1.84, p  &lt; 0.001). Theoretical knowledge was not associated with conducting interventions, and there was no evidence of an interaction between the two ways of knowing in their association with doing. Sensitivity analyses did not indicate clustering effects of OHS personnel being employed within different units. ConclusionsDifferent ways of knowing about alcohol among OHS personnel were dissimilarly associated with conducting alcohol prevention interventions in occupational health settings. For doing, knowing how seems to be more important than knowing that. Training programs for OHS personnel should emphasize knowledge about how to deal with alcohol-related issues and how to conduct prevention interventions, rather than focus on detrimental effects of alcohol.
-  </article>
   <article id="contributors-article-BVZF3R6N" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 4L3213
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "What does the public think about microplastics? Insights from an empirical analysis of mental models elicited through free associations"
+title: "PGQSRTK6"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PGQSRTK6" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2042146" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PGQSRTK6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-PGQSRTK6" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PGQSRTK6" class="csl-bib-button">Contributors</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2022.920454/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PGQSRTK6"></div>
 </article>
 <div id="csl-bib-meta-PGQSRTK6" class="csl-bib-meta">
-  <article id="abstract-article-PGQSRTK6" class="abstract-article">
-    <h1>Abstract</h1>
-    Microplastics are an issue of rising concern, in terms of their possible implications for both the environment and human health. A survey was distributed among a representative sample of the adult Norwegian population (N = 2720) to explore the public understanding of microplastics. Respondents were asked to report the first thing that came to mind when they read or heard the word "microplastics," based on which a coding scheme was developed that served to categorize the obtained answers into thematic clusters. Results indicate that the public seem to think of microplastics as something bad that might pollute the ocean and harm animal species. Awareness of the sources of microplastics appeared to be rather low, and few respondents mentioned potential ways to solve the problem. Responses differed across certain socio-demographic characteristics; for example, female and younger respondents were more likely to think about the spread and causes/sources of microplastics, whereas a higher educational level was associated positively with thinking of ways to solve the problem. Additional analyses indicated relationships between personal values and the identified thematic clusters; for example, endorsing self-transcendence and openness-to-change values was associated with thinking of ways to solve and of consequences of microplastics. These findings are informative to those wanting to design tailored communications and interventions aimed at reducing plastic pollution and plastic waste.
-  </article>
   <article id="contributors-article-PGQSRTK6" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

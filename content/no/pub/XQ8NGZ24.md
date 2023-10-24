@@ -1,5 +1,5 @@
 ---
-title: "Impact of tropical cyclones on food security, health and biodiversity"
+title: "XQ8NGZ24"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XQ8NGZ24" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2119306" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XQ8NGZ24" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XQ8NGZ24" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.2471/blt.22.288838" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-XQ8NGZ24"></div>
 </article>

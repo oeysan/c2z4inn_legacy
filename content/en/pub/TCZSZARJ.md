@@ -1,5 +1,5 @@
 ---
-title: "Patterns of livestock depredation by snow leopards and effects of intervention strategies: lessons from the Nepalese Himalaya"
+title: "TCZSZARJ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TCZSZARJ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2046669" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TCZSZARJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-TCZSZARJ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TCZSZARJ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-TCZSZARJ" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.publish.csiro.au/wr/pdf/WR21169" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TCZSZARJ"></div>
 </article>
 <div id="csl-bib-meta-TCZSZARJ" class="csl-bib-meta">
-  <article id="abstract-article-TCZSZARJ" class="abstract-article">
-    <h1>Abstract</h1>
-    Context Large carnivores are increasingly threatened by anthropogenic activities, and their protection is among the main goals of biodiversity conservation. The snow leopard (Panthera uncia) inhabits high-mountain landscapes where livestock depredation drives it into conflicts with local people and poses an obstacle for its conservation. Aims The aim of this study was to identify the livestock groups most vulnerable to depredation, target them in implementation of practical interventions, and assess the effectiveness of intervention strategies for conflict mitigation. We present a novel attempt to evaluate intervention strategies for particularly vulnerable species, age groups, time, and seasons. Methods In 2020, we conducted questionnaire surveys in two regions of the Annapurna Conservation Area, Nepal (Manang, n = 146 respondents and Upper Mustang, n = 183). We applied sample comparison testing, Jacobs’ selectivity index, and generalised linear models (GLMs) to assess rates and spatio-temporal heterogeneity of depredation, reveal vulnerable livestock groups, analyse potential effects of applied intervention strategies, and identify husbandry factors relevant to depredation. Key results Snow leopard predation was a major cause of livestock mortality in both regions (25.4–39.8%), resulting in an estimated annual loss of 3.2–3.6% of all livestock. The main intervention strategies (e.g. corrals during night-time and herding during daytime) were applied inconsistently and not associated with decreases in reported livestock losses. In contrast, we found some evidence that dogs, deterrents (light, music playing, flapping tape, and dung burning), and the use of multiple interventions were associated with a reduction in reported night-time depredation of yaks. Conclusions and implications We suggest conducting controlled randomised experiments for quantitative assessment of the effectiveness of dogs, deterrents, and the use of multiple interventions, and widely applying the most effective ones in local communities. This would benefit the long-term co-existence of snow leopards and humans in the Annapurna region and beyond.
-  </article>
   <article id="contributors-article-TCZSZARJ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -62,7 +58,7 @@ Campus Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

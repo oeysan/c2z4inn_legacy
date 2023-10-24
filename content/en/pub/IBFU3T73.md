@@ -1,5 +1,5 @@
 ---
-title: "Language policies and multilingual practices in Icelandic preschools"
+title: "IBFU3T73"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IBFU3T73" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2173346" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/IBFU3T73" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-IBFU3T73" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IBFU3T73" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-IBFU3T73" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/2005615X.2023.2250711" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-IBFU3T73"></div>
 </article>
 <div id="csl-bib-meta-IBFU3T73" class="csl-bib-meta">
-  <article id="abstract-article-IBFU3T73" class="abstract-article">
-    <h1>Abstract</h1>
-    This article aims at exploring family language policies and practices of immigrant families in Iceland as well as educational practices and partnerships in their children’s preschools. The article draws on interviews with preschool principals and teachers in three preschools in Iceland, and presents findings related to state, municipal, and school language policies as well as multilingual practices in these preschools. The findings indicate that despite the generally positive attitudes and interest in multilingual practices among preschool personnel, there is room for improvement in terms of more structured and systematic integration of the diverse linguistic and cultural backgrounds of families, as well as fostering stronger partnerships with parents from different linguistic and cultural communities. Furthermore, teacher education should include both theoretical and practical knowledge of multicultural and multilingual education to better equip teachers for cultural and linguistic diversity in schools.
-  </article>
   <article id="contributors-article-IBFU3T73" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,13 +57,13 @@ Campus Hamar
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Digital lesing som kjønnet ferdighet – om betydningen av kjønn og sosial klasse i kortrapportene om PISA 2009 og ePIRLS 2016"
+title: "69J8KGEX"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-69J8KGEX" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2113782" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/69J8KGEX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-69J8KGEX" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/tfk.46.3.5" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-69J8KGEX"></div>
 </article>

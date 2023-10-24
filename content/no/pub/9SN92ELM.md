@@ -1,5 +1,5 @@
 ---
-title: "Forecasting Fisheries: Prediction and the planned economy in the Interwar Soviet Union, La politique de pêche : Prévision et économie planifiée dans l’entre‑deux‑guerres en Union soviétique: Prediction and the planned economy in the Interwar Soviet Union"
+title: "9SN92ELM"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9SN92ELM" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1807165" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/9SN92ELM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9SN92ELM" class="csl-bib-button">Medverkande</a>
+    <a href="https://journals.openedition.org/monderusse/pdf/10131" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-9SN92ELM"></div>
 </article>

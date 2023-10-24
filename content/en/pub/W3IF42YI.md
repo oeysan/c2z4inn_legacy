@@ -1,5 +1,5 @@
 ---
-title: "Immigrant students in Nordic educational policy documents"
+title: "W3IF42YI"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-W3IF42YI" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1624464" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/W3IF42YI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-W3IF42YI" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-W3IF42YI"></div>

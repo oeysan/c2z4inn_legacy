@@ -1,5 +1,5 @@
 ---
-title: "Back and forth: day–night alternation between cover types reveals complementary use of habitats in a large herbivore"
+title: "W8KEBLRF"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-W8KEBLRF" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2125929" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/W8KEBLRF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-W8KEBLRF" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-W8KEBLRF" class="csl-bib-button">Medverkande</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s10980-023-01594-1.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-W8KEBLRF"></div>
 </article>
 <div id="csl-bib-meta-W8KEBLRF" class="csl-bib-meta">
-  <article id="abstract-article-W8KEBLRF" class="abstract-article">
-    <h1>Samandrag</h1>
-    ContextThe Complementary Habitat Hypothesis posits that animals access resources for different needs by moving between complementary habitats that can be seen as ‘resource composites’. These movements can occur over a range of temporal scales, from diurnal to seasonal, in response to multiple drivers such as access to food, weather constraints, risk avoidance and human disturbance. Within this framework, we hypothesised that large herbivores cope with human-altered landscapes through the alternate use of complementary habitats at both daily and seasonal scales. Objectives We tested the Complementary Habitat Hypothesis in European roe deer ( Capreolus capreolus ) by classifying 3900 habitat-annotated movement trajectories of 154 GPS-monitored individuals across contrasting landscapes. MethodsWe considered day-night alternation between open food-rich and closed refuge habitats as a measure of complementary habitat use. We first identified day–night alternation using the Individual Movement - Sequence Analysis Method, then we modelled the proportion of day–night alternation over the year in relation to population and individual characteristics. ResultsWe found that day-night alternation is a widespread behaviour in roe deer, even across markedly different landscapes. Day–night alternation followed seasonal trends in all populations, partly linked to vegetation phenology. Within populations, seasonal patterns of open/closed habitat alternation differed between male and female adults, but not in juveniles. ConclusionOur results support the Complementary Habitat Hypothesis by showing that roe deer adjust their access to the varied resources available in complex landscapes by including different habitats within their home range, and sequentially alternating between them in response to seasonal changes and individual life history.
-  </article>
   <article id="contributors-article-W8KEBLRF" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

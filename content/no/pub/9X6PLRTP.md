@@ -1,5 +1,5 @@
 ---
-title: "Is mechanical pain threshold after transcutaneous electrical nerve stimulation (TENS) increased locally and unilaterally? A randomized placebo‐controlled trial in healthy subjects"
+title: "9X6PLRTP"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9X6PLRTP" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1844688" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/9X6PLRTP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9X6PLRTP" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-9X6PLRTP"></div>

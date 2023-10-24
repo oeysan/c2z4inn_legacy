@@ -1,5 +1,5 @@
 ---
-title: "A survey of young people's sentiment towards local democratic innovation"
+title: "LKTKJYBQ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,30 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LKTKJYBQ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2105108" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LKTKJYBQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-LKTKJYBQ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LKTKJYBQ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-LKTKJYBQ" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-LKTKJYBQ"></div>
 </article>
 <div id="csl-bib-meta-LKTKJYBQ" class="csl-bib-meta">
-  <article id="abstract-article-LKTKJYBQ" class="abstract-article">
-    <h1>Samandrag</h1>
-    Concerns about the state of democracy and participation date back several decades. In 
-the 1990's, there were concerns about declining political party membership and voter turnout, 
-and a general political fragmentation. This trend has been strengthened and made visible 
-throughout the 2010's, with increased polarization and populism, and countries moving away from 
-democratic ideals. Democratic innovations, including digital democracy initiatives, are 
-introduced to "fix" democracies and renew interest, but is the public, especially the younger 
-generation, interested? In this paper, we present the findings of a Swedish survey of youth 
-sentiment towards innovations in local democracy. Our findings indicate that young people 
-generally are supportive of local democratic innovations, but that levels of support vary across 
-age groups as well as between different types of democratic innovations. Surprisingly we find 
-that the youngest cohort in our study (16-19) is less supportive of online democratic innovations 
-compared to other groups
-  </article>
   <article id="contributors-article-LKTKJYBQ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -72,7 +56,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

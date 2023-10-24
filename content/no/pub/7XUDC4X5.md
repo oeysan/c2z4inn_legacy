@@ -1,5 +1,5 @@
 ---
-title: "Exposure to the IPCC special report on 1.5 °C global warming is linked to perceived threat and increased concern about climate change"
+title: "7XUDC4X5"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7XUDC4X5" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1755761" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7XUDC4X5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7XUDC4X5" class="csl-bib-button">Medverkande</a>
+    <a href="http://link.springer.com/10.1007/s10584-019-02609-0" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7XUDC4X5"></div>
 </article>

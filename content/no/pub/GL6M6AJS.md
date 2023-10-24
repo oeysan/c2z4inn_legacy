@@ -1,5 +1,5 @@
 ---
-title: "Inside-out and outside-in: Applying the concept of conventions in the analysis of policy implementation through sport clubs"
+title: "GL6M6AJS"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GL6M6AJS" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1558324" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GL6M6AJS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GL6M6AJS" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GL6M6AJS" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/1012690216685584" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-GL6M6AJS"></div>
 </article>
 <div id="csl-bib-meta-GL6M6AJS" class="csl-bib-meta">
-  <article id="abstract-article-GL6M6AJS" class="abstract-article">
-    <h1>Samandrag</h1>
-    The aim of this article is to enrich theoretically the analysis of processes of policy implementation through sport clubs. Subsequent to reviewing previous theoretical contributions on this topic, we make the case that available conceptualizations are marked by an inside-out perspective and that they conceptually and empirically stop short at the end implementer, i.e. the sport club. Consequently, analyses of policy implementation through sport clubs have not taken into account the fact that sport clubs are distinctly local phenomena. As such, past, current and potential future participants, volunteers and local inter-organizational relationships are found in a sport club’s local community. Because of this, there is a need for a concept that provides analytical coverage of an outside-in perspective, i.e. a concept that takes into account outside actors’ conceptions of the implementing sport club and the impact their views have on the implementation process. In relation to this need, we propose the application of the concept ‘convention’. In addition to describing the concept, we exemplify the methodological and analytical implications of its use in sport policy implementation analysis.
-  </article>
   <article id="contributors-article-GL6M6AJS" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

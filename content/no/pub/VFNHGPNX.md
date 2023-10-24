@@ -1,5 +1,5 @@
 ---
-title: "Association between cannabis use and physical health problems in Norwegian adolescents: a cross-sectional study from the youth survey Ungdata"
+title: "VFNHGPNX"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VFNHGPNX" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2015573" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VFNHGPNX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-VFNHGPNX" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VFNHGPNX" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-VFNHGPNX" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-022-13136-6" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VFNHGPNX"></div>
 </article>
 <div id="csl-bib-meta-VFNHGPNX" class="csl-bib-meta">
-  <article id="abstract-article-VFNHGPNX" class="abstract-article">
-    <h1>Samandrag</h1>
-    BackgroundCannabis use is increasing among young Norwegians and several studies show a high incidence of common physical health problems. An association has previously been found between cannabis use and mental health problems. Since physical and mental health problems often co-occur, the aim of this study is to explore the relationship between cannabis use and physical health problems. MethodsIn 2017–2019, the Norwegian youth survey Ungdata collected data from 249,100 Norwegian adolescents, which equalled around 80% of all lower secondary school pupils (13–15 years) and about 50% of upper secondary pupils (16–19 years) in Norway. Descriptive analysis was used to calculate the prevalence of cannabis use and bi- and multivariate logistic regression analysis to examine the association between cannabis use and physical health problems, controlled for sociodemographics and mental health problems. ResultsAlmost 10% of Norwegian adolescents had used cannabis once or more in the previous 12 months. The use of cannabis increased with age and it was more prevalent among boys. There is a clear connection between physical health problems and cannabis use (OR = 1.582 (CI: 1.527–1.638)) even after adjusting for sociodemographic variables and mental health problems (OR = 1.366 (CI: 1.312–1.423)). ConclusionMore studies are needed to explore if there might a bidirectional relationship between cannabis use and physical health problems where physical problems increase cannabis use and cannabis use increases the risk of physical health problems. More knowledge on the effect of and motivation for cannabis use are important for policy makers and health care professionals involved in young people.
-  </article>
   <article id="contributors-article-VFNHGPNX" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -67,7 +63,7 @@ Rom 4L3202
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

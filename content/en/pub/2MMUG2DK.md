@@ -1,5 +1,5 @@
 ---
-title: "Physical Activity and Virtual Nature: Perspectives on the Health and Behavioral Benefits of Virtual Green Exercise"
+title: "2MMUG2DK"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2MMUG2DK" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1915385" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/2MMUG2DK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-2MMUG2DK" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-2MMUG2DK" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-2MMUG2DK" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4324/9781003154419" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-2MMUG2DK"></div>
 </article>
 <div id="csl-bib-meta-2MMUG2DK" class="csl-bib-meta">
-  <article id="abstract-article-2MMUG2DK" class="abstract-article">
-    <h1>Abstract</h1>
-    The world is progressively becoming disconnected from real or authentic nature due to urbanization, degradation of natural environments, and a general reduction in time spent outdoors. At the same time, virtual reality (VR) technology is becoming more and more accessible to consumers. This chapter will explore ways in which virtual nature can not only act as a tool to supplement nature experiences for people for whom access to real nature is limited (or impossible), but also how it may be used as a strategy to enhance the health benefits of physical activity. Focusing on so-called immersive virtual nature (IVN), the chapter provides an overview of VR technology, how this tool emerged in the broader landscape of technological nature, and how it can be combined with physical activity (virtual green exercise). Then, applying the “green exercise concept,” a conceptual model explaining in what way (and to what extent) IVN can augment the health benefits of physical activity is presented. Eventually, a series of recommendations are provided regarding how to design interventions and research that involve IVN.
-  </article>
   <article id="contributors-article-2MMUG2DK" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -127,7 +123,7 @@ Room 2N3312
     <div class="sdg-container"><div id="sdg11" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>23</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=11#archive" class="sdg-publication-count"><span>23</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

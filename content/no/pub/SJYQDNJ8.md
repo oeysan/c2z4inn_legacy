@@ -1,5 +1,5 @@
 ---
-title: "Extrinsic and intrinsic factors drive the timing of gestation and reproductive success of Scandinavian brown bears"
+title: "SJYQDNJ8"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SJYQDNJ8" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2090467" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SJYQDNJ8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-SJYQDNJ8" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SJYQDNJ8" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fevo.2022.1045331/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-SJYQDNJ8"></div>
 </article>
 <div id="csl-bib-meta-SJYQDNJ8" class="csl-bib-meta">
-  <article id="abstract-article-SJYQDNJ8" class="abstract-article">
-    <h1>Samandrag</h1>
-    IntroductionClimate change is altering the reproductive phenology of many organisms, but the factors that influence the timing of gestation in ursids are still poorly understood. Higher temperatures in spring are already causing an earlier den exit in some brown bear populations, and a temporal mismatch between hibernation and reproduction could have dramatic consequences for reproductive success. Therefore, understanding the factors that control the timing of these events is important to forecast the consequences of climate change on population growth rates. MethodsIn this study, we used abdominal temperature loggers and GPS collars with acceleration sensors on 23 free-ranging pregnant female brown bears living in two areas in Sweden (61°N and 67°N latitude) to pinpoint hibernation and reproductive events. We investigated how intrinsic and extrinsic factors influence the termination of embryonic diapause and parturition, as well as their impact on reproductive success. ResultsThe termination of embryonic diapause was later in the northern area compared to the southern area and occurred earlier when ambient temperature at den entry was higher in both areas. In the southern area, young adults (i.e., females = 7 years old) had a delayed parturition when bilberry abundance was low the year of mating. Additionally, young adults had a lower reproductive success than adults and their probability to reproduce successfully was dependent on bilberry abundance, whereas adult females were not affected by this parameter. DiscussionAs den exit occurs later in the northern study area, we suggest that a later parturition might ensure that females lactate their cubs in the den for a reasonable amount of time while fasting. Similarly, a later parturition combined with an earlier emergence could allow young adults to spend less time in the den lactating if they could not reach an optimal body condition prior to hibernation. But as a result, their cubs are younger and more vulnerable when they leave the den leading to lower survival rates. Our results suggest that a decreased berry abundance in the fall could impact the reproductive and hibernation phenology of Scandinavian brown bear females and lead to a lower cub survival with potential consequences on the population dynamics.
-  </article>
   <article id="contributors-article-SJYQDNJ8" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

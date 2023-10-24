@@ -1,5 +1,5 @@
 ---
-title: "Adaptive capacity as an educational goal to advance policy for integrating DRR into quality education for sustainable development"
+title: "RMQLBH7S"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RMQLBH7S" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1810033" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RMQLBH7S" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RMQLBH7S" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.1016/j.ijdrr.2020.101631" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-RMQLBH7S"></div>
 </article>

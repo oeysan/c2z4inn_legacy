@@ -1,5 +1,5 @@
 ---
-title: "Use of the CAM-ICU during daily sedation stops in mechanically ventilated patients as assessed and experienced by intensive care nurses – A mixed-methods study"
+title: "HB4URGFX"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,28 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HB4URGFX" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1589955" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HB4URGFX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-HB4URGFX" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HB4URGFX" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-HB4URGFX" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.iccn.2018.04.005" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-HB4URGFX"></div>
 </article>
 <div id="csl-bib-meta-HB4URGFX" class="csl-bib-meta">
-  <article id="abstract-article-HB4URGFX" class="abstract-article">
-    <h1>Abstract</h1>
-    Background 
-Mechanically ventilated patients are at risk of developing delirium, which increases mortality and prolongs their stay in the Intensive Care Unit (ICU). 
-Aim 
-To investigate the assessment of delirium by ICU nurses and their experiences of using the Confusion Assessment Method for Intensive Care Unit (CAM-ICU) in mechanically ventilated patients during daily sedation stops. 
-Methods 
-The study employed an explanatory sequential mixed-methods design. The data (n = 30) were collected by two nurses who assessed the same patient (n = 15) using the tool. Data from the nurses’ assessments were analysed by means of frequency analysis, while the interviews were analysed phenomenographically using Dahlgren and Fallberg’s seven categories. 
-Findings 
-Four pairs of nurses made similar assessments, three pairs had differing assessments and in eight pairs, one of the nurses did not fill in the form properly. The interviews revealed variations in ICU nurses’ preparation for, views on and use of the CAM-ICU. 
-Conclusion 
-Assessment and use of the CAM-ICU revealed variations, indicating the necessity of identifying barriers within the ICU team. ICU nurses need training in the use of the CAM-ICU and support in their decision–making. The individual nurse must take responsibility for updating their knowledge and for following guidelines.
-  </article>
   <article id="contributors-article-HB4URGFX" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -75,13 +62,13 @@ Room 4L3241
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

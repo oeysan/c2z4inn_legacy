@@ -1,5 +1,5 @@
 ---
-title: "Self-Reported Long COVID in the General Population: Sociodemographic and Health Correlates in a Cross-National Sample"
+title: "AFHALNZQ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AFHALNZQ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2031748" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/AFHALNZQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-AFHALNZQ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AFHALNZQ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-AFHALNZQ" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2075-1729/12/6/901/pdf?version=1655360363" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-AFHALNZQ"></div>
 </article>
 <div id="csl-bib-meta-AFHALNZQ" class="csl-bib-meta">
-  <article id="abstract-article-AFHALNZQ" class="abstract-article">
-    <h1>Samandrag</h1>
-    We aimed to gain knowledge of possible sociodemographic predictors of long COVID and whether long COVID was associated with health outcomes almost two years after the pandemic outbreak. There were 1649 adults who participated in the study by completing a cross-sectional online survey disseminated openly in Norway, the UK, the USA, and Australia between November 2021 and January 2022. Participants were defined as having long COVID based on self-reports that they had been infected by COVID-19 and were experiencing long-lasting COVID symptoms. Logistic regression analyses were used to examine possible sociodemographic predictors, and multivariate analysis of variance was used to examine whether long COVID status was associated with health outcomes. None of the sociodemographic variables was significantly associated with reporting long COVID. Having long COVID was associated with higher levels of psychological distress, fatigue, and perceived stress. The effect of long COVID on health outcomes was greater among men than among women. In conclusion, long COVID appeared across sociodemographic groups. People with long COVID reported worsened health outcomes compared to those who had had COVID-19 but without long-term symptoms. Men experiencing long COVID appear to be particularly vulnerable to experiencing poorer health outcomes; health services may pay extra attention to potentially unnoticed needs for support among men experiencing long COVID.
-  </article>
   <article id="contributors-article-AFHALNZQ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,13 +59,13 @@ Rom 4L3213
     <div class="sdg-container"><div id="sdg1" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg01_no.png" class="image" alt="SDG 1">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>37</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=1#archive" class="sdg-publication-count"><span>39</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/utrydde-fattigdom?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

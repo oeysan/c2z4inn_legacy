@@ -1,5 +1,5 @@
 ---
-title: "Multilingualism and verbal short-term/working memory: Evidence from academics"
+title: "XEXG8NT4"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,27 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XEXG8NT4" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2084891" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XEXG8NT4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-XEXG8NT4" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XEXG8NT4" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-XEXG8NT4" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9B1A58A92EEA19C919A11D869D9B0481/S1366728922000621a.pdf/div-class-title-multilingualism-and-verbal-short-term-working-memory-evidence-from-academics-div.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-XEXG8NT4"></div>
 </article>
 <div id="csl-bib-meta-XEXG8NT4" class="csl-bib-meta">
-  <article id="abstract-article-XEXG8NT4" class="abstract-article">
-    <h1>Samandrag</h1>
-    To date, the evidence regarding the effect of bilingualism/multilingualism on short-term 
-memory (STM) and working memory (WM) capacity is inconclusive. This study investigates 
-whether multilingualism has a positive effect on the verbal STM and WM capacity of neurotypical middle-aged and older individuals. Eighty-two L1-Norwegian sequential bilingual/ 
-multilingual academics were tested with tasks measuring verbal STM/WM capacity. Degree 
-of bilingualism/multilingualism for each participant was estimated based on a comprehensive 
-questionnaire. Different measures of bilingualism/multilingualism were used. Data on potentially influencing non-linguistic factors were also collected. Correlation and regression analyses showed that multilingualism impacts both verbal STM and verbal WM. In particular, 
-all analyses showed that number of known foreign languages was the strongest predictor of 
-verbal STM and WM capacity. The results are discussed in light of recent studies on the 
-impact of bilingualism on STM/WM and
-  </article>
   <article id="contributors-article-XEXG8NT4" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -75,7 +63,7 @@ Rom 2C275
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

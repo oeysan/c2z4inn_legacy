@@ -1,5 +1,5 @@
 ---
-title: "Using Rasch Analysis to Assess the Psychometric Properties of a Five-Item Version of the General Self-Efficacy Scale in Adolescents"
+title: "RXICXR6Z"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RXICXR6Z" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2009012" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RXICXR6Z" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-RXICXR6Z" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RXICXR6Z" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-RXICXR6Z" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.mdpi.com/1660-4601/19/5/3082/pdf?version=1646546144" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-RXICXR6Z"></div>
 </article>
 <div id="csl-bib-meta-RXICXR6Z" class="csl-bib-meta">
-  <article id="abstract-article-RXICXR6Z" class="abstract-article">
-    <h1>Abstract</h1>
-    The aim of the present study was to use Rasch analysis to assess the psychometric properties of the five-item version of the General Self-Efficacy Scale (GSES) amongst adolescents aged 13 to 19. In this cross-sectional study, 6265 adolescents responded to a web-based questionnaire. Data collected from lower and upper secondary schools in Norway, during 2018, were analysed using the partial credit parameterisation of the unidimensional Rasch model. The five-item version of the GSES was found to be unidimensional and to have acceptable reliability. The targeting of the scale could have been better. All items had ordered thresholds, indicating that the response categories worked quite well. The five-item version of the GSES has potential for measuring self-efficacy in a general population of adolescents. In surveys concerning adolescents’ mental health, it is important to include aspects of positive mental health and health-promoting factors, such as self-efficacy.
-  </article>
   <article id="contributors-article-RXICXR6Z" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -131,7 +127,7 @@ Room 4L3337
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

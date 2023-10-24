@@ -1,5 +1,5 @@
 ---
-title: "The Buber-Levinas Debate on Otherness: Reflections on Encounters with Diversity in School"
+title: "JI8YRS3M"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,28 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JI8YRS3M" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2005046" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JI8YRS3M" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JI8YRS3M" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JI8YRS3M" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-JI8YRS3M" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-JI8YRS3M"></div>
 </article>
 <div id="csl-bib-meta-JI8YRS3M" class="csl-bib-meta">
-  <article id="abstract-article-JI8YRS3M" class="abstract-article">
-    <h1>Samandrag</h1>
-    This article turns to the underexposed debate between Martin Buber and 
-Emmanuel Levinas in order to develop a reflection on encounters with otherness 
-in an educational setting. First, I introduce a well-established and well-intended, 
-yet problematic, way of approaching cultural diversity in school, looking at how 
-the asymmetry between the other and the self may be reduced in a process of predicting and explaining the other. This will set the stage for the next part, examining 
-how a positive recognition of alterity is addressed in the dispute between Buber 
-and Levinas. Analysing the controversy between the two philosophers, the article 
-contributes to a pedagogical reflection on how to meet the student as the other in 
-closeness and distance without reducing him or her to a representative for a predefined cultural entity. Attention is also directed towards the ethical foundation of 
-intercultural relations and what our responsibility for the other implies.
-  </article>
   <article id="contributors-article-JI8YRS3M" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -76,7 +62,7 @@ Rom 2P306
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Vibeke Løkkeberg: en kunstnerbiografi"
+title: "KKPRKJQB"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KKPRKJQB" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1875518" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/KKPRKJQB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-KKPRKJQB" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KKPRKJQB" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-KKPRKJQB" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-KKPRKJQB"></div>
 </article>
 <div id="csl-bib-meta-KKPRKJQB" class="csl-bib-meta">
-  <article id="abstract-article-KKPRKJQB" class="abstract-article">
-    <h1>Abstract</h1>
-    Vibeke Løkkeberg (f. 1945) er en av Norges mest betydningsfulle filmkunstnere. Gjennom mer enn 50 år har hun vært en markant samfunnsdebattant og en kompromissløs talsperson for utsatte grupper av befolkningen. Løkkebergs karriere rommer mange roller. Hun har vært fotomodell og feminist, sexobjekt og skuespiller, medieyndling, primadonna og persona non grata, romanforfatter, riksheks og feiret filmregissør. Dette er fortellingen om en kunstner med en usedvanlig kraft. Johanne Kielland Servoll (f. 1979) er filmhistoriker og har særlig arbeidet med norske filmregissører. Servoll har doktorgrad fra Universitetet i Oslo og bor og jobber på Lillehammer.
-  </article>
   <article id="contributors-article-KKPRKJQB" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -65,7 +60,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

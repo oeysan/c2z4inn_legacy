@@ -1,5 +1,5 @@
 ---
-title: "Living Labs for Public Sector Innovation: An Integrative Literature Review"
+title: "3APQ5P2V"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3APQ5P2V" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1920354" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3APQ5P2V" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-3APQ5P2V" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3APQ5P2V" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-3APQ5P2V" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2076-3387/11/2/58/pdf?version=1623135769" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3APQ5P2V"></div>
 </article>
 <div id="csl-bib-meta-3APQ5P2V" class="csl-bib-meta">
-  <article id="abstract-article-3APQ5P2V" class="abstract-article">
-    <h1>Samandrag</h1>
-    The public administration literature and adjacent fields have devoted increasing attention to living labs as environments and structures enabling the co-creation of public sector innovation. However, living labs remain a somewhat elusive concept and phenomenon, and there is a lack of understanding of its versatile nature. To gain a deeper understanding of the multiple dimensions of living labs, this article provides a review assessing how the environments, methods and outcomes of living labs are addressed in the extant research literature. The findings are drawn together in a model synthesizing how living labs link to public sector innovation, followed by an outline of knowledge gaps and future research avenues.
-  </article>
   <article id="contributors-article-3APQ5P2V" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -83,7 +79,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>64</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

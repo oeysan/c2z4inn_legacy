@@ -1,5 +1,5 @@
 ---
-title: "Arterial oxygenation and acid–base status before and during oxygen supplementation in captive European bison (Bison bonasus) immobilized with etorphine-acepromazine-xylazine"
+title: "5V9ENSV3"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5V9ENSV3" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2170089" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/5V9ENSV3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-5V9ENSV3" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-5V9ENSV3" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-5V9ENSV3" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.3389/fvets.2023.1125919" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-5V9ENSV3"></div>
 </article>
 <div id="csl-bib-meta-5V9ENSV3" class="csl-bib-meta">
-  <article id="abstract-article-5V9ENSV3" class="abstract-article">
-    <h1>Samandrag</h1>
-    Chemical immobilization of captive European bison ( Bison bonasus ) is often required for veterinary care, transportation, or husbandry practices playing an important role in conservation breeding and reintroduction of the species. We evaluated the efficiency and physiological effects of an etorphine-acepromazine-xylazine combination with supplemental oxygen in 39 captive European bison. Animals were darted with a combination of 1.4 mg of etorphine, 4.5 mg of acepromazine, and 20 mg of xylazine per 100 kg based on estimated body mass. Arterial blood was sampled on average 20 min after recumbency and again 19 min later and analyzed immediately with a portable i-STAT analyzer. Simultaneously, heart rate, respiratory rate, and rectal temperature were recorded. Intranasal oxygen was started after the first sampling at a flow rate of 10 mL.kg −1 .min −1 of estimated body mass until the end of the procedure. The initial mean partial pressure of oxygen (P a O 2 ) was 49.7 mmHg with 32 out of 35 sampled bison presenting with hypoxemia. We observed decreased respiratory rates and pH and mild hypercapnia consistent with a mild respiratory acidosis. After oxygen supplementation hypoxemia was resolved in 21 out of 32 bison, but respiratory acidosis was accentuated. Bison immobilized with a lower initial drug dose required supplementary injections during the procedure. We observed that lower mean rectal temperatures during the immobilization event were significantly associated with longer recovery times. For three bison, minor regurgitation was documented. No mortality or morbidity related to the immobilizations were reported for at least 2 months following the procedure. Based on our findings, we recommend a dose of 0.015 mg.kg −1 etorphine, 0.049 mg.kg −1 acepromazine, and 0.22 mg.kg −1 xylazine. This dose reduced the need for supplemental injections to obtain a sufficient level of immobilization for routine management and husbandry procedures in captive European bison. Nevertheless, this drug combination is associated with development of marked hypoxemia, mild respiratory acidosis, and a small risk of regurgitation. Oxygen supplementation is strongly recommended when using this protocol.
-  </article>
   <article id="contributors-article-5V9ENSV3" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -185,7 +181,7 @@ Studiested Evenstad
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

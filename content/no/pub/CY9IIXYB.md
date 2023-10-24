@@ -1,5 +1,5 @@
 ---
-title: "A Double-Blinded, Randomized Comparison of Medetomidine-Tiletamine-Zolazepam and Dexmedetomidine-Tiletamine-Zolazepam Anesthesia in Free-Ranging Brown Bears (Ursus Arctos)"
+title: "CY9IIXYB"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CY9IIXYB" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1450337" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/CY9IIXYB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-CY9IIXYB" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CY9IIXYB" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-CY9IIXYB" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0170764&amp;type=printable" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-CY9IIXYB"></div>
 </article>
 <div id="csl-bib-meta-CY9IIXYB" class="csl-bib-meta">
-  <article id="abstract-article-CY9IIXYB" class="abstract-article">
-    <h1>Samandrag</h1>
-    We compared anesthetic features, blood parameters, and physiological responses to either medetomidine-tiletamine-zolazepam or dexmedetomidine-tiletamine-zolazepam using a double-blinded, randomized experimental design during 40 anesthetic events of free-ranging brown bears (Ursus arctos) either captured by helicopter in Sweden or by culvert trap in Canada. Induction was smooth and predictable with both anesthetic protocols. Induction time, the need for supplemental drugs to sustain anesthesia, and capture-related stress were analyzed using generalized linear models, but anesthetic protocol did not differentially affect these variables. Arterial blood gases and acid-base status, and physiological responses were examined using linear mixed models. We documented acidemia (pH of arterial blood &lt; 7.35), hypoxemia (partial pressure of arterial oxygen &lt; 80 mmHg), and hypercapnia (partial pressure of arterial carbon dioxide ≥ 45 mmHg) with both protocols. Arterial pH and oxygen partial pressure were similar between groups with the latter improving markedly after oxygen supplementation (p &lt; 0.001). We documented dose-dependent effects of both anesthetic protocols on induction time and arterial oxygen partial pressure. The partial pressure of arterial carbon dioxide increased as respiratory rate increased with medetomidine-tiletamine-zolazepam, but not with dexmedetomidine-tiletamine-zolazepam, demonstrating a differential drug effect. Differences in heart rate, respiratory rate, and rectal temperature among bears could not be attributed to the anesthetic protocol. Heart rate increased with increasing rectal temperature (p &lt; 0.001) and ordinal day of capture (p = 0.002). Respiratory rate was significantly higher in bears captured by helicopter in Sweden than in bears captured by culvert trap in Canada (p &lt; 0.001). Rectal temperature significantly decreased over time (p ≤ 0.05). Overall, we did not find any benefit of using dexmedetomidine-tiletamine-zolazepam instead of medetomidine-tiletamine-zolazepam in the anesthesia of brown bears. Both drug combinations appeared to be safe and reliable for the anesthesia of free-ranging brown bears captured by helicopter or by culvert trap.
-  </article>
   <article id="contributors-article-CY9IIXYB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -99,7 +95,7 @@ Studiested Evenstad
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

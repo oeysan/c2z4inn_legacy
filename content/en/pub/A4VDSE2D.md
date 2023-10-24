@@ -1,5 +1,5 @@
 ---
-title: "A Framework for Using Humanoid Robots in the School Learning Environment"
+title: "A4VDSE2D"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-A4VDSE2D" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1900194" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/A4VDSE2D" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-A4VDSE2D" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-A4VDSE2D" class="csl-bib-button">Contributors</a>
+    <a href="https://www.mdpi.com/2079-9292/10/6/756/pdf?version=1616490497" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-A4VDSE2D"></div>
 </article>
 <div id="csl-bib-meta-A4VDSE2D" class="csl-bib-meta">
-  <article id="abstract-article-A4VDSE2D" class="abstract-article">
-    <h1>Abstract</h1>
-    With predictions of robotics and efficient machine learning being the building blocks of the Fourth Industrial Revolution, countries need to adopt a long-term strategy to deal with potential challenges of automation and education must be at the center of this long-term strategy. Education must provide students with a grounding in certain skills, such as computational thinking and an understanding of robotics, which are likely to be required in many future roles. Targeting an acknowledged gap in existing humanoid robot research in the school learning environment, we present a multidisciplinary framework that integrates the following four perspectives: technological, pedagogical, efficacy of humanoid robots and a consideration of the ethical implications of using humanoid robots. Further, this paper presents a proposed application, evaluation and a case study of how the framework can be used.
-  </article>
   <article id="contributors-article-A4VDSE2D" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

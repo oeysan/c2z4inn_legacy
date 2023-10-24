@@ -1,5 +1,5 @@
 ---
-title: "'HOMInG interview': Struggling for home where home is not meant to be. IN: Thinking home on the move: a conversation across disciplines, Milena Belloni and Luis E. Pérez Murcia Paolo Boccagni (eds)"
+title: "RQJ7T8N8"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RQJ7T8N8" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1840876" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RQJ7T8N8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RQJ7T8N8" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-RQJ7T8N8"></div>

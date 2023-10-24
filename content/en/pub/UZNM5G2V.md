@@ -1,5 +1,5 @@
 ---
-title: "Mental health professionals’ experiences with shared decision-making for patients with psychotic disorders: a qualitative study"
+title: "UZNM5G2V"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UZNM5G2V" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1856254" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UZNM5G2V" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-UZNM5G2V" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UZNM5G2V" class="csl-bib-button">Contributors</a>
+    <a href="https://bmchealthservres.biomedcentral.com/track/pdf/10.1186/s12913-020-05949-1" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-UZNM5G2V"></div>
 </article>
 <div id="csl-bib-meta-UZNM5G2V" class="csl-bib-meta">
-  <article id="abstract-article-UZNM5G2V" class="abstract-article">
-    <h1>Abstract</h1>
-    BackgroundShared decision-making (SDM) is a process whereby clinicians and patients work together to select treatments based on both the patient’s preferences and clinical evidence. Although patients with psychotic disorders want to participate more in decisions regarding their care, they have limited opportunities to do so because of various barriers. Knowing about health professionals’ experiences with SDM is important toward achieving successful implementation. The study aim was to describe and explore health professionals’ SDM experiences with patients with psychotic disorders. MethodsThree focus group interviews were conducted, with a total of 18 health professionals who work at one of three Norwegian community mental health centres where patients with psychotic disorders are treated. We applied a descriptive and exploratory approach using qualitative content analysis. ResultsHealth professionals primarily understand the SDM concept to mean giving patients information and presenting them with a choice between different antipsychotic medications. Among the barriers to SDM, they emphasized that patients with psychosis have a limited understanding of their health situation and that time is needed to build trust and alliances. Health professionals mainly understand patients with psychotic disorders as a group with limited abilities to make their own decisions. They also described the concept of SDM with little consideration of presenting different treatment options. Psychological or social interventions were often presented as complementary to antipsychotic medications, rather than as an alternative to them. ConclusionHealth professionals’ understanding of SDM is inconsistent with the definition commonly used in the literature. They consider patients with psychotic disorders to have limited abilities to participate in decisions regarding their own treatment. These findings suggest that health professionals need more theoretical and practical training in SDM.
-  </article>
   <article id="contributors-article-UZNM5G2V" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

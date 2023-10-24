@@ -1,5 +1,5 @@
 ---
-title: "Self-Rated Health Among Italian Immigrants Living in Norway: A Cross-Sectional Study"
+title: "XMPQIJQB"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,25 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XMPQIJQB" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2019882" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XMPQIJQB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-XMPQIJQB" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XMPQIJQB" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-XMPQIJQB" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2022.837728/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-XMPQIJQB"></div>
 </article>
 <div id="csl-bib-meta-XMPQIJQB" class="csl-bib-meta">
-  <article id="abstract-article-XMPQIJQB" class="abstract-article">
-    <h1>Abstract</h1>
-    Background: Most studies on immigrant health focus on immigrant groups coming from extra-European and/or low-income countries. Little attention is given to self-rated health (SRH) in the context EU/EEA migration. To know more about health among European immigrants can provide new insights related to social determinants of health in the migration context. Using the case of Italian immigrants in Norway, the aim of this study was to (i) examine the levels of SRH among Italian immigrants in Norway as compared with the Norwegian and the Italian population, (ii) examine the extent to which the Italian immigrant perceived that moving to Norway had a positive or negative impact on their SRH; and (iii) identify the most important factors predicting SRH among Italian immigrants in Norway. 
- 
-Methods: A cross-sectional survey was conducted among adult Italian immigrants in Norway (n = 321). To enhance the sample's representativeness, the original dataset was oversampled to match the proportion of key sociodemographic characteristics of the reference population using the ADASYN method (oversampled n = 531). A one-sample Chi-squared was performed to compare the Italian immigrants' SRH with figures on the Norwegian and Italian populations according to Eurostat statistics. A machine-learning approach was used to identify the most important predictors of SRH among Italian immigrants. 
- 
-Results: Most of the respondents (69%) rated their SRH as “good” or “very good”. This figure was not significantly different with the Norwegian population, nor to the Italians living in Italy. A slight majority (55%) perceived that their health would have been the same if they continued living in Italy, while 23% perceived a negative impact. The machine-learning model selected 17 variables as relevant in predicting SRH. Among these, Age, Food habits, and Years of permanence in Norway were the variables with the highest level of importance, followed by Trust in people, Educational level, and Health literacy. 
- 
-Conclusions: Italian immigrants in Norway can be considered as part of a “new mobility” of high educated people. SHR is shaped by several interconnected factors. Although this study relates specifically to Italian immigrants, the findings may be extended to other immigrant populations in similar contexts.
-  </article>
   <article id="contributors-article-XMPQIJQB" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -69,7 +59,7 @@ Room 4L3335
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Bruken av sosiale entreprenører: Kommunen vil, men det er ikke lett å få til"
+title: "NRPKKV9E"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NRPKKV9E" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2058112" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NRPKKV9E" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NRPKKV9E" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-NRPKKV9E"></div>

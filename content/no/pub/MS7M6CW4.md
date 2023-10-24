@@ -1,5 +1,5 @@
 ---
-title: "Cross-National Study of Worrying, Loneliness, and Mental Health during the COVID-19 Pandemic: A Comparison between Individuals with and without Infection in the Family"
+title: "MS7M6CW4"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MS7M6CW4" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1921570" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/MS7M6CW4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-MS7M6CW4" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-MS7M6CW4" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-MS7M6CW4" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2227-9032/9/7/903/pdf?version=1626432125" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-MS7M6CW4"></div>
 </article>
 <div id="csl-bib-meta-MS7M6CW4" class="csl-bib-meta">
-  <article id="abstract-article-MS7M6CW4" class="abstract-article">
-    <h1>Samandrag</h1>
-    Objective: The objective of this study was to examine differences in worry, loneliness, and mental health between those individuals infected by COVID-19 or having someone their family infected, and the rest of the population. Methods: A cross-sectional online survey was conducted in Norway, UK, USA, and Australia during April/May 2020. Participants (n = 3810) were recruited via social media postings by the researchers and the involved universities. Differences between those with and without infection in the family were investigated with chi-square tests and independent t-tests. Multiple regression analyses were used to assess associations between sociodemographic variables and psychological outcomes (worry, loneliness, and mental health) in both groups. Results: Compared to their counterparts, participants with infection in the family reported higher levels of worries about themselves (p &lt; 0.05) and their family members (p &lt; 0.001) and had poorer mental health (p &lt; 0.05). However, the effect sizes related to the differences were small. The largest effect (d = 0.24) concerned worries about their immediate family. Poorer psychological outcomes were observed in those who were younger, female, unemployed, living alone and had lower levels of education, yet with small effect sizes. Conclusions: In view of the small differences between those with and without infection, we generally conclude that the mental health effects of the COVID-19 situation are not limited to those who have been infected or have had an infection within the family but extend to the wider population.
-  </article>
   <article id="contributors-article-MS7M6CW4" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,13 +59,13 @@ Rom 4L3213
     <div class="sdg-container"><div id="sdg1" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg01_no.png" class="image" alt="SDG 1">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>37</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=1#archive" class="sdg-publication-count"><span>39</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/utrydde-fattigdom?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

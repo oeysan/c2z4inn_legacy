@@ -1,5 +1,5 @@
 ---
-title: "An Overview on Traditional vs. Green Technology of Extraction Methods for Producing High Quality Walnut Oil"
+title: "P9HRBGAC"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-P9HRBGAC" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2054048" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/P9HRBGAC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-P9HRBGAC" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-P9HRBGAC" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-P9HRBGAC" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.mdpi.com/2073-4395/12/10/2258/pdf?version=1666582462" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-P9HRBGAC"></div>
 </article>
 <div id="csl-bib-meta-P9HRBGAC" class="csl-bib-meta">
-  <article id="abstract-article-P9HRBGAC" class="abstract-article">
-    <h1>Abstract</h1>
-    Walnut oil is extremely nutrient dense. It has plenty of oil and is high in fatty acids, which have positive biological properties and have a favorable impact on blood lipids and lipoproteins. Walnut oil is low in saturated fatty acids and high in unsaturated fatty acids as well as being high in other vital nutrients. Walnut oil can be extracted using traditional as well as new and green technologies. It is low in saturated fatty acids and high in unsaturated fatty acids (monounsaturated and polyunsaturated fatty acids) as well as being high in other vital nutrients (e.g., selenium, phosphorus, and zinc). Walnut oil can be extracted using traditional as well as new and green technologies. The chosen extraction method has a significant impact on the lipids and other important components extracted. It is critical to select a suitable extraction process for the compounds of interest. In this study, different extraction methods are reviewed, demonstrating the significant benefits of new methods over previous approaches. New green technologies are ecologically benign and allow for shorter extraction times and yields that are comparable to those obtained using traditional methods. The new green technologies allow for higher-quality oils that are less vulnerable to oxidation processes than most of the old technologies.
-  </article>
   <article id="contributors-article-P9HRBGAC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Campus Blæstad
     <div class="sdg-container"><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>46</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=2#archive" class="sdg-publication-count"><span>46</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

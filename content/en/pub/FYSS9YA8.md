@@ -1,5 +1,5 @@
 ---
-title: "The effect of trauma and alcohol on the relationship between level of cytokines and depression among patients entering psychiatric treatment"
+title: "FYSS9YA8"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,29 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FYSS9YA8" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1584232" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/FYSS9YA8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-FYSS9YA8" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FYSS9YA8" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-FYSS9YA8" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://bmcpsychiatry.biomedcentral.com/track/pdf/10.1186/s12888-018-1677-z" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-FYSS9YA8"></div>
 </article>
 <div id="csl-bib-meta-FYSS9YA8" class="csl-bib-meta">
-  <article id="abstract-article-FYSS9YA8" class="abstract-article">
-    <h1>Abstract</h1>
-    Background 
-Depression is associated with immunological responses as reflected by altered levels of circulating cytokines. Alcohol use and trauma may modulate immune activity, and few studies have investigated these factors in depressed patients. We aimed to explore the association between circulating peripheral cytokine levels and degree of depressive symptoms, taking trauma and alcohol into account. 
- 
-Methods 
-The study was a cross-sectional assessment of patients at admission to a specialized psychiatric center in Norway. A total of 128 patients were included. Information was gathered using the self-administered questionnaires Beck Depression Inventory-II (BDI-II) and the Alcohol Use Disorders Identification Test (AUDIT), in addition to clinical interviews recording childhood or adult life trauma. Serum levels of the cytokines Interleukin-1β (IL-1β), Interleukin-1 Receptor Antagonist (IL-1RA), Tumor Necrosis Factor-α (TNF-α) and the chemokine Monocyte Chemoattractant Protein-1 (MCP-1) were assessed. A Luminex bead-based multiplex assay was used for cytokine measurements. Patient cytokine levels were compared to those of healthy volunteers by the Mann-Whitney U test. 
- 
-Results 
-Levels of cytokines did not differ across patients with mild, moderate and severe depression. AUDIT score was not related to cytokine levels, but to level of depression. A history of trauma was related to higher levels of IL-1RA and TNF-α (p = 0.048 and p = 0.033, respectively), especially among the severely depressed. Serum levels of MCP-1 and TNF-α were significantly higher among psychiatric patients than in healthy volunteers. 
- 
-Conclusions 
-Findings indicate that depression was not related to levels of circulating cytokines among patients in treatment, but that traumatized patients had higher levels of IL-1RA and TNF-α than patients without trauma experience. The lack of relationship between cytokine level and depression was evident both in those without and with trauma.
-  </article>
   <article id="contributors-article-FYSS9YA8" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -109,7 +95,7 @@ Room 4L3202
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

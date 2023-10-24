@@ -1,5 +1,5 @@
 ---
-title: "Testing ActiveYou II: Applying Cognitive Interviews in Improving Item Quality and Applicability of a Web-Based, Self-Report Instrument on Participation in Children with Disabilities"
+title: "N2QKZLLD"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-N2QKZLLD" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1918489" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/N2QKZLLD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-N2QKZLLD" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-N2QKZLLD" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-N2QKZLLD" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/1660-4601/18/9/4768/pdf?version=1619775379" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-N2QKZLLD"></div>
 </article>
 <div id="csl-bib-meta-N2QKZLLD" class="csl-bib-meta">
-  <article id="abstract-article-N2QKZLLD" class="abstract-article">
-    <h1>Samandrag</h1>
-    Background: Children and youth with disabilities participate less in leisure activities than their nondisabled peers. Increasing participation is a primary goal of rehabilitation interventions. However, valid measures that include the individual’s perspectives and facilitating and hindering factors for participation are lacking in the Norwegian setting. In this study, ActiveYou II, a self-report, web-based instrument under development, was tested to obtain item quality and applicability. Methods: Nine children with disabilities participated in cognitive interviews, testing a first set of ActiveYou II items. The verbal probe method for cognitive interviews was applied. Results: The children’s comprehension and responses through cognitive interviews improved the applicability and item quality of ActiveYou II. Item adjustments were made to the wording of the questions and response alternatives, and the number of response alternatives were decreased where appropriate. Conclusions: The use of cognitive interviews with children before performing further psychometric testing has been very useful in the development process of ActiveYou II. Adjustments of the questions and response alternatives were made accordingly.
-  </article>
   <article id="contributors-article-N2QKZLLD" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -93,13 +89,13 @@ Rom 4L2205
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

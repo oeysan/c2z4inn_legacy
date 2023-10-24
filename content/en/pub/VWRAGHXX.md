@@ -1,5 +1,5 @@
 ---
-title: "Teachers’ use of digital learning tool for teaching in higher education: Exploring teaching practice and sharing culture"
+title: "VWRAGHXX"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VWRAGHXX" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1687169" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VWRAGHXX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-VWRAGHXX" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VWRAGHXX" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-VWRAGHXX" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/JARHE-10-2018-0202" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-VWRAGHXX"></div>
 </article>
 <div id="csl-bib-meta-VWRAGHXX" class="csl-bib-meta">
-  <article id="abstract-article-VWRAGHXX" class="abstract-article">
-    <h1>Abstract</h1>
-    PurposeThe purpose of this paper is to explore teachers’ use of digital learning tools for teaching in higher education. Moreover, it investigates how the use of digital tools affects educational practices and how teachers experience the culture of sharing among colleagues and within the organisation. Design/methodology/approachA qualitative methodology was chosen, and semi-structured interviews were conducted with teachers at a higher education institution in Norway. The study uses the TPACK-framework, which illustrates the relationship between technology, professional content knowledge and pedagogical approaches as its theoretical foundation. FindingsThe findings conclude that teachers are concerned with the convergence of how technology and digital learning tools can support educational processes by engaging and involving the students. The findings further indicate that they are committed to using digital tools to motivate, engage and facilitate student-based education, which in turn leads to more reflection on teachers’ own teaching practices. Based on the theory of Professional Learning Communities, the respondents agree that sharing is a basic prerequisite for a learning organisation. They experience, however, that sharing between colleagues is easier in formal forums than at informal settings. Originality/valueThe rapid development of technology suggests that many sectors including the education sector must adapt to the new changes in their teaching practices. Nevertheless, many teachers merely use the basic form of digital learning tools to distribute the teaching materials, as such tools are less utilised to support students’ learning process (Fossland, 2015). The research indicates that digital learning tools have positive effect on teaching practices and that they can function as tools to improve the teachers’ own teaching practices. Positive teaching practices should also be shared in a learning organisation to improve teaching practices on an organisational level. Hence, sharing at a professional level can impact learning and the organisational culture in academic institutions.
-  </article>
   <article id="contributors-article-VWRAGHXX" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -102,7 +98,7 @@ Campus Elverum
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

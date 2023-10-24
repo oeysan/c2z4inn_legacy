@@ -1,5 +1,5 @@
 ---
-title: "Seasonality shapes the amplitude of vole population dynamics rather than generalist predators"
+title: "M38EAGXN"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-M38EAGXN" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1727231" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/M38EAGXN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-M38EAGXN" class="csl-bib-button">Contributors</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/oik.06351" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-M38EAGXN"></div>
 </article>

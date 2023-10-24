@@ -1,5 +1,5 @@
 ---
-title: "Trait Patterns and Genetic Resources of Dill (Anethum graveolens L.)"
+title: "SAYEBD94"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SAYEBD94" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1576099" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SAYEBD94" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-SAYEBD94" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SAYEBD94" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-SAYEBD94" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-SAYEBD94"></div>
 </article>
 <div id="csl-bib-meta-SAYEBD94" class="csl-bib-meta">
-  <article id="abstract-article-SAYEBD94" class="abstract-article">
-    <h1>Samandrag</h1>
-    Dill (Anethum graveolens L.) is used fresh or processed for food seasoning and preservation. Production is concentrated in temperate regions but can be grown as a cool season crop in India and Thailand. Several secondary metabolites, among them essential oils are present in the plant and with claimed health benefits. Despite the many potential benefits, dill is an underutilized crop. The current study survey global and European genetic resources. Hence, accessions from the Nordic germplasm collection were evaluated, aiming at tracing trait patterns. The survey showed both gaps and overlaps in available genebank holdings. Accessions from outside Europe were highly under-represented in the global collections, as were wild material and crop wild relatives. The evaluation showed that important agro-botanical traits correlated, such as plant height, umbel size and other size characters. Furthermore, essential oil composition was clearly influenced by high temperature stress. A discussion on access and use of genetic resources of minor crops such as dill was included.
-  </article>
   <article id="contributors-article-SAYEBD94" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -65,7 +60,7 @@ Studiested Blæstad
     <div class="sdg-container"><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_no.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>46</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=2#archive" class="sdg-publication-count"><span>46</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

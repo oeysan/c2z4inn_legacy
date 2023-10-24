@@ -1,5 +1,5 @@
 ---
-title: "Effects of Land Use Intensification on Avian Predator Assemblages: A Comparison of Landscapes with Different Histories in Northern Europe"
+title: "V3VIXPB6"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-V3VIXPB6" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1718813" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/V3VIXPB6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-V3VIXPB6" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-V3VIXPB6" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.mdpi.com/1424-2818/11/5/70/pdf?version=1556532620" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-V3VIXPB6"></div>
 </article>
 <div id="csl-bib-meta-V3VIXPB6" class="csl-bib-meta">
-  <article id="abstract-article-V3VIXPB6" class="abstract-article">
-    <h1>Samandrag</h1>
-    Land use and landcover change alter the ability of habitat networks to maintain viable species populations. While their effects on the quality, amount and patterns of landcover patches are commonly studied, how they affect ecological processes, such as predation on focal species remains neglected. This macroecological study tests the hypothesis that predator assemblages are affected by land use intensity linked to different socio-economic contexts. We measured the distribution and abundance of two avian predator groups (generalist corvid birds and specialist raptors), and proxy variables that mirror their food resources, at three spatial scales in northern Europe’s West and East. In total, we made 900 survey counts for avian predators and their resources in six landcover strata throughout five landscapes and analyzed their relationships. The abundance of omnivorous corvid birds was associated with the number of anthropogenic food resources. Thus, corvid birds were most common in the urban and agricultural landcovers, and where forest cover was low. Corvid bird abundance, and availability of their resources, increased with increasing land use intensity. Raptors were less abundant than corvid birds and most common in semi-natural grasslands. The number of raptor species increased with decreasing land use intensity. This study shows that the abundance and composition of avian predator species must be understood to maintain functional habitat networks.
-  </article>
   <article id="contributors-article-V3VIXPB6" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

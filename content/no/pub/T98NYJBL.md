@@ -1,5 +1,5 @@
 ---
-title: "Cell specific expression of human b -galactoside a 2,6-sialyltransferase transcripts differing in the 5' untranslated region"
+title: "T98NYJBL"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-T98NYJBL" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1912988" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/T98NYJBL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1111/j.1432-1033.1993.tb17783.x." class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-T98NYJBL"></div>
 </article>

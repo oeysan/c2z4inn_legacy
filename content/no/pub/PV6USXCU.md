@@ -1,5 +1,5 @@
 ---
-title: "Health challenges in long-distance dog sled racing: A systematic review of literature"
+title: "PV6USXCU"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PV6USXCU" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1510624" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PV6USXCU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-PV6USXCU" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PV6USXCU" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/22423982.2017.1396147?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PV6USXCU"></div>
 </article>
 <div id="csl-bib-meta-PV6USXCU" class="csl-bib-meta">
-  <article id="abstract-article-PV6USXCU" class="abstract-article">
-    <h1>Samandrag</h1>
-    Long-distance dog sled races, e.g. Iditarod (Alaska) and Finnmarksløpet (Northern Norway), are extremely demanding sporting events that might expose mushers, handlers and a large number of organisers and volunteers to risks for their health. The purpose of this systematic literature review (PROSPERO registration n. CRD42017069136) was to identify and summarise all available scientific literature relative to health issues connected to participating in these races. Using a literature search strategy in line with PRISMA guidelines, 117 scientific studies, sought through databases (Google Scholar and PubMed, between 2nd and 9th May 2017) and scrutiny of reference lists, were screened. Studies published in English treating any health issues assessed during or after a long-distance dog sled race were included, with no restriction in relation to their study design or the characteristics of participants studied. The quality of the studies was assessed using a standardised checklist. Ten studies met the criteria for being included in a qualitative analysis. The data synthesis showed that participants underwent strenuous psychophysical load, with insufficient sleep/rest and inadequate energy intake. Findings on hydrations are mixed. The risk of incurring in life-threatening injuries or infections was low, although injuries and infections of minor severity were common. No alterations of blood markers were observed from before to after the races. These findings will help planning prevention and treatment strategies in long-distance dog sled races. However, more research is needed in this field in the future.
-  </article>
   <article id="contributors-article-PV6USXCU" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

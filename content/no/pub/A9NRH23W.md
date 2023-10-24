@@ -1,5 +1,5 @@
 ---
-title: "Problems created by the (un)clear boundaries between physical education and physical activity health initiatives in schools"
+title: "A9NRH23W"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-A9NRH23W" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1798735" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/A9NRH23W" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-A9NRH23W" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/13573322.2020.1722090" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-A9NRH23W"></div>
 </article>

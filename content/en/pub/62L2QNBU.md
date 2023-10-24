@@ -1,5 +1,5 @@
 ---
-title: "Superior Physiological Adaptations After a Microcycle of Short Intervals Versus Long Intervals in Cyclists"
+title: "62L2QNBU"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-62L2QNBU" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1929349" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/62L2QNBU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-62L2QNBU" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-62L2QNBU" class="csl-bib-button">Contributors</a>
+    <a href="https://e-space.mmu.ac.uk/630338/1/Ronnestad%202021%20-%20Superior%20Physiological%20Adaptations%20After%20a%20Microcycle%20of%20Short%20Intervals%20Versus%20Long%20Intervals%20in%20Cyclists.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-62L2QNBU"></div>
 </article>
 <div id="csl-bib-meta-62L2QNBU" class="csl-bib-meta">
-  <article id="abstract-article-62L2QNBU" class="abstract-article">
-    <h1>Abstract</h1>
-    Purpose : To compare the effects of a 1-week high-intensity aerobic-training shock microcycle composed of either 5 short-interval sessions (SI; n = 9, 5 series with 12 × 30-s work intervals interspersed with 15-s recovery and 3-min recovery between series) or 5 long-interval sessions (LI; n = 8, 6 series of 5-min work intervals with 2.5-min recovery between series) on indicators of endurance performance in well-trained cyclists. Methods : Before and following 6 days with standardized training loads after the 1-week high-intensity aerobic-training shock microcycle, both groups were tested in physiological determinants of endurance performance. Results : From pretraining to posttraining, SI achieved a larger improvement than LI in maximal oxygen uptake (5.7%; 95% confidence interval, 1.3–10.3; P  = .015) and power output at a blood lactate concentration of 4 mmol·L −1 (3.8%; 95% confidence interval, 0.2–7.4; P  = .038). There were no group differences in changes of fractional use of maximal oxygen uptake at a workload corresponding to a blood lactate concentration of 4 mmol·L −1 , gross efficiency, or the 1-minute peak power output from the maximal-oxygen-uptake test. Conclusion : The SI protocol may induce superior changes in indicators of endurance performance compared with the LI protocol, indicating that SI can be a good strategy during a 1-week high-intensity aerobic-training shock microcycle in well-trained cyclists.
-  </article>
   <article id="contributors-article-62L2QNBU" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

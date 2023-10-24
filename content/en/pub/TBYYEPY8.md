@@ -1,5 +1,5 @@
 ---
-title: "Influence of Interval Training Frequency on Time-Trial Performance in Elite Endurance Athletes"
+title: "TBYYEPY8"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TBYYEPY8" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1869309" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TBYYEPY8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-TBYYEPY8" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TBYYEPY8" class="csl-bib-button">Contributors</a>
+    <a href="https://www.mdpi.com/1660-4601/17/9/3190/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TBYYEPY8"></div>
 </article>
 <div id="csl-bib-meta-TBYYEPY8" class="csl-bib-meta">
-  <article id="abstract-article-TBYYEPY8" class="abstract-article">
-    <h1>Abstract</h1>
-    Purpose: To determine the impact of interval training frequency in elite endurance athletes. It was hypothesized that two longer sessions would elicit greater performance improvements and physiological adaptation than four shorter sessions at the same intensity. Methods: Elite cross-country skiers and biathletes were randomly assigned to either a high-frequency group (HF group) (5 M, 1 F, age 22 (19–26), VO2max 67.8 (65.5–70.2) mL/kg/min) doing four short interval sessions per week or a low-frequency group (LF group) (8 M, 1 F, age 22 (18–23), VO2max 70.7 (67.0–73.9) mL/kg/min) doing two longer interval sessions. All interval sessions were performed at ~85% of maximum heart rate, and groups were matched for total weekly training volume. Pre- and post-intervention, athletes completed an 8 km rollerski time-trial, maximal oxygen uptake (VO2max) test, and an incremental, submaximal exercise test. Results: The LF group had a statistically significant improved time-trial performance following the intervention (p = 0.04), with no statistically significant changes in the HF group. Similarly, percentage utilization of VO2max at anaerobic threshold (p = 0.04) and exercise economy (p = 0.01) were statistically significantly improved following the intervention in the LF group only. No statistically significant changes in VO2max were observed in either group. Conclusions: Two longer interval sessions appear superior to four shorter sessions per week in promoting endurance adaptations and performance improvements in elite endurance athletes. Despite matched training volume and exercise intensity, the larger, more concentrated exercise stimulus in the LF group appears to induce more favorable adaptations. The longer time between training sessions in the LF group may also have allowed athletes to recover more effectively and better “absorb” the training. These findings are in line with the “best practice” observed by many of the world’s best endurance athletes.
-  </article>
   <article id="contributors-article-TBYYEPY8" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

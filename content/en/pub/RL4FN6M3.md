@@ -1,5 +1,5 @@
 ---
-title: "Mobilities of Wellbeing: Migration, the State, and Medical Knowledge."
+title: "RL4FN6M3"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RL4FN6M3" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1840885" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RL4FN6M3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RL4FN6M3" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-RL4FN6M3"></div>

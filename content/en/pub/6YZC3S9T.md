@@ -1,5 +1,5 @@
 ---
-title: "Growth-mortality attributes and species composition determine carbon sequestration and dynamics of old stand types in the Acadian Forest of New Brunswick, Canada"
+title: "6YZC3S9T"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6YZC3S9T" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1715630" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/6YZC3S9T" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s13595-019-0821-3.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-6YZC3S9T"></div>
 </article>

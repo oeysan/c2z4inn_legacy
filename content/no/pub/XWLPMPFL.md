@@ -1,5 +1,5 @@
 ---
-title: "The life, work and public activities of Bjørnstjerne Bjørnson and Elena Maróthy-Šoltésová and their influence on the development of social work"
+title: "XWLPMPFL"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XWLPMPFL" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2139753" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XWLPMPFL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XWLPMPFL" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-XWLPMPFL"></div>

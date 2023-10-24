@@ -1,5 +1,5 @@
 ---
-title: "Metaphor identification in multiple languages: MIPVU around the world"
+title: "MFR52N8P"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MFR52N8P" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1754164" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/MFR52N8P" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-MFR52N8P" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-MFR52N8P" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-MFR52N8P" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-MFR52N8P"></div>
 </article>
 <div id="csl-bib-meta-MFR52N8P" class="csl-bib-meta">
-  <article id="abstract-article-MFR52N8P" class="abstract-article">
-    <h1>Samandrag</h1>
-    This volume explores linguistic metaphor identification in a wide variety of languages and language families. The book is an essential read for anyone interested in researching language and metaphor, from students to experienced scholars. Its primary goals are to discuss the challenges involved in applying the Metaphor Identification Procedure Vrije Universiteit (MIPVU) to a range of languages across the globe, and to offer theoretically grounded advice and guidelines enabling researchers to identify metaphors in multiple languages in a valid and replicable way. The volume is intended as a practical guidebook that identifies and discusses procedural challenges of metaphor identification across languages, thus better enabling researchers to reliably identify metaphor in a multitude of languages. Although able to be read independently, this volume – written by metaphor researchers from around the world – is the ideal companion volume for the 2010 Benjamins book "A Method for Linguistic Metaphor Identification: From MIP to MIPVU".
-  </article>
   <article id="contributors-article-MFR52N8P" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -67,7 +62,7 @@ Rom 2A115
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

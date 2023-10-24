@@ -1,5 +1,5 @@
 ---
-title: "Organising the “Labour of Hope”: A Critical Take on the Role of Internships and Mentorships in Supporting Highly Skilled Immigrants into Jobs"
+title: "SGPW5NRZ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SGPW5NRZ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2178629" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SGPW5NRZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SGPW5NRZ" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-3-031-26821-2_11" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-SGPW5NRZ"></div>
 </article>

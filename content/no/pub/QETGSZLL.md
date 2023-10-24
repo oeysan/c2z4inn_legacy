@@ -1,17 +1,18 @@
 ---
-title: "How Does Market Cap Play Its Role in Returns During COVID-19? The Case of Norway"
+title: "QETGSZLL"
 type: pub
 ---
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-QETGSZLL" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Dinh, M. T. H. (2023). How Does Market Cap Play Its Role in Returns During COVID-19? The Case of Norway. <i>Journal of Risk and Financial Management</i>, <i>16</i>(9). <a href="https://doi.org/10.3390/jrfm16090414.">https://doi.org/10.3390/jrfm16090414.</a></div>
+  <div class="csl-entry">Dinh, M. T. H. (2023). How Does Market Cap Play Its Role in Returns during COVID-19? The Case of Norway. <i>Journal of Risk and Financial Management</i>, <i>16</i>(9), 414. <a href="https://doi.org/10.3390/jrfm16090414">https://doi.org/10.3390/jrfm16090414</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QETGSZLL" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2175131" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/QETGSZLL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-QETGSZLL" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.mdpi.com/1911-8074/16/9/414/pdf?version=1695121677" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-QETGSZLL"></div>
 </article>

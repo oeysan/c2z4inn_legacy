@@ -1,5 +1,5 @@
 ---
-title: "The impact of individual creativity, psychological capital, and leadership autonomy support on hospital employees’ innovative behaviour"
+title: "NMMIPVSA"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NMMIPVSA" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1853630" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NMMIPVSA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-NMMIPVSA" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NMMIPVSA" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-NMMIPVSA" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://bmchealthservres.biomedcentral.com/track/pdf/10.1186/s12913-020-05954-4" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-NMMIPVSA"></div>
 </article>
 <div id="csl-bib-meta-NMMIPVSA" class="csl-bib-meta">
-  <article id="abstract-article-NMMIPVSA" class="abstract-article">
-    <h1>Abstract</h1>
-    BackgroundThere is growing interest in and focus on healthcare services research to identify factors associated with innovation in healthcare organizations. However, previous innovation research has concentrated primarily on the organizational level. In contrast, this study focuses on innovation by individual employees. The specific aim is to examine factors with potential impact on individual employee innovation in hospital organizations. Thus, the study significantly deepens and broadens previous research on innovation in the domain of health services. Methods A conceptual model was developed and tested on a sample of hospital employees ( n  = 1008). Partial least-squares structural equation modelling (PLS-SEM) was used to analyse the data with SmartPLS 3 software in two steps involving a measurement model and a structural model. Mediation analysis was used to test the proposed indirect effects. ResultsHospital employees’ individual innovative behaviour is directly and positively associated with individual creativity (β = 0.440), psychological capital (β = 0.34) and leadership autonomy support (β = 0.07). The relationships between leadership autonomy support, psychological capital and individual innovative behaviour are all mediated by employees’ creativity. Psychological capital mediates the relationship between leadership autonomy support and individual innovative behaviour. Overall, the proposed model explains 50% of the variance in hospital employees’ innovative behaviour. ConclusionsThis study reveals a complex pattern of links between innovative behaviour and leadership autonomy support, employees’ creativity and employees’ psychological capital. However, the findings indicate that leadership autonomy support has an influential and multifaceted impact on hospital employees’ innovative behaviour.
-  </article>
   <article id="contributors-article-NMMIPVSA" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -125,7 +121,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>64</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

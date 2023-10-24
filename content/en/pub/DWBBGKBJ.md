@@ -1,5 +1,5 @@
 ---
-title: "The Neuro-Immuno-Senescence Integrative Model (NISIM) on the Negative Association Between Parasympathetic Activity and Cellular Senescence"
+title: "DWBBGKBJ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DWBBGKBJ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1612490" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/DWBBGKBJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-DWBBGKBJ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-DWBBGKBJ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-DWBBGKBJ" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fnins.2018.00726/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-DWBBGKBJ"></div>
 </article>
 <div id="csl-bib-meta-DWBBGKBJ" class="csl-bib-meta">
-  <article id="abstract-article-DWBBGKBJ" class="abstract-article">
-    <h1>Abstract</h1>
-    There is evidence that accumulated senescent cells drive age-related pathologies, but the antecedents to the cellular stressors that induce senescence remain poorly understood. Previous research suggests that there is a relationship between shorter telomere length, an antecedent to cellular senescence, and psychological stress. Existing models do not sufficiently account for the specific pathways from which psychological stress regulation is converted into production of reactive oxygen species. We propose the neuro-immuno-senescence integrative model (NISIM) suggesting how vagally mediated heart rate variability might be related to cellular senescence. Prefrontally modulated, and vagally mediated cortical influences on the autonomic nervous system, expressed as heart rate variability, affects the immune system by adrenergic stimulation and cholinergic inhibition of cytokine production in macrophages and neutrophils. Previous findings indicate that low heart rate variability is associated with increased production of the pro-inflammatory cytokines IL-6 and TNF-α. IL-6 and TNF-α can activate the NFκB pathway, increasing production of reactive oxygen species that can cause DNA damage. Vagally mediated heart rate variability has been related to an individual’s ability to regulate stress, and is lower in people with shorter telomeres. Based on these previous findings, the NISIM suggest that the main pathway from psychological stress to individual differences in oxidative telomere damage originates in the neuroanatomical components that modulate heart rate variability, and culminates in the cytokine-induced activation of NFκB. Accumulated senescent cells in the brain is hypothesized to promote age-related neurodegenerative disease, and previous reports suggest an association between low heart rate variability and onset of Alzheimer’s and Parkinson’s disease. Accumulating senescent cells in peripheral tissues secreting senescence-associated secretory phenotype factors can alter tissue structure and function which can induce cancer and promote tumor growth and metastasis in old age, and previous research suggested that ability to regulate psychological stress has a negative association with cancer onset. We therefore conclude that the NISIM can account for a large proportion of the individual differences in the psychological stress-related antecedents to cellular senescence, and suggest that it can be useful in providing a dynamic framework for understanding the pathways by which psychological stress induce pathologies in old age.
-  </article>
   <article id="contributors-article-DWBBGKBJ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -60,7 +56,7 @@ Campus Hamar
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

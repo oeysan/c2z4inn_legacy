@@ -1,5 +1,5 @@
 ---
-title: "Multitrophic biodiversity patterns and environmental descriptors of sub‐Arctic lakes in northern Europe"
+title: "LBAJBTQS"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LBAJBTQS" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1787860" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LBAJBTQS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/fwb.13477" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LBAJBTQS"></div>
 </article>

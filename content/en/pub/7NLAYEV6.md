@@ -1,5 +1,5 @@
 ---
-title: "I Buy Medicines From the Streets Because I Am Poor: A Qualitative Account on why the Informal Market for Medicines Thrive in Ivory Coast"
+title: "7NLAYEV6"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7NLAYEV6" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2016488" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7NLAYEV6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-7NLAYEV6" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7NLAYEV6" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-7NLAYEV6" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://journals.sagepub.com/doi/pdf/10.1177/00469580221086585" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7NLAYEV6"></div>
 </article>
 <div id="csl-bib-meta-7NLAYEV6" class="csl-bib-meta">
-  <article id="abstract-article-7NLAYEV6" class="abstract-article">
-    <h1>Abstract</h1>
-    The informal market for medicines has been growing. In Ivory Coast, this informal market is an unofficial core part of the health system. Given the risks associated with the informal market for medicines, it is important to understand why this market continues to grow. It becomes even more important in the context of COVID-19, as a huge chunk of falsified medical products end up at the informal market. A qualitative case study design was chosen for this study, with in-depth interviews (IDIs) and focus group discussions (FGDs) being the methods for data collection. 20 IDIs and 3 FGDs were conducted. Participants in this study are sellers, buyers, and pharmaceutical experts. We found out that the informal market for medicines thrives because it is highly accessible, convenient, affordable, and that it is used for various social, cultural, and religious reasons. The study concludes that although this informal market presents a clear danger to public health, it is thriving. For authorities to address this public health challenge, there is need for a holistic and multi-pronged approach, which includes addressing health systems factors and strengthening regulatory framework.
-  </article>
   <article id="contributors-article-7NLAYEV6" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Room 4L3305
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

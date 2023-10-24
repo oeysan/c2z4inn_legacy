@@ -1,5 +1,5 @@
 ---
-title: "Whole-genome resequencing of temporally stratified samples reveals substantial loss of haplotype diversity in the highly inbred Scandinavian wolf population"
+title: "VQJD5FK7"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VQJD5FK7" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2023582" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VQJD5FK7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-VQJD5FK7" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VQJD5FK7" class="csl-bib-button">Contributors</a>
+    <a href="https://genome.cshlp.org/content/32/3/449.full.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VQJD5FK7"></div>
 </article>
 <div id="csl-bib-meta-VQJD5FK7" class="csl-bib-meta">
-  <article id="abstract-article-VQJD5FK7" class="abstract-article">
-    <h1>Abstract</h1>
-    Genetic drift can dramatically change allele frequencies in small populations and lead to reduced levels of genetic diversity, including loss of segregating variants. However, there is a shortage of quantitative studies of how genetic diversity changes over time in natural populations, especially on genome-wide scales. Here, we analyzed whole-genome sequences from 76 wolves of a highly inbred Scandinavian population, founded by only one female and two males, sampled over a period of 30 yr. We obtained chromosome-level haplotypes of all three founders and found that 10%–24% of their diploid genomes had become lost after about 20 yr of inbreeding (which approximately corresponds to five generations). Lost haplotypes spanned large genomic regions, as expected from the amount of recombination during this limited time period. Altogether, 160,000 SNP alleles became lost from the population, which may include adaptive variants as well as wild-type alleles masking recessively deleterious alleles. Although not sampled, we could indirectly infer that the two male founders had megabase-sized runs of homozygosity and that all three founders showed significant haplotype sharing, meaning that there were on average only 4.2 unique haplotypes in the six copies of each autosome that the founders brought into the population. This violates the assumption of unrelated founder haplotypes often made in conservation and management of endangered species. Our study provides a novel view of how whole-genome resequencing of temporally stratified samples can be used to visualize and directly quantify the consequences of genetic drift in a small inbred population.
-  </article>
   <article id="contributors-article-VQJD5FK7" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

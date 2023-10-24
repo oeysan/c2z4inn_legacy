@@ -1,5 +1,5 @@
 ---
-title: "The Forward Premium in the Nord Pool Power Market"
+title: "Y5A5JWHT"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Y5A5JWHT" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1594607" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Y5A5JWHT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-Y5A5JWHT" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Y5A5JWHT" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-Y5A5JWHT" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/1540496X.2018.1441021" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-Y5A5JWHT"></div>
 </article>
 <div id="csl-bib-meta-Y5A5JWHT" class="csl-bib-meta">
-  <article id="abstract-article-Y5A5JWHT" class="abstract-article">
-    <h1>Abstract</h1>
-    This article investigates the forward premium of futures contracts in the Nordic power market for the time period from January 2004 to December 2013. We find that futures prices are biased predictors of the subsequent spot prices and that there is a significant forward premium in the Nord Pool market, particularly during the winter and autumn. We analyze the impact from several factors on the forward premium. The spot price, and the deviation of water inflow from its usual level, positively affect the forward premium. The variance of the spot price also has a positive effect on the forward premium, but only for the contract closest to delivery.
-  </article>
   <article id="contributors-article-Y5A5JWHT" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

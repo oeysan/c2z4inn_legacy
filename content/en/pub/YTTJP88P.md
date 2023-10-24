@@ -1,5 +1,5 @@
 ---
-title: "Peripheral adaptations to endurance training—Effect of active muscle mass"
+title: "YTTJP88P"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YTTJP88P" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1752902" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YTTJP88P" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-YTTJP88P" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-YTTJP88P" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-YTTJP88P" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/tsm2.87" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-YTTJP88P"></div>
 </article>
 <div id="csl-bib-meta-YTTJP88P" class="csl-bib-meta">
-  <article id="abstract-article-YTTJP88P" class="abstract-article">
-    <h1>Abstract</h1>
-    The purpose of this study was to evaluate whether adaptations to endurance training are affected by active muscle mass during training. Eleven healthy subjects performed 5 weeks of one‐legged knee extension (1‐KE) training with both legs, separately. During the 1‐KE workouts for one of the legs, arm cycling was added (1L2A), while the other leg only performed 1‐KE (1L). During the training sessions, the 1‐KE power output and session duration were equal for both legs. Whole‐body oxygen uptake (V̇O2), adrenaline, and noradrenaline plasma concentrations were 112% ± 11%, 139% ± 144%, and 197% ± 101% higher during 1L2A than 1L, respectively. However, this did not affect the 1‐KE training adaptations since submaximal O2‐cost, heart rate and blood lactate concentration, maximal V̇O2, and power output all improved equally in both legs. This was supported by similar capillarization and concentration of oxidative enzymes in the legs after the training period. The present study therefore indicates that the size of active muscle mass per se during exercise does not affect adaptations to endurance training.
-  </article>
   <article id="contributors-article-YTTJP88P" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

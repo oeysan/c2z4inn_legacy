@@ -1,5 +1,5 @@
 ---
-title: "Analysis of the synchronisation of energy consumption: Evidence from G7 countries"
+title: "AUVRRNUB"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AUVRRNUB" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2138553" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/AUVRRNUB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-AUVRRNUB" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AUVRRNUB" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-AUVRRNUB" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1111/opec.12275" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-AUVRRNUB"></div>
 </article>
 <div id="csl-bib-meta-AUVRRNUB" class="csl-bib-meta">
-  <article id="abstract-article-AUVRRNUB" class="abstract-article">
-    <h1>Abstract</h1>
-    Given differences in the efficiency of oil use of local and foreign technologies across countries, characterising the degree of synchronisation of oil consumption is of great concern and consequence for economic, political, and, not least, climate change reasons. Building on the business cycle theory, we characterise the degree of synchronisation of oil consumption with world consumption among the G7 countries over the period 1890–2017. We provide three crucial points based on the wavelet and phase difference analyses. Firstly, we find that the synchronisation of oil consumption in the largest oil consumers with world consumption was continuous only during periods prior to the great depression of the 1930s, suggesting the lack of a stable synchronisation pattern in oil consumption. In addition, we show that during that period, oil consumption in each G7 country started approaching world consumption. Secondly, the phase relation structure infers a clear pattern of positive correlations (being in phase) between each country's oil consumption and world consumption, mainly during the short run. This strong evidence of interdependency yields beneficial information for monitoring world oil demand by improving the efficiency of oil in the underlying countries. Thirdly, we report that oil consumption patterns in France, the United Kingdom and the United States are the closely synchronised oil consumers with a procyclical pattern after 2010, supporting convergence features in their oil consumption series.
-  </article>
   <article id="contributors-article-AUVRRNUB" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Campus Kongsvinger
     <div class="sdg-container"><div id="sdg13" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg13_en.png" class="image" alt="SDG 13">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>43</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=13#archive" class="sdg-publication-count"><span>45</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal13" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

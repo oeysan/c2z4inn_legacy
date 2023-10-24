@@ -1,5 +1,5 @@
 ---
-title: "How Does Market Cap Play Its Role in Returns During COVID-19? The Case of Norway"
+title: "QETGSZLL"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QETGSZLL" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2175131" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/QETGSZLL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-QETGSZLL" class="csl-bib-button">Contributors</a>
+    <a href="https://www.mdpi.com/1911-8074/16/9/414/pdf?version=1695121677" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-QETGSZLL"></div>
 </article>

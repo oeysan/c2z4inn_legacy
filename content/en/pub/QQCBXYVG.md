@@ -1,5 +1,5 @@
 ---
-title: "In and out of class – what is the meaning for inclusive schools? Teachers’ opinions on push-and pull-out in Italy and Norway"
+title: "QQCBXYVG"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QQCBXYVG" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1902262" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/QQCBXYVG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-QQCBXYVG" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/13603116.2021.1904017" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-QQCBXYVG"></div>
 </article>

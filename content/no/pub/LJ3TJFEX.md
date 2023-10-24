@@ -1,5 +1,5 @@
 ---
-title: "Designing technologies for museums: accessibility and participation issues"
+title: "LJ3TJFEX"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LJ3TJFEX" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1810066" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LJ3TJFEX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-LJ3TJFEX" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LJ3TJFEX" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-LJ3TJFEX" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://purehost.bath.ac.uk/ws/files/205057124/EM_JETArticle.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LJ3TJFEX"></div>
 </article>
 <div id="csl-bib-meta-LJ3TJFEX" class="csl-bib-meta">
-  <article id="abstract-article-LJ3TJFEX" class="abstract-article">
-    <h1>Samandrag</h1>
-    PurposeThis paper aims to report the findings of a systematized literature review focusing on participatory research and accessibly in the context of assistive technologies, developed for use within museums by people with sensory impairments or a learning disability. The extent and nature of participatory research that occurs within the creation of technologies to facilitate accessible museum experiences is uncertain, and this is therefore a focus of this paper. Design/methodology/approachThis paper is a systematized literature review and subsequent thematic analysis. FindingsA screening of 294 research papers produced 8 papers for analysis in detail. A thematic analysis identified that the concept of accessibly has nuanced meanings, underpinned by social values; the attractiveness of a technology is important in supporting real-life usability; and that the conceptualization of participation should extend beyond the end users. Social implicationsThe argument is made that increasing the participation of people with sensory impairments and learning disabilities in the research process will benefit the design of technologies that facilitate accessibility for these groups. Originality/valueAn original notion of participation has emerged from this review. It includes the participation and goals of disabled people but has expanded the concept to encompass museum personnel and indeed the physical and social spaces of the museums and heritage sites themselves. This constructs a broad of participation, with different aspects being reflected across the review’s research papers.
-  </article>
   <article id="contributors-article-LJ3TJFEX" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -57,7 +53,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

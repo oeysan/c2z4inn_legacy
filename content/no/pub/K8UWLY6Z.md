@@ -1,5 +1,5 @@
 ---
-title: "Distriktspolitikkens historie i Norge"
+title: "K8UWLY6Z"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-K8UWLY6Z" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1766707" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/K8UWLY6Z" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-K8UWLY6Z" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-K8UWLY6Z" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-K8UWLY6Z"></div>
 </article>
 <div id="csl-bib-meta-K8UWLY6Z" class="csl-bib-meta">
-  <article id="abstract-article-K8UWLY6Z" class="abstract-article">
-    <h1>Samandrag</h1>
-    Distriktspolitikkens historie i Norge beskriver utviklinga av norsk distriktspolitikk i tida etter andre verdskrigen. Den starter med gjenreisinga av Nord-Norge og viser korleis denne politikken etter kvart kom til å omfatte utkantområde i Sør-Norge med tilsvarande utviklingsproblem.Boka diskuterer korleis nettopp distriktspolitikken har vore viktig ved store vendepunkt, til dømes: Satsing på vekstsenter: Dette var eit stort stridsemne da Gerhardsen-epoken vart avløyst av Borten-regjeringa i 1965. EF-røystinga i 1972: Denne løyste ut eit distriktsopprør så sterkt at distriktspolitikken fekk ein dominerande plass i den første og viktigaste stortingsmeldinga om oljepolitikken i 1974. Den nye folkerøystinga i 1994 og dei siste vala, då distriktspolitikken har kome sterkt tilbake på dagsorden.
-  </article>
   <article id="contributors-article-K8UWLY6Z" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

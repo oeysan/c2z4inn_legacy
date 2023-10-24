@@ -1,5 +1,5 @@
 ---
-title: "The role of predation risk in structuring life‐history traits of crucian carp ( Carassius carassius ) in a series of small boreal lakes"
+title: "9IV5PXXF"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9IV5PXXF" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2172492" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/9IV5PXXF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-9IV5PXXF" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9IV5PXXF" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-9IV5PXXF" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://doi.org/10.1111/jfb.15485" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-9IV5PXXF"></div>
 </article>
 <div id="csl-bib-meta-9IV5PXXF" class="csl-bib-meta">
-  <article id="abstract-article-9IV5PXXF" class="abstract-article">
-    <h1>Abstract</h1>
-    Predation is a major evolutionary force determining life‐history traits in prey by direct and indirect mechanisms. This study focuses on life‐history trait variation in crucian carp ( Carassius carassius ), a species well known for developing a deep body as an inducible morphological defence against predation risk. Here, the authors tested variation in growth and reproductive traits in 15 crucian carp populations in lakes along a predation risk gradient represented by increasingly efficient predator communities. Lakes were located in south‐eastern Norway and were sampled in summer 2018 and 2019. The authors expected crucian carp to attain higher growth rate, larger size, and later age at maturity with increasing predation risk. In the absence of predators, they expected high adult mortality, early maturity and increased reproductive effort caused by strong intraspecific competition. They found that the life‐history traits of crucian carp were clearly related to the presence of piscivores: with increasing predation risk, fish grew in body length and depth and attained larger asymptotic length and size at maturity. This growth was evident at young age, especially in productive lakes with pike, and it suggests that fish quickly outgrew the predation window by reaching a size refuge. Contrary to the authors’ predictions, populations had similar age at maturity. High‐predation lakes also presented low density of crucian carp. This suggests that fish from predator lakes may experience high levels of resource availability due to reduced intraspecific competition. Predation regulated life‐history traits in crucian carp populations, where larger size, higher longevity and size at maturity were observed in lakes with large gaped predators.
-  </article>
   <article id="contributors-article-9IV5PXXF" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -97,7 +93,7 @@ Room 6N211
     <div class="sdg-container"><div id="sdg14" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg14_en.png" class="image" alt="SDG 14">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>41</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=14#archive" class="sdg-publication-count"><span>42</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal14" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

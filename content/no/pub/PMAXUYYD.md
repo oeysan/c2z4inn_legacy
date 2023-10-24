@@ -1,5 +1,5 @@
 ---
-title: "Establishing the linkage between eba's instrumental and sensory descriptive profiles and their correlation with consumer preferences: implications for cassava breeding"
+title: "PMAXUYYD"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,25 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PMAXUYYD" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2128822" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PMAXUYYD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-PMAXUYYD" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PMAXUYYD" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-PMAXUYYD" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jsfa.12518" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PMAXUYYD"></div>
 </article>
 <div id="csl-bib-meta-PMAXUYYD" class="csl-bib-meta">
-  <article id="abstract-article-PMAXUYYD" class="abstract-article">
-    <h1>Samandrag</h1>
-    Background 
- 
-Gari and Eba (cassava semolina) is mainly consumed in Nigeria and other West African countries. Defining the food product profile (biophysical, sensory, and textural qualities) that drives its acceptability, and integrating the component traits into breeding programs, are critical for the better adoption of new genotypes. This study aimed to define the Gari and Eba critical quality traits, define medium and high throughput instrumental methods for use by breeders, measure their respective heritabilities, and link the traits with consumer preference. 
- 
-Results 
- 
-A total of 80 cassava genotypes and varieties (3 different sets) from the International Institute of Tropical Agriculture (IITA) research farm were used for the study. Participatory processing and consumer testing data on different types of Gari and Eba products were integrated to determine the prioritization of the preferred traits by processors and consumers. The color, sensory, and instrumental textural properties of Gari and Eba were determined using standard analytical methods, and standard operating protocols (SOPs) developed by the RTBfoods project (Breeding Roots, Tubers, and Banana products for end-user preferences: https://rtbfoods.cirad.fr). There were significant (p
-  </article>
   <article id="contributors-article-PMAXUYYD" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -67,7 +57,7 @@ Campus Hamar
     <div class="sdg-container"><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_no.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>46</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=2#archive" class="sdg-publication-count"><span>46</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

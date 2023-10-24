@@ -1,5 +1,5 @@
 ---
-title: "Utopian Nature and Dystopian Culture: Ecocritical Readings of Julie Bertagna's Exodus and Zenith"
+title: "RC6ZBK5L"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RC6ZBK5L" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1683814" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RC6ZBK5L" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-RC6ZBK5L" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RC6ZBK5L" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-RC6ZBK5L" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.5325/utopianstudies.30.2.0238" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-RC6ZBK5L"></div>
 </article>
 <div id="csl-bib-meta-RC6ZBK5L" class="csl-bib-meta">
-  <article id="abstract-article-RC6ZBK5L" class="abstract-article">
-    <h1>Samandrag</h1>
-    This article discusses ecocritical aspects of two contemporary young adult dystopian novels: Julie Bertagna's Exodus and Zenith. It explores how these novels link utopia to nature, especially the rural pastoral, and dystopia to culture, especially urbanism and technology. The novels are set in the near future and address the protagonist's search for a new home after the old has been destroyed. Greenland represents an ecological, utopian hope: a place where humans can coexist with nature and rebuild society. Contrasting with the utopian Greenland is the technological city New Mungo, which is elitist, totalitarian, and brutally dystopian—but also sustainable despite its syntheticity and ecological in its own sense. Greenland and New Mungo are connected to the ecocritical dualism of nature versus culture, and the societies' closeness to nature determines whether they are seen as utopian or dystopian.
-  </article>
   <article id="contributors-article-RC6ZBK5L" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -67,7 +63,7 @@ Rom 2C257-5
     <div class="sdg-container"><div id="sdg11" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg11_no.png" class="image" alt="SDG 11">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>23</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=11#archive" class="sdg-publication-count"><span>23</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/baerekraftige-byer-og-lokalsamfunn?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

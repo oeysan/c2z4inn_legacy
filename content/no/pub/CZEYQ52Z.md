@@ -1,5 +1,5 @@
 ---
-title: "Body size and digestive system shape resource selection by ungulates: A cross‐taxa test of the forage maturation hypothesis"
+title: "CZEYQ52Z"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CZEYQ52Z" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1931245" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/CZEYQ52Z" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-CZEYQ52Z" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CZEYQ52Z" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-CZEYQ52Z" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.duo.uio.no/bitstream/10852/93507/2/Body%2bsize%2band%2bdigestive%2bsystem-Esmaeili%2bet%2bal%2b2021_FMH_manuscript_29Apr21.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-CZEYQ52Z"></div>
 </article>
 <div id="csl-bib-meta-CZEYQ52Z" class="csl-bib-meta">
-  <article id="abstract-article-CZEYQ52Z" class="abstract-article">
-    <h1>Samandrag</h1>
-    The forage maturation hypothesis (FMH) states that energy intake for ungulates is maximised when forage biomass is at intermediate levels. Nevertheless, metabolic allometry and different digestive systems suggest that resource selection should vary across ungulate species. By combining GPS relocations with remotely sensed data on forage characteristics and surface water, we quantified the effect of body size and digestive system in determining movements of 30 populations of hindgut fermenters (equids) and ruminants across biomes. Selection for intermediate forage biomass was negatively related to body size, regardless of digestive system. Selection for proximity to surface water was stronger for equids relative to ruminants, regardless of body size. To be more generalisable, we suggest that the FMH explicitly incorporate contingencies in body size and digestive system, with small-bodied ruminants selecting more strongly for potential energy intake, and hindgut fermenters selecting more strongly for surface water.
-  </article>
   <article id="contributors-article-CZEYQ52Z" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -87,19 +83,19 @@ Studiested Evenstad
     <div class="sdg-container"><div id="sdg6" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg06_no.png" class="image" alt="SDG 6">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>26</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=6#archive" class="sdg-publication-count"><span>29</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/rent-vann-og-gode-sanitaerforhold?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg7" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg07_no.png" class="image" alt="SDG 7">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>27</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=7#archive" class="sdg-publication-count"><span>27</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/ren-energi-til-alle?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg12" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg12_no.png" class="image" alt="SDG 12">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>11</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=12#archive" class="sdg-publication-count"><span>12</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/ansvarlig-forbruk-og-produksjon?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

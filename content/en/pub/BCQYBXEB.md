@@ -1,5 +1,5 @@
 ---
-title: "Barriers to Intercultural Dialogue"
+title: "BCQYBXEB"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,20 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BCQYBXEB" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1620741" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BCQYBXEB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-BCQYBXEB" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BCQYBXEB" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-BCQYBXEB" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.0000/SID.28.1.3285343" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-BCQYBXEB"></div>
 </article>
 <div id="csl-bib-meta-BCQYBXEB" class="csl-bib-meta">
-  <article id="abstract-article-BCQYBXEB" class="abstract-article">
-    <h1>Abstract</h1>
-    This article addresses one of the most pressing obstacles to intercultural dialogue in European societies today: the tendency to view cultures as fixed entities, defining people as a unit, and distinguishing them from other groups of people. While the acceleration of international migration into and within Europe has enhanced peoples’ cosmopolitan outlooks, it has also led to cultural generalisations. Moreover, such understandings may promote and consolidate cultural stereotypes, which in turn makes intercultural interaction difficult, even counterproductive. Focusing on the very concept of dialogue, however, this article argues that concentrating on uniqueness and cultural essence is to overlook the 
-porosity of boundaries and the creative potential of the cultural encounter.
-  </article>
   <article id="contributors-article-BCQYBXEB" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -68,7 +63,7 @@ Room 2P306
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

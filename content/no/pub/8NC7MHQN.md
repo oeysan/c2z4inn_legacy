@@ -1,5 +1,5 @@
 ---
-title: "What Matters to the Girls? Norwegian Girls’ Experiences of Digital Competences in Mainstream Blogging"
+title: "8NC7MHQN"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,30 +9,26 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8NC7MHQN" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1463808" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/8NC7MHQN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-8NC7MHQN" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#sdg-article-8NC7MHQN" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/1103308816673496" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-8NC7MHQN"></div>
 </article>
 <div id="csl-bib-meta-8NC7MHQN" class="csl-bib-meta">
-  <article id="abstract-article-8NC7MHQN" class="abstract-article">
-    <h1>Samandrag</h1>
-    This article seeks to identify the digital competences experienced as meaningful by teenage girls, who blog within the mainstream blog community in Norway. Previous work has mostly had its basis in the artefacts produced by girls rather than in their stories of participation, and has discussed digital competences in abstract or normative terms. This study focuses on girls’ perspectives, identifies concrete digital competences they experienced as meaningful, and a range of complex, even contradictory meanings they attributed to the competences, depending on their blogging-related goals and the femininity norms of their community of practice. The study documents how the girls’ digital practices changed over time. While some of these modifications align with what is considered beneficial, others can be viewed as problematic or gendered.
-  </article>
   <article id="sdg-article-8NC7MHQN" class="sdg-article">
     <h1>Berekraftsmål</h1>
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

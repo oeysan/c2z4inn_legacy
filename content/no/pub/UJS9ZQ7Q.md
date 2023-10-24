@@ -1,5 +1,5 @@
 ---
-title: "Syllable Structures in English Speech Produced by Multilingual Speakers with Histories of Mobility"
+title: "UJS9ZQ7Q"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UJS9ZQ7Q" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2042997" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UJS9ZQ7Q" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UJS9ZQ7Q" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-UJS9ZQ7Q"></div>

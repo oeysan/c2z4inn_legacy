@@ -1,5 +1,5 @@
 ---
-title: "Mellom entré og sorti – dramaturgisk didaktikk i klasserommet"
+title: "A4M2RZ2H"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-A4M2RZ2H" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1936397" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/A4M2RZ2H" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-A4M2RZ2H" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-A4M2RZ2H" class="csl-bib-button">Medverkande</a>
+    <a href="https://jased.net/index.php/jased/article/download/2659/5552" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-A4M2RZ2H"></div>
 </article>
 <div id="csl-bib-meta-A4M2RZ2H" class="csl-bib-meta">
-  <article id="abstract-article-A4M2RZ2H" class="abstract-article">
-    <h1>Samandrag</h1>
-    Undervisning består av komplekse handlinger der lærere leder læringsprosesser og kontinuerlig må balansere ulike hensyn opp mot hverandre. Å tenke som en dramaturg kan bidra til å bevisstgjøre og profesjonalisere det didaktiske arbeidet i klasserommet. I denne artikkelen undersøker vi hva dramaturgisk didaktikk kan innebære, og vi ser nærmere på hvordan dramaturgiske begreper og verktøy kan stimulere og utvikle lærerens iscenesettelse av undervisning. Artikkelen er et teoretisk bidrag til klasseromforskning der et læringsperspektiv på undervisning koples med et dramaturgisk perspektiv. Til grunn ligger en praksisrettet forskningstilnærming, der en lærer i drama- og teaterfag i videregående skole har samarbeidet med en skoleforsker om å utvikle nye forståelser av didaktisk arbeid. Vi illustrerer tenkningen i form av en læringssirkel, der aristotelisk dramaturgi og begrepene entré og sorti rammer inn en begynnelse og en slutt i et undervisningsforløp. Dramaturgisk didaktikk forstås som virksomme handlinger som blir satt i spill i dette mellomrommet, der læreren tilrettelegger for læring i klassefellesskapet, og der elevene over tid får bryne seg på faglig og relasjonelt arbeid. Ved å hente inspirasjon fra regissørens arbeid i teatret, viser vi at en dramaturgisk tenkemåte kan ha sterk forklaringskraft for arbeid i klasserommet.
-  </article>
   <article id="contributors-article-A4M2RZ2H" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

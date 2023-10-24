@@ -10,7 +10,7 @@
     overflow-y: hidden;
     animation: fadeIn 1 1s ease-out;
     overflow-x: hidden;
-    box-shadow: none !important;
+    box-shadow: none;
     margin: 0 auto;
   }
   
@@ -27,11 +27,11 @@
     border: none;
   }
   
-  #archive article a {
+  .csl-entry a {
     color: $global-flashy;
   }
 
-  #archive a:hover {
+  .csl-entry a:hover {
     text-decoration: underline;
   }
 
@@ -41,7 +41,7 @@
     transition: max-height 1s ease;
   }
   #filters.show {
-    max-height: 300px;
+    max-height: 500px;
   }
 
   #archive-buttons {
@@ -63,9 +63,8 @@
     top: 3px;
   }
 
-  .go-to-pub:hover {
-    color: $global-font-color !important;
-    text-decoration: none !important;
+  .go-to-pub:hover, .go-to-pub.active {
+    color: $global-flashy;
   }
 
   #more-results {
@@ -93,8 +92,8 @@
   }  
 
   option:hover {
-    background-color: $global-flashy !important;
-    color: $white !important;
+    background-color: $global-flashy;
+    color: $white;
 }
   select:hover, button:hover {
     background-color: $global-flashy;
@@ -156,8 +155,8 @@
     margin: 0;
     padding: 0;
     text-align: center;
-    padding: 10px !important;
-    width: 100% !important;
+    padding: 10px;
+    width: 100%;
   }
 
   #filters {
@@ -179,9 +178,9 @@
   }
 
   .csl-bib-buttons {
-    margin: 0 0 20px 0 !important;
-    padding: 0 !important;
-    text-indent: 0 !important;
+    margin: 0 0 20px 0;
+    padding: 0;
+    text-indent: 0;
     text-align: right;
   }
 
@@ -192,21 +191,21 @@
     line-height: 2rem;
     background-color: $global-background;
     border: 1px solid $global-secondary-color;
-    color: $global-font-color !important;
+    color: $global-font-color;
     border-radius: .25rem;
     cursor: pointer;
-    margin: 3px !important;
+    margin: 3px;
     padding: 0 1rem;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
   .csl-bib-button:hover, .csl-bib-button.active {
-    text-decoration: none !important;
+    text-decoration: none;
     background-color: $global-flashy;
-    color: white !important;
+    color: white;
   }
 
-    /* CSS for the spinning loader */
+  /* CSS for the spinning loader */
   .page-loader {
     border: 4px solid rgba(255, 255, 255, 0.3);
     border-radius: 50%;

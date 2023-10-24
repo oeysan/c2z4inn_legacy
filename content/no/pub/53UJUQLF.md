@@ -1,5 +1,5 @@
 ---
-title: "Democracy or fellowship and participation with peers: what constitutes one’s choice to self-segregate?"
+title: "53UJUQLF"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-53UJUQLF" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1613637" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/53UJUQLF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-53UJUQLF" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-53UJUQLF" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-53UJUQLF" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/08856257.2018.1520493" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-53UJUQLF"></div>
 </article>
 <div id="csl-bib-meta-53UJUQLF" class="csl-bib-meta">
-  <article id="abstract-article-53UJUQLF" class="abstract-article">
-    <h1>Samandrag</h1>
-    Democracy in an inclusive discourse in education relates to all children’s rights to comment upon and influence matters concerning their interest in education. The article’s empirical data are based on a girl categorised with intellectual disability who through her surroundings is granted the right to influence her physical placement in school, which results in her often choosing to segregate herself from the fellowship with peers. This creates a dilemma for the school, which is faced with the question of overruling her decision in favour of other aspects of inclusion such as fellowship and participation or to continue supporting her decision to segregate. Based on theoretical contributions by Ian Hacking and Lev Vygotskij, this article discusses how schools and teachers approach children that are categorised as intellectually disabled and how the category influences the construction of their identity. Further, constructions of identity govern how the child views themselves and their surroundings. How they understand themselves in relation to the context and situations they are part of will ultimately affect what needs, wishes and compensation strategies the child develops. Studying the structures at play might contribute to further understanding about what causes a child to decide in a manner that conflicts with dimensions of inclusion.
-  </article>
   <article id="contributors-article-53UJUQLF" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -65,13 +61,13 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

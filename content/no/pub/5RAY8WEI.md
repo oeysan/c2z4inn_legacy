@@ -13,6 +13,7 @@ type: pub
     <a href="http://zotero.org/groups/5022929/items/5RAY8WEI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-5RAY8WEI" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-5RAY8WEI" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/00846724221150027" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-5RAY8WEI"></div>
 </article>
@@ -65,6 +66,8 @@ Rom 4L3202
     <h1>Arkiv</h1>
     <ul>
       <li>Høgskolen i Innlandet</li>
+      <li>Fakultet for helse- og sosialvitenskap</li>
+      <li>Institutt for folkehelse- og idrettsvitenskap</li>
       <li>2023</li>
       <li>September</li>
     </ul>

@@ -1,5 +1,5 @@
 ---
-title: "Something special, something unique: Perspectives of experts by experience in mental health nursing education on their contribution"
+title: "TKJTFF23"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TKJTFF23" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1997115" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TKJTFF23" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="http://minerva-access.unimelb.edu.au/bitstreams/b8327ea9-334c-5a3c-a53d-c08c5dd3170f/download" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TKJTFF23"></div>
 </article>

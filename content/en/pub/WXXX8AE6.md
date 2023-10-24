@@ -1,5 +1,5 @@
 ---
-title: "Critical thinking, research utilization and barriers to this among nursing students in Scandinavia and Indonesia"
+title: "WXXX8AE6"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WXXX8AE6" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1474900" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WXXX8AE6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-WXXX8AE6" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WXXX8AE6" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-WXXX8AE6" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://journals.sagepub.com/doi/pdf/10.1177/2057158517704398" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WXXX8AE6"></div>
 </article>
 <div id="csl-bib-meta-WXXX8AE6" class="csl-bib-meta">
-  <article id="abstract-article-WXXX8AE6" class="abstract-article">
-    <h1>Abstract</h1>
-    The aim of this study was to describe and compare perceptions of critical thinking, attitudes to and availability of research, research utilization and barriers to this among nursing students in Scandinavia and Indonesia. Data were collected at the beginning, middle and end of education from nursing students in Norway, Sweden (bachelor’s diploma) and Banda Aceh (bachelor’s diploma). Critical Thinking and Research Utilization Questionnaires were used along with the Barrier Scale. Descriptive analyses, comparisons between and within groups were performed. At the end of education, all samples exhibited positive attitudes to research and the main barrier was related to the setting. Scandinavian students reported higher critical thinking. Indonesian students perceived greater barriers on two Barrier subscales. No differences were found between the samples regarding research utilization. Significant changes over time varied among the samples except for the Norwegian sample. Indonesian students (diploma) exhibited most changes over time. Teachers must support nursing students to strengthen their critical thinking ability and develop professional competence.
-  </article>
   <article id="contributors-article-WXXX8AE6" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -95,7 +91,7 @@ Campus Elverum
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

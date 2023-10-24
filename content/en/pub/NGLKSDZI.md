@@ -1,5 +1,5 @@
 ---
-title: "Perceptions of the academic learning environment among occupational therapy students – changes across a three-year undergraduate study program"
+title: "NGLKSDZI"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NGLKSDZI" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2005468" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NGLKSDZI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-NGLKSDZI" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NGLKSDZI" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-NGLKSDZI" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://bmcmededuc.biomedcentral.com/counter/pdf/10.1186/s12909-022-03291-0" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-NGLKSDZI"></div>
 </article>
 <div id="csl-bib-meta-NGLKSDZI" class="csl-bib-meta">
-  <article id="abstract-article-NGLKSDZI" class="abstract-article">
-    <h1>Abstract</h1>
-    IntroductionAlthough the learning environment influences students’ motivation, learning outcomes, and satisfaction with the study program, less is known about how these factors change as the students’ progress through the study program. AimThe aim of this study was to examine changes in occupational therapy students’ perceptions of the academic learning environment during their three-year study program and to examine factors associated with the students’ perceptions of the learning environment. Materials and methodsA longitudinal cohort study was conducted throughout the three-year study program. Data were collected annually using the Course Experience Questionnaire (CEQ). In total, 263 students from six occupational therapy programs participated in at least one data gathering point. The number of participants was 186 in the first year, 168 in the second year and 200 in the third year. Of the 263 students who participated in the study, 87 participated in only one point of data collection, 58 at two points and 118 at all three points of the data collection. Data were analyzed with linear mixed models. ResultsThe results showed statistically significant temporal changes on the “Emphasis on independence”, “Good teaching” and “Generic skills” scales. There was a significant decrease in scores from the first to the second year of study and the scores remained at this level in the third study year on both the “Emphasis on independence” and “Good teaching” scales. In addition, associations were found between study effort and educational institution related to the “Appropriate workload” scale, as well as between age and the “Generic skills” scale. ConclusionThe temporal changes of the students’ perceptions of the “Emphasis on independence” as well as “Good teaching” scales are noteworthy. Both scales indicated a significant decrease in scores, indicating that the students perceived that they were less independent from first to second and third year, as well as a perceived decline in the quality of teaching from first to second and third year. The results of this study are central when planning to facilitate learning, especially related to independence and perceptions of good teaching for students in occupational therapy programs.
-  </article>
   <article id="contributors-article-NGLKSDZI" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Room 4L3213
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

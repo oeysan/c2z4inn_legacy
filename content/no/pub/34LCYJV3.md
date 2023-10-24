@@ -1,5 +1,5 @@
 ---
-title: "How women experience and cope with daily hassles after sexual abuse – a retrospective qualitative study"
+title: "34LCYJV3"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,27 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-34LCYJV3" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1664713" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/34LCYJV3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-34LCYJV3" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-34LCYJV3" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-34LCYJV3" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.duo.uio.no/bitstream/10852/93936/1/PhD-Stensvehagen-2022.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-34LCYJV3"></div>
 </article>
 <div id="csl-bib-meta-34LCYJV3" class="csl-bib-meta">
-  <article id="abstract-article-34LCYJV3" class="abstract-article">
-    <h1>Samandrag</h1>
-    The impact of stress on health can depend on factors such as frequency, heightening of stress during a given period or the presence of one or a few repeated hassles of psychological importance. The aim of this study was to gain a deeper understanding of how adult women experience and cope with daily hassles after sexual abuse. Ten interviews were analysed using the grounded theory method. The theoretical model of ‘protecting armor in daily life’ emerged. The aftermath of sexual abuse related coping with daily stress can be understood as a three-phase process: (1) avoiding and 
-Introduction 
-Violence against women is a common public health con- cern and one in three women worldwide, experiences physical or sexual violence in their lifetime (1). The World Health Organization (2) defines sexual violence as: 
-Any sexual act, attempt to obtain a sexual act, unwanted sexual comments or advances, or acts to traffic, or otherwise directed against a person’s sexu- ality using coercion, by any person regardless of their relationship to the victim, in any setting including but not limited to home and work. (p. 11) 
-Sexual abuse may include everything from sexualised language/behaviour to more severe abuse like intimate touching and rape (3). According to the World Health Organization (4), one in five women reports having been sexually abused as a child and one in three women has been a victim of physical or sexual violence by an 
-Correspondence to: 
-Marianne Torp Stensvehagen, Inland Norway University of Applied Sciences, Postboks 400, 2418 Elverum, Norway. E-mail: marianne.stensvehagen@inn.no 
-escaping—coping after experiencing sexual abuse; (2) accepting and disclosing—starting a process of recovery; and (3) reconciling and repossessing—living with the experience in the present. The model contributes to a deeper understanding of the everyday life of women who have experienced sexual abuse. Increased knowl- edge of coping behaviours that can be used to deal with daily hassles may also serve as a tool for health professionals, other helpers and family to help these women rebuild a good life. 
-Keywords: sexual abuse, women, daily hassles, daily uplifts, coping strategies, stress reactions.
-  </article>
   <article id="contributors-article-34LCYJV3" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -173,7 +161,7 @@ Studiested Elverum
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

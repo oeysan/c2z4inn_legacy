@@ -1,5 +1,5 @@
 ---
-title: "People Performance Scales (PPS): A multi‐company, cross‐sectional psychometric assessment"
+title: "G6W8VPPB"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,22 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-G6W8VPPB" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1958974" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/G6W8VPPB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-G6W8VPPB" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-G6W8VPPB" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-G6W8VPPB" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1111/sjop.12793" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-G6W8VPPB"></div>
 </article>
 <div id="csl-bib-meta-G6W8VPPB" class="csl-bib-meta">
-  <article id="abstract-article-G6W8VPPB" class="abstract-article">
-    <h1>Abstract</h1>
-    Aim: This study aims to test the nomological validity of the People Performance Scales (PPS) using the Job Demands-Resources (JD-R) model.  
-Materials and methods: All employees at two large companies in Norway (a governmental agency and a worker’s union) were invited to complete the PPS questionnaire electronically. A total of 2469 respondents completed the questionnaire, resulting in an 87 percent response rate. Data was analyzed Structural Equation Modelling.  
-Results: First, all 15 scales included in the PPS showed excellent internal and construct validity. PPS was also found to have configural-, construct-level metric- and scale-level metric invariance across age groups and genders. Second, findings indicate that the PPS can be used for both research and consultancy based upon the JD-R model, while simultaneously assessing constructs of particular importance in Norwegian and Scandinavian legislation. 
-Conclusion: The PPS represents a short and efficient questionnaire which measures the most relevant working environment constructs in a reliable and distinct way. The questionnaire has great psychometric characteristics and is well suited for use in organizations to measure employees´ experience of working environment factors, allowing organizations to identify areas of improvement and to support organizational development.
-  </article>
   <article id="contributors-article-G6W8VPPB" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,13 +56,13 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>54</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

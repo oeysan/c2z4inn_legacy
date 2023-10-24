@@ -1,5 +1,5 @@
 ---
-title: "Loneliness and Its Association With Social Media Use During the COVID-19 Outbreak"
+title: "B2IKVNC5"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-B2IKVNC5" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1917687" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/B2IKVNC5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-B2IKVNC5" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-B2IKVNC5" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-B2IKVNC5" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://journals.sagepub.com/doi/pdf/10.1177/20563051211033821" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-B2IKVNC5"></div>
 </article>
 <div id="csl-bib-meta-B2IKVNC5" class="csl-bib-meta">
-  <article id="abstract-article-B2IKVNC5" class="abstract-article">
-    <h1>Samandrag</h1>
-    Social distancing rules during the COVID-19 pandemic changed social interaction for many and increased the risk of loneliness in the general population. Social media use has been ambiguously related to loneliness, and associations may differ by age. The study aimed to examine loneliness and its association with social media use within different age groups during the COVID-19 pandemic. A cross-sectional online survey was conducted in Norway, the United Kingdom, the United States, and Australia during April/May 2020, and 3,810 participants aged 18 years or above were recruited. Multiple regression analyses were conducted to examine associations between social media use and social and emotional loneliness within separate age groups. Emotional loneliness was higher among young adults and among those who used social media several times daily. Adjusting by sociodemographic variables, using more types of social media was associated with lower social loneliness among the oldest participants, and with higher emotional loneliness among the youngest participants. Among middle-aged participants, using social media more frequently was associated with lower social loneliness. We found that the associations between social media use and loneliness varied by age. Older people’s engagement on social media may be a resource to reduce loneliness during the COVID-19 pandemic. We observed higher levels of loneliness among high-frequent social media users of younger age.
-  </article>
   <article id="contributors-article-B2IKVNC5" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 4L3213
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

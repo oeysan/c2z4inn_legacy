@@ -1,5 +1,5 @@
 ---
-title: "Dilemmas in recovery-oriented practice to support people with co-occurring mental health and substance use disorders: a qualitative study of staff experiences in Norway"
+title: "8MQXJP5H"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,29 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8MQXJP5H" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1595120" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/8MQXJP5H" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-8MQXJP5H" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-8MQXJP5H" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-8MQXJP5H" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://ijmhs.biomedcentral.com/track/pdf/10.1186/s13033-018-0211-5.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-8MQXJP5H"></div>
 </article>
 <div id="csl-bib-meta-8MQXJP5H" class="csl-bib-meta">
-  <article id="abstract-article-8MQXJP5H" class="abstract-article">
-    <h1>Abstract</h1>
-    Background 
-Recovery-oriented practice is recommended in services for people with co-occurring mental health and substance use disorders. Understanding practitioners’ perceptions of recovery-oriented services may be a key component of implementing recovery principles in day-to-day practice. This study explores and describes staff experiences with dilemmas in recovery-oriented practice to support people with co-occurring disorders. 
- 
-Methods 
-Three focus group interviews were carried out over the course of 2 years with practitioners in a Norwegian community mental health and addictions team that was committed to developing recovery-oriented services. Thematic analysis was applied to yield descriptions of staff experiences with dilemmas in recovery-oriented practice. 
- 
-Results 
-Three dilemmas were described: (1) balancing mastery and helplessness, (2) balancing directiveness and a non-judgmental attitude, and (3) balancing total abstinence and the acceptance of substance use. 
- 
-Conclusions 
-Innovative approaches to practice development that address the inherent dilemmas in recovery-oriented practice to support people with co-occurring disorders are called for
-  </article>
   <article id="contributors-article-8MQXJP5H" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -77,7 +63,7 @@ Room 4L3202
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

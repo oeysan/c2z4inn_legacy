@@ -1,5 +1,5 @@
 ---
-title: "Variation in home range size of red foxes Vulpes vulpes along a gradient of productivity and human landscape alteration"
+title: "P8WFC75F"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-P8WFC75F" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1464534" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/P8WFC75F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-P8WFC75F" class="csl-bib-button">Medverkande</a>
+    <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0175291&amp;type=printable" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-P8WFC75F"></div>
 </article>

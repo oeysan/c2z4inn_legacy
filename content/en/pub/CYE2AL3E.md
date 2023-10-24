@@ -1,5 +1,5 @@
 ---
-title: "Reinventing Subject Teaching in Integrated Teacher Education Programmes for Primary School in Norway"
+title: "CYE2AL3E"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CYE2AL3E" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2017777" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/CYE2AL3E" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CYE2AL3E" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-CYE2AL3E"></div>

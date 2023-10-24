@@ -1,5 +1,5 @@
 ---
-title: "Generasjonsoverføring av rusproblemer - mødres frykt for fortida og dens påvirkning på framtida"
+title: "MKSBTU9K"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MKSBTU9K" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1843220" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/MKSBTU9K" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-MKSBTU9K" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-MKSBTU9K" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.21340/0WNQ-WA07" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-MKSBTU9K"></div>
 </article>
 <div id="csl-bib-meta-MKSBTU9K" class="csl-bib-meta">
-  <article id="abstract-article-MKSBTU9K" class="abstract-article">
-    <h1>Samandrag</h1>
-    Rusavhengige kvinner som har vokst opp med rusproblemer hos omsorgspersoner står overfor særlige utfordringer når de får egne barn. Hvordan skal en forebygge at barna utvikler egne rusproblemer eller tilsvarende vanskeligheter? For å undersøke hvordan mødrene forstår disse utfordringene, ble ni mødre dybdeintervjuet mens de var i døgnbehandling sammen med barna sine ved en rusinstitusjon i Norge. Mødrene arbeidet for å holde seg rusfrie, bli sensitive og forutsigbare mødre, bearbeide traumer, bygge nye sosiale nettverk og få tilhørighet til samfunnet. Det drøftes også hvordan hjelpetjenestene kan støtte disse familiene.
-  </article>
   <article id="contributors-article-MKSBTU9K" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

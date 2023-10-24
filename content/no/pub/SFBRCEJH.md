@@ -1,5 +1,5 @@
 ---
-title: "Fostering Innovative Behavior in Health Organizations – a PLS-SEM Analysis of Norwegian Hospital Employees"
+title: "SFBRCEJH"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SFBRCEJH" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1827845" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SFBRCEJH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-SFBRCEJH" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SFBRCEJH" class="csl-bib-button">Medverkande</a>
+    <a href="https://bmchealthservres.biomedcentral.com/track/pdf/10.1186/s12913-021-06505-1" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-SFBRCEJH"></div>
 </article>
 <div id="csl-bib-meta-SFBRCEJH" class="csl-bib-meta">
-  <article id="abstract-article-SFBRCEJH" class="abstract-article">
-    <h1>Samandrag</h1>
-    Background: Health organization research is experiencing a strong refocus on employees’ individual innovative behavior (IIB), revealing that many of its influential factors at work remain uncertain. Hence, this study empirically examines how hospital employees’ IIB is fostered by focusing on antecedents such as organizational culture (here labeled an internal market-oriented culture, IMOC), psychological capital (PsyCap), and outcomes such as organizational commitment (OC). In addition, the study examines the mediating role of PsyCap. Methods: The study focused on a sample of 1008 hospital employees, using a partial least squares structural equation modeling method to analyze and test the relationships hypothesized in this study. A multigroup comparison was performed to test the heterogeneity of personal characteristics. The indirect effects of PsyCap were tested by mediator analyses. Results: Our results reveal that IMOC has a positive and significant influence on employees’ PsyCap and IIB. PsyCap is directly related to IIB and acts a mediator between IMOC and IIB. Furthermore, the study found that IIB is related to the outcome variable OC. Conclusions: This study extends the current debate on how IIB is fostered at work by examining PsyCap and IMOC as antecedents of IIB. The study has added to the IIB research area by introducing OC as an outcome variable. The study is among the first attempts in its category to contribute to health organizations and managers by empirically examining the influence of IMOC on employees’ PsyCap and IIB and in turn their OC.
-  </article>
   <article id="contributors-article-SFBRCEJH" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Industry 4.0 and circular economy in an era of global value chains: What have we learned and what is still to be explored?"
+title: "WIQPVP78"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WIQPVP78" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2092147" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WIQPVP78" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WIQPVP78" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1016/j.jclepro.2022.133621" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WIQPVP78"></div>
 </article>

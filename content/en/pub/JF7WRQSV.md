@@ -1,5 +1,5 @@
 ---
-title: "Motivation through insight: the phenomenological correlates of insight and spatial ability tasks"
+title: "JF7WRQSV"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,22 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JF7WRQSV" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1850756" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JF7WRQSV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JF7WRQSV" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JF7WRQSV" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-JF7WRQSV" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/20445911.2020.1844721?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JF7WRQSV"></div>
 </article>
 <div id="csl-bib-meta-JF7WRQSV" class="csl-bib-meta">
-  <article id="abstract-article-JF7WRQSV" class="abstract-article">
-    <h1>Abstract</h1>
-    In an experiment (n = 430), grounded in an integrative fluency account of the phenomenology of the Aha-experience, we tested the assumption that problem solving through insight is distinct from other strategies of problem-solving in that the affective response invoked by Aha-experiences is more influential than other solution strategies on motivational processes. Results indicated that insight tasks, compared to 
-non-insight tasks, had the strongest affective and motivational outcomes both during and after task solution. Moreover, for insight tasks, sudden insight was the strongest 
-predictor of correct solutions. Interestingly, step-by-step and guessing strategies were positive and negative predictors, respectively, of correct solutions. Finally, only trial and error significantly predicted correct solutions for non-insight tasks. We argue that solution strategies are not mutually exclusive. However, some strategies are more 
-frequently used and possibly more adapted to different types of tasks. The study supports the integrative fluency account and motivational outcomes of Aha-experiences.
-  </article>
   <article id="contributors-article-JF7WRQSV" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -64,7 +57,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

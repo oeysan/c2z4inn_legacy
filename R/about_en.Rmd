@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 
 ```{r chart, include=FALSE}
 updated <- format(Sys.time(), "%m-%d-%Y (at %H:%M)")
-n <- length(list.files(pub.en))
+n <- length(MdFiles("../content/en/pub/"))
 ```
 
 # About

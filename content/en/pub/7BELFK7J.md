@@ -1,5 +1,5 @@
 ---
-title: "Setting Nordic Career Guidance in Context"
+title: "7BELFK7J"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,20 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7BELFK7J" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1849596" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7BELFK7J" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-7BELFK7J" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7BELFK7J" class="csl-bib-button">Contributors</a>
+    <a href="https://brill.com/downloadpdf/book/edcoll/9789004428096/BP000008.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7BELFK7J"></div>
 </article>
 <div id="csl-bib-meta-7BELFK7J" class="csl-bib-meta">
-  <article id="abstract-article-7BELFK7J" class="abstract-article">
-    <h1>Abstract</h1>
-    Career brings together individuals’ paths through life, learning and work. It describes how people interface with social institutions including the education system, employers, civil society and the state. Because our careers are socially and culturally embedded it matters where they are enacted. Career and Career Guidance in the Nordic Countries explores what kind of context the Nordic region offers for the pursuit of career, how the development of careers are supported in welfare societies, and how career guidance is enacted in this context.  
- 
-The Nordic region encompasses an area in Northern Europe and the Northern Atlantic comprising Denmark, Sweden, Norway as well as Finland to the east and Iceland in the Atlantic. It includes also the self-governing areas of Åland, Greenland and the Faroe Islands. This region has long been seen as a source of progressive policy innovation in education and employment and this book focuses and explores the place, the enactment and the theories of career guidance in these Nordic countries.
-  </article>
   <article id="contributors-article-7BELFK7J" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

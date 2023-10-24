@@ -1,5 +1,5 @@
 ---
-title: "Transmissions: Sonic markers of difference in the sound of Joy Division"
+title: "GLCVR3BX"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GLCVR3BX" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1833250" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GLCVR3BX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GLCVR3BX" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GLCVR3BX" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1386/punk_00072_1" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-GLCVR3BX"></div>
 </article>
 <div id="csl-bib-meta-GLCVR3BX" class="csl-bib-meta">
-  <article id="abstract-article-GLCVR3BX" class="abstract-article">
-    <h1>Samandrag</h1>
-    Situated within the field of popular musicology, this article sets out to explore the formation of Joy Division’s characteristic sound along three lines of enquiry. Firstly, I investigate the contextual framework through which the tale of Joy Division was shaped focusing specifically on their music’s apparent relation to Manchester. Secondly, building on this contextual framework, I examine various aspects of the band’s production aesthetics. Producer Martin Hannett is often credited with the formation of their sound, and I consider the impact of his use of technology in the studio in relation to the band’s relatively roughshod live performances. Thirdly, I explore how characteristic sonic markers of production and performance can also be identified as performative strategies in Joy Division’s music. Although Hannett played a significant role in shaping the band’s sound, their individual performances as formally untrained instrumentalists who were apparently governed solely by a shared creative vision undoubtedly affects that sound as well. The overall aim of this article, then, is to display the complexity of this particular tale and especially the ways in which sonic markers of difference have played a major role in the formation of one of pop music history’s sturdiest tales.
-  </article>
   <article id="contributors-article-GLCVR3BX" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

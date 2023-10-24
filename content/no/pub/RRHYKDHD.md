@@ -1,5 +1,5 @@
 ---
-title: "Four SARS-CoV-2 vaccine doses or hybrid immunity in patients on immunosuppressive therapies: a Norwegian cohort study"
+title: "RRHYKDHD"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RRHYKDHD" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2100716" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RRHYKDHD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RRHYKDHD" class="csl-bib-button">Medverkande</a>
+    <a href="http://www.thelancet.com/article/S2665991322003307/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-RRHYKDHD"></div>
 </article>

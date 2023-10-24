@@ -1,5 +1,5 @@
 ---
-title: "Institutional logics in service ecosystems – an analysis of immigration and social inclusion"
+title: "7SGLGA2A"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7SGLGA2A" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1707980" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7SGLGA2A" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7SGLGA2A" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-981-13-7725-9_6" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-7SGLGA2A"></div>
 </article>

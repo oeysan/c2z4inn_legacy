@@ -1,5 +1,5 @@
 ---
-title: "Advanced paramedics and nurses can deliver safe and effective pre‐hospital and in‐hospital emergency care: An integrative review"
+title: "7ESQBFLI"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7ESQBFLI" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1913393" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7ESQBFLI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7ESQBFLI" class="csl-bib-button">Contributors</a>
+    <a href="http://kau.diva-portal.org/smash/get/diva2:1558475/FULLTEXT01" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7ESQBFLI"></div>
 </article>

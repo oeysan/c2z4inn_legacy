@@ -1,5 +1,5 @@
 ---
-title: "Are We Getting to All That Matters? The Need for Perceptual Guidance"
+title: "5S9HHB6X"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5S9HHB6X" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1810996" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/5S9HHB6X" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-5S9HHB6X" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-5S9HHB6X" class="csl-bib-button">Contributors</a>
+    <a href="https://jdbsc.rug.nl/article/download/36074/33521" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-5S9HHB6X"></div>
 </article>
 <div id="csl-bib-meta-5S9HHB6X" class="csl-bib-meta">
-  <article id="abstract-article-5S9HHB6X" class="abstract-article">
-    <h1>Abstract</h1>
-    Congenital deafblindness (CDB) profoundly affects perception of the environment. CDB can affect both which objects are perceived, and which features of the objects are experienced. In order to gain better access to the environment and the social world, it could therefore potentially be beneficial if a child with CDB was perceptually directed by a seeing and hearing person. However, such a form of intervention is not unproblematic. This article argues that such a perceptual guidance is only acceptable if the leading in perception is agency sensitive and contains three features: that of joint perception; a culturally sensitive organization of perceptual fields, and a dynamic back-and-forth mode of leading and exploring.
-  </article>
   <article id="contributors-article-5S9HHB6X" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

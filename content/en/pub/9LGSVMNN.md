@@ -1,5 +1,5 @@
 ---
-title: "Trapped between madness and motherhood: Mothering alone"
+title: "9LGSVMNN"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,53 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9LGSVMNN" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1489335" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/9LGSVMNN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-9LGSVMNN" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9LGSVMNN" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-9LGSVMNN" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/15332985.2017.1317688" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-9LGSVMNN"></div>
 </article>
 <div id="csl-bib-meta-9LGSVMNN" class="csl-bib-meta">
-  <article id="abstract-article-9LGSVMNN" class="abstract-article">
-    <h1>Abstract</h1>
-    This article examines the experience of motherhood among 14 
-women with mental health problems. The aim is to discuss the 
-subjective meaning of being a mother with mental health pro- 
-blems through the perspective of structural factors such as dis- 
-courses on motherhood and mental illness. The article shows how 
-these mothers are caught in a bind between the discourses of 
-mentally ill mothers as 
-“ 
-deviant 
-” 
-and the current ideology of 
-“ 
-intensive mothering. 
-” 
-The empirical material reveals two main, 
-interwoven patterns of identity work: the struggle for normality, 
-and how to handle a self-identity as a 
-“ 
-dangerous 
-” 
-mother. The 
-mothers understood the stress and difficulties they experienced as 
-personal problems, resulting in self-blaming, feelings of loneliness, 
-and a resistance towards expressing a need for help with parenting 
-issues. The findings suggest that 
-understanding these mothers 
-’ 
-ambivalence towards intervention as a kind of complex identity 
-work 
-— 
-rather than as reluctance to receive help, or denial of their 
-own problems 
-— 
-might be a way for professional helpers to build a 
-confident relationship with mentally ill mothers.
-  </article>
   <article id="contributors-article-9LGSVMNN" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -97,7 +59,7 @@ Room 1V2047
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

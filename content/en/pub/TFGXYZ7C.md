@@ -1,5 +1,5 @@
 ---
-title: "Mercury Concentrations in the Fish Community from Indrawati River, Nepal"
+title: "TFGXYZ7C"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TFGXYZ7C" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1523583" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TFGXYZ7C" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/s00128-017-2161-z" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-TFGXYZ7C"></div>
 </article>

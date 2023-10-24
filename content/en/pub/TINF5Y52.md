@@ -1,5 +1,5 @@
 ---
-title: "Popularity, Gender, and Social Inclusion Among Girls in Ethnically Diverse Contexts in Norway"
+title: "TINF5Y52"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TINF5Y52" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1793857" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TINF5Y52" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-TINF5Y52" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TINF5Y52" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-TINF5Y52" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18357/ijcyfs111202019473" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-TINF5Y52"></div>
 </article>
 <div id="csl-bib-meta-TINF5Y52" class="csl-bib-meta">
-  <article id="abstract-article-TINF5Y52" class="abstract-article">
-    <h1>Abstract</h1>
-    This article discusses the phenomenon of popularity and its implications for gender construction, social inclusion, and gender equality among girls in two ethnically diverse contexts in Norway. At one field site, girls of immigrant origin were a majority, at the other they were a minority. Based on detailed ethnographic methodology and participant observation over time, this study shows that the crucial dimensions of popularity overlap with “economies of dignity” and vary according to whether the ethnic Norwegians are in a minority or majority position. The dimensions of popularity, which include the importance of attracting the male gaze, are connected to consumption. My results suggest that consumption influences girls’ construction of gender, and may have negative consequences for the inclusion of immigrant girls when in a minority, because they often live in low-income families. The article concludes that the overlap between the dimensions of popularity and the tokens of value of the economies of dignity underlines the importance of how power, through popularity, works among children. One implication of this power is that neither ethnic Norwegian girls nor girls of immigrant origin appear to live in a climate of gender equality.
-  </article>
   <article id="contributors-article-TINF5Y52" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -64,19 +60,19 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg13" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg13_en.png" class="image" alt="SDG 13">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>43</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=13#archive" class="sdg-publication-count"><span>45</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal13" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

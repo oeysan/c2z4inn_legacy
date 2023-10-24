@@ -1,5 +1,5 @@
 ---
-title: "Concept Communication and Interpretation of Illness: A Holistic Model of Understanding in Nursing Practice"
+title: "FAF65I6L"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FAF65I6L" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1478110" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/FAF65I6L" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-FAF65I6L" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FAF65I6L" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1097/HNP.0000000000000204" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-FAF65I6L"></div>
 </article>
 <div id="csl-bib-meta-FAF65I6L" class="csl-bib-meta">
-  <article id="abstract-article-FAF65I6L" class="abstract-article">
-    <h1>Abstract</h1>
-    To ensure patient communication in nursing, certain conditions must be met that enable successful exchange of beliefs, thoughts, and other mental states. The conditions that have received most attention in the nursing literature are derived from general communication theories, psychology, and ethical frameworks of interpretation. This article focuses on a condition more directly related to an influential coherence model of concept possession from recent philosophy of mind and language. The basic ideas in this model are (i) that the primary source of understanding of illness experiences is communicative acts that express concepts of illness, and (ii) that the key to understanding patients' concepts of illness is to understand how they depend on patients' lifeworlds. The article argues that (i) and (ii) are especially relevant in caring practice since it has been extensively documented that patients' perspectives on disease and illness are shaped by their subjective horizons. According to coherentism, nurses need to focus holistically on patients' horizons in order to understand the meaning of patients' expressions of meaning. Furthermore, the coherence model implies that fundamental aims of understanding can be achieved only if nurses recognize the interdependence of patients' beliefs and experiences of ill health. The article uses case studies to elucidate how the holistic implications of coherentism can be used as conceptual tools in nursing.
-  </article>
   <article id="contributors-article-FAF65I6L" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

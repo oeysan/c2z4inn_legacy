@@ -1,5 +1,5 @@
 ---
-title: "Technology giants, educational policy and a preliminary mapping of networks and channels of influence in a Norwegian context"
+title: "YGIC5MCV"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YGIC5MCV" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1930839" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YGIC5MCV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-YGIC5MCV" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-YGIC5MCV" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-YGIC5MCV" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://journals.oslomet.no/index.php/seminar/article/download/4303/4085" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-YGIC5MCV"></div>
 </article>
 <div id="csl-bib-meta-YGIC5MCV" class="csl-bib-meta">
-  <article id="abstract-article-YGIC5MCV" class="abstract-article">
-    <h1>Abstract</h1>
-    The article looks at the debate regarding the influence of the technology giants on educational policy. What strategies have existed on the part of the technology giants? Who have been the major actors within education? What kind of relations and networks have been established? The first part of the article focuses on relevant research internationally showing that the technology giants have taken the lead and that their objectives are to develop new long-term policy agendas. The development has been significantly intensified and to some extent changed during the pandemic. This has resulted in the emergence of new multisector coalitions and more complex networks which have potentially profound pedagogical implications. The second part accounts for a preliminary mapping of networks and channels of influence in a Norwegian context. Despite the differences between countries, political and educational systems, traditions and values, there are a number of the similarities in the field of educational technology. These include on a general level how the use of new technology is valued as a way of improving teaching and learning, but also how networks and relations are developed and function. The project that precedes the article is based on literature studies and inspired by network ethnographic approaches.
-  </article>
   <article id="contributors-article-YGIC5MCV" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,13 +57,13 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

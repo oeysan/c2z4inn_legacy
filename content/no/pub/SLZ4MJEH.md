@@ -1,5 +1,5 @@
 ---
-title: "Komplekst regionalt smertesyndrom (CRPS) - Del II: Fysioterapeuten er sentral i den tverrfaglige behandlingen"
+title: "SLZ4MJEH"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SLZ4MJEH" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1844677" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SLZ4MJEH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SLZ4MJEH" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-SLZ4MJEH"></div>

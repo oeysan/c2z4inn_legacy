@@ -1,5 +1,5 @@
 ---
-title: "Cadmium, lead and mercury in Norwegian obese patients before and 12 months after bariatric surgery"
+title: "Z7CIK7BP"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Z7CIK7BP" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1705706" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Z7CIK7BP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://doi.org/10.1016/j.jtemb.2019.04.008" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-Z7CIK7BP"></div>
 </article>

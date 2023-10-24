@@ -1,5 +1,5 @@
 ---
-title: "Behavioral modifications by a large-northern herbivore to mitigate warming conditions"
+title: "3MXLAZHC"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3MXLAZHC" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1885354" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3MXLAZHC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-3MXLAZHC" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3MXLAZHC" class="csl-bib-button">Contributors</a>
+    <a href="https://movementecologyjournal.biomedcentral.com/track/pdf/10.1186/s40462-020-00223-9" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3MXLAZHC"></div>
 </article>
 <div id="csl-bib-meta-3MXLAZHC" class="csl-bib-meta">
-  <article id="abstract-article-3MXLAZHC" class="abstract-article">
-    <h1>Abstract</h1>
-    Background Temperatures in arctic-boreal regions are increasing rapidly and pose significant challenges to moose ( Alces alces ), a heat-sensitive large-bodied mammal. Moose act as ecosystem engineers, by regulating forest carbon and structure, below ground nitrogen cycling processes, and predator-prey dynamics. Previous studies showed that during hotter periods, moose displayed stronger selection for wetland habitats, taller and denser forest canopies, and minimized exposure to solar radiation. However, previous studies regarding moose behavioral thermoregulation occurred in Europe or southern moose range in North America. Understanding whether ambient temperature elicits a behavioral response in high-northern latitude moose populations in North America may be increasingly important as these arctic-boreal systems have been warming at a rate two to three times the global mean. Methods We assessed how Alaska moose habitat selection changed as a function of ambient temperature using a step-selection function approach to identify habitat features important for behavioral thermoregulation in summer (June–August). We used Global Positioning System telemetry locations from four populations of Alaska moose ( n  = 169) from 2008 to 2016. We assessed model fit using the quasi-likelihood under independence criterion and conduction a leave-one-out cross validation. ResultsBoth male and female moose in all populations increasingly, and nonlinearly, selected for denser canopy cover as ambient temperature increased during summer, where initial increases in the conditional probability of selection were initially sharper then leveled out as canopy density increased above ~ 50%. However, the magnitude of selection response varied by population and sex. In two of the three populations containing both sexes, females demonstrated a stronger selection response for denser canopy at higher temperatures than males. We also observed a stronger selection response in the most southerly and northerly populations compared to populations in the west and central Alaska. ConclusionsThe impacts of climate change in arctic-boreal regions increase landscape heterogeneity through processes such as increased wildfire intensity and annual area burned, which may significantly alter the thermal environment available to an animal. Understanding habitat selection related to behavioral thermoregulation is a first step toward identifying areas capable of providing thermal relief for moose and other species impacted by climate change in arctic-boreal regions.
-  </article>
   <article id="contributors-article-3MXLAZHC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

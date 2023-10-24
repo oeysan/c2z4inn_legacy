@@ -1,5 +1,5 @@
 ---
-title: "The Influence of Psychological Contracts on Decision-making in Whistleblowing Processes"
+title: "YLHLJKIZ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YLHLJKIZ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1848611" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YLHLJKIZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-YLHLJKIZ" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-YLHLJKIZ"></div>

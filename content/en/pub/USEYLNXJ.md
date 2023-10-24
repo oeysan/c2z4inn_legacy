@@ -11,11 +11,18 @@ type: pub
     <a href="#taxonomy-article-USEYLNXJ" class="csl-bib-button">Archive</a>
     <a href="https://app.cristin.no/results/show.jsf?id=2174460" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5022929/items/USEYLNXJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-USEYLNXJ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-USEYLNXJ" class="csl-bib-button">Contributors</a>
+    <a href="#sdg-article-USEYLNXJ" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://doi.org/10.3389/fvets.2023.1219001" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-USEYLNXJ"></div>
 </article>
 <div id="csl-bib-meta-USEYLNXJ" class="csl-bib-meta">
+  <article id="abstract-article-USEYLNXJ" class="abstract-article">
+    <h1>Abstract</h1>
+    IntroductionNorwegian Red has been shown to have high levels of estrus behavior under experimental conditions. However, the estrus behaviors of Norwegian Red cows have not been studied under commercial conditions. Methods A herd of 89 Norwegian Red cows housed in free stalls on concrete, slatted floors, were continuously video monitored for 21 days. Ovarian cyclicity was confirmed in a final study sample group ( n  = 18) using milk progesterone concentrations. All mounting and standing activities were recorded, and the duration of mount estrus, standing estrus and the differences between these; prestand and poststand, were determined. The cycle stages metestrus, diestrus and proestrus were estimated based on the starting time and ending time of mount estrus. ResultsAll cows in the final study sample group exhibited the primary estrus sign, ‘standing to be mounted’ during estrus. Two (11%), eleven (61%) and six (33%) cows exhibited the behavior ‘standing to be mounted’ during metestrus, diestrus and proestrus, respectively. The number of mounts initiated by individual cows was higher during mount and stand estrus than during the rest of the estrous cycle. This study reports a median duration of mount estrus and stand estrus of 21.0 h (interquartile range (IQR) 15.0 to 27.3) and 14.3 h (IQR 12.0 to 18.8), respectively. The median counts per hour of all mount behaviors were 8.6 (IQR 5.6 to 11.3), 1.51 (IQR 0.3 to 3.8) and 1.7 (IQR 0.8 to 6.0) for standing estrus, prestand and poststand, respectively. DiscussionThis study shows that under commercial conditions the Norwegian Red cow displays a high level of mount and stand activity associated with estrus.
+  </article>
   <article id="contributors-article-USEYLNXJ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -55,6 +62,16 @@ Room 2N1287
 </div>
 <a href="https://app.cristin.no/persons/show.jsf?id=328194" alt="Cristin URL" class="personas-cristin">Cristin</a>
 </div>
+  </article>
+  <article id="sdg-article-USEYLNXJ" class="sdg-article">
+    <h1>Sustainable Development Goals</h1>
+    <div class="sdg-container"><div id="sdg12" class="sdg">
+<img src="{{< params subfolder >}}images/sdg/sdg12_en.png" class="image" alt="SDG 12">
+<div class="sdg-overlay">
+<a href="{{< params subfolder >}}en/archive/?sdg=12#archive" class="sdg-publication-count"><span>12</span> Publications</a>
+<p><a href="https://sdgs.un.org/goals/goal12" class="sdg-read-more">Read More</a></p>
+</div>
+</div></div>
   </article>
   <article id="taxonomy-article-USEYLNXJ" class="taxonomy-article">
     <h1>Archive</h1>

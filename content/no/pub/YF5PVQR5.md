@@ -1,5 +1,5 @@
 ---
-title: "Does dietary intake of selenium protect against cancer? A systematic review and meta-analysis of population-based prospective studies"
+title: "YF5PVQR5"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YF5PVQR5" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1672015" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YF5PVQR5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/10408398.2018.1548427" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-YF5PVQR5"></div>
 </article>

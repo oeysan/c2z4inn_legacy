@@ -1,5 +1,5 @@
 ---
-title: "Motility Subpopulations with Distinct Motility Characteristics Using Swim-Up-Selected Sperm Cells from Norwegian Red Bulls: Effects of Freezing–Thawing and Between-Bull Variation"
+title: "9DASZFUH"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9DASZFUH" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2174191" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/9DASZFUH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-9DASZFUH" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9DASZFUH" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.mdpi.com/2079-7737/12/8/1086/pdf?version=1691115249" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-9DASZFUH"></div>
 </article>
 <div id="csl-bib-meta-9DASZFUH" class="csl-bib-meta">
-  <article id="abstract-article-9DASZFUH" class="abstract-article">
-    <h1>Samandrag</h1>
-    Discrete subpopulations of motile sperm cells have been found for several species and are implicated to be important for sperm functionality. The aim of this present study was to examine the motile subpopulations in swim-up-selected bull spermatozoa and the relationship between subpopulations in fresh and frozen–thawed sperm cells. In experiment 1, swim-up (SWUP)-selected and non-selected (control) sperm cells were analyzed using a Computer-Assisted Sperm Analyzer (CASA). In experiment 2, the semen from nine bulls was cryopreserved and analyzed using CASA both before and after freezing and after incubation at physiological temperatures. The SWUP population had a higher proportion of total motility, progressivity, and velocity compared to the control (p &lt; 0.05). Likewise, both incubation over time and cryopreservation affected motility and motility parameters (p &lt; 0.05). The population of rapid progressive (RapidP) sperm cells dominated the SWUP fraction and was higher than in the control samples (p &lt; 0.05). Furthermore, RapidP was also the main part of fresh semen, but decreased significantly over time during incubation and due to cryopreservation. In conclusion, RapidP was the main population in SWUP-selected spermatozoa and seems to be an important subpopulation contributing to the differences between treatments and in response to the freezing of sperm cells.
-  </article>
   <article id="contributors-article-9DASZFUH" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

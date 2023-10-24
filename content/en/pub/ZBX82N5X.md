@@ -1,5 +1,5 @@
 ---
-title: "Music education policy in schools of music and performing arts in four Nordic countries: the potential of multi-actor processes"
+title: "ZBX82N5X"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZBX82N5X" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1630802" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ZBX82N5X" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ZBX82N5X" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-ZBX82N5X"></div>

@@ -1,5 +1,5 @@
 ---
-title: "Riding the Nordic German Power-Spread: The Einar Aas Experiment"
+title: "QSWK6U9E"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QSWK6U9E" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1966252" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/QSWK6U9E" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-QSWK6U9E" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-QSWK6U9E" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-QSWK6U9E" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.5547/01956574.43.5.cewa" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-QSWK6U9E"></div>
 </article>
 <div id="csl-bib-meta-QSWK6U9E" class="csl-bib-meta">
-  <article id="abstract-article-QSWK6U9E" class="abstract-article">
-    <h1>Abstract</h1>
-    Inspired by the initial success and eventual failure of Einar Aas' trading strategy exploiting dynamical patterns in the spread between Nordic and German electricity futures, we investigate the question whether there is evidence for possible arbitrage from engaging in both markets simultaneously and the possibility of constructing a trading strategy that ultimately beats the markets. To do this, we first assess the risk premium and relevant Sharpe values for the two markets and observe significant differences. This is followed by a discussion as to how far the different risk premia and Sharpe values alone are evidence of arbitrage. The answer is, they are not. However, we then show that an intelligently chosen long-short strategy constructed in the Einar Aas spirit can generate a positive alpha in the CAPM sense, hence providing evidence of arbitrage.
-  </article>
   <article id="contributors-article-QSWK6U9E" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -151,7 +147,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

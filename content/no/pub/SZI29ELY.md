@@ -1,5 +1,5 @@
 ---
-title: "Mapping the music of migration: Emergent themes and challenges"
+title: "SZI29ELY"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SZI29ELY" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2130623" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SZI29ELY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-SZI29ELY" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SZI29ELY" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-SZI29ELY" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.1177/13675494231156120" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-SZI29ELY"></div>
 </article>
 <div id="csl-bib-meta-SZI29ELY" class="csl-bib-meta">
-  <article id="abstract-article-SZI29ELY" class="abstract-article">
-    <h1>Samandrag</h1>
-    This article adds to existing scholarship on music and migration by presenting and reflecting on the work undertaken in the project ‘Mapping the Music of Migration’ (2019–2021, www.mamumi.eu ), which comprised partners from seven European countries and focused on storytelling about music and its potential to enable intercultural exchange and counter negative stereotypes. The key activities of the project involved the collection of migrants’ ‘Song Stories’ – personal stories about music – which were made publicly available through an interactive app. The article outlines the background and findings of the project and presents critical reflections on the various circumstances that shaped our process and results. The main objective is to give readers an insight into the key challenges and outcomes of the project, thereby calling attention to a range of themes and tensions that are of relevance to future studies of music and migration.
-  </article>
   <article id="contributors-article-SZI29ELY" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 2K223
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

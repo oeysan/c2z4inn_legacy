@@ -1,5 +1,5 @@
 ---
-title: "Estimation of panel model with heteroskedasticity in both idiosyncratic and individual specific errors"
+title: "NLQ6WN5N"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NLQ6WN5N" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1872029" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NLQ6WN5N" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/07474938.2020.1808372" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-NLQ6WN5N"></div>
 </article>

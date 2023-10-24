@@ -1,5 +1,5 @@
 ---
-title: "Insights on alpha lipoic and dihydrolipoic acids as promising scavengers of oxidative stress and possible chelators in mercury toxicology"
+title: "7WKYZCFX"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,17 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7WKYZCFX" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1790069" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7WKYZCFX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-7WKYZCFX" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.jinorgbio.2019.03.019" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-7WKYZCFX"></div>
 </article>
 <div id="csl-bib-meta-7WKYZCFX" class="csl-bib-meta">
-  <article id="abstract-article-7WKYZCFX" class="abstract-article">
-    <h1>Samandrag</h1>
-    Alpha lipoic acid (α-LA) and its reduced form dihydrolipoic acid (DHLA) have been historically considered as excellent anti-oxidants and oxidative stress scavengers. Upon oxidation with reactive oxygen species (ROS) and pro-oxidants, α-LA may be reconstituted from DHLA and other reduced forms. Oxidative stress is one of the fundamental causes of functional degeneration, autophagy and apoptosis leading to cytotoxicity and loss of cell survival, often due to exposure to xenobiotics, pollutants, heavy metals, and other environmental and endogenous toxicants. α-LA and DHLA can react with these molecules to strengthen the primary antioxidant defense system during cell injury. The compound α-LA is suggested for heavy metal detoxification, in particular for supporting the mercury (Hg) detoxifying process. Mercury is one of the major environmental toxicant, particularly noxious even upon limited exposure. Oxidative stress pathways have been identified as a key upstream event for Hg-induced toxicity in humans and animals. However, very few existing drugs to date can successfully prevent or reduce Hg toxicity. Although several thiol-based chelators, such as British Anti-Lewisite (2,3-dimercaptopropanol, BAL), meso-2,3-dimercaptosuccinic acid (DMSA), and sodium 2,3-dimercapto-1-propanesulfonate (DMPS), have shown promise for ameliorating Hg intoxication. In this review, the potential role of α-LA and DHLA in scavenging toxic metals and other xenobiotics is discussed, focusing especially on the mechanisms of actions of α-LA and DHLA as potential antioxidants towards Hg-induced toxicity.
-  </article>
   <article id="taxonomy-article-7WKYZCFX" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>

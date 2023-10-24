@@ -1,5 +1,5 @@
 ---
-title: "LiDAR reveals a preference for intermediate visibility by a forest-dwelling ungulate species"
+title: "TSIVHJ6K"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TSIVHJ6K" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2094408" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TSIVHJ6K" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TSIVHJ6K" class="csl-bib-button">Medverkande</a>
+    <a href="https://research.utwente.nl/files/288389033/Zong_2022_Lidar_reveals_a_preferen.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TSIVHJ6K"></div>
 </article>

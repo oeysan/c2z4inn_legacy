@@ -1,5 +1,5 @@
 ---
-title: "Predictors of problematic substance use 18 years after treatment: a longitudinal cohort study of persons with substance use disorders"
+title: "SRCEGR5T"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SRCEGR5T" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1722517" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SRCEGR5T" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SRCEGR5T" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1080/23311908.2019.1634325" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-SRCEGR5T"></div>
 </article>

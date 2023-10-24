@@ -1,5 +1,5 @@
 ---
-title: "Seasonality in Biological Rhythms in Scandinavian brown Bears"
+title: "WRLU7U5S"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WRLU7U5S" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2023529" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WRLU7U5S" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-WRLU7U5S" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WRLU7U5S" class="csl-bib-button">Contributors</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fphys.2022.785706/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WRLU7U5S"></div>
 </article>
 <div id="csl-bib-meta-WRLU7U5S" class="csl-bib-meta">
-  <article id="abstract-article-WRLU7U5S" class="abstract-article">
-    <h1>Abstract</h1>
-    Biological rhythms, such as rhythms in activity and body temperature, are usually highly synchronized and entrained by environmental conditions, such as photoperiod. However, how the expression of these rhythms changes during hibernation, when the perception of environmental cues is limited, has not yet been fully understood for all hibernators, especially in the wild. The brown bear ( Ursus arctos ) in Scandinavia lives in a highly seasonal environment and adapts to harsh winter conditions by exhibiting hibernation, characterized by reduced metabolism and activity. In this study, we aimed to explore the expression of biological rhythms in activity, body temperature and heart rate of free-ranging brown bears over the annual cycle, including active, hibernation and the transition states around den entry and exit. We found that rhythms in physiology and activity are mostly synchronized and entrained by the light-dark cycle during the bears’ active state with predominantly diel and ultradian rhythms for body temperature, activity and heart rate. However, during hibernation, rhythms in body temperature and heart rate were considerably slowed down to infradian rhythms, influenced by the amount of snow in the denning area, whereas rhythms in activity remained diel. Rhythms in the transition states when bears prepared for entering or coming out of hibernation state displayed a combination of infradian and diel rhythms, indicating the preparation of the body for the change in environmental conditions. These results reveal that brown bears adjust their biological rhythms to the seasonal environment they inhabit. Rhythms in physiology and activity show simultaneity during the active state but are partly disconnected from each other during hibernation, when bears are most sheltered from the environment.
-  </article>
   <article id="contributors-article-WRLU7U5S" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Visualizing practices in project-based design: tracing connections through cascades of visual representations"
+title: "2APTP8H7"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2APTP8H7" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1442767" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/2APTP8H7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-2APTP8H7" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-2APTP8H7" class="csl-bib-button">Contributors</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/21573727.2016.1269005?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-2APTP8H7"></div>
 </article>
 <div id="csl-bib-meta-2APTP8H7" class="csl-bib-meta">
-  <article id="abstract-article-2APTP8H7" class="abstract-article">
-    <h1>Abstract</h1>
-    Project-based design involves a variety of visual representations, which are evolved to make decisions and accomplish project objectives. Yet, such mediated and distributed ways of working are difficult to capture through ethnographies that examine situated design. A novel approach is developed that follows cascades of visual representations, and this is illustrated through two empirical studies. In the first case, Heathrow Terminal 5, analysis starts from paper- and model-work used to develop design, tracing connections forward to an assembly manual that forms a ‘consolidated cascade’ of visual representations. In the second, the Turning Torso, Malmö, analysis starts from a planning document, tracing connections backward to the paper- and model-work done to produce this consolidated cascade. This work makes a twofold contribution: first, it offers a methodological approach that supplements ethnographies of situated design. This allows the researcher to be nimble, tracing connections across complex engineering projects; reconstructing practices through their visual representations; and observing their effects. Second, it articulates how, in these empirical cases, interaction with a cascade of visual representations enabled participants in project-based design to develop and share understanding. The complexity of projects and their distributed and mediated nature makes this approach timely and important in addressing new research questions and practical challenges.
-  </article>
   <article id="contributors-article-2APTP8H7" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

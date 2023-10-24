@@ -1,5 +1,5 @@
 ---
-title: "Geographic changes in the Aegean Sea since the Last Glacial Maximum: Postulating biogeographic effects of sea-level rise on islands"
+title: "7DYW9EMA"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7DYW9EMA" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1476353" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7DYW9EMA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7DYW9EMA" class="csl-bib-button">Medverkande</a>
+    <a href="https://pure.uva.nl/ws/files/17306587/Geographic_changes_in_the_Aegean_Sea_since_the_Last_Glacial_Maximum.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7DYW9EMA"></div>
 </article>

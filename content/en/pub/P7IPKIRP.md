@@ -1,5 +1,5 @@
 ---
-title: "Flipped Gaming - testing three simulation games"
+title: "P7IPKIRP"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-P7IPKIRP" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1608725" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/P7IPKIRP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-P7IPKIRP" class="csl-bib-button">Contributors</a>
+    <a href="https://opus.lib.uts.edu.au/bitstream/10453/133960/1/Flipped%20Gaming%20%e2%80%93%20testing%20three%20simulation%20games.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-P7IPKIRP"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "Structural Estimation of Switching Costs for Peaking Power Plants"
+title: "EK5FIRWT"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,22 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EK5FIRWT" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1690280" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/EK5FIRWT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-EK5FIRWT" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EK5FIRWT" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-EK5FIRWT" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.ejor.2019.03.031" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-EK5FIRWT"></div>
 </article>
 <div id="csl-bib-meta-EK5FIRWT" class="csl-bib-meta">
-  <article id="abstract-article-EK5FIRWT" class="abstract-article">
-    <h1>Samandrag</h1>
-    We estimates costs associated with mothballing, restarting, 
-abandoning and maintaining peaking power plants. We develop a real options model to explain switching and maintenance behavior of plant managers. The constrained optimization approach to estimate crucial costs accommodates non-parametric dynamics for the expectations of the plant  managers regarding future profitability.  
- 
-The empirical analysis is based on the status of power plants reported annually to the United States Energy Information Administration (EIA) during 2001-2009. We arrive at economically meaningful estimates of maintenance costs and switching costs, and discuss these in light of rates used in the Pennsylvania-New Jersey-Maryland capacity market.
-  </article>
   <article id="contributors-article-EK5FIRWT" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -64,7 +57,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg7" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg07_no.png" class="image" alt="SDG 7">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>27</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=7#archive" class="sdg-publication-count"><span>27</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/ren-energi-til-alle?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

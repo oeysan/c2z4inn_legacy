@@ -1,5 +1,5 @@
 ---
-title: "Information Asymmetry and Leverage Adjustments: A Semiparametric Varying-coefficient Approach"
+title: "6PENHYBS"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,30 +9,26 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6PENHYBS" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1828842" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/6PENHYBS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-6PENHYBS" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#sdg-article-6PENHYBS" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1111/rssa.12524" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-6PENHYBS"></div>
 </article>
 <div id="csl-bib-meta-6PENHYBS" class="csl-bib-meta">
-  <article id="abstract-article-6PENHYBS" class="abstract-article">
-    <h1>Abstract</h1>
-    Information asymmetry reflects the risk and uncertainty faced by investors and is a measure of a firm's transparency. High information asymmetry could increase the cost of external financing, which in turn impedes a firm's leverage (debt–asset ratio) adjustment. The paper studies the adjustment speed towards the target leverage in the presence of information asymmetry by using microlevel data from China. In contrast with previous studies, we allow heterogeneity in the adjustment speed coefficient by modelling it as a non‐parametric function of information asymmetry and other firm characteristics. This refinement not only allows for more flexibility in the model, but it also facilitates further exploration into the differences and determinants of firms’ financing behaviour. We uniquely build the firm level measure of information asymmetry into the traditional partial leverage adjustment framework. Based on our firm level measure of the adjustment speed, our paper explores why the leverage adjustment speed matters by examining its association with corporate performance indicators. We find that China's firms do have leverage targets and they slowly adjust towards these targets. We also find that the adjustment speed decreases with an increase in information asymmetry. Overall, firms which converge towards their targets faster perform better in value, profitability, investment and costs.
-  </article>
   <article id="sdg-article-6PENHYBS" class="sdg-article">
     <h1>Sustainable Development Goals</h1>
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>64</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "A positive legacy – against all odds Olympic facilities at the 1994 Olympic Winter Games"
+title: "YNGPN4GQ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,31 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YNGPN4GQ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1861353" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YNGPN4GQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-YNGPN4GQ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-YNGPN4GQ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-YNGPN4GQ" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.15203/CISS_2020.008" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-YNGPN4GQ"></div>
 </article>
 <div id="csl-bib-meta-YNGPN4GQ" class="csl-bib-meta">
-  <article id="abstract-article-YNGPN4GQ" class="abstract-article">
-    <h1>Samandrag</h1>
-    The aim of this study is to explore the concept of legacy in mega sporting events. More precisely, 
-it examines how one of the smallest cities to host the Olympic Winter Games, Lillehammer in 1994, 
-more than 25 years after the Games, has a rather positive legacy of the investments in sporting facilities, 
-opposite to a majority among the hosts of the Winter Games. The research, which entailed 
-qualitative documentary analysis (e.g. bidding documents, government guarantees, propositions 
-and minutes of meetings in the Parliament, supplemented with interviews), shows how the concept 
-was changed after Lillehammer was awarded the event in 1988. Lillehammer went from an extreme 
-compact Games model to place the venues in five municipalities. Also important was the establishment 
-of government funding to maintain the different arenas. For many hosts of mega/major events, 
-sport facilities end up with a negative legacy because of poor or insufficient planning. Today, the 
-‘after-use fund’ has been depleted, which is challenging for Lillehammer because several municipalities 
-in the Olympic region are also responsible for the funding. It remains to be seen if the positive 
-legacy will remain positive in the years to come.
-  </article>
   <article id="contributors-article-YNGPN4GQ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -77,7 +61,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg1" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg01_no.png" class="image" alt="SDG 1">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>37</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=1#archive" class="sdg-publication-count"><span>39</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/utrydde-fattigdom?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

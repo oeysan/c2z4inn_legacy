@@ -1,5 +1,5 @@
 ---
-title: "Læreroppfatninger om elevers møter med biografier i klasserommet"
+title: "3P4J5JQW"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3P4J5JQW" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2028700" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3P4J5JQW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-3P4J5JQW" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3P4J5JQW" class="csl-bib-button">Medverkande</a>
+    <a href="https://journals.uio.no/adnorden/article/download/9253/8158" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3P4J5JQW"></div>
 </article>
 <div id="csl-bib-meta-3P4J5JQW" class="csl-bib-meta">
-  <article id="abstract-article-3P4J5JQW" class="abstract-article">
-    <h1>Samandrag</h1>
-    Denne artikkelen utforsker læreroppfatninger om sakprosalitteraturens potensial i møtet med elever, med et særlig fokus på biografier. Studien søker svar på følgende spørsmål: Hvilke oppfatninger om elevers møter med biografier kommer til uttrykk i intervjuer med tre norsklærere? Hvilket dannelsespotensial kan biografiene ha i undervisningssammenheng? Læreroppfatningene undersøkes gjennom en empirisk kasusstudie der tre norsklærere intervjues i forbindelse med et undervisningsopplegg om biografier. Studien er forankret i teori om hvordan læreroppfatninger er et resultat av ulike erfaringer og kunnskaper (Levin, 2015), og sjangerteoretiske perspektiver om sakprosalitteraturens kompleksitet (Sanders, 2018).  Resultatene viser at lærerne er mindre opptatte av at de biografiske tekstene skal fungere som kunnskapskilde og oppøve elevene til å bli kritiske lesere. Man vektlegger i større grad den estetiske og emosjonelle erfaringa som oppstår i møtene med biografiene. Lesing av biografier skaper forskjellige lesererfaringer og leseropplevelser på bakgrunn av biografienes visuelle og verbaltekstlige variasjon og kompleksitet. Hvordan man snakker om disse erfaringene og hva som skaper dem, blir sentralt for arbeidet med sakprosalitteratur i klasserommet.    
-  </article>
   <article id="contributors-article-3P4J5JQW" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

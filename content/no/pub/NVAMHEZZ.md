@@ -1,5 +1,5 @@
 ---
-title: "Developing a System Dynamics Model for the Nizhniy Kaban and Sredniy Kaban Lakes, Kazan, Russia, Assessing the Impacts of Phosphorus and Nitrogen Inputs on Lake Ecology"
+title: "NVAMHEZZ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NVAMHEZZ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1964333" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NVAMHEZZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-NVAMHEZZ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NVAMHEZZ" class="csl-bib-button">Medverkande</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s11270-021-05371-1.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-NVAMHEZZ"></div>
 </article>
 <div id="csl-bib-meta-NVAMHEZZ" class="csl-bib-meta">
-  <article id="abstract-article-NVAMHEZZ" class="abstract-article">
-    <h1>Samandrag</h1>
-    The Kaban Lakes Integrated Assessment Model (KLIAM) was developed for the lake hydrology, chemistry, and plankton dynamics of the Nizhniy Kaban and Sredniy Kaban lakes, Kazan, Russia. KLIAM is able to describe the variations seen in the Kaban lakes chemical and biological states as far seen through measurements available at the moment. KLIAM is able to reconstruct the lake history as it is approximately known from the data and written narratives. KLIAM was used to assess the measures to return the lakes to their original pre-urban status as alkaline and semi-oligotrophic lakes. The Kaban Lakes periodically goes through plankton blooms, as seen in the lake in the last decades since before World War II, which are caused by plankton growth promoted by phosphorus and nitrogen coming to the lakes as pollution from the human environment. In the new plans for development of the area surrounding the Nizhniy Kaban and Sredniy Kaban lakes, we suggest that attention is paid to reducing phosphorus and nitrogen flows to the lakes, as the best way to improve their ecological status. This is based on simulations with KLIAM. We recommend that the monitoring of lake chemistry and lake ecology is improved with reoccurring analysis of samples from the Kaban Lakes.
-  </article>
   <article id="contributors-article-NVAMHEZZ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Modelling tourists’ length of stay: A call for a ‘back-to-basic’ approach"
+title: "8P6DC2IS"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8P6DC2IS" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1438028" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/8P6DC2IS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-8P6DC2IS" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-8P6DC2IS" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.5367/te.2015.0489" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-8P6DC2IS"></div>
 </article>
 <div id="csl-bib-meta-8P6DC2IS" class="csl-bib-meta">
-  <article id="abstract-article-8P6DC2IS" class="abstract-article">
-    <h1>Abstract</h1>
-    Modelling of tourists’ length of stay (LOS) is an expanding topic of study. A common thread in this literature is the use of sophisticated statistical/econometric methods. The present study builds on and extends an article critical of the statistical craftsmanship in prior LOS modelling studies. On the basis of an updated assessment of current practice and two small-scale case studies, two main conclusions are drawn. First, the available evidence suggests that the ordinary least squares (OLS) regression model produces qualitatively similar findings to much more complicated methods, such as duration and count data models. The principle of parsimony and the so-called KISS rule thus dictate that OLS regression analysis should be the preferred estimation technique in LOS modelling studies. Second, the quality of LOS modelling studies will most likely be improved by intensifying the use of the long-established tools of the trade explicated in influential econometric textbooks rather than by testing new estimation methods.
-  </article>
   <article id="contributors-article-8P6DC2IS" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

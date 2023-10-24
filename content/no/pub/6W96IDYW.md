@@ -1,5 +1,5 @@
 ---
-title: "Å få øye på det tause som blir «sagt»: En estetisk tilnærming til barns uartikulerte perspektiver"
+title: "6W96IDYW"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,17 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6W96IDYW" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1707781" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/6W96IDYW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-6W96IDYW" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://pedagogikkogkritikk.no/index.php/ntpk/article/download/1364/3318" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-6W96IDYW"></div>
 </article>
 <div id="csl-bib-meta-6W96IDYW" class="csl-bib-meta">
-  <article id="abstract-article-6W96IDYW" class="abstract-article">
-    <h1>Samandrag</h1>
-    Fokus for denne artikkelen er hvordan barnehagepersonalet kan nærme seg de barneperspektiver som nykommere i norsk språk og barnehagekontekst bringer inn i barnehagefellesskapet. Artikkelen tar utgangspunkt i en estetikk-basert undersøkelse av samspill mellom barn og barnehagepersonale som ikke har et felles talespråk. Utforskende formingsvirksomhet fungerer i artikkelen som en undersøkelsesramme for å forstå barnehagelæreren som tilrettelegger for de ordløse ytringene. Med Kristevas teorier om språk og estetikk undersøker forfatteren hvordan barnehagepersonalets oppmerksomhet mot egne kroppslige og estetiske tegn kan være en inngang til å (be)gripe og la seg berøre av barnas uartikulerte perspektiver. Gjennom eksempler illustrerer forfatteren hvordan to barnehagelæreres gryende bevissthet omkring de kollektive, affektive og fantasifulle dimensjonene i eget samspill har betydning for nykommernes deltakelse.
-  </article>
   <article id="taxonomy-article-6W96IDYW" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>

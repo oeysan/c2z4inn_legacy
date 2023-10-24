@@ -1,5 +1,5 @@
 ---
-title: "Green inclusive leadership and green creativity in the tourism and hospitality sector: Serial mediation of green psychological climate and work engagement"
+title: "LMKG8VTK"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LMKG8VTK" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2096688" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LMKG8VTK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LMKG8VTK" class="csl-bib-button">Medverkande</a>
+    <a href="https://lutpub.lut.fi/bitstream/10024/162109/1/bhutto_et_al_green_inclusive_aam.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LMKG8VTK"></div>
 </article>

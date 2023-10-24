@@ -1,5 +1,5 @@
 ---
-title: "Time in languages, languages in time"
+title: "AIU9CRSB"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AIU9CRSB" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1926441" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/AIU9CRSB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-AIU9CRSB" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AIU9CRSB" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-AIU9CRSB" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-AIU9CRSB"></div>
 </article>
 <div id="csl-bib-meta-AIU9CRSB" class="csl-bib-meta">
-  <article id="abstract-article-AIU9CRSB" class="abstract-article">
-    <h1>Abstract</h1>
-    This volume comprises a collection of contrastive studies on language and time. Languages represented include Czech, French, German, Mandarin, Norwegian and Swedish, all of which are contrasted with English. While the amount of published research on temporal relations in general is considerable, less work has been carried out on comparing how we talk about time in various languages and how languages change over time. Several methodological challenges are addressed and solutions proposed, such as how to deal with poor quality historical data and how to identify n-grams in typologically different languages for purposes of comparison. The results of the various studies show how multilingual corpora can increase our knowledge of language-specific features as well as linguistic, typological and cultural differences and similarities across languages.
-  </article>
   <article id="contributors-article-AIU9CRSB" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -94,7 +89,7 @@ Room 2C256-1
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

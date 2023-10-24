@@ -1,5 +1,5 @@
 ---
-title: "The Effects of Workplace Nature-Based Interventions on the Mental Health and Well-Being of Employees: A Systematic Review"
+title: "LBS8L3MC"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LBS8L3MC" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1821113" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LBS8L3MC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-LBS8L3MC" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LBS8L3MC" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-LBS8L3MC" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fpsyt.2020.00323/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LBS8L3MC"></div>
 </article>
 <div id="csl-bib-meta-LBS8L3MC" class="csl-bib-meta">
-  <article id="abstract-article-LBS8L3MC" class="abstract-article">
-    <h1>Samandrag</h1>
-    Mental health in the workplace is a societal challenge with serious economical and human costs. Most prevalent mental disorders in the workforce (e.g., depression), however, are preventable. There is widespread agreement about the favorable effects of nature exposure and consequently, nature-based interventions (NBI) in the workplace have been proposed as a cost-effective approach to promote good health among employees. The objective of the present study was to systematically review scientific evidence on the effectiveness of NBI to promote mental health and well-being among actual employees in actual workplace settings. The review was conducted and presented in accordance with the PRISMA guidelines. The literature search was performed on five databases (PubMed, Embase, CENTRAL, CINHAL and PsycINFO), hand-searching of field-specific journals, and the reference lists of retrieved papers over the past five years up to November (13th, 2018). Studies were eligible for inclusion if they: 1) were randomized or non-randomized controlled trials; 2) comprised samples of actual employees; 3) implemented a workplace-based intervention with exposure to nature; 4) included comparison conditions that displayed a clear contrast to NBIs; and 5) investigated the quantitative effects on mental health or well-being. No restrictions on type of employees or workplace, publication period, or language of the publication were set. Risk of bias was assessed using the Cochrane’s RoB2 tool. Narrative synthesis was performed due to large heterogeneity in outcome variables. Of the 510 articles identified, 10 NBIs (9 papers) met the eligibility criteria. The outcomes were grouped in five categories: a) mental health indices, b) cognitive ability, c) recovery and restoration, d) work and life satisfaction, and e) psychophysiological indicators. Narrative synthesis indicates consistently positive effects on mental health indices and cognitive ability, while mixed results were found for the other outcome categories. Caution must be given when interpreting the current evidence in this emerging research field because of the diversity of NBIs and the overall high risk of bias in the individual studies. Although in this field often researchers have to balance scientific rigor and ecological validity, there is a need for large, well-designed and rigorously conducted trials grounded in contemporary theories.
-  </article>
   <article id="contributors-article-LBS8L3MC" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 4L3335
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

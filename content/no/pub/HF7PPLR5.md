@@ -1,5 +1,5 @@
 ---
-title: "Håndverk og fagspråk i pedagogisk arbeid"
+title: "HF7PPLR5"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,17 +9,12 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HF7PPLR5" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1457008" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HF7PPLR5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-HF7PPLR5" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
   </div>
   <div id="csl-bib-meta-container-HF7PPLR5"></div>
 </article>
 <div id="csl-bib-meta-HF7PPLR5" class="csl-bib-meta">
-  <article id="abstract-article-HF7PPLR5" class="abstract-article">
-    <h1>Samandrag</h1>
-    Handling og språk kan forstås som hverandres gjensidige forutsetninger for nye erkjennelser, og for profesjonsutøvelse. I denne artikkelen gjør vi et forsøk på å sammenligne den dyktige pedagogen med den dyktige håndverkeren, nærmere bestemt glassblåseren. Vi spør deretter hva som kjennetegner et fagspråk som både er tilstrekkelig presist og har praktisk relevans for pedagogens arbeid. Diskusjonen er basert på pedagogers fortellinger om barn som motsetter seg det som er planlagt, og om hvordan pedagogene håndterer situasjonene. Konteksten for studien er dagsaktuelle diskusjoner om profesjonalisering, akademisering og politisering av barnehagefeltet.
-  </article>
   <article id="taxonomy-article-HF7PPLR5" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>

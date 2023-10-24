@@ -1,5 +1,5 @@
 ---
-title: "Students’ Mental Health, Well-Being, and Loneliness during the COVID-19 Pandemic: A Cross-National Study"
+title: "3M4UBQX5"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3M4UBQX5" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2027491" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3M4UBQX5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-3M4UBQX5" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3M4UBQX5" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-3M4UBQX5" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.mdpi.com/2227-9032/10/6/996/pdf?version=1654131563" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3M4UBQX5"></div>
 </article>
 <div id="csl-bib-meta-3M4UBQX5" class="csl-bib-meta">
-  <article id="abstract-article-3M4UBQX5" class="abstract-article">
-    <h1>Abstract</h1>
-    During the COVID-19 pandemic, much research has been devoted to assessing mental health in a variety of populations. Students in higher education appear to be particularly vulnerable to experiencing reduced mental health. The purpose of the study was to assess whether higher education students experienced poorer mental health compared to the general population and examine the factors associated with students’ mental health during the COVID-19 pandemic. A cross-national sample of students (n = 354) and non-students (n = 3120) participated in a survey in October/November 2020. Mental health outcomes among students and non-students were compared with independent t-tests. Multiple linear regression analysis and general linear estimation were used to assess the impact of student status on mental health outcomes while adjusting for sociodemographic factors. Students reported poorer mental health than non-students. The difference in mental health between students and non-students was bigger for participants aged 30 years or older. More social media use was associated with poorer mental health outcomes. In conclusion, students had poorer mental health than the wider population. Aspects of life as a student, beyond what can be attributed to life stage, appears to increase mental health problems.
-  </article>
   <article id="contributors-article-3M4UBQX5" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,13 +59,13 @@ Room 4L3213
     <div class="sdg-container"><div id="sdg1" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg01_en.png" class="image" alt="SDG 1">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>37</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=1#archive" class="sdg-publication-count"><span>39</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal1" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

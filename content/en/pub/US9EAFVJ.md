@@ -1,5 +1,5 @@
 ---
-title: "Cerebral lactate uptake during exercise is driven by the increased arterial lactate concentration"
+title: "US9EAFVJ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-US9EAFVJ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1990021" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/US9EAFVJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-US9EAFVJ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-US9EAFVJ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-US9EAFVJ" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://doi.org/10.1152/japplphysiol.00505.2021" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-US9EAFVJ"></div>
 </article>
 <div id="csl-bib-meta-US9EAFVJ" class="csl-bib-meta">
-  <article id="abstract-article-US9EAFVJ" class="abstract-article">
-    <h1>Abstract</h1>
-    Exercise facilitates cerebral lactate uptake, likely by increasing arterial lactate concentration and hence the diffusion gradientacross the blood-brain barrier. However, nonspecificb-adrenergic blockade by propranolol has previously reduced the arterio-jugular  venous  lactate  difference  (AVLac)  during  exercise,  suggestingb-adrenergic  control  of  cerebral  lactate  uptake.Alternatively, we hypothesized that propranolol reduces cerebral lactate uptake by decreasing arterial lactate concentration. Totest that hypothesis, we evaluated cerebral lactate uptake taking changes in arterial concentration into account. Nine healthymales performed incremental cycling exercises to exhaustion with and without intravenous propranolol (18.7 ± 1.9 mg). Lactateconcentration was determined in arterial and internal jugular venous blood at the end of each workload. To take changes in ar-terial lactate into account, we calculated the fractional extraction (FELac)defined as AVLacdivided by the arterial lactate concen-tration. Arterial lactate concentration was reduced by propranolol at any workload (P&lt;0.05), reaching 14 ± 3 and 11 ± 3 mmol·l1during maximal exercise without and with propranolol, respectively. Although AVLacand FELacincreased during exercise (bothP&lt;0.05), they were both unaffected by propranolol at any workload (P= 0.68 andP= 0.26) or for any given arterial lactateconcentration (P= 0.78 andP= 0.22). Thesefindings support that while propranolol may reduce cerebral lactate uptake, thiseffect reflects the propranolol-induced reduction in arterial lactate concentration and not inhibition of ab-adrenergic mechanismwithin the brain. We hence conclude that cerebral lactate uptake during exercise is directly driven by the increasing arterial con-centration with work rate.
-  </article>
   <article id="contributors-article-US9EAFVJ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

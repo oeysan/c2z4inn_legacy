@@ -1,5 +1,5 @@
 ---
-title: "'I brå glimt av klarhet forstår jeg hva granene tenker'. Diktlæren i Hans Børlis prosa"
+title: "WHVI9Z5A"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WHVI9Z5A" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1739390" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WHVI9Z5A" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WHVI9Z5A" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-WHVI9Z5A"></div>

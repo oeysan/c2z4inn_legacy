@@ -1,5 +1,5 @@
 ---
-title: "Does using real cases when educating health managers enhance relevance and learning outcome?"
+title: "IFKF4S4N"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IFKF4S4N" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1654287" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/IFKF4S4N" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IFKF4S4N" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-IFKF4S4N"></div>

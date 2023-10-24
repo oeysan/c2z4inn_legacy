@@ -1,5 +1,5 @@
 ---
-title: "Intellectual property, technorents and the labour share of production"
+title: "3VIG9JP3"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3VIG9JP3" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1858122" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3VIG9JP3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-3VIG9JP3" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3VIG9JP3" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-3VIG9JP3" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/1024529420968221" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-3VIG9JP3"></div>
 </article>
 <div id="csl-bib-meta-3VIG9JP3" class="csl-bib-meta">
-  <article id="abstract-article-3VIG9JP3" class="abstract-article">
-    <h1>Abstract</h1>
-    How does the capture of explicit monopoly rent via intellectual property rights interact with the capture of additional profit via monopsonistic labour markets, and with what consequences? Most analyses of changes in the labour market focus on the distributional struggle between capital and labour over the wage share. This paper examines how the distributional struggle among firms over shares of aggregate profit has affected the labour market, generating rising income inequality. Over the past 40 years, struggles over shares of the value generated in a given commodity chain have driven de jure but not de facto vertical disintegration of those value chains. Firms vertically disintegrated by outsourcing non-core production and support activities, by in-sourcing contingent labour, and, where possible, by adopting a franchise model of corporate organization. The franchise model enables core firms to exert near total control over firms that are technically separate legal entities, while avoiding legal and social responsibility for the workers (and owners) of those subordinate firms. Vertical disintegration has produced three ideal typical kinds of firms whose differing ability to capture value and thus profit stems from their different forms of control over other firms in the value chain. Vertical disintegration generated labour shedding and employment contingency. Differential value capture has concentrated profit into firms with relatively small headcounts, reducing the degree to which profits are (partially) redistributed among workers.
-  </article>
   <article id="contributors-article-3VIG9JP3" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -57,13 +53,13 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg1" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg01_en.png" class="image" alt="SDG 1">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>37</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=1#archive" class="sdg-publication-count"><span>39</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal1" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>54</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

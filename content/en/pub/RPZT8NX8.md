@@ -1,5 +1,5 @@
 ---
-title: "Selenium and Autism Spectrum Disorder"
+title: "RPZT8NX8"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RPZT8NX8" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1677065" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RPZT8NX8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-3-319-95390-8_10" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-RPZT8NX8"></div>
 </article>

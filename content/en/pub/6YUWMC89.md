@@ -1,5 +1,5 @@
 ---
-title: "Digital Servitization: How Manufacturing Firms Can Enhance Resource Integration and Drive Ecosystem Transformation"
+title: "6YUWMC89"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6YUWMC89" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1990028" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/6YUWMC89" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-6YUWMC89" class="csl-bib-button">Contributors</a>
+    <a href="https://link.springer.com/content/pdf/bfm:978-3-030-75771-7/1?pdf=chapter%20toc" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-6YUWMC89"></div>
 </article>

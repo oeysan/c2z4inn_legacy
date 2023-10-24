@@ -1,5 +1,5 @@
 ---
-title: "Poetry and pedagogy across the lifespan: disciplines, classrooms, contexts"
+title: "KYFAPV35"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KYFAPV35" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1571061" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/KYFAPV35" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-KYFAPV35" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KYFAPV35" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-KYFAPV35" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-KYFAPV35"></div>
 </article>
 <div id="csl-bib-meta-KYFAPV35" class="csl-bib-meta">
-  <article id="abstract-article-KYFAPV35" class="abstract-article">
-    <h1>Samandrag</h1>
-    This book explores poetry and pedagogy in practice across the lifespan. Poetry is directly linked to improved literacy, creativity, personal development, emotional intelligence, complex analytical thinking and social interaction: all skills that are crucial in contemporary educational systems. However, a narrow focus on STEM subjects at the expense of the humanities has led educators to deprioritize poetry and to overlook its interdisciplinary, multi-modal potential. The editors and contributors argue that poetry is not a luxury, but a way to stimulate linguistic experiences that are formally rich and cognitively challenging. To learn through poetry is not just to access information differently, but also to forge new and different connections that can serve as reflective tools for lifelong learning. This interdisciplinary book will be of value to teachers and students of poetry, as well as scholars interested in literacy across the disciplines.
-  </article>
   <article id="contributors-article-KYFAPV35" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +58,7 @@ Rom 2C262-3
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

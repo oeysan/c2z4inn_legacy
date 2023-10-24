@@ -1,5 +1,5 @@
 ---
-title: "The role of sport organizations for local and national community: The case of Sámi sport organizations"
+title: "AUQG943F"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,24 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AUQG943F" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1710295" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/AUQG943F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-AUQG943F" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AUQG943F" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/16184742.2019.1610784" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-AUQG943F"></div>
 </article>
 <div id="csl-bib-meta-AUQG943F" class="csl-bib-meta">
-  <article id="abstract-article-AUQG943F" class="abstract-article">
-    <h1>Samandrag</h1>
-    Research question: This paper investigates (1) how representatives of Sámi sport clubs understand local and national communities, and (2) and the role of the sport organization in the creation and perception of local and national community. The study contributes to the research field by showing how sport organizations are the basis of the community, locally and nationally. 
- 
-Research methods: Interviews were conducted with seven board members representing five Sámi sport clubs in four municipalities. The sport clubs were all members of the Sámi sport organization, and located in core Sámi areas where Sámi language and culture is manifested in everyday life. Sámi are the indigenous peoples of the northern Norway, Sweden, Finland and north-west Russia. 
- 
-Results and findings: For sport club representatives, Sámi sport refers to specific activities associated with Sámi husbandry heritage, and to the Sámi sport organization. Sport clubs function as community organizations at the local level. Moreover, through affiliation with the Sámi sport organization, the sport clubs are the link to the Sámi national community. Sámi indigeneity is played out internally in the local community as well as on the borderline to other communities with other ethnic compositions. 
- 
-Implications: The study revealed a complex relationship between the local and national elements of indigeneity, and between the internal and the external elements. These elements of multiculturalism and sport clubs require to be taken into account in future sport management and policy-making in addition to multicultural policies towards immigrant sport participation and organization.
-  </article>
   <article id="contributors-article-AUQG943F" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

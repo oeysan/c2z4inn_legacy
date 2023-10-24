@@ -1,5 +1,5 @@
 ---
-title: "The new COST Action European Venom Network (EUVEN)—synergy and future perspectives of modern venomics"
+title: "Q28ESVL6"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Q28ESVL6" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1901604" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Q28ESVL6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-Q28ESVL6" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Q28ESVL6" class="csl-bib-button">Medverkande</a>
+    <a href="https://academic.oup.com/gigascience/article-pdf/10/3/giab019/41974846/giab019.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-Q28ESVL6"></div>
 </article>
 <div id="csl-bib-meta-Q28ESVL6" class="csl-bib-meta">
-  <article id="abstract-article-Q28ESVL6" class="abstract-article">
-    <h1>Samandrag</h1>
-    Venom research is a highly multidisciplinary field that involves multiple subfields of biology, informatics, pharmacology, medicine, and other areas. These different research facets are often technologically challenging and pursued by different teams lacking connection with each other. This lack of coordination hampers the full development of venom investigation and applications. The COST Action CA19144–European Venom Network was recently launched to promote synergistic interactions among different stakeholders and foster venom research at the European level.
-  </article>
   <article id="contributors-article-Q28ESVL6" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

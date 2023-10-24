@@ -1,5 +1,5 @@
 ---
-title: "An Exploration of Recruitment of Elite Athletes to Coaching Within Federations"
+title: "PBLUUS6B"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PBLUUS6B" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1928816" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PBLUUS6B" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-PBLUUS6B" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PBLUUS6B" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1123/iscj.2020-0056" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-PBLUUS6B"></div>
 </article>
 <div id="csl-bib-meta-PBLUUS6B" class="csl-bib-meta">
-  <article id="abstract-article-PBLUUS6B" class="abstract-article">
-    <h1>Abstract</h1>
-    The aim of the study was to explore what sport federations look for when recruiting elite athletes into coaching, and what resources are offered to retiring elite athletes transitioning to coaching careers. The authors interviewed 10 federation officials representing eight different sports, winter and summer, individual and team sports. Thematic analysis was employed and four “what recruiters look for” higher-order themes were found, including: having the whole package essential for coaching, personal attributes displayed in their time as an athlete, singular dedication to the sport, and knowing them from their time as an athlete. Three higher-order themes surrounding resources were identified, on the support provided to those going from athlete-to-coach to facilitate a stable start, professional development, and holistic wellbeing. These resources were also considered in relation to the phase at which they were offered in the transition process, such as upon hiring, early on in the career, and as ongoing ones. While a standard or universal approach to this does not appear to exist, practices and approaches were identified here that were considered within the scope of the existing research and can be used to inform future coach development work.
-  </article>
   <article id="contributors-article-PBLUUS6B" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

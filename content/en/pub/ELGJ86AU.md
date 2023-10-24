@@ -1,5 +1,5 @@
 ---
-title: "Global kristendom: en samtidshistorie"
+title: "ELGJ86AU"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ELGJ86AU" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1582614" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ELGJ86AU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ELGJ86AU" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ELGJ86AU" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-ELGJ86AU"></div>
 </article>
 <div id="csl-bib-meta-ELGJ86AU" class="csl-bib-meta">
-  <article id="abstract-article-ELGJ86AU" class="abstract-article">
-    <h1>Abstract</h1>
-    Kristendommen er i rask endring og kommer til uttrykk på nye måter både sosialt og politisk. På få tiår er tyngdepunktet flyttet fra det globale nord til det globale sør.I Vest-Europa blir kirker nedlagt eller solgt. Samtidig fylles megakirker i kristendommens nye bastioner utenfor Europa. Kirkene i Midtøsten taper medlemmer når kristne forlater regionen, mens den ortodokse kirken i Russland knytter seg tettere til staten. Den største veksten av kristne skjer i Afrika. Men også i Kina og flere andre asiatiske land vokser antallet kristne, og i USA spiller kristen tro fortsatt en viktig rolle i politikken. Samtidig er katolisismen i Latin-Amerika under press fra en raskt voksende pinsebevegelse som forsterker forskyvningen av kristendommens tyngdepunkt fra nord til sør, så vel som fra de gamle etablerte kirkene til nye menigheter. Med hovedvekt på de mest folkerike landene på hvert kontinent viser forfatterne av «Global kristendom. En samtidshistorie» fram de siste tiårs endringer og diskuterer hvordan kristendom i dag kommer til uttrykk i nye politiske og sosiale sammenhenger.
-  </article>
   <article id="contributors-article-ELGJ86AU" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

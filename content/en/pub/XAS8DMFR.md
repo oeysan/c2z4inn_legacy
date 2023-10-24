@@ -1,5 +1,5 @@
 ---
-title: "Hva betyr bioenergi for verdiskaping og sysselsetting?"
+title: "XAS8DMFR"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XAS8DMFR" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1462302" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XAS8DMFR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XAS8DMFR" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-XAS8DMFR"></div>

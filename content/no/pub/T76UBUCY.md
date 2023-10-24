@@ -1,5 +1,5 @@
 ---
-title: "Data-driven, participatory characterization of farmer varieties discloses teff breeding potential under current and future climates"
+title: "T76UBUCY"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-T76UBUCY" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2045479" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/T76UBUCY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-T76UBUCY" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-T76UBUCY" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-T76UBUCY" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.7554/elife.80009" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-T76UBUCY"></div>
 </article>
 <div id="csl-bib-meta-T76UBUCY" class="csl-bib-meta">
-  <article id="abstract-article-T76UBUCY" class="abstract-article">
-    <h1>Samandrag</h1>
-    In smallholder farming systems, traditional farmer varieties of neglected and underuti- lized species (NUS) support the livelihoods of millions of growers and consumers. NUS combine cultural and agronomic value with local adaptation, and transdisciplinary methods are needed to fully evaluate their breeding potential. Here, we assembled and characterized the genetic diversity of a representative collection of 366 Ethiopian teff (Eragrostis tef) farmer varieties and breeding materials, describing their phylogenetic relation and local adaptation on the Ethiopian landscape. We phenotyped the collection for its agronomic performance, involving local farmers expert teff growers in a participatory variety evaluation. Our analyses revealed environmental patterns of teff genetic diversity and allowed us to identify ten genetic clusters associated with climate variation and with uneven spatial distribution. A genome wide association study (GWAS) was used to identify loci and candidate genes related to phenology, yield, local adaptation, and farmers’ appreciation. The estimated teff genomic offset under climate change scenarios highlighted an area around lake Tana where teff cropping may be most vulnerable to climate change. Our results show that transdis- ciplinary approaches may efficiently propel untapped NUS farmer varieties into modern breeding to foster more resilient and sustainable cropping systems.
-  </article>
   <article id="contributors-article-T76UBUCY" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Campus Hamar
     <div class="sdg-container"><div id="sdg13" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg13_no.png" class="image" alt="SDG 13">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>43</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=13#archive" class="sdg-publication-count"><span>45</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/stoppe-klimaendringene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

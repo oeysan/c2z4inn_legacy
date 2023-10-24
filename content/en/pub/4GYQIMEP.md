@@ -1,5 +1,5 @@
 ---
-title: "Public Service Logic: An Appropriate Recipe for Improving Serviceness in the Public Sector?"
+title: "4GYQIMEP"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4GYQIMEP" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1919482" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/4GYQIMEP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-4GYQIMEP" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-4GYQIMEP" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-4GYQIMEP" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.mdpi.com/2076-3387/11/3/64/pdf?version=1624975880" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-4GYQIMEP"></div>
 </article>
 <div id="csl-bib-meta-4GYQIMEP" class="csl-bib-meta">
-  <article id="abstract-article-4GYQIMEP" class="abstract-article">
-    <h1>Abstract</h1>
-    Researchers have made efforts to combine service management theory with public administration theory to develop an enhanced model of public service logic and help the public sector to develop services through co-creation with service users. This study considered the appropriateness of public service logic for improving serviceness in the public sector, examining the question through a literature review regarding the main elements of service management in which public service logic is anchored. We found no correspondences between this approach and theories on street-level bureaucracy, despite both perspectives aiming to understand the interactions between users and public service providers, and we wanted to explore this gap. We argue that public sector logic neglects important contextual factors, such as the role of public value and politics. Moreover, street-level bureaucrats have a legitimate responsibility not only to provide user-friendly services (creating value for users) but also, occasionally, to overrule citizens’ wishes and needs (following political decisions). We conclude that public service logic does not support the development of more serviceness in the public sector context, because it needs to consider the justification for having a public sector. Further research should consider users as collective citizens rather than individuals.
-  </article>
   <article id="contributors-article-4GYQIMEP" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -91,7 +87,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

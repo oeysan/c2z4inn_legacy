@@ -1,5 +1,5 @@
 ---
-title: "High Content of Lead Is Associated with the Softness of Drinking Water and Raised Cardiovascular Morbidity: A Review"
+title: "WAJ68SSH"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,24 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WAJ68SSH" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1581009" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WAJ68SSH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-WAJ68SSH" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#sdg-article-WAJ68SSH" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/s12011-018-1336-8" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-WAJ68SSH"></div>
 </article>
 <div id="csl-bib-meta-WAJ68SSH" class="csl-bib-meta">
-  <article id="abstract-article-WAJ68SSH" class="abstract-article">
-    <h1>Abstract</h1>
-    Daily ingestion of lead (Pb), even through piped drinking water, has long time been an important issue of concern, attracting for decades research in environmental science and toxicology, and again comes to prominence because of recent high-profile cases of exposure of populations in several countries to Pb-contaminated water. Numerous studies have reported an association between Pb in water and the risk of cardiovascular pathologies. Low levels of magnesium and calcium, i.e., low degree of hardness of the drinking water, may accentuate Pb leaching from water pipes and furthermore increase Pb absorption. This review evaluates the evidence for an association between Pb exposure from drinking water and cardiovascular end points in human populations.
-  </article>
   <article id="sdg-article-WAJ68SSH" class="sdg-article">
     <h1>Sustainable Development Goals</h1>
     <div class="sdg-container"><div id="sdg6" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg06_en.png" class="image" alt="SDG 6">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>26</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=6#archive" class="sdg-publication-count"><span>29</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal6" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

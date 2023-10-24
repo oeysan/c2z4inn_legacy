@@ -58,7 +58,7 @@ a {
 }
 
 #content {
-  margin: 80px auto !important;
+  margin: 80px auto;
 }
 
 #content section article {
@@ -67,7 +67,7 @@ a {
 }
 
 .hidden {
-  display: none !important;
+  display: none;
   opacity: 0;
   transition: opacity 0.5s ease;
 }

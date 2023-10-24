@@ -1,5 +1,5 @@
 ---
-title: "A closer look at the relationship between innovation and employment growth at the firm level"
+title: "S5UY3RAW"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-S5UY3RAW" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1714299" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/S5UY3RAW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-S5UY3RAW" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-S5UY3RAW" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-S5UY3RAW" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/s00191-019-00636-9" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-S5UY3RAW"></div>
 </article>
 <div id="csl-bib-meta-S5UY3RAW" class="csl-bib-meta">
-  <article id="abstract-article-S5UY3RAW" class="abstract-article">
-    <h1>Samandrag</h1>
-    This paper considers in detail how different types of innovation (products, processes, patents, combinations) are related to different employment growth characteristics (exit or survival, with employment upscaling or downscaling at moderate or high rates). Using Norwegian Community Innovation Survey (CIS) data collected in 2008 and merged with public employer-employee registers for the years 2004-2010, it finds that growth persists over time, and increases the probability that ‘bundles’ of complementary product and process innovations are introduced that strengthen employment further. Downscaling also persists, and reduces the probability that ‘bundles’ are introduced that could turn the negative trend. While standalone product innovations follow in the wake of rapid expansion, such have limited impact on employment beyond sustaining growth at moderate levels. Standalone process innovations, by contrast, tend to be introduced after a period of moderate growth, yet, might give rise to large subsequent expansions. These results demonstrate that innovation and employment growth are multi-dimensional characteristics of the firm, which are interlinked with each other in virtuous or vicious circles that unfolds over time.
-  </article>
   <article id="contributors-article-S5UY3RAW" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -57,13 +53,13 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>54</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>64</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

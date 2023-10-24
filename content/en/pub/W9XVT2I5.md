@@ -1,5 +1,5 @@
 ---
-title: "Constructing English as a Ugandan language through an English textbook"
+title: "W9XVT2I5"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-W9XVT2I5" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1528057" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/W9XVT2I5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-W9XVT2I5" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-W9XVT2I5" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-W9XVT2I5" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/07908318.2014.987296" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-W9XVT2I5"></div>
 </article>
 <div id="csl-bib-meta-W9XVT2I5" class="csl-bib-meta">
-  <article id="abstract-article-W9XVT2I5" class="abstract-article">
-    <h1>Abstract</h1>
-    English is a national language in Uganda and is widely used in elite areas such as politics and business, but most Ugandans master English to only a limited degree. In this situation, English can be seen as either a foreign language or a second language ? influencing how English is taught. One goal of language teaching espoused in this article is for students to develop intercultural communicative competence, and the article discusses the extent to which text and images invite conversations and discussions on culture and English as an international language. The framework for analysis is Weninger and Kiss's [2013. Culture in English as a foreign language (EFL) textbooks: A semiotic approach. TESOL Quarterly. doi:10.1002/tesq.87] framework for a Peircean semiotic approach to textual and visual analysis, and the material chosen for the study is a Ugandan English secondary textbook. The textbook has few references to foreign culture or English as an international language, and these references do not lend themselves to critical or exploratory queries or discussions on these issues. This paucity can be seen as an expression of the desire to emphasise English as a Ugandan language, and as such the textbook serves nationalistic purposes, a finding shared by other research. Teachers should be cognisant of the potential of images for spurring curiosity and discussions in the classroom.
-  </article>
   <article id="contributors-article-W9XVT2I5" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Room 2M34-2
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

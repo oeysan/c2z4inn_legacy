@@ -1,5 +1,5 @@
 ---
-title: "Police leadership as a professional practice"
+title: "ZMP76DS7"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZMP76DS7" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1815951" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ZMP76DS7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/10439463.2020.1777996" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-ZMP76DS7"></div>
 </article>

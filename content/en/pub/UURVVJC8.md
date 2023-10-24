@@ -1,5 +1,5 @@
 ---
-title: "Mapping perceptions of energy transition pathways: Ascribed motives and effectiveness"
+title: "UURVVJC8"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UURVVJC8" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2012773" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UURVVJC8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UURVVJC8" class="csl-bib-button">Contributors</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s12144-022-02804-w.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-UURVVJC8"></div>
 </article>

@@ -1,0 +1,69 @@
+---
+title: "Professional women’s football in Norway - a field of empowerment and discrimination."
+type: pub
+---
+<h1>Publication</h1>
+<article id="csl-bib-container-56JJCEDL" class="csl-bib-container">
+  <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
+  <div class="csl-entry">Skogvang, B. O. (2023). Professional women&#x2019;s football in Norway - a field of empowerment and discrimination. In A. Culvin &amp; A. Bowes (Eds.), <i>Women&#x2019;s football in a global, professional era</i> (pp. 49&#x2013;65). Emerald Publishing.</div>
+</div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-56JJCEDL" class="csl-bib-button">Archive</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2184076" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/56JJCEDL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#contributors-article-56JJCEDL" class="csl-bib-button">Contributors</a>
+  </div>
+  <div id="csl-bib-meta-container-56JJCEDL"></div>
+</article>
+<div id="csl-bib-meta-56JJCEDL" class="csl-bib-meta">
+  <article id="contributors-article-56JJCEDL" class="contributors-article">
+    <h1>Contributors</h1>
+    <div class="personas">
+<div class="vrtx-hinn-person-card">
+<div class="photo">
+<img src="data:image/jpeg;base64,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" alt="Bente Ovedie Skogvang" loading="lazy">
+</div>
+<div class="info">
+<hgroup><h1>Bente Ovedie Skogvang</h1>
+<h2>Associate Professor</h2>
+</hgroup><dl>
+<dt>Email</dt>
+<dd>
+<a href="mailto:bente.skogvang@inn.no">bente.skogvang@inn.no</a>
+</dd>
+<dt>Phone number</dt>
+<dd><a href="tel:+4762430053">
++47 62 43 00 53
+</a></dd>
+<dt>Mobile number</dt>
+<dd><a href="tel:+4795704433">
++47 957 04 433
+</a></dd>
+</dl>
+<p>
+Faculty of Social and Health Sciences<br>
+Section for Sports and Physical Education<br>
+Campus Elverum,
+Room 4R4134
+</p>
+<ul class="vrtx-hinn-links">
+<li><a href="https://www.google.com/maps?q=60.88156,11.53723">Show on map</a></li>
+<li><a href="https://www.inn.no/english/find-an-employee/bente-skogvang.html#vrtx-hinn-addresses">See Addresses</a></li>
+<li><a href="https://www.inn.no/english/find-an-employee/bente-skogvang.html?vrtx=vcf">Download business card</a></li>
+</ul>
+</div>
+</div>
+<a href="https://app.cristin.no/persons/show.jsf?id=328317" alt="Cristin URL" class="personas-cristin">Cristin</a>
+</div>
+  </article>
+  <article id="taxonomy-article-56JJCEDL" class="taxonomy-article">
+    <h1>Archive</h1>
+    <ul>
+      <li>Inland Norway University of Applied Sciences</li>
+      <li>Faculty of Social and Health Sciences</li>
+      <li>Department of Public Health and Sport Sciences</li>
+      <li>2023</li>
+      <li>October</li>
+    </ul>
+  </article>
+</div>

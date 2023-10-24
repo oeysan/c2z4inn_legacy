@@ -1,5 +1,5 @@
 ---
-title: "Musical pathfinders of the kindergarten"
+title: "6U32DRYY"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,21 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6U32DRYY" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1576719" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/6U32DRYY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-6U32DRYY" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-6U32DRYY" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-6U32DRYY" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/1463949118756369" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-6U32DRYY"></div>
 </article>
 <div id="csl-bib-meta-6U32DRYY" class="csl-bib-meta">
-  <article id="abstract-article-6U32DRYY" class="abstract-article">
-    <h1>Abstract</h1>
-    Abstract 
- 
-Based on an empirical study in selected Norwegian kindergartens, this article investigates the practice of musically active employees, with or without professional training. The overarching aim is to develop an understanding of early childhood music practitioners that may challenge dominant views of professional identity and provide some new images of what it means to work musically in a kindergarten. Departing from a sociological approach, five different ‘musical pathfinders’ are identified: the disc jockey, the facilitator, the choir leader, the caregiver and the performer. These ‘ideal types’ are discussed in the light of issues concerning cultural diversity, negotiations of professionalism, repertoire selection, the use of music technology, children’s participation, and the relationship between formal and informal learning. The discussion raises critical questions concerning music activity in early childhood institutions, highlighting professionals’ personal cultural experiences, preferences and practices as legitimate points of reference in the development of professional identity.
-  </article>
   <article id="contributors-article-6U32DRYY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -68,7 +62,7 @@ Room 2M112C
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

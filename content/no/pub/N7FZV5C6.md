@@ -1,5 +1,5 @@
 ---
-title: "Sampling variables and their thresholds for the precise estimation of wild felid population density with camera traps and spatial capture–recapture methods"
+title: "N7FZV5C6"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-N7FZV5C6" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2161657" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/N7FZV5C6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-N7FZV5C6" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-N7FZV5C6" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-N7FZV5C6" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mam.12320" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-N7FZV5C6"></div>
 </article>
 <div id="csl-bib-meta-N7FZV5C6" class="csl-bib-meta">
-  <article id="abstract-article-N7FZV5C6" class="abstract-article">
-    <h1>Samandrag</h1>
-    Robust monitoring, providing information on population status, is fundamental for successful conservation planning. However, this can be hard to achieve for species that are elusive and occur at low densities, such as felids. These are often keystones of functioning ecosystems and are threatened by habitat loss and human persecution. When elusive species can be individually identified by visible characteristics, for example via camera‐trapping, observations of individuals can be used in combination with capture–recapture methods to calculate demographic parameters such as population density. In this context, spatial capture–recapture (SCR) outperforms conventional non‐spatial methods, but the precision of results is inherently related to the sampling design, which should therefore be optimised. We focussed on territorial felids in different habitats and investigated how the sampling designs implemented in the field affected the precision of population density estimates. We examined 137 studies that combined camera‐trapping and SCR methods for density estimation. From these, we collected spatiotemporal parameters of their sampling designs, monitoring results, such as the number of individuals captured and the number of recaptures, as well as SCR detection parameters. We applied generalised linear mixed‐effects models and tree‐based regression methods to investigate the influence of variables on the precision of population density estimates and provide numerical thresholds. Our analysis shows that the number of individuals, recapture frequency, and capture probability play the most crucial roles. Surveys yielding over 20 captured individuals that were recaptured on average at least once obtain the most precise population density estimates. Based on our findings, we provide practical guidelines for future SCR studies that apply to all territorial felids. Furthermore, we present a standardised reporting protocol for study transparency and comparability. Our results will improve reporting and reproducibility of SCR studies and aid in setting up optimised sampling designs.
-  </article>
   <article id="contributors-article-N7FZV5C6" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Studiested Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

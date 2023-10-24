@@ -1,5 +1,5 @@
 ---
-title: "High levels of the openness trait are associated with better parental reflective functioning in mothers with substance use disorders"
+title: "FJZCREKC"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,29 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FJZCREKC" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1850311" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/FJZCREKC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-FJZCREKC" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FJZCREKC" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-FJZCREKC" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.1016/j.abrep.2020.100318" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-FJZCREKC"></div>
 </article>
 <div id="csl-bib-meta-FJZCREKC" class="csl-bib-meta">
-  <article id="abstract-article-FJZCREKC" class="abstract-article">
-    <h1>Samandrag</h1>
-    Aims: 
-Mothers with substance use disorders (SUD) often show impairments in parental reflective functioning (PRF), which may have adverse effects on their capacity for sensitive caregiving. Parenting personality is also associated with caregiving. However, no studies have investigated how these individual factors may contribute to variance in PRF in mothers with SUD. In this study PRF and personality were assessed in 43 mothers with SUD. 
- 
-Methods: 
-PRF was assessed by the Parent Development Interview. Personality traits were assessed by the Revised Neuroticism-Extraversion-Openness Personality Inventory. 
- 
-Results: 
-The results indicate that higher levels of the Openness trait are associated with better PRF. 
- 
-Conclusion 
-Mothers low in Openness may need more specific and situational training in interpreting mental states in their children. Highly open mothers with SUD will likely need more help distinguishing the child’s mental states from their own, and might need help to maintain mutuality and regulating the intensity of their responses to the child’s behavior.
-  </article>
   <article id="contributors-article-FJZCREKC" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -71,7 +57,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

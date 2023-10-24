@@ -1,5 +1,5 @@
 ---
-title: "The New Normal Worklife: Lessons from the Pandemic"
+title: "LFCDZ2NQ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LFCDZ2NQ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2046159" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LFCDZ2NQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-LFCDZ2NQ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LFCDZ2NQ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-LFCDZ2NQ" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://papers.academic-conferences.org/index.php/eckm/article/download/782/443" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LFCDZ2NQ"></div>
 </article>
 <div id="csl-bib-meta-LFCDZ2NQ" class="csl-bib-meta">
-  <article id="abstract-article-LFCDZ2NQ" class="abstract-article">
-    <h1>Abstract</h1>
-    COVID-19 has contributed to a digitalization of communication, and in many cases to a distribution of an organization's workforce. Several organizations in Norway claim that they will adapt to a more flexible approach regarding allowing work from home (WFH) in a post-COVID-19 worklife and allow a more “hybrid” way of working. This paper describes how the long-term crisis has unfolded in a large governmental organization. The focus for the investigations have been on how the employees have experienced working from home, and how this will impact their post-COVID-19 worklife, all with a Knowledge Management (KM) perspective. Through qualitative interviews with managers’ and employees’ issues, like a lack of possibilities regarding informal communication and sharing of knowledge, have arisen. This implies that there is a need for addressing KM practices that secure a flow of information, learning conditions and job satisfaction in the post-COVID-19 workday. 
-  </article>
   <article id="contributors-article-LFCDZ2NQ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -131,13 +127,13 @@ Room 3Ø112
     <div class="sdg-container"><div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>54</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

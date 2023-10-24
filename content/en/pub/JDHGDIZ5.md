@@ -1,5 +1,5 @@
 ---
-title: "The effects of sexual shame, emotion regulation and gender on sexual desire"
+title: "JDHGDIZ5"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JDHGDIZ5" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2139540" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JDHGDIZ5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JDHGDIZ5" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JDHGDIZ5" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-JDHGDIZ5" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.nature.com/articles/s41598-023-31181-y.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JDHGDIZ5"></div>
 </article>
 <div id="csl-bib-meta-JDHGDIZ5" class="csl-bib-meta">
-  <article id="abstract-article-JDHGDIZ5" class="abstract-article">
-    <h1>Abstract</h1>
-    Sexual desire is of importance to sexual health, functioning, and well-being. Although an increasing number of studies address disorders related to sexual functioning, there is still a limited understanding of the underlying individual factors affecting sexual desire. The aim of the current study was to investigate the effect of sexual shame, emotion regulation strategies, and gender on sexual desire. In order to investigate this, sexual desire, expressive suppression, cognitive reappraisal, and sexual shame was measured in 218 Norwegian participants using the Emotion Regulation Questionnaire-10, the Sexual Desire Inventory-2, and the Sexual Shame Index-Revised. A multiple regression analysis indicated that cognitive reappraisal predicted sexual desire, β = 0.343, (218) = 5.09, p   0.05. Results from the current study indicates that the inclination toward cognitive reappraisal as a preferred emotion regulation strategy may positively affect the strength of sexual desire.
-  </article>
   <article id="contributors-article-JDHGDIZ5" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

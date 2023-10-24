@@ -1,5 +1,5 @@
 ---
-title: "Inkluderingsbegrepet under utvikling? En analyse av de norske læreplanverkene L97, LK06 og LK20"
+title: "LFRBI33K"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LFRBI33K" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2046650" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LFRBI33K" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-LFRBI33K" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LFRBI33K" class="csl-bib-button">Medverkande</a>
+    <a href="https://pedagogikkogkritikk.no/index.php/ntpk/article/download/3434/6736" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LFRBI33K"></div>
 </article>
 <div id="csl-bib-meta-LFRBI33K" class="csl-bib-meta">
-  <article id="abstract-article-LFRBI33K" class="abstract-article">
-    <h1>Samandrag</h1>
-    Etter Salamanca-erklæringen i 1994 om inkluderende opplæring er inkluderingsbegrepet – og tilstøtende begreper – flittig anvendt både globalt og nasjonalt. Det er likevel betydelig uklarhet om hva inkludering kan bety, samt hva det innebærer i skolen og i hele utdanningssystemet. På bakgrunn av dette undersøker vi de tre læreplanverkene for grunnskolen fra 1997, 2006 og 2020. Tidligere forskning og policydokumenter om inkludering ligger til grunn for studien, og vi har benyttet dokumentanalyse som metode. Funnene viser på den ene siden konsistens i de grunnleggende formuleringene om inkludering og likeverd, og på den andre siden spenninger og dilemmaer, blant annet en mulig dreining mot en skole med et snevrere kunnskapssyn. En slik dreining kan fungere ekskluderende for noen, kanskje spesielt for elever som er i sårbare situasjoner, en elevgruppe læreplanene sier relativt lite om. Samtidig vil kanskje LK20s økte vektlegging av skolens profesjonsfellesskap og av elevmedvirkning og demokrati, kunne ha et potensial til å styrke den inkluderende opplæringen
-  </article>
   <article id="contributors-article-LFRBI33K" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "The Actor: The Key Determinator in Service Ecosystems"
+title: "LDUCE2YG"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LDUCE2YG" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1471604" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LDUCE2YG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-LDUCE2YG" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LDUCE2YG" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.mdpi.com/2079-8954/5/2/38/pdf?version=1495186986" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LDUCE2YG"></div>
 </article>
 <div id="csl-bib-meta-LDUCE2YG" class="csl-bib-meta">
-  <article id="abstract-article-LDUCE2YG" class="abstract-article">
-    <h1>Samandrag</h1>
-    Most descriptions of service ecosystems, which provide the foundations for value co-creation, focus on resource integration. In contrast, this article emphasizes the actor’s key role as the foundation resource for value co-creation by looking at both societal- and individual-focused realms, which include the different social aspects of service ecosystems. Institutional arrangements, positions, schemas as mental models, and practices constitute the basis realms influencing the actor in his or her value creation. Societal- and individual-focused realms are dual structures that are in constant interaction. The interdependency of the realms is made apparent through the service ecosystem’s ability to define how resources are understood, assessed, and applied. A thorough examination of the realms that influence the actors embedded in service ecosystems suggests that social forces guide and are guided by actors. This article offers six guidelines for understanding the vital role of actors in service ecosystems.
-  </article>
   <article id="contributors-article-LDUCE2YG" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

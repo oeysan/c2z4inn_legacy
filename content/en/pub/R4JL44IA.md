@@ -1,5 +1,5 @@
 ---
-title: "Democracy in practice? The Norwegian public inquiry of the Alexander L. Kielland North-Sea oil platform disaster"
+title: "R4JL44IA"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-R4JL44IA" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1970686" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/R4JL44IA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-R4JL44IA" class="csl-bib-button">Contributors</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/14767430.2021.1995688?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-R4JL44IA"></div>
 </article>

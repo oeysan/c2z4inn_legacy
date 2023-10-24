@@ -1,5 +1,5 @@
 ---
-title: "Virtual Management During COVID-19: The Need for Context and Competence Development for Virtual Managers Because of the Pandemic"
+title: "8QX5FL9J"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8QX5FL9J" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2137066" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/8QX5FL9J" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-8QX5FL9J" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-8QX5FL9J" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-8QX5FL9J" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4018/978-1-7998-9840-5.ch009" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-8QX5FL9J"></div>
 </article>
 <div id="csl-bib-meta-8QX5FL9J" class="csl-bib-meta">
-  <article id="abstract-article-8QX5FL9J" class="abstract-article">
-    <h1>Abstract</h1>
-    Before the pandemic, research on management at a distance, here called virtual management, was characterized by a “best practice approach” where there was little differentiation dependent on context. COVID-19 has meant that employees with insufficient competence and in unsuitable jobs must work remotely. A more context- or situation-oriented perspective on virtual management is therefore needed. The authors identify new characteristics of virtual management during the pandemic and identify relevant context factors. Another point marginally discussed in previous research is what kind of competence-developments leaders need post COVID-19. The research questions are answered through a qualitative study with semi-structured interviews of experts, such as consultants in new ways of working, together with interviews of experienced practitioners.
-  </article>
   <article id="contributors-article-8QX5FL9J" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

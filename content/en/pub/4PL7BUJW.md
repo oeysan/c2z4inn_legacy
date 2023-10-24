@@ -1,5 +1,5 @@
 ---
-title: "Prøvenemnders tolkningsfellesskap og vurdering av fag- og svenneprøven"
+title: "4PL7BUJW"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4PL7BUJW" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2142014" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/4PL7BUJW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-4PL7BUJW" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/npt.107.2.6" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-4PL7BUJW"></div>
 </article>

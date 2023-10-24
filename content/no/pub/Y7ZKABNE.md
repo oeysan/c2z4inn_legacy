@@ -1,5 +1,5 @@
 ---
-title: "Moving far, staying close: red fox dispersal patterns revealed by SNP genotyping"
+title: "Y7ZKABNE"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Y7ZKABNE" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1912237" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Y7ZKABNE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-Y7ZKABNE" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Y7ZKABNE" class="csl-bib-button">Medverkande</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s10592-021-01332-7.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-Y7ZKABNE"></div>
 </article>
 <div id="csl-bib-meta-Y7ZKABNE" class="csl-bib-meta">
-  <article id="abstract-article-Y7ZKABNE" class="abstract-article">
-    <h1>Samandrag</h1>
-    The genetic structure of a population can provide important insights into animal movements at varying geographical scales. Individual and social behaviors, such as philopatry and dispersal, affect patterns of relatedness, age and sex structure, shaping the local genetic structure of populations. However, these fine scale patterns may not be detected within broader population genetic structure. Using SNP genotyping for pairwise relatedness estimates, we investigated the spatial and genetic structuring of 141 red foxes within south-central Sweden at two scales. First, we looked at broad scale population structuring among red foxes at the regional level. We then estimated pairwise relatedness values to evaluate the spatial and genetic structure of male, female and mixed sex pairs for patterns of philopatry and dispersal at a more localized scale. We found limited genetic differentiation at the regional scale. However, local investigations revealed patterns of female philopatry and male biased dispersal. There were significant differences in pairwise geographic distances between highly related same sex pairs with the average distance between related males, 37.8 km, being six times farther than that of related females, averaging 6.3 km. In summary, the low levels of genetic differentiation found in this study illustrates the mobility and dispersal ability of red foxes across scales. However, relatedness plays a strong role in the spatial organization of red foxes locally, ultimately contributing to male biased dispersal patterns.
-  </article>
   <article id="contributors-article-Y7ZKABNE" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Moving Toward Collaborative Service Recovery: A Multiactor Orientation"
+title: "KIBFW5K3"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,20 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KIBFW5K3" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1723530" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/KIBFW5K3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-KIBFW5K3" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KIBFW5K3" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-KIBFW5K3" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://pubsonline.informs.org/doi/pdf/10.1287/serv.2019.0241" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-KIBFW5K3"></div>
 </article>
 <div id="csl-bib-meta-KIBFW5K3" class="csl-bib-meta">
-  <article id="abstract-article-KIBFW5K3" class="abstract-article">
-    <h1>Samandrag</h1>
-    Within service recovery research, service failures have traditionally been handled by the firm in an effort to turn an unpleasant experience into a more favorable one. More recent service research, in which the customer’s role is more pronounced, suggests that the customer is not a passive recipient of a firms recovery efforts but a cocreator of the recovery solution. As a response, considerable effort has been devoted to exploring how the customer and the firm together can effectively integrate resources such as time and effort to rectify an unpleasant experience. However, prior conceptualizations fall short of taking adequate account of the complexity of service recovery encounters in which multiple actors collaborate and integrate resources. To address this, the present study explores how multiactor collaborations influence the customer’s experience of service recovery by adopting a multiactor orientation and by applying service-dominant logic. After reviewing the customer experience literature, a collaborative recovery experience framework is developed that emphasizes the joint efforts of multiple actors and customers to achieve a favorable recovery experience. In a contextualization, this study presents the usefulness of the new framework in how to explain customer experiences in collaborative service processes, and further research avenues are proposed.
-Service recovery research has traditionally been firm-centric, focusing primarily on the time and effort expended by firms in addressing service failures. The subsequent shift to a customer-centric orientation addressed the customer’s role in recovery situations, and the recent dyadic orientation has explored the effectiveness of their joint efforts. However, earlier conceptualizations failed to take adequate account of the complexity of service recovery encounters in which multiple actors collaborate and integrate resources. This study explores how multiactor collaborations influence the customer’s experience of service recovery by adopting a multiactor orientation and by applying service-dominant logic. After reviewing the customer experience literature, a collaborative recovery experience framework is developed that emphasizes the joint efforts of multiple actors and customers to achieve a favorable recovery experience. In a contextualization, the usefulness of the new framework to explain customer experiences in collaborative service processes is shown. Finally, further research avenues are proposed.
-  </article>
   <article id="contributors-article-KIBFW5K3" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -101,7 +96,7 @@ Rom 3Ø012
     <div class="sdg-container"><div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

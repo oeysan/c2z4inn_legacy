@@ -1,5 +1,5 @@
 ---
-title: "A mixed-methods exploration of virtual reality as a tool to promote green exercise"
+title: "V2DC9FKF"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-V2DC9FKF" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2011435" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/V2DC9FKF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-V2DC9FKF" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-V2DC9FKF" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-V2DC9FKF" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.nature.com/articles/s41598-022-09622-x.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-V2DC9FKF"></div>
 </article>
 <div id="csl-bib-meta-V2DC9FKF" class="csl-bib-meta">
-  <article id="abstract-article-V2DC9FKF" class="abstract-article">
-    <h1>Abstract</h1>
-    The salutogenic effects of green exercise are widely recognised, yet many individuals do not engage in this health-related behaviour. Using a convergent mixed methods approach, this study explored the impact of Virtual Reality (VR) mediated nature exposure on the decision-making process relating to green exercise. Three experimental trials were conducted (overall n = 136), in which healthy adults were exposed to different VR scenarios reproducing a virtual walk in an existing urban green area. Participants reported medium-high rating of intent to visit the location. Significant pre-to-post increments in future green exercise intention were observed after the VR exposure, though a significance difference was not achieved in comparison with a control condition. Qualitative analysis revealed the impact of the VR experience on behaviour regulation, and highlighted the pivotal role of anticipated emotional benefits. Despite scepticism, the VR experience was effective in arousing curiosity to explore natural environments, which was associated with environmental perceptions, nostalgic and socio-cultural perspectives.
-  </article>
   <article id="contributors-article-V2DC9FKF" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -229,7 +225,7 @@ Room 4R4145
     <div class="sdg-container"><div id="sdg11" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>23</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=11#archive" class="sdg-publication-count"><span>23</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

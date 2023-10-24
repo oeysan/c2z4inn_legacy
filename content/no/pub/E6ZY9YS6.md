@@ -1,5 +1,5 @@
 ---
-title: "Autisme og aldring i et utviklingsperspektiv: hva vet vi om voksne og eldre med en autismespekterdiagnose?"
+title: "E6ZY9YS6"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E6ZY9YS6" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1552101" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/E6ZY9YS6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-E6ZY9YS6" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-E6ZY9YS6" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-E6ZY9YS6"></div>
 </article>
 <div id="csl-bib-meta-E6ZY9YS6" class="csl-bib-meta">
-  <article id="abstract-article-E6ZY9YS6" class="abstract-article">
-    <h1>Samandrag</h1>
-    Autismespekterdiagnoser eller -tilstander (ASD) regnes som livslange. De som arbeider innenfor psykisk helsevern for voksne, i eldreomsorgen, i hjemmesykepleien eller på ulike institusjoner, vil sannsynligvis komme i kontakt med eldre personer med en oftest udiagnostisert, autistisk tilstand. Den utstrakte forskningen på ASD gjennom de siste tiårene har imidlertid i stor grad vært rettet mot barn og ungdom. Dermed er det et stort behov for kunnskap om eldre personer med ASD, med særlig fokus på kognitive særtrekk, karakteristisk atferd og de psykiske problemene som ofte forekommer sammen med ASD. I denne boken samler og diskuterer Nils Kaland det som finnes av forskning på feltet. Han beskriver også en rekke mulige pedagogiske og psykologiske tiltak. Bokens målgruppe er personer som arbeider innenfor eldreomsorgen, fagfolk innenfor autismefeltet, leger, psykologer og annet helsepersonell, samt studenter i utdanninger som psykologi, pedagogikk, spesialpedagogikk og sosialfag. Den er også relevant for familiene til personer med ASD. En betydelig del av stoffet omhandler ASD generelt, og lesere som ikke primært er interessert i eldre personer med ASD, vil også kunne ha utbytte av boken. Gro Dahle har skrevet forordet i boken. Nils Kaland er dr.polit. og professor i kognitiv psykologi ved Høgskolen i Innlandet. Fra Universitetet i Oslo har han doktorgrad innenfor Asperger syndrom og kognitive funksjoner hos barn og ungdom. Han har gjennom en årrekke publisert forskning i norske og internasjonale fagtidsskrifter og formidlet om autismespektertilstander på ulike arenaer.
-  </article>
   <article id="contributors-article-E6ZY9YS6" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

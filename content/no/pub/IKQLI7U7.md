@@ -1,5 +1,5 @@
 ---
-title: "Hydrothermal Pretreatment of Lignocellulosic Feedstocks to Facilitate Biochemical Conversion"
+title: "IKQLI7U7"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IKQLI7U7" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2042501" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/IKQLI7U7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-IKQLI7U7" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IKQLI7U7" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-IKQLI7U7" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fbioe.2022.846592/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-IKQLI7U7"></div>
 </article>
 <div id="csl-bib-meta-IKQLI7U7" class="csl-bib-meta">
-  <article id="abstract-article-IKQLI7U7" class="abstract-article">
-    <h1>Samandrag</h1>
-    Biochemical conversion of lignocellulosic feedstocks to advanced biofuels and other bio-based commodities typically includes physical diminution, hydrothermal pretreatment, enzymatic saccharification, and valorization of sugars and hydrolysis lignin. This approach is also known as a sugar-platform process. The goal of the pretreatment is to facilitate the ensuing enzymatic saccharification of cellulose, which is otherwise impractical due to the recalcitrance of lignocellulosic feedstocks. This review focuses on hydrothermal pretreatment in comparison to alternative pretreatment methods, biomass properties and recalcitrance, reaction conditions and chemistry of hydrothermal pretreatment, methodology for characterization of pretreatment processes and pretreated materials, and how pretreatment affects subsequent process steps, such as enzymatic saccharification and microbial fermentation. Biochemical conversion based on hydrothermal pretreatment of lignocellulosic feedstocks has emerged as a technology of high industrial relevance and as an area where advances in modern industrial biotechnology become useful for reducing environmental problems and the dependence on fossil resources.
-  </article>
   <article id="contributors-article-IKQLI7U7" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 2N1247
     <div class="sdg-container"><div id="sdg6" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg06_no.png" class="image" alt="SDG 6">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>26</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=6#archive" class="sdg-publication-count"><span>29</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/rent-vann-og-gode-sanitaerforhold?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

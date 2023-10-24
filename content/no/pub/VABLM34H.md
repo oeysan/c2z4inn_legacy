@@ -1,5 +1,5 @@
 ---
-title: "Myndighetenes forventninger til pårørende som samprodusenter i omsorgstjenester"
+title: "VABLM34H"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VABLM34H" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1573126" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VABLM34H" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VABLM34H" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.idunn.no/file/pdf/67050107/myndighetenes_forventninger_til_paaroerende_som_samprodusente.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VABLM34H"></div>
 </article>

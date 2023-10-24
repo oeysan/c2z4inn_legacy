@@ -1,5 +1,5 @@
 ---
-title: "The concept of time in Joachim Trier’s Reprise"
+title: "4SD7EKPC"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4SD7EKPC" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1746323" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/4SD7EKPC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-4SD7EKPC" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-4SD7EKPC" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1386/jsca.9.2.197_1" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-4SD7EKPC"></div>
 </article>
 <div id="csl-bib-meta-4SD7EKPC" class="csl-bib-meta">
-  <article id="abstract-article-4SD7EKPC" class="abstract-article">
-    <h1>Abstract</h1>
-    In Joachim Trier’s debut film, Reprise (2006), the concept of time is a key feature. Time is embedded as self-reflexive by way of several narrative devices, including the reordering of chronology and projections of imaginable events. Time is also central to depictions of the characters’ experiences and states of mind. This article attempts to untangle the modes of temporality at play in the film and offers some interpretative pathways by which they can be understood.
-  </article>
   <article id="contributors-article-4SD7EKPC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

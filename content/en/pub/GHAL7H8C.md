@@ -1,5 +1,5 @@
 ---
-title: "(Re)Reading Pop Personae: A Transmedial Approach to Studying the Multiple Construction of Artist Identities"
+title: "GHAL7H8C"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GHAL7H8C" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1711393" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GHAL7H8C" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GHAL7H8C" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GHAL7H8C" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-GHAL7H8C" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1017/S1478572219000276" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-GHAL7H8C"></div>
 </article>
 <div id="csl-bib-meta-GHAL7H8C" class="csl-bib-meta">
-  <article id="abstract-article-GHAL7H8C" class="abstract-article">
-    <h1>Abstract</h1>
-    This article engages with a wide range of existing literature relevant to understanding the artist persona in popular music, and advocates a view of personae as multiply constructed through sound recordings, music videos, live performances, interviews, social media posts, and a variety of other means. In an initial effort to theorize pop personae as transmedial phenomena, I merge a critical musicological understanding of the performative potential of aesthetics with perspectives from celebrity studies and media studies to produce new insights into how personae are articulated across a variety of disparate but intersecting spaces. Through a case study of Sam Smith, I demonstrate how the signs and symbols scattered across numerous platforms are aggregated in the pop persona, and elucidate the interpretive possibilities afforded by different points of contact between artist and audience. I conclude that the task of reading pop personae amounts to an assessment of the conglomerate of texts and contexts that shape both the production and the reception of pop expressions.
-  </article>
   <article id="contributors-article-GHAL7H8C" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Room 2K223
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Outcome expectancies moderate the association between worry about climate change and personal energy-saving behaviors"
+title: "CA7NV5R2"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CA7NV5R2" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1912083" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/CA7NV5R2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-CA7NV5R2" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CA7NV5R2" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-CA7NV5R2" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0252105&amp;type=printable" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-CA7NV5R2"></div>
 </article>
 <div id="csl-bib-meta-CA7NV5R2" class="csl-bib-meta">
-  <article id="abstract-article-CA7NV5R2" class="abstract-article">
-    <h1>Samandrag</h1>
-    This paper explores whether efficacy beliefs can alter the relationship between worry about climate change and personal energy-saving behaviors, controlling for climate change beliefs and socio-demographics. For this purpose, we used data from 23 countries that participated in the European Social Survey Round 8 (N = 44 387). Worry about climate change, personal efficacy, personal outcome expectancy, and collective outcome expectancy were each associated with personal energy-saving behaviors concerning either energy curtailment or energy efficiency. The results further show that outcome expectancies moderate the association between worry about climate change and both types of energy behaviors. Worry was more strongly related to energy curtailment behaviors among those with high levels of personal and collective outcome expectancy. A similar pattern was found for energy efficiency behaviors, which were more strongly predicted by worry about climate change when combined with high levels of collective outcome expectancy. These findings are relevant for climate change communication, especially informational campaigns aiming to lower overall household energy use.
-  </article>
   <article id="contributors-article-CA7NV5R2" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg13" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg13_no.png" class="image" alt="SDG 13">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>43</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=13#archive" class="sdg-publication-count"><span>45</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/stoppe-klimaendringene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

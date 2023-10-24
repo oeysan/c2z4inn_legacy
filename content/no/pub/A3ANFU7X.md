@@ -1,5 +1,5 @@
 ---
-title: "Superior On-Ice Performance After Short-Interval vs. Long-Interval Training in Well-Trained Adolescent Ice Hockey Players"
+title: "A3ANFU7X"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-A3ANFU7X" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1929309" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/A3ANFU7X" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-A3ANFU7X" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-A3ANFU7X" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1519/JSC.0000000000004113" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-A3ANFU7X"></div>
 </article>
 <div id="csl-bib-meta-A3ANFU7X" class="csl-bib-meta">
-  <article id="abstract-article-A3ANFU7X" class="abstract-article">
-    <h1>Samandrag</h1>
-    The purpose of this study was to compare the effects of 9 weeks with 3 weekly sessions of short intervals (SIs) against long intervals (LIs) on endurance performance in well-trained adolescent ice hockey players. Eighteen male adolescent ice hockey players volunteered to participate and were randomly allocated to perform SIs (n = 9; 3 series with 13 × 30 seconds work intervals) or LIs (n = 7; 4 series of 5 minutes work intervals). Subjects completed a skating multistage aerobic test (SMAT), maximal oxygen consumption, maximal power output, and maximal isokinetic knee-extensor strength tests before and after the intervention, and changes in performance were assessed using analysis of variance (p ≤ 0.05). Short intervals improved SMAT performance more from pretest to post-test than LIs (13.9 ± 8.1% vs. 3.7 ± 5.2%, respectively; p = 0.030, effect size [ES] = 1.48). No significant differences were observed between SIs and LIs in change of maximal oxygen uptake (SI: 3.8 ± 6.1% vs. LI: −0.4 ± 10.2%; p = 0.30) or 60 seconds maximal power output (SI: 1.0 ± 4.9% vs. LI: −3.7 ± 4.1%; p = 0.053). However, ESs were moderate (ES = 0.55) and large (ES = 1.07), respectively, in favor of SI for these dependent variables. There were no changes in isokinetic knee-extension strength (p &gt; 0.05). The present SI protocol induced superior improvements in on-ice endurance performance compared with the LI protocol. Practitioners seeking to improve ice hockey players' on-ice endurance performance should consider including SI in their conditioning protocol.
-  </article>
   <article id="contributors-article-A3ANFU7X" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

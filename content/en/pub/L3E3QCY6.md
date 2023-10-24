@@ -1,5 +1,5 @@
 ---
-title: "Nurses' contributions to health: Perceptions of first-year nursing students in Scandinavia and Indonesia"
+title: "L3E3QCY6"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-L3E3QCY6" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1514771" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/L3E3QCY6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-L3E3QCY6" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-L3E3QCY6" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/2057158517747181" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-L3E3QCY6"></div>
 </article>
 <div id="csl-bib-meta-L3E3QCY6" class="csl-bib-meta">
-  <article id="abstract-article-L3E3QCY6" class="abstract-article">
-    <h1>Abstract</h1>
-    Nursing students need an understanding of how nurses care for people's health from a global perspective. The aim of this study was to explore how nurses can contribute to health from the perspectives of first-year nursing students in Scandinavia (Sweden, Norway) and Indonesia. Data were collected using an open-ended question about nurses’ contribution to health, and analysed using qualitative content analysis. Three common categories emerged: ‘Promoting health and preventing disease’, ‘Performing care and treatment’, ‘Establishing a relationship with patients and being compassionate’. ‘Possessing and implementing knowledge and skills’ was common to Norway and Indonesia. ‘Being a team member’ was emphasised by the Indonesian participants. The Norwegian participants focused on health promotion, whereas those from Indonesia prioritised disease prevention. The Scandinavian participants emphasised individuality, while those from Indonesia focused on the community. The findings indicate that nursing education should take account of different cultures and include student exchange programmes.
-  </article>
   <article id="contributors-article-L3E3QCY6" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

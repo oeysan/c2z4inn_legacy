@@ -1,5 +1,5 @@
 ---
-title: "Endogenous wisdom in action—the positive deviance approach: an alternative conceptualization of communication and social change praxis"
+title: "ANYA2L3Q"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ANYA2L3Q" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1928530" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ANYA2L3Q" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ANYA2L3Q" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-ANYA2L3Q"></div>

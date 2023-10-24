@@ -1,5 +1,5 @@
 ---
-title: "Determinants of the Forward Premium in the Nord Pool Electricity Market"
+title: "3NPRZAWB"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3NPRZAWB" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1818125" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3NPRZAWB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-3NPRZAWB" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3NPRZAWB" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-3NPRZAWB" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/1996-1073/13/5/1111/pdf?version=1583922384" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3NPRZAWB"></div>
 </article>
 <div id="csl-bib-meta-3NPRZAWB" class="csl-bib-meta">
-  <article id="abstract-article-3NPRZAWB" class="abstract-article">
-    <h1>Samandrag</h1>
-    Nord Pool is the leading power market in Europe. It has been documented that the forward contracts traded in this market exhibit a significant forward premium, which could be a sign of market inefficiency. Efficient power markets are important, especially when there is a goal to increase the share of the power mix stemming from renewable energy sources. We therefore contribute to the understanding of this topic by examining how the forward premium in the Nord Pool market depend on several economic and physical conditions. We utilise two methods: ordinary least squares and quantile regression. The results show that the reservoir level and the basis (the difference between the forward and spot price) have a significant impact on the forward premium. The realised volatility of futures prices and the implied volatility of the stock market have strong effects on both the conditional lower and upper tails of the forward premium. We also find that, as the market has matured, the forward premium has decreased, indicating an increase in market efficiency.
-  </article>
   <article id="contributors-article-3NPRZAWB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg7" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg07_no.png" class="image" alt="SDG 7">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>27</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=7#archive" class="sdg-publication-count"><span>27</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/ren-energi-til-alle?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

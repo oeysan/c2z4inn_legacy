@@ -1,5 +1,5 @@
 ---
-title: "Moisture buffering, energy potential, and volatile organic compound emissions of wood exposed to indoor environments"
+title: "7R55FZWD"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7R55FZWD" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1465269" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7R55FZWD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-7R55FZWD" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7R55FZWD" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-7R55FZWD" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/23744731.2017.1288503" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-7R55FZWD"></div>
 </article>
 <div id="csl-bib-meta-7R55FZWD" class="csl-bib-meta">
-  <article id="abstract-article-7R55FZWD" class="abstract-article">
-    <h1>Samandrag</h1>
-    The use of wood in built environments has been increasing during the last decades, and more focus has been set on the influence of wood surfaces on indoor environments on the objective and subjective measures of human well-being. In addition, the moisture buffer capacity of hygroscopic materials, such as wood, has been under investigation in order to quantify the impact of wooden surfaces on energy savings in buildings. The current study presents the results of wood surfaces and indoor air temperatures as well as indoor air relative humidity measured in two solid timber test houses. The findings reveal a substantial effect on wood surface temperature under fluctuating indoor relative humidity due to the latent heat of sorption of water vapors. The results were compared with hygrothermal numerical simulations, showing good agreement and the validated numerical model was used in order to quantify the energy performance in a bathroom when the latent heat of sorption is exploited. The combination of wood with a well-controlled HVAC system in rooms with moisture production shows significant potential for indirect energy savings by adjusting the indoor temperature and exploiting the increase of surface temperature in the hygroscopic structure. Furthermore, the emissions of volatile organic compounds from pine wood were studied in laboratory facilities, with focus on the variations of emissions due to diurnal fluctuations in air humidity. Human participants were exposed in a large test chamber to a concealed source of volatile organic compound emissions in the form of fresh pine wood, while the actual exposure reached air levels of monoterpenes up to 18 mg/m3 during the intervention situation. Perceptions of air quality and mucosal irritation effects were reported in a standard questionnaire during this double-blind test with no irritation effects reported.
-  </article>
   <article id="contributors-article-7R55FZWD" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -67,7 +63,7 @@ Rom 4L3202
     <div class="sdg-container"><div id="sdg7" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg07_no.png" class="image" alt="SDG 7">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>27</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=7#archive" class="sdg-publication-count"><span>27</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/ren-energi-til-alle?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

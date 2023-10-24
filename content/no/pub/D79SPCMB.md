@@ -1,5 +1,5 @@
 ---
-title: "When the first language feels like a second language: Challenges for learners of Norwegian Nynorsk"
+title: "D79SPCMB"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-D79SPCMB" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1738383" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/D79SPCMB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-D79SPCMB" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-D79SPCMB" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-D79SPCMB" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://czasopisma.bg.ug.edu.pl/index.php/beyond/article/download/4040/3365" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-D79SPCMB"></div>
 </article>
 <div id="csl-bib-meta-D79SPCMB" class="csl-bib-meta">
-  <article id="abstract-article-D79SPCMB" class="abstract-article">
-    <h1>Samandrag</h1>
-    Norway has two official written language varieties: Bokmål (DanoNorwegian) and Nynorsk (New Norwegian). Normally, all Norwegian pupils must learn both varieties of the written Norwegian language in school, and at the end of secondary school, they obtain two separate grades in written Norwegian. However, one of the varieties is considered to be and is taught as the main written language, whereas the other variety is the second or alternative written language. Approximately 85 percent of the pupils in school have the DanoNorwegian variety as their main written language and many of these pupils develop antipathies toward the other variety with the result that they do not master it very well at the end of secondary school. In fact, many pupils achieve better results in English than in the alternative variety of their own so-called mother tongue. In this paper, I will discuss some of the challenges that are related to learning Nynorsk in the Norwegian educational system and society. With reference to Norton (2013) and others, I will argue that these challenges may actually be best understood from the perspectives of identity, social power, motivation, investment and second language acquisition.
-  </article>
   <article id="contributors-article-D79SPCMB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -67,7 +63,7 @@ Rom 2C256-7
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

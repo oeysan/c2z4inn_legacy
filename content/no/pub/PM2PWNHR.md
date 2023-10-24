@@ -1,5 +1,5 @@
 ---
-title: "Preconditions of coordination in regional public organizations"
+title: "PM2PWNHR"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PM2PWNHR" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2120788" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PM2PWNHR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-PM2PWNHR" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PM2PWNHR" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-PM2PWNHR" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.1080/14719037.2022.2134915" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PM2PWNHR"></div>
 </article>
 <div id="csl-bib-meta-PM2PWNHR" class="csl-bib-meta">
-  <article id="abstract-article-PM2PWNHR" class="abstract-article">
-    <h1>Samandrag</h1>
-    Involving several levels ranging from policy-making to service delivery, the coor- dination of regional public organizations is a complex matter. This paper explores how relational preconditions affect regional public organizations’ coordination activities and outcomes. A model is developed that links relational preconditions to coordination outcomes. Even though the coordination mechanisms and instru- ments are used, the coordination outcome might vary based on the individuals and the relationships among individuals. This study suggests that the use of coordination mechanisms and in turn coordination outcome, is affected by the individuals’ personal beliefs and personal relationships as well as trust in the vertical organization.
-  </article>
   <article id="contributors-article-PM2PWNHR" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,13 +59,13 @@ Rom 3Ø007
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

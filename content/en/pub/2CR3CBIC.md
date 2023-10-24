@@ -1,5 +1,5 @@
 ---
-title: "A Phenomenological Heuristic for Ecopsychology Research"
+title: "2CR3CBIC"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,20 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2CR3CBIC" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1845494" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/2CR3CBIC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-2CR3CBIC" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-2CR3CBIC" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1089/eco.2020.0037" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-2CR3CBIC"></div>
 </article>
 <div id="csl-bib-meta-2CR3CBIC" class="csl-bib-meta">
-  <article id="abstract-article-2CR3CBIC" class="abstract-article">
-    <h1>Abstract</h1>
-    The question of humans’ lost connection with the natural environment appears more intimidating, relevant, and urgent than ever. How can the link between humans and the natural environment be re-established? In this article we underscore that phenomenology can offer a suitable and helpful perspective to answer this question. Ecophenomenological approaches have appropriated phenomenological philosophy to stress the importance of connecting with nature 
-and some have contributed with empirically based phenomenological studies. Our purpose is to provide a heuristic that can help structure further phenomenological exploration of how humans connect to nature. The Umwelt, Mitwelt, and Eigenwelt heuristic, based on phenomenology, functions to distinguish between nature as meaningfully structured by human experiences, human intersubjectivity that undergirds this, and the individual act of constituting 
-meaning. We describe and discuss Husserlian descriptive phenomenological perspectives on connectivity, intersubjectivity, and empathy, and how these may inform research in the field.
-  </article>
   <article id="contributors-article-2CR3CBIC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

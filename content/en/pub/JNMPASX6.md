@@ -1,5 +1,5 @@
 ---
-title: "Jews and Judaism in Norway today"
+title: "JNMPASX6"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JNMPASX6" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1631904" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JNMPASX6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JNMPASX6" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JNMPASX6" class="csl-bib-button">Contributors</a>
+    <a href="https://journal.fi/nj/article/download/70297/37617" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JNMPASX6"></div>
 </article>
 <div id="csl-bib-meta-JNMPASX6" class="csl-bib-meta">
-  <article id="abstract-article-JNMPASX6" class="abstract-article">
-    <h1>Abstract</h1>
-    This address was given as part of a podium discussion on Judaism in Norway today held at the Jewish Museum in Oslo on 4 March 2018. Other participants in the panel were Rabbi Lynn Feinberg (Jewish Renewal movement), Rabbi Joav Melchior (Orthodox movement, current rabbi of Det Mosaiske Trossamfund in Oslo), Rabbi Shaul Wilhelm (Chabad shaliach in Oslo) and Professor Catherine Hezser (SOAS, London, and University of Oslo) as chair. The comments argue that Judaism in Norway is diverse and relatively unknown, with a majority of Jews in Norway probably being uncounted in current population estimates. As such there is no single experience of Norwegian Jewish identity.
-  </article>
   <article id="contributors-article-JNMPASX6" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

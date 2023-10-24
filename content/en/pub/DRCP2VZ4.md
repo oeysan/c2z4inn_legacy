@@ -1,5 +1,5 @@
 ---
-title: "Analysis of differences and commonalities in wildlife hunting across the Africa-Europe South-North gradient"
+title: "DRCP2VZ4"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DRCP2VZ4" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2048633" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/DRCP2VZ4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-DRCP2VZ4" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-DRCP2VZ4" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-DRCP2VZ4" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3001707&amp;type=printable" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-DRCP2VZ4"></div>
 </article>
 <div id="csl-bib-meta-DRCP2VZ4" class="csl-bib-meta">
-  <article id="abstract-article-DRCP2VZ4" class="abstract-article">
-    <h1>Abstract</h1>
-    Hunting and its impacts on wildlife are typically studied regionally, with a particular focus on the Global South. Hunting can, however, also undermine rewilding efforts or threaten wildlife in the Global North. Little is known about how hunting manifests under varying socioeconomic and ecological contexts across the Global South and North. Herein, we examined differences and commonalities in hunting characteristics across an exemplary Global South-North gradient approximated by the Human Development Index (HDI) using face-to-face interviews with 114 protected area (PA) managers in 25 African and European countries. Generally, we observed that hunting ranges from the illegal, economically motivated, and unsustainable hunting of herbivores in the South to the legal, socially and ecologically motivated hunting of ungulates within parks and the illegal hunting of mainly predators outside parks in the North. Commonalities across this Africa-Europe South-North gradient included increased conflict-related killings in human-dominated landscapes and decreased illegal hunting with beneficial community conditions, such as mutual trust resulting from community involvement in PA management. Nevertheless, local conditions cannot outweigh the strong effect of the HDI on unsustainable hunting. Our findings highlight regional challenges that require collaborative, integrative efforts in wildlife conservation across actors, while identified commonalities may outline universal mechanisms for achieving this goal.
-  </article>
   <article id="contributors-article-DRCP2VZ4" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -62,7 +58,7 @@ Campus Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

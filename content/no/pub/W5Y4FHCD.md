@@ -1,5 +1,5 @@
 ---
-title: "Treatment Experiences with Norwegian Health Care among Immigrant Men Living with Co-Occurring Substance Use- and Mental Health Disorders"
+title: "W5Y4FHCD"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-W5Y4FHCD" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1855183" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/W5Y4FHCD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-W5Y4FHCD" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-W5Y4FHCD" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-W5Y4FHCD" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://journals.sagepub.com/doi/pdf/10.1177/1178221820970929" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-W5Y4FHCD"></div>
 </article>
 <div id="csl-bib-meta-W5Y4FHCD" class="csl-bib-meta">
-  <article id="abstract-article-W5Y4FHCD" class="abstract-article">
-    <h1>Samandrag</h1>
-    Immigrants are considered at risk of psychological distress and therefore involvement in substance abuse, due to a variety of pre- and post-migration factors. Further, there is lower treatment engagement, a higher dropout rate, and less frequent hospitalizations among this group compared to the general population. There are few studies on the subjective understanding of co-occurring substance use disorder (SUD) and mental health disorder (MHD) among immigrants in Norway. This qualitative study aims to explore the treatment experiences of immigrant men living with co-occurring SUD and MHD. Within a collaborative approach, individual interviews were conducted with 10 men of immigrant background, living with co-occurring SUD and MHD, who had treatment experiences from the Norwegian mental health and addiction services. Data were analyzed using a systematic text condensation. The analysis yielded 6 categories where participants described their treatment experiences in mental health and addiction services in Norway as: lack of connection, lack of individually tailored treatment, stigma and discrimination preventing access to treatment, health professionals with multi-cultural competence, care during and after treatment, and raising awareness and reducing stigma. A significant finding was the mention by participants of the value of being seen and treated as a “person” rather than their diagnosis, which may increase treatment engagement. They further mentioned aftercare as an important factor to prevent relapse. This study provides an enhanced understanding of how immigrant men living with co-occurring SUD and MHD experienced being treated in Norwegian healthcare settings. These experiences may add to the knowledge required to improve treatment engagement.
-  </article>
   <article id="contributors-article-W5Y4FHCD" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -101,13 +97,13 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

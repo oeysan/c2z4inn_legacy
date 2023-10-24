@@ -1,5 +1,5 @@
 ---
-title: "The co-performation of financial economics in accounting standard-setting: A study of the translation of the expected credit loss model in IFRS9"
+title: "3X4ZULD7"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3X4ZULD7" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1779165" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3X4ZULD7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://research-api.cbs.dk/ws/files/60835475/peter_sk_rb_k_et_al_the_co_performation_of_financial_economics_acceptedversion.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3X4ZULD7"></div>
 </article>

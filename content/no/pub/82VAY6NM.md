@@ -1,5 +1,5 @@
 ---
-title: "The Brown bear as a translational model for sedentary lifestyle-related diseases"
+title: "82VAY6NM"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-82VAY6NM" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1739008" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/82VAY6NM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-82VAY6NM" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-82VAY6NM" class="csl-bib-button">Medverkande</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/joim.12983" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-82VAY6NM"></div>
 </article>
 <div id="csl-bib-meta-82VAY6NM" class="csl-bib-meta">
-  <article id="abstract-article-82VAY6NM" class="abstract-article">
-    <h1>Samandrag</h1>
-    Sedentary lifestyle accelerates biological aging, is a major risk factor for developing metabolic syndrome and is associated with cardiovascular disease, diabetes mellitus, kidney failure, sarcopenia and osteoporosis. In contrast to the linear path to worsening health in humans with metabolic syndrome, brown bears have developed a circular metabolic plasticity enabling these animals to tolerate obesity and a “sedentary lifestyle” during hibernation and exit the den metabolically healthy in spring. Bears are close to humans physiology‐wise, much closer than rodents, the preferred experimental animals in medical research, and may better serve as translational model to develop treatments for lifestyle‐related diseases. In this review aspects of brown bear hibernation survival strategies are outlined and conceivable experimental strategies to learn from bears are described.Brown bear; hibernation; metabolic syndrome; translational research
-  </article>
   <article id="contributors-article-82VAY6NM" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

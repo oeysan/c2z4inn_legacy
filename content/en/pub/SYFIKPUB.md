@@ -1,5 +1,5 @@
 ---
-title: "Tilgang til fellesskap i den flerkulturelle barnehagen"
+title: "SYFIKPUB"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,17 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SYFIKPUB" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1822274" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SYFIKPUB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-SYFIKPUB" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://www.ntnu.no/ojs/index.php/BARN/article/download/3705/3474" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-SYFIKPUB"></div>
 </article>
 <div id="csl-bib-meta-SYFIKPUB" class="csl-bib-meta">
-  <article id="abstract-article-SYFIKPUB" class="abstract-article">
-    <h1>Abstract</h1>
-    Det ligger i norske barnehagers mandat at personalet skal inkludere alle barn gjennom å verdsette forskjeller i barnegruppen, samtidig som de skal utvikle noe felles (Kunnskapsdepartementet 2017: 9). Studier fra flerkulturelle barnehager viser imidlertid at barns språklige og kulturelle bakgrunn kan ha betydning for om de gis like muligheter til å medvirke og delta i fellesskapet. I denne artikkelen diskuterer jeg hvordan ulike former for norsk tilhørighet kan ha betydning for inkludering og ekskludering i barnehagen. I lys av Bakhtins teorier om kommunikasjonssfærer og talesjangere, analyserer jeg dialoger i en flerkulturell barnehage. På bakgrunn av analysene stiller jeg spørsmål om hvorvidt barnehagen, til tross for intensjoner om likeverdig deltakelse, er preget av innforståtte og subtile kommunikasjonsformer som kan virke ekskluderende på barn som har erfaringer som ikke er sammenfallende med majoriteten.
-  </article>
   <article id="taxonomy-article-SYFIKPUB" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>

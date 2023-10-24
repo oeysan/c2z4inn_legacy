@@ -1,5 +1,5 @@
 ---
-title: "Tru, språk, historie: heidersskrift til Per Halse"
+title: "EL6ZEC6T"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,20 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EL6ZEC6T" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2034681" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/EL6ZEC6T" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-EL6ZEC6T" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EL6ZEC6T" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-EL6ZEC6T"></div>
 </article>
 <div id="csl-bib-meta-EL6ZEC6T" class="csl-bib-meta">
-  <article id="abstract-article-EL6ZEC6T" class="abstract-article">
-    <h1>Samandrag</h1>
-    Per Halse, professor i kristendomskunnskap, religion, livssyn og etikk (KRLE) ved Høgskulen i Volda, fylte 65 år 24. januar 2022. Han har særleg arbeidd med emne innan bibelfag og norsk skule- og kyrkjehistorie. Framfor alt har han levert sentrale bidrag til historia om nynorsk kyrkjespråk. Dette var tema for doktoravhandlinga hans frå 2009, eit viktig pionerarbeid som seinare mellom anna har vorte utdjupa og supplert gjennom biografien om Peter Hognestad frå 2016 og i boka om Fyrebilsbibelen som kom til hundreårsjubileet i 2021. Halse er ein framifrå formidlar innanfor sine forskingsområde, og han har skrive fleire lærebøker for høgre utdanning. Han har hatt leiaroppgåver både i og utanfor høgskulemiljøet. 
- 
-I dette heidersskriftet blir Per Halse hylla av fagfellar, kollegaer og vener. Tittelen Tru, språk, historie og dei tolv artiklane i boka speglar forskingsinteressene til jubilanten. Bidraga spenner over både kyrkjehistoriske, litteraturhistoriske, språkhistoriske og didaktiske emne.
-  </article>
   <article id="contributors-article-EL6ZEC6T" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

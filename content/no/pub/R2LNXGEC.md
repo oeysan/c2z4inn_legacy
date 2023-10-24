@@ -1,5 +1,5 @@
 ---
-title: "Gentle Riffs and Noises Off: Research Supervision Under the Spotlight"
+title: "R2LNXGEC"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-R2LNXGEC" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1724237" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/R2LNXGEC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-R2LNXGEC" class="csl-bib-button">Medverkande</a>
+    <a href="https://myresearchspace.uws.ac.uk/ws/files/12693780/2019_08_06_Pirrie_et_al_Gentle.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-R2LNXGEC"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "Attitudes toward Conservation of the Transboundary Białowieża Forest among Ecotourism Businesses in Poland and Belarus"
+title: "YQKDIBTX"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YQKDIBTX" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2170854" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YQKDIBTX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-YQKDIBTX" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-YQKDIBTX" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-YQKDIBTX" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2073-445X/12/6/1150/pdf?version=1685939674" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-YQKDIBTX"></div>
 </article>
 <div id="csl-bib-meta-YQKDIBTX" class="csl-bib-meta">
-  <article id="abstract-article-YQKDIBTX" class="abstract-article">
-    <h1>Samandrag</h1>
-    The Białowieża Forest is a contested transboundary forest massif in Poland and Belarus. Reflecting on transitions from value chains built on sustained yield forestry to ecotourism, we pioneer documentation of how country-specific legacies shape preferences toward increased forest protection at the expense of wood production. For both countries, we used a quantitative ordered logit model based on questionnaires to Polish and Belarusian ecotourism business owners to, for the first time, empirically study drivers of their preferences toward different Białowieża Forest values, and we used qualitative data to identify attitudes toward the expansion of protected areas in the Białowieża Forest. Whilst Belarusian ecotourism business owners supported increased area protection, the opposite was true for their Polish counterparts. The proportion of foreign guests co-varied with support toward increased area protection. Conversely, local origin, size of hospitality business, and role of foresters as customers decreased interest in area protection. The qualitative data revealed that narratives against extended area protection were spread in Poland but not in Belarus. The conflict over the conservation of the Polish part of the Białowieża Forest involves actors and stakeholders with competing interests. A solution is that this remnant massif of the once widespread European temperate lowland forest becomes subject to a regional planning and zoning perspective. Encouraging multiple value chains and evidence-based collaborative learning are key components.
-  </article>
   <article id="contributors-article-YQKDIBTX" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -57,7 +53,7 @@ Studiested Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

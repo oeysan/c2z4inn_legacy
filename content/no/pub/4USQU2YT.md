@@ -1,5 +1,5 @@
 ---
-title: "Military psychology in Sweden"
+title: "4USQU2YT"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4USQU2YT" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1516167" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/4USQU2YT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-4USQU2YT" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-4USQU2YT" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-3-319-66192-6_33" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-4USQU2YT"></div>
 </article>
 <div id="csl-bib-meta-4USQU2YT" class="csl-bib-meta">
-  <article id="abstract-article-4USQU2YT" class="abstract-article">
-    <h1>Samandrag</h1>
-    Sweden is the country on earth with the longest unbroken period of peace (since 1814). However, since the Balkan conflicts in the early 1990s, Swedish military forces have been frequently engaged in multinational peacekeeping and peace enforcement operations. Military psychology in Sweden needs to be seen against this background. In the last decade, psychologists have been involved in selection, deployment psychology, occupational healthcare, veteran affairs, research and education. A consequence of this diversity is that military psychology as a concept and source of common identification no longer plays an important part. However, different aspects of psychology still play, and will likely continue to play, an important part in the Swedish military and civilian defence organization.
-  </article>
   <article id="contributors-article-4USQU2YT" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

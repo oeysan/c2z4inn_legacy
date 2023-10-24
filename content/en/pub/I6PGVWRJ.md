@@ -1,5 +1,5 @@
 ---
-title: "Integrating Visual Dietary Documentation in Mobile-Phone-Based Self-Management Application for Adolescents With Type 1 Diabetes"
+title: "I6PGVWRJ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,17 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-I6PGVWRJ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1463332" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/I6PGVWRJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-I6PGVWRJ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://journals.sagepub.com/doi/pdf/10.1177/1932296815576956" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-I6PGVWRJ"></div>
 </article>
 <div id="csl-bib-meta-I6PGVWRJ" class="csl-bib-meta">
-  <article id="abstract-article-I6PGVWRJ" class="abstract-article">
-    <h1>Abstract</h1>
-    The goal of modern diabetes treatment is to a large extent focused on self-management to achieve and maintain a healthy, low HbA1c. Despite all new technical diabetes tools and support, including advanced blood glucose meters and insulin delivery systems, diabetes patients still struggle to achieve international treatment goals, that is, HbA1c &lt; 7.5 in children and adolescents. In this study we developed and tested a mobile-phone-based tool to capture and visualize adolescents’ food intake. Our aim was to affect understanding of carbohydrate counting and also to facilitate doctor–adolescent communication with regard to daily treatment. Furthermore, we wanted to evaluate the effect of the designed tool with regard to empowerment, self-efficacy, and self-treatment. The study concludes that implementing a visualization tool is an important contribution for young people to understand the basics of diabetes and to empower young people to define their treatment challenges. By capturing a picture of their own food, the person’s own feeling of being in charge can be affected and better self-treatment achieved.
-  </article>
   <article id="taxonomy-article-I6PGVWRJ" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>

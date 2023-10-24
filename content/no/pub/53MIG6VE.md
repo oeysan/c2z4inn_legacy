@@ -1,5 +1,5 @@
 ---
-title: "Model fidelity and team members’ experiences of assertive community treatment in Norway: a sequential mixed-methods study"
+title: "53MIG6VE"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-53MIG6VE" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1753988" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/53MIG6VE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-53MIG6VE" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-53MIG6VE" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-53MIG6VE" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://ijmhs.biomedcentral.com/track/pdf/10.1186/s13033-019-0321-8" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-53MIG6VE"></div>
 </article>
 <div id="csl-bib-meta-53MIG6VE" class="csl-bib-meta">
-  <article id="abstract-article-53MIG6VE" class="abstract-article">
-    <h1>Samandrag</h1>
-    BackgroundAssertive community treatment (ACT) is an evidence-based treatment for people with severe mental illness, and this model is used widely throughout the world. Given the various adaptations in different contexts, we were interested in studying the implementation and adaptation of the ACT model in Norway. The first 12 Norwegian ACT teams were established between 2009 and 2011, and this study investigated the teams’ model fidelity and the team members’ experiences of working with ACT. MethodsTo investigate implementation of the ACT model, fidelity assessments were performed 12 and 30 months after the teams started their work using the Tool for Measurement of Assertive Community Treatment (TMACT). Means and standard deviations were used to describe the ACT teams’ fidelity scores. Cohen’s effect size d was used to assess the changes in TMACT scores from the first to second assessment. Qualitative focus group interviews were conducted in the 12 teams after 30 months to investigate the team members’ experiences of working with the ACT model. ResultsThe fidelity assessments of the Norwegian teams showed high implementation of the structural and organizational parts of the ACT model. The newer parts of the model, the recovery and evidence-based practices, were less implemented. Four of the six subscales in TMACT improved from the first to the second assessment. The team members experienced the ACT model to be a good service model for the target population: people with severe mental illness, significant functional impairment, and continuous high service needs. Team members perceived some parts of the model difficult to implement and that it was challenging to find effective ways to collaborate with existing health and social services. ConclusionThe first 12 Norwegian ACT teams implemented the ACT model to a moderate degree. The ACT model could be implemented in Norway without extensive adaptations. Although the team members were satisfied with the ACT model, especially the results for their service users, inclusion of the ACT team to the existing service system was perceived as challenging.
-  </article>
   <article id="contributors-article-53MIG6VE" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 4L3227
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

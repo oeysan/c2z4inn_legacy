@@ -1,5 +1,5 @@
 ---
-title: "Norsk som andrespråk: perspektiver på læring og utvikling"
+title: "GS8SI4Y2"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GS8SI4Y2" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1620654" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GS8SI4Y2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GS8SI4Y2" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GS8SI4Y2" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-GS8SI4Y2"></div>
 </article>
 <div id="csl-bib-meta-GS8SI4Y2" class="csl-bib-meta">
-  <article id="abstract-article-GS8SI4Y2" class="abstract-article">
-    <h1>Samandrag</h1>
-    Hvordan lærer og utvikler man norsk som andrespråk i Norge? Hvordan kan undervisning støtte språklæringa? Denne boka dekker et bredt spekter av temaer i faget norsk som andrespråk. Forfatterne presenterer ny kunnskap om læring og utvikling av norsk som andrespråk, og plasserer den norske forskninga i et internasjonalt landskap. Boka passer for alle som er interessert i læring av andrespråk, for eksempel forskere, lærere i norsk og norsk som andrespråk og studenter i emner knyttet til norsk, norsk som andrespråk, flerspråklighet og språk generelt. Forfatterne av de ulike kapitlene er alle eksperter på forskjellige områder av andrespråksfeltet.
-  </article>
   <article id="contributors-article-GS8SI4Y2" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

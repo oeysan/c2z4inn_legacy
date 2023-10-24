@@ -1,5 +1,5 @@
 ---
-title: "A ‘Contest’ as a Pedagogical Method in Tourism Higher Education: a Case Study in Teaching Creativity Through Problem-Solving"
+title: "VRPTGE63"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VRPTGE63" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1896018" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VRPTGE63" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-VRPTGE63" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VRPTGE63" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-VRPTGE63" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://czasopisma.uni.lodz.pl/tourism/article/download/7920/7810" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VRPTGE63"></div>
 </article>
 <div id="csl-bib-meta-VRPTGE63" class="csl-bib-meta">
-  <article id="abstract-article-VRPTGE63" class="abstract-article">
-    <h1>Samandrag</h1>
-    The main goal of the paper is to discuss whether a contest, as an educational tool, can develop the creativity of participants when the main goal of the students may be to win. A 24HOURS contest was implemented as a case study. Three methods were used to evaluate the effectiveness of the 24HOURS contest: a written questionnaire, individual in-depth interviews, and an online questionnaire. Results proved that the contest was unsatisfactory in increasing students’ creativity, as they were oriented to win, or to acquire knowledge, rather than to cooperate or interact with representatives of other student teams. The investigation confirmed the tutors’ enabling responsibility for both cooperation and creativity during the contest. However, expectations of tutor engagement caused concern and their role should, therefore, have been more clearly defined. Analysis of the case study presented in this paper can provide pedagogues with insight into the design and implementation of contests as educational tools.
-  </article>
   <article id="contributors-article-VRPTGE63" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -87,13 +83,13 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

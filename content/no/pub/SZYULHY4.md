@@ -1,5 +1,5 @@
 ---
-title: "Empowerment i arbeidslivet: et myndiggjøringsperspektiv på ledelse, selvledelse og medarbeiderskap"
+title: "SZYULHY4"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SZYULHY4" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1655594" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SZYULHY4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-SZYULHY4" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SZYULHY4" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-SZYULHY4" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-SZYULHY4"></div>
 </article>
 <div id="csl-bib-meta-SZYULHY4" class="csl-bib-meta">
-  <article id="abstract-article-SZYULHY4" class="abstract-article">
-    <h1>Samandrag</h1>
-    Empowerment eller myndiggjøring i arbeidslivet innebærer frigjøring og utvikling av kraften som finnes i de menneskelige ressursene på en arbeidsplass. Medarbeidere som får og tar imot ansvar, myndighet og autonomi, blir en bærebjelke i organisasjonen, mens lederne får en mer rammesettende, delegerende, motiverende og utviklende rolle. Relasjonen mellom ledere og medarbeidere baseres i større grad på tillit enn på styring og kontroll. Empowerment i arbeidslivet behandler en rekke sentrale temaer: Hva er empowerment - ulike perspektiver og historiske røtter Maktdeling, autonomi, ledelse og styring, tillit og kontroll Den norske arbeidslivsmodellen Empowerment på individnivå - myndiggjorte ansatte Myndiggjørende ledelse Selvledelse Medarbeiderskap Avslutningsvis ser forfatteren de ulike temaene i sammenheng og plasserer dem inn i en helhetlig modell han kaller myndiggjøringshuset. Boka har en solid faglig og forskningsmessig forankring og henvender seg til studenter innenfor organisasjons-, ledelses- og arbeidslivsfag. Med sin praktiske tilnærming er den også egnet for ledere, medarbeidere og konsulenter som ønsker inspirasjon og relevant kunnskap om empowerment i sitt daglige arbeid.
-  </article>
   <article id="contributors-article-SZYULHY4" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -65,7 +60,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>54</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

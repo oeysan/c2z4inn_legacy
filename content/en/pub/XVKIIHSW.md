@@ -1,5 +1,5 @@
 ---
-title: "Interdisciplinary primary school curriculum units for sustainable development"
+title: "XVKIIHSW"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XVKIIHSW" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1808818" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XVKIIHSW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-XVKIIHSW" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XVKIIHSW" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-XVKIIHSW" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://munin.uit.no/bitstream/10037/20730/3/article.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-XVKIIHSW"></div>
 </article>
 <div id="csl-bib-meta-XVKIIHSW" class="csl-bib-meta">
-  <article id="abstract-article-XVKIIHSW" class="abstract-article">
-    <h1>Abstract</h1>
-    Education for sustainable development (ESD) provides crucial opportunities for young people to be involved in complex sustainability issues. This study contributes to existing knowledge about primary school teachers’ approaches to ESD across a range of subjects. Norwegian schools can join the Sustainable Backpack programme (SBP), which supports teachers to develop projects that promote a holistic understanding of sustainable development across school subjects. The present study set out to examines teachers’ interdisciplinary approach to ESD and the SBP teachers’ perceptions of how their curriculum units promote environmental, social and economic dimensions of sustainable development. The study is a multi-case study, with curriculum units designed for students aged 10-13 years from 14 Norwegian schools. Content analysis suggest that the units used several subjects to ESD, but the teachers could have challenged the students’ reflection to a greater extent in terms of argumentation and critical thinking. The units succeeded to some extent in pursuing a holistic approach.
-  </article>
   <article id="contributors-article-XVKIIHSW" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -99,7 +95,7 @@ Room 2N2202
     <div class="sdg-container"><div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

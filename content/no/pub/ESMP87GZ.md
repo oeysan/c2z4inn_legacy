@@ -1,5 +1,5 @@
 ---
-title: "The effects of dark-coloured plastic, fibre, and paper mulches on yield and overwintering of perennial herbs"
+title: "ESMP87GZ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,20 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ESMP87GZ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1657764" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ESMP87GZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ESMP87GZ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ESMP87GZ" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1300/J044v12n01_02" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-ESMP87GZ"></div>
 </article>
 <div id="csl-bib-meta-ESMP87GZ" class="csl-bib-meta">
-  <article id="abstract-article-ESMP87GZ" class="abstract-article">
-    <h1>Samandrag</h1>
-    Various plastic mulch (PE black, PE brown, and LDPE white), fiber mulch (Uco black woven), and paper mulch (Gropex gray) were examined in four perennial herb crops (Hyssopus officinalis, Melissa officinalis, Thymus vulgares, and Echinacea purpurea) in a field experiment during a three-year period in Norway. Over-wintering, total yield, herbs' nutrient content (N, P, K), soil temperature, and soil nitrogen were examined. For all species, the total yield was the highest when using dark-colored plastic mulches, followed by fiber mulch. The white plastic and paper did not return the same yield. The result was related to soil temperature and soil mineral N content. The over-wintering was only slightly affected by mulching. The concentration of K was significantly higher in herbs grown on dark-colored mulches compared with white plastic, paper, and bare soil, while no effect was found on N and P. 
- 
-KEYWORDS: Cold hardiness,  Echinacea purpurea , frost hardiness,  Hyssopus officinalis , lemon balm,  Melissa officinalis , thyme,  Thymus vulgaris
-  </article>
   <article id="contributors-article-ESMP87GZ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

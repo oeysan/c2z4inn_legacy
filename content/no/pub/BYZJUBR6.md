@@ -1,5 +1,5 @@
 ---
-title: "SCADA securing system using deep learning to prevent cyber infiltration"
+title: "BYZJUBR6"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BYZJUBR6" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2159801" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BYZJUBR6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BYZJUBR6" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.1016/j.neunet.2023.05.047" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-BYZJUBR6"></div>
 </article>

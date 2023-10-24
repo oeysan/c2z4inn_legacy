@@ -1,5 +1,5 @@
 ---
-title: "Innramming av et forskningsfelt. Forskning om norsk som andrespråk i lys av et utvalg doktorgradsavhandlinger"
+title: "LUKVF7US"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LUKVF7US" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1824084" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LUKVF7US" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LUKVF7US" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-LUKVF7US"></div>

@@ -1,5 +1,5 @@
 ---
-title: "Transforming small and medium-sized enterprises (SMEs) to digitally enabled landscapes"
+title: "D3SQC4AY"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-D3SQC4AY" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1990393" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/D3SQC4AY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-D3SQC4AY" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4337/9781839100161.00023" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-D3SQC4AY"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "Production of Exopolysaccharides by Cultivation of Halotolerant Bacillus atrophaeus BU4 in Glucose- and Xylose-Based Synthetic Media and in Hydrolysates of Quinoa Stalks"
+title: "A2FGI4YP"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-A2FGI4YP" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2042509" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/A2FGI4YP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-A2FGI4YP" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-A2FGI4YP" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-A2FGI4YP" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2311-5637/8/2/79/pdf?version=1645178476" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-A2FGI4YP"></div>
 </article>
 <div id="csl-bib-meta-A2FGI4YP" class="csl-bib-meta">
-  <article id="abstract-article-A2FGI4YP" class="abstract-article">
-    <h1>Samandrag</h1>
-    A halotolerant, exopolysaccharide-producing bacterium isolated from the Salar de Uyuni salt flat in Bolivia was identified as Bacillus atrophaeus using next-generation sequencing. Comparisons indicate that the genome most likely (p-value: 0.0024) belongs to a subspecies previously not represented in the database. The growth of the bacterial strain and its ability to produce exopolysaccharides (EPS) in synthetic media with glucose or xylose as carbon sources, and in hydrolysates of quinoa stalks, was investigated. The strain grew well in all synthetic media, but the growth in glucose was better than that in xylose. Sugar consumption was better when initial concentrations were low. The growth was good in enzymatically produced cellulosic hydrolysates but was inhibited in hemicellulosic hydrolysates produced using hydrothermal pretreatment. The EPS yields were up to 0.064 g/g on initial glucose and 0.047 g/g on initial xylose, and was higher in media with relatively low sugar concentrations. The EPS was isolated and purified by a sequential procedure including centrifugation, cold ethanol precipitation, trichloroacetic acid treatment, dialysis, and freeze-drying. Glucose and mannose were the main sugars identified in hydrolyzed EPS. The EPS was characterized by size-exclusion chromatography, Fourier-transform infrared (FTIR) spectroscopy, heteronuclear single-quantum coherence nuclear magnetic resonance (HSQC NMR) spectroscopy, scanning electron microscopy, X-ray diffraction, and thermogravimetric analysis. No major differences were elucidated between EPS resulting from cultivations in glucose- or-xylose-based synthetic media, while some divergences with regard to molecular-weight averages and FTIR and HSQC NMR spectra were detected for EPS from hydrolysate-based media.
-  </article>
   <article id="contributors-article-A2FGI4YP" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,13 +59,13 @@ Rom 2N1247
     <div class="sdg-container"><div id="sdg6" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg06_no.png" class="image" alt="SDG 6">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>26</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=6#archive" class="sdg-publication-count"><span>29</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/rent-vann-og-gode-sanitaerforhold?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Nick-storying and the Body’s Immersion and Participation in the World: Forming Aggregates for Early Childhood Education"
+title: "R8IX2XMC"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-R8IX2XMC" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2100029" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/R8IX2XMC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-R8IX2XMC" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-981-16-9287-1_8" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-R8IX2XMC"></div>
 </article>

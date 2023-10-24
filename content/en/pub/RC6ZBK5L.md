@@ -1,5 +1,5 @@
 ---
-title: "Utopian Nature and Dystopian Culture: Ecocritical Readings of Julie Bertagna's Exodus and Zenith"
+title: "RC6ZBK5L"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RC6ZBK5L" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1683814" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RC6ZBK5L" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-RC6ZBK5L" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RC6ZBK5L" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-RC6ZBK5L" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.5325/utopianstudies.30.2.0238" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-RC6ZBK5L"></div>
 </article>
 <div id="csl-bib-meta-RC6ZBK5L" class="csl-bib-meta">
-  <article id="abstract-article-RC6ZBK5L" class="abstract-article">
-    <h1>Abstract</h1>
-    This article discusses ecocritical aspects of two contemporary young adult dystopian novels: Julie Bertagna's Exodus and Zenith. It explores how these novels link utopia to nature, especially the rural pastoral, and dystopia to culture, especially urbanism and technology. The novels are set in the near future and address the protagonist's search for a new home after the old has been destroyed. Greenland represents an ecological, utopian hope: a place where humans can coexist with nature and rebuild society. Contrasting with the utopian Greenland is the technological city New Mungo, which is elitist, totalitarian, and brutally dystopian—but also sustainable despite its syntheticity and ecological in its own sense. Greenland and New Mungo are connected to the ecocritical dualism of nature versus culture, and the societies' closeness to nature determines whether they are seen as utopian or dystopian.
-  </article>
   <article id="contributors-article-RC6ZBK5L" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -67,7 +63,7 @@ Room 2C257-5
     <div class="sdg-container"><div id="sdg11" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>23</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=11#archive" class="sdg-publication-count"><span>23</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

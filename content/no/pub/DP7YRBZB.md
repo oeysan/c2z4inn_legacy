@@ -1,5 +1,5 @@
 ---
-title: "Does green transformational leadership lead to green innovation? The role of green thinking and creative process engagement"
+title: "DP7YRBZB"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DP7YRBZB" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2096680" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/DP7YRBZB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-DP7YRBZB" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1002/bse.2911" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-DP7YRBZB"></div>
 </article>

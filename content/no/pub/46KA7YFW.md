@@ -1,5 +1,5 @@
 ---
-title: "Trophic ecology of piscivorous Arctic charr (Salvelinus alpinus (L.)) in subarctic lakes with contrasting food-web structures"
+title: "46KA7YFW"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-46KA7YFW" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1638761" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/46KA7YFW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://jyx.jyu.fi/bitstream/123456789/66491/2/Kahilainen_etal_Minor_REVISION_clean.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-46KA7YFW"></div>
 </article>

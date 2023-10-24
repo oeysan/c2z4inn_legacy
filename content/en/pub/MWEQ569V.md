@@ -1,5 +1,5 @@
 ---
-title: "The meaning and application of student-centered learning in nursing education: An integrative review of the literature"
+title: "MWEQ569V"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MWEQ569V" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2143430" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/MWEQ569V" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-MWEQ569V" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1016/j.nepr.2023.103622" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-MWEQ569V"></div>
 </article>

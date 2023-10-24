@@ -1,5 +1,5 @@
 ---
-title: "Prevalence, type, and reasons for missed nursing care in municipality health care in Sweden – A cross sectional study"
+title: "2LWTIVQ6"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2LWTIVQ6" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2023334" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/2LWTIVQ6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-2LWTIVQ6" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-2LWTIVQ6" class="csl-bib-button">Contributors</a>
+    <a href="https://bmcnurs.biomedcentral.com/counter/pdf/10.1186/s12912-022-00874-6" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-2LWTIVQ6"></div>
 </article>
 <div id="csl-bib-meta-2LWTIVQ6" class="csl-bib-meta">
-  <article id="abstract-article-2LWTIVQ6" class="abstract-article">
-    <h1>Abstract</h1>
-    BackgroundWith an ageing population, there is an increasing need for care, both as home care and in nursing homes. However, some needed care is not carried out for different reasons, which can affect patient safety. The aim of the study was to describe prevalence, type, and reasons for missed nursing care in home care and nursing homes, from nurses’ perspective. MethodsA cross sectional design with quantitative and qualitative approach. A Swedish version of Basel Extent of Rationing of Nursing Care for nursing homes and 15 study specific questions were answered by 624 registered nurses, enrolled nurses, or nurse assistants. Both descriptive and analytical, independent-samples t-test, analyses were used. Qualitative content analysis was used for the open-ended question. ResultsThe care activity most often missed in home care was: ‘set up or update care plans’ (41.8%), and in nursing homes: ‘scheduled group activity’ (22.8%). Reasons for missed nursing care were lack of preparedness for unexpected situations, obstacles in a deficient work environment, unsatisfactory planning in the organisation, and/or shortcomings related to the individual. ConclusionNot all care activities needed are performed, due to reasons such as lack of time or organisational issues. Missed nursing care can lead to adverse events and affect patient safety. It is important to be aware of missed nursing care and the reasons for it, which gives a possibility to initiate quality improvement work to ensure patient safety.
-  </article>
   <article id="contributors-article-2LWTIVQ6" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

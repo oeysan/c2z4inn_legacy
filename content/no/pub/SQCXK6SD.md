@@ -1,5 +1,5 @@
 ---
-title: "“Bene, ma non benissimo”: le nuove mobilità degli italiani in Norvegia"
+title: "SQCXK6SD"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SQCXK6SD" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1872472" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SQCXK6SD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-SQCXK6SD" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SQCXK6SD" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-SQCXK6SD" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-SQCXK6SD"></div>
 </article>
 <div id="csl-bib-meta-SQCXK6SD" class="csl-bib-meta">
-  <article id="abstract-article-SQCXK6SD" class="abstract-article">
-    <h1>Samandrag</h1>
-    Norway is becoming one of the new destinations of the Italian immigration, and the number of Italians living in Norway has substantially increased since 2008. Using data from official sources and from a recent mixed-methods research, the purpose of this paper is to present the main characteristics of the Italians in Norway and shed light on the profile of the Italian new mobility – why they moved and how they live in Norway. The analysis indicates that the sociodemographic characteristics of the Italians in Norway and their motives for migrating are rather different from those of the previous migration waves. Today, most Italians in Norway have a high educational level, with highly qualified jobs, and are less dependent upon the migrants’ networks. Also the number of women migrating alone has increased. Despite higher resources and life satisfaction, the Italians living in Norway experience difficulties in establishing satisfactory social relations.
-  </article>
   <article id="contributors-article-SQCXK6SD" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,13 +58,13 @@ Rom 4L3335
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

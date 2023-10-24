@@ -1,5 +1,5 @@
 ---
-title: "The Role of Creative Caring in Transformative Learning for Sustainable Lifestyles"
+title: "B3JZS5RU"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-B3JZS5RU" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1547001" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/B3JZS5RU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-B3JZS5RU" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-B3JZS5RU" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.14456/jucr.2017.1" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-B3JZS5RU"></div>
 </article>
 <div id="csl-bib-meta-B3JZS5RU" class="csl-bib-meta">
-  <article id="abstract-article-B3JZS5RU" class="abstract-article">
-    <h1>Abstract</h1>
-    This article addresses constructive change and examines the PERL (Partnership for Education and Research about Responsible Learning) Learning methodologies and materials.
-  </article>
   <article id="contributors-article-B3JZS5RU" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

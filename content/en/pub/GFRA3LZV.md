@@ -1,5 +1,5 @@
 ---
-title: "Hibernating brown bears are protected against atherogenic dyslipidemia"
+title: "GFRA3LZV"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GFRA3LZV" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1942135" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GFRA3LZV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GFRA3LZV" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GFRA3LZV" class="csl-bib-button">Contributors</a>
+    <a href="https://www.nature.com/articles/s41598-021-98085-7.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-GFRA3LZV"></div>
 </article>
 <div id="csl-bib-meta-GFRA3LZV" class="csl-bib-meta">
-  <article id="abstract-article-GFRA3LZV" class="abstract-article">
-    <h1>Abstract</h1>
-    To investigate mechanisms by which hibernators avoid atherogenic hyperlipidemia during hibernation, we assessed lipoprotein and cholesterol metabolisms of free-ranging Scandinavian brown bears ( Ursus arctos ). In winter- and summer-captured bears, we measured lipoprotein sizes and sub-classes, triglyceride-related plasma-enzyme activities, and muscle lipid composition along with plasma-levels of antioxidant capacities and inflammatory markers. Although hibernating bears increased nearly all lipid levels, a 36%-higher cholesteryl-ester transfer-protein activity allowed to stabilize lipid composition of high-density lipoproteins (HDL). Levels of inflammatory metabolites, i.e., 7-ketocholesterol and 11ß-prostaglandin F2α, declined in winter and correlated inversely with cardioprotective HDL2b-proportions and HDL-sizes that increased during hibernation. Lower muscle-cholesterol concentrations and lecithin-cholesterol acyltransferase activity in winter suggest that hibernating bears tightly controlled peripheral-cholesterol synthesis and/or release. Finally, greater plasma-antioxidant capacities prevented excessive lipid-specific oxidative damages in plasma and muscles of hibernating bears. Hence, the brown bear manages large lipid fluxes during hibernation, without developing adverse atherogenic effects that occur in humans and non-hibernators.
-  </article>
   <article id="contributors-article-GFRA3LZV" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

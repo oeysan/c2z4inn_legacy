@@ -1,5 +1,5 @@
 ---
-title: "Green investing in China's air cargo industry: Opportunities and challenges for sustainable transportation"
+title: "U2ZXWA4G"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-U2ZXWA4G" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2172362" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/U2ZXWA4G" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-U2ZXWA4G" class="csl-bib-button">Contributors</a>
+    <a href="http://www.cell.com/article/S2405844023062217/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-U2ZXWA4G"></div>
 </article>

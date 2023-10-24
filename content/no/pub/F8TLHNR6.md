@@ -1,5 +1,5 @@
 ---
-title: "Promoting organizational vision integration among hospital employees"
+title: "F8TLHNR6"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-F8TLHNR6" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1974889" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/F8TLHNR6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-F8TLHNR6" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-F8TLHNR6" class="csl-bib-button">Medverkande</a>
+    <a href="https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-021-07430-z" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-F8TLHNR6"></div>
 </article>
 <div id="csl-bib-meta-F8TLHNR6" class="csl-bib-meta">
-  <article id="abstract-article-F8TLHNR6" class="abstract-article">
-    <h1>Samandrag</h1>
-    Background: The concept of organizational vision has been little explored in the health-care services research literature. To address this knowledge gap in the literature, the present study examines the factors that may promote organizational vision integration (OVI), which refers to the employees' use of organizational vision as a guiding framework in their work. The roles of organizational commitment (OC), leadership autonomy support (LAS), and organizational culture in relation to hospital employees' OVI are examined. Methods: Hospital employees were surveyed. Partial least-squares structural equation modeling was performed using SmartPLS 3 software to test the proposed hypotheses statistically. A bootstrapping test was used to identify the mediating effects. Results: The main findings show that: (i) OC is the most powerful factor in promoting employees' OVI (β = 0.26), while organizational culture (represented by the concept of internal market-oriented culture) and LAS showed significantly less and almost equal impact (β = 0.16 and β = 0.15, respectively). In total, OC, organizational culture and LAS explain 25% of the variance in the concept of OVI. (ii) LAS and organizational culture both significantly contribute to employees' OC (β = 0.35 and β = 0.29, respectively) and in total explain nearly 40% (R 2 = 0.38) of the variance in the concept of OC. (iii) The relationships between organizational culture, LAS, and OVI are mediated through OC, and (iv) LAS mediates the relationship between organizational culture and OVI, and that between organizational culture and OC. Conclusions: To promote hospital employees' OVI effectively, hospital managers should focus particularly on their employees' OC. Specifically, they should strengthen their employees' OC through building a strong employee-focused organizational culture and ensuring that leaders practice LAS. This contributes to promoting hospital employees' OVI.
-  </article>
   <article id="contributors-article-F8TLHNR6" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Affirmative citation bias in scientific myth debunking: A three-in-one case study"
+title: "UZ7LRASK"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UZ7LRASK" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1720268" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UZ7LRASK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-UZ7LRASK" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UZ7LRASK" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-UZ7LRASK" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0222213&amp;type=printable" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-UZ7LRASK"></div>
 </article>
 <div id="csl-bib-meta-UZ7LRASK" class="csl-bib-meta">
-  <article id="abstract-article-UZ7LRASK" class="abstract-article">
-    <h1>Abstract</h1>
-    Several uncorroborated, false, or misinterpreted conceptions have for years been widely distributed in academic publications, thus becoming scientific myths. How can such misconceptions persist and proliferate within the inimical environment of academic criticism? Examining 613 articles we demonstrate that the reception of three myth-exposing publications is skewed by an ‘affirmative citation bias’: The vast majority of articles citing the critical article will affirm the idea criticized. 468 affirmed the myth, 105 were neutral, while 40 took a negative stance. Once misconceptions proliferate wide and long enough, criticizing them not only becomes increasingly difficult, efforts may even contribute to the continued spreading of the myths.
-  </article>
   <article id="contributors-article-UZ7LRASK" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

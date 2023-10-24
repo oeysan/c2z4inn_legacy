@@ -1,5 +1,5 @@
 ---
-title: "Patterns of unhealthy behaviours during adolescence and subsequent anxiety and depression in adulthood: a prospective register linkage study of the HUNT survey and health registries"
+title: "BN2PI6CG"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BN2PI6CG" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2113399" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BN2PI6CG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-BN2PI6CG" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BN2PI6CG" class="csl-bib-button">Contributors</a>
+    <a href="https://ijbnpa.biomedcentral.com/counter/pdf/10.1186/s12966-023-01408-2" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-BN2PI6CG"></div>
 </article>
 <div id="csl-bib-meta-BN2PI6CG" class="csl-bib-meta">
-  <article id="abstract-article-BN2PI6CG" class="abstract-article">
-    <h1>Abstract</h1>
-    BackgroundThere is increasing need for prospective investigations in the preventing role of health-related behaviours on mental health problems. The aim of this study is to identify patterns of health-related behaviours in adolescence, and the association between the behavioural patterns and the subsequent diagnoses and/or drug treatment for anxiety and/or depression in adulthood. Methods This prospective study consisted of 13–19-year-old participants in the Trøndelag Health Study (Young-HUNT3) in 2006–2008 ( n  = 2061, 1205 females and 856 males) in Norway, who also participated in HUNT4 (2017–2019). Survey data on health-related behaviours in adolescence, including low level of physical activity, low consumption of wholegrain bread, fish, fruit, vegetables and high consumption of sugar-sweetened beverages and insomnia were linked on an individual level to prospective information on drug use and diagnosis in national health registries. The different patterns of health-related behaviours were identified through latent class analysis. Subsequent anxiety or depression was defined as at least one recording in either of three registries covering recorded diagnosis in primary and specialist healthcare, or dispensed prescription drugs during 2008–2019. Additionally, self-reported psychological distress measured in young adulthood was applied as a supplemental outcome measure. ResultsFour patterns of health-related behaviours were identified: high risk behaviours (class 1), moderate to high risk behaviours (class 2), low to moderate risk behaviours (class 3) and low risk behaviours (class 4). Adolescents in class 3 showed higher odds of subsequent diagnoses for anxiety and/or depression in primary and specialist healthcare compared to class 4 participants. In addition, both class 1 and class 4 participants had higher odds for self-reported psychological distress than those class 4 (OR = 1.56 and OR = 1.86, respectively). ConclusionsOur findings suggest that health-related behaviours are clustered among Norwegian adolescents. The patterns of unhealthy behaviours during adolescence only partly increased the risk of anxiety and depression in adulthood. Promoting healthy behaviours during adolescence may potentially reduce the burden of mental illness in adulthood, but further research is needed to clarify the nature of the relationships.
-  </article>
   <article id="contributors-article-BN2PI6CG" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

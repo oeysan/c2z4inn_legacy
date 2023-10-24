@@ -1,5 +1,5 @@
 ---
-title: "«Det er så koselig her at jeg tar av meg skoene»: Om betydningen av sted i en flerkulturell barne- og ungdomsfestival"
+title: "P8ISY3PT"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,23 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-P8ISY3PT" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1849590" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/P8ISY3PT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-P8ISY3PT" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-P8ISY3PT" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-P8ISY3PT" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.23865/noasp.110" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-P8ISY3PT"></div>
 </article>
 <div id="csl-bib-meta-P8ISY3PT" class="csl-bib-meta">
-  <article id="abstract-article-P8ISY3PT" class="abstract-article">
-    <h1>Samandrag</h1>
-    In this article, we explore how children and youth participating in a multicultural festival in Norway construct space and place. Such events respond to the call 
-to action for reducing prejudice and stereotypes, and they aim to promote inclusion, participation and community. Nonetheless, researchers have criticized such events 
-for instead promoting categorical understandings of cultural identities; as such, some researchers regard multicultural festivals as counterproductive to the aim of 
-promoting inclusion. However, previous research has directed scarce attention to the participants’ perspective, in particular viewpoints of children and youth. Inspired by perspectives on spatial justice (Soja, 1996, 2010), we interpret young people’s experiences and meaning making while attending a multicultural festival. We collected data through an app, which allowed us to conduct structured interviews with children and youths on site. The findings bring out the significance of space 
-and place when interpreting young people’s participation and meaning making at such events. We conclude the article by reflecting on the potential of perspectives on space and place to nuance an often one-sided criticism of multicultural events.
-  </article>
   <article id="contributors-article-P8ISY3PT" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -106,7 +98,7 @@ Rom 2P306
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

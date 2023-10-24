@@ -1,5 +1,5 @@
 ---
-title: "Revisioning the Fifth Element. Can critical realism reconcile competence and Bildung for a more sustainable twenty-first-century education?"
+title: "MXJ4QYAW"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MXJ4QYAW" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1739715" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/MXJ4QYAW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-MXJ4QYAW" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/14767430.2019.1655254" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-MXJ4QYAW"></div>
 </article>

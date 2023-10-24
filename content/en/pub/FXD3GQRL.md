@@ -1,5 +1,5 @@
 ---
-title: "Et innovasjonsteoretisk blikk på kvalitetsutvikling av karriereveiledningstjenester - med særlig vekt på spredningsfasen og betydningen av brukerinvolvering"
+title: "FXD3GQRL"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FXD3GQRL" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1687886" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/FXD3GQRL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
   </div>
   <div id="csl-bib-meta-container-FXD3GQRL"></div>
 </article>

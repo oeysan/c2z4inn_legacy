@@ -1,5 +1,5 @@
 ---
-title: "Commercial cultivars and farmers’ access to crop diversity: A case study from the Nordic region"
+title: "VVPBAEMB"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VVPBAEMB" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1656724" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VVPBAEMB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-VVPBAEMB" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VVPBAEMB" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-VVPBAEMB" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://journal.fi/afs/article/download/48629/15799" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VVPBAEMB"></div>
 </article>
 <div id="csl-bib-meta-VVPBAEMB" class="csl-bib-meta">
-  <article id="abstract-article-VVPBAEMB" class="abstract-article">
-    <h1>Abstract</h1>
-    Agricultural diversification is one way of meeting the future challenges associated with climate change and population growth, making farmers’ access to a diversity of high-yielding, good quality cultivars critical. In this paper we provide an overview of the seed system in the Nordic region from the 1950 to the present. The emphasisis on breeding businesses and their production of cultivars. Key primary sources have been the national variety lists, other written sources on plant breeding, and a survey. We document how enterprises have merged and how this consolidation process has affected the production of new cultivars and led to an emphasis on major crops, resulting in the abandonment of breeding activities for several other crops. The results are discussed in relation to structures and in the broader context of agrobiodiversity issues in peripheral regions of the world.
-  </article>
   <article id="contributors-article-VVPBAEMB" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Campus Blæstad
     <div class="sdg-container"><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>46</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=2#archive" class="sdg-publication-count"><span>46</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

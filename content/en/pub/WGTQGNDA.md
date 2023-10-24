@@ -1,5 +1,5 @@
 ---
-title: "Case Report: Heat Suit Training May Increase Hemoglobin Mass in Elite Athletes."
+title: "WGTQGNDA"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WGTQGNDA" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1990022" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WGTQGNDA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-WGTQGNDA" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WGTQGNDA" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1123/ijspp.2021-0033" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-WGTQGNDA"></div>
 </article>
 <div id="csl-bib-meta-WGTQGNDA" class="csl-bib-meta">
-  <article id="abstract-article-WGTQGNDA" class="abstract-article">
-    <h1>Abstract</h1>
-    Purpose: The present case report aimed to investigate the effects of exercise training in temperate ambient conditions while wearing a heat suit on hemoglobin mass (Hbmass). Methods: As part of their training regimens, 5 national-team members of endurance sports (3 males) performed ∼5 weekly heat suit exercise training sessions each lasting 50 minutes for a duration of ∼8 weeks. Two other male athletes acted as controls. After the initial 8-week period, 3 of the athletes continued for 2 to 4 months with ∼3 weekly heat sessions in an attempt to maintain acquired adaptations at a lower cost. Hbmass was assessed in duplicate before and after intervention and maintenance period based on automated carbon monoxide rebreathing. Results: Heat suit exercise training increased rectal temperature to a median value of 38.7°C (range 38.6°C–39.0°C), and during the initial ∼8 weeks of heat suit training, there was a median increase of 5% (range 1.4%–12.9%) in Hbmass, while the changes in the 2 control athletes were a decrease of 1.7% and an increase of 3.2%, respectively. Furthermore, during the maintenance period, the 3 athletes who continued with a reduced number of heat suit sessions experienced a change of 0.7%, 2.8%, and −1.1%, indicating that it is possible to maintain initial increases in Hbmass despite reducing the weekly number of heat suit sessions. Conclusions: The present case report illustrates that heat suit exercise training acutely raises rectal temperature and that following 8 weeks of such training Hbmass may increase in elite endurance athletes.
-  </article>
   <article id="contributors-article-WGTQGNDA" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

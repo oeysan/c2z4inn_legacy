@@ -1,5 +1,5 @@
 ---
-title: "Predictors of students’ participation in a learning environment survey with annual follow-ups"
+title: "7QHSX72G"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7QHSX72G" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1915756" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7QHSX72G" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-7QHSX72G" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7QHSX72G" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-7QHSX72G" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0253773&amp;type=printable" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7QHSX72G"></div>
 </article>
 <div id="csl-bib-meta-7QHSX72G" class="csl-bib-meta">
-  <article id="abstract-article-7QHSX72G" class="abstract-article">
-    <h1>Abstract</h1>
-    BackgroundLongitudinal research is one effective way to gauge changes in a student cohort over time, however attrition in these studies is typically high, which can result in study bias. This study explored learning environment factors, approaches to studying, and academic performance as predictors of occupational therapy students’ consistent participation in data collection conducted over three years of their professional program. Method A longitudinal study of Norwegian occupational therapy students (analyzed n = 240) was conducted. Logistic regression analysis was used to explore occupational therapy students’ perceptions of the learning environment, their approaches to studying, and exam grades as they related to the likelihood of consistent participation at three annual surveys. Results Annual response rates varied between 55.1%, and 65.6%, and consistent participation was observed among 49.2%. The fully adjusted regression models showed that higher strategic approach scores increased the odds of consistent participation (adjusted OR: 1.04, p &lt; 0.01), whereas higher surface approach scores decreased the odds of consistent participation (adjusted OR: 0.95, p &lt; 0.05). Neither sociodemographic factors, learning environment factors nor academic performance predicted participation over time. ConclusionsResearchers can anticipate relatively high levels of attrition in longitudinal studies of occupational therapy students, but attrition seems to be largely proportional between groups. However, completers in longitudinal studies may be somewhat more well-organized and academically oriented than drop-outs.
-  </article>
   <article id="contributors-article-7QHSX72G" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,13 +59,13 @@ Room 4L3213
     <div class="sdg-container"><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>46</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=2#archive" class="sdg-publication-count"><span>46</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

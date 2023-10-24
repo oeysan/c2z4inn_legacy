@@ -1,5 +1,5 @@
 ---
-title: "Physiological and behavioural responses of moose to hunting with dogs"
+title: "35ZU6NAY"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-35ZU6NAY" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1864403" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/35ZU6NAY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-35ZU6NAY" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-35ZU6NAY" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1093/conphys/coaa122" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-35ZU6NAY"></div>
 </article>
 <div id="csl-bib-meta-35ZU6NAY" class="csl-bib-meta">
-  <article id="abstract-article-35ZU6NAY" class="abstract-article">
-    <h1>Abstract</h1>
-    Optimal management of hunted species requires an understanding of the impacts of hunting on both individual animal and population levels. Recent technological advancements in biologging enable us to obtain increasingly detailed information from free-ranging animals, covering longer periods of time, and providing the data needed to assess such impacts. In Sweden, more than 80 000 moose are harvested annually, mostly hunted with the use of baying dogs. The effects of this hunting method on animal welfare and stress are understudied. Here, we evaluated 6 real and 17 experimental hunting approaches with baying dogs [wearing global positioning system (GPS) collars] on 8 adult female moose equipped with ruminal temperature loggers, subcutaneous heart rate (HR) loggers and GPS collars with accelerometers. The obtained data were used to analyse the behavioural and physiological responses of moose to hunting with dogs. Successful experimental approaches (moose and dog were within 240 m for ;10 min) resulted in higher maximum body temperature (Tb, 0.88°C higher) and a mean increase in HR of 24 bpm in moose at the day of the approach compared to the day after. The moose rested on average ;90 min longer the day after the approach compared to the day of the approach. The moose travelled on average 4.2 km longer and had a 1.3 m/s higher maximum speed the day of the approach compared to the day after. Our results demonstrate that hunting with dogs increase moose energy expenditure and resting time (and consequently decrease time available for foraging) on an individual level. This could possibly affect body condition and reproduction rates if the hunting disturbances occur frequently.
-  </article>
   <article id="contributors-article-35ZU6NAY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

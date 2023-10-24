@@ -1,5 +1,5 @@
 ---
-title: "PTSD patients show increasing cytokine levels during treatment despite reduced psychological distress."
+title: "GARTECNP"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,22 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GARTECNP" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1611058" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GARTECNP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GARTECNP" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GARTECNP" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-GARTECNP" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.dovepress.com/getfile.php?fileID=44473" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-GARTECNP"></div>
 </article>
 <div id="csl-bib-meta-GARTECNP" class="csl-bib-meta">
-  <article id="abstract-article-GARTECNP" class="abstract-article">
-    <h1>Abstract</h1>
-    Background: A reciprocal relationship between activated innate immune system and changes in mood and behavior has been established. There is still a paucity of knowledge on how the immune system responds during psychiatric treatment. We aimed to explore circulating cytokines and assess psychiatric symptom severity scores during 12 weeks of inpatient psychiatric treatment. 
-Methods: The study was a longitudinal assessment of 124 patients (88 women and 36 men) in treatment at Modum Psychiatric Center, Norway. The patient sample comprised a mixed psychiatric population of whom 39 were diagnosed with posttraumatic stress disorder (PTSD). Serum blood samples for cytokine analysis and measures of mental distress using Global Severity Index were collected at admission (T0), halfway (T1), and before discharge (T2). Other factors assessed were age, gender, and the use of antidepressants and anti-inflammatory drugs. Multilevel modeling was used for longitudinal analyses to assess the repeated cytokine samples within each patient. 
-Results: Overall level of IL-1RA was higher in PTSD patients when compared to those without PTSD (P=0.021). The level of IL-1β, MCP-1, and TNF-α increased over time in PTSD compared to non-PTSD patients (P=0.025, P=0.011 and P=0.008, respectively). All patients experienced reduced mental distress as measured by self-reported Global Severity Index scores. Stratified analysis showed that PTSD patients who used anti-inflammatory drugs had higher levels of IL-1β (P=0.007) and TNF-α (P=0.049) than PTSD patients who did not use such drugs. 
-Conclusion: The study indicates that traumatized patients may have a distinct neuroimmune development during recovery. Their activated immune system shows even further activation during their rehabilitation despite symptom reduction.
-  </article>
   <article id="contributors-article-GARTECNP" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -134,7 +127,7 @@ Room 4L2213
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

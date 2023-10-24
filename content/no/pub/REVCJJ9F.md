@@ -1,5 +1,5 @@
 ---
-title: "Liberating Structures as Pedagogical Innovation for Inclusive Learning: A Pilot Study in a Norwegian University"
+title: "REVCJJ9F"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,32 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-REVCJJ9F" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1747027" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/REVCJJ9F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-REVCJJ9F" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-REVCJJ9F" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-REVCJJ9F" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/0973258619875600" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-REVCJJ9F"></div>
 </article>
 <div id="csl-bib-meta-REVCJJ9F" class="csl-bib-meta">
-  <article id="abstract-article-REVCJJ9F" class="abstract-article">
-    <h1>Samandrag</h1>
-    Liberating Structures (LSs) are simple and concrete tools that can enhance group performance in diverse 
-organizational settings. They do so by organizing participants in different spatial arrangements and group 
-configurations and by distributing participation and sequencing steps. In this article, we report on a pilot 
-implementation of LS in several classrooms of a business school in a mid-sized Norwegian University. Our 
-research is centred around four guiding research questions to gauge students’ experience of LS, including 
-their sense of inclusion, engagement and LS’ pedagogical effectiveness. A mixed-methods approach was 
-employed, including a quantitative survey, participant observation and debriefing conversations and 
-informal interviews with instructors and students who experienced LS. An exploratory survey instrument 
-was employed to measure the various attributes of LS, and four dimensions were identified and validated. 
-Our findings suggest that LS are easy to implement, help increase participation, have the potential to 
-enhance learning and can represent an effective pedagogical alternative to traditional lecture-centred 
-classrooms. Our pilot study suggests that LS hold the creative potency to enhance both the instructor 
-pedagogical experience and the student learning experience. By identifying the limitations of our pilot 
-study, we call for more rigorous assessments of LS in the future.
-  </article>
   <article id="contributors-article-REVCJJ9F" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -145,7 +128,7 @@ Rom 4A3732
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

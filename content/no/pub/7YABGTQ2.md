@@ -1,5 +1,5 @@
 ---
-title: "Forståelser av og begrunnelser for barnelitteratur. En studie av litteraturdidaktikkens identiteter i rammeplaner for barnehage og barnehagelærerutdanning"
+title: "7YABGTQ2"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7YABGTQ2" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1824754" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7YABGTQ2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-7YABGTQ2" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7YABGTQ2" class="csl-bib-button">Medverkande</a>
+    <a href="https://utdanningogpraksis.no/index.php/up/article/download/2254/4335" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7YABGTQ2"></div>
 </article>
 <div id="csl-bib-meta-7YABGTQ2" class="csl-bib-meta">
-  <article id="abstract-article-7YABGTQ2" class="abstract-article">
-    <h1>Samandrag</h1>
-    Denne studien undersøker litteraturdidaktikkens identiteter i rammeplaner for barnehage- og barnehagelærerutdanning, med vekt på det som kan betegnes som litteraturdidaktikkens «hva» (hva er barnelitteratur?) og «hvorfor» (hvorfor skal vi arbeide med barnelitteratur?). Et utgangspunkt for studien er at reformer og nye rammeplaner aktualiserer spørsmål om hvordan litteraturdidaktikk kan forstås. Dokumentene som analyseres, favner perioden 2006–2018 og belyser spenninger og bevegelser over en tolvårsperiode. Vi har gjort en kvalitativ innholdsanalyse av rammeplanene, hvor både en empirinær lesing samt teoretiske perspektiver på barnelitteratur, litteraturvitenskap og litterasitet har gitt retning i analyse- og tolkningsprosessen. Et sentralt, men ikke overraskende funn er at begrepet tekst har fått en viktig plass i rammeplanene, noe som kan ses i sammenheng med lese- og litterasitetsforskningens innflytelse. Samtidig opptrer tekstbegrepet på ulike måter i rammeplanene, og det knytter seg enkelte tolkningsutfordringer til hvordan det skal forstås. Det får innvirkning på det som kan betegnes som litteraturdidaktikkens «hva»-spørsmål i barnehagesammenheng. Rammeplanene svarer implisitt og eksplisitt på litteraturdidaktikkens «hvorfor»-spørsmål, hva barnelitteratur skal være godt for, ved å trekke forbindelseslinjer til blant annet estetikk, kulturformidling, danning, demokrati- og språkutvikling. Litteraturdidaktikkens identiteter, som bør forstås med en både–og-logikk, kan også ses i sammenheng med barnehagefaglige diskusjoner overordnet sett.
-  </article>
   <article id="contributors-article-7YABGTQ2" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

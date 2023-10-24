@@ -1,5 +1,5 @@
 ---
-title: "A Proposal to Incorporate Experiential Education in Non-Confessional, Intercultural Religious Education: Reflections from and on the Norwegian Context"
+title: "PQLFTK5Y"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PQLFTK5Y" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2042152" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PQLFTK5Y" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-PQLFTK5Y" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PQLFTK5Y" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-PQLFTK5Y" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2077-1444/13/8/727/pdf?version=1660122183" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PQLFTK5Y"></div>
 </article>
 <div id="csl-bib-meta-PQLFTK5Y" class="csl-bib-meta">
-  <article id="abstract-article-PQLFTK5Y" class="abstract-article">
-    <h1>Samandrag</h1>
-    In Norway, religious education (RE) is a non-confessional and common core subject that should be taught in an objective, critical, and pluralistic manner. As a primary school subject, students learn about a variety of religions and worldviews together in the same classroom. The inclusive framing intends to provide an intercultural space in which the students can enhance their understandings of the beliefs of people whose worldviews differ from their own. Consequently, the subject has privileged an outsider approach, wherein students should learn about religion in a non-partial way, that is, not from religion. However, the claim for objective, critical, and pluralistic teaching still calls into question the role of learning from religions. First, an outsider approach has been criticized for promoting a dated view on learning, ignoring pedagogical knowledge on how students learn. Second, the latest national curriculum states that RE should not only provide students with in-depth knowledge about world religions, but also foster personalized learning experiences. Against this background, the paper asks how the concept of experiential learning in the tradition of Freire, Dewey, and Vygotsky invites a reflection on the ways by which the Norwegian RE subject is passed on most meaningfully in a diverse learning context.
-  </article>
   <article id="contributors-article-PQLFTK5Y" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -67,13 +63,13 @@ Rom 2P306
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

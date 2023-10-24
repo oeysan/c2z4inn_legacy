@@ -1,5 +1,5 @@
 ---
-title: "Diverse Locations and a Long History: Historical Context for Urban Leopards (Panthera pardus) in the Early Anthropocene From Seoul, Korea"
+title: "J5QPWSDK"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-J5QPWSDK" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1959203" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/J5QPWSDK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-J5QPWSDK" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-J5QPWSDK" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-J5QPWSDK" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fcosc.2021.765911/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-J5QPWSDK"></div>
 </article>
 <div id="csl-bib-meta-J5QPWSDK" class="csl-bib-meta">
-  <article id="abstract-article-J5QPWSDK" class="abstract-article">
-    <h1>Samandrag</h1>
-    While the urban landscapes of the early Anthropocene may appear hostile to large carnivores, humans and leopards ( Panthera pardus ) are known to co-inhabit major urban centres like Mumbai (India), Nairobi (Kenya) and Johannesburg (South Africa). We provide evidence that the presence of leopards in urban landscapes is not, however, a new phenomenon and has occurred repeatedly over the early history of the Anthropocene. Using records of Amur leopards ( P. p. orientalis ) in Seoul, Korea, at the end of the 19th century, a capital city and major urban centre with a high human population density, we explore socio-cultural, political and ecological factors that may have facilitated human-leopard co-occurrence in an urban landscape and the factors that eventually led to the leopards' extirpation. We suggest that, in the absence of unsustainable levels of persecution by humans, leopards are able to persist in urban landscapes which contain small patches of dense vegetation and have sufficient alternative food supplies. In light of the continued expansion of urban landscapes in the 21st century and increasing conservation focus on the presence of large carnivore populations there, this paper provides historical context to human co-existence with leopards in urban landscapes during the Anthropocene–and what we can learn from it for the future.
-  </article>
   <article id="contributors-article-J5QPWSDK" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -57,7 +53,7 @@ Studiested Evenstad
     <div class="sdg-container"><div id="sdg11" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg11_no.png" class="image" alt="SDG 11">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>23</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=11#archive" class="sdg-publication-count"><span>23</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/baerekraftige-byer-og-lokalsamfunn?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

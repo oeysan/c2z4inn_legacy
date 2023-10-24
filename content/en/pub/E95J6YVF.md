@@ -1,5 +1,5 @@
 ---
-title: "Barnets beste som juridisk argument i begrunnelser og beslutninger i barnevernet"
+title: "E95J6YVF"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E95J6YVF" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1898352" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/E95J6YVF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-E95J6YVF" class="csl-bib-button">Contributors</a>
+    <a href="https://press.nordicopenaccess.no/index.php/noasp/catalog/view/103/498/3790-1" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-E95J6YVF"></div>
 </article>

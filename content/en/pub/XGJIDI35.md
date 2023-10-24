@@ -1,5 +1,5 @@
 ---
-title: "Foreldreskap og rus – den tause skammen: Barn som har foreldre i rusbehandling blir i liten gradinvitert til barne- og familiesamtaler"
+title: "XGJIDI35"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XGJIDI35" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1737295" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XGJIDI35" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XGJIDI35" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/issn.1504-3010-2019-01-02" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-XGJIDI35"></div>
 </article>

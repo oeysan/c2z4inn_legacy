@@ -1,5 +1,5 @@
 ---
-title: "Adding Vibration During Varied-Intensity Work Intervals Increases Time Spent Near Maximal Oxygen Uptake in Well-Trained Cyclists"
+title: "NK9B2LVY"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NK9B2LVY" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2145804" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NK9B2LVY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-NK9B2LVY" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NK9B2LVY" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-NK9B2LVY" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1123/ijspp.2021-0572" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-NK9B2LVY"></div>
 </article>
 <div id="csl-bib-meta-NK9B2LVY" class="csl-bib-meta">
-  <article id="abstract-article-NK9B2LVY" class="abstract-article">
-    <h1>Abstract</h1>
-    Purpose: Previous research suggests that the percentage of maximal oxygen uptake attained and the time it is sustained close to maximal oxygen uptake (eg, &gt;90%) can serve as a good criterion to judge the effectiveness of a training stimulus. The aim of this study was to investigate the acute effects of adding vibration during varied high-intensity interval training (HIIT) sessions on physiological and neuromuscular responses. Methods: Twelve well-trained cyclists completed a counterbalanced crossover protocol, wherein 2 identical varied HIIT cycling sessions were performed with and without intermittent vibration to the lower-intensity workloads of the work intervals (6 × 5-min work intervals and 2.5-min active recovery). Each 5-minute work interval consisted of 3 blocks of 40 seconds performed at 100% of maximal aerobic power interspersed with 60-second workload performed at a lower power output, equal to the lactate threshold plus 20% of the difference between lactate threshold and maximal aerobic power. Oxygen uptake and electromyographic activity of lower and upper limbs were recorded during all 5-minute work intervals. Results: Adding vibration induced a longer time ≥90% maximal oxygen uptake (11.14 [7.63] vs 8.82 [6.90] min, d  = 0.64, P  = .048) and an increase in electromyographic activity of lower and upper limbs during the lower-intensity workloads by 20% (16%) and 34% (43%) ( d  = 1.09 and 0.83; P  = .03 and .015), respectively. Conclusion: Adding vibration during a varied HIIT session increases the physiological demand of the cardiovascular and neuromuscular systems, indicating that this approach can be used to optimize the training stimulus of well-trained cyclists.
-  </article>
   <article id="contributors-article-NK9B2LVY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg7" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg07_en.png" class="image" alt="SDG 7">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>27</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=7#archive" class="sdg-publication-count"><span>27</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal7" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

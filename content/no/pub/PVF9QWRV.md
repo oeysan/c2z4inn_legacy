@@ -1,5 +1,5 @@
 ---
-title: "Seasonal variation of Mastophorus muris (Nematoda: Spirurida) in the water vole Arvicola amphibius from southern Sweden"
+title: "PVF9QWRV"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PVF9QWRV" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1641915" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PVF9QWRV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-PVF9QWRV" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PVF9QWRV" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1017/S0022149X18000937" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-PVF9QWRV"></div>
 </article>
 <div id="csl-bib-meta-PVF9QWRV" class="csl-bib-meta">
-  <article id="abstract-article-PVF9QWRV" class="abstract-article">
-    <h1>Samandrag</h1>
-    This study focused on the spirurid nematode Mastophorus muris in water voles ( Arvicola amphibius ) trapped in three regions in southern Sweden during spring and fall 2013. The collection of water voles formed part of a larger project (EMIRO) on the cestode Echinococcus multilocularis in rodents. The voles’ stomach contents were examined for the presence of M. muris . Prevalence, mean abundance and mean intensity of infection were calculated. A generalized linear model model was used to examine the effects of sex, functional group, season and region on the number of M. muris individuals in each vole. Forty-seven of 181 (26%) voles were infected with M. muris , with up to 74 worms each. The overall mean intensity (worms per infected vole) was 15 (95% CI 10–21), and abundance (mean number of worms in all voles) was 4 (95% CI 2–6). Model output indicated a significant effect of season and region with respect to abundance of nematode infection, which was independent of sex and functional group of the investigated host.
-  </article>
   <article id="contributors-article-PVF9QWRV" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

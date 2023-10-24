@@ -106,21 +106,20 @@
     },
     "c2z": {
       "Package": "c2z",
-      "Version": "0.2.0.9000",
+      "Version": "0.2.0.9001",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
-      "RemoteUsername": "oeysan",
       "RemoteRepo": "c2z",
-      "RemoteRef": "main",
-      "RemoteSha": "64a176b9394a9b2436a9b2720d044675c6516467",
+      "RemoteUsername": "oeysan",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "23e615ff227f9fd91d00b838abe68d92beb467a6",
       "Requirements": [
         "R",
         "dplyr",
         "httr",
         "jsonlite",
         "purrr",
-        "readr",
         "rlang",
         "rvest",
         "stats",
@@ -130,18 +129,18 @@
         "tidyselect",
         "utils"
       ],
-      "Hash": "455e342c6af40f4860badd02130a2bc3"
+      "Hash": "ce5dcf73e94d1dff182f5cec23ab08df"
     },
     "c2z4uni": {
       "Package": "c2z4uni",
-      "Version": "0.1.0.9004",
+      "Version": "0.1.0.9006",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
-      "RemoteUsername": "oeysan",
       "RemoteRepo": "c2z4uni",
-      "RemoteRef": "main",
-      "RemoteSha": "9543a0a3a66e52ca2024db068b88c9ad905c9d28",
+      "RemoteUsername": "oeysan",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "7bf11b55cae1e99862c066e63c8d59ed7f9b8424",
       "Requirements": [
         "R",
         "c2z",
@@ -160,7 +159,7 @@
         "tidyr",
         "utils"
       ],
-      "Hash": "87580fd25c154b256308aa3f93ae66cc"
+      "Hash": "03476e85ed38f4c846ddf15b35c389d0"
     },
     "cachem": {
       "Package": "cachem",
@@ -409,9 +408,9 @@
     },
     "htmltools": {
       "Package": "htmltools",
-      "Version": "0.5.6",
+      "Version": "0.5.6.1",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Requirements": [
         "R",
         "base64enc",
@@ -422,7 +421,7 @@
         "rlang",
         "utils"
       ],
-      "Hash": "a2326a66919a3311f7fbb1e3bf568283"
+      "Hash": "1e12fe667316a76508898839ecfb2d00"
     },
     "httr": {
       "Package": "httr",
@@ -857,13 +856,13 @@
     },
     "tinytex": {
       "Package": "tinytex",
-      "Version": "0.47",
+      "Version": "0.48",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Requirements": [
         "xfun"
       ],
-      "Hash": "8d4ccb733843e513c1c1cdd66a759f0d"
+      "Hash": "8f96d229b7311beb32b94cf413b13f84"
     },
     "triebeard": {
       "Package": "triebeard",
@@ -901,19 +900,19 @@
     },
     "utf8": {
       "Package": "utf8",
-      "Version": "1.2.3",
+      "Version": "1.2.4",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Requirements": [
         "R"
       ],
-      "Hash": "1fe17157424bb09c48a8b3b550c753bc"
+      "Hash": "62b65c52671e6665f803ff02954446e9"
     },
     "vctrs": {
       "Package": "vctrs",
-      "Version": "0.6.3",
+      "Version": "0.6.4",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Requirements": [
         "R",
         "cli",
@@ -921,7 +920,7 @@
         "lifecycle",
         "rlang"
       ],
-      "Hash": "d0ef2856b83dc33ea6e255caf6229ee2"
+      "Hash": "266c1ca411266ba8f365fcc726444b87"
     },
     "vroom": {
       "Package": "vroom",

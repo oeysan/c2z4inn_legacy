@@ -1,5 +1,5 @@
 ---
-title: "Læringsmiljøstudien ved ergoterapeututdanningene 2017-2020: oppsummering av foreløpige resultater"
+title: "IW7AJTS2"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IW7AJTS2" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1981162" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/IW7AJTS2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IW7AJTS2" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-IW7AJTS2"></div>

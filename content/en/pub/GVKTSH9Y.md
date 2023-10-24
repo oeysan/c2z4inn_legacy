@@ -1,5 +1,5 @@
 ---
-title: "Helpful Ingredients in the Treatment of Long-Term Substance Use Disorders: A Collaborative Narrative Study"
+title: "GVKTSH9Y"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GVKTSH9Y" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1694580" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GVKTSH9Y" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GVKTSH9Y" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GVKTSH9Y" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-GVKTSH9Y" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://journals.sagepub.com/doi/pdf/10.1177/1178221819844996" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-GVKTSH9Y"></div>
 </article>
 <div id="csl-bib-meta-GVKTSH9Y" class="csl-bib-meta">
-  <article id="abstract-article-GVKTSH9Y" class="abstract-article">
-    <h1>Abstract</h1>
-    Relatively few individuals with a substance use disorder (SUD) seek or receive treatment, and knowledge about the effective ingredients in SUD treatment, from the perspective of those who receive it, is scarce. Our study purpose was to explore the experiences of those with long-term SUDs and the aspects they found helpful during treatment and long-term recovery. Semi-structured interviews were conducted with 18 participants, each of whom had been diagnosed with a long-term SUD, and who had been abstinent for at least 5 years. A resource group of peer consultants in long-term recovery from SUDs contributed to study planning, preparation, and initial analyses. Participants preferred individualized, long-term treatment, and support from both therapists and other clients. They further acknowledged the importance of their own sense of responsibility for their treatment and recovery success. Greater focus should be placed on viewing long-term SUD as a long-term condition, similar to somatic diseases, and SUD treatment services should place greater emphasis on developing partnership care models, long-term monitoring and support, and actively engaging recovered clients in the care of others in SUD treatment.
-  </article>
   <article id="contributors-article-GVKTSH9Y" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -97,13 +93,13 @@ Room 4L3227
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

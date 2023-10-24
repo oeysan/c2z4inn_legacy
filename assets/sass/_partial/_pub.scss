@@ -5,11 +5,11 @@
 
 
 #publications {
-    a {
+    .personas a {
         color: $global-flashy;
     }
 
-    a:hover {
+    .personas a:hover {
         text-decoration: underline;
     }
 }
@@ -17,11 +17,11 @@
 
 #data-container {
 	.sdg-article a {
-		color: $white !important;
+		color: $white;
 	}
 
 	.sdg-article a:hover {
-		text-decoration: none !important;
+		text-decoration: none;
 	}
 
 
@@ -33,17 +33,17 @@
 	padding: 0;
 
 	article {
-		margin: 20px 0 20px 0 !important;
-		padding: 0 !important;
+		margin: 20px 0 20px 0;
+		padding: 0;
 	}
 
 	
 	.sdg-container {
-		display: flex !important;
-		flex-wrap: wrap !important;
-		justify-content: left !important;
-		align-items: left !important;
-		width: 100% !important;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: left;
+		align-items: left;
+		width: 100%;
 	}
 
 	.personas {
@@ -67,7 +67,7 @@
     
             .photo {
 				margin-top: 10px;
-           		width: 150px !important;
+           		width: 150px;
             }
 
             .photo img {
@@ -132,18 +132,18 @@
 			line-height: 2rem;
 			background-color: $global-background;
 			border: 1px solid $global-secondary-color;
-			color: $global-font-color !important;
+			color: $global-font-color;
 			border-radius: .25rem;
 			cursor: pointer;
-			margin: 3px !important;
+			margin: 3px;
 			padding: 0 1rem;
 			box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 		}
 
 		.personas-cristin:hover {
-			text-decoration: none !important;
+			text-decoration: none;
 			background-color: $global-flashy;
-			color: white !important;
+			color: white;
 		}
 	}
 

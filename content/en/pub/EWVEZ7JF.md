@@ -1,5 +1,5 @@
 ---
-title: "Performing Sport Political Legitimacy: A Cultural Sociology Perspective on Sport Politics"
+title: "EWVEZ7JF"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EWVEZ7JF" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1704002" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/EWVEZ7JF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-EWVEZ7JF" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EWVEZ7JF" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-EWVEZ7JF" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://journals.humankinetics.com/downloadpdf/journals/ssj/36/2/article-p171.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-EWVEZ7JF"></div>
 </article>
 <div id="csl-bib-meta-EWVEZ7JF" class="csl-bib-meta">
-  <article id="abstract-article-EWVEZ7JF" class="abstract-article">
-    <h1>Abstract</h1>
-    This paper concerns the performance of sport politics. We carry out a text analysis of a year-long media debate that raged in Norwegian newspapers throughout 2016. After the Medias had critiqued how the Norwegian Confederation of Sports (NIF) spends state-provided funds, the Minister of Culture questioned the alleged civil contribution from NIF and demanded change. An archival search retrieved 488 articles and 1604 pages on the matter. Performance theory clarifies the debaters’ failure and success in achieving sport political legitimacy. Success was an ongoing achievement contingent upon the actors’ abilities to apply broadly available representations in the pragmatics of the dispute. Drawing on Norwegian codes of equality and by polluting the image of NIF, the Minister of Culture eventually managed to reshape Norwegian sports.
-  </article>
   <article id="contributors-article-EWVEZ7JF" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -99,7 +95,7 @@ Room 4R4142
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

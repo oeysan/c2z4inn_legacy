@@ -1,5 +1,5 @@
 ---
-title: "Infectious keratoconjunctivitis in semi-domesticated reindeer (Rangifer tarandus tarandus): a questionnaire-based study among reindeer herders in Norway and Sweden"
+title: "5TYRDDJB"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5TYRDDJB" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2163297" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/5TYRDDJB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-5TYRDDJB" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-5TYRDDJB" class="csl-bib-button">Medverkande</a>
+    <a href="https://actavetscand.biomedcentral.com/counter/pdf/10.1186/s13028-023-00694-x" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-5TYRDDJB"></div>
 </article>
 <div id="csl-bib-meta-5TYRDDJB" class="csl-bib-meta">
-  <article id="abstract-article-5TYRDDJB" class="abstract-article">
-    <h1>Samandrag</h1>
-    Background The effects of climate change, loss of pastureland to other land usage and presence of large carnivores are the main reasons for the increase in supplementary feeding of semi-domesticated reindeer ( Rangifer tarandus tarandus ) in Fennoscandia over the last decades. Feeding might expose reindeer to stress and increased animal-to-animal contact, leading to an increased risk of infectious disease transmission, such as infectious keratoconjunctivitis (IKC). As it can develop rapidly and be very painful, IKC is described as an important animal welfare concern and a potential source of economic loss. The aim of this study was to investigate the current presence of IKC and potential associations between IKC and supplementary feeding through an online questionnaire survey, distributed among reindeer herders in Norway and Sweden in 2021. ResultsSeventy-six reindeer herders (33 from Norway and 43 from Sweden) responded to the questionnaire, representing 6% and 4% of the registered reindeer herding groups in Norway and Sweden, respectively. Infectious keratoconjunctivitis was common, with 54 (71%) of the 76 herders that responded having observed clinical signs during the past 10 years. These signs were mainly observed as increased lacrimation, causing “wet cheeks”, but also as keratitis and conjunctivitis. Autumn and winter were the seasons in which IKC was observed most. The herders reported several measures, such as slaughter and isolation of affected reindeer, to counteract the spread of disease. The herding year 2019/2020 was associated with reports of outbreaks of IKC in herds as well as being the herding year where most herders (80%) had performed supplementary feeding. A significant association was found between IKC and feeding performed in an enclosure (odds ratio = 15.20), while feeding on free-range areas had a non-significant, negative, relationship with the appearance of IKC outbreaks (odds ratio = 0.29). Finally, there was a trend in the data suggesting that IKC affected calves especially. ConclusionsInfectious keratoconjunctivitis is a common disease, mainly observed in winter and autumn. It usually has mild to moderately severe clinical signs. Our results imply that IKC is associated with stress and feeding situations and that calves might be more susceptible than adults, however, this needs to be confirmed with further studies, preferably at an individual animal level.
-  </article>
   <article id="contributors-article-5TYRDDJB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

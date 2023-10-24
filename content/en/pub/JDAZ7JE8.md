@@ -1,5 +1,5 @@
 ---
-title: "Associations between Demographic Characteristics, Lifestyle Factors and School-Related Conditions and Symptoms of Mental Health Problems in Norwegian Upper Secondary School Students"
+title: "JDAZ7JE8"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JDAZ7JE8" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2043080" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JDAZ7JE8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JDAZ7JE8" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JDAZ7JE8" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-JDAZ7JE8" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.mdpi.com/1660-4601/19/15/9575/pdf?version=1659693111" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JDAZ7JE8"></div>
 </article>
 <div id="csl-bib-meta-JDAZ7JE8" class="csl-bib-meta">
-  <article id="abstract-article-JDAZ7JE8" class="abstract-article">
-    <h1>Abstract</h1>
-    Background: The purpose of this study was to evaluate the associations between demographic characteristics, lifestyle factors and school-related conditions, and symptoms of mental health problems in Norwegian upper secondary school students following the COVID-19 pandemic. Methods: In this cross-sectional study design we used a binary logistic regression model to evaluate potential associations between the predictors and dependent variable. Results: The following six predictors had a statistically significant impact on symptoms of mental health problems; gender effect of being a girl (p &lt; 0.001), self-perceived body image (p &lt; 0.001), sleep problems (p &lt; 0.001), dietary habits (p = 0.033), school satisfaction (p = 0.013), and satisfaction with physical education (PE) class participation (p = 0.025). Conclusions: Being a girl was associated with a 315% higher probability of reporting symptoms of mental health problems than boys, whereas one unit increase in sleep problems showed a 192% higher probability of symptoms of mental health problems. Furthermore, a one unit increase on the respective beneficial predictors’ scales was associated with the following percentage having a lower probability of reporting symptoms of mental health problems; self-perceived body image (59%), dietary habits (58%), school satisfaction (82%), and satisfaction with PE class participation (68%).
-  </article>
   <article id="contributors-article-JDAZ7JE8" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -99,7 +95,7 @@ Room 4L3334
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Explaining the Illusion of Asymmetric Insight"
+title: "F6AY5USD"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-F6AY5USD" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2051658" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/F6AY5USD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-F6AY5USD" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-F6AY5USD"></div>

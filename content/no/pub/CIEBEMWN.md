@@ -1,5 +1,5 @@
 ---
-title: "Improved Rehabilitation Outcomes for Persons With and Without Problematic Substance Use After 2 Years With Assertive Community Treatment—A Prospective Study of Patients With Severe Mental Illness in 12 Norwegian ACT Teams"
+title: "CIEBEMWN"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CIEBEMWN" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1874107" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/CIEBEMWN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-CIEBEMWN" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CIEBEMWN" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-CIEBEMWN" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fpsyt.2020.607071/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-CIEBEMWN"></div>
 </article>
 <div id="csl-bib-meta-CIEBEMWN" class="csl-bib-meta">
-  <article id="abstract-article-CIEBEMWN" class="abstract-article">
-    <h1>Samandrag</h1>
-    Background: Persons with severe mental illness often face difficulties in accessing and receiving adequate services enabling them to live independently. Many have co-occurring substance use problems that increase the risk of adverse outcomes. Community-based service models have been implemented around the world, including assertive community treatment (ACT), but the knowledge of rehabilitation outcomes in different subgroups is limited. We aimed to explore rehabilitation outcomes among patients suffering severe mental illness with and without substance use problems who had received ACT services for at least 2 years. Additionally, we compared differences in changes between the two groups. Methods: A total of 142 patients who received services for 2 years from the first 12 Norwegian ACT teams were included. Eighty-four (59%) had problematic substance use, while 58 (41%) did not. Data regarding housing, activity, symptoms, functioning, and subjective quality of life were collected upon enrollment into ACT and at 2 years of follow-up. Clinician-rated scales and self-report questionnaires were used. Changes within the two groups and differences in change between the groups were assessed using generalized linear mixed models. Results: Both groups were more likely to have good housing, higher level of functioning, and less anxiety and depressive symptoms after 2 years. The odds of good housing among participants with problematic substance use increased only after adjusting for age and gender. Participants with problematic substance use had less severe symptoms, particularly negative and manic symptoms, while participants without problematic substance use reported improved satisfaction with life in general. Neither group experienced a change in having a meaningful daily activity, positive symptoms, practical and social functioning, or subjective quality of life. The reduction of manic symptoms in the substance use group was the only difference between the groups. Conclusion: After 2 years, patients with and without problematic substance use experienced improvements in several important domains. Furthermore, the improvements were similar in both groups for most outcomes. This may suggest that ACT has a place in the continued effort toward integrated and comprehensive community services empowering patients with severe mental illness to achieve and sustain an independent life, including marginalized groups with severe substance use.
-  </article>
   <article id="contributors-article-CIEBEMWN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 4L3227
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

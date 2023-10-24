@@ -1,5 +1,5 @@
 ---
-title: "Evaluating expert‐based habitat suitability information of terrestrial mammals with GPS‐ tracking data"
+title: "G3GA9TA3"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-G3GA9TA3" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2023691" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/G3GA9TA3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-G3GA9TA3" class="csl-bib-button">Medverkande</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/geb.13523" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-G3GA9TA3"></div>
 </article>

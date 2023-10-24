@@ -1,5 +1,5 @@
 ---
-title: "Shadow structure in higher-level military staff work"
+title: "JYV6NUDS"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JYV6NUDS" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1516128" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JYV6NUDS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JYV6NUDS" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JYV6NUDS" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-JYV6NUDS" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-JYV6NUDS"></div>
 </article>
 <div id="csl-bib-meta-JYV6NUDS" class="csl-bib-meta">
-  <article id="abstract-article-JYV6NUDS" class="abstract-article">
-    <h1>Samandrag</h1>
-    The study's aim was to elucidate the role played by leadership in the relationship between informal organizational influencers and the formal organization in a military context. A qualitative study was conducted by interviewing eleven high-level military officers and analyzing the data according to the grounded theory method. The analysis resulted in an identification of a core variable : Organization Influencers, which are composed of two sub-core variables (Shadow Factors and Formal Factors) that interact with one another. Therefore challenges arise for the leader to balance varying shadow and formal factors for individuals, groups and the organization. Previously research has defined the shadow organisation as a negative force ; however, our results indicate that this is not always the case. This study contributes by mapping out specific shadow factors in relationship with formal factors of a military organization, along with pointing out that shadow factors can be beneficial forces for organisations if balanced appropriately by the leader.
-  </article>
   <article id="contributors-article-JYV6NUDS" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -57,7 +52,7 @@ Studiested Elverum
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

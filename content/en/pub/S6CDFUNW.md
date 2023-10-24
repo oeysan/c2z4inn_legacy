@@ -1,5 +1,5 @@
 ---
-title: "Juss i barnehagesektoren"
+title: "S6CDFUNW"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-S6CDFUNW" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2098620" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/S6CDFUNW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-S6CDFUNW" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-S6CDFUNW" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-S6CDFUNW"></div>
 </article>
 <div id="csl-bib-meta-S6CDFUNW" class="csl-bib-meta">
-  <article id="abstract-article-S6CDFUNW" class="abstract-article">
-    <h1>Abstract</h1>
-    Har bibliografi, register
-  </article>
   <article id="contributors-article-S6CDFUNW" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "The association between physical activity and symptoms of depression in different contexts – a cross-sectional study of Norwegian adolescents"
+title: "JRRG3I5G"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JRRG3I5G" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1650469" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JRRG3I5G" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JRRG3I5G" class="csl-bib-button">Contributors</a>
+    <a href="https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-018-6257-0" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JRRG3I5G"></div>
 </article>

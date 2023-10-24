@@ -1,5 +1,5 @@
 ---
-title: "Environmental effect of high-, upper, and lower middle-income economies’ energy mix: Is there a trade-off between unemployment and environmental quality?"
+title: "MCWN3M7K"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MCWN3M7K" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2172489" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/MCWN3M7K" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-MCWN3M7K" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-MCWN3M7K" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-MCWN3M7K" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/0958305X231187034" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-MCWN3M7K"></div>
 </article>
 <div id="csl-bib-meta-MCWN3M7K" class="csl-bib-meta">
-  <article id="abstract-article-MCWN3M7K" class="abstract-article">
-    <h1>Abstract</h1>
-    The fact that scenarios of high unemployment potentially offer the opportunity for improved environmental sustainability remains a dilemma. In instances when environmental sustainability is triggered by increased unemployment, that poses a challenge in the simultaneous achievement of sustainable development goals (SDGs) 8 (decent work and economic growth) and 13 (climate action). On the basis of this concern, in this study, we examine whether a swap association exists between unemployment and environmental quality vis-à-vis the environmental Phillips curve (EPC) hypothesis for high-, upper, and lower middle-income (HUmLmI) economies (comprising both developed and developing countries) over the period 1990–2020. We used the novel dynamic autoregressive distributed lag simulation approach. From the findings, the EPC hypothesis is not valid in high-income (developed) economies in the short and long term. However, the validity of the EPC hypothesis was upheld in the upper and lower middle-income (developing) economies. This implies that the lack of decent work opportunities/high unemployment rates hampers environmental quality in high-income countries, promotes environmental quality in upper middle-income countries, and does not drive environmental quality in lower middle-income countries. In addition, economic growth and the use of fossil energy exacerbate environmental degradation. On the other hand, the consumption of renewable energy sources reduces environmental woes by −0.22, −0.54, and −1.15 in HUmLmI countries, respectively. This shows that renewable energy sources adapt to the environmental sustainability motive. These results imply that policy instruments to drive SDGs 8 and 13 in these income-categorized economies should be case specific rather than taking a unilateral policy approach.
-  </article>
   <article id="contributors-article-MCWN3M7K" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Campus Kongsvinger
     <div class="sdg-container"><div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>54</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

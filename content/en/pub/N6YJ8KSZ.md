@@ -1,5 +1,5 @@
 ---
-title: "Barriers and challenges to sustainable physical planning for mountain destinations and second-home developments in the mountain region of south-eastern Norway: the reign of governments or developers?"
+title: "N6YJ8KSZ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-N6YJ8KSZ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2099035" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/N6YJ8KSZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-N6YJ8KSZ" class="csl-bib-button">Contributors</a>
+    <a href="https://czasopisma.uni.lodz.pl/esrap/article/download/13518/14902" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-N6YJ8KSZ"></div>
 </article>

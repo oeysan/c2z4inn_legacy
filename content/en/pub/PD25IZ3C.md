@@ -1,5 +1,5 @@
 ---
-title: "Examining crude oil price outlook amidst substitute prices and household energy expenditures in the USA: A novel nonparametric multivariate QQR approach"
+title: "PD25IZ3C"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PD25IZ3C" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2132957" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PD25IZ3C" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PD25IZ3C" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1016/j.eneco.2023.106613" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PD25IZ3C"></div>
 </article>

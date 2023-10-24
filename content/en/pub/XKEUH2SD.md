@@ -1,5 +1,5 @@
 ---
-title: "Body dysmorphia in common skin diseases: results of an observational, cross‐sectional multicentre study among dermatological outpatients in 17 European countries*"
+title: "XKEUH2SD"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,27 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XKEUH2SD" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1991597" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XKEUH2SD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-XKEUH2SD" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XKEUH2SD" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-XKEUH2SD" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://repository.ubn.ru.nl//bitstream/handle/2066/288358/288358.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-XKEUH2SD"></div>
 </article>
 <div id="csl-bib-meta-XKEUH2SD" class="csl-bib-meta">
-  <article id="abstract-article-XKEUH2SD" class="abstract-article">
-    <h1>Abstract</h1>
-    Background: Body dysmorphic disorder (BDD) is a common psychiatric disorder associated with high costs for healthcare systems as patients may repeatedly ask for different, often not effective interventions. BDD symptoms are more prevalent in patients with dermatological conditions than the general population, but there are no large sample studies comparing the prevalence of BDD symptoms between patients with dermatological conditions and healthy skin controls. 
- 
-Objectives: To compare the prevalence of BDD symptoms between patients with different dermatological conditions and healthy skin controls and to describe sociodemographic, physical and psychological factors associated with BDD symptoms to identify patients who may have a particularly high chance of having this condition. 
- 
-Methods: This observational cross-sectional, comparative multi-centre study included 8295 participants: 5487 consecutive patients with different skin diseases (56% female) recruited among dermatological out-patients at 22 clinics in 17 European countries and 2808 healthy skin controls (66% female). All patients were examined by a dermatologist. BDD symptoms were assessed by the Dysmorphic Concern Questionnaire (DCQ). Sociodemographic data, information on psychological factors and physical conditions were collected. Each patient was given a dermatological diagnosis according to ICD-10 by a dermatologist. 
- 
-Results: The participation rate of invited dermatological patients was 82.4% on average across all centres. BDD symptoms were five times more prevalent in patients with dermatological conditions than in healthy skin controls (10.5% vs. 2.1%). Patients with hyperhidrosis, alopecia and vitiligo had a more than eleven-fold increased chance (adjusted Odds Ratio (OR) &gt; 11) of having BDD symptoms compared to healthy skin controls, and patients with atopic dermatitis, psoriasis, acne, hidradenitis suppurativa, prurigo and bullous diseases had a more than six-fold increased chance (adjusted OR &gt; 6) of having BDD symptoms. Using a logistic regression model, BDD symptoms were significantly related to lower age, female sex, higher psychological stress and feelings of stigmatisation. 
- 
-Conclusions: This study reveals that clinical BDD symptoms are significantly associated with common dermatological diseases. As such symptoms are associated with higher levels of psychological distress and multiple unhelpful consultations, general practitioners and dermatologists should consider BDD and refer patients when identified to an appropriate service for BDD screening and management
-  </article>
   <article id="contributors-article-XKEUH2SD" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -75,7 +63,7 @@ Room 4L3202
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

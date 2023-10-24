@@ -1,5 +1,5 @@
 ---
-title: "Factors associated with the level of prolactin in patients under remission from Alcohol Use Disorder: A gender perspective"
+title: "EJ9L8TM7"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EJ9L8TM7" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1944982" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/EJ9L8TM7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EJ9L8TM7" class="csl-bib-button">Contributors</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/npr2.12182" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-EJ9L8TM7"></div>
 </article>

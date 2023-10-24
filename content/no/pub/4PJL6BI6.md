@@ -1,5 +1,5 @@
 ---
-title: "Modeling markups and its determinants: The case of Norwegian industries and regions"
+title: "4PJL6BI6"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4PJL6BI6" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2050436" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/4PJL6BI6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-4PJL6BI6" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-4PJL6BI6" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-4PJL6BI6" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.1016/j.eap.2022.08.014" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-4PJL6BI6"></div>
 </article>
 <div id="csl-bib-meta-4PJL6BI6" class="csl-bib-meta">
-  <article id="abstract-article-4PJL6BI6" class="abstract-article">
-    <h1>Samandrag</h1>
-    In this paper we use an innovative and nonstandard approach to model and estimate markups and market power. The approach uses a regression framework with determinants as well as a random component. We use this innovative tool to investigate the level of market power in Norwegian industries and regions. Norway is an interesting case study because in Norway prices on most consumer goods and services are higher than in similar countries. Given that many studies show substantial and an increasing trend in markup, it is naturally interesting to investigate the market power in different industries and different regions in Norway. We use an unbalanced panel collected by The Norwegian Tax Administration for the period 2000-2018 to address this issue. We find low and non-increasing market power in Norway, which is different from other countries. Further, we find that market powers decrease with firm-size, increase with geographical industrial concentration and decrease with rural location.
-  </article>
   <article id="contributors-article-4PJL6BI6" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -121,7 +117,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>64</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

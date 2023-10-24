@@ -1,5 +1,5 @@
 ---
-title: "The Gordian Knot of Demarcation: Tying Up Some Loose Ends"
+title: "JGEYCSK2"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JGEYCSK2" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1700177" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JGEYCSK2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JGEYCSK2" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JGEYCSK2" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-JGEYCSK2" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://bora.uib.no/bora-xmlui/bitstream/1956/22311/1/dr.thesis_2020_Letrud.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JGEYCSK2"></div>
 </article>
 <div id="csl-bib-meta-JGEYCSK2" class="csl-bib-meta">
-  <article id="abstract-article-JGEYCSK2" class="abstract-article">
-    <h1>Abstract</h1>
-    In this article, I seek to improve upon a definition of pseudoscience put forward by Sven Ove Hansson. I argue that not only does its use of ‘pseudoscientific statement’ as definiendum inadequately address the theoretical issue of demarcation, it also makes the definition inapt for practical demarcation. Moreover, I argue that Hanson’sdefinition subsumes statements and associated practices that are forms of bad science, resulting in an unfavourably wide concept. I try to save the definition from the brunt of this critique by arguing that some pseudoscientific statements are particularly significant when demarcating a discipline as a pseudoscience.
-  </article>
   <article id="contributors-article-JGEYCSK2" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "A Standardized Method for Experimental Human Approach Trials on Wild Wolves"
+title: "HNYK3P99"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HNYK3P99" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2033149" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HNYK3P99" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-HNYK3P99" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HNYK3P99" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fevo.2022.793307/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-HNYK3P99"></div>
 </article>
 <div id="csl-bib-meta-HNYK3P99" class="csl-bib-meta">
-  <article id="abstract-article-HNYK3P99" class="abstract-article">
-    <h1>Samandrag</h1>
-    As wolves recolonize areas of Europe ranging from moderate to high anthropogenic impact, fear of wolves is a recurring source of conflict. Shared tools for evaluating wolf responses to humans, and comparing such responses across their range, can be valuable. Experiments in which humans approach wild wolves can increase our understanding of how wolves respond to humans, facilitating human-wolf coexistence. We have developed the first standardized protocol for evaluating wolf responses to approaching humans using high-resolution GPS data, and tested it on wild wolves. We present a field protocol for experimentally approaching GPS-collared wolves, a descriptive comparison of two statistical methods for detecting a measurable flight response, a tutorial for identifying wolf flight initiation and resettling positions, and an evaluation of the method when reducing GPS positioning frequency. The field protocol, a data collection form, and the tutorial with R code for extracting flight parameters are provided. This protocol will facilitate studies of wolf responses to approaching humans, applicable at a local, national, and international level. Data compiled in a standardized way from multiple study areas can be used to quantify the variation in wolf responses to humans within and between populations, and in relation to predictors such as social status, landscape factors, or human population density, and to establish a baseline distribution of wolf response patterns given a number of known predictors. The variation in wolf responses can be used to assess the degree to which results can be generalized to areas where GPS studies are not feasible, e.g., for predicting the range of likely wolf behaviors, assessing the likelihood of wolf-human encounters, and complementing existing tools for evaluating reports of bold wolves. Showing how wolves respond to human encounters should help demystify the behavior of wild wolves toward humans in their shared habitat.
-  </article>
   <article id="contributors-article-HNYK3P99" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

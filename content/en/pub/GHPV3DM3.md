@@ -1,5 +1,5 @@
 ---
-title: "Linguistic modalities and the sources of linguistic utterances"
+title: "GHPV3DM3"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,24 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GHPV3DM3" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2151282" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GHPV3DM3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GHPV3DM3" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#sdg-article-GHPV3DM3" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s11229-023-04062-0.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-GHPV3DM3"></div>
 </article>
 <div id="csl-bib-meta-GHPV3DM3" class="csl-bib-meta">
-  <article id="abstract-article-GHPV3DM3" class="abstract-article">
-    <h1>Abstract</h1>
-    As an object of philosophical study, language is typically considered as an abstract object rather than a lived phenomenon that comes with rich and varied phenomenology. And yet our modes of engaging with language are complex and many. The first goal of this paper is to illustrate this variety by looking at some of the linguistic modalities and forms of communication. The second goal is to suggest that at least in some specific philosophical debates, language and communication should be investigated in the context of the various linguistic modalities and forms of communication. This will be done by considering how attention to some of the linguistic modalities and forms of communication may affect philosophical debates concerning: the nature of words, language and linguistic understanding, as well as the relation between linguistic utterances and their sources.
-  </article>
   <article id="sdg-article-GHPV3DM3" class="sdg-article">
     <h1>Sustainable Development Goals</h1>
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

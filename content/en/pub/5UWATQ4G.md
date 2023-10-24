@@ -1,5 +1,5 @@
 ---
-title: "Determinants of Psychosocial Health in Psoriatic Patients: A Multi­national Study"
+title: "5UWATQ4G"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,39 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5UWATQ4G" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1525138" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/5UWATQ4G" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-5UWATQ4G" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-5UWATQ4G" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-5UWATQ4G" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.medicaljournals.se/acta/download/10.2340/00015555-2760/" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-5UWATQ4G"></div>
 </article>
 <div id="csl-bib-meta-5UWATQ4G" class="csl-bib-meta">
-  <article id="abstract-article-5UWATQ4G" class="abstract-article">
-    <h1>Abstract</h1>
-    There are limited data on the differences in the impact 
-of psoriasis between various countries with respect 
-to quality of life (QoL). The aim of this study was to 
-explore the psychosocial health of patients with psoriasis 
-in different European countries. A total of 682 
-patients were recruited in 13 European countries. All 
-patients completed a questionnaire regarding sociodemographic 
-information, negative life events, suicidal 
-ideation and satisfaction with their dermatologist. 
-Depression and anxiety were assessed with the Hospital 
-Anxiety and Depression Scale (HADS), and QoL 
-with the Dermatology Life Quality Index (DLQI) and 
-EuroQoL (EQ-5D). The lowest anxiety and depression 
-scoring was noted in patients from Denmark, the lowest 
-level of impairment in QoL in subjects from Spain, 
-and the highest level of impairment in QoL in patients 
-from Italy. The most relevant parameters influencing 
-patients’ well-being were severity of pruritus and satisfaction 
-with their dermatologist. The level of anxiety 
-and depression symptoms correlated significantly with 
-suicidal ideation.
-  </article>
   <article id="contributors-article-5UWATQ4G" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -87,7 +63,7 @@ Room 4L3202
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

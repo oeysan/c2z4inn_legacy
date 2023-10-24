@@ -1,5 +1,5 @@
 ---
-title: "Non-representativeness in corpora: perils, pitfalls and challenges"
+title: "LLJIF4LZ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LLJIF4LZ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1710767" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LLJIF4LZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LLJIF4LZ" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.4000/cognitextes.1772" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LLJIF4LZ"></div>
 </article>

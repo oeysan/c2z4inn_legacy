@@ -1,5 +1,5 @@
 ---
-title: "“Picking our Oysters” and “Swimming with our Whales”: How innovative tourism practices may engender sustainable development"
+title: "EQ947TBF"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EQ947TBF" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1801485" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/EQ947TBF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EQ947TBF" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-EQ947TBF"></div>

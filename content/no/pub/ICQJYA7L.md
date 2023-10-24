@@ -1,5 +1,5 @@
 ---
-title: "Does the Stereotypicality of Mothers’ Occupation Influence Children’s Communal Occupational Aspirations and Communal Orientation?"
+title: "ICQJYA7L"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ICQJYA7L" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1986616" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ICQJYA7L" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ICQJYA7L" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ICQJYA7L" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-ICQJYA7L" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.730859/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ICQJYA7L"></div>
 </article>
 <div id="csl-bib-meta-ICQJYA7L" class="csl-bib-meta">
-  <article id="abstract-article-ICQJYA7L" class="abstract-article">
-    <h1>Samandrag</h1>
-    Career development is a lifelong process that starts in infancy and is shaped by a number of different factors during childhood, adolescence, and adulthood. Even though career development is shaped through life, relatively little is known about the predictors of occupational aspirations in childhood. Therefore, in the present work we investigate how the stereotypicality of a mother’s occupation (female-dominated/communal vs. non-female-dominated/agentic) influences her young child’s communal occupational aspirations and communal orientation. We conducted two studies with young children. Study 1 included 72 mother–child dyads recruited from childcare centers in Northern Norway (children’s age range: 4½–6 years). Study 2 included 106 mother–child dyads recruited from Norwegian elementary schools (children’s age range: 6 to 13 years). Results from Study 1 showed that the stereotypicality of mothers’ occupation was related to their children’s communal occupational aspirations and children’s communal orientation. In contrast to our predictions and results from Study 1, the stereotypicality of mothers’ occupation was not significantly related to children’s communal occupational aspirations nor their communal orientation in Study 2. In both studies, we found no relationship between mothers’ gender attitudes or share of child care and children’s communal occupational aspirations. The results are discussed in terms of parents’ influence on children’s development of occupational aspirations.
-  </article>
   <article id="contributors-article-ICQJYA7L" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -66,7 +62,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

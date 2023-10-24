@@ -1,5 +1,5 @@
 ---
-title: "How do technological innovation and fiscal decentralization affect the environment? A story of the fourth industrial revolution and sustainable growth"
+title: "TSKPE9FV"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TSKPE9FV" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2096690" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TSKPE9FV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TSKPE9FV" class="csl-bib-button">Contributors</a>
+    <a href="https://lutpub.lut.fi/bitstream/10024/161743/1/cheng_et_al_how_do_technological_aam.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TSKPE9FV"></div>
 </article>

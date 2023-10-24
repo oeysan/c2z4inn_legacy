@@ -1,5 +1,5 @@
 ---
-title: "The Role of Moral Experts in Secret Policy"
+title: "7DQVUCLJ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7DQVUCLJ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2140934" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7DQVUCLJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-7DQVUCLJ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7DQVUCLJ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-7DQVUCLJ" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s11158-023-09582-7.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7DQVUCLJ"></div>
 </article>
 <div id="csl-bib-meta-7DQVUCLJ" class="csl-bib-meta">
-  <article id="abstract-article-7DQVUCLJ" class="abstract-article">
-    <h1>Samandrag</h1>
-    Is it morally permissible to spy on allied countries? What otherwise criminal acts  may covert intelligence agents commit in order to keep their cover? Is it permissible to subject children of high value targets to covert surveillance? In this article, I ask whether democratically elected politicians ought to rely on advice from ethics committees in answering moral choices in secret policy. I argue that ethics committees should not advice politicians on how they ought to conclude in secret moral choices. Instead, we can mandate ethics committees to provide advice aimed at improving the moral reasoning behind moral decisions in secret policy. Such advice, I argue, may add value to the decision process independently of whether it increases the chances of reaching morally correct conclusions.
-  </article>
   <article id="contributors-article-7DQVUCLJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

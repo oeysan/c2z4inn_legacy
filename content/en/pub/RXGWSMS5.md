@@ -14,6 +14,7 @@ type: pub
     <a href="#abstract-article-RXGWSMS5" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-RXGWSMS5" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-RXGWSMS5" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.mdpi.com/2076-393X/11/6/1086/pdf?version=1686539658" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-RXGWSMS5"></div>
 </article>
@@ -63,7 +64,7 @@ Room 4L3213
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

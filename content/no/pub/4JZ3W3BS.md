@@ -1,5 +1,5 @@
 ---
-title: "'The psychosocial burden of alopecia areata and androgenetica': a cross-sectional multicentre study among dermatological out-patients in 13 European countries"
+title: "4JZ3W3BS"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4JZ3W3BS" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1763425" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/4JZ3W3BS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-4JZ3W3BS" class="csl-bib-button">Medverkande</a>
+    <a href="https://scholarlypublications.universiteitleiden.nl/access/item%3A3147032/view" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-4JZ3W3BS"></div>
 </article>

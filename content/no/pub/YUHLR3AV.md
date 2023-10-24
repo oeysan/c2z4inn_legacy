@@ -1,5 +1,5 @@
 ---
-title: "Tensions in digital servitization through paradox lens"
+title: "YUHLR3AV"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YUHLR3AV" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2016356" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YUHLR3AV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-YUHLR3AV" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-YUHLR3AV" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.1016/j.indmarman.2022.02.010" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-YUHLR3AV"></div>
 </article>
 <div id="csl-bib-meta-YUHLR3AV" class="csl-bib-meta">
-  <article id="abstract-article-YUHLR3AV" class="abstract-article">
-    <h1>Samandrag</h1>
-    Two of the most disruptive changes in today's business markets are servitization and digitalization. Their increasing convergence into digital servitization leads to tensions both within and between organizations. The authors investigate such intra- and interorganizational tensions by applying a paradox theory lens. The study draws on 56 depth interviews and multiple site visits from two cases in the aerospace and maritime industries. Linked to the paradoxes of organizing, learning, belonging, and performing, eight tensions emerge from the findings. The intra-organizational tensions include digitally enabled control, digital upkeep, professional identity, and performance priorities. In turn, the interorganizational tensions comprise platform-based coopetition, information superabundance, organizational identity, and data utilization. For practitioners working with digital services, this study suggests an audit of tensions to inform continued formulations of a mitigation strategy.
-  </article>
   <article id="contributors-article-YUHLR3AV" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Bayesianism for Non-Ideal Agents"
+title: "DZA94YYG"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DZA94YYG" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2051653" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/DZA94YYG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-DZA94YYG" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-DZA94YYG"></div>

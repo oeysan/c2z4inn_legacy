@@ -1,5 +1,5 @@
 ---
-title: "Psychological distress among Norwegian adolescents: Changes between 2001 and 2009 and associations with leisure time physical activity and screen-based sedentary behaviour"
+title: "CDILAZKJ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CDILAZKJ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1481604" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/CDILAZKJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-CDILAZKJ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CDILAZKJ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-CDILAZKJ" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/1403494817716374" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-CDILAZKJ"></div>
 </article>
 <div id="csl-bib-meta-CDILAZKJ" class="csl-bib-meta">
-  <article id="abstract-article-CDILAZKJ" class="abstract-article">
-    <h1>Samandrag</h1>
-    Aims: The aim of this work was to examine psychological distress among Norwegian adolescents in relation to changes over time and the associations with leisure time physical activity and screen-based sedentary behaviour. Methods: This cross-sectional study was based on data retrieved from the Norwegian Youth Health Surveys in 2001 and 2009 in Hedmark County. Adolescents aged 15–16 years old completed a questionnaire regarding physical activity, sedentary behaviour, psychological distress and other health and lifestyle variables. The self-report Hopkins Symptom Checklist-10 was used to assess psychological distress. Multinomial logistic regression was used to analyse the associations between psychological distress, physical activity and sedentary behaviour. Results: Self-reported psychological distress increased significantly from 2001 to 2009 (from 19.4 to 28.2%), with the proportion of girls reporting psychological distress being twice as large as the proportion of boys. The proportion of adolescents who were physically active for ⩾11 hours per week increased significantly over the same period (from 6.0 to 10.4%). Sedentary behaviour ⩾6 hours per school day increased significantly among both sexes between 2001 and 2009. Physical activity (⩾11 hours) and sedentary behaviour (⩾6 hours) were both significantly associated with psychological distress. Conclusions: The association between physical activity, sedentary behaviour and psychological distress was weak; only high amounts of physical activity and high amounts of screen-based sedentary behaviour were associated with psychological distress. Longitudinal studies are needed to provide further insights into these associations and to understand the extent to which these variables might be causally related.
-  </article>
   <article id="contributors-article-CDILAZKJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -131,7 +127,7 @@ Rom 4L2213
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

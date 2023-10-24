@@ -1,5 +1,5 @@
 ---
-title: "Sport policy analysis revisited: the sport policy process as an interlinked chain of legitimating acts"
+title: "ZHMFL7UC"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZHMFL7UC" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1623810" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ZHMFL7UC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ZHMFL7UC" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ZHMFL7UC" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-ZHMFL7UC" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/19406940.2018.1522657?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ZHMFL7UC"></div>
 </article>
 <div id="csl-bib-meta-ZHMFL7UC" class="csl-bib-meta">
-  <article id="abstract-article-ZHMFL7UC" class="abstract-article">
-    <h1>Samandrag</h1>
-    By providing an analytical framework that draws on a conceptualisation of legitimacy in organisation studies, this paper demonstrates that the sport policy process can be understood as an interlinked chain of legitimating acts. Based on recent suggestions in organisation theory literature on how to approach legitimacy and legitimation, we applied the framework on a small sample of published sport policy studies to demonstrate its utility. By applying the framework, six interweaved and interweaving elements of the legitimating act within sport policy processes were identified: legitimacy-seeking organisation, subject, source(s), strategy, bases and scenario. The analysis shows that each of the six elements works by intersecting within each phase of the policy process. The main conclusion is that consequences – often unintended – resulting from legitimating acts in one phase have legitimacy-related implications for the other phases of the policy process. As pressing as pinpointing the use of all elements of the framework is, it is equally important to distinguish each of the elements in order to fulfil the analytical potential of the proposed framework. Since sport policy processes in practice rely primarily on organisations and organisational action, future sport policy research would benefit from this type of framework connecting organisations and organising to policy processes.
-  </article>
   <article id="contributors-article-ZHMFL7UC" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -67,7 +63,7 @@ Rom 4R4142
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Teaching two languages: navigating dual identity experiences"
+title: "H63JYKXL"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-H63JYKXL" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2041762" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/H63JYKXL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-H63JYKXL" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-H63JYKXL" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-H63JYKXL" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/1554480X.2022.2065996" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-H63JYKXL"></div>
 </article>
 <div id="csl-bib-meta-H63JYKXL" class="csl-bib-meta">
-  <article id="abstract-article-H63JYKXL" class="abstract-article">
-    <h1>Samandrag</h1>
-    Research on language teacher identity has grown exponentially over the last two decades. By researching language teacher identity, we develop a better understanding of how sociological issues generally impact teachers’ lives. For non-native language teachers, in particular, challenges tend to originate from language ideologies around monolingualism as well as native-speakerism and affect teachers’ identities in terms of legitimacy and acceptance. However, our existing knowledge has focused on the experiences of teachers teaching one language and reflected primarily the experiences of teachers teaching English as a second or foreign language. In this paper, I employ autoethnography as a method to explore my own identity-related experiences as a teacher of two languages: English and Portuguese. Two concerns guided my inquiry: first, what kinds of experiences – e.g. challenges, conflicts, discoveries – emerge within each teaching context, and second, how teachers navigate their dual identity-related experiences – in other words, how they make sense of such experiences. In describing my experiences, I highlight the negative impact of cultural stereotypes and linguistic purism on one hand, while on the other, the positive impact of teaching in a multicultural setting to my personal and professional identities.
-  </article>
   <article id="contributors-article-H63JYKXL" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 2P322
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

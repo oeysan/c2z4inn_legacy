@@ -1,5 +1,5 @@
 ---
-title: "Whistleblowing, Voice, and Monomythology : The Prospect for Analysis"
+title: "IBKFKILJ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,23 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IBKFKILJ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1854669" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/IBKFKILJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-IBKFKILJ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IBKFKILJ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-IBKFKILJ" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-IBKFKILJ"></div>
 </article>
 <div id="csl-bib-meta-IBKFKILJ" class="csl-bib-meta">
-  <article id="abstract-article-IBKFKILJ" class="abstract-article">
-    <h1>Abstract</h1>
-    Whistleblowing, Communication and Consequences offers the first in-depth analysis of the most publicized, and morally complex, case of whistleblowing in recent European history: the Norwegian national lottery, Norsk Tipping. 
- 
-With contributions from the whistleblower himself, as well as from key voices in the field, this book offers unique perspectives and insights into not only this fascinating case, but into whistleblowing and wrongdoing in organizations more broadly. An international team of scholars use fourteen different theoretical lenses to show the complex and multi-faceted nature of whistleblowing. The book begins with an ethnographic account by the whistleblower story and proceeds into an analysis of the literature and conceptual topics related to that whistleblowing incident to present the lessons that can be learnt from this extreme example of institutional failure. 
- 
-This fascinating, complex, and multi-theoretical book will be of great interest to scholars, students and industry leaders in the areas of public relations, corporate communication, leadership, corporate social responsibility, whistleblowing and organizational resistance.
-  </article>
   <article id="contributors-article-IBKFKILJ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -74,7 +65,7 @@ Room 4A3732
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

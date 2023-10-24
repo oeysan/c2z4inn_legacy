@@ -1,5 +1,5 @@
 ---
-title: "Ein mann og dressen hans. Karikaturar av Dølen i Vikingen 1862–1870"
+title: "UWUBZ5EG"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UWUBZ5EG" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1942169" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UWUBZ5EG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UWUBZ5EG" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-UWUBZ5EG"></div>

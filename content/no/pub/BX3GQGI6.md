@@ -1,5 +1,5 @@
 ---
-title: "How to solve competence demands? A review of employee mobility practices in knowledge-intensive organisations"
+title: "BX3GQGI6"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BX3GQGI6" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2069492" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BX3GQGI6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BX3GQGI6" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-BX3GQGI6"></div>

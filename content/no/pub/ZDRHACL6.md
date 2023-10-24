@@ -1,5 +1,5 @@
 ---
-title: "Moving over in(to) English and French: A translation-based study of ‘overness’"
+title: "ZDRHACL6"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZDRHACL6" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2155990" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ZDRHACL6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ZDRHACL6" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ZDRHACL6" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1075/lic.13.2.04ega" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-ZDRHACL6"></div>
 </article>
 <div id="csl-bib-meta-ZDRHACL6" class="csl-bib-meta">
-  <article id="abstract-article-ZDRHACL6" class="abstract-article">
-    <h1>Samandrag</h1>
-    In this paper we discuss ways in which the concept that, for want of a better word, we may describe as ‘overness’ is coded in motion predications in English and French. The concept of ‘overness’ is a relational one, the basic spatial sense of which involves some sort of (elongated) superiority of a Figure (a Trajector in the terminology employed by cognitive linguists) vis-à-vis a Ground. This study compares codings in English and French of this concept as it is instantiated in translations of the same original Norwegian texts. The data for the study are taken from the Oslo Multilingual Corpus. Tokens coding motion events are analysed in detail in terms of the coding of Manner, Path, Site and Ground. The results of the study point to substantial differences between English and French in their codings of motion events, with English conforming by and large to the satellite-framed language type. The results for French are much less clear, with the picture resembling more a sort of typological hybrid than a rigid path-framed type.
-  </article>
   <article id="contributors-article-ZDRHACL6" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Digital Game-Based Support for Learning the Phlebotomy Procedure in the Biomedical Laboratory Scientist Education"
+title: "LZM962NN"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LZM962NN" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2018388" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LZM962NN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-LZM962NN" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LZM962NN" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-LZM962NN" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.mdpi.com/2073-431X/11/5/59/pdf?version=1650615743" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LZM962NN"></div>
 </article>
 <div id="csl-bib-meta-LZM962NN" class="csl-bib-meta">
-  <article id="abstract-article-LZM962NN" class="abstract-article">
-    <h1>Abstract</h1>
-    Practice-based training in education is important, expensive, and resource-demanding. Digital games can provide complementary training opportunities for practicing procedural skills and increase the value of the limited laboratory training time in biomedical laboratory science (BLS) education. This paper presents how a serious game can be integrated in a BLS course and supplement traditional learning and teaching with accessible learning material for phlebotomy. To gather information on challenges relevant to integrating Digital Game-Based Learning (DGBL), a case was carried out using mixed methods. Through a semester-long study, following a longitudinal, interventional cohort study, data and information were obtained from teachers and students about the learning impact of the current application. The game motivated students to train more, and teachers were positive towards using it in education. The results provide increased insights into how DGBL can be integrated into education and give rise to a discussion of the current challenges of DGBL for practice-based learning.
-  </article>
   <article id="contributors-article-LZM962NN" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Room 2N1284
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

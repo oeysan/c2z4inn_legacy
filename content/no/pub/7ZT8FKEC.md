@@ -1,5 +1,5 @@
 ---
-title: "Winter wonderland: The effects of a snowy winter nature walk on subjective stress and salivary cortisol levels"
+title: "7ZT8FKEC"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7ZT8FKEC" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2139529" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7ZT8FKEC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7ZT8FKEC" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.1016/j.wss.2023.100143" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7ZT8FKEC"></div>
 </article>

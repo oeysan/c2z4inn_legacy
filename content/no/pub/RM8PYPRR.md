@@ -1,5 +1,5 @@
 ---
-title: "A one-off event and the construction of organisational identity: the case of the 2016 Lillehammer Youth Olympic Games Committee"
+title: "RM8PYPRR"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RM8PYPRR" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1768998" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RM8PYPRR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-RM8PYPRR" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RM8PYPRR" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-RM8PYPRR" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/16138171.2019.1706238?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-RM8PYPRR"></div>
 </article>
 <div id="csl-bib-meta-RM8PYPRR" class="csl-bib-meta">
-  <article id="abstract-article-RM8PYPRR" class="abstract-article">
-    <h1>Samandrag</h1>
-    In this article, we investigate the organisational identity (OI) of the 2016 Lillehammer Youth Olympic Games Organising Committee (LYOGOC). Using OI theory, we scrutinised how the youth focus of the winter edition of the Youth Olympic Games (YOG) and the institutional environment of the International Olympic Committee (IOC) shaped LYOGOC’s identity. We conducted an interview with five leaders in a focus group after the games, as well as observations and interviews before, during, and after the games. We identified four core values in LOYGOC’s identity, which pair and balance each other: raw/awesome versus humble, and playful versus determined. These values were lived by internally and expressed externally to make the LYOGOC work within the institutional environment of the IOC and ‘the Olympic family’, local sport organisations, and communities, and to get the work done within LYOGOC. Moreover, doing things ‘the Norwegian way’ combined with the ‘local Olympic identity’ was important for LYOGOC’s leaders, for their work, and for the organisation’s identity.
-  </article>
   <article id="contributors-article-RM8PYPRR" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -97,7 +93,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

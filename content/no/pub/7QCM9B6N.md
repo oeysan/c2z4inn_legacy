@@ -1,5 +1,5 @@
 ---
-title: "Sex-specific factors associated with lifetime suicide attempt among patients with alcohol use disorders"
+title: "7QCM9B6N"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,23 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7QCM9B6N" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2050255" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7QCM9B6N" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-7QCM9B6N" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7QCM9B6N" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-7QCM9B6N" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BF20234EE933A41220D3E0226D583FBB/S2056472422005452a.pdf/div-class-title-sex-specific-factors-associated-with-lifetime-suicide-attempt-among-patients-with-alcohol-use-disorders-div.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7QCM9B6N"></div>
 </article>
 <div id="csl-bib-meta-7QCM9B6N" class="csl-bib-meta">
-  <article id="abstract-article-7QCM9B6N" class="abstract-article">
-    <h1>Samandrag</h1>
-    Background: Patients with alcohol use disorder (AUD) are at high risk for suicide attempts. Mental health problems along with AUD-related factors may contribute to this increased risk. Studies have shown sex differences in rates and correlates of suicide attempts. 
-Aims: The purpose of the study was to examine mental-health-related and AUD-related factors associated with suicide attempt separately in female and male AUD patients. 
-Method: We collected information about lifetime suicide attempt and mental-health- and AUD-related factors for AUD in-patients (n = 114; 32 females) receiving rehabilitative treatment. 
-Results: The prevalence of lifetime suicide attempt was 27%, and the rate was similar in both sexes. Among females, current depressive symptoms and current post-traumatic stress disorder diagnosis were associated with suicide attempt. In male AUD patients, among the mental-health-related factors, lifetime major depression, panic disorder, social phobia, childhood sexual abuse and antisocial personality disorder were associated with suicide attempt. In addition, AUD-related factors including longer duration of drinking, history of delirium tremens, greater severity of AUD and lower levels of prolactin were associated with suicide attempt in males. 
-Conclusions: Our results indicate that suicide attempts in female AUD patients were more mental-health-related, whereas those in males were also related to the severity of AUD. This suggests that a suicide prevention programme for AUD patients would benefit from a sex-based understanding of the risk factors.
-  </article>
   <article id="contributors-article-7QCM9B6N" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -71,13 +63,13 @@ Rom 4L3202
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

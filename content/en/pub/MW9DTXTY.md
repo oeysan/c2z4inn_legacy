@@ -1,5 +1,5 @@
 ---
-title: "Hierarchies of criteria in NSO board-nomination processes: insights from nomination committees’ work"
+title: "MW9DTXTY"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,25 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MW9DTXTY" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1737556" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/MW9DTXTY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-MW9DTXTY" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-MW9DTXTY" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-MW9DTXTY" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/16184742.2019.1672204?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-MW9DTXTY"></div>
 </article>
 <div id="csl-bib-meta-MW9DTXTY" class="csl-bib-meta">
-  <article id="abstract-article-MW9DTXTY" class="abstract-article">
-    <h1>Abstract</h1>
-    Research question: The purpose of this paper is to create knowledge on board-selection processes and their outcomes in terms of board composition. We address two research questions: (1) What evaluative criteria are at play in board-selection processes; and (2) what hierarchies of criteria are formed when evaluative criteria are ranked? The significance of the study lies in contemporary considerations of good governance, in sport members’ (un)equal access to positions of power, and in how issues of representation relate to the legitimacy of sport governance systems and to broader societal patterns of representation, influence, and democracy. 
- 
-Research methods: Nomination committees are increasingly used worldwide to further good governance in sport organizations. Our analysis builds on interviews with representatives of 61 out of 71 Swedish national sport organizations’ nomination committees. 
- 
-Results and Findings: Our study shows that trade-offs are made not between gender and merit, as previously suggested, but between and among a wide variety of representation criteria and a wide variety of efficiency criteria. We show how tensions between criteria result in trade-offs that imply a ranking of criteria into seven types of hierarchies, only one of which prioritizes a representation-based board composition. 
- 
-Implications: Because rankings of multiple evaluative criteria impact any single criterion of interest (e.g. gender), future studies should take into account the range of evaluative criteria at play. For sport management and policy practitioners alike, we provide a tool to understand and address (in)adequate representation but also an imperative to consider the meaning of adequate representation.
-  </article>
   <article id="contributors-article-MW9DTXTY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -73,7 +63,7 @@ Room 4R4142
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

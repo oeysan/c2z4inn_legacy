@@ -1,5 +1,5 @@
 ---
-title: "Occupational therapy students’ preferences for teaching and course design across a three-year undergraduate education program"
+title: "6E6B3AUL"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6E6B3AUL" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2015870" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/6E6B3AUL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-6E6B3AUL" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-6E6B3AUL" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-6E6B3AUL" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.emerald.com/insight/content/doi/10.1108/IJOT-03-2022-0012/full/pdf?title=occupational-therapy-students-preferences-for-teaching-and-course-design-across-a-three-year-undergraduate-education-program" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-6E6B3AUL"></div>
 </article>
 <div id="csl-bib-meta-6E6B3AUL" class="csl-bib-meta">
-  <article id="abstract-article-6E6B3AUL" class="abstract-article">
-    <h1>Abstract</h1>
-    PurposeUnderstanding students’ preferences for teaching and course design is important for educators in higher education when planning courses and teaching activities. The purpose of this study was to explore changes in occupational therapy students’ preferences for teaching and courses across the three-year study program. Design/methodology/approachA total of 263 students participated in a longitudinal study, where preferences were measured with the Approaches and Study Skills Inventory for Students. The data were analyzed with linear mixed effect models for repeated measures. FindingsThe results indicated no significant changes in preferences for courses and teaching over the three-year period. Also, there were no significant differences between the six involved study programs. Preferences for the courses and teaching type “supporting understanding” were associated with higher age and higher study effort. Preferences for the courses and teaching type “transmitting information” were associated with lower age and female gender. Originality/valueIn summary, the findings of this study suggest that preferences for teaching and courses are stable and may be challenging to alter during a three-year undergraduate study program.
-  </article>
   <article id="contributors-article-6E6B3AUL" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Room 4L3213
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Economic performance and efficiency determinants of crop-producing farms in Norway"
+title: "UI2QF4Q4"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,43 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UI2QF4Q4" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1596049" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UI2QF4Q4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-UI2QF4Q4" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UI2QF4Q4" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.emerald.com/insight/content/doi/10.1108/IJPPM-01-2018-0026/full/pdf?title=economic-performance-and-efficiency-determinants-of-crop-producing-farms-in-norway" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-UI2QF4Q4"></div>
 </article>
 <div id="csl-bib-meta-UI2QF4Q4" class="csl-bib-meta">
-  <article id="abstract-article-UI2QF4Q4" class="abstract-article">
-    <h1>Samandrag</h1>
-    Purpose – The purpose of this paper is to explore the economic performance of Norwegian crop farms using 
-a stochastic frontier analysis. 
-Design/methodology/approach – The analysis was based on a translog cost function and unbalanced 
-farm-level panel data for 1991–2013 from 455 Norwegian farms specialized in crop production in eastern and 
-central regions of Norway. 
-Findings – The results of the analysis show that the mean efficiency was about 78–81 percent. Farm 
-management practices and socioeconomic factors were shown to significantly affect the economic 
-performance of Norwegian crop farms. 
-Research limitations/implications – Farmers are getting different types of support from the government 
-and the study does not account for the different effects of different kinds of subsidy on cost efficiency. 
-Different subsidies might have different effects on farm performance. To get more informative and useful 
-results, it would be necessary to repeat the analysis with less aggregated data on subsidy payments. 
-Practical implications – One implication for farmers (and their advisers) is that many of them are less 
-efficient than the estimated benchmark (best performing farms). Thus, those lagging behind the best 
-performing farms need to look at the way they are operating and to seek out ways to save costs or increase 
-crop production. Perhaps there are things for lagging farmers to learn from their more productive farming 
-neighbors. For instance, those farmers not practicing crop rotation might be well advised to try that practice. 
-Social implications – For both taxpayers and consumers, one implication is that the contributions they pay 
-that go to subsidize farmers appear to bring some benefits in terms of more efficient production that, in turn, 
-increase the supply of some foods so possibly making food prices more affordable. 
-Originality/value – Unlike previous performance studies in the literature, the authors estimated farm-level 
-economic performance accounting for the contribution of both an important farm management practice and 
-selected socioeconomic factors. Good farm management practices, captured through crop rotation, land 
-tenure, government support and off-farm activities were found to have made a positive and statistically 
-significant contribution to reducing the cost of production on crop-producing farms in the Central and 
-Eastern regions of Norway.
-  </article>
   <article id="contributors-article-UI2QF4Q4" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Morphological ontogeny of Zachvatkinibates svanhovdi (Acari, Oribatida, Punctoribatidae)"
+title: "8GNJGGNJ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,24 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8GNJGGNJ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2170801" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/8GNJGGNJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-8GNJGGNJ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#sdg-article-8GNJGGNJ" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.11646/zootaxa.5324.1.8" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-8GNJGGNJ"></div>
 </article>
 <div id="csl-bib-meta-8GNJGGNJ" class="csl-bib-meta">
-  <article id="abstract-article-8GNJGGNJ" class="abstract-article">
-    <h1>Abstract</h1>
-    The morphological ontogeny of Zachvatkinibates svanhovdi A. Seniczak &amp; S. Seniczak, 2023 is described and illustrated. The juveniles of this species are light brown with slightly darker colour on the prodorsum, gastronotal shield, surrounding of gla opening, and legs. The larva has 12 pairs of gastronotal setae, most are of medium size and barbed; the nymphs have 15 pairs, most are short and smooth. In all juveniles, the setae of c-series are inserted on unsclerotized integument. In the larva, the pygidial shield is absent but, in the nymphs, the gastronotal shield is present and the setae p2 and p3 are inserted on unsclerotized integument. In the larva, a humeral organ is absent but is present in the nymphs. 
-  </article>
   <article id="sdg-article-8GNJGGNJ" class="sdg-article">
     <h1>Sustainable Development Goals</h1>
     <div class="sdg-container"><div id="sdg14" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg14_en.png" class="image" alt="SDG 14">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>41</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=14#archive" class="sdg-publication-count"><span>42</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal14" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

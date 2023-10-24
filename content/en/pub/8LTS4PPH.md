@@ -1,5 +1,5 @@
 ---
-title: "Physical Demands in Dog-Sled Races. Examples from Finnmarksløpet, Europe’s Longest Dog-Sled Race. The Mushers’ VO2 Max and Workload during the Race"
+title: "8LTS4PPH"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8LTS4PPH" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1687322" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/8LTS4PPH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-8LTS4PPH" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-8LTS4PPH" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-8LTS4PPH"></div>
 </article>
 <div id="csl-bib-meta-8LTS4PPH" class="csl-bib-meta">
-  <article id="abstract-article-8LTS4PPH" class="abstract-article">
-    <h1>Abstract</h1>
-    This paper describes a series of studies on mushers (overall n= 33) who participated in the 2006, 2007, 2008 and 2009 endurance dog sled race Finnmarksløpet (FL), in the northern part of Norway. The race, which includes two classes, 500km and 1000km, goes through several checkpoints (CPs) placed four to ten hours apart. The participants’ maximal oxygen consumption (VO2max) and maximal heart rates (HRmax) were assessed prior to the race. During the race the participants’ HR were recorded using Polar ® watches. In the 2008 study, ratings of perceived exertion (RPE) using the 6-20 Borg scale were recorded in two female mushers when entering the CPs. The results show a higher VO2 max for the mushers compared to non-athletic men and women. The mushers had a mean working HR ranging between 38% and 76% of HRmax. For most mushers the mean HR at the different legs are between 65% and 55 % of HRmax. All mushers showed the highest mean HR during the first 200km of the race. The analysis of the legs that have the same trail for the two classes showed that the mushers participating in the 500km race had a higher mean HR than the mushers participating in the 1000km. The findings on RPE indicate that a more experienced mushers reported decreasing RPE during the race, while a less experienced mushers reported increasing RPE. Key words: Mushers, exercise, intensity
-  </article>
   <article id="contributors-article-8LTS4PPH" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Arbeidarane som silhuettar: Arbeidarperspektivet i bedriftshistoria Medaljens forside"
+title: "LS7QG2ZZ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LS7QG2ZZ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2124704" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LS7QG2ZZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LS7QG2ZZ" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/agora.41.1.13" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-LS7QG2ZZ"></div>
 </article>

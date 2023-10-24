@@ -1,5 +1,5 @@
 ---
-title: "A cross-sectional study to examine the association between self-reported sleep and the frequency, duration and intensity of exercise"
+title: "6CAAYLUW"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,26 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6CAAYLUW" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1504447" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/6CAAYLUW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-6CAAYLUW" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-6CAAYLUW" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-6CAAYLUW" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.23736/S0022-4707.17.07878-1" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-6CAAYLUW"></div>
 </article>
 <div id="csl-bib-meta-6CAAYLUW" class="csl-bib-meta">
-  <article id="abstract-article-6CAAYLUW" class="abstract-article">
-    <h1>Abstract</h1>
-    BACKGROUND: 
-Insufficient sleep is associated with increased risk of several health concerns. Although physical activity is generally considered to improve sleep, the influence of different levels of exercise frequency, duration and intensity respectively, has not been sufficiently examined to allow specific recommendations to the general population. Therefore, our aim was to evaluate the association between different levels of the three cardinal characteristics of exercise and sleep disturbance. 
-METHODS: 
-Data were collected through a Norwegian comprehensive self-report survey. A total of 3763 respondents (46 % males, 54 % females) with an average age of 47.9 years (range 15-93) completed the questionnaire, whereof 13.7 % were categorised as poor sleepers. The exercise characteristics and sleep disturbance were measured on a 6 to 8 and a 4-item Likert scale, respectively. 
-RESULTS: 
-Respondents reporting intermediate levels of exercise frequency, duration and intensity, respectively, had a significantly lower occurrence of sleep disturbance compared to respondents with a sedentary lifestyle. No statistical difference in sleep disturbance was observed between respondents performing exercise corresponding to the lowest and highest levels of the three exercise characteristics and those who were sedentary. 
-CONCLUSIONS: 
-The lack of positive association between the lowest and highest levels of the cardinal exercise characteristic and reduction in sleep disturbance revealed in the present study support a recommendation of intermediate levels of exercise frequency, duration and intensity for preventing sleep disturbance in the general population
-  </article>
   <article id="contributors-article-6CAAYLUW" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -102,13 +91,13 @@ Room 4L3305
     <div class="sdg-container"><div id="sdg1" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg01_en.png" class="image" alt="SDG 1">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>37</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=1#archive" class="sdg-publication-count"><span>39</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal1" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -7,28 +7,31 @@
  * the page to the top.
  */
 function initializeScrollToTopButton() {
-  
+  const scrollToTopButton = document.getElementById('back-to-top');
+  let timeout;
+
   const showScrollToTopButton = () => {
-    // Get the "scroll-to-top" button element by its ID
-    const scrollToTopButton = document.getElementById('back-to-top');
+    clearTimeout(timeout); // Clear previous timeout
+    if (window.scrollY >= 200) {
+      scrollToTopButton.classList.add('active');
+    } else {
+      scrollToTopButton.classList.remove('active');
+    }
 
-    // Show the button when the user scrolls down a specified distance from the top
-    window.addEventListener('scroll', () => {
-      if (window.scrollY >= 200) {
-        scrollToTopButton.classList.add('active');
-      } else {
-        scrollToTopButton.classList.remove('active');
-      }
-    });
-
-    // Scroll to the top when the button is clicked
-    scrollToTopButton.addEventListener('click', () => {
-      window.scrollTo({
-        top: 0,
-        behavior: 'smooth'
-      });
-    });
+    // Set a timeout to hide the button after 2 seconds of inactivity
+    timeout = setTimeout(() => {
+      scrollToTopButton.classList.remove('active');
+    }, 1000);
   };
+
+  window.addEventListener('scroll', showScrollToTopButton);
+
+  scrollToTopButton.addEventListener('click', () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
+  });
 
   // Check if the "scroll-to-top" button element exists
   if (document.getElementById('back-to-top')) {

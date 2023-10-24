@@ -1,5 +1,5 @@
 ---
-title: "Europeisk integrasjon: økonomi og politikk"
+title: "IZ6AM9N4"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,20 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IZ6AM9N4" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1579548" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/IZ6AM9N4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-IZ6AM9N4" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IZ6AM9N4" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-IZ6AM9N4"></div>
 </article>
 <div id="csl-bib-meta-IZ6AM9N4" class="csl-bib-meta">
-  <article id="abstract-article-IZ6AM9N4" class="abstract-article">
-    <h1>Samandrag</h1>
-    Europeisk integrasjon; Økonomi og politikk. Sammendrag: Europeisk og global økonomisk integrasjon har ført til historisk høy økonomisk vekst og velstand i store deler av verden. Den har gitt nye muligheter for mange - men også utfordringer og problemer som kan være krevende å håndtere og som ikke er ønskelig for alle. 
-  
-Denne boka tar for seg integrasjonen med utgangspunkt i økonomisk analyse i flerfaglig kombinasjon med politisk drøfting. Den gir et teorigrunnlag og et empirisk bakteppe for internasjonal handel og finans og diskuterer de europeiske og globale regimene som er laget for å forvalte den internasjonale økonomien. Den viser hvordan integrasjonen fører til økonomisk vekst, gjensidig avhengighet og omfordeling av inntekt og makt. Boka drøfter hvordan nasjonal politikk blir mer lik på tvers av land og påvirker handlingsrom for stater, regioner, bedrifter og personer. Det fokuseres særlig på EU/EFTA-området - med blikk på samspillet med den globale økonomien, og relasjonene til Russla
-  </article>
   <article id="contributors-article-IZ6AM9N4" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

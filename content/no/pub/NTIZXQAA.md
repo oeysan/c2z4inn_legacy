@@ -1,5 +1,5 @@
 ---
-title: "MicroRNAs facilitate skeletal muscle maintenance and metabolic suppression in hibernating brown bears"
+title: "NTIZXQAA"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NTIZXQAA" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1769677" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NTIZXQAA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NTIZXQAA" class="csl-bib-button">Medverkande</a>
+    <a href="https://hal.archives-ouvertes.fr/hal-02349938/file/Manuscript%20-%20J%20Cell%20Physiol.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-NTIZXQAA"></div>
 </article>

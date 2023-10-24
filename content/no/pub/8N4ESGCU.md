@@ -1,5 +1,5 @@
 ---
-title: "Evaluating the Hierarchical Contagion of Economic Policy Uncertainty among the Leading Developed and Developing Economies"
+title: "8N4ESGCU"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8N4ESGCU" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2174214" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/8N4ESGCU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-8N4ESGCU" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-8N4ESGCU" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-8N4ESGCU" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2227-7099/11/8/201/pdf?version=1690374232" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-8N4ESGCU"></div>
 </article>
 <div id="csl-bib-meta-8N4ESGCU" class="csl-bib-meta">
-  <article id="abstract-article-8N4ESGCU" class="abstract-article">
-    <h1>Samandrag</h1>
-    An array of global events, including the global financial crisis, natural disasters, and the recent coronavirus pandemic, have consistently shown the vulnerability of global systems and humans to externally undesirable contagions. In order to further provide alternative approaches to information valuation, this study utilized the economic policy uncertainty (EPU) of 21 leading developed and developing economies (Australia, Brazil, Canada, Chile, China, Colombia, Denmark, France, Germany, Greece, India, Ireland, Italy, Japan, Korea, Netherlands, Russia, Spain, Sweden, the United Kingdom, and the United States of America) over the period January 1997 to May 2021. The information theory reveals the hierarchy of degrees of randomness in the EPU indices; it shows the information flow among the EPU indices through the mutual information metric and the graphical illustration of the information flows using network theory. Importantly, the Entropy measures indicate higher predictability of the Netherlands and Ireland’s EPU indices, suggesting that they have less randomness than other indices. Contrarily, Greece and the United Kingdom share the lowest predictability of the EPU indices. Moreover, the complex networks analysis shows that the EPU indices is generally shaped by geographic location. In order of significance, the United States of America’s EPU index exhibits the strongest correlation with other countries’ EPU indices and followed by the EPU indices of France, the United Kingdom (UK), and Germany. In general, the result of the investigation communicates relevant policy measures that potentially ameliorate shocks from external contagions.
-  </article>
   <article id="contributors-article-8N4ESGCU" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -66,13 +62,13 @@ Studiested Kongsvinger
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

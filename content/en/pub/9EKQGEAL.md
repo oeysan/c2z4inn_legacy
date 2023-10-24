@@ -1,5 +1,5 @@
 ---
-title: "Äldre lesbiska, bisexuella och trans-feministers berättelser om vänskap och lesbisk feministisk gemenskap över tid och rum"
+title: "9EKQGEAL"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9EKQGEAL" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2162962" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/9EKQGEAL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-9EKQGEAL" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9EKQGEAL" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-9EKQGEAL" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-9EKQGEAL"></div>
 </article>
 <div id="csl-bib-meta-9EKQGEAL" class="csl-bib-meta">
-  <article id="abstract-article-9EKQGEAL" class="abstract-article">
-    <h1>Abstract</h1>
-    Lesbian landscapes can be understood as both material and discursive productions, taking place over time, Gill Valentine (1995) argues, describing these processes as lesbian time-spaces. This is also true regarding lesbian feminism in Scandinavia, a movement created in a range of more or less permanent meeting places for non-heterosexual feminists during the 1970s and 1980s such as womens houses, summer camps, and feminist folk high schools, that proved to be important arenas over the years. This article explores some dimensions of a larger interview material with 18 non-heterosexual women in Sweden between the ages of 59 and 94. Using life narrative interviews with 8 self-defined lesbian feminists as point of departure, I look into the experiences of coming of age as non-heterosexual women for those who were, and still are, part of the lesbian feminist movement, and what it has meant to them over the years in the past as well as the present. Resisting the dominant ideals of intimacy, sexuality, and ways of living, and the heterosexual nuclear family, they created new subjectivities as lesbian women and alternative images of valuable lives, where the lesbian and feminist community had a central part. What did identification processes look like over time in relation to the lesbian feminist subcultural community, and what is the importance of the social and political networks for the interviewees after the age of 60? How has these processes been experienced by a women-identified trans person as compared to the biologically born lesbian women in the study? In spite of the agist expectation that subcultural life is important only for young people, one results is that the lesbian feminist subculture continues to be socially important in old age for those who have had a long commitment in these environments, even if it takes new forms. In contrast to the younger years, it seems like old age and lesbian generation is increasingly important for identifying with and taking part in lesbian community, for a range of reasons
-  </article>
   <article id="contributors-article-9EKQGEAL" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,7 +56,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

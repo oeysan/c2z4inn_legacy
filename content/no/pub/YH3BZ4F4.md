@@ -1,5 +1,5 @@
 ---
-title: "Benevolent discrimination: Explaining how human resources professionals can be blind to the harm of diversity initiatives"
+title: "YH3BZ4F4"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YH3BZ4F4" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1638857" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YH3BZ4F4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-YH3BZ4F4" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-YH3BZ4F4" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-YH3BZ4F4" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://journals.sagepub.com/doi/pdf/10.1177/1350508418812585" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-YH3BZ4F4"></div>
 </article>
 <div id="csl-bib-meta-YH3BZ4F4" class="csl-bib-meta">
-  <article id="abstract-article-YH3BZ4F4" class="abstract-article">
-    <h1>Samandrag</h1>
-    This article contributes to critical diversity management studies by exploring how human resources professionals do not see that the diversity measures they initiate can contribute to the reproduction of inequalities. We argue that framing such practices as benevolent obscures the fact that they are discriminatory acts. Drawing on the concept of benevolent discrimination, we conceptualise it along three dimensions: (1) a well-intended effort to address discrimination within (2) a social relationship that constructs the others as inferior and in need of help, which is granted with (3) the expectation that they will accommodate into the existing hierarchical order. Benevolent discrimination is a subtle and structural form of discrimination that is difficult to see for those performing it, because it frames their action as positive, in solidarity with the (inferior) other who is helped, and within a hierarchical order that is taken for granted. We develop the concept of benevolent discrimination building on an in-depth qualitative case study of a Swedish organisation that is believed to be exemplary in its engagement in diversity management initiatives. The organisation is however swayed by an inequality regime based on the intersection of class and ethnicity. We argue that it is precisely because human resources professionals frame their actions as acts of benevolence that they cannot see how they take part in organisational discrimination.
-  </article>
   <article id="contributors-article-YH3BZ4F4" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,13 +59,13 @@ Rom 1K337
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

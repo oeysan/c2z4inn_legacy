@@ -1,5 +1,5 @@
 ---
-title: "Social Class and Child Welfare: Intertwining Issues of Redistribution and Recognition"
+title: "BUPFA5RJ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BUPFA5RJ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1604869" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BUPFA5RJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-BUPFA5RJ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BUPFA5RJ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-BUPFA5RJ" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2076-0760/7/9/143/pdf?version=1535452380" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-BUPFA5RJ"></div>
 </article>
 <div id="csl-bib-meta-BUPFA5RJ" class="csl-bib-meta">
-  <article id="abstract-article-BUPFA5RJ" class="abstract-article">
-    <h1>Samandrag</h1>
-    By the end of the 20th century, social class appeared to be an old-fashioned and outdated concept. Serious doubts were expressed about the theoretical and empirical relevance of social class in understanding inequalities in contemporary society. However, experiences from completing research with children and families receiving support from child welfare services shows that applying a class perspective is useful. The purpose of our study was to explore the redistributive and cultural dimensions of social class in the context of child welfare. The data include survey interviews with 715 families in contact with the Norwegian child welfare services (CWS). We found that social class is important but with different effects compared with the industrial society. Our analysis highlighted the problems children and families involved with CWS face, associated with social inequalities based on class differences. We argue that social class is part of the social dynamic of late modern societies, and that this dynamic intertwines with the lives of families in CWS and the problem complexes they encounter in everyday life.
-  </article>
   <article id="contributors-article-BUPFA5RJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

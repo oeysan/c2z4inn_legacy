@@ -1,5 +1,5 @@
 ---
-title: "Landscape of fear or landscape of food? Moose hunting triggers an antipredator response in brown bears"
+title: "BTZHE8ZL"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BTZHE8ZL" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2134638" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BTZHE8ZL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-BTZHE8ZL" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BTZHE8ZL" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-BTZHE8ZL" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/eap.2840" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-BTZHE8ZL"></div>
 </article>
 <div id="csl-bib-meta-BTZHE8ZL" class="csl-bib-meta">
-  <article id="abstract-article-BTZHE8ZL" class="abstract-article">
-    <h1>Abstract</h1>
-    Hunters can affect the behavior of wildlife by inducing a landscape of fear, selecting individuals with specific traits, or altering resource availability across the landscape. Most research investigating the influence of hunting on wildlife resource selection has focused on target species and less attention has been devoted to nontarget species, such as scavengers that can be both attracted or repelled by hunting activities. We used resource selection functions to identify areas where hunters were most likely to kill moose ( Alces alces ) in south‐central Sweden during the fall. Then, we used step‐selection functions to determine whether female brown bears ( Ursus arctos ) selected or avoided these areas and specific resources during the moose hunting season. We found that, during both day and nighttime, female brown bears avoided areas where hunters were more likely to kill moose. We found evidence that resource selection by brown bears varied substantially during the fall and that some behavioral changes were consistent with disturbance associated with moose hunters. Brown bears were more likely to select concealed locations in young (i.e., regenerating) and coniferous forests and areas further away from roads during the moose hunting season. Our results suggest that brown bears react to both spatial and temporal variations in apparent risk during the fall: moose hunters create a landscape of fear and trigger an antipredator response in a large carnivore even if bears are not specifically targeted during the moose hunting season. Such antipredator responses might lead to indirect habitat loss and lower foraging efficiency and the resulting consequences should be considered when planning hunting seasons.
-  </article>
   <article id="contributors-article-BTZHE8ZL" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -99,7 +95,7 @@ Campus Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

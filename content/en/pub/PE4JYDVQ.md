@@ -1,5 +1,5 @@
 ---
-title: "Co-designing a Dementia Village: Transforming Dementia Care Through Service Design"
+title: "PE4JYDVQ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PE4JYDVQ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2118511" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PE4JYDVQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PE4JYDVQ" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-PE4JYDVQ"></div>

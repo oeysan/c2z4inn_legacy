@@ -10,7 +10,7 @@ lib.no <- GetLibrary(
   lang = "no", 
   locale = "nn-NO", 
   start.date = "2017-01",
-  end.date = "2023-10",
+  end.date = "2023-11",
   update = TRUE,
   post = TRUE
 )
@@ -20,7 +20,7 @@ lib.en <- GetLibrary(
   lang = "en", 
   locale = "en-US", 
   start.date = "2017-01",
-  end.date = "2023-10",
+  end.date = "2023-11",
   update = TRUE,
   post = FALSE
 )
@@ -44,7 +44,7 @@ SdgUnits("en")
 # Render README
 RenderSave("README.Rmd", remove.blank = FALSE)
 
-commit.name <- "Refresh commit"
+commit.name <- "c2z4uni 0.1.0.9006"
 branch.name <- "main"
 
 init <- system(

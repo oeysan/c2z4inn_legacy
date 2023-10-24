@@ -1,5 +1,5 @@
 ---
-title: "Pedagogikkens idé og oppdrag"
+title: "VC5XLF85"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VC5XLF85" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2013248" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VC5XLF85" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-VC5XLF85" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VC5XLF85" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.55669/oa0103" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VC5XLF85"></div>
 </article>
 <div id="csl-bib-meta-VC5XLF85" class="csl-bib-meta">
-  <article id="abstract-article-VC5XLF85" class="abstract-article">
-    <h1>Abstract</h1>
-    Hva er god pedagogikk – i barnehagen, i skolen og i høyere utdanning? Og hvilken vei har den pedagogiske forskningen tatt etter tusenårsskiftet? Denne boken retter søkelyset mot pedagogikkens ideer og oppdrag innenfor ulike arenaer. Den diskuterer fagets endringer og utfordringer og viser fram nye tilnærmingsmåter i pedagogikk som profesjonsfag, studiefag og forskningsfag. Utgangspunktet for boken er kritikken av «den etablerte pedagogikken» ved Universitetet i Oslo på 1970-tallet. Det første alternative pedagogikkstudiet åpnet i 1971 ved Høgskolen på Lillehammer, siden fulgte andre alternativer etter. Til 50-årsjubileet har vi invitert et knippe forfattere til kritisk å diskutere utviklingstrekk og nye tilganger i pedagogikken av i dag.Boken består av 17 kapitler som spenner fra barnehagefeltet til høyere utdanning og forskning. Den retter seg mot studenter og forskere i lærerutdanningene og pedagogikk, og gir innspill til den allmenne politiske og faglige debatten om barnehage, utdanning og oppvekst.
-  </article>
   <article id="contributors-article-VC5XLF85" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

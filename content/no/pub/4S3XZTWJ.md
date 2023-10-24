@@ -1,5 +1,5 @@
 ---
-title: "Pathogen Exposure in White Whales (Delphinapterus leucas) in Svalbard, Norway"
+title: "4S3XZTWJ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4S3XZTWJ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2124459" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/4S3XZTWJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-4S3XZTWJ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-4S3XZTWJ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-4S3XZTWJ" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2076-0817/12/1/58/pdf?version=1673344540" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-4S3XZTWJ"></div>
 </article>
 <div id="csl-bib-meta-4S3XZTWJ" class="csl-bib-meta">
-  <article id="abstract-article-4S3XZTWJ" class="abstract-article">
-    <h1>Samandrag</h1>
-    The Svalbard white whale (Delphinapterus leucas) population is one of the smallest in the world, making it particularly vulnerable to challenges such as climate change and pathogens. In this study, serum samples from live captured (2001-2016) white whales from this region were investigated for influenza A virus (IAV) antibodies (Abs) (n = 27) and RNA (n = 25); morbillivirus (MV) Abs (n = 3) and RNA (n = 25); Brucella spp. Abs; and Toxoplasma gondii Abs (n = 27). IAV Abs were found in a single adult male that was captured in Van Mijenfjorden in 2001, although no IAV RNA was detected. Brucella spp. Abs were found in 59% of the sample group (16/27). All MV and T.&amp;amp;nbsp;gondii results were negative. The results show that Svalbard white whales have been exposed to IAV and Brucella spp., although evidence of disease is lacking. However, dramatic changes in climate and marine ecosystems are taking place in the Arctic, so surveillance of health parameters, including pathogens, is critical for tracking changes in the status of this vulnerable population.
-  </article>
   <article id="contributors-article-4S3XZTWJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -57,7 +53,7 @@ Studiested Evenstad
     <div class="sdg-container"><div id="sdg14" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg14_no.png" class="image" alt="SDG 14">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>41</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=14#archive" class="sdg-publication-count"><span>42</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-i-havet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Positive Deviance: A Non-Normative Approach to Health and Risk Messaging"
+title: "4W4R4HHQ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4W4R4HHQ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1530152" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/4W4R4HHQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-4W4R4HHQ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-4W4R4HHQ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-4W4R4HHQ" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1093/acrefore/9780190228613.013.248" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-4W4R4HHQ"></div>
 </article>
 <div id="csl-bib-meta-4W4R4HHQ" class="csl-bib-meta">
-  <article id="abstract-article-4W4R4HHQ" class="abstract-article">
-    <h1>Samandrag</h1>
-    The Positive Deviance (PD) approach is based on the premise that every community has individuals or groups whose uncommon behaviors and strategies enable them to find better solutions to problems than their peers although everyone has access to the same resources and challenges. In contrast to traditional problem-solving approaches that begin with an expert-driven analysis of “what is not working” with people—their explicit needs, deficits, problems, and risks—followed by attempts to plug those gaps, the PD approach focuses on identifying “what is working.” PD offers a systematic framework to identify assets, indigenous knowledge, and home-grown solutions, and to amplify them for wider adoption
-  </article>
   <article id="contributors-article-4W4R4HHQ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -57,7 +53,7 @@ Studiested Rena
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

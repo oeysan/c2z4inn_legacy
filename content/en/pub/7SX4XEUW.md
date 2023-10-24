@@ -1,5 +1,5 @@
 ---
-title: "Developing the HLS19-YP12 for measuring health literacy in young people: a latent trait analysis using Rasch modelling and confirmatory factor analysis"
+title: "7SX4XEUW"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7SX4XEUW" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2090726" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7SX4XEUW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-7SX4XEUW" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7SX4XEUW" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-7SX4XEUW" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-022-08831-4" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7SX4XEUW"></div>
 </article>
 <div id="csl-bib-meta-7SX4XEUW" class="csl-bib-meta">
-  <article id="abstract-article-7SX4XEUW" class="abstract-article">
-    <h1>Abstract</h1>
-    BackgroundAccurate and precise measures of health literacy (HL) is supportive for health policy making, tailoring health service design, and ensuring equitable access to health services. According to research, valid and reliable unidimensional HL measurement instruments explicitly targeted at young people (YP) are scarce. Thus, this study aims at assessing the psychometric properties of existing unidimensional instruments and developing an HL instrument suitable for YP aged 16–25 years. Methods Applying the HLS 19 -Q47 in computer-assisted telephone interviews, we collected data in a representative sample comprising 890 YP aged 16–25 years in Norway. Applying the partial credit parameterization of the unidimensional Rasch model for polytomous data (PCM) and confirmatory factor analysis (CFA) with categorical variables, we evaluated the psychometric properties of the short versions of the HLS 19 -Q47; HLS 19 -Q12, HLS 19 -SF12, and HLS 19 -Q12-NO. A new 12-item short version for measuring HL in YP, HLS 19 -YP12, is suggested. Results The HLS 19 -Q12 did not display sufficient fit to the PCM, and the HLS 19 -SF12 was not sufficiently unidimensional. Relative to the PCM, some items in the HLS 19 -Q12, the HLS 19 -SF12, and the HLS 19 -Q12-NO discriminated poorly between participants at high and at low locations on the underlying latent trait. We observed disordered response categories for some items in the HLS 19 -Q12 and the HLS 19 -SF12. A few items in the HLS 19 -Q12, the HLS 19 -SF12, and the HLS 19 -Q12-NO displayed either uniform or non-uniform differential item functioning. Applying one-factorial CFA, none of the aforementioned short versions achieved exact fit in terms of non-significant model chi-square statistic, or approximate fit in terms of SRMR ≤ .080 and all entries ≤ .10 that were observed in the respective residual matrix. The newly suggested parsimonious 12-item scale, HLS 19 -YP12, displayed sufficiently fit to the PCM and achieved approximate fit using one-factorial CFA. Conclusions Compared to other parsimonious 12-item short versions of HLS 19 -Q47, the HLS 19 -YP12 has superior psychometric properties and unconditionally proved its unidimensionality. The HLS 19 -YP12 offers an efficient and much-needed screening tool for use among YP, which is likely a useful application in processes towards the development and evaluation of health policy and public health work, as well as for use in clinical settings.
-  </article>
   <article id="contributors-article-7SX4XEUW" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -97,13 +93,13 @@ Room 4L3203
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

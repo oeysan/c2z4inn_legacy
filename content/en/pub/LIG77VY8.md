@@ -1,5 +1,5 @@
 ---
-title: "Fugitive Futures and Knowledge Brokering : Adding Value, Habits, and Trust in Early Childhood Education and Educational Research"
+title: "LIG77VY8"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LIG77VY8" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2002440" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LIG77VY8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-LIG77VY8" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LIG77VY8" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-LIG77VY8" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://journals.sagepub.com/doi/pdf/10.1177/10778004221077709" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LIG77VY8"></div>
 </article>
 <div id="csl-bib-meta-LIG77VY8" class="csl-bib-meta">
-  <article id="abstract-article-LIG77VY8" class="abstract-article">
-    <h1>Abstract</h1>
-    This article is a collective act of writing preoccupied with the future of education. Our perspectives are different but what we have in common is a wish to explore and contribute to educational innovation. Through knowledge brokering, we try to create openings toward expanded meaning fields nourishing valuable diversities of onto-epistemic cultures ultimately preparing students for fugitive futures. Our project is complex and pluriverse like any brokering process for Other and innovation might be. Both method and means however are simple: Through using the concept of oxymoroning as a rhetorical and epigrammatic device for revealing paradox and through this taking part in polysemantic ambiguity, new concepts, knowledges, and habits are possibilized. Through a montage of thoughts, theories, and stories, hopefully thinking for innovation is given a constant continuation.
-  </article>
   <article id="contributors-article-LIG77VY8" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,19 +59,19 @@ Room 2P244
     <div class="sdg-container"><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>46</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=2#archive" class="sdg-publication-count"><span>46</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>64</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

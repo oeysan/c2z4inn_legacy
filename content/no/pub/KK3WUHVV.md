@@ -1,5 +1,5 @@
 ---
-title: "New perspectives on community library development in Africa"
+title: "KK3WUHVV"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,25 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KK3WUHVV" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1528059" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/KK3WUHVV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-KK3WUHVV" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KK3WUHVV" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-KK3WUHVV" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/NLW-05-2014-0063" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-KK3WUHVV"></div>
 </article>
 <div id="csl-bib-meta-KK3WUHVV" class="csl-bib-meta">
-  <article id="abstract-article-KK3WUHVV" class="abstract-article">
-    <h1>Samandrag</h1>
-    Purpose – The purpose of this paper is to discuss the constraints of and opportunities for the role of African community libraries in development, using an ecological framework for library development. 
-Design/methodology/approach – Drawing on a review of the literature and the three authors’ own experiences, the paper critically examines community libraries, mainly from Uganda and Ethiopia, and frames the analysis within an ecological framework of library development. 
-Findings – There are many examples of community libraries that realize various elements of the ecological framework (context/environment, equity/social justice, partnerships/interactions, and action/research). 
-Practical implications – The ecological framework further developed in this paper helps community library leaders to critically examine their programmes and services and develop strategies for further growth, and suggests closer collaboration between community librarians, local communities, and researchers. 
-Originality/value – This paper addresses the need to move beyond community library research on the predominant outputs (library statistics) and outcomes (societal value/impact) models, adding a critical perspective of the larger social and political structures that limit and shape the development of community libraries. 
-Keywords Africa, Uganda, Ethiopia, Community libraries, Ecological framework 
-Paper type Conceptual paper
-  </article>
   <article id="contributors-article-KK3WUHVV" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -69,7 +59,7 @@ Rom 2M34-2
     <div class="sdg-container"><div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

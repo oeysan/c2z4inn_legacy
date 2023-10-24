@@ -1,5 +1,5 @@
 ---
-title: "Refugee Population and Environmental Quality in Sweden and Lebanon: Is Fertility Rate Changing the Dynamics?"
+title: "GTRMYKDX"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GTRMYKDX" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2147709" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GTRMYKDX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GTRMYKDX" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GTRMYKDX" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.mdpi.com/2076-0760/12/4/243/pdf?version=1681819493" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-GTRMYKDX"></div>
 </article>
 <div id="csl-bib-meta-GTRMYKDX" class="csl-bib-meta">
-  <article id="abstract-article-GTRMYKDX" class="abstract-article">
-    <h1>Samandrag</h1>
-    Arising from the arrays of man-made factors (including political- and socioeconomic-related factors) and natural disasters across the globe, population displacement, as one of the consequences of the above-mentioned factors, has continued to trigger refugee populations. This is the reason Lebanon (with the highest number of refugees per total population in the world) and Sweden (with the highest number of refugees per total population in Europe) are considered in a comparative investigation. Importantly, this study examines the environmental effect of greenhouse gas (GHG) emissions via the refugee population and fertility rate, alongside the roles of income and natural resource abundance, from 1990 to 2021. The results reveal that fertility rates spur GHG emissions, thereby hampering environmental sustainability in both countries. While the refugee population mitigates GHG emissions in Sweden, the effect is contrary and environmentally damaging in Lebanon. The disparity in the countries’ environmental proactiveness, which has supposedly permeated societal values, especially in Sweden, could have influenced the above result. Meanwhile, in both countries, the refugee populations moderate the effect of the fertility rate, increasing the environmental demerit of the increase in the fertility rate. However, the Swedish income level improvement helps mitigate GHG emissions, thus validating the environmental Kuznets curve (EKC) hypothesis in the long run. In Sweden, the natural resource abundance also promotes environmental benefit. Contrarily, in Lebanon, increases in both the natural resource abundance and income per person increase GHG emissions, thus worsening the environmental quality. Finally, this study offers policy recommendations for improving refugee programs.
-  </article>
   <article id="contributors-article-GTRMYKDX" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

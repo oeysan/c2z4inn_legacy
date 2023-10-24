@@ -1,5 +1,5 @@
 ---
-title: "Validating the Functional, Communicative, and Critical Health Literacy Scale Using Rasch Modeling and Confirmatory Factor Analysis"
+title: "M3HVTRLS"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,29 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-M3HVTRLS" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1485030" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/M3HVTRLS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-M3HVTRLS" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-M3HVTRLS" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-M3HVTRLS" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.duo.uio.no/bitstream/10852/67105/2/Validating%2bFCCHLJNM_postprint.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-M3HVTRLS"></div>
 </article>
 <div id="csl-bib-meta-M3HVTRLS" class="csl-bib-meta">
-  <article id="abstract-article-M3HVTRLS" class="abstract-article">
-    <h1>Abstract</h1>
-    Background and Purpose: 
-The functional, communicative, and critical health literacy (FCCHL) scale is widely used for assessing health literacy (HL) in people with chronic diseases, such as type 2 diabetes (T2DM). Despite related subscales, researchers continue to apply a consecutive modeling approach, treating the three subscales as independent. This article studies the psychometric characteristics of the FCCHL by applying multidimensional modeling approaches. 
- 
-Methods: 
-Rasch modeling and confirmatory factor analyses were applied to responses (paper-and-pencil) from 386 adults with T2DM. 
- 
-Results: 
-Using a six-point rating scale and a three-dimensional Rasch model, this study found that a 12-item version of the FCCHL reduced within-item bias and improved subscale reliability indexes. 
- 
-Conclusion: 
-This study suggests a parsimonious 12-item version of the FCCHL. The data fit a three-dimensional Rasch model best.
-  </article>
   <article id="contributors-article-M3HVTRLS" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -77,7 +63,7 @@ Room 4L3203
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

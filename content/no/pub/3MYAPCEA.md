@@ -1,5 +1,5 @@
 ---
-title: "Biotechnological Applications of Mushrooms under the Water-Energy-Food Nexus: Crucial Aspects and Prospects from Farm to Pharmacy"
+title: "3MYAPCEA"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3MYAPCEA" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2163570" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3MYAPCEA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-3MYAPCEA" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3MYAPCEA" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-3MYAPCEA" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2304-8158/12/14/2671/pdf?version=1689078501" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3MYAPCEA"></div>
 </article>
 <div id="csl-bib-meta-3MYAPCEA" class="csl-bib-meta">
-  <article id="abstract-article-3MYAPCEA" class="abstract-article">
-    <h1>Samandrag</h1>
-    Mushrooms have always been an important source of food, with high nutritional value and medicinal attributes. With the use of biotechnological applications, mushrooms have gained further attention as a source of healthy food and bioenergy. This review presents different biotechnological applications and explores how these can support global food, energy, and water security. It highlights mushroom’s relevance to meet the sustainable development goals of the UN. This review also discusses mushroom farming and its requirements. The biotechnology review includes sections on how to use mushrooms in producing nanoparticles, bioenergy, and bioactive compounds, as well as how to use mushrooms in bioremediation. The different applications are discussed under the water, energy, and food (WEF) nexus. As far as we know, this is the first report on mushroom biotechnology and its relationships to the WEF nexus. Finally, the review valorizes mushroom biotechnology and suggests different possibilities for mushroom farming integration.
-  </article>
   <article id="contributors-article-3MYAPCEA" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -65,13 +61,13 @@ Studiested Blæstad
     <div class="sdg-container"><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_no.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>46</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=2#archive" class="sdg-publication-count"><span>46</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg6" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg06_no.png" class="image" alt="SDG 6">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>26</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=6#archive" class="sdg-publication-count"><span>29</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/rent-vann-og-gode-sanitaerforhold?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

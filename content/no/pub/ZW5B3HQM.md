@@ -1,5 +1,5 @@
 ---
-title: "Case Studies in Physiology: Temporal changes in determinants of aerobic performance in individual going from alpine skier to world junior champion time trial cyclist"
+title: "ZW5B3HQM"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZW5B3HQM" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1736165" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ZW5B3HQM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ZW5B3HQM" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ZW5B3HQM" class="csl-bib-button">Medverkande</a>
+    <a href="https://journals.physiology.org/doi/pdf/10.1152/japplphysiol.00798.2018" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ZW5B3HQM"></div>
 </article>
 <div id="csl-bib-meta-ZW5B3HQM" class="csl-bib-meta">
-  <article id="abstract-article-ZW5B3HQM" class="abstract-article">
-    <h1>Samandrag</h1>
-    This paper reports temporal changes in physiological measurements of exercise performance in a young man transitioning from alpine skiing until he became a world junior champion time trial cyclist after only 3 yr of bike-specific training. At the time he became World Champion he also achieved among the highest reported maximal oxygen uptake (V̇o 2max ) value, 96.7 ml·min −1 ·kg −1 , or 7,397 ml/min in absolute terms at 76.5 kg, which had increased by 29.6% from 74.6 ml·min −1 ·kg −1 pre-bike-specific training. After 15 mo with almost no structured exercise training, V̇o 2max returned to 77.0 mL·min −1 ·kg −1 and was similar to the value reported before specific bike training, albeit with absolute term (6,205 ml/min) still being 11.3% higher. Part of the explanation for his athletic achievements is likely also related to the up to 20.9% improvement in Power@4 mmol/l (W). Although genetic profiles of endurance athletes have not generated data suggesting a shared genetic signature associated with elite endurance performance, this case study highlights the importance of intrinsic biological factors in elite endurance performance. NEW &amp; NOTEWORTHY This study shows that very high V̇o 2max values (&gt;70 ml·min −1 ·kg −1 ) can be found in individuals not previously specializing in aerobic training and that values of &gt;90 ml·min −1 ·kg −1 , as well as a cycling world junior champion title, can be achieved in such individuals with just 3 yr of dedicated exercise training.
-  </article>
   <article id="contributors-article-ZW5B3HQM" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

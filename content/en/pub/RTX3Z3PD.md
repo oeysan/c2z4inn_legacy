@@ -1,5 +1,5 @@
 ---
-title: "Concurrent BMP Signaling Maintenance and TGF-β Signaling Inhibition Is a Hallmark of Natural Resistance to Muscle Atrophy in the Hibernating Bear"
+title: "RTX3Z3PD"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RTX3Z3PD" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1956127" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RTX3Z3PD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-RTX3Z3PD" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RTX3Z3PD" class="csl-bib-button">Contributors</a>
+    <a href="https://www.mdpi.com/2073-4409/10/8/1873/pdf?version=1627988546" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-RTX3Z3PD"></div>
 </article>
 <div id="csl-bib-meta-RTX3Z3PD" class="csl-bib-meta">
-  <article id="abstract-article-RTX3Z3PD" class="abstract-article">
-    <h1>Abstract</h1>
-    Muscle atrophy arises from a multiplicity of physio-pathological situations and has very detrimental consequences for the whole body. Although knowledge of muscle atrophy mechanisms keeps growing, there is still no proven treatment to date. This study aimed at identifying new drivers for muscle atrophy resistance. We selected an innovative approach that compares muscle transcriptome between an original model of natural resistance to muscle atrophy, the hibernating brown bear, and a classical model of induced atrophy, the unloaded mouse. Using RNA sequencing, we identified 4415 differentially expressed genes, including 1746 up- and 2369 down-regulated genes, in bear muscles between the active versus hibernating period. We focused on the Transforming Growth Factor (TGF)-β and the Bone Morphogenetic Protein (BMP) pathways, respectively, involved in muscle mass loss and maintenance. TGF-β- and BMP-related genes were overall down- and up-regulated in the non-atrophied muscles of the hibernating bear, respectively, and the opposite occurred for the atrophied muscles of the unloaded mouse. This was further substantiated at the protein level. Our data suggest TGF-β/BMP balance is crucial for muscle mass maintenance during long-term physical inactivity in the hibernating bear. Thus, concurrent activation of the BMP pathway may potentiate TGF-β inhibiting therapies already targeted to prevent muscle atrophy.
-  </article>
   <article id="contributors-article-RTX3Z3PD" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

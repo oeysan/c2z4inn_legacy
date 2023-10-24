@@ -1,5 +1,5 @@
 ---
-title: "Effects of Cycling Training at Imposed Low Cadences: A Systematic Review"
+title: "RFL5XF7S"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RFL5XF7S" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1484771" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RFL5XF7S" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-RFL5XF7S" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RFL5XF7S" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1123/ijspp.2016-0574" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-RFL5XF7S"></div>
 </article>
 <div id="csl-bib-meta-RFL5XF7S" class="csl-bib-meta">
-  <article id="abstract-article-RFL5XF7S" class="abstract-article">
-    <h1>Samandrag</h1>
-    The present article reviews effects of training at low imposed cadences in cycling. The authors performed a systematic literature search of MEDLINE and SPORTDiscus up to April 2016 to identify potentially relevant articles. Based on the titles and abstracts of the identified articles, a subset of articles was selected for evaluation. These articles constituted original-research articles on adaptation to training at different imposed cadences in cycling. Seven articles were selected for evaluation. With regard to the terminology in the present article, low cadences are those below the freely chosen cadence. The rate of 80 rpm can, eg, be considered a low cadence if effort is maximal. On the other hand, the cadence has to be lower than 80 rpm (eg, 40–70 rpm) to be considered low if cycling is performed at low power output. The reason is that the choice of cadence depends on power output. In conclusion, there is presently no strong evidence for a benefit of training at low cadences. It can tentatively be recommended to consider including training bouts of cycling at low cadence at moderate to maximal intensity. The reason for the restrained recommendation is that some of the selected studies indicate no clear performance-enhancing effect of training at low cadence or even indicate a superior effect from training at freely chosen cadence. Furthermore, the selected studies are considerably dissimilar with respect to, eg, participant characteristics and to the applied training regimens.
-  </article>
   <article id="contributors-article-RFL5XF7S" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Velferdsstaten i endring: om norsk helse- og sosialpolitikk"
+title: "AQUXRRX2"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AQUXRRX2" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1468203" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/AQUXRRX2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-AQUXRRX2" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AQUXRRX2" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-AQUXRRX2"></div>
 </article>
 <div id="csl-bib-meta-AQUXRRX2" class="csl-bib-meta">
-  <article id="abstract-article-AQUXRRX2" class="abstract-article">
-    <h1>Samandrag</h1>
-    Velferdsstaten i endring diskuterer de sosialpolitiske kursendringene som gjør seg gjeldende i dag og belyser konturene av norsk sosialpolitikk i de nærmeste årene. Helse- og sosialpolitikk er et bredt og sammensatt fagområde. Denne tredje utgaven av Velferdsstaten i endring har som overordnet siktemål å gi et begreps- og kunnskapsmessig grunnlag for å forstå norsk sosialpolitisk utvikling i et bredt historisk og samfunnsmessig perspektiv. Forfatterne diskuterer de sosialpolitiske kursendringene som gjør seg gjeldende i dag og belyser konturene av norsk sosialpolitikk i de nærmeste årene. Boka er oppdatert med tre nye kapitler - om NAV, boligpolitikk og innvandring - i tillegg til at litteratur og tallmateriale er ajourført.
-  </article>
   <article id="contributors-article-AQUXRRX2" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

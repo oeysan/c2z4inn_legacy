@@ -1,5 +1,5 @@
 ---
-title: "Psychometric evaluation of Nurse Professional Competence Scale—Short‐form Chinese language version among nursing graduate students"
+title: "KAK9VVAN"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KAK9VVAN" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1934367" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/KAK9VVAN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-KAK9VVAN" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KAK9VVAN" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-KAK9VVAN" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://hig.diva-portal.org/smash/get/diva2:1590681/FULLTEXT01" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-KAK9VVAN"></div>
 </article>
 <div id="csl-bib-meta-KAK9VVAN" class="csl-bib-meta">
-  <article id="abstract-article-KAK9VVAN" class="abstract-article">
-    <h1>Samandrag</h1>
-    AimThe aim of the study was to determine the psychometric properties, construct validity and internal consistency of the Chinese language version of the Nurse Professional Competence scale short form. DesignA methodological design was used. MethodsQuestionnaire data from 260 nursing students nearing graduation from 2 universities in China were analysed using confirmatory factor analysis, known‐group validity and internal consistency. ResultsThe confirmatory factor analysis revealed that the model was acceptable, and the analyses for known‐group validity revealed statistically significant differences in all factors and the total scale of the Nurse Professional Competence scale short form. Internal consistency revealed that Cronbach's alpha values exceeded 0.70 for all factors and the total scale. The Chinese language version of the Nurse Professional Competence scale short form has acceptable construct validity and good internal consistency.
-  </article>
   <article id="contributors-article-KAK9VVAN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Studiested Elverum
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

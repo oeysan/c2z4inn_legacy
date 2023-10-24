@@ -1,5 +1,5 @@
 ---
-title: "Å forske på egen praksis: aksjonsforskning og andre tilnærminger til profesjonell utvikling i utdanningsfeltet"
+title: "IZC5SCAL"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IZC5SCAL" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2050899" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/IZC5SCAL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-IZC5SCAL" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IZC5SCAL" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-IZC5SCAL"></div>
 </article>
 <div id="csl-bib-meta-IZC5SCAL" class="csl-bib-meta">
-  <article id="abstract-article-IZC5SCAL" class="abstract-article">
-    <h1>Samandrag</h1>
-    I dag opplever skoler og andre tjenesteområder en stadig økende forventning til at de skal drive forsknings- og utviklingsarbeid for å forbedre sine virksomheter. Denne andre utgaven av Å forske på egen praksis gir en innføring i praktikerforskning og diskuterer kunnskapsgrunnlaget for slik forskning. Boka gir samtidig verktøy for de som skal i gang med forskning på egen praksis, og det er tatt med gode eksempler hentet fra utdanningsfeltet. De som er kjent med første utgave av boka, vil finne igjen majoriteten av tekstene i denne nye utgaven, men i oppdaterte versjoner. Samtidig kan de glede seg over et større utvalg av praktiske eksempler og en styrkning av verktøyfunksjonen til boka.Forventningen om at undervisning skal være en kunnskapsbasert praksis betyr ikke nødvendigvis enighet om hvilken kunnskap lærere trenger for å undervise bedre. Bokas ulike kapitler bidrar med viktige innspill til diskusjoner omkring samfunnsaktuelle spørsmål som forholdet mellom autonomi og kontroll i utvikling av lærerrollen, hva lærerkompetanse er, og hvordan den kan utvikles og verdsettes. Boka har som hensikt å skape dialog omkring temaene skoleutvikling og lærerkompetanse. Det gjør den ved å kombinere et praktisk siktemål om å hjelpe studenter, lærere, skoler og lærerutdannere i gang med forskning på egen praksis, med vitenskapelige diskusjoner.
-  </article>
   <article id="contributors-article-IZC5SCAL" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

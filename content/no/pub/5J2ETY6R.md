@@ -1,5 +1,5 @@
 ---
-title: "Smart City (SC) initiative and urban development in rural region of Inland Norway: A link missing?"
+title: "5J2ETY6R"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5J2ETY6R" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1918706" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/5J2ETY6R" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-5J2ETY6R" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-5J2ETY6R" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-5J2ETY6R" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-5J2ETY6R"></div>
 </article>
 <div id="csl-bib-meta-5J2ETY6R" class="csl-bib-meta">
-  <article id="abstract-article-5J2ETY6R" class="abstract-article">
-    <h1>Samandrag</h1>
-    This study investigates the nature of the interconnection between SC and urban development initiatives. A case of Hamar city is used to identify how SC initiatives is used to combat some of the key challenges faced by a smaller city and non-metropolitan region. In contrast to metropolitan areas, the Inland region with Hamar as its administrative centre is facing depopulation. A qualitative approach was applied including individual semi-structured and focus-group interviews. Despite an ambition of adopting SC and several SC projects that are up and running, the process is still at the early stages where many of its key stakeholders are unfamiliar with Hamar’s SC initiatives. Poor integration between ICT systems also creates certain challenges. It concludes that better integration and marketing effort should be directed at educating the public about the purpose and goal of SC. Moreover, as technology evolves, it is important to be cautious about issues concerning privacy while ensuring seamless integration and communication between the systems in order to become a true ‘smart’ effort.
-  </article>
   <article id="contributors-article-5J2ETY6R" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -68,13 +63,13 @@ Rom 3Ø211
     <div class="sdg-container"><div id="sdg1" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg01_no.png" class="image" alt="SDG 1">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>37</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=1#archive" class="sdg-publication-count"><span>39</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/utrydde-fattigdom?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg11" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg11_no.png" class="image" alt="SDG 11">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>23</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=11#archive" class="sdg-publication-count"><span>23</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/baerekraftige-byer-og-lokalsamfunn?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Oppgavesamling i individuell arbeidsrett"
+title: "USCUSHDJ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-USCUSHDJ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2131395" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/USCUSHDJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-USCUSHDJ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-USCUSHDJ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-USCUSHDJ" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-USCUSHDJ"></div>
 </article>
 <div id="csl-bib-meta-USCUSHDJ" class="csl-bib-meta">
-  <article id="abstract-article-USCUSHDJ" class="abstract-article">
-    <h1>Samandrag</h1>
-    «Oppgavesamling i individuell arbeidsrett» er først og fremst en oppgavesamling med veiledninger. Boken har imidlertid også lettleste og pedagogiske innføringskapitler til de mest sentrale emnene innen arbeidsrett.Oppgavesamlingen inneholder både teoretiske og praktiske oppgaver i arbeidsrett og er et nyttig hjelpemiddel for studenter og andre som skal lære seg faget. Den er tematisk bygget opp og tar blant annet for seg oppsigelse, avskjed, styringsrett og diskriminering. For hvert tema gis det en kort presentasjon av sentrale problemstillinger, kontrollspørsmål og øvingsoppgaver. Forfatterne presenterer både fullstendige løsningsforslag og momenter til løsning av oppgavene.
-  </article>
   <article id="contributors-article-USCUSHDJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -99,13 +94,13 @@ Rom 3Ø202
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

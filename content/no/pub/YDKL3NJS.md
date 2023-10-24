@@ -1,5 +1,5 @@
 ---
-title: "Naturfag i det flerkulturelle klasserommet som tema i lærerutdanningen"
+title: "YDKL3NJS"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YDKL3NJS" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2161265" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YDKL3NJS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-YDKL3NJS" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-YDKL3NJS" class="csl-bib-button">Medverkande</a>
+    <a href="https://tidsskrift.dk/SLP/article/download/138565/182819" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-YDKL3NJS"></div>
 </article>
 <div id="csl-bib-meta-YDKL3NJS" class="csl-bib-meta">
-  <article id="abstract-article-YDKL3NJS" class="abstract-article">
-    <h1>Samandrag</h1>
-    Flerkulturelle perspektiver har vært et satsningsområde i de seneste lærerutdan-ningsreformene i Norge, men det tar tid å implementere i de ulike lærerutdannings-fagene. Forberedelser til å møte skolens mangfold kan skje som del av både teori og praksis. Artikkelen belyser hvordan teoriundervisningen i lærerutdanningsfaget naturfag kan gjøres mer praksisnær ved å utforske eksempler fra naturfagundervis-ning i skoleklasser med språklig og kulturelt mangfold. Eksemplene er hentet fra et designbasert forskningsprosjekt der to lærere på en av lærerutdanningens part-nerskoler utprøvde ulike språklige støttestrukturer. Målet var å styrke deltakelsen i naturfaglige læringsprosesser hos mellomtrinnselever som lærer norsk og naturfag parallelt. Lærernes tilrettelegging, deres didaktiske lederskap av de aktuelle under-visningssekvensene, analyseres først i lys av teori om bruk av støttestrukturer (scaf-folding). Så belyses undervisningspraksisen gjennom å innta et mer overordnet perspektiv på likeverdspørsmål og diskutere hvordan slike praksiseksempler kan inngå i teoriundervisningen i lærerutdanningsfaget naturfag for å styrke flerkultu-relle perspektiver.
-  </article>
   <article id="contributors-article-YDKL3NJS" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

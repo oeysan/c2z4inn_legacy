@@ -1,5 +1,5 @@
 ---
-title: "Thinking about Thinking about Comparative Political Economy: From Macro to Micro and Back"
+title: "WLF3U7P6"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WLF3U7P6" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1611226" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WLF3U7P6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WLF3U7P6" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/0032329218796197" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-WLF3U7P6"></div>
 </article>

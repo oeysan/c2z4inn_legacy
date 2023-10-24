@@ -1,5 +1,5 @@
 ---
-title: "Online information seeking during the COVID-19 pandemic: A cross-country analysis"
+title: "VR97XGXS"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VR97XGXS" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2101869" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VR97XGXS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-VR97XGXS" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VR97XGXS" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-VR97XGXS" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.1177/03400352221141466" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VR97XGXS"></div>
 </article>
 <div id="csl-bib-meta-VR97XGXS" class="csl-bib-meta">
-  <article id="abstract-article-VR97XGXS" class="abstract-article">
-    <h1>Samandrag</h1>
-    The aim of this study was to investigate the coronavirus-related web-searching patterns of people from the 10 most affected nations in September 2020. The authors extracted all searches for the sample nations, consisting of the two words ‘COVID-19’ and ‘coronavirus’ and their variations, from Google Trends for the complete year of 2020. The results showed a discrepancy due to the priority of the language used during searches for coronavirus-related information. The time span of the attention level of citizens towards coronavirus-related information was relatively short (about one month). This supports the assumption of the activation model of information exposure that information which generates a negative affect is not welcomed by users. The findings have practical implications for governments and health authorities in, for example, launching information services for citizens in the early months of a pandemic and them remaining as the preferred source of information for citizens.
-  </article>
   <article id="contributors-article-VR97XGXS" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 4R1121
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

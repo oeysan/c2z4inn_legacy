@@ -1,5 +1,5 @@
 ---
-title: "Dynamical Modelling of the Global Cement Production and Supply System, Assessing Climate Impacts of Different Future Scenarios"
+title: "WCSMQ4PA"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WCSMQ4PA" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2140551" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WCSMQ4PA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-WCSMQ4PA" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WCSMQ4PA" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-WCSMQ4PA" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s11270-023-06183-1.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WCSMQ4PA"></div>
 </article>
 <div id="csl-bib-meta-WCSMQ4PA" class="csl-bib-meta">
-  <article id="abstract-article-WCSMQ4PA" class="abstract-article">
-    <h1>Samandrag</h1>
-    The global cement and concrete demand, production, supply, and the general global market price was modelled using the WORLD7 model for different future scenarios. The model was used to analyze some possible measures to reduce the climate impact of cement production. The main result from this study is that three factors may bring regulatory limitations to be imposed on cement production. The contribution of CO 2 to the atmosphere, the amount of iron used in construction and the use of energy in production are the main factors that may cause limitations. Cement accounts for about 8% of the global CO 2 emissions and energy use at present, and this fraction is projected by the simulations to continue to increase. To reduce CO 2 emissions from cement production, ending fossil fuel use for calcination, combined with a change towards using mortar as an alternative for making concrete should be considered. Our conclusion is that the long-term limitation for cement production is the availability of carbon-free energy, and the availability of iron for reinforcement bars. Eliminating the use of hydrocarbons for cement calcination may reduce the future the contribution from cement by 38%. Eliminating the use of hydrocarbons for calcination combined with substituting cement with mortar to 50%, the contribution to the future global average temperature increase is reduced by 62%. Eliminating the use of hydrocarbons for calcination combined with substituting cement with mortar to 90% is a reduction by 90% in the contribution from cement.
-  </article>
   <article id="contributors-article-WCSMQ4PA" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 2N3319
     <div class="sdg-container"><div id="sdg7" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg07_no.png" class="image" alt="SDG 7">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>27</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=7#archive" class="sdg-publication-count"><span>27</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/ren-energi-til-alle?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Behavioral responses of terrestrial mammals to COVID-19 lockdowns"
+title: "XT9FNM5Y"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XT9FNM5Y" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2154070" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XT9FNM5Y" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XT9FNM5Y" class="csl-bib-button">Medverkande</a>
+    <a href="https://openpub.fmach.it/bitstream/10449/80077/2/2023%20S%20Corradini.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-XT9FNM5Y"></div>
 </article>

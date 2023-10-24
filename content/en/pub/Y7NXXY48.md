@@ -1,5 +1,5 @@
 ---
-title: "Change in teacher-student relationships and parent involvement after implementation of the Incredible Years Teacher Classroom Management programme in a regular Norwegian school setting"
+title: "Y7NXXY48"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Y7NXXY48" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1642995" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Y7NXXY48" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Y7NXXY48" class="csl-bib-button">Contributors</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/berj.3479" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-Y7NXXY48"></div>
 </article>

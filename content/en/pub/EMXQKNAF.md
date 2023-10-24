@@ -1,5 +1,5 @@
 ---
-title: "Strengthening Cultural Competence in Health Professionals Through Partnerships: A Case Study of a Health Collaborative Exchange Between Malawi and Norway in Trauma Care and Emergency Medicine"
+title: "EMXQKNAF"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EMXQKNAF" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2072471" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/EMXQKNAF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-EMXQKNAF" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EMXQKNAF" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-EMXQKNAF" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://doi.org/10.1177/00469580221115263" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-EMXQKNAF"></div>
 </article>
 <div id="csl-bib-meta-EMXQKNAF" class="csl-bib-meta">
-  <article id="abstract-article-EMXQKNAF" class="abstract-article">
-    <h1>Abstract</h1>
-    North-South partnerships have been identified as one way of solving some of the challenges in health sectors globally. Norway and Malawi have one such partnership in trauma and emergence care. Lack of trauma care and emergency medicine is a major public health concern worldwide. This results in substantial loss to individual, families, and society. The study follows this partnership between Norway and Malawi, investigating on its socio-cultural benefits, and on how this contributes to the health professionals’ cultural competence. A qualitative case study was chosen for this study, 20 semi-structured interviews were conducted with health professionals and coordinators of the program. Interviews were conducted digitally using platforms such as Zoom and WhatsApp. Interviews were collected between the period of December 2020and February 2021. We found out that exchange participants from both countries largely reported positive experiences. Their experiences centered around their interactions and encounters with patients, patients’ relatives, and colleagues at host institutions. Participants reported a better understanding on health seeking behaviors in different contexts, the importance of communication with both patients and colleagues, and teamwork. In addition, the study revealed the importance on perceptions around identities such as race and gender and how these impact on health professionals’ interactions with patients. We also found out that although working in a different socio-cultural environment was reported as challenging, it was experienced as enriching and rewarding in terms of building and developing cultural competence. The study concludes that North-South health professionals exchange partnerships can be a viable vehicle for developing and naturing cultural competence in health professionals, however, such programs need to invest in preparing the exchange participants to be ready for the challenges that lies ahead in host institutions and countries.
-  </article>
   <article id="contributors-article-EMXQKNAF" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,13 +59,13 @@ Room 4L3305
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Optimizing Interval Training Through Power-Output Variation Within the Work Intervals"
+title: "8IWXQPMX"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8IWXQPMX" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1885396" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/8IWXQPMX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-8IWXQPMX" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-8IWXQPMX" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-8IWXQPMX" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://kar.kent.ac.uk/77645/1/Optimizing%20interval%20training%20through%20power%20output%20variation%20within%20the%20work%20intervals.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-8IWXQPMX"></div>
 </article>
 <div id="csl-bib-meta-8IWXQPMX" class="csl-bib-meta">
-  <article id="abstract-article-8IWXQPMX" class="abstract-article">
-    <h1>Abstract</h1>
-    Purpose : Maximal oxygen uptake ( ) is a key determinant of endurance performance. Therefore, devising high-intensity interval training (HIIT) that maximizes stress of the oxygen-transport and -utilization systems may be important to stimulate further adaptation in athletes. The authors compared physiological and perceptual responses elicited by work intervals matched for duration and mean power output but differing in power-output distribution. Methods : Fourteen cyclists ( 69.2 [6.6] mL·kg −1 ·min −1 ) completed 3 laboratory visits for a performance assessment and 2 HIIT sessions using either varied-intensity or constant-intensity work intervals. Results : Cyclists spent more time at during HIIT with varied-intensity work intervals (410 [207] vs 286 [162] s, P  = .02), but there were no differences between sessions in heart-rate- or perceptual-based training-load metrics (all P  ≥ .1). When considering individual work intervals, minute ventilation ( ) was higher in the varied-intensity mode ( F  = 8.42, P  = .01), but not respiratory frequency, tidal volume, blood lactate concentration [La], ratings of perceived exertion, or cadence (all F  ≤ 3.50, ≥ .08). Absolute changes (Δ) between HIIT sessions were calculated per work interval, and Δ total oxygen uptake was moderately associated with ( r  = .36, P  = .002). Conclusions : In comparison with an HIIT session with constant-intensity work intervals, well-trained cyclists sustain higher fractions of when work intervals involved power-output variations. This effect is partially mediated by an increased oxygen cost of hyperpnea and not associated with a higher [La], perceived exertion, or training-load metrics.
-  </article>
   <article id="contributors-article-8IWXQPMX" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg7" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg07_en.png" class="image" alt="SDG 7">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>27</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=7#archive" class="sdg-publication-count"><span>27</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal7" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

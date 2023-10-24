@@ -1,5 +1,5 @@
 ---
-title: "Impairment of Sexual Life in 3,485 Dermatological Outpatients From a Multicentre Study in 13 European Countries"
+title: "2DZWDTL6"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,37 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2DZWDTL6" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1446449" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/2DZWDTL6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-2DZWDTL6" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-2DZWDTL6" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-2DZWDTL6" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.medicaljournals.se/acta/download/10.2340/00015555-2561/" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-2DZWDTL6"></div>
 </article>
 <div id="csl-bib-meta-2DZWDTL6" class="csl-bib-meta">
-  <article id="abstract-article-2DZWDTL6" class="abstract-article">
-    <h1>Samandrag</h1>
-    Skin conditions may have a strong impact on patients’ 
-sexual life, and thus influence personal relationships. 
-Sexual issues are difficult to discuss directly in clinical 
-practice, and a mediated instrument may be useful 
-to capture such information. In this study item 9 of 
-the Dermatology Life Quality Index was used to collect 
-information on sexual impact of several skin conditions 
-in 13 European countries. Among 3,485 patients, 
-23.1% reported sexual problems. The impairment was 
-particularly high in patients with hidradenitis suppurativa, 
-prurigo, blistering disorders, psoriasis, urticaria, 
-eczema, infections of the skin, or pruritus. Sexual impact 
-was strongly associated with depression, anxiety, 
-and suicidal ideation. It was generally more frequent 
-in younger patients and was positively correlated with 
-clinical severity and itch. It is important to address the 
-issue of sexual well-being in the evaluation of patients 
-with skin conditions, since it is often linked to anxiety, 
-depression, and even suicidal ideation.
-  </article>
   <article id="contributors-article-2DZWDTL6" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -85,13 +63,13 @@ Rom 4L3202
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

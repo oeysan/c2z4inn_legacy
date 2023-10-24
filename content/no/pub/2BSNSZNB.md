@@ -1,5 +1,5 @@
 ---
-title: "Accumulation Dynamics of Transcripts and Proteins of Cold-Responsive Genes in Fragaria vesca Genotypes of Differing Cold Tolerance"
+title: "2BSNSZNB"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2BSNSZNB" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1918905" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/2BSNSZNB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-2BSNSZNB" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-2BSNSZNB" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.mdpi.com/1422-0067/22/11/6124/pdf?version=1623039655" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-2BSNSZNB"></div>
 </article>
 <div id="csl-bib-meta-2BSNSZNB" class="csl-bib-meta">
-  <article id="abstract-article-2BSNSZNB" class="abstract-article">
-    <h1>Samandrag</h1>
-    Identifying and characterizing cold responsive genes in Fragaria vesca associated with or responsible for low temperature tolerance is a vital part of strawberry cultivar development. In this study we have investigated the transcript levels of eight genes, two dehydrin genes, three putative ABA-regulated genes, two cold–inducible CBF genes and the alcohol dehydrogenase gene, extracted from leaf and crown tissues of three F. vesca genotypes that vary in cold tolerance. Transcript levels of the CBF/DREB1 transcription factor FvCBF1E exhibited stronger cold up-regulation in comparison to FvCBF1B.1 in all genotypes. Transcripts of FvADH were highly up-regulated in both crown and leaf tissues from all three genotypes. In the ‘ALTA’ genotype, FvADH transcripts were significantly higher in leaf than crown tissues and more than 10 to 20-fold greater than in the less cold-tolerant ‘NCGR1363’ and ‘FDP817’ genotypes. FvGEM, containing the conserved ABRE promoter element, transcript was found to be cold-regulated in crowns. Direct comparison of the kinetics of transcript and protein accumulation of dehydrins was scrutinized. In all genotypes and organs, the changes of XERO2 transcript levels generally preceded protein changes, while levels of COR47 protein accumulation preceded the increases in COR47 RNA in ‘ALTA’ crowns.
-  </article>
   <article id="contributors-article-2BSNSZNB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

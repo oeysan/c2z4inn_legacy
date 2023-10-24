@@ -1,5 +1,5 @@
 ---
-title: "Enable, Reconnect and Augment: A New ERA of Virtual Nature Research and Application"
+title: "SGHHHZ4P"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SGHHHZ4P" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1801656" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SGHHHZ4P" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-SGHHHZ4P" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SGHHHZ4P" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-SGHHHZ4P" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/1660-4601/17/5/1738/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-SGHHHZ4P"></div>
 </article>
 <div id="csl-bib-meta-SGHHHZ4P" class="csl-bib-meta">
-  <article id="abstract-article-SGHHHZ4P" class="abstract-article">
-    <h1>Samandrag</h1>
-    Being exposed to natural environments is associated with improved health and well-being, as these environments are believed to promote feelings of “being away” from everyday struggles, positive emotional reactions and stress reduction. Despite these positive effects, humanity is becoming increasingly more distanced from nature due to societal changes, such as increased urbanization and the reduced accessibility of natural environments. Technology is also partly to blame, as research suggests that people replace nature contact with increased screen time. In this cross-section between nature and technology, we find technological nature which is progressing towards a point where we may be capable of simulating exposure to real nature. Concerns have been raised regarding this technology, as it is feared it will replace real nature. However, research suggests that virtual nature may have a more positive impact on society than a mere replacement of real nature, and this review propose several areas where virtual nature may be a beneficial addition to actual nature (Enable), help people reconnect with the real natural world (Reconnect) and “boost” human-nature interactions (Augment). Based on the current research and theoretical framework, this review proposes guidelines for future research within these areas, with the aim of advancing the field by producing high quality research.
-  </article>
   <article id="contributors-article-SGHHHZ4P" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -95,7 +91,7 @@ Rom 4L3335
     <div class="sdg-container"><div id="sdg11" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg11_no.png" class="image" alt="SDG 11">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>23</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=11#archive" class="sdg-publication-count"><span>23</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/baerekraftige-byer-og-lokalsamfunn?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

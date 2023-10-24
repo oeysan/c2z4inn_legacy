@@ -1,5 +1,5 @@
 ---
-title: "The perception of Swedish housing owner’s on the strategies to increase the rate of energy efficient refurbishment of multi-family buildings"
+title: "HL4WZXZB"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HL4WZXZB" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1664598" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HL4WZXZB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HL4WZXZB" class="csl-bib-button">Contributors</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/17508975.2018.1539390?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-HL4WZXZB"></div>
 </article>

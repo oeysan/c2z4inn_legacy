@@ -1,5 +1,5 @@
 ---
-title: "Climate concerned but anti-nuclear: Exploring (dis)approval of nuclear energy in four European countries"
+title: "5UGV6YEV"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5UGV6YEV" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1926888" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/5UGV6YEV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-5UGV6YEV" class="csl-bib-button">Medverkande</a>
+    <a href="https://orca.cardiff.ac.uk/id/eprint/140088/1/Climate%2BChange%2Band%2BNuclear%2BEnergy%2B-%2Bfinal.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-5UGV6YEV"></div>
 </article>

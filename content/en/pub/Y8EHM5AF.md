@@ -1,5 +1,5 @@
 ---
-title: "Scientific progress: Four accounts"
+title: "Y8EHM5AF"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Y8EHM5AF" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1587445" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Y8EHM5AF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/phc3.12525" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-Y8EHM5AF"></div>
 </article>

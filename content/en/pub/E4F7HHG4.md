@@ -1,5 +1,5 @@
 ---
-title: "Trans* and gender variant citizenship and the state in Norway"
+title: "E4F7HHG4"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E4F7HHG4" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1608417" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/E4F7HHG4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-E4F7HHG4" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-E4F7HHG4" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-E4F7HHG4" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://journals.sagepub.com/doi/pdf/10.1177/0261018317733084" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-E4F7HHG4"></div>
 </article>
 <div id="csl-bib-meta-E4F7HHG4" class="csl-bib-meta">
-  <article id="abstract-article-E4F7HHG4" class="abstract-article">
-    <h1>Abstract</h1>
-    The last decade has seen the expansion of trans* identities that are gender queer, non-binary, androgynous, or multiply-sexed and gendered in Western Europe. These developments mark a shift from a uniformly gender-binaried system to one that encompasses some degree of gender pluralism, as reflected to an extent in policy changes in some European countries. However, gender binarism is still prevalent. This article uses the case of Norway to demonstrate a contrast between the citizenship statuses afforded to transsexual men and women, and the lack of citizenship rights that people with non-binary identities, and other gender-variant people who are not diagnosed as transsexual, face. The article addresses the historical role of the Norwegian state in perpetuating gender binaries, in key areas such as identity recognition. It then explores the ways in which Norwegian social policy is changing towards more trans-sensitive positions.
-  </article>
   <article id="contributors-article-E4F7HHG4" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -56,7 +52,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

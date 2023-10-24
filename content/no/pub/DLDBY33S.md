@@ -1,5 +1,5 @@
 ---
-title: "A ‘token gesture’ in World Athletics governance? The IAAF Women’s Committee under Ilse Bechthold, 1990–2005"
+title: "DLDBY33S"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DLDBY33S" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2155607" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/DLDBY33S" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-DLDBY33S" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-DLDBY33S" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-DLDBY33S" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/17430437.2022.2076079" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-DLDBY33S"></div>
 </article>
 <div id="csl-bib-meta-DLDBY33S" class="csl-bib-meta">
-  <article id="abstract-article-DLDBY33S" class="abstract-article">
-    <h1>Samandrag</h1>
-    The establishment of women’s committees in the governance structure of sport organizations is directly connected to – and often justified as a remedy for – women’s historical exclusion from sport. While women’s committees can provide women an entryway into leadership positions, they can also restrict the influence of women’s voices and concerns in decision-making processes. Despite the proliferation of women’s committees, this tension remains largely unexplored. We therefore examine one of the first women’s committees formed in sport, the IAAF Women’s Committee, between 1990 and 2005, to shed light on the value and limitations of this type of organizational feature. Using archival materials, our analysis shows that this committee served as an avenue for women to contribute to decision-making, but one consistently beset by roadblocks. We examine how the Women’s Committee, led by Ilse Bechthold, persistently and strategically navigated the IAAF’s hierarchical structure and culture toward modest, incremental progress.
-  </article>
   <article id="contributors-article-DLDBY33S" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,13 +57,13 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

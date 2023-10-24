@@ -1,5 +1,5 @@
 ---
-title: "Lærerutdanning i kroppsøving og idrettsfag på masternivå - muligheter og utfordringer"
+title: "JSQDG8I9"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JSQDG8I9" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1877446" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JSQDG8I9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JSQDG8I9" class="csl-bib-button">Contributors</a>
+    <a href="https://utdanningogpraksis.no/index.php/up/article/download/2486/5014" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JSQDG8I9"></div>
 </article>

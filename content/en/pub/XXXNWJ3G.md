@@ -12,6 +12,7 @@ type: pub
     <a href="https://app.cristin.no/results/show.jsf?id=2178599" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5022929/items/XXXNWJ3G" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XXXNWJ3G" class="csl-bib-button">Contributors</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/09500782.2023.2265905?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-XXXNWJ3G"></div>
 </article>

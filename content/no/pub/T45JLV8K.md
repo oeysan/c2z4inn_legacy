@@ -1,5 +1,5 @@
 ---
-title: "Å være lærer i en mangfoldig skole: kulturelt og religiøst mangfold, profesjonsverdier og verdigrunnlag"
+title: "T45JLV8K"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-T45JLV8K" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1584019" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/T45JLV8K" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-T45JLV8K" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-T45JLV8K" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-T45JLV8K"></div>
 </article>
 <div id="csl-bib-meta-T45JLV8K" class="csl-bib-meta">
-  <article id="abstract-article-T45JLV8K" class="abstract-article">
-    <h1>Samandrag</h1>
-    Elevgrunnlaget i skolen er mer sammensatt enn tidligere. Det utfordrer utdanningsfeltet til å øke bevisstheten om mangfold, aktivt motvirke fordommer og stereotypier, og til å utforske alternative læringsarenaer. I boken rettes oppmerksomheten mot PEL-faget i et flerkulturelt samfunn. Gjennom sytten kapitler søker erfarne forskere og lærerutdannere fra en rekke universiteter og høgskoler i Norge å belyse det flerkulturelle klasserommet fra ulike innfallsvinkler. Noen av kapitlene søker å fange inn barnets mangfoldige verden og mangfold i undervisning og skolehverdag. I andre kapitler rettes oppmerksomheten mot mangfold sett i lys av politikk og verdigrunnlag. Viktige spørsmål som belyses i boken er: Hva innebærer lærerkompetanse i et flerkulturelt og flerreligiøst samfunn? Hvilke kunnskaper, holdninger og praksiser er sentrale i møte med en kulturelt - og religiøst mangfoldig elevgruppe? Hvordan legge til rette for en undervisning som tar hensyn til elevenes mangfoldige erfaringer og forutsetninger? Hvordan aktualiseres verdier og verdigrunnlaget i en mangfoldig skole? Boken henvender seg til studenter i lærerutdanning, lærerutdannere, forskere og andre som er opptatt av mangfold og skole.
-  </article>
   <article id="contributors-article-T45JLV8K" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

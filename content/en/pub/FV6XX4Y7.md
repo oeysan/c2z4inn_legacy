@@ -1,5 +1,5 @@
 ---
-title: "Sammenhengen mellom sosial fungering og sosial angst hos barn, ungdom og voksne med autisme"
+title: "FV6XX4Y7"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FV6XX4Y7" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1773521" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/FV6XX4Y7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FV6XX4Y7" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-FV6XX4Y7"></div>

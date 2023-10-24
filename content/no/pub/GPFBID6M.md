@@ -1,5 +1,5 @@
 ---
-title: "Becoming through an encounter with an artistic Congo Village event in Norway"
+title: "GPFBID6M"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GPFBID6M" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1629677" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GPFBID6M" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GPFBID6M" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GPFBID6M" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-GPFBID6M" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/1077800418806617" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-GPFBID6M"></div>
 </article>
 <div id="csl-bib-meta-GPFBID6M" class="csl-bib-meta">
-  <article id="abstract-article-GPFBID6M" class="abstract-article">
-    <h1>Samandrag</h1>
-    Through Mohamed Ali Fadlabi and Lars Cuzner’s processual art project European Attraction Limited, I learned that there was a human zoo at a jubilee exhibition in the capital city of Norway around 100 years ago. This human zoo was set up as a “Congolese village” including 20 “primitive” huts built of reeds covered with palm leaves. Within the “village,” 80 presumably Congolese children, women, and men were performing “authentic African life” as a partly entertaining display to spectators. In the article, I explore what emerges when encountering this project, not as an art critique but as an educational researcher in Norway interested in race and racialization and how to create different ways of creating more livable worlds.
-  </article>
   <article id="contributors-article-GPFBID6M" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,13 +59,13 @@ Rom 2P244
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

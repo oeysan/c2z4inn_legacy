@@ -1,5 +1,5 @@
 ---
-title: "The “Intensification-Quality Paradox” in ICT Organizations"
+title: "QLFBDMPZ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QLFBDMPZ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1584781" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/QLFBDMPZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4018/978-1-5225-5996-2.ch006" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-QLFBDMPZ"></div>
 </article>

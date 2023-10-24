@@ -1,5 +1,5 @@
 ---
-title: "Blood pressure in dementia, mild cognitive impairment, and subjective cognitive decline related to time of death"
+title: "6YWGY9QM"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,26 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6YWGY9QM" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1910636" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/6YWGY9QM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-6YWGY9QM" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-6YWGY9QM" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-6YWGY9QM" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/brb3.2166" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-6YWGY9QM"></div>
 </article>
 <div id="csl-bib-meta-6YWGY9QM" class="csl-bib-meta">
-  <article id="abstract-article-6YWGY9QM" class="abstract-article">
-    <h1>Abstract</h1>
-    Objective: It is unknown whether systolic blood pressure (SBP) drop is part of the normal aging process or due to the onset of dementia for some people. SBP drop is referring to the decrease in blood pressure often seen before death. Thus, the aim of this study was to examine whether SBP at time of diagnosis of dementia, mild cognitive impairment, or subjective cognitive decline was associated with years prior to death, and whether these associations were modified by diagnoses, age, and sex. 
- 
-Methods: Participants were 2,236 patients from the Norwegian Registry of Persons Assessed for Cognitive Symptoms (NorCog), who died during follow-up (2009-2017) for whom we had valid blood pressure measurements. Mean age at diagnosis was 77.5 years (SD 8.3), and patients were followed for an average of 3.9 years (SD 2.2, maximum 10.5 years). The patients had subjective cognitive decline (95), mild cognitive impairment (573), dementia (1,401), or no diagnoses related to cognitive deficits (167). SBP as dependent variable was regressed against years prior to death. 
- 
-Results: In men, SBP was 1.8 mmHg lower per year closer to death (p &lt; .01), and this trend was linear without any acceleration. This association between years prior to death and SBP in men was not modified by age, year of diagnosis, or diagnosis. There was no such association in women. 
- 
-Conclusion: SBP was significantly lower for those diagnosed close to death in men, but not in women. This association was not modified by either age or onset of diagnosis. Thus, the lowering of SBP is more related to closeness to death and sex than to dementia or age. The downward trend was linear all 10 years prior to death, with no acceleration closer to death. 
-© 2021 The Authors. Brain and Behavior published by Wiley Periodicals LLC.
-  </article>
   <article id="contributors-article-6YWGY9QM" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -70,7 +59,7 @@ Room 4L2213
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Introduction to the RSC Advances themed collection Chemistry in Biorefineries"
+title: "XU3TWZW7"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XU3TWZW7" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2180530" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XU3TWZW7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-XU3TWZW7" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XU3TWZW7" class="csl-bib-button">Contributors</a>
+    <a href="https://pubs.rsc.org/en/content/articlepdf/2023/ra/d3ra90087h" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-XU3TWZW7"></div>
 </article>
 <div id="csl-bib-meta-XU3TWZW7" class="csl-bib-meta">
-  <article id="abstract-article-XU3TWZW7" class="abstract-article">
-    <h1>Abstract</h1>
-    Professor Carlos Martín, Professor Alejandro Rodríguez and Professor Fabio Montagnaro introduce the RSC Advances themed collection Chemistry in Biorefineries.
-  </article>
   <article id="contributors-article-XU3TWZW7" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

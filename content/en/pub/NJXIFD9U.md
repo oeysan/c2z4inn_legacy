@@ -1,5 +1,5 @@
 ---
-title: "Innovativ arenaproduksjon"
+title: "NJXIFD9U"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NJXIFD9U" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1458454" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NJXIFD9U" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NJXIFD9U" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-NJXIFD9U"></div>

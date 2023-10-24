@@ -1,5 +1,5 @@
 ---
-title: "«Studentene liker meg mindre på digitale forelesninger» – undervisernes opplevelse med undervisning i digitale læringsmiljø for store studentkull under covid-19-pandemien"
+title: "YLHYVX9I"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YLHYVX9I" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2081024" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YLHYVX9I" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-YLHYVX9I" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-YLHYVX9I" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.18261/uniped.45.4.2" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-YLHYVX9I"></div>
 </article>
 <div id="csl-bib-meta-YLHYVX9I" class="csl-bib-meta">
-  <article id="abstract-article-YLHYVX9I" class="abstract-article">
-    <h1>Samandrag</h1>
-    Koronapandemien aktualiserte undervisning i digitale læringsmiljø og førte til en bratt læringskurve for undervisere i høyere utdanning. Studiens formål var å få kunnskap om hvordan undervisere opplevde undervisning i digitale læringsmiljø for store studentkull under pandemien. Det er utført to gruppeintervju med erfarne undervisere. Hovedfunnene er at underviserne opplever «svarte skjermer» og mangel på respons hos studentene i digitale læringsmiljø. Dette påvirker dem negativt. De blir slitne og demotiverte og tappes for energi. De opplever at arbeidet mister kvalitet, og at de blir kjedeligere og mindre frie. På den positive siden er det høyt oppmøte, og det tekniske er lett. Gruppearbeid digitalt oppleves også enklere å få til enn i fysiske læringsmiljø, men utfordringen er at mange studenter forlater gruppearbeidet. Datamaterialet avdekker motsetninger mellom undervisernes negative opplevelser og deres positive holdninger til å videreføre det. Undervisning i digitale læringsmiljø ser ut til å kunne føre til en behagelig avstand og dermed en risiko for resignasjon for både studenter og undervisere. Det kan dermed være mer krevende enn undervisning i fysiske miljø. Undersøkelsen ble gjort da dette var ganske nytt. Forventninger om hvordan undervisning skal være, er dermed preget av tradisjonell undervisning i fysiske læringsmiljø. Erfaringene kan se annerledes ut på sikt.
-  </article>
   <article id="contributors-article-YLHYVX9I" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

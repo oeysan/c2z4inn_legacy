@@ -1,5 +1,5 @@
 ---
-title: "Cultural pursuits and farm entrepreneurship in Norway: embracing the aesthetics of peasant romanticism’"
+title: "YAPRLVAE"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YAPRLVAE" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2019961" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YAPRLVAE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-YAPRLVAE" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-981-19-2771-3_4" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-YAPRLVAE"></div>
 </article>

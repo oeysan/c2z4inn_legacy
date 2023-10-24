@@ -1,5 +1,5 @@
 ---
-title: "Moving Toward the Greener Side: Environmental Aspects Guiding Pastoral Mobility and Impacting Vegetation in the Dzungarian Gobi, Mongolia"
+title: "6JTMVLXB"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6JTMVLXB" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2042565" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/6JTMVLXB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-6JTMVLXB" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-6JTMVLXB" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.1016/j.rama.2022.03.006" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-6JTMVLXB"></div>
 </article>
 <div id="csl-bib-meta-6JTMVLXB" class="csl-bib-meta">
-  <article id="abstract-article-6JTMVLXB" class="abstract-article">
-    <h1>Samandrag</h1>
-    Livestock grazing often intensifies around herder camps, which can lead to degradation, particularly in arid areas, where vegetation is scarce. In Mongolia, nomadic herders have covered long distances between camps and changed camps regularly for centuries. However, changing socioeconomics, rising livestock numbers, and climatic change have led to growing concerns over rangeland health. To understand travel mobility and livestock grazing patterns, we combined Global Positioning System tracking data of goats, remotely sensing pasture productivity, and ground-based vegetation characteristics in the Great Gobi B Strictly Protected Area, Mongolia. We assessed herder preferences for camp selection, followed 19 livestock herds over 20 months, determined use and nutrient contents of the most dominant plant communities, and estimated plant species richness, vegetation cover, and biomass within different grazing radii around camps. Biomass availability was key for herder decisions to move camps, but in winter, other factors like shelter from wind were more important. Camps were mainly located in Stipa spp. communities, agreeing with herder preferences for this highly nutritious species, and its dominance around camps. Herders changed their camp locations on average 9 times yearly, with a maximum distance of 70–123 km between summer and winter camps, and an average visitation period of 25–49 d per camp, depending on season. Small livestock spent &gt; 13−17 h daily within a radius of 100 m from camp, and livestock use intensity decreased steeply with distance from camp but was remarkably similar around spring, autumn, and winter camps on the Gobi plains. However, we found little evidence for a corresponding gradient in plant species richness, biomass, and cover on the Gobi plains. The high mobility of local herders and the overriding impact of precipitation on pasture dynamics contribute to a sustainable vegetation offtake by livestock in the nonequilibrium rangelands of the Dzungarian Gobi.
-  </article>
   <article id="contributors-article-6JTMVLXB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

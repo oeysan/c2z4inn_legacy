@@ -1,5 +1,5 @@
 ---
-title: "Parental Reflective Functioning and Executive Functioning in Mothers with Substance Use Disorder"
+title: "SZH46AZ2"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,39 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SZH46AZ2" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1510109" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SZH46AZ2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-SZH46AZ2" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SZH46AZ2" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-SZH46AZ2" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.duo.uio.no/bitstream/10852/60963/1/Accepted%2bRF%2band%2bEF%2bin%2bSUD%2bmothers.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-SZH46AZ2"></div>
 </article>
 <div id="csl-bib-meta-SZH46AZ2" class="csl-bib-meta">
-  <article id="abstract-article-SZH46AZ2" class="abstract-article">
-    <h1>Samandrag</h1>
-    Having a substance use disorder (SUD) may adversely affect caregiving 
-capacities. Reflective functioning (RF) and executive functioning 
-(EF) are both important capacities for sensitive parenting, 
-and are often impaired in a SUD. Only a few studies have explored 
-the possible association between the two phenomena. In this 
-study, we used a neuropsychological test battery to assess EF, 
-and the Parent Development Interview to assess RF in a sample 
-of mothers with a SUD (N = 43). Although parental RF (PRF) was 
-associated with EF, when controlled for intelligence (IQ) and mental 
-health, there was no significant association between EF and 
-PRF. Mental health, however, showed a significant negative association 
-with PRF. Splitting the group in two based on PRF level, 
-mothers with a negative to low PRF exhibited more severe difficulties 
-in SUD-related aspects, as well as in several EF components, 
-compared to mothers with an adequate to high PRF, highlighting 
-the association between EF and PRF. The results from this study 
-contribute to enhance our understanding of the dynamics underlying 
-vulnerability in PRF that mothers with small children may 
-experience. We suggest EF to be a prerequisite for adequate PRF, 
-and for interventions to be customized accordingly regarding 
-parents with a SUD.
-  </article>
   <article id="contributors-article-SZH46AZ2" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -111,7 +87,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Norske jegere forgifter økosystemet"
+title: "5FWEU8XA"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5FWEU8XA" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1682890" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/5FWEU8XA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-5FWEU8XA" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-5FWEU8XA"></div>

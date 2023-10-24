@@ -1,5 +1,5 @@
 ---
-title: "The relative importance of ski resort- and weather-related characteristics when going alpine skiing: Data from a rating-based conjoint survey"
+title: "EJ2NT5W3"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EJ2NT5W3" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1966259" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/EJ2NT5W3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-EJ2NT5W3" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EJ2NT5W3" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1016/j.dib.2021.107252" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-EJ2NT5W3"></div>
 </article>
 <div id="csl-bib-meta-EJ2NT5W3" class="csl-bib-meta">
-  <article id="abstract-article-EJ2NT5W3" class="abstract-article">
-    <h1>Abstract</h1>
-    The relative importance of ski resort-and weather-related characteristics when going alpine skiing: Data from a rating-based conjoint survey
-  </article>
   <article id="contributors-article-EJ2NT5W3" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

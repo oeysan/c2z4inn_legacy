@@ -1,5 +1,5 @@
 ---
-title: "The Social Provisions Scale: psychometric properties of the SPS-10 among participants in nature-based services"
+title: "MNA6MBWV"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,31 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MNA6MBWV" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1562214" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/MNA6MBWV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-MNA6MBWV" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-MNA6MBWV" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/09638288.2018.1434689" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-MNA6MBWV"></div>
 </article>
 <div id="csl-bib-meta-MNA6MBWV" class="csl-bib-meta">
-  <article id="abstract-article-MNA6MBWV" class="abstract-article">
-    <h1>Abstract</h1>
-    Purpose: This article analyses the psychometric properties of the Social Provisions Scale 10-items version. 
- 
-Methods: The Social Provisions Scale was analysed by means of the polytomous Rasch model, applied to data on 93 young adults (16–30 years) out of school or work, participating in different nature-based services, due to mental or drug-related problems. 
- 
-Results: The psychometric analysis concludes that the original scale has difficulties related to targeting and construct validity. In order to improve the psychometric properties, the scale was modified to include eight items measuring functional support. The modification was based on theoretical and statistical considerations. 
- 
-Conclusion: After modifications the scale showed not only satisfying psychometric properties, but it also clarified uncertainties regarding construct validity of the measure. However, further analysis on larger samples are required. 
- 
-Implications for Rehabilitation 
-Social support is important for a variety of rehabilitation outcomes and for different patient groups in the rehabilitation context, including people with mental health or drug-related problems. 
- 
-Social Provisions Scale may be used as a screening tool to assess social support of participants in rehabilitation, and the scale may also be an important instrument in rehabilitation research. 
- 
-There might be issues measuring structural support using a 10-items version of the Social Provisions Scale but it seemed to work well as an 8-item scale measuring functional support.
-  </article>
   <article id="contributors-article-MNA6MBWV" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

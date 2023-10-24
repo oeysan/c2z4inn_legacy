@@ -1,5 +1,5 @@
 ---
-title: "The mimesis of change: conversion and peripety in life stories"
+title: "P9QTZKWU"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-P9QTZKWU" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1929244" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/P9QTZKWU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-P9QTZKWU" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-P9QTZKWU"></div>

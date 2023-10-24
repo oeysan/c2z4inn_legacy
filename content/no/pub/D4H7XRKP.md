@@ -1,5 +1,5 @@
 ---
-title: "Slow TV: an analysis of minute-by-minute television in Norway"
+title: "D4H7XRKP"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-D4H7XRKP" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1932830" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/D4H7XRKP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-D4H7XRKP" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-D4H7XRKP"></div>

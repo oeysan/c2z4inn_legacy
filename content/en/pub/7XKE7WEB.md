@@ -1,5 +1,5 @@
 ---
-title: "Assessment of sectoral greenhouse gas emission effects of biomass, fossil fuel, and (non)metallic ore utilization of the Nordic economy"
+title: "7XKE7WEB"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7XKE7WEB" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2174223" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7XKE7WEB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-7XKE7WEB" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7XKE7WEB" class="csl-bib-button">Contributors</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s13563-023-00390-2.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7XKE7WEB"></div>
 </article>
 <div id="csl-bib-meta-7XKE7WEB" class="csl-bib-meta">
-  <article id="abstract-article-7XKE7WEB" class="abstract-article">
-    <h1>Abstract</h1>
-    In a rare empirical approach, and considering the uniqueness of the Nordic economy, this study examines the differential effect of domestic material utilization, i.e., biomass, fossil fuel, metallic ores, and non-metallic ores on the sectoral greenhouse gas (GHG) emission, i.e., industrial, agricultural, land use, land use change and forestry (LULCF), waste management, and energy GHG emissions in the period 1990–2020. By applying competent econometric tools that accounts for potential estimation bias, the result revealed that metallic ore consumption among the Nordic countries is detrimental to the region’s environmental sustainability, more so to the region’s greening circular economy drive. This is because metallic ore utilization spurs industrial, agricultural, LULCF, waste management, and energy GHG emissions. Similarly, biomass material consumption spurs GHG emissions arising from the LULCF, waste management, and energy sector activities while fossil fuel materials spur LULCF and energy GHG emissions. However, non-metallic ores consumption provides a desirable outcome as it mitigates GHG emission with respective elasticities of ~0.06, ~0.01, and ~0.05, in the industrial, agricultural, and waste management sector activities while biomass also plays a statistically significant role of reducing agricultural GHG emission by ~0.02% when there is a percent increase in the consumption of biomass. Important policy measures are put forward following the interesting revelation from the investigation.
-  </article>
   <article id="contributors-article-7XKE7WEB" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

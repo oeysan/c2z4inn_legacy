@@ -1,5 +1,5 @@
 ---
-title: "My self-reflection on the importance of Michael Power’s book The Audit Society to my research and interest in auditing"
+title: "2PWDRLGU"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,17 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2PWDRLGU" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2016771" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/2PWDRLGU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-2PWDRLGU" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/QRAM-11-2021-0198" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-2PWDRLGU"></div>
 </article>
 <div id="csl-bib-meta-2PWDRLGU" class="csl-bib-meta">
-  <article id="abstract-article-2PWDRLGU" class="abstract-article">
-    <h1>Abstract</h1>
-    PurposeThe purpose of this paper is to explore the implications that Power’s book had to the author’s research in public sector auditing. Design/methodology/approach In this paper, the author reflects and debates the inspiration that Michael Power’s book The Audit Society had on the author’s own research. FindingsThe author finds that this book had a significant influence on how he succeeded theorizing his studies on auditing, and how he could contribute to the audit literature. It is stunning how the book succeeded in synthesizing audit research, encouraging scholars to understand auditing as a social practice, i.e. how auditing can be theorized using various social science theories and how the book also appealed to broader social science. Research limitations/implicationsThis paper is a reflection that covers around a 20-year period with potential mis-representations of how exactly sequences of actions and thoughts were. Practical implicationsThis paper helps to clarify how it is that audit operates and influences everyday life of persons involved with auditing. Social implicationsThis paper casts doubts as to what actions are carried out in the name of audit and that audit is not just a value free activity but involved with political agendas. Originality/valueThe originality of this paper is that it fleshes out how a seminal book can have significant implications on how research is carried out.
-  </article>
   <article id="taxonomy-article-2PWDRLGU" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>

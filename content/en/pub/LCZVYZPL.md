@@ -1,5 +1,5 @@
 ---
-title: "Norwegian students’ experiences of homeschooling during the COVID-19 pandemic"
+title: "LCZVYZPL"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LCZVYZPL" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1876614" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LCZVYZPL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-LCZVYZPL" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LCZVYZPL" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-LCZVYZPL" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://doi.org/10.1080/08856257.2021.1872843" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LCZVYZPL"></div>
 </article>
 <div id="csl-bib-meta-LCZVYZPL" class="csl-bib-meta">
-  <article id="abstract-article-LCZVYZPL" class="abstract-article">
-    <h1>Abstract</h1>
-    Norwegian teachers and school leaders had to organise and provide homeschooling for their students from March to May 2020 due to the COVID-19 pandemic. A survey conducted in May 2020 examined lower secondary school students’ experiences of distance learning. How students at different levels of academic achievement (based on grades) experienced homeschooling was compared to comparable findings from a survey conducted on students from the same schools during the autumn of 2018. The findings indicate that students experienced less support and feedback from their teachers during homeschooling, and that teachers gave more written than oral feedback to the students during homeschooling than they do in regular school. Furthermore, there was a tendency of lower efforts and self-efficacy among low-achieving students, which might be difficult to reverse when schools reopen. The findings raise growing concerns about homeschooling leading to a larger gap between high- and low-achieving students in lower secondary school.
-  </article>
   <article id="contributors-article-LCZVYZPL" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -171,7 +167,7 @@ Room 2M35-2
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Negative emotions about climate change are related to insomnia symptoms and mental health: Cross-sectional evidence from 25 countries"
+title: "2NV43SIR"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2NV43SIR" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1914155" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/2NV43SIR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-2NV43SIR" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-2NV43SIR" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-2NV43SIR" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s12144-021-01385-4.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-2NV43SIR"></div>
 </article>
 <div id="csl-bib-meta-2NV43SIR" class="csl-bib-meta">
-  <article id="abstract-article-2NV43SIR" class="abstract-article">
-    <h1>Samandrag</h1>
-    Climate change threatens mental health via increasing exposure to the social and economic disruptions created by extreme weather and large-scale climatic events, as well as through the anxiety associated with recognising the existential threat posed by the climate crisis. Considering the growing levels of climate change awareness across the world, negative emotions like anxiety and worry about climate-related risks are a potentially pervasive conduit for the adverse impacts of climate change on mental health. In this study, we examined how negative climate-related emotions relate to sleep and mental health among a diverse non-representative sample of individuals recruited from 25 countries, as well as a Norwegian nationally-representative sample. Overall, we found that negative climate-related emotions are positively associated with insomnia symptoms and negatively related to self-rated mental health in most countries. Our findings suggest that climate-related psychological stressors are significantly linked with mental health in many countries and draw attention to the need for cross-disciplinary research aimed at achieving rigorous empirical assessments of the unique challenge posed to mental health by negative emotional responses to climate change.
-  </article>
   <article id="contributors-article-2NV43SIR" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg13" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg13_no.png" class="image" alt="SDG 13">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>43</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=13#archive" class="sdg-publication-count"><span>45</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/stoppe-klimaendringene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Future-thinking through technological nature: connecting and disconnecting"
+title: "PJX9E4GN"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PJX9E4GN" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1740991" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PJX9E4GN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-PJX9E4GN" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PJX9E4GN" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-PJX9E4GN" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4324/9781315180144-15" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-PJX9E4GN"></div>
 </article>
 <div id="csl-bib-meta-PJX9E4GN" class="csl-bib-meta">
-  <article id="abstract-article-PJX9E4GN" class="abstract-article">
-    <h1>Samandrag</h1>
-    With a focus on so-called immersive virtual environments, this chapter explores ways in which technological nature can not only act as a tool to supplement nature experiences for people for whom access to real nature is limited, but furthermore we propose it as a strategy to reconnect people to the natural world. We contextualize this technology and summarize evidence on the extent to which it can measure-up to real nature. We then propose some insights relative to its potential applications.
-  </article>
   <article id="contributors-article-PJX9E4GN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -95,7 +91,7 @@ Rom 4R4145
     <div class="sdg-container"><div id="sdg12" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg12_no.png" class="image" alt="SDG 12">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>11</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=12#archive" class="sdg-publication-count"><span>12</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/ansvarlig-forbruk-og-produksjon?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

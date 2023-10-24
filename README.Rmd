@@ -29,8 +29,6 @@ publications at Inland Norway University of Applied Sciences
 (registered in Cristin since the institution was established on January 1, 2017).
 
 ```{r update, include=FALSE}
-setwd(dirname(rstudioapi::getSourceEditorContext()$path))
-source("backend.R")
 updated <- format(Sys.time(), "%m-%d-%Y (at %H:%M)")
 n <- length(MdFiles("content/en/pub/"))
 ```

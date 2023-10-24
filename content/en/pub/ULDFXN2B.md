@@ -1,5 +1,5 @@
 ---
-title: "Mellomlederen som «boundary spanner»i en distribuert organisasjon – kunnskapsstrømmens nødvendige mellomledd"
+title: "ULDFXN2B"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ULDFXN2B" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1880439" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ULDFXN2B" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ULDFXN2B" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ULDFXN2B" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/issn.1504-3134-2020-01-02" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-ULDFXN2B"></div>
 </article>
 <div id="csl-bib-meta-ULDFXN2B" class="csl-bib-meta">
-  <article id="abstract-article-ULDFXN2B" class="abstract-article">
-    <h1>Abstract</h1>
-    Formålet med studien er å avdekke hvordan en distribuert organisasjon klarer å innovere, med fokus på mellomlederen som «boundary spanner». Fokuset rettes mot hvordan mellomlederen evner å innhente, bearbeide og spre kunnskap for å imøtekomme de utfordringene organisasjonen står overfor. Dette gjøres gjennom en casestudie med intervju, dokumentanalyse og arkivdata som innsamlingsmetoder. Casebedriften er et norsk verdensledende avlsselskap for nordatlantisk oppdrettslaks og regnbueørret. Dette gir en unik mulighet til å studere mellomlederrollen over tid. Studien viser hvordan mellomlederen kobler organisasjonen med eksterne nettverk og transformerer og transporterer kunnskap internt og eksternt. I dette arbeidet er kompetanse og personlige egenskaper avgjørende.
-  </article>
   <article id="contributors-article-ULDFXN2B" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Skeiv lokalhistorie: kulturhistoriske perspektiver på sammekjønnsrelasjoner og kjønnsoverskridelser"
+title: "GRMN3WVC"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GRMN3WVC" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2051590" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GRMN3WVC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GRMN3WVC" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GRMN3WVC" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-GRMN3WVC"></div>
 </article>
 <div id="csl-bib-meta-GRMN3WVC" class="csl-bib-meta">
-  <article id="abstract-article-GRMN3WVC" class="abstract-article">
-    <h1>Abstract</h1>
-    Skeiv historie har fram til nylig vært fordekt og lite kjent. I antologien Skeiv lokalhistorie tar norske og nordiske forskere for seg det skeive og det lokale på tvers av skillet mellom by og land og bidrar til ny kunnskap om den skeive kulturhistorien. Denne boka samler for første gang tekster som tematiserer skeiv nordisk historie i et lokalhistorisk perspektiv, og er også den første forskingsbaserte antologien om temaet her i landet. Med utgangspunkt i det nære, personlige og lokale, gir forskere fra Norge, Sverige, Finland og Island oss innsikt i hvordan det har vært å leve skeive liv i norske eller nordiske lokalsamfunn.
-  </article>
   <article id="contributors-article-GRMN3WVC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

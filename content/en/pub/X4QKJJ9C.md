@@ -1,5 +1,5 @@
 ---
-title: "Gender Gap in Parental Leave Intentions: Evidence from 37 Countries"
+title: "X4QKJJ9C"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,23 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-X4QKJJ9C" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2122095" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/X4QKJJ9C" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-X4QKJJ9C" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-X4QKJJ9C" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-X4QKJJ9C" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/pops.12880" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-X4QKJJ9C"></div>
 </article>
 <div id="csl-bib-meta-X4QKJJ9C" class="csl-bib-meta">
-  <article id="abstract-article-X4QKJJ9C" class="abstract-article">
-    <h1>Abstract</h1>
-    Despite global commitments and efforts, a gender-based division of paid and unpaid work persists. To identify how psychological factors, national policies, and the broader sociocultural context contribute to this inequality, we assessed parental-leave intentions in young adults (18–30 years old) planning to have children (N = 13,942; 8,880 identified as women; 5,062 identified as men) across 37 countries that varied in parental-leave policies and societal gender equality. In all countries, women intended to take longer leave than men. National parental-leave 
-policies and women’s political representation partially explained cross-national 
-variations in the gender gap. Gender gaps in leave intentions were paradoxically 
-larger in countries with more gender-egalitarian parental-leave policies (i.e., longer leave available to both fathers and mothers). Interestingly, this cross-national 
-variation in the gender gap was driven by cross-national variations in women’s (rather than men’s) leave intentions. Financially generous leave and gender-egalitarian policies (linked to men’s higher uptake in prior research) were not associated with leave intentions in men. Rather, men’s leave intentions were related to their individual gender attitudes. Leave intentions were inversely related to career ambitions. The potential for existing policies to foster gender equality in paid and unpaid work is discussed.
-  </article>
   <article id="contributors-article-X4QKJJ9C" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -70,13 +62,13 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Predictors of Quality of Life and Functional Impairments in Emerging Adults With and Without ADHD: A 10-Year Longitudinal Study"
+title: "F9EDF62E"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-F9EDF62E" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2117788" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/F9EDF62E" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-F9EDF62E" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-F9EDF62E" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/10870547231153962" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-F9EDF62E"></div>
 </article>
 <div id="csl-bib-meta-F9EDF62E" class="csl-bib-meta">
-  <article id="abstract-article-F9EDF62E" class="abstract-article">
-    <h1>Abstract</h1>
-    Objective:We tested the hypotheses that (1) a diagnosis of ADHD in childhood or adolescence is associated with reduced quality of life (QoL) and everyday functioning in emerging adulthood, and (2) executive function (EF) deficits, internalizing difficulties, and ADHD symptoms predict reduced QoL and more functional impairments. Method: We assessed 85 children and adolescents with ADHD and 50 typically developing (TD) peers at baseline ( M age = 11.6 years, 58% males), 2-year follow-up, and 10-year follow-up with neuropsychological tests of EF and self-reports. Results:Individuals with ADHD reported lower QoL and functional impairments in emerging adulthood compared to TD peers. More internalizing difficulties and ADHD symptoms at baseline and 2-year follow-up significantly predicted lower QoL and more functional impairments at the 10-year follow-up. ConclusionADHD and internalizing difficulties in childhood or adolescence have a negative impact on QoL and everyday functioning in emerging adulthood.
-  </article>
   <article id="contributors-article-F9EDF62E" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

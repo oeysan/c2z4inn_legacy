@@ -1,5 +1,5 @@
 ---
-title: "Et abortpolitisk manifest? Resepsjonen av Torborg Nedreaas' Av måneskinn gror det ingenting fra 1940-tallet til i dag"
+title: "HKMAXZUQ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HKMAXZUQ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2146931" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HKMAXZUQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
   </div>
   <div id="csl-bib-meta-container-HKMAXZUQ"></div>
 </article>

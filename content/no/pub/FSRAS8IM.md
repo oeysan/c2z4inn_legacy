@@ -1,5 +1,5 @@
 ---
-title: "Vitenskapsfilosofi og kritisk realisme: et ikke-antroposentrisk alternativ"
+title: "FSRAS8IM"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FSRAS8IM" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1892232" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/FSRAS8IM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-FSRAS8IM" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FSRAS8IM" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-FSRAS8IM"></div>
 </article>
 <div id="csl-bib-meta-FSRAS8IM" class="csl-bib-meta">
-  <article id="abstract-article-FSRAS8IM" class="abstract-article">
-    <h1>Samandrag</h1>
-    I denne boken tar forfatteren opp de vitenskapsfilosofiske tradisjonene slik de er fremstilt i Vestens filosofi. Den omhandler alle de viktigste tradisjonene fra kunnskapsteoretiske posisjoner, metodologiske spørsmål, naturvitenskapene, samfunnsvitenskapene og humaniora, pluss livsvitenskapene biologien og økologien og de virkelighetsoppfatninger som knyttes til disse. I første del vises det til hvordan debatten innen de ulike posisjonene ledet til det som i ettertid ble kalt vitenskapskrigen, og som har resultert i en omfattende mistillit til vitenskapen. Forfatteren mener å vise at denne «krigen» baserer seg på en feiltolkning av vitenskapen og den virkeligheten den undersøker. I andre del gis det en innføring i kritisk realisme. Kritisk realisme argumenterer for en ny forståelse av den verden som vitenskapen undersøker. Den utvikler et begrep om et komplekst, lagdelt og dynamisk virkelighetsbilde og som er blitt lite påaktet i tradisjonen. Dette virkelighetsbildet leder til en klargjøring av hva vitenskap er og hva den kan gjøre. Det vises til ved hjelp av gode eksempler (bl.a. klimavitenskap) hvordan kritisk realisme mener å gjenopprette tilliten til vitenskapen. Kritisk realisme får vidtgående følger for hva vitenskap og kunnskap er og for hva vitenskapen kan bidra med til menneskelig utvikling og trivsel og en mer naturvennlig tenke- og handlemåte. Boken henvender seg til alle som er interessert i filosofi og vitenskapsfilosofi, og spesielt til lærere og studenter ved universiteter og høyskoler. Boken vil fungere godt som pensumbok til filosofiemner og til vitenskapsteori, etikk og metodekurs.
-  </article>
   <article id="contributors-article-FSRAS8IM" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

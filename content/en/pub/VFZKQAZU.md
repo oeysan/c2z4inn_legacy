@@ -1,5 +1,5 @@
 ---
-title: "New practices of comparison, quantification and expertise in education: conducting empirically based research"
+title: "VFZKQAZU"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VFZKQAZU" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1703812" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VFZKQAZU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-VFZKQAZU" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VFZKQAZU" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-VFZKQAZU" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-VFZKQAZU"></div>
 </article>
 <div id="csl-bib-meta-VFZKQAZU" class="csl-bib-meta">
-  <article id="abstract-article-VFZKQAZU" class="abstract-article">
-    <h1>Abstract</h1>
-    "Numbers and Knowledge in Education discusses contemporary trends and activities related to comparisons and quantifications. It aims to help scholars to conduct empirically based research on how comparisons and quantifications are instituted in practice at different levels in the educational system. Numbers and Knowledge in Education will be of great interest to academics, researchers and post-graduate students in the fields of comparative education, curriculum research and policy studies. It will also appeal to those in the fields of teacher education, including student teachers"-
-  </article>
   <article id="contributors-article-VFZKQAZU" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -67,7 +62,7 @@ Room 2P239
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

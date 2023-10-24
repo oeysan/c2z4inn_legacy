@@ -1,5 +1,5 @@
 ---
-title: "The Earth is Sick: Environmentalism and the Politics of Age and Gender in Children’s Musical Culture"
+title: "36MKFUE2"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-36MKFUE2" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1859031" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/36MKFUE2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-36MKFUE2" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-36MKFUE2" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-36MKFUE2" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://iaspmjournal.net/index.php/IASPM_Journal/article/download/1011/pdf_1" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-36MKFUE2"></div>
 </article>
 <div id="csl-bib-meta-36MKFUE2" class="csl-bib-meta">
-  <article id="abstract-article-36MKFUE2" class="abstract-article">
-    <h1>Samandrag</h1>
-    Anthropogenic climate change is among the most widely debated topics of our time, and recent years have seen the growing impact of children’s involvement in environmental issues. While Greta Thunberg and the School Strike for Climate movement are key examples in this regard, there is another tendency deserving of attention that involves the increased visibility of environmentalism in children’s music and culture. This article investigates the song and music video Kloden er syk [The Earth is Sick] by Anna &amp; Emma, which won the 2019 edition of the Norwegian music competition Melodi Grand Prix Junior. I explore how the audiovisual aesthetics of Kloden er syk encourage solidarity for environmentalist causes, and also discuss disparaging responses to the song and video in order to explicate how age and gender are politicized for the purpose of discrediting young activists and musicians. Ultimately, the article aims to shed light on the distinctly musical (and sociopolitical) ways in which children and young people are implicated in environmental debates.
-  </article>
   <article id="contributors-article-36MKFUE2" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,19 +59,19 @@ Rom 2K223
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg13" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg13_no.png" class="image" alt="SDG 13">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>43</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=13#archive" class="sdg-publication-count"><span>45</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/stoppe-klimaendringene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

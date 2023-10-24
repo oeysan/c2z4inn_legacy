@@ -1,5 +1,5 @@
 ---
-title: "Perceived Influence on Service Goals Among Community-Working Occupational Therapists in Norway"
+title: "PTGTGWQG"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PTGTGWQG" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1622445" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PTGTGWQG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-PTGTGWQG" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PTGTGWQG" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-PTGTGWQG" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://journals.sagepub.com/doi/pdf/10.1177/2150132718813491" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PTGTGWQG"></div>
 </article>
 <div id="csl-bib-meta-PTGTGWQG" class="csl-bib-meta">
-  <article id="abstract-article-PTGTGWQG" class="abstract-article">
-    <h1>Samandrag</h1>
-    Aim: This study aimed to assess the perceived influence that community-working occupational therapists in Norway have on the service goals of their respective organizations. In addition, we aimed to assess sociodemographic and work-related factors associated with the perceived level of influence. Methods: A cross-sectional survey was distributed to occupational therapists in community-based services in Norway (n = 1767), to which 561 (32%) responded. By multivariate regression analysis, factors associated with “self-perceived influence” were assessed. Results: After controlling for all variables, having a master’s degree ( β = 0.09, P &lt; .05), being involved in a research and development project ( β = 0.25, P &lt; .001), and not working with assistive technology ( β = −0.19, P &lt; .001) were associated with higher perceived influence. Conclusions: For occupational therapy to reach its potential in Norwegian community-based health care, the profession needs to establish itself more firmly and increase its influence within the health care services. To do so, it appears important to support occupational therapists’ educational aspirations, their participation in research and development projects, and their autonomous role in relation to the provision of assistive technology equipment.
-  </article>
   <article id="contributors-article-PTGTGWQG" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -95,7 +91,7 @@ Rom 4L2205
     <div class="sdg-container"><div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

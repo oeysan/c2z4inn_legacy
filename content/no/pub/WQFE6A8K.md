@@ -1,5 +1,5 @@
 ---
-title: "Betydningen av målbevissthet og sosial tilhørighet for frafall i høyere utdanning"
+title: "WQFE6A8K"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WQFE6A8K" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1740447" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WQFE6A8K" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WQFE6A8K" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.idunn.no/file/pdf/67129316/betydningen_av_maalbevissthet_og_sosial_tilhoerighet_for_fraf.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WQFE6A8K"></div>
 </article>

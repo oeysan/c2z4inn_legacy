@@ -1,5 +1,5 @@
 ---
-title: "The path to job satisfiction. Applying the theory of purposeful behavior to military conditions"
+title: "8JZVGTJ2"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8JZVGTJ2" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1484010" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/8JZVGTJ2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-8JZVGTJ2" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-8JZVGTJ2" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-8JZVGTJ2" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-8JZVGTJ2"></div>
 </article>
 <div id="csl-bib-meta-8JZVGTJ2" class="csl-bib-meta">
-  <article id="abstract-article-8JZVGTJ2" class="abstract-article">
-    <h1>Samandrag</h1>
-    The aim of this study was to examine the relationships between, on one hand, personality and performance orientation and, on the other, job satisfaction and turnover intentions, using Barrick’s et al. theory of purposeful behavior. Using a questionnaire, data about job satisfaction, performance orientation and turnover intentions were collected from 300 newly recruited Swedish soldiers. A path analysis gave partial, but not full support to the assumptions behind the theory of purposeful behavior model. No relationships were found between the personality traits of emotional stability and conscientiousness, nor to either performance orientation or directly to job satisfaction. On the other hand, performance orientation showed a consistent relationship to perceived levels of the job characteristics, which mediated the path between the person-related variables and the outcome variables. Performance orientation also showed a strong direct relationship to general job satisfaction, which, in turn, was strongly related to turnover intentions.
-  </article>
   <article id="contributors-article-8JZVGTJ2" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -91,7 +86,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>54</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

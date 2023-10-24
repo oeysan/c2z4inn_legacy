@@ -1,5 +1,5 @@
 ---
-title: "Pop masculinities: the politics of gender in twenty-first century popular music"
+title: "CWMGKFDK"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CWMGKFDK" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1961124" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/CWMGKFDK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-CWMGKFDK" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CWMGKFDK" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-CWMGKFDK" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-CWMGKFDK"></div>
 </article>
 <div id="csl-bib-meta-CWMGKFDK" class="csl-bib-meta">
-  <article id="abstract-article-CWMGKFDK" class="abstract-article">
-    <h1>Samandrag</h1>
-    In Pop Masculinities, author Kai Arne Hansen investigates the performance and policing of masculinity in pop music as a starting point for grasping the broad complexity of gender and its politics in the early twenty-first century. Drawing together perspectives from critical musicology, gender studies, and adjacent scholarly fields, the book presents extended case studies of five well-known artists: Zayn, Lil Nas X, Justin Bieber, The Weeknd, and Take That. By directing particular attention to the ambiguities and contradictions that arise from these artists' representations of masculinity, Hansen argues that pop performances tend to operate in ways that simultaneously reinforce and challenge gender norms and social inequalities. Providing a rich exploration of these murky waters, Hansen merges the interpretation of recorded song and music video with discourse analysis and media ethnography in order to engage with the full range of pop artists' public identities as they emerge at the intersections between processes of performance, promotion, and reception. In so doing, he advances our understanding of the aesthetic and discursive underpinnings of gender politics in twenty-first century pop culture and encourages readers to contemplate the sociopolitical implications of their own musical engagements as audiences, critics, musicians, and scholars.
-  </article>
   <article id="contributors-article-CWMGKFDK" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,13 +58,13 @@ Rom 2K223
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Variations among Students’ Experiences of Learning to Counsel"
+title: "UHH6ZGBT"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UHH6ZGBT" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1760235" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UHH6ZGBT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-UHH6ZGBT" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UHH6ZGBT" class="csl-bib-button">Medverkande</a>
+    <a href="https://boap.uib.no/index.php/nordvei/article/download/1497/2894" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-UHH6ZGBT"></div>
 </article>
 <div id="csl-bib-meta-UHH6ZGBT" class="csl-bib-meta">
-  <article id="abstract-article-UHH6ZGBT" class="abstract-article">
-    <h1>Samandrag</h1>
-    We explored students’ experiences of learning in a part-time, two-year counseling course (60 European Credit Transfer and Accumulation System [ECTS] credits). We wanted to know if there were any systematic variations among individual experiences — if so, what kinds of patterns characterized the variations and how to understand the patterns. We applied the Q method, in which 22 out of 23 participants shared their experiences. Our key findings emerged in three factors. We interpreted and named them F1: building effective counseling relationships is fundamental, F2: the entirety of the course, and F3: self-development. We discuss the factors from theory of counselors’ professional development. The knowledge may support students and teachers in their awareness of what is the important aspects of counselor development. From a subject-didactic perspective, the study informs readers on how to implement a curriculum for a part-time counseling course.
-  </article>
   <article id="contributors-article-UHH6ZGBT" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

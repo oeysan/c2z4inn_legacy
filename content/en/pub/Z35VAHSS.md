@@ -1,5 +1,5 @@
 ---
-title: "Taking risks to enable participatory data analysis and dissemination: a research note"
+title: "Z35VAHSS"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Z35VAHSS" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1846315" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Z35VAHSS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-Z35VAHSS" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Z35VAHSS" class="csl-bib-button">Contributors</a>
+    <a href="https://journals.sagepub.com/doi/pdf/10.1177/1468794120965356" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-Z35VAHSS"></div>
 </article>
 <div id="csl-bib-meta-Z35VAHSS" class="csl-bib-meta">
-  <article id="abstract-article-Z35VAHSS" class="abstract-article">
-    <h1>Abstract</h1>
-    The involvement of all participants within all aspects of the research process is a well-established challenge for participatory research. This is particularly evident in relation to data analysis and dissemination. A novel way of understanding and approaching this challenge emerged through a large-scale international, 3-year participatory research project involving over 200 disabled people. This approach enabled people to be involved at all stages of the research in a manner that was collectively recognised to be participatory and also delivered high-quality findings. At the heart of this emergent approach to participatory research is an engagement with risk. This research note explores the types of risks involved in delivering research that seeks to be authentically participatory.
-  </article>
   <article id="contributors-article-Z35VAHSS" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

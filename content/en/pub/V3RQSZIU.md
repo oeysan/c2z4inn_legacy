@@ -1,5 +1,5 @@
 ---
-title: "Did concern about COVID-19 drain from a ‘finite pool of worry’ for climate change? Results from longitudinal panel data"
+title: "V3RQSZIU"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-V3RQSZIU" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2042712" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/V3RQSZIU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-V3RQSZIU" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1016/j.joclim.2022.100144" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-V3RQSZIU"></div>
 </article>

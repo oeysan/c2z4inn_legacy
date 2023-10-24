@@ -1,5 +1,5 @@
 ---
-title: "Framom kroppslege stengsel. Refleksjonar over ei sjukepleieerfaring frå praksiskvardagen"
+title: "SYEJL3NF"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,20 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SYEJL3NF" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1509711" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SYEJL3NF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-SYEJL3NF" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SYEJL3NF" class="csl-bib-button">Medverkande</a>
+    <a href="https://septentrio.uit.no/index.php/helseforsk/article/download/4229/3902" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-SYEJL3NF"></div>
 </article>
 <div id="csl-bib-meta-SYEJL3NF" class="csl-bib-meta">
-  <article id="abstract-article-SYEJL3NF" class="abstract-article">
-    <h1>Samandrag</h1>
-    In this essay we reflect on nurse Jenny`s narrative to draw attention to how different interpretations of patients bodily expressions may have impact for the help patients receives.  
- 
-The purpose of discussion is how nurses may be able to understand their own reactions, and to improve their ability to meet and support the patient even if the patient`s bodily expressions may arouse discomfort and emotional resistance. In her meeting with the patient, the nurse can open up or close the space for communication. How can the nurse’s way of being support the patients many different ways of emotionally expressions? This depends on systems, routines and the nurse`s own vulnerability and understanding of life experiences. And it may be connected to the nurse’s ability to open up for and respect the experiences and meaning in a patient`s lived and present life.
-  </article>
   <article id="contributors-article-SYEJL3NF" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

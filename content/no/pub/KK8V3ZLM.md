@@ -1,5 +1,5 @@
 ---
-title: "The relationship between students’ psychological capital, social-contextual factors and study-related outcomes – an empirical study from higher education in Norway"
+title: "KK8V3ZLM"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,26 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KK8V3ZLM" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2099049" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/KK8V3ZLM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-KK8V3ZLM" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KK8V3ZLM" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/IJQSS-11-2021-0160" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-KK8V3ZLM"></div>
 </article>
 <div id="csl-bib-meta-KK8V3ZLM" class="csl-bib-meta">
-  <article id="abstract-article-KK8V3ZLM" class="abstract-article">
-    <h1>Samandrag</h1>
-    Purpose:This study aims to examine the relationships between students’ psychological capital (PsyCap), social-contextual factors and study-related outcomes. Social-contextual factors are represented by two education-related variables: academic support and peer support. Three study-related outcome variables are included, namely, study engagement, academic performance and student well-being.  
- 
-Design/methodology/approach: Students from different higher education campuses and academic programs in Norway participated.  
- 
-Findings: PsyCap is directly related to the three study-related outcome variables. The relationship between PsyCap and academic performance is mediated by study engagement. The two social-contextual factors (academic support and peer support) are both related to PsyCap. Finally, PsyCap also mediated the relationship between the two social-contextual factors and the three study-related outcome variables.  
- 
-Research limitations/implications: Overall, the findings reveal that PsyCap has a key role in all study-related outcomes. Accordingly, managers of higher education institutions should take students’ PsyCap seriously and seek ways to intervene and manage the different resources embraced in the concept of PsyCap.  
- 
-Originality/value: This study contributes to a relatively new but seemingly growing area of research in educational management, focusing on the role of student PsyCap.
-  </article>
   <article id="contributors-article-KK8V3ZLM" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

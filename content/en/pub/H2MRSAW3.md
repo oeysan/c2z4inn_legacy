@@ -1,5 +1,5 @@
 ---
-title: "Occurrence and Livestock Depredation Patterns by Wolves in Highly Cultivated Landscapes"
+title: "H2MRSAW3"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-H2MRSAW3" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2122404" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/H2MRSAW3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-H2MRSAW3" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-H2MRSAW3" class="csl-bib-button">Contributors</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fevo.2022.783027/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-H2MRSAW3"></div>
 </article>
 <div id="csl-bib-meta-H2MRSAW3" class="csl-bib-meta">
-  <article id="abstract-article-H2MRSAW3" class="abstract-article">
-    <h1>Abstract</h1>
-    Attacks by large predators on livestock are an important driver of conflicts. Consequently, knowledge about where predators occur, where livestock depredation takes place and what factors influence it will aid the mitigation of stakeholder conflicts. Following legal protection, wolves ( Canis lupus ) in Central Europe are recently spreading to areas dominated by agriculture, bringing them in closer contact with livestock. Here, we analyzed habitat selection and livestock depredation rates of 43 wolves identified by genotyping on the Jutland peninsula, consisting of mainland Denmark and the northernmost German federal state Schleswig-Holstein. Occupancy by resident wolves correlated positively with forest and other non-forested semi-natural land cover (habitat for natural ungulate prey), whereas occupancy by non-resident wolves correlated with increasing forest cover and sheep density. The latter effect likely reflected increased sampling probability of highly mobile dispersers killing livestock. We recorded 565 livestock depredation events (85 in Denmark and 480 in Schleswig-Holstein), of which 42% (55 in DK and 185 in SH) could be assigned to 27 individual wolves based on DNA evidence. Livestock (mostly sheep) were killed by wolves in 16% of the study area. Our results indicate that wolves mostly killed livestock as a context-dependent response, i.e., being dispersers in agricultural areas with low availability of wild ungulate prey and high livestock densities, and not because of behavioral preferences for sheep. Moreover, the livestock depredation was lower in areas with livestock protection measures (implemented in areas with established pairs/packs). We conclude that while wolf attacks on livestock in established wolf territories generally can be reduced through improvement of fences, livestock depredation by non-resident wolves in agricultural areas constitutes a bigger challenge. Albeit technically possible, the economic costs of implementing predator-proof fences and other preventive measures in such pastoral areas infrequently visited by wolves will be considerable. Experiences so far further indicate that lethal removal of identified “problem wolves” may be inefficient in practice.
-  </article>
   <article id="contributors-article-H2MRSAW3" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

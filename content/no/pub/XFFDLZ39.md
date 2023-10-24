@@ -1,5 +1,5 @@
 ---
-title: "The reception of Vygotsky in pedagogical literature for Norwegian teacher education"
+title: "XFFDLZ39"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XFFDLZ39" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1876979" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XFFDLZ39" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-XFFDLZ39" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XFFDLZ39" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-XFFDLZ39" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.34862/FO.2020.2.0" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-XFFDLZ39"></div>
 </article>
 <div id="csl-bib-meta-XFFDLZ39" class="csl-bib-meta">
-  <article id="abstract-article-XFFDLZ39" class="abstract-article">
-    <h1>Samandrag</h1>
-    In this article, we study the reception of Vygotskian theory in pedagogical literature for Norwegian teacher education. The article analyzes three widely used textbooks  for  pre-service  teachers  in  the  five-year  integrated  master’s  degree  program, looking at how Vygotsky’s work is articulated and disseminated in the readings. Although  Vygotsky’s  ideas  are  an  important  frame  of  reference  for  the  pedagogical  thinking in the textbooks, the findings indicate that Vygotsky’s theory is presented in a fragmented way and is largely disconnected from the social and scientific context of its formation. The article argues that the tendency to interpret Vygotsky in a cultural and historical vacuum represents a concealed potential for making Vygotsky’s ideas applicable in the current educational debate.
-  </article>
   <article id="contributors-article-XFFDLZ39" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -103,7 +99,7 @@ Rom 2P306
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

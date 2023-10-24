@@ -1,5 +1,5 @@
 ---
-title: "Highly sensitive quantitative phase microscopy and deep learning aided with whole genome sequencing for rapid detection of infection and antimicrobial resistance"
+title: "NDZ9LY65"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NDZ9LY65" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2143012" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NDZ9LY65" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-NDZ9LY65" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NDZ9LY65" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fmicb.2023.1154620/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-NDZ9LY65"></div>
 </article>
 <div id="csl-bib-meta-NDZ9LY65" class="csl-bib-meta">
-  <article id="abstract-article-NDZ9LY65" class="abstract-article">
-    <h1>Samandrag</h1>
-    Current state-of-the-art infection and antimicrobial resistance (AMR) diagnostics are based on culture-based methods with a detection time of 48–96 h. Therefore, it is essential to develop novel methods that can do real-time diagnoses. Here, we demonstrate that the complimentary use of label-free optical assay with whole-genome sequencing (WGS) can enable rapid diagnosis of infection and AMR. Our assay is based on microscopy methods exploiting label-free, highly sensitive quantitative phase microscopy (QPM) followed by deep convolutional neural networks-based classification. The workflow was benchmarked on 21 clinical isolates from four WHO priority pathogens that were antibiotic susceptibility tested, and their AMR profile was determined by WGS. The proposed optical assay was in good agreement with the WGS characterization. Accurate classification based on the gram staining (100% recall for gram-negative and 83.4% for gram-positive), species (98.6%), and resistant/susceptible type (96.4%), as well as at the individual strain level (100% sensitivity in predicting 19 out of the 21 strains, with an overall accuracy of 95.45%). The results from this initial proof-of-concept study demonstrate the potential of the QPM assay as a rapid and first-stage tool for species, strain-level classification, and the presence or absence of AMR, which WGS can follow up for confirmation. Overall, a combined workflow with QPM and WGS complemented with deep learning data analyses could, in the future, be transformative for detecting and identifying pathogens and characterization of the AMR profile and antibiotic susceptibility.
-  </article>
   <article id="contributors-article-NDZ9LY65" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

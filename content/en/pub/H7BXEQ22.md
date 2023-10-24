@@ -1,5 +1,5 @@
 ---
-title: "Scaling of nuclear numbers and their spatial arrangement in skeletal muscle cell size regulation"
+title: "H7BXEQ22"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-H7BXEQ22" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2156541" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/H7BXEQ22" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-H7BXEQ22" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-H7BXEQ22" class="csl-bib-button">Contributors</a>
+    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10398882" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-H7BXEQ22"></div>
 </article>
 <div id="csl-bib-meta-H7BXEQ22" class="csl-bib-meta">
-  <article id="abstract-article-H7BXEQ22" class="abstract-article">
-    <h1>Abstract</h1>
-    Many cells display considerable functional plasticity and depend on the regulation of numerous organelles and macromolecules for their maintenance. In large cells, organelles also need to be carefully distributed to supply the cell with essential resources and regulate intracellular activities. Having multiple copies of the largest eukaryotic organelle, the nucleus, epitomizes the importance of scaling gene products to large cytoplasmic volumes in skeletal muscle fibers. Scaling of intracellular constituents within mammalian muscle fibers is, however, poorly understood, but according to the myonuclear domain hypothesis, a single nucleus supports a finite amount of cytoplasm and is thus postulated to act autonomously, causing the nuclear number to be commensurate with fiber volume. In addition, the orderly peripheral distribution of myonuclei is a hallmark of normal cell physiology, as nuclear mispositioning is associated with impaired muscle function. Because underlying structures of complex cell behaviors are commonly formalized by scaling laws and thus emphasize emerging principles of size regulation, the work presented herein offers more of a unified conceptual platform based on principles from physics, chemistry, geometry, and biology to explore cell size–dependent correlations of the largest mammalian cell by means of scaling.
-  </article>
   <article id="contributors-article-H7BXEQ22" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

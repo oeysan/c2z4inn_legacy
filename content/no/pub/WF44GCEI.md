@@ -1,5 +1,5 @@
 ---
-title: "Adolescents’ Perceptions of a Relapse Prevention Treatment for Problematic Gaming—A Qualitative Study"
+title: "WF44GCEI"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WF44GCEI" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2168685" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WF44GCEI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-WF44GCEI" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WF44GCEI" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.mdpi.com/2227-9032/11/17/2366/pdf?version=1692683082" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WF44GCEI"></div>
 </article>
 <div id="csl-bib-meta-WF44GCEI" class="csl-bib-meta">
-  <article id="abstract-article-WF44GCEI" class="abstract-article">
-    <h1>Samandrag</h1>
-    Given the increasing prevalence of problematic gaming, in 2013, the diagnosis “Internet gaming disorder (IGD)” was included in the Diagnostic and Statistical Manual of Mental Disorders, 5th edition (DSM-5) as a potential diagnosis. With a new diagnosis, it is important to determine treatment options. The importance of the parent–child relationship has been emphasized in problematic gaming and its treatment. This study aims to provide more knowledge about adolescents’ perceptions of a treatment for problematic gaming and understand whether such treatment may have a bearing on the parent–child relationship. We conducted individual interviews with nine adolescents who completed a treatment for problematic gaming. The interviews were analysed using thematic analysis. The analysis revealed three themes. Theme 1: adolescents’ experiences of the new treatment; Theme 2: adolescents’ perceptions of the effect of the treatment on their gaming behaviour; and Theme 3: adolescents’ perceptions of changes in their parent–child relationships. The adolescents viewed the treatment as a way of gaining control of their gaming, a process in which a therapist played an integral part. For the majority of the adolescents in our study, the main effects of treatment 
-were gaining insight into how their gaming and gaming-related behaviours affected other parts of their lives. The participants felt that the treatment improved their relationship with their parents through reducing everyday conflicts. This new knowledge can be used for the development of future interventions involving children and adolescents.
-  </article>
   <article id="contributors-article-WF44GCEI" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

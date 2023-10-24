@@ -1,5 +1,5 @@
 ---
-title: "“Keeping on track”—Hospital nurses’ struggles with maintaining workflow while seeking to integrate evidence-based practice into their daily work: A grounded theory study"
+title: "TXVC3WKF"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,47 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TXVC3WKF" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1496182" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TXVC3WKF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-TXVC3WKF" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TXVC3WKF" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.1016/j.ijnurstu.2017.09.006" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TXVC3WKF"></div>
 </article>
 <div id="csl-bib-meta-TXVC3WKF" class="csl-bib-meta">
-  <article id="abstract-article-TXVC3WKF" class="abstract-article">
-    <h1>Samandrag</h1>
-    Background 
- 
-Evidence-based practice is considered a foundation for the provision of quality care and one way to integrate scientific knowledge into clinical problem-solving. Despite the extensive amount of research that has been conducted to evaluate evidence-based practice implementation and research utilization, these practices have not been sufficiently incorporated into nursing practice. Thus, additional research regarding the challenges clinical nurses face when integrating evidence-based practice into their daily work and the manner in which these challenges are approached is needed. 
- 
-Objectives 
- 
-The aim of this study was to generate a theory about the general patterns of behaviour that are discovered when clinical nurses attempt to integrate evidence-based practice into their daily work. 
- 
-Design 
- 
-We used Glaser’s classical grounded theory methodology to generate a substantive theory. 
- 
-Settings 
- 
-The study was conducted in two different medical wards in a large Norwegian hospital. In one ward, nurses and nursing assistants were developing and implementing new evidence-based procedures, and in the other ward, evidence-based huddle boards for risk assessment were being implemented. 
- 
-Participants 
- 
-A total of 54 registered nurses and 9 assistant nurses were observed during their patient care and daily activities. Of these individuals, thirteen registered nurses and five assistant nurses participated in focus groups. These participants were selected through theoretical sampling. 
- 
-Methods 
- 
-Data were collected during 90 hours of observation and 4 focus groups conducted from 2014 to 2015. Each focus group session included four to five participants and lasted between 55 and 65 minutes. Data collection and analysis were performed concurrently, and the data were analysed using the constant comparative method. 
-Results 
- 
-“Keeping on track” emerged as an explanatory theory for the processes through which the nurses handled their main concern: the risk of losing the workflow. The following three strategies were used by nurses when attempting to integrate evidence-based practices into their daily work: “task juggling”, “pausing for considering” and “struggling along with quality improvement”. 
- 
-Conclusions 
- 
-The “keeping on track” theory contributes to the body of knowledge regarding clinical nurses’ experiences with evidence-based practice integration. The nurses endeavoured to minimize workflow interruptions to avoid decreasing the quality of patient care provided, and evidence-based practices were seen as a consideration that was outside of their ordinary work
-  </article>
   <article id="contributors-article-TXVC3WKF" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

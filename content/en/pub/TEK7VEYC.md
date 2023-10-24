@@ -1,5 +1,5 @@
 ---
-title: "Assessing Evolutionary Significant Units (ESU) of the Endangered Freshwater Pearl Mussel (Margaritifera margaritifera) in Southeast Norway on the Basis of Genetic Analysis"
+title: "TEK7VEYC"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TEK7VEYC" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1839260" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TEK7VEYC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-TEK7VEYC" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TEK7VEYC" class="csl-bib-button">Contributors</a>
+    <a href="https://www.mdpi.com/2073-4425/11/9/1061/pdf?version=1599624067" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TEK7VEYC"></div>
 </article>
 <div id="csl-bib-meta-TEK7VEYC" class="csl-bib-meta">
-  <article id="abstract-article-TEK7VEYC" class="abstract-article">
-    <h1>Abstract</h1>
-    A total of 312 specimens of freshwater pearl mussel (Margaritifera margaritifera) were sampled from 11 populations, located in four different river systems in Southeast Norway, and analyzed for 11 simple sequence repeat (SSR) (microsatellite) markers. All study populations have landlocked brown trout (Salmo trutta) as the only possible host. Several populations had experienced recruitment failure, probably due to low pH (about 6.0) and calcium concentration. STRUCTURE clustering analysis revealed two genetic clusters, of which one cluster occurred mainly in the western river systems, and totally dominated in one population (Fallselva (A-FAL)) that had higher genetic diversity than the others. Cluster 2 completely dominated in the populations of the eastern river systems, and all of them had low genetic diversity. Bottleneck events were indicated in all populations and the inbreeding coefficient FIS was significant in all populations, except for the southernmost population (Sørkedalselva (B-SØR)), which was the only population with genotypes in Hardy–Weinberg equilibrium. FIS were especially high in the populations of the eastern river systems, and maximum shell length was negatively correlated to FIS. If artificially breeding and stocking should become necessary for future preservation, it should be based on single populations; alternatively, the eastern populations should be based on cross-breeding of populations within the cluster to increase their genetic diversity.
-  </article>
   <article id="contributors-article-TEK7VEYC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

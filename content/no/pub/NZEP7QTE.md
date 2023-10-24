@@ -1,5 +1,5 @@
 ---
-title: "The declining occurrence of moose ( Alces alces ) at the southernmost edge of its range raise conservation concerns"
+title: "NZEP7QTE"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NZEP7QTE" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1954282" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NZEP7QTE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NZEP7QTE" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8131793" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-NZEP7QTE"></div>
 </article>

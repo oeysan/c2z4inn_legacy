@@ -1,5 +1,5 @@
 ---
-title: "Organizing for digital servitization: A service ecosystem perspective"
+title: "T92RU3HA"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-T92RU3HA" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1703839" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/T92RU3HA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-T92RU3HA" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.1016/j.jbusres.2019.02.012" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-T92RU3HA"></div>
 </article>

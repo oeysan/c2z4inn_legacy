@@ -1,5 +1,5 @@
 ---
-title: "Moral stress and coping: relationship with long-term positive reactions and PTSD indication in military personnel"
+title: "D2JTC3RF"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-D2JTC3RF" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2063029" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/D2JTC3RF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-D2JTC3RF" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.1080/10508422.2022.2131553" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-D2JTC3RF"></div>
 </article>

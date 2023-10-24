@@ -1,5 +1,5 @@
 ---
-title: "Adaptations to Endurance and Strength Training"
+title: "EEKAX77H"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EEKAX77H" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1472125" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/EEKAX77H" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-EEKAX77H" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EEKAX77H" class="csl-bib-button">Contributors</a>
+    <a href="http://perspectivesinmedicine.cshlp.org/content/8/6/a029769.full.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-EEKAX77H"></div>
 </article>
 <div id="csl-bib-meta-EEKAX77H" class="csl-bib-meta">
-  <article id="abstract-article-EEKAX77H" class="abstract-article">
-    <h1>Abstract</h1>
-    The capacity for human exercise performance can be enhanced with prolonged exercise training, whether it is endurance- or strength-based. The ability to adapt through exercise training allows individuals to perform at the height of their sporting event and/or maintain peak physical condition throughout the life span. Our continued drive to understand how to prescribe exercise to maximize health and/or performance outcomes means that our knowledge of the adaptations that occur as a result of exercise continues to evolve. This review will focus on current and new insights into endurance and strength-training adaptations and will highlight important questions that remain as far as how we adapt to training.
-  </article>
   <article id="contributors-article-EEKAX77H" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

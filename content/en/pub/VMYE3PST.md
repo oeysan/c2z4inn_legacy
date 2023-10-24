@@ -1,5 +1,5 @@
 ---
-title: "Eksplisitt og implisitt kunnskap, læring og undervisning. Fra Krashens læring og tilegnelse til avveiningen mellom det eksplisitte og implisitte i moderne andrespråksopplæring"
+title: "VMYE3PST"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VMYE3PST" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1633696" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VMYE3PST" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-VMYE3PST" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VMYE3PST" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-VMYE3PST"></div>
 </article>
 <div id="csl-bib-meta-VMYE3PST" class="csl-bib-meta">
-  <article id="abstract-article-VMYE3PST" class="abstract-article">
-    <h1>Abstract</h1>
-    Hvordan kan det ha seg at en innlærer i det ene øyeblikket forklarer V2-regelen i norsk for i det neste å bryte den i bruk? Ortega (2015, s. 268) hevder at «[a]ll learners experience a ‘curious disjunction of knowledge’  […] so pervasive and striking that the phenomenon begs better theoretical understanding across all possible perspectives». Denne kløften mellom bevisst og ubevisst kunnskap hos andrespråksinnlærere – satt i sammenheng med didaktiske tilnærminger – er temaet for dette kapitlet. Vi tar utgangspunkt i det man i dag kan regne som begynnelsen for diskusjonen innenfor andrespråksforskningen, nemlig Krashens Monitor Model (Krashen 1981, 1982, 1985), som definerte andrespråkstilegnelse (acquisition) og -læring (learning) som to separate læringsprosesser. Vi undersøker hvordan Krashen-diskusjonen har beveget seg over i dagens forskningsbaserte diskusjoner av forholdet mellom implisitt og eksplisitt kunnskap og automatisering av språkferdigheter i andrespråksutvikling. Spørsmålet vi søker å belyse i kapitlet, er hvordan sentrale didaktiske andrespråkstilnærminger harmonerer (eller ei) med de moderne læringsteoretiske retningene når det gjelder eksplisitt og implisitt kunnskap og læring.
-  </article>
   <article id="contributors-article-VMYE3PST" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

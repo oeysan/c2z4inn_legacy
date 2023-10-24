@@ -1,5 +1,5 @@
 ---
-title: "Mind the gaps: On the North/South Nexus in the ‘Sport for Development and Peace’ discourse"
+title: "W6KKGX5C"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,24 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-W6KKGX5C" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2161200" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/W6KKGX5C" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-W6KKGX5C" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#sdg-article-W6KKGX5C" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://journals.oslomet.no/index.php/nordiccie/article/download/4464/4121" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-W6KKGX5C"></div>
 </article>
 <div id="csl-bib-meta-W6KKGX5C" class="csl-bib-meta">
-  <article id="abstract-article-W6KKGX5C" class="abstract-article">
-    <h1>Abstract</h1>
-    In this conceptual article, we present the “Sport for Development and Peace” (SDP) discourse as a case of scientific rationalization. First, we shed light on the ongoing theory debate around the “global/local problematique” in globalization and global policy research in comparative and international education. We then link up with the SDP discourse and show that academic work mostly features research related to the fact that the majority of the SDP programmes and ways of implementing them have been conceptualized in the Global North, yet are to be implemented in the Global South. In that context, we illustrate International Organizations as sites of scientized knowledge production and translation. Scientific rationalization occurs when specialized technical knowledge and management techniques enter the discourse.
-  </article>
   <article id="sdg-article-W6KKGX5C" class="sdg-article">
     <h1>Sustainable Development Goals</h1>
     <div class="sdg-container"><div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Interessentperspektiv på krisekommunikasjon"
+title: "J9JMNX66"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-J9JMNX66" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1791117" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/J9JMNX66" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-J9JMNX66" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-J9JMNX66" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-J9JMNX66" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-J9JMNX66"></div>
 </article>
 <div id="csl-bib-meta-J9JMNX66" class="csl-bib-meta">
-  <article id="abstract-article-J9JMNX66" class="abstract-article">
-    <h1>Samandrag</h1>
-    En organisasjons interessenter er kort forklart alle den har mål eller konsekvenser for - og omvendt. Denne boka handler om krisesituasjoner og har som utgangspunkt at krisehåndtering krever god kommunikasjon med alle de som krisen påvirker - interessentene - både før, under og etter en krise. En krise kommer som regel uventet, men det er likevel mulig å bli «kriseberedt», det finnes alltid noe som kan forutsees og planlegges for. Med utgangspunkt i en oversikt over «mulige kriser» er det for eksempel mulig å tenke seg hvilke behov for kommunikasjon som vil oppstå, mulige konflikter osv. Denne boka presenterer en oppdatert, forskningsbasert introduksjon til dette flerfaglige feltet og tilbyr konkrete modeller og metoder for effektiv interessentbasert krisekommunikasjon.
-  </article>
   <article id="contributors-article-J9JMNX66" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -67,7 +62,7 @@ Rom 3Ø109
     <div class="sdg-container"><div id="sdg13" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg13_no.png" class="image" alt="SDG 13">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>43</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=13#archive" class="sdg-publication-count"><span>45</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/stoppe-klimaendringene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

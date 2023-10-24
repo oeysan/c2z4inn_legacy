@@ -74,7 +74,16 @@ function initializeArchivePage() {
         const promises = itemsToRender.map(async item => {
        
             // Find button items
-            const { collections, key, cristinId, abstract, contributors, sdg } = item;
+            const { 
+                collections, 
+                key, 
+                cristinId, 
+                abstract, 
+                contributors, 
+                sdg, 
+                unpaywall, 
+                ezproxy
+            } = item;
         
             // Create the container div with the class .csl-bib-body
             const bibBody = document.createElement('div');
@@ -182,7 +191,33 @@ function initializeArchivePage() {
                 });
                 buttonsContainer.appendChild(sdgButton);
             }
-            
+
+            // Create unpaywall button
+            if (unpaywall) {
+                const unpaywallButton = createButton({ 
+                    type: "a",
+                    className: "csl-bib-button",
+                    attribute: {
+                        "href": unpaywall,
+                    },
+                    text: "Unpaywall" 
+                });
+                buttonsContainer.appendChild(unpaywallButton);
+            }
+
+            // Create unpaywall button
+            if (ezproxy) {
+                const ezproxyButton = createButton({ 
+                    type: "a",
+                    className: "csl-bib-button",
+                    attribute: {
+                        "href": ezproxy,
+                    },
+                    text: "EZproxy" 
+                });
+                buttonsContainer.appendChild(ezproxyButton);
+            }
+
             const urlButton = createButton({ 
                 type: "a",
                 className: "las la-link go-to-pub",
@@ -302,7 +337,7 @@ function initializeArchivePage() {
         filteredData = jsonItems.filter(item => {
             // Concatenate the values of properties to search
             const searchString = (
-                    item.html + item.key + item.abstract + item.creators
+                    item.html + item.key + item.abstract
                 ).toLowerCase();
             
             return (

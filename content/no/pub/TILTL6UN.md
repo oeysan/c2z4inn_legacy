@@ -1,5 +1,5 @@
 ---
-title: "To flerspråklige elevers utøvelse av aktørskap i fagsamtaler i naturfag"
+title: "TILTL6UN"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TILTL6UN" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2094743" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TILTL6UN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-TILTL6UN" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TILTL6UN" class="csl-bib-button">Medverkande</a>
+    <a href="https://journals.uio.no/adnorden/article/download/9564/8361" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TILTL6UN"></div>
 </article>
 <div id="csl-bib-meta-TILTL6UN" class="csl-bib-meta">
-  <article id="abstract-article-TILTL6UN" class="abstract-article">
-    <h1>Samandrag</h1>
-    Studien undersøker hvordan to flerspråklige elever på mellomtrinnet utøver aktørskap i elevtekster og fagsamtaler i naturfag. Begge elevene har bakgrunn fra innvandrerfamilier der det snakkes henholdsvis burmesisk og arabisk. Elevene lærer norsk som sitt andrespråk. Den ene eleven er født i Norge, mens den andre har gått to år i norsk skole. I ordinære naturfagklasserom har flerspråklige elever som er i prosess med å lære norsk, ulike måter å delta på, og mulighet til å utøve aktørskap har vist seg betydningsfullt for hvordan de involverer seg i faglige interaksjoner. Denne studien undersøker to forskerinitierte aktiviteter som har til hensikt å gi innblikk i hvordan de to fokuselevene som er i prosess med å lære undervisningsspråket norsk, tar i bruk språk- og hverdagserfaringer for å kunne opptre som betydningsfulle bidragsytere i fagfellesskap. I den første aktiviteten fikk hele klassen i oppdrag å uttrykke seg skriftlig om et faglig definert tema. De ble oppfordret til å ta i bruk hverdagserfaringer og opplevelser, og valgte selv om de ville skrive, tegne, lage figurer eller uttrykke seg ved en kombinasjon av flere uttrykksformer. Disse elevproduktene betegnes som identitetstekster. Deretter deltok de to fokuselevene hver for seg i til sammen fire fagsamtaler med en medelev og forskeren, der samtalen tok utgangspunkt i identitetstekstene. Begge aktivitetene fant sted ved oppstart og avslutning av utforskende undervisningsopplegg om lyd og økologi. Elevenes utøvelse av aktørskap ble analysert ved å kategorisere initiativ gjennom turtaking i fagsamtalene i kombinasjon med en etnografisk-inspirert tolkning av identitetstekster og elevenes involvering i samtalen om fagstoffet. Forskningsspørsmålet som blir undersøkt, er: Hvordan utøver to flerspråklige elever aktørskap i fagsamtaler om identitetstekster i naturfag? Funnene indikerer at en åpen inngang til fagstoffet legger til rette for at de to elevene tar i bruk ressurser i form av språk og opplevelser. Identitetstekstene bidrar til at elevene kobler erfaringer til fagstoffet. Videre viser studien at taushet ikke er synonymt med passivitet når fokuselevene deltar i faglig interaksjon med medelever. Funnene illustrerer at flerspråklige elever som lærer fag og undervisningsspråket norsk parallelt, har behov for en inkluderende undervisningspraksis som legger til rette for at de kan utøve aktørskap i faglige diskusjoner.
-  </article>
   <article id="contributors-article-TILTL6UN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Heuristics for the sustainable harvest of wildlife in stochastic social-ecological systems"
+title: "GF9EKTWX"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GF9EKTWX" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1958447" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GF9EKTWX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GF9EKTWX" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GF9EKTWX" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-GF9EKTWX" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0260159&amp;type=printable" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-GF9EKTWX"></div>
 </article>
 <div id="csl-bib-meta-GF9EKTWX" class="csl-bib-meta">
-  <article id="abstract-article-GF9EKTWX" class="abstract-article">
-    <h1>Samandrag</h1>
-    Sustainable wildlife harvest is challenging due to the complexity of uncertain social-ecological systems, and diverse stakeholder perspectives of sustainability. In these systems, semi-complex stochastic simulation models can provide heuristics that bridge the gap between highly simplified theoretical models and highly context-specific case-studies. Such heuristics allow for more nuanced recommendations in low-knowledge contexts, and an improved understanding of model sensitivity and transferability to novel contexts. We develop semi-complex Management Strategy Evaluation (MSE) models capturing dynamics and variability in ecological processes, monitoring, decision-making, and harvest implementation, under a diverse range of contexts. Results reveal the fundamental challenges of achieving sustainability in wildlife harvest. Environmental contexts were important in determining optimal harvest parameters, but overall, evaluation contexts more strongly influenced perceived outcomes, optimal harvest parameters and optimal harvest strategies. Importantly, simple composite metrics popular in the theoretical literature (e.g. focusing on maximizing yield and population persistence only) often diverged from more holistic composite metrics that include a wider range of population and harvest objectives, and better reflect the trade-offs in real world applied contexts. While adaptive harvest strategies were most frequently preferred, particularly for more complex environmental contexts (e.g. high uncertainty or variability), our simulations map out cases where these heuristics may not hold. Despite not always being the optimal solution, overall adaptive harvest strategies resulted in the least value forgone, and are likely to give the best outcomes under future climatic variability and uncertainty. This demonstrates the potential value of heuristics for guiding applied management.
-  </article>
   <article id="contributors-article-GF9EKTWX" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -57,7 +53,7 @@ Studiested Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

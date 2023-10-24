@@ -1,27 +1,23 @@
 ---
-title: "Schooling, educational technology and teachers’ everyday practice in Norway"
+title: "S2XIJGGJ"
 type: pub
 ---
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-S2XIJGGJ" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Krumsvik, R. J., &amp; Skaar, &#xD8;. O. (2020). Schooling, educational technology and teachers&#x2019; everyday practice in Norway. I G. W. Noblit (Red.), <i>Oxford Research Encyclopedia of Education</i>. Oxford University Press. <a href="https://doi.org/10.1093/acrefore/9780190264093.013.903">https://doi.org/10.1093/acrefore/9780190264093.013.903</a></div>
+  <div class="csl-entry">Krumsvik, R. J., &amp; Skaar, &#xD8;. O. (2020). Schooling, educational technology and teachers&#x2019; everyday practice in Norway. I G. W. Noblit (Red.), <i>Oxford Research Encyclopedia of Education</i>. Oxford University Press. <a href="https://oxfordre.com/education/view/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-903">https://oxfordre.com/education/view/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-903</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-S2XIJGGJ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1736263" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/S2XIJGGJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-S2XIJGGJ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-S2XIJGGJ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-S2XIJGGJ" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-S2XIJGGJ"></div>
 </article>
 <div id="csl-bib-meta-S2XIJGGJ" class="csl-bib-meta">
-  <article id="abstract-article-S2XIJGGJ" class="abstract-article">
-    <h1>Samandrag</h1>
-    Research shows that for decades, there have been attempts to implement information and communication technology (ICT) in schools, but it has had a weak uptake among teachers thus far. One of the reasons for this lack of integration is that teachers perceive ICT as an additional load on their everyday practices that would increase the complexity of their roles. Teachers are therefore often cautious and sceptical about ICT implementation because it is often not properly attached to deeply entrenched school structure. Adaptive learning tools have provided new opportunities to facilitate this integration. Adaptive learning tools are expected to contribute to the customization and personalization of pupil learning by continually calibrating and adjusting pupils’ learning activities to their skill and competence levels. However, it is important to discuss whether adaptive learning tools need to be sufficiently anchored in the curriculum, in formative assessment, in adaptive education, and in homework to achieve their potential. In this way, we can obtain an understanding of how a systematic implementation of adaptive learning tools influences the learning outcomes, learning environment, and motivation of pupils in school, when such tools are attached to the deeply entrenched structures in school. In such implementation processes it seems like we need to reconsider the value of homework to achieve, for example, sufficient volume training and root learning with adaptive learning tools, thus freeing up time for practical mathematics and deep learning at school. Importantly, this requires a digital competence among teachers, where the critical factor is the teacher’s ability to create a teaching doctrine in which technology use is justified by didactic choices.
-  </article>
   <article id="contributors-article-S2XIJGGJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "De gamle stier: historien om menigheten Samfundet, Det Almindelige Samfund og andre sterkttroende"
+title: "RTTA5PNE"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RTTA5PNE" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1913551" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RTTA5PNE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RTTA5PNE" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-RTTA5PNE"></div>

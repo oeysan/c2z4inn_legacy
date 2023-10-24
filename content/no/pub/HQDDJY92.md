@@ -1,5 +1,5 @@
 ---
-title: "Embodiment, Technology and Ecological Awareness at the Site of Deep Ecology"
+title: "HQDDJY92"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HQDDJY92" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1827704" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HQDDJY92" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HQDDJY92" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.22501/ruu" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-HQDDJY92"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "Pasung : A qualitative study of shackling family members with mental illness in Indonesia"
+title: "9TM9C2NM"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9TM9C2NM" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2080520" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/9TM9C2NM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-9TM9C2NM" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9TM9C2NM" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-9TM9C2NM" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://journals.sagepub.com/doi/pdf/10.1177/13634615221135254" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-9TM9C2NM"></div>
 </article>
 <div id="csl-bib-meta-9TM9C2NM" class="csl-bib-meta">
-  <article id="abstract-article-9TM9C2NM" class="abstract-article">
-    <h1>Samandrag</h1>
-    Use of coercion on people with mental illness is a deeply embedded practice around the world. Not only does the practice raise human rights issues, it also leads to further mental, physical, and emotional harms. In Indonesia, ‘pasung’ is a common practice of physical restraint, which involves lay people using a variety of illegal methods to tie a person. In this article, we explore the meanings families attach to their actions when using pasung by asking the question: to what extent does the use of pasung by families emerge from socioculturally prescribed norms and conventions? To explore this question, we conducted and analysed eight interviews with family members from Nias Island, Indonesia using Giorgi's descriptive phenomenological method. Our findings reveal that pasung emerges in the disjunction between sociocultural demands and the family's capacity to meet these demands. Struggling to understand the behaviour of a family member with mental illness, the family tries to cope with neighbourhood reactions to ever more visible behavioural signs alongside managing their everyday life. These struggles, in turn, make their social situation increasingly stressful, which initiates a process of depersonalization as a response. Moreover, the prevailing sociocultural values convey a need to act according to expected norms. As such, pasung materializes as a socioculturally accepted practice that allows families to take back control in stressful social situations. In sum, when families feel overwhelming emotional stress and a sense of powerlessness, they try to resolve their situation by using pasung to regain control and thus manage their lives.
-  </article>
   <article id="contributors-article-9TM9C2NM" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -95,7 +91,7 @@ Rom 4L3336
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

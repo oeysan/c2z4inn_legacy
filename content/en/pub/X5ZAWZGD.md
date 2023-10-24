@@ -1,5 +1,5 @@
 ---
-title: "Barns rett til lek og utdanning i barnehagen"
+title: "X5ZAWZGD"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-X5ZAWZGD" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1867922" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/X5ZAWZGD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://pedagogikkogkritikk.no/index.php/ntpk/article/download/2055/4212" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-X5ZAWZGD"></div>
 </article>

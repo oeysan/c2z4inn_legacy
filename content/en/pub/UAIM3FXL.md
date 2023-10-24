@@ -1,5 +1,5 @@
 ---
-title: "The Impact of N.I. Vavilov on the Conservation and Use of Plant Genetic Resources in Scandinavia: A Review"
+title: "UAIM3FXL"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UAIM3FXL" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2097837" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UAIM3FXL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-UAIM3FXL" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UAIM3FXL" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-UAIM3FXL" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.mdpi.com/2223-7747/12/1/143/pdf?version=1672192365" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-UAIM3FXL"></div>
 </article>
 <div id="csl-bib-meta-UAIM3FXL" class="csl-bib-meta">
-  <article id="abstract-article-UAIM3FXL" class="abstract-article">
-    <h1>Abstract</h1>
-    In this review we examine Nikolai Ivanovich Vavilov’s relationship to Scandinavia and the impact he and his ideas have had on Scandinavia. We trace the historical connections from Vavilov back to 18th century scientists, such as Carl Von Linneaus (Sweden) and 19th century European scientists such as Alphonse de Candolle (Switzerland), Henry de Vilmorin (France), and William Bateson (England). Vavilov has influenced the conservation work in Scandinavia resulting amongst other in the establishment of the Nordic Gene Bank in 1979 and the Svalbard Global Seed Vault which started operating in 2008. Vavilov travelled to Scandinavia in 1921 and in 1931 to give lectures and exchange ideas, especially with the breeders at the Swedish Seed Association (Svalöf) in Scania, Sweden, but also at the Copenhagen University in Denmark. Vavilov did not recognize Scandinavia as part of a center of origin of cultivated plants. It was only after World War II, when P.M. Zhukovsky, a scholar of N.I Vavilov, developed the concept of mega-centers of diversity of cultivated plants, that Scandinavia became part of what he termed the European-Siberian Region of Diversity. We list species domesticated in Scandinavia or Northern Europe, and we further discuss concepts related to crop evolution and highlight the great impact Vavilov has had by inspiring scientists across disciplines and over many decades.
-  </article>
   <article id="contributors-article-UAIM3FXL" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Campus Blæstad
     <div class="sdg-container"><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>46</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=2#archive" class="sdg-publication-count"><span>46</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Mortal Mistakes"
+title: "XSQM4IK8"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XSQM4IK8" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2045313" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XSQM4IK8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-XSQM4IK8" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XSQM4IK8" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-XSQM4IK8" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1163/17455243-20220002" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-XSQM4IK8"></div>
 </article>
 <div id="csl-bib-meta-XSQM4IK8" class="csl-bib-meta">
-  <article id="abstract-article-XSQM4IK8" class="abstract-article">
-    <h1>Abstract</h1>
-    What are the justifications and constraints on the use of force in self-defense? In his book The Morality of Defensive Force , Jonathan Quong presents the moral status account to address this and other fundamental questions. According to the moral status account, moral liability to defensive harm is triggered by treating others with less respect than they are due. At the same time, Quong rejects the relevance of culpability to the morality of defensive harming. In this article I argue that this rejection of culpability is unfounded and that Quong fails to establish his account as superior to the culpability account of liability to defensive harm.
-  </article>
   <article id="contributors-article-XSQM4IK8" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

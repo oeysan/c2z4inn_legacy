@@ -1,5 +1,5 @@
 ---
-title: "Frida: moje zbloudilá babička ve víru dějin"
+title: "4D5BWCHB"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4D5BWCHB" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2057595" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/4D5BWCHB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-4D5BWCHB" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-4D5BWCHB" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-4D5BWCHB"></div>
 </article>
 <div id="csl-bib-meta-4D5BWCHB" class="csl-bib-meta">
-  <article id="abstract-article-4D5BWCHB" class="abstract-article">
-    <h1>Samandrag</h1>
-    Tsjekkisk oversettelse av norsk originalversjon
-  </article>
   <article id="contributors-article-4D5BWCHB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Krisehåndtering: planlegging og handling"
+title: "IXTQEFFP"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IXTQEFFP" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1498661" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/IXTQEFFP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-IXTQEFFP" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IXTQEFFP" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-IXTQEFFP"></div>
 </article>
 <div id="csl-bib-meta-IXTQEFFP" class="csl-bib-meta">
-  <article id="abstract-article-IXTQEFFP" class="abstract-article">
-    <h1>Samandrag</h1>
-    Boken handler om hvordan organisasjoner forbereder og forebygger før kriser, og lærer og gjenoppbygger etter kriser. Krisehåndtering omfatter også folks oppfatninger av prosesser og resultater i og utenfor organisasjoner. I denne boken ønsker vi å formidle det faglige mangfoldet belyst av teorier på struktur, kultur og prosesser. Innslaget av usikkerhet og kompleksitet har betydning for håndteringen av kriser som forskeren må forstå i en kontekst. Forfatterne belyser krisehåndtering med kriseledelse, beredskapsplanlegging, krisekommunikasjon, koordinering, trening, improvisering, beslutninger og makt. Utfordringen er å få på plass mer empirisk forskning, spesielt om makt og demokrati. Krisehåndtering planlegging og handling retter seg mot studenter, forelesere, forskere, ansatte i beredskapsorganisasjoner og praktikere. Boken er også svært relevant for ledere og medarbeidere i næringslivet. Tore Hafting (red.) er førstelektor ved Høyskolen i Innlandet, Avdeling for økonomi, ledelse og innovasjon.
-  </article>
   <article id="contributors-article-IXTQEFFP" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

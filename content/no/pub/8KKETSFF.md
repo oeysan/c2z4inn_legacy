@@ -1,5 +1,5 @@
 ---
-title: "Rewilding by Wolf Recolonisation, Consequences for Ungulate Populations and Game Hunting"
+title: "8KKETSFF"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8KKETSFF" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2021922" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/8KKETSFF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-8KKETSFF" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-8KKETSFF" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-8KKETSFF" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2079-7737/11/2/317/pdf?version=1645079875" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-8KKETSFF"></div>
 </article>
 <div id="csl-bib-meta-8KKETSFF" class="csl-bib-meta">
-  <article id="abstract-article-8KKETSFF" class="abstract-article">
-    <h1>Samandrag</h1>
-    The ongoing recolonisations of human-transformed environments in Europe by large carnivores like the wolf Canis lupus means that conservation conflicts could re-surface, among other reasons, due to predation on ungulate game species. We estimated the effect of wolves on ungulate species using data on wolf prey selection, kill rates and territory size to build a hypothetical case of future expansion. We extrapolated results on predation from the current wolf distribution in central Sweden and eastern Poland to the eventual wolf recolonisation of southern Sweden. We then calculated the proportion of five ungulate game species killed annually by wolves, and the ratio between the predicted annual predation by wolves given future colonization and the number of ungulates currently harvested by hunters. Results showed that wolf recolonization in southern Sweden would have a minor impact on the estimated population densities of red deer Cervus elaphus, fallow deer Dama dama and wild boar Sus scrofa, but is likely to lead to a significant reduction in human captures of moose Alces alces and roe deer Capreolus capreolus. The current five-ungulate species system in southern Sweden suggests a potential for two to four times higher wolf density than the two-ungulate species system in the northern part of their current distribution. Management and conservation of recolonizing large carnivores require a better understanding of the observed impact on game populations under similar ecological conditions to ameliorate conservation conflicts and achieve a paradigm of coexistence. Integrating these predictions into management is paramount to the current rewilding trend occurring in many areas of Europe or North America.
-  </article>
   <article id="contributors-article-8KKETSFF" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Studiested Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

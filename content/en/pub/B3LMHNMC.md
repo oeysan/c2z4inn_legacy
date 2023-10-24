@@ -1,5 +1,5 @@
 ---
-title: "“Draw the sea…”: Children’s representations of ocean connectivity in Fiji and New Caledonia"
+title: "B3LMHNMC"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-B3LMHNMC" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2059917" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/B3LMHNMC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-B3LMHNMC" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-B3LMHNMC" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-B3LMHNMC" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s13280-022-01777-1.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-B3LMHNMC"></div>
 </article>
 <div id="csl-bib-meta-B3LMHNMC" class="csl-bib-meta">
-  <article id="abstract-article-B3LMHNMC" class="abstract-article">
-    <h1>Abstract</h1>
-    In the South Pacific region, marine territories and resources play a crucial role for local communities. Children engage with these territories and resources from an early age onwards. As the next ocean stewards, they are a stakeholder group whose understandings of ocean connectivity and fisheries should be given serious consideration in decision-making processes towards the sustainable use and management of coastal seas. This paper analyses 290 children’s drawings from Fiji and New Caledonia, created in 2019 in spontaneous response to the instruction: “Draw the sea and what you and others do in the sea”. Exploring the webs of connections with and within the sea revealed by these children’s drawings and their own interpretations leads us to discuss children’s representations of the sea: (1) beyond a land-sea compartmentation, (2) as a locus of both exploitation and conservation of marine life, and (3) as a ‘place-full’ space connecting human and more-than-human realms.
-  </article>
   <article id="contributors-article-B3LMHNMC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Campus Hamar
     <div class="sdg-container"><div id="sdg14" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg14_en.png" class="image" alt="SDG 14">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>41</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=14#archive" class="sdg-publication-count"><span>42</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal14" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

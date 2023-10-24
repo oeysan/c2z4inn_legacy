@@ -1,5 +1,5 @@
 ---
-title: "The cognate continuum: Approaches to empirically establishing form overlap"
+title: "QXVEHMDD"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QXVEHMDD" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2164095" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/QXVEHMDD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-QXVEHMDD" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-QXVEHMDD" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-QXVEHMDD" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1075/ml.22018.str" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-QXVEHMDD"></div>
 </article>
 <div id="csl-bib-meta-QXVEHMDD" class="csl-bib-meta">
-  <article id="abstract-article-QXVEHMDD" class="abstract-article">
-    <h1>Samandrag</h1>
-    Cognates, words that are similar in form and meaning across two languages, form compelling test cases for bilingual access and representation. Overwhelmingly, cognate pairs are subjectively selected in a categorical either- or manner, often with criteria and modality unspecified. Yet the few studies that take a more nuanced approach, selecting cognate pairs along a continuum of overlap, show interesting, albeit somewhat divergent results. This study compares three measures that quantify cognateness continuously to obtain modality-specific cognate scores for the same set of Norwegian-English word-translation pairs: 1) Researcher Intuitions – bilingual researchers rate the degree of overlap between the paired words, 2) Levenshtein Distance – an algorithm computes overlap between word pairs, and 3) Translation Elicitation – English-speaking monolinguals guess what Norwegian words mean. Results demonstrate that cognateness can be ranked on a continuum and reveal measure and modality-specific effects. Orthographic presentation yields higher cognateness status than auditory presentation overall. Though all three measures intercorrelated moderately to highly, Researcher Intuitions demonstrated a bimodal distribution, yielding scores on the high and low end of the spectrum, consistent with the common categorical approach in the field. Levenshtein Distance would be preferred for fine-grained distinctions along the continuum of form overlap.
-  </article>
   <article id="contributors-article-QXVEHMDD" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -67,7 +63,7 @@ Rom 2C275
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

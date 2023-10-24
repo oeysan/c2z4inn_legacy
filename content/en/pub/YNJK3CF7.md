@@ -1,5 +1,5 @@
 ---
-title: "Icelandic as a second language: university students’ experiences"
+title: "YNJK3CF7"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,24 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YNJK3CF7" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1951078" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YNJK3CF7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-YNJK3CF7" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#sdg-article-YNJK3CF7" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://ojs.hi.is/tuuom/article/download/3160/1873" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-YNJK3CF7"></div>
 </article>
 <div id="csl-bib-meta-YNJK3CF7" class="csl-bib-meta">
-  <article id="abstract-article-YNJK3CF7" class="abstract-article">
-    <h1>Abstract</h1>
-    The aim of this paper is to present and analyze how university students experience teaching methods of Icelandic as a second language and communication with teachers during the learning process. The theoretical framework includes multicultural education theory and second language teaching and learning theories. The findings are based on qualitative interviews with twelve students who study Icelandic as a second language at the University of Iceland. The analysis of the interviews revealed that the participants were generally satisfied with the learning environment and had positive experiences of communication with the majority of the teachers. Nevertheless, the participants described themselves as being rather passive recipients of knowledge in the courses where explicit teaching of grammar was applied, and lacking active participation in the learning process. Additionally, the participants encountered several challenges during the learning process such as issues related to task-based and group assignments and, in some cases, teachers lacked understanding of different students’ needs, such as that of providing extra learning materials.
-  </article>
   <article id="sdg-article-YNJK3CF7" class="sdg-article">
     <h1>Sustainable Development Goals</h1>
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

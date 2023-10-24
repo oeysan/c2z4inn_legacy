@@ -31,6 +31,8 @@ zotero <- c2z::Zotero(
 sdg.model <- 'C:/sdg/models/aurora-sdg/'
 # SDG script path
 sdg.script <- file.path(getwd(), "python/predict_sdg.py")
+# SDG host past 
+sdg.host <- NULL
 
 ################################################################################
 ###############################Internal Data####################################
@@ -461,7 +463,8 @@ SdgOverview <- \(lang) {
   sdg <- c2z4uni:::SdgInfo(
     sdg.data$sum,
     lang = lang,
-    sdg.path = "{{< params subfolder >}}images/sdg"
+    sdg.path = "{{< params subfolder >}}images/sdg",
+    archive.url = paste0("{{< params subfolder >}}", lang, "/archive/")
   ) |>
     paste(collapse = "")
   
@@ -609,6 +612,8 @@ GetLibrary <- \(lang,
                 post = FALSE,
                 update = FALSE,
                 full.update = FALSE,
+                get.unpaywall = TRUE,
+                get.ezproxy = TRUE,
                 silent = FALSE,
                 log = list()) {
   
@@ -631,14 +636,17 @@ GetLibrary <- \(lang,
       local.storage = local.storage,
       sdg.model = sdg.model,
       sdg.script = sdg.script,
+      sdg.host = sdg.host,
       locale = locale,
       post = post,
       full.update = full.update,
+      get.unpaywall = get.unpaywall,
+      get.ezproxy = get.ezproxy,
       lang = lang
     )
     
   }
-  
+
   # Fetch data
   sdg.data <<- readRDS(file.path(local.storage, "sdg_predictions.rds")) |>
     c2z4uni:::SdgCutoff()
@@ -651,6 +659,12 @@ GetLibrary <- \(lang,
       file.path(local.storage, sprintf("monthlies_%s.rds", lang))
     )
   )
+  extras <- readRDS(
+    file.path(local.storage, "monthlies_extras.rds")
+  )
+  cristin.monthly$monthlies <- cristin.monthly$monthlies |>
+    dplyr::left_join(dplyr::select(extras, -cristin.id), by = join_by(key))
+  
   updated.keys <<- readRDS(file.path(local.storage, "updated_keys.rds"))
   
   # Log
@@ -666,6 +680,7 @@ GetLibrary <- \(lang,
   email <- CristinMail(
     unit.key = email.unit, 
     cristin.monthly, 
+    "https://oeysan.github.io/c2z4inn",
     lang = lang
   )
   
@@ -750,6 +765,7 @@ GetLibrary <- \(lang,
     new.pages,
     sdg.data, 
     "{{< params subfolder >}}images/sdg",
+    archive.url = paste0("{{< params subfolder >}}", lang, "/archive/"),
     user.cards = user.cards, 
     local.storage = local.storage, 
     lang = lang

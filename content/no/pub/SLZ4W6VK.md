@@ -1,5 +1,5 @@
 ---
-title: "Always a foreigner? Ethnic identity construction and belonging among youth of immigrant origin in Norway"
+title: "SLZ4W6VK"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SLZ4W6VK" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1483837" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SLZ4W6VK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SLZ4W6VK" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/978-1-78635-781-620171007" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-SLZ4W6VK"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "”Dette skulle bli et dikt som noen skulle huske en stund”: Scenekunst som poesi for barn i forestillingen Snutebiller, stankelben"
+title: "RP8B3LLZ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RP8B3LLZ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1951298" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RP8B3LLZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-RP8B3LLZ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RP8B3LLZ" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.barnboken.net/index.php/clr/article/download/601/1923" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-RP8B3LLZ"></div>
 </article>
 <div id="csl-bib-meta-RP8B3LLZ" class="csl-bib-meta">
-  <article id="abstract-article-RP8B3LLZ" class="abstract-article">
-    <h1>Samandrag</h1>
-    Norwegian  author  Rolf  Jacobsen’s  (1907–1994)  modernist  poetry, originally published for adults, has been celebrated for its boldness and innovativeness. In the stage performance Snutebiller, stankelben (Snout Beetle, Crane Fly) by the Norwegian theatre group Fleece &amp; Rouge, four poems by Jacobsen are performed on stage with children as the target audience. This article studies the realization of Jacobsen’s poetry as stage art for children. Transferring the poems from book to stage involves several obvious medial  transformations  due  to  the  theatre’s  specific  devices.  By  drawing theoretical  inspiration  from  Jonathan  Culler’s  theory  of  the  lyric  poem’s  ritualistic  and  fictional  qualities,  we  ask  to  what  degree  the  performance preserves the poetic qualities in the poems for the child audience. Or rather, does the theatre frame impose dramatic effects on the poems by expanding their element of fiction? The inquiry is also inspired by Margaret Meek’s and Kornej Tjukovskij’s perspectives on the relationship between children and poetic language. There is an amount of risk involved in the task of transferring poetry to the stage. In order to succeed, the actors must embrace the expressive possibilities of the theatre, which in one sense means replacing one genre with another and thus leaving the poetry behind. However, as the analysis of  Snutebiller, stankelben demonstrates, the poetic may resurrect in the scenic expression, given that the performance’s embeddedness in and obligation towards the poems are strong enough
-  </article>
   <article id="contributors-article-RP8B3LLZ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

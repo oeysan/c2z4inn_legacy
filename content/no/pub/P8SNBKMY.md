@@ -1,5 +1,5 @@
 ---
-title: "‘It is meant to be heart rather than head’; International perspectives of teaching from lived experience in mental health nursing programs"
+title: "P8SNBKMY"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-P8SNBKMY" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1799646" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/P8SNBKMY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="http://minerva-access.unimelb.edu.au/bitstreams/640bd802-ff4e-51d8-acef-28faddecc5cd/download" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-P8SNBKMY"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "An intragenic mutagenesis strategy in Physcomitrella patens to preserve intron splicing"
+title: "EG7DNBWK"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EG7DNBWK" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1498910" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/EG7DNBWK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-EG7DNBWK" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EG7DNBWK" class="csl-bib-button">Contributors</a>
+    <a href="https://www.nature.com/articles/s41598-017-05309-w.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-EG7DNBWK"></div>
 </article>
 <div id="csl-bib-meta-EG7DNBWK" class="csl-bib-meta">
-  <article id="abstract-article-EG7DNBWK" class="abstract-article">
-    <h1>Abstract</h1>
-    Gene targeting is a powerful reverse genetics technique for site-specific genome modification. Intrinsic homologous recombination in the moss Physcomitrella patens permits highly effective gene targeting, a characteristic that makes this organism a valuable model for functional genetics. Functional characterization of domains located within a multi-domain protein depends on the ability to generate mutants harboring genetic modifications at internal gene positions while maintaining the reading-frames of the flanking exons. In this study, we designed and evaluated different gene targeting constructs for targeted gene manipulation of sequences corresponding to internal domains of the DEFECTIVE KERNEL1 protein in Physcomitrella patens . Our results show that gene targeting-associated mutagenesis of introns can have adverse effects on splicing, corrupting the normal reading frame of the transcript. We show that successful genetic modification of internal sequences of multi-exon genes depends on gene-targeting strategies which insert the selection marker cassette into the 5′ end of the intron and preserve the nucleotide sequence of the targeted intron.
-  </article>
   <article id="contributors-article-EG7DNBWK" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

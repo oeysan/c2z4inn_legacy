@@ -1,5 +1,5 @@
 ---
-title: "Kulturelt mangfald i fantastisk barnelitteratur: Kulturmøte i dyreforteljinga Fremmed av Kaia, Bendik og Trond Brænne og Per Dybvig"
+title: "U99VSK9H"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-U99VSK9H" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1652360" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/U99VSK9H" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-U99VSK9H" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-U99VSK9H"></div>

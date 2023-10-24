@@ -1,5 +1,5 @@
 ---
-title: "Multiple factors influence local perceptions of snow leopards and Himalayan wolves in the central Himalayas, Nepal"
+title: "JP7WM8U8"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JP7WM8U8" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1842820" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JP7WM8U8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JP7WM8U8" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JP7WM8U8" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-JP7WM8U8" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://peerj.com/articles/10108.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JP7WM8U8"></div>
 </article>
 <div id="csl-bib-meta-JP7WM8U8" class="csl-bib-meta">
-  <article id="abstract-article-JP7WM8U8" class="abstract-article">
-    <h1>Samandrag</h1>
-    An understanding of local perceptions of carnivores is important for conservation and management planning. In the central Himalayas, Nepal, we interviewed 428 individuals from 85 settlements using a semi-structured questionnaire to quantitatively assess local perceptions and tolerance of snow leopards and wolves. We used generalized linear mixed effect models to assess influential factors, and found that tolerance of snow leopards was much higher than of wolves. Interestingly, having experienced livestock losses had a minor impact on perceptions of the carnivores. Occupation of the respondents had a strong effect on perceptions of snow leopards but not of wolves. Literacy and age had weak impacts on snow leopard perceptions, but the interaction among these terms showed a marked effect, that is, being illiterate had a more marked negative impact among older respondents. Among the various factors affecting perceptions of wolves, numbers of livestock owned and gender were the most important predictors. People with larger livestock herds were more negative towards wolves. In terms of gender, males were more positive to wolves than females, but no such pattern was observed for snow leopards. People’s negative perceptions towards wolves were also related to the remoteness of the villages. Factors affecting people’s perceptions could not be generalized for the two species, and thus need to be addressed separately. We suggest future conservation projects and programs should prioritize remote settlements.
-  </article>
   <article id="contributors-article-JP7WM8U8" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -97,19 +93,19 @@ Studiested Evenstad
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

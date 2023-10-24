@@ -1,5 +1,5 @@
 ---
-title: "Kvifor vart det slik?: norsk historie gjennom 10 000 år"
+title: "UZ29SLST"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UZ29SLST" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2058475" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UZ29SLST" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-UZ29SLST" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UZ29SLST" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-UZ29SLST"></div>
 </article>
 <div id="csl-bib-meta-UZ29SLST" class="csl-bib-meta">
-  <article id="abstract-article-UZ29SLST" class="abstract-article">
-    <h1>Samandrag</h1>
-    Denne boka presenterer Noregs historie frå steinalderen fram til i dag, inkludert demografi, økonomi, politikk, kultur og sosiale hendingar. Ved å trekka lange linjar syner forfattaren på ein lett og tilgjengeleg måte korleis det norske samfunnet har vorte til, og nøkkelomgrep som nasjonsbygging, modernisering og demokratisering er sentrale. Boka har lærarstudentar, forskarar og allment historieinteresserte som målgruppe, og inneheld arbeidsoppgåver som kan brukast i undervisning. Svein Ivar Angell er historikar og førsteamuensis ved Universitetet i Bergen. Han forskar mykje på nasjonalisme, lokalhistorie og naturressursforvaltning. Han har tidlegare publisert fleire bøker om nasjonsbygging og modernisering. Omtalen er utarbeidd av BS.
-  </article>
   <article id="contributors-article-UZ29SLST" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Extraversion and focus of attention on facial emotions: an experimental eye-tracking study"
+title: "KVDCEXGB"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KVDCEXGB" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1709281" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/KVDCEXGB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-KVDCEXGB" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KVDCEXGB" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-KVDCEXGB" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.termedia.pl/Journal/-75/pdf-36761-10?filename=91-97 Watten Extraversion and focus.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-KVDCEXGB"></div>
 </article>
 <div id="csl-bib-meta-KVDCEXGB" class="csl-bib-meta">
-  <article id="abstract-article-KVDCEXGB" class="abstract-article">
-    <h1>Samandrag</h1>
-    BackgroundEmotions and personality traits seem to be important factors affecting social attention. In the present study, we used eye-tracking equipment to investigate the differences between extraverts and introverts in visual attention to positive and negative emotions shown in human faces. We want to describe more detailed types of eye movements in this visual attention, and especially pat-terns of spatial and temporal fixations. Based on previous research we would expect that extraverts would be more attentive to faces showing positive emotions compared to introverts. Participants and procedureEmotions and personality traits seem to be important factors affecting social attention. The current study investigated differences between extraverts’ and introverts’ visual attentional focus on positive and negative emotions expressed in human faces. ResultsCompared to the introverts group, extraverts showed significantly longer average fixation duration (AFD) for whole faces per-ceived to express positive emotions. There were no significant differences between the groups for dwelling time (DT), entry time (ET), and first fixation (FF). However, the extraversion group showed significantly longer DT, FF and AFD attention towards the mouth area compared to the introverts. ConclusionsExtraverts seem to show a selective visual attentional bias towards positive emotions in human faces, particularly towards the mouth area of smiling faces compared to introverts. The study showed that the visual mechanisms behind this selective attention were differences in temporal fixation patterns such as average fixation duration, dwelling time and first fixation time.
-  </article>
   <article id="contributors-article-KVDCEXGB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

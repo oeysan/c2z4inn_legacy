@@ -1,5 +1,5 @@
 ---
-title: "Decrease in inflammatory biomarker concentration by intervention with selenium and coenzyme Q10: a subanalysis of osteopontin, osteoprotergerin, TNFr1, TNFr2 and TWEAK"
+title: "NBB7HQNP"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NBB7HQNP" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1693723" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NBB7HQNP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://doi.org/10.1186/s12950-019-0210-6" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-NBB7HQNP"></div>
 </article>

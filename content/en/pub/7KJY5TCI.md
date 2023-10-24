@@ -1,5 +1,5 @@
 ---
-title: "Bekymring for det ufødte liv og omsorgsovertakelse ved fødsel: Posisjoner, verdikonflikter og spenninger i tverrfaglig arbeid"
+title: "7KJY5TCI"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7KJY5TCI" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1846461" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7KJY5TCI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://press.nordicopenaccess.no/index.php/noasp/catalog/view/103/498/3790-1" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7KJY5TCI"></div>
 </article>

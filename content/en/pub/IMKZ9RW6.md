@@ -1,5 +1,5 @@
 ---
-title: "Multiteam Systems Handling Time-Sensitive Targets: Developing Situation Awareness in Distributed and Co-located Settings"
+title: "IMKZ9RW6"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IMKZ9RW6" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2049903" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/IMKZ9RW6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-IMKZ9RW6" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IMKZ9RW6" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-IMKZ9RW6" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2022.864749/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-IMKZ9RW6"></div>
 </article>
 <div id="csl-bib-meta-IMKZ9RW6" class="csl-bib-meta">
-  <article id="abstract-article-IMKZ9RW6" class="abstract-article">
-    <h1>Abstract</h1>
-    There is an increasing interest in how to organize operations carried out by multiteam systems (MTS). Large MTS typically operate with a dedicated integration team, responsible for coordinating the operation. We report a study of a military multiteam system that prosecute time-sensitive targets. We asked whether and how the integration team’s efficiency depends on its communication setting. Specifically, we studied how a co-located vs. a distributed communications setting influenced the shared situation awareness and whether the shared situation awareness again influenced the outcome of the decision processes. We found that performance fell when the integration team shifted from a co-located to a distributed setting. The fall in performance seemed to be mediated by a corresponding fall in situation awareness. Moreover, while the performance improved for each run in the co-located setting, we did not see such learning in the distributed setting. Qualitative observations revealed that misunderstandings lasted longer in a distributed configuration than in a co-located setting. We found that situation awareness at level 3 was the only level of situation awareness significant for predicting all dimensions of performance. Implications for theory, research, and practice are discussed.
-  </article>
   <article id="contributors-article-IMKZ9RW6" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -67,7 +63,7 @@ Room 3Ø104
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

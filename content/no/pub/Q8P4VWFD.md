@@ -1,5 +1,5 @@
 ---
-title: "“Stuck in Their Skin”: Challenges of Identity Construction Among 50 Children with Mixed Heritage in Norway"
+title: "Q8P4VWFD"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,33 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Q8P4VWFD" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2042591" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Q8P4VWFD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-Q8P4VWFD" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Q8P4VWFD" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-Q8P4VWFD" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-Q8P4VWFD"></div>
 </article>
 <div id="csl-bib-meta-Q8P4VWFD" class="csl-bib-meta">
-  <article id="abstract-article-Q8P4VWFD" class="abstract-article">
-    <h1>Samandrag</h1>
-    This article, based in social anthropology, discusses challenges of ethnic identity construction among children and 
-youth of immigrant origin in Norway, particularly those of mixed race. Compared to the United States, Norway has a short 
-history of people of color immigrating. Since the Second World War, Norwegian official policy has underlined that “we are all 
-equal” and “have the same worth,” regardless of gender, sexuality, and skin color. A color-blind ideology has been an ideal. 
-Today, second- and third-generation immigrants speak Norwegian fluently and have good jobs in the public eye, including in 
-radio and TV, and thus are often publicly exposed, but are still classified as “foreigners” because of their appearance. The article 
-shows that the cultural schema/model of Norwegian identity includes white skin color only, which children of mixed race may 
-experience as particularly challenging. They have one foot in White identity and the other in a colored one, and they may feel 
-“White” on the inside but be labeled as “foreigner” (“Black”) by others. The article asks how children and young people of mixedrace 
-origins experience ethnic identity construction in light of the categories “Norwegian” and “foreigner” and how this is to be 
-understood. The overall conclusion is that mixed-race children and youth may experience being “stuck in their skin” more strongly 
-than those with two parents of immigrant origin, because they also identify with the parent of White ethnic Norwegian 
-identity. The article also concludes that Norway, as an “underdeveloped” country regarding racial reflexivity, needs more 
-research on how White privilege results in “making up people” through racial hierarchical categories, understood as resistance 
-strategies to White majority power and color-blind ideology.
-  </article>
   <article id="contributors-article-Q8P4VWFD" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -78,7 +59,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

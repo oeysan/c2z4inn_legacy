@@ -1,5 +1,5 @@
 ---
-title: "Diversity in local cultivars of Pisum sativum collected from home gardens in Sweden"
+title: "WY3DL5LM"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WY3DL5LM" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1523952" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WY3DL5LM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WY3DL5LM" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.bse.2015.09.004" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-WY3DL5LM"></div>
 </article>

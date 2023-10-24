@@ -1,5 +1,5 @@
 ---
-title: "Molecular interaction between mercury and selenium in neurotoxicity"
+title: "Z5BKGXQK"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,32 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Z5BKGXQK" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1468462" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Z5BKGXQK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-Z5BKGXQK" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.009" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-Z5BKGXQK"></div>
 </article>
 <div id="csl-bib-meta-Z5BKGXQK" class="csl-bib-meta">
-  <article id="abstract-article-Z5BKGXQK" class="abstract-article">
-    <h1>Abstract</h1>
-    Mercury (Hg) is an environmental toxicant being present in the environment as elemental Hg (Hg0), 
-inorganic and organic Hg compounds. The nervous system is supposed to be the key target for Hg toxicity. 
-Research indicates that selenium (Se) may be used as a protective agent against Hg neurotoxicity. 
-Therefore, the aim of this review is to examine new implications of the molecular biology of Hg 
-neurotoxicity, and specifically to focus on the influence of Se compounds and interfering thiols on 
-Hg neurotoxicity at the molecular level. Mercury and Se form stable coordination compounds, and Hg 
-species are characterized by higher affinity to selenol groups as compared to thiol groups. Therefore, 
-Se-containing molecules are targets for Hg binding that may at least partially mediate the biological 
-outcome of Hg-Se interaction. Molecular interaction between these elements also involves mutual 
-interaction between Hg and various selenoproteins. Experimental data demonstrate that Se treatment 
-modifies brain Hg retention, modulates neurotoxicity and oxidative stress in the nervous tissue of animals. 
-Human data also indicate that molecular interaction between Hg and Se may have a significant 
-influence on neurodevelopment, brain functioning, and neurodegeneration. It is hypothesized that the 
-effectiveness of Se protection against Hg neurotoxicity may be determined by the dose of elements as 
-well as their particular chemical forms. Further studies are required to estimate the intimate mechanisms 
-of Hg and Se interaction in vivo.
-  </article>
   <article id="taxonomy-article-Z5BKGXQK" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>

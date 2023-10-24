@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Production Beyond Local and National Blindspots: Remedying Professional Ocularcentrism of Diversity in Music Teacher Education"
+title: "KWW3ZUM5"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KWW3ZUM5" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1509417" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/KWW3ZUM5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://doi.org/10.22176/act16.3.78" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-KWW3ZUM5"></div>
 </article>

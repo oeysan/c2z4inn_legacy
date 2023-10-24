@@ -1,5 +1,5 @@
 ---
-title: "Bør Innlandet satse på vinterturistene som har vært her før eller forsøke å overtale de som tror Norge har et dyrt og dårlig vinterprodukt?"
+title: "Q5ERBQFJ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Q5ERBQFJ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1458672" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Q5ERBQFJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-Q5ERBQFJ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Q5ERBQFJ" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-Q5ERBQFJ"></div>
 </article>
 <div id="csl-bib-meta-Q5ERBQFJ" class="csl-bib-meta">
-  <article id="abstract-article-Q5ERBQFJ" class="abstract-article">
-    <h1>Samandrag</h1>
-    Det er mange og sterke røster med meninger om markedsføring av norske vinterprodukter til utenlandske turister. Selv om slike meninger tilsynelatende kan være basert på analyser av statistiske data, stilles sjelden de riktige spørsmålene og undersøkelsene bygger bare på markedsdata på makro- eller metanivå. Målet med denne artikkelen er å gi en bedre innsikt og forståelse av utenlandske turister som kommer tilbake til norske vinterdestinasjoner, og av deres kriterier for valg av reisemål. Mangelen på slik kunnskap har redusert markedsføringen til en generell profilering av Norge som destinasjon for snøbasert turisme, i stedet for en målgruppemarkedsføring rettet direkte mot gjenkjøpsturister, som utgjør den største og viktigste gruppen i dette segmentet. Til sammen 4000 tusen norske, svenske, danske og tyske respondenter har svart på spørsmål om deres syn på norske vinterdestinasjoner og kriterier for valg av reisemål for en vinterferie.
-  </article>
   <article id="contributors-article-Q5ERBQFJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

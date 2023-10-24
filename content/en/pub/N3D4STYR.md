@@ -1,5 +1,5 @@
 ---
-title: "Spenningsforhold mellom beskyttelse og medvirkning i forskning på familieråd"
+title: "N3D4STYR"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-N3D4STYR" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1861135" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/N3D4STYR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-N3D4STYR" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-N3D4STYR"></div>

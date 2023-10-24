@@ -1,5 +1,5 @@
 ---
-title: "A comparison of fragmenting lead-based and lead-free bullets for aerial shooting of wild pigs"
+title: "V4BTTHJ5"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-V4BTTHJ5" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1900998" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/V4BTTHJ5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-V4BTTHJ5" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-V4BTTHJ5" class="csl-bib-button">Contributors</a>
+    <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0247785&amp;type=printable" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-V4BTTHJ5"></div>
 </article>
 <div id="csl-bib-meta-V4BTTHJ5" class="csl-bib-meta">
-  <article id="abstract-article-V4BTTHJ5" class="abstract-article">
-    <h1>Abstract</h1>
-    In response to the health threats posed by toxic lead to humans, scavenging wildlife and the environment, there is currently a focus on transitioning from lead-based to lead-free bullets for shooting of wild animals. We compared efficiency metrics and terminal ballistic performance for lead-based and lead-free (non-lead) bullets for aerial shooting of wild pigs ( Sus scrofa ) in eastern Australia. Ballistic testing revealed that lead-based and lead-free bullets achieved similar performance in precision and muzzle kinetic energy (E 0 ) levels (3337.2 J and 3345.7 J, respectively). An aerial shooting trial was conducted with wild pigs shot with one type of lead-based and one type of lead-free bullets under identical conditions. Observations were made from 859 shooting events ( n = 430 and 429 respectively), with a sub-set of pigs examined via gross post-mortem ( n = 100 and 108 respectively), and a further sub-set examined via radiography ( n = 94 and 101 respectively). The mean number of bullets fired per pig killed did not differ greatly between lead-based and lead-free bullets respectively (4.09 vs 3.91), nor did the mean number of bullet wound tracts in each animal via post-mortem inspection (3.29 vs 2.98). However, radiography revealed a higher average number of fragments per animal (median &gt;300 vs median = 55) and a broader distribution of fragments with lead-based bullets. Our results suggest that lead-based and lead-free bullets are similarly effective for aerial shooting of wild pigs, but that the bullet types behave differently, with lead-based bullets displaying a higher degree of fragmentation. These results suggest that aerial shooting may be a particularly important contributor to scavenging wildlife being exposed to lead and that investigation of lead-free bullets for this use should continue.
-  </article>
   <article id="contributors-article-V4BTTHJ5" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

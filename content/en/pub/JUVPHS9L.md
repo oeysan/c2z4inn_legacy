@@ -1,5 +1,5 @@
 ---
-title: "The Inclusion of Sprints in Low-Intensity Sessions During the Transition Period of Elite Cyclists Improves Endurance Performance 6 Weeks Into the Subsequent Preparatory Period"
+title: "JUVPHS9L"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JUVPHS9L" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1929341" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JUVPHS9L" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JUVPHS9L" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JUVPHS9L" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1123/ijspp.2020-0594" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-JUVPHS9L"></div>
 </article>
 <div id="csl-bib-meta-JUVPHS9L" class="csl-bib-meta">
-  <article id="abstract-article-JUVPHS9L" class="abstract-article">
-    <h1>Abstract</h1>
-    Purpose : To investigate the effects of including repeated sprints in a weekly low-intensity (LIT) session during a 3-week transition period on cycling performance 6 weeks into the subsequent preparatory period (PREP) in elite cyclists. Methods : Eleven elite male cyclists (age = 22.0 [3.8] y, body mass = 73.0 [5.8] kg, height = 186 [7] cm, maximal oxygen uptake [VO 2 max] = 5469 [384] mL·min −1 ) reduced their training load by 64% and performed only LIT sessions (CON, n = 6) or included 3 sets of 3 × 30-second maximal sprints in a weekly LIT session (SPR, n = 5) during a 3-week transition period. There was no difference in the reduction in training load during the transition period between groups. Physiological and performance measures were compared between the end of the competitive period and 6 weeks into the PREP. Results : SPR demonstrated a 7.3% (7.2%) improvement in mean power output during a 20-minute all-out test at PREP, which was greater than CON (−1.3% [4.6%]) ( P  = .048). SPR had a corresponding 7.0% (3.6%) improvement in average VO 2 during the 20-minute all-out test, which was larger than the 0.7% (6.0%) change in CON ( P  = .042). No change in VO 2 max, gross efficiency, or power output at blood lactate concentration of 4 mmol·L −1 from competitive period to PREP occurred in either group. Conclusion : Including sprints in a weekly LIT session during the transition period of elite cyclists provided a performance advantage 6 weeks into the subsequent PREP, which coincided with a higher performance VO 2.
-  </article>
   <article id="contributors-article-JUVPHS9L" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

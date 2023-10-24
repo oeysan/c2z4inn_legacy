@@ -1,5 +1,5 @@
 ---
-title: "The real options to shutdown, startup, and abandon: U.S. electricity industry evidence"
+title: "7INRXYF5"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7INRXYF5" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1476072" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7INRXYF5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-7INRXYF5" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7INRXYF5" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-7INRXYF5" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.eneco.2017.01.016" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-7INRXYF5"></div>
 </article>
 <div id="csl-bib-meta-7INRXYF5" class="csl-bib-meta">
-  <article id="abstract-article-7INRXYF5" class="abstract-article">
-    <h1>Samandrag</h1>
-    The purpose of this paper is to examine empirically the partially irreversible decisions to shutdown, startup, and abandon existing production assets under cash flow uncertainty and regulatory uncertainty. We use detailed information for 1121 individual electric power generators located in the U.S. for the period 2001–2009 and find strong evidence of real options effects. We find that both profitability uncertainty and regulatory uncertainty decrease the probability of shutdown. Regulatory uncertainty also decreases the probability of startup, but we find that cash flow uncertainty increases the probability of startup, especially for large generators.
-  </article>
   <article id="contributors-article-7INRXYF5" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg7" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg07_no.png" class="image" alt="SDG 7">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>27</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=7#archive" class="sdg-publication-count"><span>27</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/ren-energi-til-alle?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "The independence and impartiality of adjudicators in commodities arbitration"
+title: "NV6JH4RS"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NV6JH4RS" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2172520" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NV6JH4RS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NV6JH4RS" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-NV6JH4RS"></div>

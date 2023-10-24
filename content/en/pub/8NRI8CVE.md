@@ -1,5 +1,5 @@
 ---
-title: "Military leadership and emotion regulation in acute situations that contain moral dilemmas"
+title: "8NRI8CVE"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8NRI8CVE" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1516112" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/8NRI8CVE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-8NRI8CVE" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-8NRI8CVE" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-8NRI8CVE" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1504/IJWOE.2017.089293" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-8NRI8CVE"></div>
 </article>
 <div id="csl-bib-meta-8NRI8CVE" class="csl-bib-meta">
-  <article id="abstract-article-8NRI8CVE" class="abstract-article">
-    <h1>Abstract</h1>
-    To be a military leader in an irregular warfare context puts great psychological demands on officers and soldiers. The aim of this study was to gain a deeper understanding of individual emotion-focused coping strategies and institutionalized norms as regards emotion regulation in a short- and long-term perspective in relation to acute stressful situations that contain moral dilemmas.	In total, there were 15 participants at different hierarchical levels in the Swedish Armed Forces (SAF), 13 men and two women, all having experience of morally difficult decisions during stressful situations. The informants positions varied from cadet to colonel and their ages from approximately 20 to 60 years of age. Data have been analyzed according to a grounded theory-approach. Several individual emotion regulation strategies and organizational norms for emotional expressiveness were identified. These were integrated into a theoretical model. The study contributes by explicating a context-specific emotion culture that gives limited space for emotional expression as it is necessary to remain firm and cold, to be "professional" in acute situations that include moral dilemmas. Leaders must be able to minimize emotional displays in order to contribute to operational efficiency (termed emotional containing capacity). Potential conflicts between a well-developed emotional containing capacity in acute situations and long-term adaptation to organizational norms in daily life after missions and practical implications are discussed
-  </article>
   <article id="contributors-article-8NRI8CVE" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -57,7 +53,7 @@ Campus Elverum
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

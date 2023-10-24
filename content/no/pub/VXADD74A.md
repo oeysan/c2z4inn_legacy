@@ -14,6 +14,7 @@ type: pub
     <a href="#abstract-article-VXADD74A" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-VXADD74A" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-VXADD74A" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://academic.oup.com/ptj/advance-article-pdf/doi/10.1093/ptj/pzad014/49170792/pzad014.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VXADD74A"></div>
 </article>
@@ -114,7 +115,7 @@ Rom 4L3233
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Nynorsk and the L2 Self"
+title: "ZPHPNAPV"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZPHPNAPV" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1885015" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ZPHPNAPV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ZPHPNAPV" class="csl-bib-button">Medverkande</a>
+    <a href="https://czasopisma.bg.ug.edu.pl/index.php/beyond/article/download/5525/4840" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ZPHPNAPV"></div>
 </article>

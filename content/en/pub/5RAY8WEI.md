@@ -13,6 +13,7 @@ type: pub
     <a href="http://zotero.org/groups/5022929/items/5RAY8WEI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-5RAY8WEI" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-5RAY8WEI" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/00846724221150027" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-5RAY8WEI"></div>
 </article>
@@ -65,6 +66,8 @@ Room 4L3202
     <h1>Archive</h1>
     <ul>
       <li>Inland Norway University of Applied Sciences</li>
+      <li>Faculty of Social and Health Sciences</li>
+      <li>Department of Public Health and Sport Sciences</li>
       <li>2023</li>
       <li>September</li>
     </ul>

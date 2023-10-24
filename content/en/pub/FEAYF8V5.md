@@ -1,5 +1,5 @@
 ---
-title: "Pretreatment and Bioconversion for Valorization of Residues of Non-Edible Oilseeds"
+title: "FEAYF8V5"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FEAYF8V5" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2179598" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/FEAYF8V5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-FEAYF8V5" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FEAYF8V5" class="csl-bib-button">Contributors</a>
+    <a href="https://www.mdpi.com/2073-4395/13/9/2196/pdf?version=1692712423" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-FEAYF8V5"></div>
 </article>
 <div id="csl-bib-meta-FEAYF8V5" class="csl-bib-meta">
-  <article id="abstract-article-FEAYF8V5" class="abstract-article">
-    <h1>Abstract</h1>
-    Biodiesel production currently follows a first-generation model using edible oils as raw materials. Such a production model is unsustainable, considering that it is limited by the high cost of edible oils, competes with the food sector, and is linked to deforestation and other environmental threats. Changing the raw material base to non-edible oils provides an opportunity to increase the sustainability of the biodiesel industry and to avoid conflicts with food production. Processing non-edible oilseeds for extracting the oil to be used for producing biodiesel generates large amounts of residues, such as de-oiled cakes, seed husks, and fruit shells and pods as well as plant stems and leaves resulting from pruning and other agronomy practices. Most of those residues are currently disposed of by burning or used in a suboptimal way. Bioconversion following the sugar platform route, anaerobic digestion, or enzyme production provides means for upgrading them to advanced biofuels and high-added value products. Bioconversion of plant biomass, including oilseed residues, requires pretreatment to enhance their susceptibility to enzymes and microorganisms. This review provides an outlook on bioconversion approaches applicable to different residues of oilseed-bearing plant species. Recent reports on the pretreatment of non-edible oilseed residues for enhancing their bioconversion through either the sugar platform route or anaerobic digestion are critically discussed. This review is based on an exhaustive Web of Science search performed in January–May 2023.
-  </article>
   <article id="contributors-article-FEAYF8V5" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

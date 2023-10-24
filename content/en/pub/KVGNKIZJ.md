@@ -1,5 +1,5 @@
 ---
-title: "A Learnable Model With Calibrated Uncertainty Quantification for Estimating Canopy Height From Spaceborne Sequential Imagery"
+title: "KVGNKIZJ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KVGNKIZJ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2050350" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/KVGNKIZJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KVGNKIZJ" class="csl-bib-button">Contributors</a>
+    <a href="https://ieeexplore.ieee.org/ielx7/36/4358825/09768161.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-KVGNKIZJ"></div>
 </article>

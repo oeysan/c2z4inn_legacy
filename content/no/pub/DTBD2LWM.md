@@ -1,5 +1,5 @@
 ---
-title: "« Je ne veux pas détruire la société norvégienne en introduisant le français. » Le français mis en récits par des migrants congolais en Norvège:"
+title: "DTBD2LWM"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DTBD2LWM" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1702128" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/DTBD2LWM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-DTBD2LWM" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.duo.uio.no/bitstream/10852/74314/1/Steien%2bLangue%2bFancaise.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-DTBD2LWM"></div>
 </article>

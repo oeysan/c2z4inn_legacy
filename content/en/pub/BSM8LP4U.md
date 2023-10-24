@@ -1,5 +1,5 @@
 ---
-title: "Organizational communication and technology in the time of coronavirus: ethnographies from the first year of the pandemic"
+title: "BSM8LP4U"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BSM8LP4U" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2054288" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BSM8LP4U" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BSM8LP4U" class="csl-bib-button">Contributors</a>
+    <a href="https://link.springer.com/content/pdf/bfm:978-3-030-94814-6/1?pdf=chapter%20toc" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-BSM8LP4U"></div>
 </article>

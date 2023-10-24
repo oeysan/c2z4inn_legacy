@@ -1,5 +1,5 @@
 ---
-title: "The range of the mange: Spatiotemporal patterns of sarcoptic mange in red foxes (Vulpes vulpes) as revealed by camera trapping"
+title: "ENTGZ8JB"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,34 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ENTGZ8JB" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1465679" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ENTGZ8JB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ENTGZ8JB" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ENTGZ8JB" class="csl-bib-button">Contributors</a>
+    <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0176200&amp;type=printable" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ENTGZ8JB"></div>
 </article>
 <div id="csl-bib-meta-ENTGZ8JB" class="csl-bib-meta">
-  <article id="abstract-article-ENTGZ8JB" class="abstract-article">
-    <h1>Abstract</h1>
-    Sarcoptic mange is a widely distributed disease that affects numerous mammalian species. 
-We used camera traps to investigate the apparent prevalence and spatiotemporal dynamics 
-of sarcoptic mange in a red fox population in southeastern Norway. We monitored red foxes 
-for five years using 305 camera traps distributed across an 18000 km2 area. A total of 6581 
-fox events were examined to visually identify mange compatible lesions. We investigated 
-factors associated with the occurrence of mange by using logistic models within a Bayesian 
-framework, whereas the spatiotemporal dynamics of the disease were analysed with spacetime 
-scan statistics. The apparent prevalence of the disease fluctuated over the study period 
-with a mean of 3.15% and credible interval [1.25, 6.37], and our best logistic model explaining 
-the presence of red foxes with mange-compatible lesions included time since the beginning 
-of the study and the interaction between distance to settlement and season as 
-explanatory variables. The scan analyses detected several potential clusters of the disease 
-that varied in persistence and size, and the locations in the cluster with the highest probability 
-were closer to human settlements than the other survey locations. Our results indicate 
-that red foxes in an advanced stage of the disease are most likely found closer to human settlements 
-during periods of low wild prey availability (winter). We discuss different potential causes. Furthermore, the disease appears to follow a pattern of small localized outbreaks 
-rather than sporadic isolated events.
-  </article>
   <article id="contributors-article-ENTGZ8JB" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

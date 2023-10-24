@@ -1,5 +1,5 @@
 ---
-title: "Sosiale entreprenørers samarbeid med norske kommuner om å løse sosiale problemer"
+title: "Z4PRQILS"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Z4PRQILS" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2121706" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Z4PRQILS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-Z4PRQILS" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Z4PRQILS" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-Z4PRQILS" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-Z4PRQILS"></div>
 </article>
 <div id="csl-bib-meta-Z4PRQILS" class="csl-bib-meta">
-  <article id="abstract-article-Z4PRQILS" class="abstract-article">
-    <h1>Samandrag</h1>
-    Det er et uttalt politisk ønske at norske kommuner skal samarbeide med sosiale entreprenører slik at ressursene i velferdssamfunnet utnyttes bedre. Det har vist seg langt enklere å ønske slike samarbeid enn å få det til i praksis. Artikkelen bygger på en empirisk dybdestudie. Den utforsker hvilke tankemønstre som er i spill når kommunale aktører og sosiale entreprenører forsøker å samarbeide om nye velferdstiltak for barn og unge. Teoretisk omdreiningspunkt er samarbeidsdrevet innovasjon. Analysen viser at ulike tankemønstre ble fremhevet som positivt for nytenkning, men også som hovedårsak til at samarbeidene stoppet etter pilotering. Et viktig funn er at ulike tankemønstre kombinert med ulike institusjonelle rammebetingelser gjør det vanskelig å bli enige om nye velferdsløsninger. Artikkelen drøfter hvorvidt ulike tankemønstre og institusjonelle rammebetingelser kan forenes for å realisere samarbeidsdrevet innovasjon.
-  </article>
   <article id="contributors-article-Z4PRQILS" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +56,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Mogul og mesén: Filmprodusenten Egil Monn-Iversen"
+title: "H8HZXX5F"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-H8HZXX5F" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1461463" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/H8HZXX5F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-H8HZXX5F" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.idunn.no/file/pdf/66945378/mogul_og_mesn_filmprodusenten_egil_monn-iversen.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-H8HZXX5F"></div>
 </article>

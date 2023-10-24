@@ -1,5 +1,5 @@
 ---
-title: "Virtual Management During COVID-19: The Need for Context and Competence Development for Virtual Managers Because of the Pandemic"
+title: "8QX5FL9J"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8QX5FL9J" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2137066" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/8QX5FL9J" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-8QX5FL9J" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-8QX5FL9J" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-8QX5FL9J" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4018/978-1-7998-9840-5.ch009" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-8QX5FL9J"></div>
 </article>
 <div id="csl-bib-meta-8QX5FL9J" class="csl-bib-meta">
-  <article id="abstract-article-8QX5FL9J" class="abstract-article">
-    <h1>Samandrag</h1>
-    Before the pandemic, research on management at a distance, here called virtual management, was characterized by a “best practice approach” where there was little differentiation dependent on context. COVID-19 has meant that employees with insufficient competence and in unsuitable jobs must work remotely. A more context- or situation-oriented perspective on virtual management is therefore needed. The authors identify new characteristics of virtual management during the pandemic and identify relevant context factors. Another point marginally discussed in previous research is what kind of competence-developments leaders need post COVID-19. The research questions are answered through a qualitative study with semi-structured interviews of experts, such as consultants in new ways of working, together with interviews of experienced practitioners.
-  </article>
   <article id="contributors-article-8QX5FL9J" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Managing macropods without poisoning ecosystems"
+title: "ZAWZ2XFV"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZAWZ2XFV" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2042388" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ZAWZ2XFV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ZAWZ2XFV" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ZAWZ2XFV" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-ZAWZ2XFV" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://repository.up.ac.za/bitstream/2263/91101/1/Hampton_Managing_2022.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ZAWZ2XFV"></div>
 </article>
 <div id="csl-bib-meta-ZAWZ2XFV" class="csl-bib-meta">
-  <article id="abstract-article-ZAWZ2XFV" class="abstract-article">
-    <h1>Abstract</h1>
-    SummaryA recent review of the management of hyperabundant macropods in Australia proposed that expanded professional shooting is likely to lead to better biodiversity and animal welfare outcomes. While the tenets of this general argument are sound, it overlooks one important issue for biodiversity and animal health and welfare: reliance on toxic lead‐based ammunition. Lead poisoning poses a major threat to Australia's wildlife scavengers. Current proposals to expand professional macropod shooting would see tonnes of an extremely toxic and persistent heavy metal continue to be introduced into Australian environments. This contrasts with trends in many other countries, where lead ammunition is, through legislation or voluntary programs, being phased out. Fortunately, there are alternatives to lead ammunition that could be investigated and adopted for improved macropod management. A transition to lead‐free ammunition would allow the broad environmental and animal welfare goals desired from macropod management to be pursued without secondarily and unintentionally poisoning scavengers. Through this article, we hope to increase awareness of this issue and encourage discussion of this potential change.
-  </article>
   <article id="contributors-article-ZAWZ2XFV" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Campus Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

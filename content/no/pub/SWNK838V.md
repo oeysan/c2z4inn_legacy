@@ -1,5 +1,5 @@
 ---
-title: "Discrepancies in parents’ and adolescents’ reports on parent-adolescent communication and associations to adolescents’ psychological health"
+title: "SWNK838V"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SWNK838V" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2000182" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SWNK838V" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-SWNK838V" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SWNK838V" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-SWNK838V" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s12144-020-00911-0.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-SWNK838V"></div>
 </article>
 <div id="csl-bib-meta-SWNK838V" class="csl-bib-meta">
-  <article id="abstract-article-SWNK838V" class="abstract-article">
-    <h1>Samandrag</h1>
-    Parental knowledge of adolescents’ whereabouts is central for healthy adolescent development. However, parents and their adolescent children often perceive parenting practices differently. Using data from matching parent and adolescent dyads ( n  = 477) from the longitudinal research program LoRDIA, we investigated in what way disagreement between parents’ and adolescents’ reports on parental knowledge, solicitation and behavioral control and adolescent disclosure, is longitudinally related to girls’ and boys’ psychological problems (internalizing and externalizing) and well-being. The adolescents’ mean age was 13.0 years ( SD  = .56) at T1 and 14.30 years ( SD  = .61) at T2, evenly distributed between boys (52.6%) and (47.4%) girls at baseline. The discrepancy scores were calculated by subtracting the adolescent’s scores from the parent’s scores. Parent-adolescent discrepancies had somewhat different patterns of associations with boys’ and girls’ psychological problems and well-being. Parental knowledge discrepancy was related to higher levels of girls’ externalizing problems while parental solicitation discrepancy was related to higher levels of boys’ externalizing problems and lower levels of girls’ wellbeing. Adolescent disclosure discrepancy was related to higher levels of girls’ internalizing problems and lower levels of well-being. Negative concurrent associations were shown between parental control discrepancy and adolescents’ internalizing problems. Parents’ overestimating the level of parent-adolescent communication, including adolescent disclosure, and parental solicitation in particular, is disadvantageous for adolescent psychological health.
-  </article>
   <article id="contributors-article-SWNK838V" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -65,13 +61,13 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Flipped Gaming: The Teachers Role When Using the Students as Content Providers"
+title: "KHEGUZ2D"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KHEGUZ2D" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1502664" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/KHEGUZ2D" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-KHEGUZ2D" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KHEGUZ2D" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-KHEGUZ2D"></div>
 </article>
 <div id="csl-bib-meta-KHEGUZ2D" class="csl-bib-meta">
-  <article id="abstract-article-KHEGUZ2D" class="abstract-article">
-    <h1>Abstract</h1>
-    In order to activate students and make them active contributors in a class, the concept of “Flipped Classroom” has been used at several Universities, also at The Inland University of Applied Sciences Norway. Flipping the classroom and making the students contribute, and being active, has supported the students learning outcome. Generally, when using games for learning, the game scenario is either decided by the lecturer/teacher, or defined by the designers and/or producers of the game used. In this paper we will explore how the teachers/lecturers role changes when the scenarios to be played in the game environment are defined and developed by the students themselves. The methodological approach is mainly qualitative and the data are observations from gaming sessions, minutes from review processes and interviews with faculty staff responsible for the course. The paper will present how the lecturer/teacher changes role from being the center of attention and the provider of knowledge, to a facilitator that both empowe the students and enables the students to contribute towards developing increased understanding and enhanced learning outcome. By enabling the students to contribute in such a way, the support towards the reflection processes described by Donald Schön in his work “The reflective practitioner” from 1991, is being supported in all stages. The reflection before action is when they discuss and agree on scenario, they need to reflect in action upon action, and they need to reflect on action when finished gaming. These reflection processes need to be facilitated in order to support the learning process and when flipping the gaming, this is one of the roles of the facilitator; the lecturer/teacher. The paper will present a project called “Seed corn 2017 – Pedagogical Use of Games in Crisis Management Education”, using a course at The Inland Norway University of Applied Sciences, Campus Rena, Norway, and the results from the Research.
-  </article>
   <article id="contributors-article-KHEGUZ2D" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

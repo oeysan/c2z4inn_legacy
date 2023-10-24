@@ -1,5 +1,5 @@
 ---
-title: "“Hanging on for the Bees: Teaching with Sylvia Plath’s Bee Poems.”"
+title: "Q43HCQ5L"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Q43HCQ5L" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2047535" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Q43HCQ5L" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Q43HCQ5L" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-Q43HCQ5L"></div>

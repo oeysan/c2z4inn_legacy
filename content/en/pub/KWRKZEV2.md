@@ -1,5 +1,5 @@
 ---
-title: "Case Report: Effects of Multiple Seasons of Heavy Strength Training on Muscle Strength and Cycling Sprint Power in Elite Cyclists"
+title: "KWRKZEV2"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KWRKZEV2" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2050290" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/KWRKZEV2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-KWRKZEV2" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KWRKZEV2" class="csl-bib-button">Contributors</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fspor.2022.860685/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-KWRKZEV2"></div>
 </article>
 <div id="csl-bib-meta-KWRKZEV2" class="csl-bib-meta">
-  <article id="abstract-article-KWRKZEV2" class="abstract-article">
-    <h1>Abstract</h1>
-    Sprint performance is critical for endurance performance in sports characterized by multiple accelerations like a cross-country Olympic mountain bike (XCO MTB) race. There are indications that 10–25 weeks of heavy strength training (HST) can improve cycling sprint power in cyclists. However, there is a lack of data on the effect of continuing HST across several seasons. In the first part of this case report, two elite cyclists performed HST across two preparatory periods (i.e., 1.5 years), while two others continued with endurance training only. HST induced a mean increase in leg press force and cycling sprint power of 16% after the first preparatory period (November to April), which was maintained during the competition period. After the next preparatory period a further increase from the first test was achieved (22 and 19%, respectively). The two cyclists with no HST had no changes in leg press force and cycling sprint power. The second part contains data from two of the cyclists from the first part. One of them continued with HST for 2 more years and achieved a continuous increase in leg press force during all four preparatory periods, ending up with a total increase of 44% after 3.5 years, while the development of cycling sprint power had more variation with an apparent plateau from the third to fourth preparatory periods, ending up with an improvement of 25%. The other cyclist did not perform HST in the first part but started with HST and performed this across the last two preparatory periods. After two preparatory periods with HST (i.e., 1.5 years), the increased leg press force and cycling sprint power were 24 and 22%, respectively, which was in the same range as the improvement observed after 1.5 years of HST in the first part of this case report. The present data extend previous short-term studies indicating that HST can give reasonable muscle strength improvements in elite cyclists across multiple preparatory periods. Furthermore, the present data indicate that HST adaptations can be maintained across multiple competition periods. Cycling sprint power seems to approximately follow the development of leg press performance.
-  </article>
   <article id="contributors-article-KWRKZEV2" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "The African Storybook and Storybooks Canada: Digital Stories for Linguistically Diverse Children"
+title: "9PETIJN4"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9PETIJN4" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1528067" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/9PETIJN4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-9PETIJN4" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9PETIJN4" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-9PETIJN4" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://journals.library.ualberta.ca/langandlit/index.php/langandlit/article/download/29413/21450" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-9PETIJN4"></div>
 </article>
 <div id="csl-bib-meta-9PETIJN4" class="csl-bib-meta">
-  <article id="abstract-article-9PETIJN4" class="abstract-article">
-    <h1>Abstract</h1>
-    Storybooks Canada (storybookscanada.ca) makes multilingual audiovisual stories available in multiple languages to promote language and literacy development. Building on a long tradition of freely available, open educational resources, Storybooks Canada provides online, multimodal, mobile- and teacher-friendly access to 40 African stories in 21 of the most commonly spoken languages in Canada (including English and French)—making it possible to support and encourage the multilingualism of heritage language, immigrant, and refugee students. In doing so, the project demonstrates the potential for working against the normalized North-South directionality of knowledge flows to develop a more equitable ecosystem for the mobilization of knowledge.
-  </article>
   <article id="contributors-article-9PETIJN4" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Room 2M34-2
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

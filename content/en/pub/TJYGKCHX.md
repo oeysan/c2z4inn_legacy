@@ -1,5 +1,5 @@
 ---
-title: "Heart rate sensor validation and seasonal and diurnal variation of body temperature and heart rate in domestic sheep"
+title: "TJYGKCHX"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TJYGKCHX" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1756268" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TJYGKCHX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TJYGKCHX" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1016/j.vas.2019.100075" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TJYGKCHX"></div>
 </article>

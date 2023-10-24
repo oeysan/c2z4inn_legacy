@@ -1,5 +1,5 @@
 ---
-title: "Television from the periphery  – Slow television and national identity in Norway"
+title: "EPAU9WK7"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EPAU9WK7" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2132096" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/EPAU9WK7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-EPAU9WK7" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EPAU9WK7" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-EPAU9WK7" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1515/commun-2022-0003" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-EPAU9WK7"></div>
 </article>
 <div id="csl-bib-meta-EPAU9WK7" class="csl-bib-meta">
-  <article id="abstract-article-EPAU9WK7" class="abstract-article">
-    <h1>Samandrag</h1>
-    Since 2009, the Norwegian public service broadcaster NRK has produced a number of slow TV shows. Some of the programmes have had a surprisingly big success in terms of public engagement and audience share even though the majority of the audience was from the oldest age groups. These programmes are not only slow, lasting a long time and lacking dramatic development and progress, they also engage in a particular, traditional version of national identity. The current article argues that, through slow TV, the Norwegian public service broadcaster has found a new way to reflect a particular version of Norwegian identity and to tap into the central values of Norwegian culture. Taken together, the shows cover all regions of the country—the coastal areas as well the inlands and mountains. In terms of representation, the programmes highlight nature and traditional Norwegian values such as closeness to nature, rural life, and “friluftsliv” (living the outdoor life). Urban areas and the non-white population are conspicuously absent.
-  </article>
   <article id="contributors-article-EPAU9WK7" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg11" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg11_no.png" class="image" alt="SDG 11">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>23</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=11#archive" class="sdg-publication-count"><span>23</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/baerekraftige-byer-og-lokalsamfunn?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

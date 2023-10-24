@@ -1,5 +1,5 @@
 ---
-title: "Enzymatic saccharification of lignocellulosic biomass"
+title: "NRBD68UH"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NRBD68UH" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2179737" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NRBD68UH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NRBD68UH" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-NRBD68UH"></div>

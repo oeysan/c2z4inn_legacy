@@ -1,5 +1,5 @@
 ---
-title: "Professional Values Challenged by Case Management—Theorizing Practice in Child Protection with Reflexive Practitioners"
+title: "LQFZFF8S"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LQFZFF8S" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1818112" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LQFZFF8S" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-LQFZFF8S" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LQFZFF8S" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-LQFZFF8S" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2076-0760/9/4/44/pdf?version=1587044517" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LQFZFF8S"></div>
 </article>
 <div id="csl-bib-meta-LQFZFF8S" class="csl-bib-meta">
-  <article id="abstract-article-LQFZFF8S" class="abstract-article">
-    <h1>Samandrag</h1>
-    In this article, we theorize and reflect based on former research into professional practice and discretion as well as use some results from working together with practitioners in child protection services to explore the phenomenon of non-performing. Regulation lies at the heart of the contemporary child protection discourse. On the one hand we have seen a trend towards systematization of assessment content and procedures, on the other hand it is assumed that rational management approaches can secure consistency of performance. Social workers may be weary of the constraints all this imposes, but seem generally content to comply. Our reasoning was that social workers in child protection should be helped to get to grips with modifications to practice so that multi-challenged families could be accorded priority. These changes would include a reframing of assessment to take account of family needs as well as the needs of children. Follow-up would also require much more attention. Additionally, the choice of help provided for children and families would have to come into better focus, despite the limitations often experienced in practice. The question we asked was whether these types of reframing could be fostered within local child welfare units. We conducted a field trial in which child protection units were encouraged to reframe their practices, with the support of an expert group. The idea was to enhance and enable innovation through the combination of a more thorough dialogue with the families involved, as well as critical reflection based on available knowledge related to the identified challenges. We do a critical discussion of the work and the results from this in order to enhance knowledge on innovation in child protection.
-  </article>
   <article id="contributors-article-LQFZFF8S" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,13 +57,13 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>64</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

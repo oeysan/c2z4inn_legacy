@@ -1,5 +1,5 @@
 ---
-title: "Post-release Movement Behaviour and Survival of Kulan Reintroduced to the Steppes and Deserts of Central Kazakhstan"
+title: "AVID68DZ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AVID68DZ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1931213" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/AVID68DZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-AVID68DZ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AVID68DZ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-AVID68DZ" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fcosc.2021.703358/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-AVID68DZ"></div>
 </article>
 <div id="csl-bib-meta-AVID68DZ" class="csl-bib-meta">
-  <article id="abstract-article-AVID68DZ" class="abstract-article">
-    <h1>Abstract</h1>
-    Asiatic wild ass, or kulan (Equus hemionus kulan) were once a key species of the Eurasian steppes and deserts. In Kazakhstan they went extinct by the 1930s. Early reintroductions have reestablished the species in two protected areas, but the species has reclaimed &lt;1% of their former range and remained absent from central Kazakhstan. To initiate restoration in this vast region, we captured and transported a first group of nine wild kulan to a large pre-release enclosure in the Torgai region in 2017, and two more in 2019. We used direct observations and post-release movement data of four kulan equipped with GPS-Iridium collars to document their adaptation process in a vast novel habitat without conspecifics. For comparison with movements in the source populations, we additionally equipped two kulan in Altyn Emel National Park and six in Barsa Kelmes State Nature Reserve. The nine transported kulan formed a cohesive group with very high movement correlation in the enclosure. After release, the group initially stayed tightly together but started to break up by mid-May and all kulan travelled independently by mid-August. With 48,680–136,953 km2, the 95% Autocorrelated Kernel Density Estimation ranges of the reintroduced kulan were huge and about 10–100 times larger than those in the source populations. The reintroduced mares never reconnected, there was no evidence of successful reproduction, and two of the four collared mares were killed by poachers and one died of natural causes. At least one stallion survived in the wild, but the fate of the other uncollared animals remains unclear. We speculate that the fission-fusion dynamics and low movement correlation of kulan societies and the need for migratory movements harbours the risk that animals released into a novel environment loose contact with each other. This risk is likely enhanced in steppe habitats where movement constraining factors are absent. Further kulan reintroductions to the steppes and deserts of central Kazakhstan should aim to release larger groups and build up the free-ranging population quickly to reach a critical mass, increasing the chance of kulan encountering conspecifics to successfully breed and increase their chances of survival.
-  </article>
   <article id="contributors-article-AVID68DZ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -87,7 +83,7 @@ Campus Evenstad
     <div class="sdg-container"><div id="sdg14" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg14_en.png" class="image" alt="SDG 14">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>41</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=14#archive" class="sdg-publication-count"><span>42</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal14" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

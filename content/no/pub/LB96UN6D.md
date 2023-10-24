@@ -1,5 +1,5 @@
 ---
-title: "Assessing Hybrid Solar-Wind Potential for Industrial Decarbonization Strategies: Global Shift to Green Development"
+title: "LB96UN6D"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LB96UN6D" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2096676" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LB96UN6D" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-LB96UN6D" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LB96UN6D" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-LB96UN6D" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/1996-1073/14/22/7620/pdf?version=1636975694" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LB96UN6D"></div>
 </article>
 <div id="csl-bib-meta-LB96UN6D" class="csl-bib-meta">
-  <article id="abstract-article-LB96UN6D" class="abstract-article">
-    <h1>Samandrag</h1>
-    The global energy mix is shifting from fossil fuels to combinations of multiple energy storage and generation types. Hybrid energy system advancements provide opportunities for developing and deploying innovative green technology solutions that can further reduce emissions and achieve net-zero emissions by 2050. This study examined the impact of an increasing share of wind and solar electricity production on reducing carbon intensity by controlling coal and lignite domestic consumption and the production of refined oil products in a world aggregated data panel. Data covering the last three decades were used for the analysis by the ARDL bounds testing approach. The results showed that an increasing share of wind and solar electricity production would be helpful to decrease carbon intensity in the short and long term. On the other hand, a 1% increase in coal and domestic lignite consumption increased carbon intensity by 0.343% in the short run and 0.174% in the long run. The production of refined oil products decreases carbon intensity by 0.510% in the short run and 0.700% in the long run. However, refining oil products is associated with positive and negative environmental externalities. The positive aspect depends upon the removal of harmful pollutants and the production of cleaner-burning fuels, while the negative part is related to the operational side of refineries and processing plants that may release contaminants into the atmosphere, affecting global air and water quality. Hence, it is crucial to improve processing and refining capacity to produce better-refined oil products by using renewable fuels in energy production. It is proposed that these are the most cost-effective pathways to achieve industrial decarbonization.
-  </article>
   <article id="contributors-article-LB96UN6D" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Studiested Kongsvinger
     <div class="sdg-container"><div id="sdg7" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg07_no.png" class="image" alt="SDG 7">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>27</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=7#archive" class="sdg-publication-count"><span>27</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/ren-energi-til-alle?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

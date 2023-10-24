@@ -1,5 +1,5 @@
 ---
-title: "Wolf Responses to Experimental Human Approaches Using High-Resolution Positioning Data"
+title: "3N2ZW8NH"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3N2ZW8NH" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2023552" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3N2ZW8NH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-3N2ZW8NH" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3N2ZW8NH" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fevo.2022.792916/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3N2ZW8NH"></div>
 </article>
 <div id="csl-bib-meta-3N2ZW8NH" class="csl-bib-meta">
-  <article id="abstract-article-3N2ZW8NH" class="abstract-article">
-    <h1>Samandrag</h1>
-    Humans pose a major mortality risk to wolves. Hence, similar to how prey respond to predators, wolves can be expected to show anti-predator responses to humans. When exposed to a threat, animals may show a fight, flight, freeze or hide response. The type of response and the circumstances (e.g., distance and speed) at which the animal flees are useful parameters to describe the responses of wild animals to approaching humans. Increasing knowledge about behavioral responses of wolves toward humans might improve appropriate management and decrease conflicts related to fear of wolves. We did a pilot study by conducting 21 approach trials on seven GPS-collared wolves in four territories to investigate their responses to experimental human approaches. We found that wolves predominantly showed a flight response ( N = 18), in a few cases the wolf did not flee ( N = 3), but no wolves were seen or heard during trials. When wolves were downwind of the observer the flight initiation distance was significantly larger than when upwind, consistent with the hypothesis that conditions facilitating early detection would result in an earlier flight. Our hypothesis that early detection would result in less intense flights was not supported, as we found no correlation between flight initiation distances and speed, distance or straightness of the flight. Wolves in more concealed habitat had a shorter flight initiation distance or did not flee at all, suggesting that perceived risk might have been affected by horizontal visibility. Contrary to our expectation, resettling positions were less concealed (larger horizontal visibility) than the wolves’ initial site. Although our small number of study animals and trials does not allow for generalizations, this pilot study illustrates how standardized human approach trials with high-resolution GPS-data can be used to describe wolf responses at a local scale. In continuation, this method can be applied at larger spatial scales to compare wolf flight responses within and between populations and across anthropogenic gradients, thus increasing the knowledge of wolf behavior toward humans, and potentially improving coexistence with wolves across their range.
-  </article>
   <article id="contributors-article-3N2ZW8NH" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

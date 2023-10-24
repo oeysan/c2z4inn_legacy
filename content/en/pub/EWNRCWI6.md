@@ -1,5 +1,5 @@
 ---
-title: "«SIM spedbarnevern og foreldrestøtte»: Simulering av tverrfaglig samarbeid i verdiladde og sårbare situasjoner"
+title: "EWNRCWI6"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EWNRCWI6" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1846456" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/EWNRCWI6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://press.nordicopenaccess.no/index.php/noasp/catalog/view/103/498/3790-1" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-EWNRCWI6"></div>
 </article>

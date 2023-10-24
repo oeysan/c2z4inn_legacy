@@ -1,5 +1,5 @@
 ---
-title: "Heavy strength training improves running and cycling performance following prolonged submaximal work in well-trained female athletes"
+title: "6J6UMJTU"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6J6UMJTU" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1477122" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/6J6UMJTU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-6J6UMJTU" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-6J6UMJTU" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.14814/phy2.13149" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-6J6UMJTU"></div>
 </article>
 <div id="csl-bib-meta-6J6UMJTU" class="csl-bib-meta">
-  <article id="abstract-article-6J6UMJTU" class="abstract-article">
-    <h1>Abstract</h1>
-    The purpose of this study was to investigate the effects of adding heavy strength training to female duathletes' normal endurance training on both cycling and running performance. Nineteen well‐trained female duathletes (VO2max cycling: 54 ± 3 ml∙kg−1∙min−1, VO2max running: 53 ± 3 ml∙kg−1∙min−1) were randomly assigned to either normal endurance training (E, n = 8) or normal endurance training combined with strength training (E+S, n = 11). The strength training consisted of four lower body exercises [3 × 4‐10 repetition maximum (RM)] twice a week for 11 weeks. Running and cycling performance were assessed using 5‐min all‐out tests, performed immediately after prolonged periods of submaximal work (3 h cycling or 1.5 h running). E+S increased 1RM in half squat (45 ± 22%) and lean mass in the legs (3.1 ± 4.0%) more than E. Performance during the 5‐min all‐out test increased in both cycling (7.0 ± 4.5%) and running (4.7 ± 6.0%) in E+S, whereas no changes occurred in E. The changes in running performance were different between groups. E+S reduced oxygen consumption and heart rate during the final 2 h of prolonged cycling, whereas no changes occurred in E. No changes occurred during the prolonged running in any group. Adding strength training to normal endurance training in well‐trained female duathletes improved both running and cycling performance when tested immediately after prolonged submaximal work.
-  </article>
   <article id="contributors-article-6J6UMJTU" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

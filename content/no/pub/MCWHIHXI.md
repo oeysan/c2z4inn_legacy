@@ -1,5 +1,5 @@
 ---
-title: "Dining with Michel Serres: physical education and an ethics of the parasite"
+title: "MCWHIHXI"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MCWHIHXI" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2172484" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/MCWHIHXI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/13573322.2023.2235612?needAccess=true&amp;role=button" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-MCWHIHXI"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "Under What Conditions Do Rural Schools Learn From their Partners?: Exploring the Dynamics of Educational Infrastructure and Absorptive Capacity in Inter-Organisational Learning Leadership"
+title: "3D2PN6JN"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3D2PN6JN" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1763877" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3D2PN6JN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-3D2PN6JN" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3D2PN6JN" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-3D2PN6JN" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://journals.oslomet.no/index.php/nordiccie/article/download/3368/3381" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3D2PN6JN"></div>
 </article>
 <div id="csl-bib-meta-3D2PN6JN" class="csl-bib-meta">
-  <article id="abstract-article-3D2PN6JN" class="abstract-article">
-    <h1>Samandrag</h1>
-    This case study was designed to explore the strategies and actions that high performing schools with sustainable results employ at the district level in a rural part of Norway. The district subjected to the study is characterised by small municipalities and a scattered population, with a few small school administrative units, which might be a challenging context for sustainability and improvement. In response, the districts developed collaborative structures to increase collective learning capacity. The research design involved a collective case study, and it draws on data from interviews with school leaders at the municipal level and local school policy documents. The findings suggest that Norwegian school district actors can facilitate school improvement by shaping collaborating cultures, inter-organisational learning processes and educational infrastructures. Furthermore, the findings highlight the schools’ ability to recognise and value new knowledge from external sources, such as academic institutions and partner schools, assimilate novelties across boundaries and, eventually, utilise these for strategic or operational ends to enhance an organisation’s absorptive capacity. Finally, the findings indicate that superintendents can play important roles through boundary-spanning and gatekeeping activities.
-  </article>
   <article id="contributors-article-3D2PN6JN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -67,13 +63,13 @@ Rom 2M34-2
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>64</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

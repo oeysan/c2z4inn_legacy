@@ -1,5 +1,5 @@
 ---
-title: "Doing (figurational) Research: using semi-structured interviews in the field of public health"
+title: "E4TXNIYF"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E4TXNIYF" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1612111" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/E4TXNIYF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-E4TXNIYF" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-E4TXNIYF" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-E4TXNIYF" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4324/9781315201214-9" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-E4TXNIYF"></div>
 </article>
 <div id="csl-bib-meta-E4TXNIYF" class="csl-bib-meta">
-  <article id="abstract-article-E4TXNIYF" class="abstract-article">
-    <h1>Samandrag</h1>
-    This chapter explores the application of figurational sociology to qualitative research in the form of semi-structured interviews (SSIs). It illustrates how SSIs offer a particularly productive data collection method for exploring social processes within figurations, particularly in relation to blind social processes and unplanned outcomes. Attention is also given to how figurational sociology and grounded theory can be integrated in research in order to enhance the ongoing engagement with empirical data and theory in order to develop object adequate accounts of social phenomena. The chapter describes a selective review of research studying local policy implementation in healthcare organizations and community-based public health and health promotion initiatives. Increasing numbers of researchers working in health-related fields are using figurational sociology as a framework of sensitizing concepts for their research, in the manner in which Norbert Elias viewed how his theory of society should be used.
-  </article>
   <article id="contributors-article-E4TXNIYF" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 4L3336
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

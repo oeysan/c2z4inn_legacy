@@ -1,5 +1,5 @@
 ---
-title: "Use of Alcohol and Addictive Drugs During the COVID-19 Outbreak in Norway: Associations With Mental Health and Pandemic-Related Problems"
+title: "3URYCGC8"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3URYCGC8" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1901658" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3URYCGC8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-3URYCGC8" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3URYCGC8" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-3URYCGC8" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2021.667729/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3URYCGC8"></div>
 </article>
 <div id="csl-bib-meta-3URYCGC8" class="csl-bib-meta">
-  <article id="abstract-article-3URYCGC8" class="abstract-article">
-    <h1>Abstract</h1>
-    Background: The outbreak of COVID-19 has had a major impact on people's daily life. This study aimed to examine use of alcohol and addictive drugs during the COVID-19 outbreak in Norway and examine their association with mental health problems and problems related to the pandemic. Methods: A sample of 4,527 persons responded to the survey. Use of alcohol and addictive drugs were cross-tabulated with sociodemographic variables, mental health problems, and problems related to COVID-19. Logistic regression analyses were used to examine the strength of the associations. Results: Daily use of alcohol was associated with depression and expecting financial loss in relation to the COVID-19 outbreak. Use of cannabis was associated with expecting financial loss in relation to COVID-19. Use of sedatives was associated with anxiety, depression, and insomnia. Use of painkillers was associated with insomnia and self-reported risk of complications if contracting the coronavirus. Conclusion: The occurrence of mental health problems is more important for an understanding of the use of alcohol and addictive drugs during the COVID-19 outbreak in Norway, compared to specific pandemic-related worries.
-  </article>
   <article id="contributors-article-3URYCGC8" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Room 4L3213
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

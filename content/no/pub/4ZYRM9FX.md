@@ -1,5 +1,5 @@
 ---
-title: "Inkoo and Sindbis viruses in blood sucking insects, and a serological study for Inkoo virus in semi-domesticated Eurasian tundra reindeer in Norway"
+title: "4ZYRM9FX"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4ZYRM9FX" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2043893" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/4ZYRM9FX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-4ZYRM9FX" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-4ZYRM9FX" class="csl-bib-button">Medverkande</a>
+    <a href="https://virologyj.biomedcentral.com/counter/pdf/10.1186/s12985-022-01815-0" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-4ZYRM9FX"></div>
 </article>
 <div id="csl-bib-meta-4ZYRM9FX" class="csl-bib-meta">
-  <article id="abstract-article-4ZYRM9FX" class="abstract-article">
-    <h1>Samandrag</h1>
-    Background Mosquito-borne viruses pose a serious threat to humans worldwide. There has been an upsurge in the number of mosquito-borne viruses in Europe, mostly belonging to the families Togaviridae, genus Alphavirus (Sindbis, Chikungunya), Flaviviridae (West Nile, Usutu, Dengue), and Peribunyaviridae, genus Orthobunyavirus, California serogroup (Inkoo, Batai, Tahyna). The principal focus of this study was Inkoo (INKV) and Sindbis (SINV) virus circulating in Norway, Sweden, Finland, and some parts of Russia. These viruses are associated with morbidity in humans. However, there is a knowledge gap regarding reservoirs and transmission. Therefore, we aimed to determine the prevalence of INKV and SINV in blood sucking insects and seroprevalence for INKV in semi-domesticated Eurasian tundra reindeer ( Rangifer tarandus tarandus ) in Norway. Materials and methodsIn total, 213 pools containing about 25 blood sucking insects (BSI) each and 480 reindeer sera were collected in eight Norwegian reindeer summer pasture districts during 2013–2015. The pools were analysed by RT-PCR to detect INKV and by RT-real-time PCR for SINV. Reindeer sera were analysed for INKV-specific IgG by an Indirect Immunofluorescence Assay (n = 480, IIFA) and a Plaque Reduction Neutralization Test (n = 60, PRNT). ResultsAedes spp. were the most dominant species among the collected BSI. Two of the pools were positive for INKV-RNA by RT-PCR and were confirmed by pyrosequencing. The overall estimated pool prevalence (EPP) of INKV in Norway was 0.04%. None of the analysed pools were positive for SINV. Overall IgG seroprevalence in reindeer was 62% positive for INKV by IIFA. Of the 60 reindeer sera- analysed by PRNT for INKV, 80% were confirmed positive, and there was no cross-reactivity with the closely related Tahyna virus (TAHV) and Snowshoe hare virus (SSHV). ConclusionThe occurrence and prevalence of INKV in BSI and the high seroprevalence against the virus among semi-domesticated reindeer in Norway indicate that further studies are required for monitoring this virus. SINV was not detected in the BSI in this study, however, human cases of SINV infection are yearly reported from other regions such as Rjukan in south-central Norway. It is therefore essential to monitor both viruses in the human population. Our findings are important to raise awareness regarding the geographical distribution of these mosquito-borne viruses in Northern Europe.
-  </article>
   <article id="contributors-article-4ZYRM9FX" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

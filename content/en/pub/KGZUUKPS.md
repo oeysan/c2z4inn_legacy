@@ -1,5 +1,5 @@
 ---
-title: "Normalization of gene expression data revisited: the three viewpoints of the transcriptome in human skeletal muscle undergoing load-induced hypertrophy and why they matter"
+title: "KGZUUKPS"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KGZUUKPS" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2050588" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/KGZUUKPS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-KGZUUKPS" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KGZUUKPS" class="csl-bib-button">Contributors</a>
+    <a href="https://bmcbioinformatics.biomedcentral.com/counter/pdf/10.1186/s12859-022-04791-y" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-KGZUUKPS"></div>
 </article>
 <div id="csl-bib-meta-KGZUUKPS" class="csl-bib-meta">
-  <article id="abstract-article-KGZUUKPS" class="abstract-article">
-    <h1>Abstract</h1>
-    BackgroundThe biological relevance and accuracy of gene expression data depend on the adequacy of data normalization. This is both due to its role in resolving and accounting for technical variation and errors, and its defining role in shaping the viewpoint of biological interpretations. Still, the choice of the normalization method is often not explicitly motivated although this choice may be particularly decisive for conclusions in studies involving pronounced cellular plasticity. In this study, we highlight the consequences of using three fundamentally different modes of normalization for interpreting RNA-seq data from human skeletal muscle undergoing exercise-training-induced growth. Briefly, 25 participants conducted 12 weeks of high-load resistance training. Muscle biopsy specimens were sampled from m. vastus lateralis before, after two weeks of training (week 2) and after the intervention (week 12), and were subsequently analyzed using RNA-seq. Transcript counts were modeled as (1) per-library-size, (2) per-total-RNA, and (3) per-sample-size (per-mg-tissue). ResultInitially, the three modes of transcript modeling led to the identification of three unique sets of stable genes, which displayed differential expression profiles. Specifically, genes showing stable expression across samples in the per-library-size dataset displayed training-associated increases in per-total-RNA and per-sample-size datasets. These gene sets were then used for normalization of the entire dataset, providing transcript abundance estimates corresponding to each of the three biological viewpoints (i.e., per-library-size, per-total-RNA, and per-sample-size). The different normalization modes led to different conclusions, measured as training-associated changes in transcript expression. Briefly, for 27% and 20% of the transcripts, training was associated with changes in expression in per-total-RNA and per-sample-size scenarios, but not in the per-library-size scenario. At week 2, this led to opposite conclusions for 4% of the transcripts between per-library-size and per-sample-size datasets (↑ vs. ↓, respectively). ConclusionScientists should be explicit with their choice of normalization strategies and should interpret the results of gene expression analyses with caution. This is particularly important for data sets involving a limited number of genes or involving growing or differentiating cellular models, where the risk of biased conclusions is pronounced.
-  </article>
   <article id="contributors-article-KGZUUKPS" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

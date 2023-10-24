@@ -1,5 +1,5 @@
 ---
-title: "The Nurse Professional Competence (NPC) Scale: A tool that can be used in national and international assessments of nursing education programmes"
+title: "HH69XKJG"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HH69XKJG" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1794005" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HH69XKJG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-HH69XKJG" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HH69XKJG" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/2057158518824530" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-HH69XKJG"></div>
 </article>
 <div id="csl-bib-meta-HH69XKJG" class="csl-bib-meta">
-  <article id="abstract-article-HH69XKJG" class="abstract-article">
-    <h1>Abstract</h1>
-    The quality of basic nursing bachelor programmes nationally and internationally must regularly be assessed to ensure that they fulfil requirements and are appropriate in relation to developments and changes in societies and healthcare systems. There is a need for instruments in helping to assess this. The aim of this study was to investigate whether the Nurse Professional Competence (NPC) Scale could serve as a tool to measure and detect possible differences between universities/university colleges regarding nursing students’ self-reported competence. Totally, 543 nursing students who had just completed their academic three-year nursing bachelor programmes at 10 universities/university colleges in Sweden participated in the study (response rate 71%). The students answered the NPC Scale with its 88 items constituting eight competence areas (CAs) and two overarching themes. The results from using the NPC Scale by the students were then compared between the 10 universities/university colleges. Significant mean score differences were found between the universities/university colleges on all CAs and on both themes. The highest mean score differences were found for the CAs ‘Medical and technical care’ and ‘Documentation and information technology’. The lowest mean score differences were found for the CAs ‘Value-based nursing care’ and ‘Leadership in and development of nursing’. It is concluded that the NPC Scale can serve as a useful tool in national and international assessments of nursing bachelor programmes.
-  </article>
   <article id="contributors-article-HH69XKJG" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

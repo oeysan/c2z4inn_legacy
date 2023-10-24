@@ -1,5 +1,5 @@
 ---
-title: "Coping and Negotiating a Sense of Self: Immigrant Men’s Experiences of Living with Co-Occurring Substance Use and Mental Health Disorders in Norway"
+title: "H9UIAJIX"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-H9UIAJIX" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2128558" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/H9UIAJIX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-H9UIAJIX" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-H9UIAJIX"></div>

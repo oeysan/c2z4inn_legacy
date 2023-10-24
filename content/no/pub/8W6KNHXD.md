@@ -1,5 +1,5 @@
 ---
-title: "Performing the Self in the Mainstream: Norwegian girls in blogging"
+title: "8W6KNHXD"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,24 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8W6KNHXD" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1463796" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/8W6KNHXD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-8W6KNHXD" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#sdg-article-8W6KNHXD" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://content.sciendo.com/downloadpdf/journals/nor/38/2/article-p65.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-8W6KNHXD"></div>
 </article>
 <div id="csl-bib-meta-8W6KNHXD" class="csl-bib-meta">
-  <article id="abstract-article-8W6KNHXD" class="abstract-article">
-    <h1>Samandrag</h1>
-    Blogging has become an integral part of girls’ media culture in Norway. This article investigates how teenage girls in the mainstream blogging community perform selves in their blogs over time. While studies of girls’ self-presentations online abound, most draw solely on analyses of online artefacts and lack a temporal perspective. To address these gaps, this investigation has employed a longitudinal design combining in-depth interviews with ethnographic content analyses of blogs, and has analysed girls’ online-based performances of self as integral to their offline experiences framed by the wider cultural context and gendered discourses. This approach is fruitful because it acknowledges girls’ changing experiences across time and contexts, thus making possible a contribution to the theorization of identity as performed across the online and the offline settings and interactions in an ongoing process.
-  </article>
   <article id="sdg-article-8W6KNHXD" class="sdg-article">
     <h1>Berekraftsmål</h1>
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

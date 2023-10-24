@@ -1,5 +1,5 @@
 ---
-title: "The role of cadmium in obesity and diabetes"
+title: "YYSEWLLL"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,24 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YYSEWLLL" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1480972" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YYSEWLLL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-YYSEWLLL" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#sdg-article-YYSEWLLL" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.scitotenv.2017.05.224" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-YYSEWLLL"></div>
 </article>
 <div id="csl-bib-meta-YYSEWLLL" class="csl-bib-meta">
-  <article id="abstract-article-YYSEWLLL" class="abstract-article">
-    <h1>Abstract</h1>
-    Multiple studies have shown an association between environmental exposure to hazardous chemicals including toxic metals and obesity, diabetes, and metabolic syndrome. At the same time, the existing data on the impact of cadmium exposure on obesity and diabetes are contradictory. Therefore, the aim of the present work was to review the impact of cadmium exposure and status on the risk and potential etiologic mechanisms of obesity and diabetes. In addition, since an effect of cadmium exposure on incidence of diabetes mellitus and insulin resistance was suggested by several epidemiologic studies, we carried out a meta-analysis of all studies assessing risk of prevalence and incidence of diabetes. By comparing the highest versus the lowest cadmium exposure category, we found a high risk of diabetes incidence (odds ratio = 1.38, 95% confidence interval 1.12–1.71), which was higher for studies using urine as exposure assessment. On the converse, results of epidemiologic studies linking cadmium exposure and overweight or obesity are far less consistent and even conflicting, also depending on differences in exposure levels and the specific marker of exposure (blood, urine, hair, nails). In turn, laboratory studies demonstrated that cadmium adversely affects adipose tissue physiopathology through several mechanisms, thus contributing to increased insulin resistance and enhancing diabetes. However, intimate biological mechanisms linking Cd exposure with obesity and diabetes are still to be adequately investigated.
-  </article>
   <article id="sdg-article-YYSEWLLL" class="sdg-article">
     <h1>Sustainable Development Goals</h1>
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

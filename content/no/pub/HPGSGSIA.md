@@ -1,5 +1,5 @@
 ---
-title: "Negotiating girlhood in rock music: Nandi Bushell, prodigy discourse and adult mentor-fans"
+title: "HPGSGSIA"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HPGSGSIA" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2164238" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HPGSGSIA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-HPGSGSIA" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HPGSGSIA" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-HPGSGSIA" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/27F7B5E3E6518084F1259D3014EAAA93/S0261143023000338a.pdf/div-class-title-negotiating-girlhood-in-rock-music-nandi-bushell-prodigy-discourse-and-adult-mentor-fans-div.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-HPGSGSIA"></div>
 </article>
 <div id="csl-bib-meta-HPGSGSIA" class="csl-bib-meta">
-  <article id="abstract-article-HPGSGSIA" class="abstract-article">
-    <h1>Samandrag</h1>
-    Nandi Bushell (b. 2010) is a British-Zulu drummer and multi-instrumentalist whose early career has garnered much attention from audiences and the international music press. In this article, we investigate the case of Bushell as a point of entry for understanding children's participation in mainstream popular music culture and the broader public sphere. We explore Bushell's social media presence, creative output and public reception in relation to three interrelated themes: (1) the functioning of social media and the music press as arenas for the (re)negotiation of ideas about child prodigy; (2) child musicians’ political activism; and (3) the role of adult ‘mentor-fans’ in sponsoring girls’ participation in rock culture. In grappling with the complexities of these themes, we place a particular emphasis on querying how dominant conceptions of girlhood inform the press coverage of Bushell's music and social media output, as well as on examining her highly visible relationships with established male rock artists serving as mentors, fans and industry brokers. Ultimately, the article sheds new light on how notions of girlhood as a cultural identity are negotiated by young artists and their (often adult) audiences in relation to musical genre boundaries.
-  </article>
   <article id="contributors-article-HPGSGSIA" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 2K223
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

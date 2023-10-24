@@ -1,5 +1,5 @@
 ---
-title: "Environmental quality outlook of the leading oil producers and urbanized African states"
+title: "HZ8FZDI9"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HZ8FZDI9" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2174196" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HZ8FZDI9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-HZ8FZDI9" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HZ8FZDI9" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-HZ8FZDI9" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s11356-023-28915-w.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-HZ8FZDI9"></div>
 </article>
 <div id="csl-bib-meta-HZ8FZDI9" class="csl-bib-meta">
-  <article id="abstract-article-HZ8FZDI9" class="abstract-article">
-    <h1>Abstract</h1>
-    This study seeks to explore the links between energy consumption and environmental quality in the wake of rapid urbanization in Africa with empirical insights from the cases of Libya, Morocco, Nigeria, Algeria, Angola, Egypt, and South Africa. These countries aside from being among the largest economies; are also among the leading energy producers and the most urbanized economies that emit the most carbon dioxide on the continent. Based on the Pooled Mean Group (PMG) panel ARDL estimator, the dynamics nexus between the variables was estimated vis-à-vis the short-run and long-run coefficients using relevant sample data between 1990 and 2015. The study further examines the channels of causality between the variables while also testing for the validity of the popular Environmental Kuznets curve (EKC) hypothesis for the panel of countries. The results confirm that the rising level of energy use significantly exacerbates the level of carbon emission among the countries in the study while growing urbanization significantly creates a negative impact on carbon emission. In addition, an increase in per capita income improves the environmental quality but the doubling of income per capita triggers environmental degradation, thus invalidating the EKC hypothesis in the examined panel economies. In essence, these countries have not reached the supposed turning point at which income growth can yield desirable emission mitigation effects. Following the findings, essential recommendations are provided for policymakers in the main text.
-  </article>
   <article id="contributors-article-HZ8FZDI9" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Campus Kongsvinger
     <div class="sdg-container"><div id="sdg11" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>23</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=11#archive" class="sdg-publication-count"><span>23</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

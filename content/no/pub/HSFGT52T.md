@@ -1,5 +1,5 @@
 ---
-title: "Exploring the use of repeats in learners’ native and interlanguage production"
+title: "HSFGT52T"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HSFGT52T" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2095195" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HSFGT52T" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HSFGT52T" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1075/scl.104.12aas" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-HSFGT52T"></div>
 </article>

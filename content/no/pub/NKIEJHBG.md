@@ -1,5 +1,5 @@
 ---
-title: "Luther and Norwegian Nation-Building"
+title: "NKIEJHBG"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NKIEJHBG" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1748085" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/NKIEJHBG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-NKIEJHBG" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NKIEJHBG" class="csl-bib-button">Medverkande</a>
+    <a href="https://septentrio.uit.no/index.php/nordlit/article/download/4959/4796" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-NKIEJHBG"></div>
 </article>
 <div id="csl-bib-meta-NKIEJHBG" class="csl-bib-meta">
-  <article id="abstract-article-NKIEJHBG" class="abstract-article">
-    <h1>Samandrag</h1>
-    In most Protestant countries, the Reformation was closely connected to the development of vernacular languages and literatures. In Norway under Danish rule, this was not the case. Only in the 19th century, during the nation-building period of independent Norway, a Norwegian ecclesiastical language was developed. Some authors claim that this completed the Reformation in Norway – a protracted Reformation indeed. Particularly important were the hymns of Magnus Brostrup Landstad and Elias Blix. This study examines the role of Luther in the Norwegian 19th century national discourse, suggesting a three-phase development: Luther as text, as inspiration, and as argument. The full-blown use of Luther as argument was taken up by proponents of a nynorsk ecclesiastical language only during the final years of the Swedish-Norwegian union, just before its dissolution in 1905.
-  </article>
   <article id="contributors-article-NKIEJHBG" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

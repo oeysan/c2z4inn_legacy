@@ -1,5 +1,5 @@
 ---
-title: "On the interplay between hypothermia and reproduction in a high arctic ungulate"
+title: "PM28Z9RB"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PM28Z9RB" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1821109" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PM28Z9RB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-PM28Z9RB" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PM28Z9RB" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-PM28Z9RB" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.nature.com/articles/s41598-020-58298-8.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PM28Z9RB"></div>
 </article>
 <div id="csl-bib-meta-PM28Z9RB" class="csl-bib-meta">
-  <article id="abstract-article-PM28Z9RB" class="abstract-article">
-    <h1>Samandrag</h1>
-    For free-ranging animals living in seasonal environments, hypometabolism (lowered metabolic rate) and hypothermia (lowered body temperature) can be effective physiological strategies to conserve energy when forage resources are low. To what extent such strategies are adopted by large mammals living under extreme conditions, as those encountered in the high Arctic, is largely unknown, especially for species where the gestation period overlaps with the period of lowest resource availability (i.e. winter). Here we investigated for the first time the level to which high arctic muskoxen ( Ovibos moschatus ) adopt hypothermia and tested the hypothesis that individual plasticity in the use of hypothermia depends on reproductive status. We measured core body temperature over most of the gestation period in both free-ranging muskox females in Greenland and captive female muskoxen in Alaska. We found divergent overwintering strategies according to reproductive status, where pregnant females maintained stable body temperatures during winter, while non-pregnant females exhibited a temporary decrease in their winter body temperature. These results show that muskox females use hypothermia during periods of resource scarcity, but also that the use of this strategy may be limited to non-reproducing females. Our findings suggest a trade-off between metabolically-driven energy conservation during winter and sustaining foetal growth, which may also apply to other large herbivores living in highly seasonal environments elsewhere.
-  </article>
   <article id="contributors-article-PM28Z9RB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Studiested Evenstad
     <div class="sdg-container"><div id="sdg14" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg14_no.png" class="image" alt="SDG 14">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>41</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=14#archive" class="sdg-publication-count"><span>42</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-i-havet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

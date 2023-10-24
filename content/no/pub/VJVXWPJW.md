@@ -1,5 +1,5 @@
 ---
-title: "Beyond 'related variety': How inflows of skills shape innovativeness in different industries"
+title: "VJVXWPJW"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,20 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VJVXWPJW" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1507753" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VJVXWPJW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-VJVXWPJW" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VJVXWPJW" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-VJVXWPJW" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/09654313.2017.1392490" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-VJVXWPJW"></div>
 </article>
 <div id="csl-bib-meta-VJVXWPJW" class="csl-bib-meta">
-  <article id="abstract-article-VJVXWPJW" class="abstract-article">
-    <h1>Samandrag</h1>
-    Building on recent evolutionary thinking, this paper focuses on inter-industry differences in the receptiveness of firms to inflows of skills from different domains of the external economy. The empirical analysis of innovation performance finds that firms’ dependences on recruiting outside their own industry domains were inversely related to the vibrancy of knowledge dynamics within them. Moreover, inflow distances that are ‘optimal’ from the perspective of learning are closer to manufacturing firms’ own 
-industry domains, than they are to the domains of services firms. As a result, only low-tech manufacturing and technology-intensive services firms exhibit the receptiveness to inflows from ‘related’ industries found in prior evolutionary research. Firms in high-tech manufacturing, by contrast, capture strong learning benefits from intra-sectoral mobility flows, whereas firms in traditional professional services depend on skills developed outside their own industry domains. Implications for the theory, empirics and policy relevance of evolutionary economic geography are discussed.
-  </article>
   <article id="contributors-article-VJVXWPJW" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -58,7 +53,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>64</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

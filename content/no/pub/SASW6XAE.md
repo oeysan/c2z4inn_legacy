@@ -1,5 +1,5 @@
 ---
-title: "Investering i andrespråkslæring – tidligere nyankomne elever ser tilbake på den første norskopplæringen"
+title: "SASW6XAE"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SASW6XAE" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2094365" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SASW6XAE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SASW6XAE" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-SASW6XAE"></div>

@@ -1,5 +1,5 @@
 ---
-title: "Sharing SoTL Findings with Students: An Intentional Knowledge Mobilization Strategy"
+title: "3JQ6TAC7"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3JQ6TAC7" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1897050" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3JQ6TAC7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-3JQ6TAC7" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3JQ6TAC7" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-3JQ6TAC7" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://journalhosting.ucalgary.ca/index.php/TLI/article/download/71061/56261" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3JQ6TAC7"></div>
 </article>
 <div id="csl-bib-meta-3JQ6TAC7" class="csl-bib-meta">
-  <article id="abstract-article-3JQ6TAC7" class="abstract-article">
-    <h1>Samandrag</h1>
-    This paper critically examines the reasons for and processes of sharing SoTL findings with students. Framed by our commitment to SoTL’s role to make teaching “community property,” we interpret sharing SoTL findings with students as an act of knowledge mobilization, where SoTL might be disseminated, translated, or co-created with the student as a legitimate knowledge broker. We connect these knowledge mobilization processes with four primary reasons why faculty might want to share SoTL findings with students. Finally, we provide examples of knowledge mobilization that use different “voices” found in contemporary communication settings and that reach various student audiences in micro, meso, macro, and mega contexts.
-  </article>
   <article id="contributors-article-3JQ6TAC7" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -67,7 +63,7 @@ Rom 2P303
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

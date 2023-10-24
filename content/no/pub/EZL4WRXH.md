@@ -1,5 +1,5 @@
 ---
-title: "Don't Trust Your Eyes: Image Manipulation in the Age of DeepFakes"
+title: "EZL4WRXH"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EZL4WRXH" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1958871" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/EZL4WRXH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-EZL4WRXH" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EZL4WRXH" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-EZL4WRXH" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fcomm.2021.632317/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-EZL4WRXH"></div>
 </article>
 <div id="csl-bib-meta-EZL4WRXH" class="csl-bib-meta">
-  <article id="abstract-article-EZL4WRXH" class="abstract-article">
-    <h1>Samandrag</h1>
-    We review the phenomenon of deepfakes, a novel technology enabling inexpensive manipulation of video material through the use of artificial intelligence, in the context of today’s wider discussion on fake news. We discuss the foundation as well as recent developments of the technology, as well as the differences from earlier manipulation techniques and investigate technical countermeasures. While the threat of deepfake videos with substantial political impact has been widely discussed in recent years, so far, the political impact of the technology has been limited. We investigate reasons for this and extrapolate the types of deepfake videos we are likely to see in the future.
-  </article>
   <article id="contributors-article-EZL4WRXH" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

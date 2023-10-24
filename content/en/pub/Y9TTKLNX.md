@@ -1,5 +1,5 @@
 ---
-title: "From the desk to the cyborg’s faceless interaction in The Norwegian Labour and Welfare Administration"
+title: "Y9TTKLNX"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Y9TTKLNX" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1924343" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Y9TTKLNX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Y9TTKLNX" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.18261/issn.2464-4161-2021-02-01" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-Y9TTKLNX"></div>
 </article>

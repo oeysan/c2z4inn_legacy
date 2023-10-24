@@ -1,5 +1,5 @@
 ---
-title: "A serological screening for potential viral pathogens among semi-domesticated Eurasian tundra reindeer (Rangifer tarandus tarandus) in Finland"
+title: "2X8NZ7EY"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2X8NZ7EY" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2135800" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/2X8NZ7EY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-2X8NZ7EY" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-2X8NZ7EY" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-2X8NZ7EY" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://actavetscand.biomedcentral.com/counter/pdf/10.1186/s13028-023-00671-4" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-2X8NZ7EY"></div>
 </article>
 <div id="csl-bib-meta-2X8NZ7EY" class="csl-bib-meta">
-  <article id="abstract-article-2X8NZ7EY" class="abstract-article">
-    <h1>Abstract</h1>
-    BackgroundReindeer herding and husbandry is a traditional and important livelihood in Fennoscandia, and about 200,000 semi-domesticated reindeer are herded in Finland. Climatic changes, leading to ice-locked winter pastures, and encroachment of pasture-land have led to changes in reindeer husbandry, increasing the extent of supplementary or full ration feeding, which has become very common in Finland. Keeping reindeer in corrals or gathering them at permanent feeding sites will increase nose-to-nose contact between animals and they may be exposed to poor hygienic conditions. This may impact the epidemiology of infectious diseases, such as viral infections. The aim of this study was to investigate Finnish semi-domesticated reindeer for exposure to viral pathogens. Blood samples were collected from 596 reindeer (358 calves, 238 adults) in 2015, from nine reindeer slaughterhouses, representing most of the reindeer herding regions in Finland. Plasma samples were investigated for antibodies against a selection of known and potential reindeer viral pathogens by using enzyme linked immunosorbent assays (ELISA). Results The screening suggested that alphaherpesvirus and gammaherpesvirus (malignant catarrhal fever virus group; MCFV) were enzootic in the reindeer population, with a seroprevalence of 46.5% (range at slaughterhouse level 28.6–64.3%) and 29.0% (range 3.5–62.2%), respectively. Whereas the seroprevalence was significantly higher for alphaherpesvirus among adult reindeer (91.2%) as compared to calves (16.8%), no age difference was revealed for antibodies against gammaherpesvirus. For alphaherpesvirus, the seroprevalence in the northernmost region, having the highest animal density (animals/km 2 ), was significantly higher (55.6%) as compared to the southernmost region (36.2%), whereas the seroprevalence pattern for gammaherpesvirus indicated the opposite, with 8.1% in the north and 50.0% in the south. Four reindeer (0.7%) had antibodies against Pestivirus, whereas no antibodies were detected against Bluetongue virus or Schmallenbergvirus. ConclusionsAlphaherpesvirus and gammaherpesvirus (MCFV) seems to be enzootic in the Finnish reindeer population, similar to other reindeer herds in Fennoscandia, whereas the exposure to Pestivirus was low compared to findings in Norway and Sweden. The ongoing changes in the reindeer herding industry necessitate knowledge on reindeer health and diseases that may impact animal welfare and health of reindeer as well as the economy of the reindeer herding industry.
-  </article>
   <article id="contributors-article-2X8NZ7EY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -92,13 +88,13 @@ Campus Evenstad
     <div class="sdg-container"><div id="sdg1" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg01_en.png" class="image" alt="SDG 1">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>37</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=1#archive" class="sdg-publication-count"><span>39</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal1" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

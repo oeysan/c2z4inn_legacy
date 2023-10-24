@@ -1,5 +1,5 @@
 ---
-title: "Complement factor C5 in Atlantic salmon (Salmo salar): Characterization of cDNA, protein and glycosylation"
+title: "3PSX37FM"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3PSX37FM" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1708211" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3PSX37FM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-3PSX37FM" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3PSX37FM" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-3PSX37FM" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.1016/j.dci.2019.103424" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3PSX37FM"></div>
 </article>
 <div id="csl-bib-meta-3PSX37FM" class="csl-bib-meta">
-  <article id="abstract-article-3PSX37FM" class="abstract-article">
-    <h1>Samandrag</h1>
-    Complement component 5 (C5) is an essential factor of the defensive complement system in all vertebrates. We report the characterization of C5 cDNA and protein from Atlantic salmon (Salmo salar), a teleost fish species of high importance in aquaculture. The C5 cDNA cloned from liver is 5079 nucleotides long, whose translation product has a molecular weight of 190 kDa, with the classical β-α orientation and motifs/sites for β-α cleavage (678RPKR681) and cleavage by C5 convertases (R758). Mass spectrometric analysis show a single N-linked, biantennary, complex glycan at N1125. Moreover, the N-linked glycan displays an unusual modification in the form of acetylated sialic acid residues. Three anti-C5 antisera produced in mice using purified C5 worked in immunohistochemical analyses of formalin fixed liver tissue. The purification method, whereby inactive and activated (C5b) forms were isolated, opens for interesting studies on the complement function in fish, including possible connection to stress, disease and glycosylation.
-  </article>
   <article id="contributors-article-3PSX37FM" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -95,7 +91,7 @@ Rom 2N1246
     <div class="sdg-container"><div id="sdg14" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg14_no.png" class="image" alt="SDG 14">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>41</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=14#archive" class="sdg-publication-count"><span>42</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-i-havet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

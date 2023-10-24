@@ -1,5 +1,5 @@
 ---
-title: "50 Years of Cumulative Open-Source Data Confirm Stable and Robust Biodiversity Distribution Patterns for Macrofungi"
+title: "LWZI68II"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LWZI68II" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2061219" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LWZI68II" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-LWZI68II" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LWZI68II" class="csl-bib-button">Contributors</a>
+    <a href="https://www.mdpi.com/2309-608X/8/9/981/pdf?version=1663722639" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LWZI68II"></div>
 </article>
 <div id="csl-bib-meta-LWZI68II" class="csl-bib-meta">
-  <article id="abstract-article-LWZI68II" class="abstract-article">
-    <h1>Abstract</h1>
-    Fungi are a hyper-diverse kingdom that contributes significantly to the regulation of the global carbon and nutrient cycle. However, our understanding of the distribution of fungal diversity is often hindered by a lack of data, especially on a large spatial scale. Open biodiversity data may provide a solution, but concerns about the potential spatial and temporal bias in species occurrence data arising from different observers and sampling protocols challenge their utility. The theory of species accumulation curves predicts that the cumulative number of species reaches an asymptote when the sampling effort is sufficiently large. Thus, we hypothesize that open biodiversity data could be used to reveal large-scale macrofungal diversity patterns if these datasets are accumulated long enough. Here, we tested our hypothesis with 50 years of macrofungal occurrence records in Norway and Sweden that were downloaded from the Global Biodiversity Information Facility (GBIF). We first grouped the data into five temporal subsamples with different cumulative sampling efforts (i.e., accumulation of data for 10, 20, 30, 40 and 50 years). We then predicted the macrofungal diversity and distribution at each subsample using the maximum entropy (MaxEnt) species distribution model. The results revealed that the cumulative number of macrofungal species stabilized into distinct distribution patterns with localized hotspots of predicted macrofungal diversity with sampling efforts greater than approximately 30 years. Our research demonstrates the utility and importance of the long-term accumulated open biodiversity data in studying macrofungal diversity and distribution at the national level.
-  </article>
   <article id="contributors-article-LWZI68II" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

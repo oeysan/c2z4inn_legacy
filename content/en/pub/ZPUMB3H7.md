@@ -1,5 +1,5 @@
 ---
-title: "Development of metaphorical production in learner language: A longitudinal perspective"
+title: "ZPUMB3H7"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,21 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZPUMB3H7" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2109141" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ZPUMB3H7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ZPUMB3H7" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ZPUMB3H7" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-ZPUMB3H7" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://journal.uia.no/index.php/NJLTL/article/download/975/801" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ZPUMB3H7"></div>
 </article>
 <div id="csl-bib-meta-ZPUMB3H7" class="csl-bib-meta">
-  <article id="abstract-article-ZPUMB3H7" class="abstract-article">
-    <h1>Abstract</h1>
-    This article details a longitudinal corpus-based exploration into the development of metaphorical production of L2 learners of English. The study tracks the progress of five secondary school pupils aged 13-17 in Norway, with the data consisting of texts written for end-of-semester exams: two texts per pupil over four consecutive academic years. 
- 
-The overall goal is to shed light on how metaphorical production changes as pupils progress through different semesters and grades in their school careers. To do so, three subordinate aims are addressed. First, the study investigates how metaphor density varies over time, both for the group of pupils and for the individuals. In this regard, patterns for open-class versus closed-class metaphors across grade levels are also compared, to identify whether there is any particular level at which the use of the former overtakes the latter, as has been uncovered in previous research. A second aim is to examine the distribution of metaphor clusters over time, since clusters have been found to serve important discoursal functions and might therefore be expected to increase with improved proficiency over time. The third aim is to focus more closely on the identified metaphor clusters to explore the functions they serve in the written discourse of these language learners.
-  </article>
   <article id="contributors-article-ZPUMB3H7" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -68,7 +62,7 @@ Room 2A115
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

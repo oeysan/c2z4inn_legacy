@@ -1,5 +1,5 @@
 ---
-title: "A blended learning teaching strategy strengthens the nursing students’ performance and self-reported learning outcome achievement in an anatomy, physiology and biochemistry course – A quasi-experimental study"
+title: "AZ67NYZR"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AZ67NYZR" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1903681" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/AZ67NYZR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-AZ67NYZR" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AZ67NYZR" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-AZ67NYZR" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.1016/j.nepr.2021.103046" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-AZ67NYZR"></div>
 </article>
 <div id="csl-bib-meta-AZ67NYZR" class="csl-bib-meta">
-  <article id="abstract-article-AZ67NYZR" class="abstract-article">
-    <h1>Samandrag</h1>
-    In nursing, bioscience is regarded as one of the cornerstones of nursing practice. However, bioscience disciplines as anatomy, physiology and biochemistry are considered challenging for students and the failure rate is high. In this study we explore a blended learning teaching strategy in an anatomy, physiology and biochemistry course for first year Bachelor nursing students. In the blended learning teaching strategy, short narrated online digital resources of bioscientific terms and concepts were integrated into the teaching design along with digital metacognitive evaluations of learning outcomes. Results show that compared to students receiving traditional face-to-face teaching, the students with a blended learning approach performed better on their national exam with a small to medium effect size (Cohen’s d=0.23). Student course evaluations supported the blended learning delivery with small to medium effect sizes. The students reported that the digital resources supported their learning outcome achievement, that they better understood the teacher’s expectations and that they were more satisfied with their virtual learning environment. This study adds to the growing literature of blended learning effectiveness in higher education, and suggests the use of digital resources as an enrichment of teaching and enhancement of students’ study experience.
-  </article>
   <article id="contributors-article-AZ67NYZR" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -91,7 +87,7 @@ Studiested Hamar
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

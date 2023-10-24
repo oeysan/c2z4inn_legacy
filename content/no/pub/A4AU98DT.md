@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of the Extraction of Bioactive Compounds and the Saccharification of Cellulose as a Route for the Valorization of Spent Mushroom Substrate"
+title: "A4AU98DT"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-A4AU98DT" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2159818" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/A4AU98DT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-A4AU98DT" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-A4AU98DT" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-A4AU98DT" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/1420-3049/28/13/5140/pdf?version=1688118665" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-A4AU98DT"></div>
 </article>
 <div id="csl-bib-meta-A4AU98DT" class="csl-bib-meta">
-  <article id="abstract-article-A4AU98DT" class="abstract-article">
-    <h1>Samandrag</h1>
-    The extraction of bioactive compounds and cellulose saccharification are potential directions for the valorization of spent mushroom substrate (SMS). Therefore, investigating the suitability of different extraction methods for recovering bioactive compounds from SMS and how the extraction affects the enzymatic saccharification is of uppermost relevance. In this work, bioactive compounds were extracted from Pleurotus spp. SMS using four extraction methods. For Soxhlet extraction (SoE), a 40:60 ethanol/water mixture gave the highest extraction efficiency (EE) (69.9–71.1%) among the seven solvent systems assayed. Reflux extraction with 40:60 ethanol/water increased the extraction yield and EE compared to SoE. A shorter reflux time yielded a higher extraction of carbohydrates than SoE, while a longer time was more effective for extracting phenolics. The extracts from 240 min of reflux had comparable antioxidant activity (0.3–0.5 mM GAE) with that achieved for SoE. Ultrasound-assisted extraction (UAE) at 65 °C for 60 min allowed an EE (~82%) higher than that achieved by either reflux for up to 150 min or SoE. Subcritical water extraction (SWE) at 150 °C resulted in the best extraction parameters among all the tested methods. Vanillic acid and chlorogenic acid were the primary phenolic acids identified in the extracts. A good correlation between the concentration of caffeic acid and the antioxidant activity of the extracts was found. Saccharification tests revealed an enhancement of the enzymatic digestibility of SMS cellulose after the extraction of bioactive compounds. The findings of this initial study provide indications on new research directions for maximizing the recovery of bioactive compounds and fermentable sugars from SMS.
-  </article>
   <article id="contributors-article-A4AU98DT" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -95,7 +91,7 @@ Rom 2N1246
     <div class="sdg-container"><div id="sdg6" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg06_no.png" class="image" alt="SDG 6">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>26</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=6#archive" class="sdg-publication-count"><span>29</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/rent-vann-og-gode-sanitaerforhold?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

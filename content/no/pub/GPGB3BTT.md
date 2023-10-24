@@ -1,5 +1,5 @@
 ---
-title: "Exploring 360°-videos as Realistic Game-based Learning Environments for Work Placement Preparation"
+title: "GPGB3BTT"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,40 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GPGB3BTT" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2133418" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GPGB3BTT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GPGB3BTT" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GPGB3BTT" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-GPGB3BTT"></div>
 </article>
 <div id="csl-bib-meta-GPGB3BTT" class="csl-bib-meta">
-  <article id="abstract-article-GPGB3BTT" class="abstract-article">
-    <h1>Samandrag</h1>
-    Serious games in immersive virtual reality (VR) environments 
-promise enhanced experiences and engagement, supporting training 
-and learning. While realistically replicating the visuals of real environments 
-can be both difficult and time-consuming, there are many potential 
-advantages from doing so. In real work placements, students enter 
-facilities with variations in types of equipment, rules for navigation, and 
-workflows, adding cognitive load to a usually stressful situation. Allowing 
-them to train and learn in more realistic environments corresponding 
-to their future work placements, with high-fidelity representations, can 
-be time-saving, support core task focus, and help students become more 
-isolated from distractions. This paper presents the VR game 360Phlebotomy, 
-which combines virtual tasks with 360° images and -videos of 
-real laboratories in immersive VR. The game is aimed at helping students 
-become familiar with real workplaces while also learning their work tasks. 
-Current scenarios are tailored to biomedical laboratory science (BLS) education, 
-with a focus on the phlebotomy process, which also serves as 
-the main case in this paper. New environments can be added through a 
-modular scene creation system, with the goal of allowing students to prepare 
-for different work placements. Insights are provided by presenting 
-the design and development process for a prototype tested by five BLS 
-teachers and six BLS students. The results contribute to an increased 
-understanding of the role of context in training and learning and provide 
-a foundation for future work.
-  </article>
   <article id="contributors-article-GPGB3BTT" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

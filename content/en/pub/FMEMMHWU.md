@@ -1,5 +1,5 @@
 ---
-title: "Giving in English and Norwegian: A contrastive perspective"
+title: "FMEMMHWU"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,21 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FMEMMHWU" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2167299" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/FMEMMHWU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-FMEMMHWU" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FMEMMHWU" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-FMEMMHWU" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-FMEMMHWU"></div>
 </article>
 <div id="csl-bib-meta-FMEMMHWU" class="csl-bib-meta">
-  <article id="abstract-article-FMEMMHWU" class="abstract-article">
-    <h1>Abstract</h1>
-    This chapter investigates ditransitive constructions and their prepositional dative alternates, containing the cognate verbs English give and Norwegian gi, using data from the English–Norwegian Parallel Corpus (Johansson 2007). The bi-directional nature of the corpus enables us not only to compare the distribution of constructions in the original texts in the two languages but also to investigate how individual tokens are translated into the other language. The analysis shows that give constructions in the two languages 
-are remarkably similar in their semantics and their distribution. There are, however, some differences, including the greater incidence of light verb constructions in English, and a tendency for Norwegian translators to employ a get construction with the recipient recoded as subject 
-rather than indirect/prepositional object.
-  </article>
   <article id="contributors-article-FMEMMHWU" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -64,7 +57,7 @@ Room 2C256-5
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

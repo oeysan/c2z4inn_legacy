@@ -1,5 +1,5 @@
 ---
-title: "Patterns in the conservation and use of traditional vegetables from the New Guinean biodiversity hotspot"
+title: "322KKIJV"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-322KKIJV" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1607457" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/322KKIJV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-322KKIJV" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-322KKIJV" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-322KKIJV" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/21683565.2018.1489932" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-322KKIJV"></div>
 </article>
 <div id="csl-bib-meta-322KKIJV" class="csl-bib-meta">
-  <article id="abstract-article-322KKIJV" class="abstract-article">
-    <h1>Samandrag</h1>
-    In this paper, we survey traditional leafy vegetables linked to the New Guinea biodiversity hotspot. More than 30 species were identified, and data on occurrences and global genebank holdings were retrieved. The result revealed that traditional vegetables from this hotspot are highly under-represented in the global conservation system for plant genetic resources. Among targeted perennial tree or shrub species, no single accessions were reported as conserved in genebanks. We argue for the importance of safeguarding crop diversity for future generations and for promoting the traditional knowledge linked to cultivation and use of such nutritional plants.
-  </article>
   <article id="contributors-article-322KKIJV" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -65,13 +61,13 @@ Studiested Blæstad
     <div class="sdg-container"><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_no.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>46</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=2#archive" class="sdg-publication-count"><span>46</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

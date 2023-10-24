@@ -1,5 +1,5 @@
 ---
-title: "Motherhood in Context—Life Course Interviews with Young Mothers in Contact with Child Welfare"
+title: "ZAXLHCZL"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZAXLHCZL" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1862500" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ZAXLHCZL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ZAXLHCZL" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ZAXLHCZL" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-ZAXLHCZL" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.mdpi.com/2076-0760/9/12/236/pdf?version=1608603938" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ZAXLHCZL"></div>
 </article>
 <div id="csl-bib-meta-ZAXLHCZL" class="csl-bib-meta">
-  <article id="abstract-article-ZAXLHCZL" class="abstract-article">
-    <h1>Abstract</h1>
-    Background: The purpose of this article is to explore how a sample of young mothers in contact with child welfare services in Norway narrate their transition to motherhood and their relation with child welfare services. Methods: The article is based on life-course interviews with the mothers, on which we have conducted a content analysis inspired by narrative theory. Results: Results show that whereas the mothers deviated from common expectations of predictability and orderliness before they became mothers, they strived to provide a “good enough” situation for their children in line with expectations in larger society ever after. Nevertheless, the complex disadvantages that the mothers said they had in several life domains concerning social networks and family support, education, working life, housing, and that were apparently already in their transition to adulthood, were likely to increase even after the mothers had decided to enter the mothering role in socially acceptable ways. Conclusions: The article concludes that child welfare services may contribute positively by acknowledging the complexity of young mothers’ living context when assessing mothering practices.
-  </article>
   <article id="contributors-article-ZAXLHCZL" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

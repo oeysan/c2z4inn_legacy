@@ -1,5 +1,5 @@
 ---
-title: "Epilogue: The Future of Work and How to Organize and Manage It."
+title: "9NG74KQZ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9NG74KQZ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2130435" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/9NG74KQZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9NG74KQZ" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-9NG74KQZ"></div>

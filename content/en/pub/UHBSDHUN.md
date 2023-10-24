@@ -1,5 +1,5 @@
 ---
-title: "Phylogeny- and Abundance-Based Metrics Allow for the Consistent Comparison of Core Gut Microbiome Diversity Indices Across Host Species"
+title: "UHBSDHUN"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UHBSDHUN" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1954280" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UHBSDHUN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-UHBSDHUN" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UHBSDHUN" class="csl-bib-button">Contributors</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fmicb.2021.659918/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-UHBSDHUN"></div>
 </article>
 <div id="csl-bib-meta-UHBSDHUN" class="csl-bib-meta">
-  <article id="abstract-article-UHBSDHUN" class="abstract-article">
-    <h1>Abstract</h1>
-    The filtering of gut microbial datasets to retain high prevalence taxa is often performed to identify a common core gut microbiome that may be important for host biological functions. However, prevalence thresholds used to identify a common core are highly variable, and it remains unclear how they affect diversity estimates and whether insights stemming from core microbiomes are comparable across studies. We hypothesized that if macroecological patterns in gut microbiome prevalence and abundance are similar across host species, then we would expect that increasing prevalence thresholds would yield similar changes to alpha diversity and beta dissimilarity scores across host species datasets. We analyzed eight gut microbiome datasets based on 16S rRNA gene amplicon sequencing and collected from different host species to (1) compare macroecological patterns across datasets, including amplicon sequence variant (ASV) detection rate with sequencing depth and sample size, occupancy-abundance curves, and rank-abundance curves; (2) test whether increasing prevalence thresholds generate universal or host-species specific effects on alpha and beta diversity scores; and (3) test whether diversity scores from prevalence-filtered core communities correlate with unfiltered data. We found that gut microbiomes collected from diverse hosts demonstrated similar ASV detection rates with sequencing depth, yet required different sample sizes to sufficiently capture rare ASVs across the host population. This suggests that sample size rather than sequencing depth tends to limit the ability of studies to detect rare ASVs across the host population. Despite differences in the distribution and detection of rare ASVs, microbiomes exhibited similar occupancy-abundance and rank-abundance curves. Consequently, increasing prevalence thresholds generated remarkably similar trends in standardized alpha diversity and beta dissimilarity across species datasets until high thresholds above 70%. At this point, diversity scores tended to become unpredictable for some diversity measures. Moreover, high prevalence thresholds tended to generate diversity scores that correlated poorly with the original unfiltered data. Overall, we recommend that high prevalence thresholds over 70% are avoided, and promote the use of diversity measures that account for phylogeny and abundance (Balance-weighted phylogenetic diversity and Weighted Unifrac for alpha and beta diversity, respectively), because we show that these measures are insensitive to prevalence filtering and therefore allow for the consistent comparison of core gut microbiomes across studies without the need for prevalence filtering.
-  </article>
   <article id="contributors-article-UHBSDHUN" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

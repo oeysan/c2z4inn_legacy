@@ -1,5 +1,5 @@
 ---
-title: "Fra lesing til literacy – et perspektivskifte i undervisning og forskning"
+title: "FC6WS8MD"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FC6WS8MD" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1551513" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/FC6WS8MD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-FC6WS8MD" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FC6WS8MD" class="csl-bib-button">Contributors</a>
+    <a href="https://tidsskrift.dk/spr/article/download/112850/161579" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-FC6WS8MD"></div>
 </article>
 <div id="csl-bib-meta-FC6WS8MD" class="csl-bib-meta">
-  <article id="abstract-article-FC6WS8MD" class="abstract-article">
-    <h1>Abstract</h1>
-    I 2015 byttet en av verdens største interesseforening for forskere og lærere navn fra International Reading Association til International Literacy Association (ILA). (...)
-  </article>
   <article id="contributors-article-FC6WS8MD" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

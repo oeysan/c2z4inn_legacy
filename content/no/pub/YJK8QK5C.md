@@ -1,5 +1,5 @@
 ---
-title: "Når det er tallene som teller. Kunnskap om ungdom og psykisk helse i et byråkratisk positivistisk landskap."
+title: "YJK8QK5C"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YJK8QK5C" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1817200" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YJK8QK5C" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-YJK8QK5C" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-YJK8QK5C"></div>

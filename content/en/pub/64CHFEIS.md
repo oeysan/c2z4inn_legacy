@@ -1,5 +1,5 @@
 ---
-title: "En god idé i en vanskelig tid. En produksjonsstudie av 1732 Høtten (Karin Julsrud, 1998)"
+title: "64CHFEIS"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-64CHFEIS" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1824590" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/64CHFEIS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-64CHFEIS" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-64CHFEIS"></div>

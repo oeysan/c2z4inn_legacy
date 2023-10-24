@@ -1,5 +1,5 @@
 ---
-title: "A theoretical approach to understanding the global/local nex-us: the adoption of an institutional logics framework."
+title: "CPXRTY4M"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CPXRTY4M" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1721784" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/CPXRTY4M" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-CPXRTY4M" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CPXRTY4M" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-CPXRTY4M" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://journals.hioa.no/index.php/nordiccie/article/download/3027/3177" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-CPXRTY4M"></div>
 </article>
 <div id="csl-bib-meta-CPXRTY4M" class="csl-bib-meta">
-  <article id="abstract-article-CPXRTY4M" class="abstract-article">
-    <h1>Samandrag</h1>
-    This paper takes as its starting point the theoretical debate within the field of Comparative and International Education surrounding the way in which the global/local nexus is understood and researched. Attempting to move the debate forward, the paper introduces the institutional logics approach as one way in which the global/local nexus can be explored. Institutional logics focus on how belief systems shape and are shaped by individuals and organisations. A framework, based on the institutional logics approach, is presented in this paper taking the phenomena of human rights education as an illustration. The author proposes that by adopting an institutional logics approach and framework we can gain a better theoretical and empirical understanding of the global/local nexus and at the same time provide a much needed bridge between the opposing views within this ongoing debate within the field of Comparative and International education. 
-  </article>
   <article id="contributors-article-CPXRTY4M" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 2P313
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

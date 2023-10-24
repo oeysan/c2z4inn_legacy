@@ -1,5 +1,5 @@
 ---
-title: "The sponsorship motive matrix (SMM): A framework for categorising firms' motives for sponsoring sports events"
+title: "BTHIHAUR"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BTHIHAUR" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1461303" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BTHIHAUR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-BTHIHAUR" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BTHIHAUR" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-BTHIHAUR"></div>
 </article>
 <div id="csl-bib-meta-BTHIHAUR" class="csl-bib-meta">
-  <article id="abstract-article-BTHIHAUR" class="abstract-article">
-    <h1>Samandrag</h1>
-    Though there is a large body of literature and research on sponsorship of sports events, it seems that previous research on firm sponsorship of sports events has narrowly focused on sponsorship from a customer perspective. Consequently, research on sponsorship from a firm perspective is lacking. Specifically, it seems that no study has investigated and identified the main factors that motivate the sponsorship of sports events. This article begins with exploring firms’ motives for sponsorship found in the literature, and identifies two fundamental pairs of contrastive orientations related to sponsorship motives: internal versus external motives and opportunistic versus altruistic motives. Next, we combine the four fundamental motivational orientations into a two-way matrix that constitutes a framework for categorising firms’ motivations for sponsoring sports events. We also explore and elaborate the framework more fully in a qualitative study. On the basis of empirical findings, we identify four general or ideal types of motivational categories that reflect the combination of firms’ fundamental and contrastive orientations related to sponsorship motives. The main or ideal types of sponsorship motivational categories are labelled “market”, “society”, “bond” and “clan”. The final framework, displaying firms’ four main categories or ideal types of sponsorship motives, is referred to as the Sponsorship Motive Matrix (SMM). We conclude with suggestions for future research and a discussion of the implications that can be drawn from the SMM framework.
-  </article>
   <article id="contributors-article-BTHIHAUR" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

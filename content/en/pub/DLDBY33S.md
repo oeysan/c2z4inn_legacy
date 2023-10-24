@@ -1,5 +1,5 @@
 ---
-title: "A ‘token gesture’ in World Athletics governance? The IAAF Women’s Committee under Ilse Bechthold, 1990–2005"
+title: "DLDBY33S"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DLDBY33S" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2155607" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/DLDBY33S" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-DLDBY33S" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-DLDBY33S" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-DLDBY33S" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/17430437.2022.2076079" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-DLDBY33S"></div>
 </article>
 <div id="csl-bib-meta-DLDBY33S" class="csl-bib-meta">
-  <article id="abstract-article-DLDBY33S" class="abstract-article">
-    <h1>Abstract</h1>
-    The establishment of women’s committees in the governance structure of sport organizations is directly connected to – and often justified as a remedy for – women’s historical exclusion from sport. While women’s committees can provide women an entryway into leadership positions, they can also restrict the influence of women’s voices and concerns in decision-making processes. Despite the proliferation of women’s committees, this tension remains largely unexplored. We therefore examine one of the first women’s committees formed in sport, the IAAF Women’s Committee, between 1990 and 2005, to shed light on the value and limitations of this type of organizational feature. Using archival materials, our analysis shows that this committee served as an avenue for women to contribute to decision-making, but one consistently beset by roadblocks. We examine how the Women’s Committee, led by Ilse Bechthold, persistently and strategically navigated the IAAF’s hierarchical structure and culture toward modest, incremental progress.
-  </article>
   <article id="contributors-article-DLDBY33S" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,13 +57,13 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

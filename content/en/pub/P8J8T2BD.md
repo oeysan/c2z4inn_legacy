@@ -1,5 +1,5 @@
 ---
-title: "Hjelpetiltak i barnevernet: Komplekse problemer og usikre virkninger"
+title: "P8J8T2BD"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-P8J8T2BD" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1542470" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/P8J8T2BD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-P8J8T2BD" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-P8J8T2BD"></div>

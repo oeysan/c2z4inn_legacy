@@ -1,5 +1,5 @@
 ---
-title: "Neither Online, Nor Face-to-Face, But Integrated Career Guidance: Introducing New Ways of Engaging Undergraduate Students in Career Learning and Reflective Careering"
+title: "8QA3BDYW"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8QA3BDYW" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2027853" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/8QA3BDYW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-8QA3BDYW" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4324/9781003213000" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-8QA3BDYW"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "Antibiotic use in children under 5 years of age in Northern Tanzania: a qualitative study exploring the experiences of the caring mothers"
+title: "GPVMPLHS"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GPVMPLHS" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2076849" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GPVMPLHS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GPVMPLHS" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GPVMPLHS" class="csl-bib-button">Medverkande</a>
+    <a href="https://aricjournal.biomedcentral.com/counter/pdf/10.1186/s13756-022-01169-w" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-GPVMPLHS"></div>
 </article>
 <div id="csl-bib-meta-GPVMPLHS" class="csl-bib-meta">
-  <article id="abstract-article-GPVMPLHS" class="abstract-article">
-    <h1>Samandrag</h1>
-    BackgroundAntimicrobial resistance is a serious threat to the global achievements in child health thus far. Previous studies have found high use of antibiotics in children in Northern Tanzania, but the experiences of the primary care-givers, who play a key role in accessing and administering antibiotics for the sick child, have remained largely unknown. Therefore, the aim of this study was to understand mothers’ conceptions of antibiotic use in their children, which is of importance when forming strategies to improve antibiotic use in the community. MethodA qualitative study including eight focus group discussions with mothers of under-five children in Moshi urban and rural districts, Northern Tanzania, was performed during 2019. The discussions were recorded, transcribed verbatim, translated into English and analysed according to the phenomenographic approach. FindingsThree conceptual themes emerged during analysis; (1) conceptions of disease and antibiotics, (2) accessing treatment and (3) administering antibiotics. Antibiotics were often perceived as a universal treatment for common symptoms or diseases in children with few side-effects. Although mothers preferred to attend a healthcare facility, unforeseen costs, long waits and lack of financial support from their husbands, posed barriers for healthcare seeking. However, pharmacies were perceived as a cheap and convenient option to access previously used or prescribed antibiotics. Some mothers sought advice from a trusted neighbour regarding when to seek healthcare, thus resembling the function of the community health worker. ConclusionsTo improve antibiotic use in children under 5 years of age in Northern Tanzania, the precarious situation that women often find themselves in as they access treatment for their sick children needs to be taken into consideration. It is necessary to improve structures, including the healthcare system, socioeconomic inequalities and promoting gender equality both in the household and in the public arena to reduce misuse of antibiotics. Meanwhile, equipping community health workers to support Tanzanian women in appropriate healthcare seeking for their children, may be a feasible target for intervention.
-  </article>
   <article id="contributors-article-GPVMPLHS" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

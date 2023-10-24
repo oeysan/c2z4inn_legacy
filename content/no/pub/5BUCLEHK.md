@@ -1,5 +1,5 @@
 ---
-title: "Is it racism? The belief in cultural superiority across Europe"
+title: "5BUCLEHK"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5BUCLEHK" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2017976" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/5BUCLEHK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-5BUCLEHK" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-5BUCLEHK" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-5BUCLEHK" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/14616696.2022.2059098?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-5BUCLEHK"></div>
 </article>
 <div id="csl-bib-meta-5BUCLEHK" class="csl-bib-meta">
-  <article id="abstract-article-5BUCLEHK" class="abstract-article">
-    <h1>Samandrag</h1>
-    Are Europeans racist if they maintain that some cultures are superior? Theorists of cultural racism argue so and suggest that modern racism in Europe is expressed as a belief in cultural superiority. But this claim has been based on theoretical arguments, not on empirical tests. The current research investigated how widespread a belief in cultural superiority was in European countries and tested how such a belief related to biological racism. Analyses of data from the European Social Survey (21 countries, total N &gt; 33,000) showed large differences across countries in tendencies to endorse the belief in cultural superiority. But in nearly all countries, a factor model consistent with the theory of cultural racism had much better support than a factor model building on the assumption that culturalism is distinct from racism. Even when the factor analysis was able to maintain a distinction between racism and culturalism, the two factors had a very strong correlation. The present research suggests that although a belief in cultural superiority may harbour different views, expressed beliefs in cultural superiority and cultural concerns are strongly associated with traditional racism.
-  </article>
   <article id="contributors-article-5BUCLEHK" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -57,7 +53,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

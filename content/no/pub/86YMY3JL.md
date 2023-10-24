@@ -1,5 +1,5 @@
 ---
-title: "Body with Body: Interacting with Children with Congenital Deafblindness in the Human Niche"
+title: "86YMY3JL"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-86YMY3JL" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1598155" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/86YMY3JL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-86YMY3JL" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-86YMY3JL" class="csl-bib-button">Medverkande</a>
+    <a href="https://jdbsc.rug.nl/article/download/31374/28644" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-86YMY3JL"></div>
 </article>
 <div id="csl-bib-meta-86YMY3JL" class="csl-bib-meta">
-  <article id="abstract-article-86YMY3JL" class="abstract-article">
-    <h1>Samandrag</h1>
-    In deafblind studies it is commonly and usefully advised that partners interact close and face-to-face with children with congenital deafblindness. While recognizing face-to-face as an important mode of interaction this paper advances the simple idea that an equally important form of togetherness is body-with-body. Body-with-body interactions are here understood as interactions where two bodies are aligned with each other: the paradigmatic form is where the back of the child is aligned with the stomach and chest of his partner. I argue that this mode of togetherness can enable agency for a child with CDB through making as good as possible the conditions for perception and cognition. The body-with-body mode will make possible perception of the partners body in action; perception of some of the partners emotions; enable joint attention; enable skill acquisition and use of equipment, and finally enhance distal perception.  https://doi.org/10.21827/jdbsc.4.31374 
-  </article>
   <article id="contributors-article-86YMY3JL" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

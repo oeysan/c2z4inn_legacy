@@ -1,5 +1,5 @@
 ---
-title: "Flipped Classroom - Students as Producers"
+title: "HUBKWQ3Q"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HUBKWQ3Q" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1460686" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HUBKWQ3Q" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HUBKWQ3Q" class="csl-bib-button">Contributors</a>
+    <a href="https://opus.lib.uts.edu.au/bitstream/10453/120213/4/ITHET16_Final_Paper_89.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-HUBKWQ3Q"></div>
 </article>

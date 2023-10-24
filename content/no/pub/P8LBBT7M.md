@@ -1,5 +1,5 @@
 ---
-title: "Impacts of wolves on rural economies from recreational small game hunting"
+title: "P8LBBT7M"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-P8LBBT7M" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1722862" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/P8LBBT7M" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-P8LBBT7M" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-P8LBBT7M" class="csl-bib-button">Medverkande</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s10344-019-1319-x.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-P8LBBT7M"></div>
 </article>
 <div id="csl-bib-meta-P8LBBT7M" class="csl-bib-meta">
-  <article id="abstract-article-P8LBBT7M" class="abstract-article">
-    <h1>Samandrag</h1>
-    Centralized management of large carnivore populations in rural and remote landscapes used by local people often leads to conflicts between the objectives of wildlife conservation and rural development. We tested the hypothesis that the presence of wolves indirectly reduces landowner revenues from traditional small game hunting, and that landowner revenues are more variable closer to wolf territories. The assumed mechanism is that hunters fear that their economically and culturally valuable hunting dogs may be killed by wolves, which results in reduced hunting, and thus reduced revenues for landowners where and when wolves occur. To determine the effect of wolf presence on revenues from sport hunting, we obtained data from 1990 to 2009 on income from small game management areas, in Hedmark and Oppland Counties in Norway, as well as  locations of wolf territories. Small game management areas experienced increased sport hunting revenue with increasing distance to the closest wolf territory. Also, inter-annual variation in revenue decreased with increasing distance from wolf territories. Thus, wolf presence may reduce landowners’ revenues from small game hunting, and cause higher economic variability in rural communities. It is important to note that while the economic impacts of wolves may be compensated where governments have the will and the economic resources, the impacts on the lifestyles of rural people (e.g. hunter’s fear of losing prized dogs to wolves) will remain controversial.
-  </article>
   <article id="contributors-article-P8LBBT7M" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

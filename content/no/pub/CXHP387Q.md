@@ -1,5 +1,5 @@
 ---
-title: "Suicide Thoughts and Attempts in the Norwegian General Population during the Early Stage of the COVID-19 Outbreak"
+title: "CXHP387Q"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CXHP387Q" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1902768" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/CXHP387Q" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-CXHP387Q" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CXHP387Q" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-CXHP387Q" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/1660-4601/18/8/4102/pdf?version=1618314480" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-CXHP387Q"></div>
 </article>
 <div id="csl-bib-meta-CXHP387Q" class="csl-bib-meta">
-  <article id="abstract-article-CXHP387Q" class="abstract-article">
-    <h1>Samandrag</h1>
-    The aim of the study was to examine the prevalence of suicide thoughts and attempts during the early stage of the COVID-19 outbreak and examine pandemic-related factors associated with suicide thoughts in the general Norwegian population. A sample of 4527 adults living in Norway were recruited via social media. Data related to suicide thoughts and attempts, alcohol use, pandemic-related concerns, and sociodemographic variables were collected. Associations with suicide thoughts were analyzed with logistic regression analysis. In the sample, 3.6% reported suicide thoughts during the last month, while 0.2% had attempted suicide during the same period. Previous suicide attempts (OR: 11.93, p &lt; 0.001), lower age (OR: 0.69, p &lt; 0.001), daily alcohol use (OR: 3.31, p &lt; 0.001), being in the risk group for COVID-19 complications (OR: 2.15, p &lt; 0.001), and having economic concerns related to the pandemic (OR: 2.28, p &lt; 0.001) were associated with having current suicide thoughts. In addition to known risk factors, the study suggests that aspects specific to COVID-19 may be important for suicidal behaviors during the pandemic.
-  </article>
   <article id="contributors-article-CXHP387Q" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 4L3213
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

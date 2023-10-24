@@ -1,5 +1,5 @@
 ---
-title: "Underemploying highly skilled migrants: an organizational logic protecting corporate ‘normality’"
+title: "HSA94H3N"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HSA94H3N" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1892632" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HSA94H3N" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HSA94H3N" class="csl-bib-button">Medverkande</a>
+    <a href="https://journals.sagepub.com/doi/pdf/10.1177/0018726721992854" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-HSA94H3N"></div>
 </article>

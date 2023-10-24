@@ -1,5 +1,5 @@
 ---
-title: "Kindergartens in Northern Norway as semiotic landscapes"
+title: "KLVN29T8"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KLVN29T8" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1907158" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/KLVN29T8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-KLVN29T8" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KLVN29T8" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-KLVN29T8" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.jbe-platform.com/deliver/fulltext/ll.20025.pes.pdf?itemId=%2Fcontent%2Fjournals%2F10.1075%2Fll.20025.pes&amp;mimeType=pdf&amp;containerItemId=content/journals/22149961" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-KLVN29T8"></div>
 </article>
 <div id="csl-bib-meta-KLVN29T8" class="csl-bib-meta">
-  <article id="abstract-article-KLVN29T8" class="abstract-article">
-    <h1>Samandrag</h1>
-    Educational institutions have a responsibility to ensure that all children receive care and equal possibilities for development, independent of their linguistic and cultural background. However, there is little knowledge about how kindergartens ensure a welcoming and inspiring place for both transnational migrants, Indigenous children, and children from the majority population. Through a semiotic landscape analysis from two kindergartens in Northern Norway, this article contributes to this knowledge gap. Our starting point is that educational spaces are social, cultural, and political places. Applying a Bakhtinian perspective on semiotic landscapes as dialogues, the analysis focuses on two discourses. The first concerns diversity as an individual or shared value, and the second concerns balancing the ordinary and the exotic. We find that diversity related to transnational migration seems to be more integrated into the semiotic landscape, while the minoritised Indigenous Sámi people is stereotypically represented in kindergartens.
-  </article>
   <article id="contributors-article-KLVN29T8" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,13 +59,13 @@ Rom 2P209
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

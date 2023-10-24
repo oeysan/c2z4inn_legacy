@@ -1,5 +1,5 @@
 ---
-title: "Estimating snow leopard density using fecal DNA in a large landscape in north-central Nepal"
+title: "VZKFASRH"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VZKFASRH" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1672584" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VZKFASRH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VZKFASRH" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.1016/j.gecco.2019.e00548" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VZKFASRH"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "Women in the Olympics"
+title: "Z84JR9ZM"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Z84JR9ZM" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2164156" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Z84JR9ZM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-Z84JR9ZM" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Z84JR9ZM" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-Z84JR9ZM" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-Z84JR9ZM"></div>
 </article>
 <div id="csl-bib-meta-Z84JR9ZM" class="csl-bib-meta">
-  <article id="abstract-article-Z84JR9ZM" class="abstract-article">
-    <h1>Samandrag</h1>
-    "Women in the Olympics" traces the history of women in the Olympic Games. This pocket book offer details about important milestones in Olympic history and illustrates the salient themes that have shaped women’s involvement in the Games. From ancient times to today, women have always had a tenuous position in the Olympics. When Pierre de Coubertin founded the modern Olympic Movement at the end of the nineteenth century, he did not include women in his vision. He viewed the Olympics as a way for boys to cultivate manliness and men to demonstrate masculinity. Women eventually overcame such prejudices and competed at 1900 Olympics. Despite their inclusion, they remained beset by roadblocks. Sports that Olympic officials considered too grueling, taxing, or physical remained off limits to women. Leaders introduced sex tests to remove muscular female Olympians who breached gender norms from the Games. The Olympics were inaccessible for women in certain countries. And women remained severely underrepresented in the Olympic governance structure. Women in the Olympics shows how women have continuously fought for increased opportunities as athletes, equal access to elite sports, and a place in the decision-making process.
-  </article>
   <article id="contributors-article-Z84JR9ZM" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,13 +56,13 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

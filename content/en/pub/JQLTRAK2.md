@@ -1,5 +1,5 @@
 ---
-title: "Relationship Quality and Distress in Caregivers of Persons With Dementia: A Cross-Sectional Study"
+title: "JQLTRAK2"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JQLTRAK2" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1455852" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JQLTRAK2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JQLTRAK2" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JQLTRAK2" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-JQLTRAK2" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/1533317517691121" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-JQLTRAK2"></div>
 </article>
 <div id="csl-bib-meta-JQLTRAK2" class="csl-bib-meta">
-  <article id="abstract-article-JQLTRAK2" class="abstract-article">
-    <h1>Abstract</h1>
-    This cross-sectional study aimed to investigate the relationship between caregivers and care receivers, defined as home-dwelling family members with dementia. We used a self-rating questionnaire, the Felt Expressed Emotion Rating Scale (FEERS; 6 simple questions), to measure caregiver perceptions of the care receiver’s criticisms (CCs) and emotional overinvolvement (EOI) toward the caregiver. We performed factor analyses to rank single items on the FEERS pertaining to CC and EOI. We included 208 caregiver/care receiver pairs. Logistic regression analyses tested associations between FEERS items and caregiver and care receiver variables. The main contributors to caregiver perceptions of CC were the caregiver’s own distress and the amount of time spent with the care receiver. Socially distressed caregivers perceived the care receiver as emotionally overinvolved. When offering a psychosocial intervention, a tailored program should target the caregiver’s perceived relationship with the family member and the caregiver’s distress. The program should also endeavor to give the caretaker more opportunities for leisure time.
-  </article>
   <article id="contributors-article-JQLTRAK2" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -66,7 +62,7 @@ Room 4N3614
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

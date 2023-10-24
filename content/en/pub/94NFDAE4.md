@@ -1,5 +1,5 @@
 ---
-title: "Do toddlers’ levels of cortisol and the perceptions of parents and professional caregivers tell the same story about transition from home to childcare? A mixed method study"
+title: "94NFDAE4"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-94NFDAE4" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2159740" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/94NFDAE4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-94NFDAE4" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-94NFDAE4" class="csl-bib-button">Contributors</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1165788/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-94NFDAE4"></div>
 </article>
 <div id="csl-bib-meta-94NFDAE4" class="csl-bib-meta">
-  <article id="abstract-article-94NFDAE4" class="abstract-article">
-    <h1>Abstract</h1>
-    IntroductionEnrolling in childcare represents the first transition in toddlers’ lives and lays the foundation for their well-being in childcare centers going forward. Child cortisol levels may be an indicator of how toddlers themselves experience their introduction to childcare. In the present study, we explored changes in toddler cortisol levels during their first month in childcare and at a 3-month follow-up, as well as the perceptions of parents and professional caregivers regarding the toddlers’ settling-in process during the same period. Method This study used a mixed-method design. Saliva samples were collected from 113 toddlers and their cortisol levels analyzed. Qualitative notes were collected from parents ( n  = 87) and professional caregivers ( n  = 101). The data were analyzed using linear mixed model and thematic analyses, respectively. ResultsChanges in toddler cortisol levels and their parents’ and professional caregivers’ perceptions of the transition process fit well. Both data sources indicated an easy start in childcare when parents were present, while the first weeks separated from parents seemed quite demanding. After 3 months, the cortisol levels returned to a low level, while child well-being was perceived as high. DiscussionToddlers need time to adapt to childcare settings. Even if they are well taken care of by their keyworkers during the day, many toddlers are tired and exhausted in the evenings at home, particularly in the first weeks of separation from their parents. Both professional caregivers and parents should be aware of toddlers’ need for emotional support during their transition to childcare.
-  </article>
   <article id="contributors-article-94NFDAE4" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

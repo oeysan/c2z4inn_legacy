@@ -1,5 +1,5 @@
 ---
-title: "Perceived study-induced influence on the control group in a randomized controlled trial evaluating a complex intervention to promote psychosocial well-being after stroke: a process evaluation"
+title: "F2SJYLJV"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,29 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-F2SJYLJV" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1960694" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/F2SJYLJV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-F2SJYLJV" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-F2SJYLJV" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-F2SJYLJV" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://trialsjournal.biomedcentral.com/counter/pdf/10.1186/s13063-021-05765-w" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-F2SJYLJV"></div>
 </article>
 <div id="csl-bib-meta-F2SJYLJV" class="csl-bib-meta">
-  <article id="abstract-article-F2SJYLJV" class="abstract-article">
-    <h1>Abstract</h1>
-    Background: A commonly applied control condition in trials evaluating complex interventions in rehabilitation research is “usual care.” The main challenge is to ensure that the control group receives genuine usual care as delivered in everyday clinical practice. The assessment interviews and dialogues with the data collectors may influence the control group participants’ reflections on their condition and adjustments. This represents a threat to the internal validity of the trial. Thus, the aim of this study was to explore the perceived study-induced influence of 
-assessment interviews on the adjustment of the members of a control group in a randomized clinical trial. The aim of the trial was to test a dialogue-based psychosocial intervention aiming at promoting the psychosocial well-being 
-and adjustment of stroke survivors.  
- 
-Methods: Fifteen participants in the control group of a multicenter stroke rehabilitation trial participated in narrative semi-structured interviews. Ricoeur’s interpretation theory guided the analysis. 
- 
-Results: The perceived study-induced influence of the assessment interviews on the adjustment process of members of the control group varied considerably. The results demonstrated that the assessment interviews facilitated some participants’ feelings of control and their ability to cope. Other participants’ statements indicate 
-that they relied on their existing personal capacity to cope and adjust and that the assessment interviews did not make any difference either on their coping ability or on their process of adjustment. Five themes were identified that described the perceived study-induced influence of the assessment interviews in 
-the control group. The themes illustrated that the assessments served as a safety net, enhanced awareness and understanding, encouraged seeking support, allowed the opportunity to vent disappointment, or did not make any difference either way.  
- 
-Conclusions: RCT assessment interviews may influence the adjustment process and represent a serious problem in measuring interventions over time in trials of complex interventions in rehabilitation research. To uphold rigor and stringency, the usual care control conditions should be thoroughly assessed and described. Informing participants only about the treatment they were allocated to receive might counteract the potential to dilute the difference between the two arms of the trial.
-  </article>
   <article id="contributors-article-F2SJYLJV" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -142,7 +128,7 @@ Campus Elverum
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

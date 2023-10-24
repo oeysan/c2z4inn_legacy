@@ -1,5 +1,5 @@
 ---
-title: "A human-induced landscape of fear influences foraging behavior of brown bears"
+title: "D69INNPN"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-D69INNPN" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1651703" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/D69INNPN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-D69INNPN" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.baae.2018.12.001" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-D69INNPN"></div>
 </article>

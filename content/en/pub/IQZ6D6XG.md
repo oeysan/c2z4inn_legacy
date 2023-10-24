@@ -1,5 +1,5 @@
 ---
-title: "“Lock Us in a Room Together”: Local Students’ Suggestions for Improving Socialization with International Students"
+title: "IQZ6D6XG"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IQZ6D6XG" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2119815" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/IQZ6D6XG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-IQZ6D6XG" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IQZ6D6XG" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-IQZ6D6XG" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.ojed.org/index.php/jcihe/article/download/4280/2362" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-IQZ6D6XG"></div>
 </article>
 <div id="csl-bib-meta-IQZ6D6XG" class="csl-bib-meta">
-  <article id="abstract-article-IQZ6D6XG" class="abstract-article">
-    <h1>Abstract</h1>
-    In Canada, research has examined international-local student interaction by focusing on international students’ perceptions and experiences. As such, the perspectives of local students toward socialization with international students remain less explored. Designed as a survey-based case study with 17 local students at a university in Ontario, this study sought to understand the perspectives of local students on how to improve socialization between the two groups. Additionally, this study investigated how local students conceptualized their experiences of multiculturalism and multilingualism at their university, considering the importance of diversity for the development of intercultural knowledge and intercultural relationships. Findings suggest that local students considered their university to be multicultural/multilingual primarily based on the availability of cultural events and different languages being spoken on campus. Additionally, local students ascribed much importance to socialization with international students, but expected the university to assume a more formal role in developing structured opportunities for the two groups to come together
-  </article>
   <article id="contributors-article-IQZ6D6XG" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,13 +59,13 @@ Room 2P322
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Multiple senses of community and recovery processes. A pilot study for a national evaluation of the experiences of persons with substance use problems receiving help and services from Norwegian municipalities"
+title: "6NRBDRQA"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6NRBDRQA" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1695329" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/6NRBDRQA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-6NRBDRQA" class="csl-bib-button">Contributors</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcop.22194" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-6NRBDRQA"></div>
 </article>

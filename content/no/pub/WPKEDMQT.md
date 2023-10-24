@@ -1,5 +1,5 @@
 ---
-title: "Preparing students for a digital work-life using student-centred methods: a case study from Music Production"
+title: "WPKEDMQT"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WPKEDMQT" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2046168" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WPKEDMQT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-WPKEDMQT" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WPKEDMQT" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-WPKEDMQT" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://papers.academic-conferences.org/index.php/eckm/article/download/781/539" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WPKEDMQT"></div>
 </article>
 <div id="csl-bib-meta-WPKEDMQT" class="csl-bib-meta">
-  <article id="abstract-article-WPKEDMQT" class="abstract-article">
-    <h1>Samandrag</h1>
-    Students are expected to be digital, using digital tools for staying updated on their study programmes, time schedules, and how to find and hand in assignments. The tools that the students need in their future jobs are not necessarily taught, as these tools may be specific to each company. However, in the study programme of Music Production, the use of equipment and digital software is a part of the education. This paper showcases how the students are exposed to tools and work forms that they will use in the music production business. Introductions are provided, and the students can then practice using the tools. The most intensive training is provided in five to six intensive sessions during a study year. These sessions are called “camps”. These camps have a duration of approximately 12 hours each, with the students divided into groups, the purpose of which is to develop and produce song texts and melodies, which at the end of the camp are presented in a plenary session. These intensive learning activities include the extensive use of tools for producing the songs, as well as collaborative work forms, as the students need to work together and learn together in groups. The qualitative investigations from these intensive song writing camps show how the students benefit from the group work, situated learning and collaboration, and present their view on the usefulness of these camps.
-  </article>
   <article id="contributors-article-WPKEDMQT" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -163,7 +159,7 @@ Rom 3Ø203
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

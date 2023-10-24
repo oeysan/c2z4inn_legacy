@@ -1,5 +1,5 @@
 ---
-title: "Tilvenning og foreldresamarbeid: de yngste i barnehagen"
+title: "FBRC6XNI"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,22 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FBRC6XNI" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1808071" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/FBRC6XNI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-FBRC6XNI" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FBRC6XNI" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-FBRC6XNI"></div>
 </article>
 <div id="csl-bib-meta-FBRC6XNI" class="csl-bib-meta">
-  <article id="abstract-article-FBRC6XNI" class="abstract-article">
-    <h1>Abstract</h1>
-    Denne boken omhandler den viktige overgangen fra hjem til barnehage og inngår i serien «De yngste i barnehagen – fra forskning til praksis». Boken har som målsetting å bidra til at de yngste barna får en «sømløs» tilvenning til barnehagen. Det krever et godt samarbeid mellom foreldre og ansatte, og gode rutiner som passer for små barn. Små barn har grunnleggende behov for trygghet, tilhørighet og forutsigbarhet, samtidig som de er nysgjerrige og lekende utforskere. En god tilvenning til barnehagen ivaretar alle disse aspektene. 
- 
-Boken består av fire deler. I del en viser forfatterne til den nye rammeplanen, samt presenterer bokens teoretiske utgangspunkt som er systemteori, nyere teori om barns utvikling og tilknytningsteori. Del to omhandler foreldresamarbeid, da dette er helt sentralt for en god overgang fra hjem til barnehage. I del tre beskrives forskning som foreligger på tilvenning og i del fire beskrives en rekke praktiske tips til god praksis, samt refleksjonsoppgaver som kan benyttes i arbeidet med å evaluere og utvikle egne tilvenningsrutiner. 
- 
-Bokens målgruppe er først og fremst ansatte i barnehagene og studenter på barnehagelærerutdanningen, samt alle andre som er opptatt av gode barnehager for de yngste barnehagebarna
-  </article>
   <article id="contributors-article-FBRC6XNI" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

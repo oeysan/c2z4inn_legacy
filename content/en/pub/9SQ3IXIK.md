@@ -1,5 +1,5 @@
 ---
-title: "Characterization of habitat requirements of European fishing spiders"
+title: "9SQ3IXIK"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9SQ3IXIK" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1996230" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/9SQ3IXIK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-9SQ3IXIK" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9SQ3IXIK" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.7717/peerj.12806" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-9SQ3IXIK"></div>
 </article>
 <div id="csl-bib-meta-9SQ3IXIK" class="csl-bib-meta">
-  <article id="abstract-article-9SQ3IXIK" class="abstract-article">
-    <h1>Abstract</h1>
-    Wetlands are among the most threatened habitats in the world, and so are their species, which suffer habitat loss due to climate and land use changes. Freshwater species, and especially arthropods, receive comparatively little attention in conservation plans, and the goals to stop and reverse the destruction of wetlands published 25 years ago in a manifesto by the Union of Concerned Scientists have not been reached. In this study, we investigated the occurrence and habitat requirements at two spatial scales of two species of European fishing spiders Dolomedes , which rely heavily on declining wetland habitats in Sweden and southern Norway. We collected occurrence data for Dolomedes plantarius and Dolomedes fimbriatus , using a live-determination method. We modelled the placement of nursery webs to describe fine-scale habitat requirements related to vegetation and micro-climate. Using a machine learning approach, we described the habitat features for each species and for co-occurrence sites, thus providing insight into variables relevant for the presence and detectability of Dolomedes . Nursery placement is mostly dependent on proximity to water, presence of Carex sp. (Sedges) and crossing vegetation structures, and on humidity, while detection can be affected by weather conditions. Furthermore, co-occurrence sites were more similar to D. plantarius sites than to D. fimbriatus sites, whereby surrounding forest, water type and velocity, elevation and latitude were of importance for explaining which species of Dolomedes was present. Overall, habitat requirements were narrower for D. plantarius compared to D. fimbiratus.
-  </article>
   <article id="contributors-article-9SQ3IXIK" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

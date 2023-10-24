@@ -1,5 +1,5 @@
 ---
-title: "Different Faces of Fiscal Bureaucracy"
+title: "ZS2MFTRA"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZS2MFTRA" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1652795" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ZS2MFTRA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ZS2MFTRA" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ZS2MFTRA" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-ZS2MFTRA" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.duo.uio.no/bitstream/10852/69130/1/Raudla%2bet%2bal%2b2018%2bAdministrative%2bCulture.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ZS2MFTRA"></div>
 </article>
 <div id="csl-bib-meta-ZS2MFTRA" class="csl-bib-meta">
-  <article id="abstract-article-ZS2MFTRA" class="abstract-article">
-    <h1>Abstract</h1>
-    In light of the growing importance of finance ministries and the financial dimension in policy-making, opening up the “black box” of fiscal bureaucracies is more warranted than ever. Our paper addresses the following research question: What kinds of roles can be assumed by fiscal bureaucrats in fiscal policy-making and budgeting? We propose four dichotomies that can be employed for examining the roles played by fiscal bureaucracies: 1) Developers vs guardians; 2) Initiators vs followers; 3) Mediators vs insulators; 4) Calculators vs (gu)estimators. In developing these dimensions, we juxtaposed the insights from various streams of institutionalist research and also on literature on public budgeting and public policy with the themes that emerged from the interviews we conducted in four different countries: Estonia, Latvia, Sweden and Norway. We find that fiscal bureaucracies in Estonia and Latvia tend to be closer to the guardian-insulator-guestimator ends of the continuums, whereas the officials in Sweden and especially Norway lean towards the developer-mediator-modeller end of the scale. The division between the initiator vs follower roles is less clear-cut.
-  </article>
   <article id="contributors-article-ZS2MFTRA" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -67,13 +63,13 @@ Room 3Ø130
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Prey Selection of Scandinavian Wolves: Single Large or Several Small?"
+title: "J6HWVDDH"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-J6HWVDDH" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1428205" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/J6HWVDDH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-J6HWVDDH" class="csl-bib-button">Contributors</a>
+    <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0168062&amp;type=printable" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-J6HWVDDH"></div>
 </article>

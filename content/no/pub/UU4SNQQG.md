@@ -1,5 +1,5 @@
 ---
-title: "Principles of Good Practice in Dealing with Risk in Agriculture: A Review of Agricultural Decision Analysis"
+title: "UU4SNQQG"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,24 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UU4SNQQG" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2174933" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UU4SNQQG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-UU4SNQQG" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UU4SNQQG" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-UU4SNQQG" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-UU4SNQQG"></div>
 </article>
 <div id="csl-bib-meta-UU4SNQQG" class="csl-bib-meta">
-  <article id="abstract-article-UU4SNQQG" class="abstract-article">
-    <h1>Samandrag</h1>
-    Because the analysis of risky choice in agriculture is important but difficult, agricultural economists need both 
-suggestions on how they can do decision analysis better and some agreed-on principles. In this chapter, we argue 
-that the importance of risk aversion has generally been exaggerated relative to the task of finding better ways to 
-deduce relevant and reliable probabilities. Getting better probabilities demands careful thought, drawing on what 
-is known about the pitfalls and on evolving insights into better methods. Our aim is to stimulate a debate leading 
-to a clearer consensus about better practice in these matters.
-  </article>
   <article id="contributors-article-UU4SNQQG" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -70,7 +60,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_no.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>46</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=2#archive" class="sdg-publication-count"><span>46</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Job Satisfaction Among Psychomotor Physiotherapists in Norway"
+title: "YMIPXCNW"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YMIPXCNW" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2047039" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YMIPXCNW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-YMIPXCNW" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-YMIPXCNW" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-YMIPXCNW" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.1177/00469580221126763" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-YMIPXCNW"></div>
 </article>
 <div id="csl-bib-meta-YMIPXCNW" class="csl-bib-meta">
-  <article id="abstract-article-YMIPXCNW" class="abstract-article">
-    <h1>Samandrag</h1>
-    The objective of the study was to investigate (i) levels of job satisfaction among employed and self-employed psychomotor physiotherapists in Norway and (ii) factors associated with job satisfaction. Although there are several studies on job satisfaction among physiotherapists, there is limited knowledge about job satisfaction among psychomotor physiotherapists in Norway. A cross-sectional survey was distributed to Norwegian psychomotor physiotherapists (n = 64) via a weblink. Job satisfaction was measured with 2 different scales (Warr’s and Speakman’s Job Satisfaction Scales). Group differences were analyzed with chi-squared tests and independent sample t-tests. Adjusted associations with job satisfaction were analyzed with multivariate linear regression. Fifty-eight women (90.6%) and 6 men (9.4%) were included in the study. The results revealed an overall high level of job satisfaction among the participants. None of the independent variables were associated with ratings on Warr’s Job Satisfaction Scale. When using Speakman’s Job Satisfaction Scale as outcome, employed practitioners had a higher level of job satisfaction, compared to their self-employed counterparts ( P &lt; .01). Being employed was associated with a higher level of job satisfaction, compared to being self-employed. Self-employed physiotherapists also felt more overworked and experienced the job to be more physically demanding than their counterparts.
-  </article>
   <article id="contributors-article-YMIPXCNW" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 4L3213
     <div class="sdg-container"><div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>54</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

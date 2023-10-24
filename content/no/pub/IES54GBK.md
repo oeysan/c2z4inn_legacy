@@ -1,5 +1,5 @@
 ---
-title: "Editorial - Special issue: 'Darkness matters'"
+title: "IES54GBK"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IES54GBK" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2100037" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/IES54GBK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-IES54GBK" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IES54GBK" class="csl-bib-button">Medverkande</a>
+    <a href="https://journals.oslomet.no/index.php/rerm/article/download/2229/2225" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-IES54GBK"></div>
 </article>
 <div id="csl-bib-meta-IES54GBK" class="csl-bib-meta">
-  <article id="abstract-article-IES54GBK" class="abstract-article">
-    <h1>Samandrag</h1>
-      
-  </article>
   <article id="contributors-article-IES54GBK" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

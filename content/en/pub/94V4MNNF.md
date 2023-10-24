@@ -1,5 +1,5 @@
 ---
-title: "From Silence to Speaking Up About Sexual Violence in Greece: Olympic Journeys in a Culture That Neglects Safety"
+title: "94V4MNNF"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-94V4MNNF" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2022182" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/94V4MNNF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-94V4MNNF" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-94V4MNNF" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-94V4MNNF" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2022.862450/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-94V4MNNF"></div>
 </article>
 <div id="csl-bib-meta-94V4MNNF" class="csl-bib-meta">
-  <article id="abstract-article-94V4MNNF" class="abstract-article">
-    <h1>Abstract</h1>
-    The present study scrutinizes the role of societal culture in cases of sexual violence in Greek sport, as presented in the media after a two times Olympic medalist of Greece fired up the “‘me too’ Movement” in the country. Specifically, data for this study consisted of 36 media articles (14 international in the English language and 22 national in the Greek language), reporting multiple cases of sexual abuse and harassment in Greek sport and were published between January 2021 and January 2022. We drew on the cultural praxis heuristic to explore how the cultural setting operates as an underlying factor in priming athletes for harassment and abuse and in oppressing them into not speaking up. Our thematic analysis of media data revealed two overarching themes, namely, keeping the home intact and failed negotiations with power . Based on these findings, we discuss how subtle manifestations of patriarchy and collectivism perpetuate sexualized violence in Greek sport as they promote a climate of silence, prevent safeguarding, maintain underreporting of sexual violence, and delayed the arrival of the #metoo. We conclude that under the current circumstances, change seems to be a threat to all involved in Greek sport, yet for different reasons. For the coaches, sport officials, stakeholders, state system, change would require them to relinquish male powers and authority, find new meaning of what it means to be and do as a man, and allow women to be seen as counterparts. For the female athletes-survivors, it would require them to prioritize the self and their self-care and let go of the in-group loyalty and subordination learned and exhibited from infancy. We also contend that mere translations of international and regional safeguarding guidelines and toolkits cannot foster awareness raising, nor the implementation of measures within cultural settings that divert from the Global North. If we care to combat the universal phenomenon of sexualized violence in sport, a glocal approach is needed, where local socio-cultural factors are acknowledged, their role is addressed, and violence is understood within its context.
-  </article>
   <article id="contributors-article-94V4MNNF" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -67,13 +63,13 @@ Room 4R4146
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg13" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg13_en.png" class="image" alt="SDG 13">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>43</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=13#archive" class="sdg-publication-count"><span>45</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal13" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

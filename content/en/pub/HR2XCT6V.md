@@ -1,5 +1,5 @@
 ---
-title: "Thinking about Progress: From Science to Philosophy"
+title: "HR2XCT6V"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HR2XCT6V" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1967259" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HR2XCT6V" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nous.12383" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-HR2XCT6V"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "Social Justice Pedagogies in School Health and Physical Education—Building Relationships, Teaching for Social Cohesion and Addressing Social Inequities"
+title: "JXA423EX"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JXA423EX" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1831829" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/JXA423EX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-JXA423EX" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JXA423EX" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-JXA423EX" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/1660-4601/17/18/6904/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JXA423EX"></div>
 </article>
 <div id="csl-bib-meta-JXA423EX" class="csl-bib-meta">
-  <article id="abstract-article-JXA423EX" class="abstract-article">
-    <h1>Samandrag</h1>
-    A focus on equity and social justice in school health and physical education (HPE) is pertinent in an era where there are growing concerns about the impact of neoliberal globalization and the precariousness of society. The aim of the present study was to identify school HPE teaching practices that promote social justice and more equitable health outcomes. Data were generated through 20 HPE lesson observations and post-lesson interviews with 13 HPE teachers across schools in Sweden, Norway, and New Zealand. The data were analysed following the principles of thematic analysis. In this paper, we present and discuss findings related to three overall themes: (i) relationships; (ii) teaching for social cohesion; (iii) and explicitly teaching about, and acting on, social inequities. Collectively, these themes represent examples of the enactment of social justice pedagogies in HPE practice. To conclude, we point out the difficulty of enacting social justice pedagogies and that social justice pedagogies may not always transform structures nor make a uniform difference to all students. However, on the basis of our findings, we are reaffirmed in our view that HPE teachers can make a difference when it comes to contributing to more socially just and equitable outcomes in HPE and beyond.
-  </article>
   <article id="contributors-article-JXA423EX" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -103,13 +99,13 @@ Rom 4R4140
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

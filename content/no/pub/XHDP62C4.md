@@ -1,5 +1,5 @@
 ---
-title: "Kunstens muligheter i spesialpedagogisk arbeid"
+title: "XHDP62C4"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XHDP62C4" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2043202" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XHDP62C4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-XHDP62C4" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XHDP62C4" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-XHDP62C4"></div>
 </article>
 <div id="csl-bib-meta-XHDP62C4" class="csl-bib-meta">
-  <article id="abstract-article-XHDP62C4" class="abstract-article">
-    <h1>Samandrag</h1>
-    Kunst og kultur kan ha en positiv effekt på barn og unges læring, identitetsutvikling og danning. Estetiske og kunstneriske uttrykk, kan for mange barn utgjøre selve mulighetsrommet til å utrykke følelser, og gi opplevelse av mestring og deltakelse. Kunstens muligheter i spesialpedagogisk arbeid handler om at også de med særlige behov, får sjansen til å engasjere seg i det som skjer med dem selv og andre.Boka handler om hvordan kunstfagene kan bidra til opplevelser, glede, trivsel og inkludering, for barn med særlige behov i barnehage, skole og på andre arenaer. Forfatterne presenterer ulike perspektiver på kunstnerisk og spesialpedagogisk arbeid innen kunst og håndverk, litteratur, musikk, dans og drama.Boka henvender seg til lærerutdanningene og til fagmiljøene innen pedagogikk, spesialpedagogikk og kunst og kulturfag, på høgskole og universitet. Den er også relevant for helse- og sosialfaglige utdanninger. I tillegg retter boka seg mot pedagogisk psykologisk tjeneste og statlige pedagogiske støttetjenester, foreldre og andre som på ulikt vis arbeider med barn og unge med særlige behov.
-  </article>
   <article id="contributors-article-XHDP62C4" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

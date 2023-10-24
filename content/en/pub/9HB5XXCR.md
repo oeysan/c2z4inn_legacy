@@ -1,5 +1,5 @@
 ---
-title: "Qualitative and quantitative examination of metaphorical language use in career-life preparedness"
+title: "9HB5XXCR"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9HB5XXCR" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1916233" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/9HB5XXCR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-9HB5XXCR" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9HB5XXCR" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-9HB5XXCR"></div>
 </article>
 <div id="csl-bib-meta-9HB5XXCR" class="csl-bib-meta">
-  <article id="abstract-article-9HB5XXCR" class="abstract-article">
-    <h1>Abstract</h1>
-    Vocational theories, research, and intervention practices are embodied in, mediated by, and emergent from metaphorical language that is socio-culturally, historically, and intellectually situated in social-political-economic evolution. Although metaphors have been recognised as ubiquitous in communication and fundamental to meaning making in notions of career, workforce, and organisations, metaphor remains underexplored in naturalistic discourse within the field. This chapter introduces a reliable and replicable procedure for metaphor identification: The Metaphor Identification Procedure Vrije Universiteit (MIPVU) for application to such discourse. We demonstrate MIPVU using transcribed student testimonials from higher education promotional online videos of an Australian and Norwegian university. MIPVU affords an integrated qualitative and quantitative approach to examine career-life preparedness. We showcase MIPVU as a methodological resource that can enhance understanding of how individuals prepare for, make meaning about, and manage their learning, work, and career development over their lifespan.
-  </article>
   <article id="contributors-article-9HB5XXCR" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

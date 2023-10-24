@@ -1,5 +1,5 @@
 ---
-title: "Subject-language perspectives on multilingual students learning in science"
+title: "5HU5PMX2"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5HU5PMX2" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2120172" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/5HU5PMX2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-5HU5PMX2" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-5HU5PMX2" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-5HU5PMX2" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.scimath.net/download/subject-language-perspectives-on-multilingual-students-learning-in-science-12568.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-5HU5PMX2"></div>
 </article>
 <div id="csl-bib-meta-5HU5PMX2" class="csl-bib-meta">
-  <article id="abstract-article-5HU5PMX2" class="abstract-article">
-    <h1>Samandrag</h1>
-    In this study, we have explored the ways in which small-group work in science can contribute to strengthen multilingual students’ subject language and conceptual development when working with language-oriented classroom activities in primary classrooms. The aim is to determine whether it is possible to identify factors in interactions in small-group work that strengthen and facilitate the students’ language development. We have focused on how students orally formulate themselves when describing observations, hypotheses, and explanations of certain scientific experiments on the properties of air. An important starting point has been that students’ successive development of a subject-specific language is crucial for their conceptual development and understanding. The analyses of the dialogues have made it possible to study how individual students gradually develop their way of expressing themselves by taking over others’ expressions and word choices and making their own. The analysis also shows that these dialogical situations are crucial for all students to develop their language use in science, primarily through probing a more precise way of expressing themselves and putting their scientific ideas and thoughts into words. An important conclusion is that students should be offered opportunities and space to develop their subject language register in science and that this is important for all students, but crucial for those for whom the language of instruction is a second language.
-  </article>
   <article id="contributors-article-5HU5PMX2" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 2N2209
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

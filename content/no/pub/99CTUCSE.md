@@ -1,5 +1,5 @@
 ---
-title: "Incorrigible science and doctrinal pseudoscience"
+title: "99CTUCSE"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-99CTUCSE" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2151781" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/99CTUCSE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-99CTUCSE" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-99CTUCSE" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/02698595.2023.2218264?needAccess=true&amp;role=button" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-99CTUCSE"></div>
 </article>
 <div id="csl-bib-meta-99CTUCSE" class="csl-bib-meta">
-  <article id="abstract-article-99CTUCSE" class="abstract-article">
-    <h1>Samandrag</h1>
-    I respond to Sven Ove Hansson’s [2020. "Disciplines, Doctrines, and Deviant Science." International Studies in the Philosophy of Science 33 (1): 43-52. doi:10.1080/02698595.2020.1831258] discussion note on my (Letrud 2019) critique of his (2013) pseudoscience definition. My critique addressed what I considered to be issues with his choice of definiendum, the efficiency of the definition for debunking pseudoscience, and a problematic extensional overlap with bad science. I attempted to solve these issues by proposing some modifications to his definition. I shall address the four main points of the discussion: whether the primary definiendum ought to be ‘pseudoscience’ or ‘pseudoscientific statement’ (I make a moderate case for ‘pseudoscience’), whether ‘discipline’ is an apt category for the definiens (it is, extensionally), and how to go about debunking pseudoscience (it is complicated). And, perhaps most importantly, whether Hansson’s definition of pseudoscientific statement subsumes examples of bad science, and thus science. I present a case study of efforts at correcting unreliable models proliferating in the research literature. This case demonstrates how bad science can satisfy Hansson’s criteria for pseudoscientific statement, including the criterion of deviant doctrine.
-  </article>
   <article id="contributors-article-99CTUCSE" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Navigating through Cyber Threats, A Maritime Navigator’s Experience"
+title: "PEWMPEYJ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PEWMPEYJ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2051080" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PEWMPEYJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-PEWMPEYJ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PEWMPEYJ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-PEWMPEYJ" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.54941/ahfe1002205" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-PEWMPEYJ"></div>
 </article>
 <div id="csl-bib-meta-PEWMPEYJ" class="csl-bib-meta">
-  <article id="abstract-article-PEWMPEYJ" class="abstract-article">
-    <h1>Samandrag</h1>
-    Cyber threats are emerging as a risk in the maritime industry. If the navigational systems on board a ship somehow fail to function because of a cyber incident, the navigator is an important asset who is expected to handle the problem and provide a solution to maintain the safety of the crew, the vessel, and the environment. The International Maritime Organization (IMO) urges the shipping industry to be resilient towards cyber threats. To facilitate for enhanced operational maritime cyber resilience, there is a need to understand how navigators interpret cyber threats, which can be essential to safely conduct nautical operations. This paper presents a qualitative study of navigators’ understanding of cyber threats based on interviews with ten navigators, and further provides recommendations for how use of this knowledge can contribute to enhanced maritime cyber resilience.
-  </article>
   <article id="contributors-article-PEWMPEYJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 3Ø003
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>64</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

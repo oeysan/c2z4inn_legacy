@@ -1,5 +1,5 @@
 ---
-title: "Kritisk blikk på tradisjonell selvmordsforebygging"
+title: "SQL6EQ25"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SQL6EQ25" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2048170" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SQL6EQ25" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SQL6EQ25" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-SQL6EQ25"></div>

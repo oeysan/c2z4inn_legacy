@@ -1,5 +1,5 @@
 ---
-title: "Managing Risk in Agriculture: A Development Perspective"
+title: "IVDVTK2F"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IVDVTK2F" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2174930" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/IVDVTK2F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-IVDVTK2F" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IVDVTK2F" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-IVDVTK2F" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-IVDVTK2F"></div>
 </article>
 <div id="csl-bib-meta-IVDVTK2F" class="csl-bib-meta">
-  <article id="abstract-article-IVDVTK2F" class="abstract-article">
-    <h1>Abstract</h1>
-    The book addresses and documents farmers' risks in developing and emerging economies. It draws lessons from experimental economics on measuring risk preferences, attitudes, gender differences in managing risks, and risk management strategies in countries across Africa and Asia. It argues policy makers, especially in emerging economies, need a better understanding of farmers' attitudes toward risk and choices of risk management strategies when designing policies to support production agriculture. The book includes chapters on three themes: understanding risk attitudes and preferences; using experimental economics to measure risk, preferences, and risk management strategies; and understanding climate change, risk, and risk management. The book critically examines the currently held beliefs about risk preference, attitudes, and empirical estimation of risk management strategies, emphasizing developing and emerging economies (DEE).
-  </article>
   <article id="contributors-article-IVDVTK2F" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -65,19 +60,19 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>46</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=2#archive" class="sdg-publication-count"><span>46</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>91</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg13" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg13_en.png" class="image" alt="SDG 13">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>43</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=13#archive" class="sdg-publication-count"><span>45</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal13" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

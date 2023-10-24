@@ -1,5 +1,5 @@
 ---
-title: "Investigating cow−calf contact in a cow-driven system: performance of cow and calf"
+title: "YMI3ETLH"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YMI3ETLH" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1897193" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/YMI3ETLH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-YMI3ETLH" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-YMI3ETLH" class="csl-bib-button">Contributors</a>
+    <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C69E210905F8833478792B0B2656E046/S0022029921000200a.pdf/div-class-title-investigating-cow-calf-contact-in-a-cow-driven-system-performance-of-cow-and-calf-div.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-YMI3ETLH"></div>
 </article>
 <div id="csl-bib-meta-YMI3ETLH" class="csl-bib-meta">
-  <article id="abstract-article-YMI3ETLH" class="abstract-article">
-    <h1>Abstract</h1>
-    In this research communication we describe the performance of dairy cow−calf pairs in two cow-driven CCC-systems differing in cows' access to the calves through computer-controlled access gates (smart gates, SG). We investigated cows' machine milk yield in the automatic milking system (AMS), calf growth, and intake of supplemental milk and concentrate. Two groups each with four cow-calf pairs were housed in a system with a cow area, a calf creep and a meeting area. SG's controlled cow traffic between the meeting area and the cow area where cows could obtain feed, cubicles and the AMS. Calves had ad libitum access to supplemental milk and concentrate. During the suckling phase of 31 d, cow access to the meeting area was free 24 h/d (group 1) or restricted (group 2) based on milking permission. Following the suckling phase, cow access was gradually decreased over 9 d (separation phase). During the suckling phase, cows' machine milk yield (mean ± sd ) in the AMS was 11.4 ± 6.38 kg/d. In the separation phase, the yield increased to 25.0 ± 10.37 kg/d. Calf average daily gain (ADG) was high during the suckling phase: 1.2 ± 0.74 kg. During the separation phase, ADG decreased to 0.4 ± 0.72 kg which may be related to a low intake of supplemental milk. Calves' concentrate intake increased with age, and all calves consumed &gt;1 kg/d after separation. We conclude that cows nurse the calf in a cow-directed CCC system well resulting in high ADG, and AMS milk yields were, at least, partially maintained during the suckling phase. Although the AMS yields increased in response to separation, calf ADG was decreased. A low sample size limits interpretation beyond description but provides a basis for hypotheses regarding future research into CCC-systems.
-  </article>
   <article id="contributors-article-YMI3ETLH" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

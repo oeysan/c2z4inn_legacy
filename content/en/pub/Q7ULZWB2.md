@@ -1,5 +1,5 @@
 ---
-title: "Post- COVID-19 Pandemic Education: The Student Perspective"
+title: "Q7ULZWB2"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Q7ULZWB2" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2065853" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Q7ULZWB2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-Q7ULZWB2" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Q7ULZWB2" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-Q7ULZWB2" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://papers.academic-conferences.org/index.php/ecel/article/download/916/825" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-Q7ULZWB2"></div>
 </article>
 <div id="csl-bib-meta-Q7ULZWB2" class="csl-bib-meta">
-  <article id="abstract-article-Q7ULZWB2" class="abstract-article">
-    <h1>Abstract</h1>
-    The COVID-19 pandemic can be considered to be a long-term crisis and the outcome of such a crisis is depending on the decisions made during the crisis. As a Higher Education Institution, we are now at a crossroad regarding how to utilize experiences learned during the pandemic. Before the COVID-19 pandemic, there were only a few online study programmes at the Inland Norway University of Applied Sciences, Rena, Norway. During the pandemic, all of the education provided was online.  There are now discussions amongst faculty staff regarding a return to the "ordinary" physical lectures or to embark on a hybrid way of educating students. However, equally important is what the students' perceptions of hybrid versus physical lectures are. We have therefor, through qualitative interviews, investigated what would suit the students’ needs. We have asked the students if they prefer digital teaching, physical teaching or a hybrid which combines both digital and physical teaching. In this paper we present the results from these investigations. The students feedback indicated clearly that they prefer physical teaching, but also that they would like to have access to digital recordings and lectures. We believe that his feedback is an important input to the further discussions on the New Normal in Higher Education Institutions.
-  </article>
   <article id="contributors-article-Q7ULZWB2" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -135,7 +131,7 @@ Room 3Ø103
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

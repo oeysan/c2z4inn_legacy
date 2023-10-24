@@ -1,5 +1,5 @@
 ---
-title: "Decades of Recorded Music for Children: Norwegian Children’s Phonograms from World War II to the Present"
+title: "CLKJIP5C"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CLKJIP5C" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1499265" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/CLKJIP5C" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-CLKJIP5C" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CLKJIP5C" class="csl-bib-button">Contributors</a>
+    <a href="https://journals.hioa.no/index.php/information/article/download/2276/2064" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-CLKJIP5C"></div>
 </article>
 <div id="csl-bib-meta-CLKJIP5C" class="csl-bib-meta">
-  <article id="abstract-article-CLKJIP5C" class="abstract-article">
-    <h1>Abstract</h1>
-    This article presents a study of Norwegian-recorded music for children from World War II to the present, combining a historical perspective with an ethnographic approach. The underlying research has employed both quantitative and qualitative approaches, producing various data sets. The results of the data analyses indicate that the evolution of children’s phonograms is characterized by some distinct genre- and style-related development features. This article describes and interprets such features in light of concepts and theories of children’s culture and music sociology. It also elaborates on the emergence of a music market aimed at children, with an emphasis on phonograms. The association with the popular music industry enables an apparent contradiction, addressed in this article, between pedagogical and commercial considerations and outcomes.
-  </article>
   <article id="contributors-article-CLKJIP5C" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

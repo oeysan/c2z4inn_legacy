@@ -1,5 +1,5 @@
 ---
-title: "Pricing commodity futures and determining risk premia in a three factor model with stochastic volatility: the case of Brent crude oil"
+title: "RH6Q3LYE"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RH6Q3LYE" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1925105" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RH6Q3LYE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RH6Q3LYE" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/s10479-021-04198-7" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-RH6Q3LYE"></div>
 </article>

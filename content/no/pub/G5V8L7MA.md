@@ -1,5 +1,5 @@
 ---
-title: "Issues of under-representation in quantitative DNA metabarcoding weaken the inference about diet of the tundra vole Microtus oeconomus"
+title: "G5V8L7MA"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-G5V8L7MA" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1941054" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/G5V8L7MA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-G5V8L7MA" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-G5V8L7MA" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.7717/peerj.11936" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-G5V8L7MA"></div>
 </article>
 <div id="csl-bib-meta-G5V8L7MA" class="csl-bib-meta">
-  <article id="abstract-article-G5V8L7MA" class="abstract-article">
-    <h1>Samandrag</h1>
-    During the last decade, methods based on high-throughput sequencing such as DNA metabarcoding have opened up for a range of new questions in animal dietary studies. One of the major advantages of dietary metabarcoding resides in the potential to infer a quantitative relationship between sequence read proportions and biomass of ingested food. However, this relationship’s robustness is highly dependent on the system under study, calling for case-specific assessments. Herbivorous small rodents often play important roles in the ecosystem, and the use of DNA metabarcoding for analyses of rodent diets is increasing. However, there has been no direct validation of the quantitative reliability of DNA metabarcoding for small rodents. Therefore, we used an experimental approach to assess the relationship between input plant biomass and sequence reads proportions from DNA metabarcoding in the tundra vole Microtus oeconomus. We found a weakly positive relationship between the number of high-throughput DNA sequences and the expected biomass proportions of food plants. The weak relationship was possibly caused by a systematic under-amplification of one of the three plant taxa fed. Generally, our results add to the growing evidence that case-specific validation studies are required to reliably make use of sequence read abundance as a proxy of relative food proportions in the diet.
-  </article>
   <article id="contributors-article-G5V8L7MA" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Behavioural disturbances in patients with frontotemporal lobe degeneration focusing on caregiver burden at home and in nursing homes"
+title: "LEHMAEQW"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LEHMAEQW" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1805535" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LEHMAEQW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LEHMAEQW" class="csl-bib-button">Contributors</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jocn.15208" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LEHMAEQW"></div>
 </article>

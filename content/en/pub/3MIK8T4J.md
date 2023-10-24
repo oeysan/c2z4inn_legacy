@@ -1,5 +1,5 @@
 ---
-title: "Promoting the Quality of Teacher-Toddler Interactions: A Randomized Controlled Trial of “Thrive by Three” In-Service Professional Development in 187 Norwegian Toddler Classrooms"
+title: "3MIK8T4J"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3MIK8T4J" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1967606" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3MIK8T4J" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-3MIK8T4J" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3MIK8T4J" class="csl-bib-button">Contributors</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.778777/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3MIK8T4J"></div>
 </article>
 <div id="csl-bib-meta-3MIK8T4J" class="csl-bib-meta">
-  <article id="abstract-article-3MIK8T4J" class="abstract-article">
-    <h1>Abstract</h1>
-    The effectiveness of the Thrive by Three intervention, a 10-month, multicomponent, in-service professional development model to promote the quality of caregiver-toddler interactions (i.e., process quality), was tested utilizing a clustered randomized controlled design. Eighty childcare centers with 187 toddler classrooms in Norway were randomly assigned to either the Thrive by Three intervention group (n=87) or a usual-activity wait list control group (n=100). Interactional quality was assessed with the Toddler version of the Classroom Assessment Scoring System (CLASS-Toddler) at three timepoints: pre-, mid-, and post-intervention. There were significant group differences in change in quality during the intervention period in both CLASS domains, Emotional and Behavioral Support (EBS), and Engaged Support for Learning (ESL), with greater overall differences in the ESL domain. Quality increased in the intervention groups, but quality decreased in the control group from baseline to post-intervention. There were significant group differences in quality at baseline. The Thrive by Three intervention had a positive effect on teacher-toddler interactions in both the EBS and ESL domains. Results need to be replicated preferably in more diverse samples.
-  </article>
   <article id="contributors-article-3MIK8T4J" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "«Mayday mayday Kielland velter …»: Redning og arbeidersolidaritet"
+title: "WDV45FT3"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WDV45FT3" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1903127" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/WDV45FT3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WDV45FT3" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.18261/issn.2387-5879-2021-01-10" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WDV45FT3"></div>
 </article>

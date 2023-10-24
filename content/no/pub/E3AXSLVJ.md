@@ -1,5 +1,5 @@
 ---
-title: "Predicting moose behaviors from tri-axial accelerometer data using a supervised classification algorithm"
+title: "E3AXSLVJ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E3AXSLVJ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2176356" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/E3AXSLVJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-E3AXSLVJ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-E3AXSLVJ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-E3AXSLVJ" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://animalbiotelemetry.biomedcentral.com/counter/pdf/10.1186/s40317-023-00343-0" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-E3AXSLVJ"></div>
 </article>
 <div id="csl-bib-meta-E3AXSLVJ" class="csl-bib-meta">
-  <article id="abstract-article-E3AXSLVJ" class="abstract-article">
-    <h1>Samandrag</h1>
-    Background Monitoring the behavior of wild animals in situ can improve our understanding of how their behavior is related to their habitat and affected by disturbances and changes in their environment. Moose ( Alces alces ) are keystone species in their boreal habitats, where they are facing environmental changes and disturbances from human activities. How these potential stressors can impact individuals and populations is unclear, in part due to our limited knowledge of the physiology and behavior of moose and how individuals can compensate for stress and disturbances they experience. We collected data from collar-mounted fine-scale tri-axial accelerometers deployed on captive moose in combination with detailed behavioral observations to train a random forest supervised classification algorithm to classify moose accelerometer data into discrete behaviors. To investigate the generalizability of our model to collared new individuals, we quantified the variation in classification performance among individuals. Results Our machine learning model successfully classified 3-s accelerometer data intervals from 12 Alaskan moose ( A. a. gigas ) and two European moose ( A. a. alces ) into seven behaviors comprising 97.6% of the 395 h of behavioral observations conducted in summer, fall and spring. Classification performance varied among behaviors and individuals and was generally dependent on sample size. Classification performance was highest for the most common behaviors lying with the head elevated, ruminating and foraging (precision and recall across all individuals between 0.74 and 0.90) comprising 79% of our data, and lower and more variable among individuals for the four less common behaviors lying with head down or tucked, standing, walking and running (precision and recall across all individuals between 0.28 and 0.79) comprising 21% of our data. ConclusionsWe demonstrate the use of animal-borne accelerometer data to distinguish among seven main behaviors of captive moose and discuss generalizability of the results to individuals in the wild. Our results can support future efforts to investigate the detailed behavior of collared wild moose, for example in the context of disturbance responses, time budgets and behavior-specific habitat selection.
-  </article>
   <article id="contributors-article-E3AXSLVJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -157,7 +153,7 @@ Rom 6N126
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

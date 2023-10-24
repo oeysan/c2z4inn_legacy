@@ -1,5 +1,5 @@
 ---
-title: "Sykepleiere strekker ikke til i arbeid med barn som pårørende"
+title: "XAQ99YKZ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XAQ99YKZ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1858152" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XAQ99YKZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XAQ99YKZ" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/issn.1892-2686-2020-04-05" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-XAQ99YKZ"></div>
 </article>

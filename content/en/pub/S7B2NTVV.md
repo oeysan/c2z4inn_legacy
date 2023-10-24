@@ -1,5 +1,5 @@
 ---
-title: "Forfatter og verk. Hvorfor vi må tenke nytt om Camilla Colletts I de lange netter"
+title: "S7B2NTVV"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,22 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-S7B2NTVV" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2007993" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/S7B2NTVV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-S7B2NTVV" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-S7B2NTVV" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/edda.109.1.3" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-S7B2NTVV"></div>
 </article>
 <div id="csl-bib-meta-S7B2NTVV" class="csl-bib-meta">
-  <article id="abstract-article-S7B2NTVV" class="abstract-article">
-    <h1>Abstract</h1>
-    Artikkelen gir en genetisk og litteraturhistoriografisk analyse av Camilla Colletts selvbiografi I de lange netter (Idln). 
-Den belyser tilblivelsen, mottakelsen og den litteraturfaglige forståelsen av Idln fra den første utgaven i 1863 og frem 
-til i dag. Med støtte i bokhistorisk teori samt brev, anmeldelser og andre paratekster gjøres en empirisk-genetisk analyse av de tre utgave av Idln som utkom i Colletts levetid. Tidligere ukjent historisk materiale kaster nytt lys over Idlns 
-tilblivelse og komposisjonshistorie, og viser at forholdet mellom begreper som «verk», «forfatter» og «forfatterskap» 
-i Idln må tenkes på nytt. Med en bokhistorisk og empirisk tilnærming til forfatterbegrepet utfordrer artikkelen innarbeidede fortolkninger av de norske utgavene så vel som forskningens fremstillinger av Colletts forfatterpraksis.
-  </article>
   <article id="contributors-article-S7B2NTVV" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

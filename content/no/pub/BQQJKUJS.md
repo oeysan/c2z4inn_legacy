@@ -1,5 +1,5 @@
 ---
-title: "Snus and Alcohol: Mutually Rewarding Effects in the Brain? A Matched Controlled Population Study"
+title: "BQQJKUJS"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BQQJKUJS" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1924380" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BQQJKUJS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-BQQJKUJS" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BQQJKUJS" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-BQQJKUJS" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.1177/11782218211027124" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-BQQJKUJS"></div>
 </article>
 <div id="csl-bib-meta-BQQJKUJS" class="csl-bib-meta">
-  <article id="abstract-article-BQQJKUJS" class="abstract-article">
-    <h1>Samandrag</h1>
-    Background:The use of moist smokeless tobacco (snus) is increasing in the U.S. and other Western countries, and especially among young people. Snus is associated with several health problems, but the relationship between use of snus and alcohol is scarcely explored. Neuro-cognitive and psychological research suggest an association due to possible mutually rewarding effects in the limbic brain. We investigated this issue in a matched controlled population study. Methods:Matched control group design where drinking habits and alcohol consumption in a group of users of snus (n = 1043, mean age = 35.20; n men = 749, n women = 294) were compared to a control group of non-users matched on age and gender (n = 1043, mean age = 35.65; n men = 749, n women = 294). In addition, we registered background variables such as level of education, income, self-perceived general, dental health, mental health, current depressive symptoms, and BMI. In estimation of alcohol consumption, the background variables were used as covariates in factorial analyses of variance (ANCOVA). Results:Users of snus had lower level of education, lower income, poorer general, dental, and mental health status than non-users, but there were no differences in BMI. Differences in mental health status were related to drinking habits. Users of snus had a higher frequency of drinking, higher frequency of intoxication, and showed more excess drinking. Controlled for background variables users of snus had a 25.2% higher estimated yearly consumption of alcohol in terms of standard units of alcohol on the weekdays, 26.4% higher on weekends and a 60.2% higher yearly excess consumption. Conclusion:Users of snus had an elevated alcohol consumption and another drinking style than non-users. The findings are discussed according to neuro-cognitive and psychopharmacological mechanisms, reward learning and conditioning. The results have implications for prevention, treatment and rehabilitation of alcohol and nicotine dependence.
-  </article>
   <article id="contributors-article-BQQJKUJS" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg1" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg01_no.png" class="image" alt="SDG 1">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>37</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=1#archive" class="sdg-publication-count"><span>39</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/utrydde-fattigdom?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

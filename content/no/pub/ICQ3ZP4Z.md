@@ -1,5 +1,5 @@
 ---
-title: "Building a resilient coexistence with wildlife in a more crowded world"
+title: "ICQ3ZP4Z"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ICQ3ZP4Z" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2139943" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ICQ3ZP4Z" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ICQ3ZP4Z" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ICQ3ZP4Z" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-ICQ3ZP4Z" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://academic.oup.com/pnasnexus/article-pdf/2/3/pgad030/49702587/pgad030.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ICQ3ZP4Z"></div>
 </article>
 <div id="csl-bib-meta-ICQ3ZP4Z" class="csl-bib-meta">
-  <article id="abstract-article-ICQ3ZP4Z" class="abstract-article">
-    <h1>Samandrag</h1>
-    There is an urgent need to sustainably coexist with wildlife. However, realizing this goal is hampered by scant understanding of the processes that facilitate and maintain coexistence. Here, we synthesize human–wildlife interactions into eight archetypal outcomes, from eradication to sustained co-benefits, which collectively serve as a heuristic for forms of coexistence across a wide range of species and systems worldwide. We utilize resilience theory to elucidate how and why human–wildlife systems shift between these archetypes, yielding insights on research and policy priorities. We underscore the importance of governance structures that actively enhance the resilience of coexistence.
-  </article>
   <article id="contributors-article-ICQ3ZP4Z" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -57,7 +53,7 @@ Studiested Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

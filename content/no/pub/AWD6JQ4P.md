@@ -1,5 +1,5 @@
 ---
-title: "Lim for løse koplinger? Lærere og ledere i samhandling om skoleutvikling i videregående skole"
+title: "AWD6JQ4P"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AWD6JQ4P" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1936400" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/AWD6JQ4P" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AWD6JQ4P" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-AWD6JQ4P"></div>

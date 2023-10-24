@@ -1,5 +1,5 @@
 ---
-title: "Urban concentration and labour market linkages in the Norwegian ICT services sector"
+title: "ANQVCWYN"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ANQVCWYN" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1475618" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/ANQVCWYN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-ANQVCWYN" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ANQVCWYN" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-ANQVCWYN" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.duo.uio.no/bitstream/10852/65066/1/PhD-Joeranli--2018.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ANQVCWYN"></div>
 </article>
 <div id="csl-bib-meta-ANQVCWYN" class="csl-bib-meta">
-  <article id="abstract-article-ANQVCWYN" class="abstract-article">
-    <h1>Samandrag</h1>
-    Building on research that emphasizes the dependence of services firms on the networks and experiences of individual employees, this paper investigates the urban concentration of information and communication technology services employment in Norway from the perspective of labour market linkages. It finds that urban regions generally provide firms with access to sector-specific expertise. Beyond this, intrinsic region characteristics determine the position of individual firms in national labour markets for expertise: Firms in the dominant university town have strong contact points to academic labour markets, whereas firms in the industrial stronghold of the Western Capital region exploit a broader range of recruitment channels than firms in any of the other urban and non-urban locations. The results illustrate how capability building through recruitment is influenced by local conditions, and imply that the industry will continue to concentrate in the large-city regions where surrounding organizations provide firms with priveliged access to expertise. Implications for research, innovation policy and societal development more generally are drawn.
-  </article>
   <article id="contributors-article-ANQVCWYN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -94,19 +90,19 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>54</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>64</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg11" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg11_no.png" class="image" alt="SDG 11">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>23</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=11#archive" class="sdg-publication-count"><span>23</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/baerekraftige-byer-og-lokalsamfunn?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

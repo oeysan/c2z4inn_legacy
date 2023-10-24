@@ -1,5 +1,5 @@
 ---
-title: "Limited oxidative stress favors resistance to skeletal muscle atrophy in hibernating brown bears (Ursus Arctos)"
+title: "PM4NMSC7"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PM4NMSC7" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1753984" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PM4NMSC7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PM4NMSC7" class="csl-bib-button">Contributors</a>
+    <a href="https://www.mdpi.com/2076-3921/8/9/334/pdf?version=1566909425" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PM4NMSC7"></div>
 </article>

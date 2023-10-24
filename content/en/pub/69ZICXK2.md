@@ -1,5 +1,5 @@
 ---
-title: "RESTART Sustainable Business Model Innovation"
+title: "69ZICXK2"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-69ZICXK2" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1599859" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/69ZICXK2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://doi.org/10.1007/978-3-319-91971-3" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-69ZICXK2"></div>
 </article>

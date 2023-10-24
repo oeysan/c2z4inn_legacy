@@ -1,5 +1,5 @@
 ---
-title: "Decision-making and Risky Behavior in Individuals with Attention-Deficit/Hyperactivity Disorder: A 10-year Longitudinal Study"
+title: "CJZM72E6"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CJZM72E6" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2026100" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/CJZM72E6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CJZM72E6" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/87565641.2022.2082430" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-CJZM72E6"></div>
 </article>

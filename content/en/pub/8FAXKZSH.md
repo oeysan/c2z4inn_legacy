@@ -1,5 +1,5 @@
 ---
-title: "Determinants of Green Logistics in BRICS Countries: An Integrated Supply Chain Model for Green Business"
+title: "8FAXKZSH"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8FAXKZSH" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2096705" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/8FAXKZSH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-8FAXKZSH" class="csl-bib-button">Contributors</a>
+    <a href="https://lutpub.lut.fi/bitstream/10024/159342/3/awan_et_al_determinants_of.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-8FAXKZSH"></div>
 </article>

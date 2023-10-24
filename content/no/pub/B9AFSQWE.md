@@ -1,5 +1,5 @@
 ---
-title: "SMOKING AMONG ADOLESCENT MALES AT PULAU WEH, INDONESIA"
+title: "B9AFSQWE"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,27 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-B9AFSQWE" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1733582" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/B9AFSQWE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-B9AFSQWE" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-B9AFSQWE" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-B9AFSQWE" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://stikbar.org/ycabpublisher/index.php/PHI/article/download/287/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-B9AFSQWE"></div>
 </article>
 <div id="csl-bib-meta-B9AFSQWE" class="csl-bib-meta">
-  <article id="abstract-article-B9AFSQWE" class="abstract-article">
-    <h1>Samandrag</h1>
-    Background: Use of tobacco may cause severe diseases like cardiovascular diseases and lung cancer. Smoking is a major threat to public health in many low- and middle-income countries. 
- 
-Objective: The aim of this study is to assess the prevalence of smoking among boys in the age group 13-15 years at Pulau Weh in Indonesia, and identify factors associated with smoking. 
- 
-Methods: A cross-sectional study was conducted of 291 male students, aged 13-15 years, in three participating secondary schools. A modified version of the Global Youth Tobacco Survey questionnaire was used to collect data. The association between active smoking within the previous 30 days, and social and demographic factors was analysed by multiple logistic regressions. 
- 
-Results: 40.2% of the male students were habitual smokers at the time of the study. The adjusted odds of current smoking increased with increasing age (odds ratio [OR] = 5.1, 95% CI: 2.2–12.3); having a father with a university or university college education (OR = 2.7, 95% CI: 1.0–7.1); having friends who smoke (OR = 5.2, 95% CI: 1.6–16.5), having sibling who smoke (OR = 2.7, 95% CI: 1.2–6.2); having a father who smokes (OR = 2.1, 95% CI: 1.1–3.9) and attending a rural school (OR = 7.4, 95% CI: 2.8–19.6). 
- 
-Conclusions: Cigarette smoking was found to be prevalent among 13 to 15-year-old male students in Pulau Weh, Indonesia, significantly higher in students attending a rural school compared to those attending an urban school. Indonesia should take steps to redress the smoking epidemic among adolescents by various means, e.g., minimizing access to tobacco products, stricter enforcement of tobacco control laws and changing attitudes to smoking.
-  </article>
   <article id="contributors-article-B9AFSQWE" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -75,7 +63,7 @@ Rom 4L3202
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

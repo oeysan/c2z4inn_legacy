@@ -1,5 +1,5 @@
 ---
-title: "Samarbeid mellom forskere og medforskere : Erfaringer fra et prosjekt om brukermedvirkning i velferdstjenestene"
+title: "KHBGAY6D"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KHBGAY6D" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1698296" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/KHBGAY6D" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://www.idunn.no/file/pdf/67122914/2_samarbeid_mellom_forskere_og_medforskere_erfaringer_fr.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-KHBGAY6D"></div>
 </article>

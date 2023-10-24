@@ -1,5 +1,5 @@
 ---
-title: "Good Governance and National Information Transparency: A Comparative Study of 117 Countries"
+title: "6WJ5C4FS"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6WJ5C4FS" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2005035" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/6WJ5C4FS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-6WJ5C4FS" class="csl-bib-button">Contributors</a>
+    <a href="https://arxiv.org/pdf/2210.13151" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-6WJ5C4FS"></div>
 </article>

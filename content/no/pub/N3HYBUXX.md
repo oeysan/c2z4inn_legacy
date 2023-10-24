@@ -1,5 +1,5 @@
 ---
-title: "Factors influencing carrion communities are only partially consistent with those of deadwood necromass"
+title: "N3HYBUXX"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-N3HYBUXX" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2136167" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/N3HYBUXX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-N3HYBUXX" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-N3HYBUXX" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-N3HYBUXX" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s00442-023-05327-8.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-N3HYBUXX"></div>
 </article>
 <div id="csl-bib-meta-N3HYBUXX" class="csl-bib-meta">
-  <article id="abstract-article-N3HYBUXX" class="abstract-article">
-    <h1>Samandrag</h1>
-    Research on decomposer communities has traditionally focused on plant litter or deadwood. Even though carrion forms highly nutrient-rich necromass that enhance ecosystem heterogeneity, the factors influencing saprophytic communities remain largely unknown. For deadwood, experiments have shown that different drivers determine beetles (i.e., decay stage, microclimate, and space), fungi (i.e., decay stage and tree species) and bacteria (decay stage only) assemblages. To test the hypothesis that similar factors also structure carrion communities, we sampled 29 carcasses exposed for 30 days that included Cervus elaphus ( N  = 6), Capreolus capreolus ( N  = 18), and Vulpes vulpes ( N  = 5) in a mountain forest throughout decomposition. Beetles were collected with pitfall traps, while microbial communities were characterized using amplicon sequencing. Assemblages were determined with a focus from rare to dominant species using Hill numbers. With increasing focus on dominant species, the relative importance of carcass identity on beetles and space on bacteria increased, while only succession and microclimate remained relevant for fungi. For beetle and bacteria with focus on dominant species, host identity was more important than microclimate, which is in marked contrast to deadwood. We conclude that factors influencing carrion saprophytic assemblages show some consistency, but also differences from those of deadwood assemblages, suggesting that short-lived carrion and long-lasting deadwood both provide a resource pulse with different adaptions in insects and microbes. As with deadwood, a high diversity of carcass species under multiple decay stages and different microclimates support a diverse decomposer community.
-  </article>
   <article id="contributors-article-N3HYBUXX" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Studiested Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

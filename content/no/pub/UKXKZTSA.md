@@ -1,5 +1,5 @@
 ---
-title: "Morphological ontogeny of Nanhermannia sellnicki (Acari, Oribatida, Nanhermanniidae), and comments on Nanhermannia Berlese"
+title: "UKXKZTSA"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UKXKZTSA" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2170790" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UKXKZTSA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-UKXKZTSA" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UKXKZTSA" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.11646/zootaxa.5324.1.10" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-UKXKZTSA"></div>
 </article>
 <div id="csl-bib-meta-UKXKZTSA" class="csl-bib-meta">
-  <article id="abstract-article-UKXKZTSA" class="abstract-article">
-    <h1>Samandrag</h1>
-    The morphological ontogeny of Nanhermannia sellnicki Forsslund, 1958 is described and illustrated. In all juvenile stages the bothridial seta is minute, and two pairs of exobothridial setae are present (exa reduced to its alveolus, exp short). In the larva, the seta f1 is setiform but in the nymphs it is unobservable among cuticular tubercles. Most prodorsal and gastronotal setae of the larva are short while thouse of nymphs are long; seta in and all gastronotal and adanal setae are inserted in small individual depressions. In all instars the leg segments are oval in cross section and relatively thick, and most setae on tarsi are relatively short, thick or conical. The seta d accompanies solenidion σ on all genua, φ1 on tibia I and φ on other tibiae. 
-  </article>
   <article id="contributors-article-UKXKZTSA" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

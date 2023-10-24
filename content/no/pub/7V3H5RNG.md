@@ -1,5 +1,5 @@
 ---
-title: "Paramedics’ Experiences of Communication with Persons in Personal Crisis: An Exploratory Study"
+title: "7V3H5RNG"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7V3H5RNG" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1889705" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7V3H5RNG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7V3H5RNG" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-7V3H5RNG"></div>

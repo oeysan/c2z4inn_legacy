@@ -1,5 +1,5 @@
 ---
-title: "Anerkjennelse i skolen: en forutsetning for læring"
+title: "7GX2UAUP"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,21 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7GX2UAUP" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1818103" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7GX2UAUP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-7GX2UAUP" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7GX2UAUP" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-7GX2UAUP"></div>
 </article>
 <div id="csl-bib-meta-7GX2UAUP" class="csl-bib-meta">
-  <article id="abstract-article-7GX2UAUP" class="abstract-article">
-    <h1>Abstract</h1>
-    Læreplanreformen Fagfornyelsen, omtalt som skolens verdiløft, har som intensjon å sette barnet i sentrum for opplæringen og styrke elevenes motivasjon og lærelyst gjennom en mer elevaktiv undervisning. Dette er nødvendig i en skole hvor mange elever føler seg umyndiggjort, lite sett og får tildelt roller som passive mottakere av kunnskap. 
- 
-Forfatteren av denne boka viser at forutsetningen for å lykkes med dette er å anerkjenne elevene fordi anerkjennelse er menneskets mest grunnleggende psykologiske behov. Med utgangspunkt i anerkjennelsesteori viser forfatteren hva det innebærer i praksis i skolen og hvor avgjørende det er for barns faglige og sosiale læring. Han presenterer rammene for en anerkjennende pedagogikk og viser hvordan en slik praksis vil styrke alle elevers muligheter til deltakelse, mestring og læring. 
-Boka henvender seg til lærerstudenter, lærere, skoleledere og ansatte i lærerutdanningene og alle som er opptatt av å skape de beste betingelser for barns oppvekst.
-  </article>
   <article id="contributors-article-7GX2UAUP" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Conclusion: Out With the Old, In With the New? Explaining Changing EU–US Relations"
+title: "52PWUGGY"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-52PWUGGY" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2025361" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/52PWUGGY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-52PWUGGY" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-52PWUGGY" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-52PWUGGY" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.cogitatiopress.com/politicsandgovernance/article/download/5650/5650" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-52PWUGGY"></div>
 </article>
 <div id="csl-bib-meta-52PWUGGY" class="csl-bib-meta">
-  <article id="abstract-article-52PWUGGY" class="abstract-article">
-    <h1>Abstract</h1>
-    This article summarizes the thematic issue findings, focusing on the factors that contribute to stabilize or weaken EU–US relations. Seen together, the articles have systematically documented that there is a growing pressure on transatlantic relations both in multilateral institutional settings as well as in foreign and security policy. On the one hand, transatlantic relations within NATO are strengthening in the context of Russia’s new war in Ukraine, pushing Europe closer to the US and papering over disputes among European nations about the course of intra-European security cooperation. Shared norms and institutions as well as non-state actors with an interest in keeping the relationship strong for economic, strategic, or more normative reasons also serve to stabilize the relationship. On the other hand, longer-term geopolitical and economical structural changes together with domestic factors, particularly in the US, and in some cases diverging interests, suggest a parallel longer-term weakening of the relationship.
-  </article>
   <article id="contributors-article-52PWUGGY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -67,13 +63,13 @@ Room 3Ø113
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

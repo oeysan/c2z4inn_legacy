@@ -1,5 +1,5 @@
 ---
-title: "Developing big data analytics capability in a focal firm of a digital business ecosystem: The case of the Norwegian swine breeding industry"
+title: "K2EFK8MD"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,17 +9,12 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-K2EFK8MD" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1937359" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/K2EFK8MD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-K2EFK8MD" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
   </div>
   <div id="csl-bib-meta-container-K2EFK8MD"></div>
 </article>
 <div id="csl-bib-meta-K2EFK8MD" class="csl-bib-meta">
-  <article id="abstract-article-K2EFK8MD" class="abstract-article">
-    <h1>Abstract</h1>
-    This chapter addresses the topic of big data analytics (BDA) capability building in the context of digital business ecosystems (DBE). Particularly, it investigates how BDA capability is built in the focal firm of a DBE and how resources are managed in the BDA capability-building process. The study employs the resource management framework of Sirmon et al. (2007) to examine resource structuring and bundling processes in the context of a genetic technological company operating within a swine breeding DBE. The processes of acquiring and accumulating the big data resources are described, suggesting distinct challenges which require different managerial approaches and actions. The process of creating new capabilities, known as pioneering, illustrates how BDA capability is built through a complex multistage human-technological process involving all entities within a given DBE. The chapter also highlights the importance of understanding the context and its specificity for the study of BDA capability building.
-  </article>
   <article id="taxonomy-article-K2EFK8MD" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>

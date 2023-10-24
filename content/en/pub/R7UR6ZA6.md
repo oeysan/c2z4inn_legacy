@@ -1,5 +1,5 @@
 ---
-title: "Human Rights, Posthuman Ethics, and the Material Aesthetics of Flight in Contemporary Irish Poetry"
+title: "R7UR6ZA6"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-R7UR6ZA6" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1956640" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/R7UR6ZA6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-R7UR6ZA6" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-R7UR6ZA6" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-R7UR6ZA6" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.3366/iur.2021.0516" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-R7UR6ZA6"></div>
 </article>
 <div id="csl-bib-meta-R7UR6ZA6" class="csl-bib-meta">
-  <article id="abstract-article-R7UR6ZA6" class="abstract-article">
-    <h1>Abstract</h1>
-    This article examines a series of poems by Irish authors, and focuses on their engagement with human rights violations and conflicts through the metaphors and imagery of flight and the aerial view. It argues that these poems address the need for a shift away from the perspective of a defined, distinct human subject, and towards a posthumanist framework which emphasizes relational, situated, and embodied ethics and aesthetics in an interconnected world. Since the introduction of modern aviation, Irish poets have frequently employed the imagery of flying to consider poetry's role in relation to conflict and crisis. Here, the adoption of visual and material metaphors of flight and aerial travel in human rights contexts is discussed, particularly in poems by Seamus Heaney, Peter Sirr and Justin Quinn. Through a reimagined poetics of flight, these poets question established dichotomies between proximity and distance, and material embodiment and disembodied abstraction.
-  </article>
   <article id="contributors-article-R7UR6ZA6" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Campus Hamar
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

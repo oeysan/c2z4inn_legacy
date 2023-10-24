@@ -1,5 +1,5 @@
 ---
-title: "«Tenk deg at du balanserer på en line»: Unges fortellinger om å få til skolen når de bor i barnevernsinstitusjon"
+title: "XKXYU9WJ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XKXYU9WJ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2167996" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XKXYU9WJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-XKXYU9WJ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XKXYU9WJ" class="csl-bib-button">Contributors</a>
+    <a href="https://tidsskriftetbarn.no/index.php/barn/article/download/5625/8915" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-XKXYU9WJ"></div>
 </article>
 <div id="csl-bib-meta-XKXYU9WJ" class="csl-bib-meta">
-  <article id="abstract-article-XKXYU9WJ" class="abstract-article">
-    <h1>Abstract</h1>
-    Artikkelen tar utgangspunkt i intervjuer med ungdom på barnevernsinstitusjoner som tar eller har tatt videregående opplæring. Gjennom næranalyser av intervjuene med to av ungdommene som fullførte videregående skole, utforsker vi deres fortellinger om sin skoledeltakelse. Ungdommene fremhever egen innsats som avgjørende for at de klarte å fullføre skolegangen. De legger også vekt på at de voksne har tilrettelagt for lystbetonte aktiviteter med formål om å støtte opp under skolegangen. Med lupe på relasjonelle prosesser og aktiviteter mellom den unge og den voksne, belyser vi hvordan unges aktørskap og skoledeltakelse fasiliteres i relasjonen mellom den voksne og den unge. Vi viser også hvordan forskning på middelklassens sosialiseringspraksiser hjelper oss å få øye på hvordan voksne i samspillet med de unge, bidrar til å kultivere de unges motivasjon, driv og kompetanse for å få til skolen, og slik også bidrar til at de unge utvikler «tykkere» aktørskap. English abstract “Imagine Yourself Balancing on a Tightrope”: Young People’s Narratives About Mastering Schooling While Living in Residential Care The article is based on interviews with young people in residential care who attend or have attended upper secondary education. Through close analyses of the interviews with two young people who completed upper secondary education, we explore their narratives of schooling. The young people highlight their efforts to be crucial for completing school. They also emphasise adults’ efforts in arranging fun activities to support their schooling. With a magnifying glass on relational processes and activities between the young person and the adult, we shed light on how young people’s agency and school participation are facilitated in the relationship between the young and the adult. We also show how research into socialisation practices of the middle class helps us to see how adults, in their interaction with young people, contribute to cultivating the young people’s motvations, drive and competence to master school, and in this way, also contribute to the young people developing “thicker” agency.
-  </article>
   <article id="contributors-article-XKXYU9WJ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

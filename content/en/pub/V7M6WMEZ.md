@@ -1,5 +1,5 @@
 ---
-title: "Storytelling as an Approach to Voice Complaints and eWOM on Social Media/Facebook"
+title: "V7M6WMEZ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-V7M6WMEZ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1712769" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/V7M6WMEZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-V7M6WMEZ" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4018/978-1-5225-8575-6.ch004" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-V7M6WMEZ"></div>
 </article>

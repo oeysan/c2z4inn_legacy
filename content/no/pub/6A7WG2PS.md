@@ -1,5 +1,5 @@
 ---
-title: "Toward sustainable use of natural resources: Nexus between resource rents, affluence, energy intensity and carbon emissions in developing and transition economies"
+title: "6A7WG2PS"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6A7WG2PS" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2129521" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/6A7WG2PS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-6A7WG2PS" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-6A7WG2PS" class="csl-bib-button">Medverkande</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1477-8947.12275" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-6A7WG2PS"></div>
 </article>
 <div id="csl-bib-meta-6A7WG2PS" class="csl-bib-meta">
-  <article id="abstract-article-6A7WG2PS" class="abstract-article">
-    <h1>Samandrag</h1>
-    Sustainable use of natural resources would entail ensuring that derived economic benefits today do not undermine the welfare of generations to come. On this basis, this study examines the nexus between natural resource rents and carbon dioxide (CO2) emissions disaggregated into production and consumption-based (i.e., trade-adjusted) CO2 emissions for a selected panel of 45 developing and transition economies over the period 1995–2017. The empirical model also incorporates the impacts of population, affluence, and energy intensity. The results show that affluence increases production-based CO2 emissions by 1.407%, with the EKC's predicted inverted U-shaped curve only explaining consumption-based CO2 emissions. Economic reliance on natural resource rents and energy intensification contribute 0.022% and 0.766%, respectively, to CO2 emissions embedded in territorial production inventories and 0.035% and 0.583%, respectively, to CO2 emissions embedded in consumption inventories. The bootstrap non-causality test shows that historical data on each variable has significant predictive power for future CO2 emissions from both sources. The historical information about natural resource rents has significant predictive power over the future levels of affluence and energy intensity. Clearly, the results show that the environmental impact of natural resource rents is stronger when CO2 emissions are adjusted for trade and varies among the countries, with Bangladesh, Guinea, India, Malaysia, Mexico, Nigeria, Pakistan, Saudi Arabia, Vietnam, and Zimbabwe among the most affected countries. Overall, this study provides motivation for policies to keep the use of natural resources within sustainable limits.
-  </article>
   <article id="contributors-article-6A7WG2PS" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

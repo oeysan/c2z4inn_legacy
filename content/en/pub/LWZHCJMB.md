@@ -1,5 +1,5 @@
 ---
-title: "Is There a Hole in the Whole-School Approach? A Critical Review of Curriculum Understanding in Bullying Research"
+title: "LWZHCJMB"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LWZHCJMB" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1857961" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/LWZHCJMB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-LWZHCJMB" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LWZHCJMB" class="csl-bib-button">Contributors</a>
+    <a href="https://noredstudies.org/index.php/nse/article/download/2610/4519" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LWZHCJMB"></div>
 </article>
 <div id="csl-bib-meta-LWZHCJMB" class="csl-bib-meta">
-  <article id="abstract-article-LWZHCJMB" class="abstract-article">
-    <h1>Abstract</h1>
-    This article investigates curriculum understanding in bullying research and discusses how such an understanding can contribute to bullying prevention in schools. So far, no studies have systematically investigated an understanding of curriculum in research on bullying prevention. Building on a critical review of 29 studies, the article identifies curriculum as a broadly understood concept constricted in different categories of bullying research. Such compartmentalization, the article argues, may contribute to the underutilization of curriculum knowledge in bullying research and obstruct the development of new and innovative approaches to prevent bullying in schools. The study concludes that curriculum knowledge should be more explicitly addressed in bullying research, and that more collaboration is needed. Emphasizing a whole-school approach, without a broader understanding of curriculum, risks constraining the application of pedagogical knowledge in bullying prevention.
-  </article>
   <article id="contributors-article-LWZHCJMB" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

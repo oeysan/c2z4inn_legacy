@@ -1,5 +1,5 @@
 ---
-title: "The Process of Establishing a Green Climate: Face-To-Face Interaction between Leaders and Employees in the Microsystem"
+title: "4Q3TKEFN"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4Q3TKEFN" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1862269" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/4Q3TKEFN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-4Q3TKEFN" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-4Q3TKEFN" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-4Q3TKEFN" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-4Q3TKEFN"></div>
 </article>
 <div id="csl-bib-meta-4Q3TKEFN" class="csl-bib-meta">
-  <article id="abstract-article-4Q3TKEFN" class="abstract-article">
-    <h1>Samandrag</h1>
-    This study explores the processes of establishing a green organizational climate in small-scale companies. Previous studies have primarily focused on factors associated with pro-environmental behaviour in large organizations. The role of a green organizational climate—specifically, the interactional processes involved in the construction of a green climate—has largely been unexplored. Entrepreneurial small companies constitute an ideal arena in which to study the initial phase of greening processes. The present study examined the process of establishing a green organizational climate in seven small-scale Norwegian companies. This article presents a systems model that was developed to analyse how processes at different levels interact in the shaping of the green climate. The design was a longitudinal mixed-methods approach, consisting of focus-group interviews conducted in the field, a questionnaire and follow-up interviews with the leaders. Findings indicate that the construction of a green climate had a strong practise-based approach. The company founders were driven by environmental values; they sparked the initial green measures, influenced the employees—directly and indirectly—and also invited dialogue around and co-construction of the green climate. Frequent face-to-face interactions within the microsystem of the leaders/employees were decisive to the development of the green climate. The present study contributes to the understanding of the process of greening an organization: specifically, how green practice relates to the construction of a shared green climate. Contrary to previous research and theorizing, this study indicates that it is possible to “go green” without a superordinate green strategy.
-  </article>
   <article id="contributors-article-4Q3TKEFN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -125,7 +120,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg13" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg13_no.png" class="image" alt="SDG 13">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>43</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=13#archive" class="sdg-publication-count"><span>45</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/stoppe-klimaendringene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

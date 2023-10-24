@@ -14,6 +14,7 @@ type: pub
     <a href="#abstract-article-VXADD74A" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-VXADD74A" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-VXADD74A" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://academic.oup.com/ptj/advance-article-pdf/doi/10.1093/ptj/pzad014/49170792/pzad014.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VXADD74A"></div>
 </article>
@@ -114,7 +115,7 @@ Room 4L3233
     <div class="sdg-container"><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>110</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

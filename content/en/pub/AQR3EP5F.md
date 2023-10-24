@@ -1,5 +1,5 @@
 ---
-title: "Fritidsbygg i fjellområdet – en egen boligstruktur?"
+title: "AQR3EP5F"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AQR3EP5F" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1986386" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/AQR3EP5F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-AQR3EP5F" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AQR3EP5F" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.23865/noasp.151" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-AQR3EP5F"></div>
 </article>
 <div id="csl-bib-meta-AQR3EP5F" class="csl-bib-meta">
-  <article id="abstract-article-AQR3EP5F" class="abstract-article">
-    <h1>Abstract</h1>
-    Abstract: There are as many leisure and second homes in the mountainous region of Southern Norway as there are primary detached house residences, and since 2000, more than three second homes have been built for every detached house. The balance in housing stock between primary and second homes is rapidly shifting towards secondary homes. More than half of the second homes in the region, and practically all those built since 2000, have high technical standards (water, sewage, road access, Internet service, electricity, etc). On average they are used 60 to 90 days a year (chiefly weekends and holidays), with frequency depending on their technical standard. A recent demographic report reveals a declining and aging fixed population in the region and forecasts a continuing decline. Second homes in the region are mainly owned by those living in urban coastal areas outside the region, persons who are “invisible” in the local population analysis. A good half of all second homes, particularly the high-standard ones, are in agglomerations in outlying areas, forming a “recreational sprawl” where urban and rural residences are linked by “recreational commuting”. Covid-19 experiences, with widespread remote working from the second home, has also shown the elasticity between the two residential platforms. More than just a leisure home, the second home agglomerations may be viewed  more accurately as a unique housing stock being developed in mountain areas for  part-time rural community inhabitants. A new demographic approach will be necessary to monitor this aspect of the population in many modern rural societies.
-  </article>
   <article id="contributors-article-AQR3EP5F" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

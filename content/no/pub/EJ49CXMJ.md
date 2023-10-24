@@ -1,5 +1,5 @@
 ---
-title: "The growth impacts of agriculture value‐added , energy utilization, and environmental degradation in Pakistan: Causality in continuous wavelet transform approach"
+title: "EJ49CXMJ"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EJ49CXMJ" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2161723" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/EJ49CXMJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-EJ49CXMJ" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EJ49CXMJ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-EJ49CXMJ" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1477-8947.12306" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-EJ49CXMJ"></div>
 </article>
 <div id="csl-bib-meta-EJ49CXMJ" class="csl-bib-meta">
-  <article id="abstract-article-EJ49CXMJ" class="abstract-article">
-    <h1>Samandrag</h1>
-    Considering the increasing challenge to Pakistan's sustainable economic growth and development, the current study posits a fresh perspective on the dimension of attainable sustainable economic growth in the country. Based on this, a more innovative Granger causality of wavelet coherence and frequency domain approaches are employed to proffer inference for the relationship between economic growth, agriculture value‐added, energy utilization, urbanization, and environmental degradation via carbon dioxide (CO 2 ) emissions over the period 1965 to 2021. The result reveals that economic growth in Pakistan is positively related to the aforementioned variables with a significant dimension. Moreover, with a statistically significant degree of evidence, there is bidirectional causality between energy utilization and economic expansion. Similarly, there is a significant bidirectional causality between environmental degradation (as captured by carbon emission) and economic expansion. This better translates that historical information of energy utilization and carbon emissions could explain the future dimension of economic growth in Pakistan and vice versa. Expectedly, increasing urbanization and value‐added from the agricultural sector of the economy both Granger causes economic growth in Pakistan. The implication for the policymaker is that as much as economic growth is a vital indicator of sustainable development, the policy initiatives should reflect environmental, energy development, agricultural sector, and urban activities dimensions.
-  </article>
   <article id="contributors-article-EJ49CXMJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -66,13 +62,13 @@ Studiested Kongsvinger
     <div class="sdg-container"><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_no.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>46</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=2#archive" class="sdg-publication-count"><span>46</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg11" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg11_no.png" class="image" alt="SDG 11">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>23</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=11#archive" class="sdg-publication-count"><span>23</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/baerekraftige-byer-og-lokalsamfunn?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

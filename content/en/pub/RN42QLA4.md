@@ -1,5 +1,5 @@
 ---
-title: "Marked themes in English and Norwegian academic texts in the field of didactics"
+title: "RN42QLA4"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RN42QLA4" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1582106" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RN42QLA4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-RN42QLA4" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RN42QLA4" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-RN42QLA4" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://bells.uib.no/index.php/bells/article/download/1521/1304" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-RN42QLA4"></div>
 </article>
 <div id="csl-bib-meta-RN42QLA4" class="csl-bib-meta">
-  <article id="abstract-article-RN42QLA4" class="abstract-article">
-    <h1>Abstract</h1>
-    This study investigates the use of marked themes in the field of didactics. The material comprises research articles written in L1 English and Norwegian, and L2 English. The aim is to shed light on contrastive differences between Norwegian and English that may be used to inform novice writers about central textual features of academic texts within the field of didactics, and about potential transfer-related features that might give their texts a “foreign accent”. The results show that there are contrastive differences in the realization of and meanings expressed by marked themes, but that these differences cause few problems for L2 writers. The study further supports findings from previous research that show the importance of text type and academic discipline for thematic structure.
-  </article>
   <article id="contributors-article-RN42QLA4" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -95,7 +91,7 @@ Room 2C257-4
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

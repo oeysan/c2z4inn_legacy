@@ -1,5 +1,5 @@
 ---
-title: "A pilot study: Exploring the influence of COVID-19 on cardiovascular physiology and retinal microcirculation"
+title: "4XZAG4FU"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4XZAG4FU" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2172488" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/4XZAG4FU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://doi.org/10.1016/j.mvr.2023.104588" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-4XZAG4FU"></div>
 </article>

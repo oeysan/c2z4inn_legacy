@@ -1,5 +1,5 @@
 ---
-title: "Health-related quality of life in young Syrian refugees recently resettled in Norway"
+title: "4ZSDZUE2"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4ZSDZUE2" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1818367" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/4ZSDZUE2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-4ZSDZUE2" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-4ZSDZUE2" class="csl-bib-button">Medverkande</a>
+    <a href="https://journals.sagepub.com/doi/pdf/10.1177/1403494820929833" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-4ZSDZUE2"></div>
 </article>
 <div id="csl-bib-meta-4ZSDZUE2" class="csl-bib-meta">
-  <article id="abstract-article-4ZSDZUE2" class="abstract-article">
-    <h1>Samandrag</h1>
-    Aims: Millions have fled from the civil unrest in Syria, and half of these are children and youth. Although they are a population with an elevated risk of health problems due to adverse pre-migratory and post-migratory experiences, few studies have explored their health-related quality of life (HRQoL). This is considered a fundamental construct in public health and might provide complementary descriptions of their health and well-being after resettling in a new country. Methods: This was a cross-sectional study of 160 Syrian youth aged 13–24 years. Using KIDSCREEN-27, the results for five dimensions of HRQoL was compared to population norm data. Demographic factors and war-related adverse events were used to predict HRQoL in hierarchical regression. Results: For most participants, the overall HRQoL was good, but it was lower in the dimensions for friends, physical well-being and psychological well-being compared to population norms. Scores in the dimensions for autonomy/parental relation and the school environment were high and were the main contributors to a positive HRQoL. Age and number of reported stressful events (SE) had the greatest impact on HRQoL, but the final regression model only accounted for 21% of the total variance. Conclusions: HRQoL is a relevant and non-invasive measure for refugee youth. Contributors to lower scores in physical and psychological well-being should be explored further and indicate the potential for future interventions focussing on general psychological well-being and networks, regardless of the SE that have been experienced. These interventions could potentially be based in schools or in families in order to benefit from these being seemingly safe environments for the majority of the group.
-  </article>
   <article id="contributors-article-4ZSDZUE2" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

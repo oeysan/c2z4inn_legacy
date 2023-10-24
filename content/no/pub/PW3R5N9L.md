@@ -1,5 +1,5 @@
 ---
-title: "Bladsjå: Dølen om pressa 1858-1870"
+title: "PW3R5N9L"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PW3R5N9L" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1727064" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/PW3R5N9L" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PW3R5N9L" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-PW3R5N9L"></div>

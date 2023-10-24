@@ -1,5 +1,5 @@
 ---
-title: "“Go beyond your own comfort zone and challenge yourself”: A comparison on the use of physically active learning in Norway, the Netherlands and the UK"
+title: "39FYRLMF"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-39FYRLMF" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2042473" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/39FYRLMF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-39FYRLMF" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.1016/j.tate.2022.103825" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-39FYRLMF"></div>
 </article>

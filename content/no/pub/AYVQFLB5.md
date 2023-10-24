@@ -1,5 +1,5 @@
 ---
-title: "Age and leadership: comparisons of age groups in different kinds of work environment"
+title: "AYVQFLB5"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AYVQFLB5" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1845390" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/AYVQFLB5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AYVQFLB5" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.emerald.com/insight/content/doi/10.1108/MRR-01-2020-0040/full/pdf?title=age-and-leadership-comparisons-of-age-groups-in-different-kinds-of-work-environment" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-AYVQFLB5"></div>
 </article>

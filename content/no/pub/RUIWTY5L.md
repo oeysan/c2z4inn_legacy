@@ -1,5 +1,5 @@
 ---
-title: "Regional innovation strategy for resilience and transformative industrial path development: Evolutionary theoretical perspectives on innovation policy"
+title: "RUIWTY5L"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RUIWTY5L" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1925449" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RUIWTY5L" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-RUIWTY5L" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RUIWTY5L" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-RUIWTY5L" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.47743/ejes-2021-si03" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-RUIWTY5L"></div>
 </article>
 <div id="csl-bib-meta-RUIWTY5L" class="csl-bib-meta">
-  <article id="abstract-article-RUIWTY5L" class="abstract-article">
-    <h1>Samandrag</h1>
-    Many countries in the developed world are currently experiencing low rates of economic growth, which is furthermore regionally and socially unequal. This increasing inequality seems to have deepened during the Corona crisis. When economic policies are discussed in these demanding times, the strategic question remains whether the best strategy is to seek to bounce back to the ‘old normal’, or to use this critical time as a conjuncture to departure on a development path to a ‘new normal’ that is more innovative, sustainable, and inclusive. In light of this, the main aim of this paper is to look for new perspectives on theory and policy with important implications for promoting the most radical forms of industrial path development, viz. path diversification based on unrelated knowledge combinations and new path creation, securing the adaptability of an economy to become more resilient.
-  </article>
   <article id="contributors-article-RUIWTY5L" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -57,13 +53,13 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>189</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

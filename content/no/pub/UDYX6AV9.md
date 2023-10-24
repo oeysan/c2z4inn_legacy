@@ -1,5 +1,5 @@
 ---
-title: "Effect of maturity and temperature during storage in carrot ( Daucus carota subsp. sativus ) on storage diseases after long time storage"
+title: "UDYX6AV9"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UDYX6AV9" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2086209" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/UDYX6AV9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.17660/ActaHortic.2023.1363.29" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-UDYX6AV9"></div>
 </article>

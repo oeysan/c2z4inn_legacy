@@ -1,5 +1,5 @@
 ---
-title: "Numerasitet og voksne nyankomne med liten skolebakgrunn - En utprøving av intervju med tolk som kartleggingsmetode"
+title: "HN5M3YPT"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HN5M3YPT" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1894220" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/HN5M3YPT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HN5M3YPT" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-HN5M3YPT"></div>

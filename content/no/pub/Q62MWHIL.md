@@ -1,5 +1,5 @@
 ---
-title: "“ And if you gaze long into an abyss, the abyss gazes also into thee ”: four morphs of Arctic charr adapting to a depth gradient in Lake Tinnsjøen"
+title: "Q62MWHIL"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Q62MWHIL" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1818559" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/Q62MWHIL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-Q62MWHIL" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Q62MWHIL" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-Q62MWHIL" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/eva.12983" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-Q62MWHIL"></div>
 </article>
 <div id="csl-bib-meta-Q62MWHIL" class="csl-bib-meta">
-  <article id="abstract-article-Q62MWHIL" class="abstract-article">
-    <h1>Samandrag</h1>
-    The origin of species is a central topic in biology. Ecological speciation might be a driver in adaptive radiation, providing a framework for understanding mechanisms, level, and rate of diversification. The Arctic charr Salvelinus alpinus L. is a polymorphic species with huge morphological and life‐history diversity in Holarctic water systems. We studied adaptive radiation of Arctic charr in the 460‐m‐deep Lake Tinnsjøen to (a) document eco‐morphology and life‐history traits of morphs, (b) estimate reproductive isolation of morphs, and (c) illuminate Holarctic phylogeography and lineages colonizing Lake Tinnsjøen. We compared Lake Tinnsjøen with four Norwegian outgroup populations. Four field‐assigned morphs were identified in Lake Tinnsjøen: the planktivore morph in all habitats except deep profundal, the dwarf morph in shallow‐moderate profundal, the piscivore morph mainly in shallow‐moderate profundal, and a new undescribed abyssal morph in the deep profundal. Morphs displayed extensive life‐history variation in age and size. A moderate‐to‐high concordance was observed among morphs and four genetic clusters from microsatellites. mtDNA suggested two minor endemic clades in Lake Tinnsjøen originating from one widespread colonizing clade in the Holarctic. All morphs were genetically differentiated at microsatellites ( FST : 0.12–0.20), associated with different mtDNA clade frequencies. Analyses of outgroup lakes implied colonization from a river below Lake Tinnsjøen. Our findings suggest postglacial adaptive radiation of one colonizing mtDNA lineage with niche specialization along a depth–temperature–productivity–pressure gradient. Concordance between reproductive isolation and habitats of morphs implies ecological speciation as a mechanism. Particularly novel is the extensive morph diversification with depth into the often unexplored deepwater profundal habitat, suggesting we may have systematically underestimated biodiversity in lakes. In a biological conservation framework, it is imperative to protect endemic below‐species‐level biodiversity, particularly so since within‐species variation comprises an extremely important component of the generally low total biodiversity observed in the northern freshwater systems.
-  </article>
   <article id="contributors-article-Q62MWHIL" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -125,7 +121,7 @@ Studiested Evenstad
     <div class="sdg-container"><div id="sdg14" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg14_no.png" class="image" alt="SDG 14">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>41</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=14#archive" class="sdg-publication-count"><span>42</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-i-havet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "Enabling efficient bioconversion of birch biomass by Lentinula edodes: regulatory roles of nitrogen and bark additions on mushroom production and cellulose saccharification"
+title: "2PPICRKZ"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2PPICRKZ" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2114631" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/2PPICRKZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-2PPICRKZ" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-2PPICRKZ" class="csl-bib-button">Contributors</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s13399-020-00794-y.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-2PPICRKZ"></div>
 </article>
 <div id="csl-bib-meta-2PPICRKZ" class="csl-bib-meta">
-  <article id="abstract-article-2PPICRKZ" class="abstract-article">
-    <h1>Abstract</h1>
-    Pretreatment with edible white-rot fungi has advantages in low inputs of energy and chemicals for reducing the recalcitrance of woody biomass for bioethanol production while harvesting protein-rich food. The effectiveness of fungal pretreatment may vary with substrate composition. In this study, birch with or without bark and nitrogen additives were experimentally studied for their effects on shiitake production, substrate lignocellulosic degradation and enzymatic convertibility with cellulolytic enzymes. Whey was added as protein nitrogen and led to successful outcomes, while non-protein nitrogen urea and ammonium-nitrate resulted in mortality of fungal mycelia. The mushroom yields of one harvest were generally comparable between the treatments, averaging 651 g fresh weight per kilogram dry substrate, and high enough as to be profitable. Nitrogen loading (0.5–0.8%, dry mass) negatively affected lignin degradation and enzymatic convertibility and prolonged cultivation/pretreatment time. The added bark (0–20%) showed quadratic correlation with degradation of lignin, xylan and glucan as well as enzymatic digestibility of glucan. Nitrogen loading of &lt; 0.6% led to maximal mass degradation of xylan and lignin at bark ratios of 4–9% and 14–19%, respectively, peak saccharification of glucan at 6–12% and the shortest pretreatment time at 8–13% bark. The designed substrates resulted in 19–35% of glucan mass loss after fungal pretreatment, less than half of the previously reported values. Nitrogen and bark additions can regulate lignocellulose degradation and saccharification of birch-based substrates. The designed substrate composition could considerably reduce cellulose consumption during fungal pretreatment, thus improving bioconversion efficiency.
-  </article>
   <article id="contributors-article-2PPICRKZ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

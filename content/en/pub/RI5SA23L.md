@@ -1,5 +1,5 @@
 ---
-title: "Parasite Spillover from Domestic Sheep to Wild Reindeer—The Role of Salt Licks"
+title: "RI5SA23L"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RI5SA23L" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2121743" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RI5SA23L" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-RI5SA23L" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RI5SA23L" class="csl-bib-button">Contributors</a>
+    <a href="https://www.mdpi.com/2076-0817/12/2/186/pdf?version=1676277545" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-RI5SA23L"></div>
 </article>
 <div id="csl-bib-meta-RI5SA23L" class="csl-bib-meta">
-  <article id="abstract-article-RI5SA23L" class="abstract-article">
-    <h1>Abstract</h1>
-    Attraction sites are important for environmental pathogen transmission and spillover. Yet, their role in wildlife disease dynamics is often poorly substantiated. Herein, we study the role of salt licks as potential attraction sites for the spillover of gastrointestinal parasites from domestic sheep to wild reindeer. Eggs from the introduced sheep nematode Nematodirus battus were found in faecal samples of both species, suggestive of spillover. DNA metabarcoding of soil, collected at salt licks, revealed that N. battus, in addition to Teladorsagia circumcincta, were the most frequently occurring parasitic nematodes, with a significantly higher prevalence of nematodal DNA in salt lick soil compared to soil from control sites nearby. The finding of similar DNA haplotypes of N. battus in sheep, reindeer, and salt lick soil supports the hypothesis of spillover to reindeer via salt licks. More detailed investigation of the genetic diversity of N. battus across these hosts is needed to draw firm conclusions. Infection with these sheep nematodes could potentially explain a recently observed decline in the calf recruitment rate of the Knutshø reindeer herd. This study also supports the hypothesized role of artificial salt licks as hot spots for the transmission of environmentally persistent pathogens and illustrates the importance of knowledge about such attraction points in the study of disease in free-roaming animals.
-  </article>
   <article id="contributors-article-RI5SA23L" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Sociological Aspects of Music Education in Higher Education in Brazil, Canada, Israel, Norway, and the United States During the COVID-19 Pandemic"
+title: "3KXVEZZW"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3KXVEZZW" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2109120" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/3KXVEZZW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-3KXVEZZW" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3KXVEZZW" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-3KXVEZZW" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-3KXVEZZW"></div>
 </article>
 <div id="csl-bib-meta-3KXVEZZW" class="csl-bib-meta">
-  <article id="abstract-article-3KXVEZZW" class="abstract-article">
-    <h1>Samandrag</h1>
-    The purpose of this study was to examine the sociological aspects of music education and perspectives of university music education professors in five continents in relation to remote learning during the COVID-19 pandemic. The concepts of community of practice and agency were used to investigate the social interaction, socialization, and collective impact of people and experiences observed in university-level music education in different parts of the world. As the global pandemic completely changed the conditions on university campuses and music education programs, each participant-author provided 1) an overview of the parameters of virtual and in-person instruction implemented by select institutions, 2) sociological aspects of music education in select institutions, and 3) the social, emotional, and mental health of students, faculty, and staff amidst the pandemic. As the conditions of the global pandemic had consequential impacts on music education programs at institutions of higher education in Brazil, Canada, Israel, Norway, and the United States, each university implemented varied models of instruction to address remote learning. Changes in conditions, circumstances, and sociological aspects of music education had an impact on the socialization, physical presence, and interaction, as well as on the social, emotional, and mental health of students, faculty, and staff. Universities need to broaden and secure services available to students, faculty, and staff that will cultivate supportive environments of learning, instruction, socialization, and communities of practice within music education departments and across the university.
-  </article>
   <article id="contributors-article-3KXVEZZW" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -68,7 +63,7 @@ Rom 2M28
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

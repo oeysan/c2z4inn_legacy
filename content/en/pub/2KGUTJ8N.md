@@ -1,5 +1,5 @@
 ---
-title: "‘Leave Your Ego at the Door’: A Narrative Investigation into Effective Wingsuit Flying"
+title: "2KGUTJ8N"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,30 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2KGUTJ8N" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1515463" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/2KGUTJ8N" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-2KGUTJ8N" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-2KGUTJ8N" class="csl-bib-button">Contributors</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01985/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-2KGUTJ8N"></div>
 </article>
 <div id="csl-bib-meta-2KGUTJ8N" class="csl-bib-meta">
-  <article id="abstract-article-2KGUTJ8N" class="abstract-article">
-    <h1>Abstract</h1>
-    In recent years there has been a rapid growth in interest in extreme sports. For the most 
-part research has focused on understanding motivations for participation in extreme 
-sports and very little research has attempted to investigate the psychological structure of 
-effective performance. Those few studies that have attempted to explore this issue have 
-tested models designed for traditional sport on adventure sports. However, extreme 
-sports are not the same as adventure sports or traditional sports. This study employed 
-a narrative approach to investigate experiences of effective performance in the extreme 
-sport of proximity wingsuit flying. An overarching theme we labeled ‘leave your ego at 
-the door,’ emerged based on four sub-themes: (1) know thy self, (2) know thy skills, (3) 
-know the environment now, and (4) tame the ‘inner animal.’ These themes are presented 
-and discussed in relation to performance and discovery narratives identified within elite 
-sport, thereby shedding light on how participants’ experiences of the extreme sport of 
-proximity wingsuit flying differ from dominant stories within traditional sports.
-  </article>
   <article id="contributors-article-2KGUTJ8N" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

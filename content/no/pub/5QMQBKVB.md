@@ -1,5 +1,5 @@
 ---
-title: "Using mathematical modelling to investigate the adaptive divergence of whitefish in Fennoscandia"
+title: "5QMQBKVB"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5QMQBKVB" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1808864" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/5QMQBKVB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-5QMQBKVB" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-5QMQBKVB" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-5QMQBKVB" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.nature.com/articles/s41598-020-63684-3.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-5QMQBKVB"></div>
 </article>
 <div id="csl-bib-meta-5QMQBKVB" class="csl-bib-meta">
-  <article id="abstract-article-5QMQBKVB" class="abstract-article">
-    <h1>Samandrag</h1>
-    Modern speciation theory has greatly benefited from a variety of simple mathematical models focusing on the conditions and patterns of speciation and diversification in the presence of gene flow. Unfortunately the application of general theoretical concepts and tools to specific ecological systems remains a challenge. Here we apply modeling tools to better understand adaptive divergence of whitefish during the postglacial period in lakes of northern Fennoscandia. These lakes harbor up to three different morphs associated with the three major lake habitats: littoral, pelagic, and profundal. Using large-scale individual-based simulations, we aim to identify factors required for in situ emergence of the pelagic and profundal morphs in lakes initially colonized by the littoral morph. The importance of some of the factors we identify and study - sufficiently large levels of initial genetic variation, size- and habitat-specific mating, sufficiently large carrying capacity of the new niche - is already well recognized. In addition, our model also points to two other factors that have been largely disregarded in theoretical studies: fitness-dependent dispersal and strong predation in the ancestral niche coupled with the lack of it in the new niche(s). We use our theoretical results to speculate about the process of diversification of whitefish in Fennoscandia and to identify potentially profitable directions for future empirical research.
-  </article>
   <article id="contributors-article-5QMQBKVB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -65,7 +61,7 @@ Studiested Evenstad
     <div class="sdg-container"><div id="sdg14" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg14_no.png" class="image" alt="SDG 14">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>41</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=14#archive" class="sdg-publication-count"><span>42</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-i-havet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

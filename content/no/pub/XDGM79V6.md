@@ -1,5 +1,5 @@
 ---
-title: "Exploring Customers’ Experiences of Service Co-Recovery"
+title: "XDGM79V6"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,20 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XDGM79V6" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1740734" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/XDGM79V6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-XDGM79V6" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XDGM79V6" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-XDGM79V6" class="csl-bib-button">Berekraftsmål</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1287/serv.2019.0246" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-XDGM79V6"></div>
 </article>
 <div id="csl-bib-meta-XDGM79V6" class="csl-bib-meta">
-  <article id="abstract-article-XDGM79V6" class="abstract-article">
-    <h1>Samandrag</h1>
-    Service recovery occurs when service exchange fails, often because resource integration has failed. In the co-recovery process, multiple actors (including the customer) interact to cocreate a favorable customer experience following failure. The aim of this paper is to extend an existing understanding of the activities and interactions that serve as resource integration drivers in customer co-recovery experiences. The article explores recovery situations in an interview-based empirical study. Based on the findings, the study develops an empirically derived model (5C), identifying and defining drivers of customer co-recovery and suggesting how firms should engage customers and other actors in the process. To heighten the practical implications, the study conceptualizes the customer recovery process by suggesting a “wheel of customer co-recovery” model.
-The occurrence of a service recovery situation shows that the intended service exchange has failed because resource integration has failed. In the co-recovery process, multiple actors (including the customer) interact to cocreate a favorable customer experience following this service failure. The aim of this paper is to extend an existing understanding of the activities and interactions that serve as resource integration drivers in customer co-recovery experiences. The article explores recovery situations in an interview-based empirical study. Based on the findings, the study develops an empirically derived model (5C), identifying and defining drivers of customer co-recovery and suggesting how firms should engage customers and other actors in the process. To heighten the practical implications, the study conceptualizes the customer recovery process by suggesting a “wheel of customer co-recovery” model. Overall, the article contributes to a deeper understanding of service recovery and the drivers of customers’ experiences of service co-recovery.
-  </article>
   <article id="contributors-article-XDGM79V6" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -101,7 +96,7 @@ Rom 3Ø205
     <div class="sdg-container"><div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>54</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

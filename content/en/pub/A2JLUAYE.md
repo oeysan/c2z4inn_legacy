@@ -1,5 +1,5 @@
 ---
-title: "Role of Non-Renewable Energy Efficiency and Renewable Energy in Driving Environmental Sustainability in India: Evidence from the Load Capacity Factor Hypothesis"
+title: "A2JLUAYE"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-A2JLUAYE" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2138560" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/A2JLUAYE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-A2JLUAYE" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-A2JLUAYE" class="csl-bib-button">Contributors</a>
+    <a href="https://www.mdpi.com/1996-1073/16/6/2847/pdf?version=1679210067" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-A2JLUAYE"></div>
 </article>
 <div id="csl-bib-meta-A2JLUAYE" class="csl-bib-meta">
-  <article id="abstract-article-A2JLUAYE" class="abstract-article">
-    <h1>Abstract</h1>
-    Policymakers and environmental scientists have proposed numerous measures toward achieving a sustainable environment. Some of these measures include the efficient use of energy and a clean energy transition. This study empirically investigates the role of non-renewable energy efficiency and renewable energy utilization in driving environmental sustainability in India over the period from 1965 to 2018. Using the approach of the Dynamic Autoregressive Distributed Lag (DyARDL) simulations, the empirical evidence shows that non-renewable energy efficiency and renewable energy utilization promote environmental sustainability through an increase in the load capacity factor. The effects of financial development and trade impede environmental sustainability through a decrease in the load capacity factor. The results further show that the relationship between income and load capacity factor is characterized by an inverted U-shape. This suggests that the load capability curve (LCC) hypothesis is not valid for India. Given the overall findings of this study, it is suggested that policymakers should promote energy efficiency and renewable energy technologies as the ultimate policy measure to mitigate the accumulation of CO2 emissions and other significant climatic changes in India.
-  </article>
   <article id="contributors-article-A2JLUAYE" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

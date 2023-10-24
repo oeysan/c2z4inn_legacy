@@ -1,5 +1,5 @@
 ---
-title: "On Service Innovation as an Interactive Process: A Case Study of the Engagement with Innovation of a Tourism Service"
+title: "FDHVMWSF"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FDHVMWSF" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1646767" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/FDHVMWSF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-FDHVMWSF" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FDHVMWSF" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-FDHVMWSF" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2076-0760/7/12/258/pdf?version=1544156548" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-FDHVMWSF"></div>
 </article>
 <div id="csl-bib-meta-FDHVMWSF" class="csl-bib-meta">
-  <article id="abstract-article-FDHVMWSF" class="abstract-article">
-    <h1>Samandrag</h1>
-    In the innovation studies literature, the process of innovation has been described as an interactive process that engages many different actors over time in the development and regeneration of goods and services. In the development and regeneration of tourism services, this often includes community actors. Yet, little attention has been paid to the way in which actors grasp the societal environment with which they interact, for example in intimate relationships or interactions with a wider community, and how such interaction formats may in turn affect the innovation process; for example, its desirability and visibility. The paper contributes to service and tourism innovation research by drawing on the concept of engagement to explain three cognitive formats of social interaction between innovators and their social environment. These are familiar engagement, engagement in plan, and engagement in justifiable action. The contribution to service and tourism innovation literature is to show how the varied capabilities of engagement impact innovation. Furthermore, based on a case study on a tourism service, the paper argues that the different formats of engagement typically must be combined and balanced in the innovation process.
-  </article>
   <article id="contributors-article-FDHVMWSF" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -87,13 +83,13 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>54</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>64</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

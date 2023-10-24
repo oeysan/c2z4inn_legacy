@@ -1,5 +1,5 @@
 ---
-title: "Implementation of Virtual Reality in Health Professional Higher Education: Protocol for a Scoping Review"
+title: "GWEHRJN8"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GWEHRJN8" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2037306" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/GWEHRJN8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-GWEHRJN8" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GWEHRJN8" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-GWEHRJN8" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.researchprotocols.org/2022/7/e37222/PDF" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-GWEHRJN8"></div>
 </article>
 <div id="csl-bib-meta-GWEHRJN8" class="csl-bib-meta">
-  <article id="abstract-article-GWEHRJN8" class="abstract-article">
-    <h1>Abstract</h1>
-    BackgroundThe use of virtual reality in higher education show great potential to promote novel and innovative learning experiences. Until recently, virtual reality has mostly been used in technical higher education, but lately medical education programs have begun using virtual reality. Virtual reality for health professional education improves the knowledge and skills of health professionals compared with traditional or other digital education initiatives. However, the implementation of technology in higher education is slow because of barriers to technology use and innovative and successful practices are not shared. It is, therefore, of great interest to explore how virtual reality is implemented in higher health professional and continuing education. ObjectiveThe aim of this scoping review is to identify studies that reported implementation of virtual reality in higher health professional education, to identify barriers and facilitators for implementation, and to highlight research gaps in this area. MethodsThe scoping review will be conducted according to JBI Evidence Synthesis methodologies. CINAHL, the Academic Search Elite and Education Source electronic databases, and Google Scholar will be searched for studies published between 2017 and 2022. In addition, manual searching of key items, reference tracking, and citation tracking will be performed. Searches for white papers will also be manually conducted. All authors will independently extract data from full-text papers. We will use qualitative content analysis to abstract the findings. ResultsThe literature searches were conducted in January and February 2022. The review is expected to be completed by fall 2022, after which time it will be submitted for publication. ConclusionsWe anticipate that, from the review, we will be able to coordinate recommendations for and present the challenges of virtual reality initiatives in health professional education programs. We will present recommendations for future research. International Registered Report Identifier (IRRID)DERR1-10.2196/37222
-  </article>
   <article id="contributors-article-GWEHRJN8" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,13 +59,13 @@ Room 4L3213
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>98</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

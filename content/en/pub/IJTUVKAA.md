@@ -1,5 +1,5 @@
 ---
-title: "Culturally responsive assessment in compulsory schooling in Denmark and Iceland - An illusion or a reality? A comparative study of student teachers’ experiences and perspectives"
+title: "IJTUVKAA"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,24 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IJTUVKAA" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2171486" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/IJTUVKAA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-IJTUVKAA" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#sdg-article-IJTUVKAA" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://journals.oslomet.no/index.php/nordiccie/article/download/5392/4633" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-IJTUVKAA"></div>
 </article>
 <div id="csl-bib-meta-IJTUVKAA" class="csl-bib-meta">
-  <article id="abstract-article-IJTUVKAA" class="abstract-article">
-    <h1>Abstract</h1>
-    This paper explores and compares student teachers’ experiences and perspectives on culturally responsive assessment in compulsory schooling in Denmark and Iceland. The study’s theoretical framework draws on scholarship on culturally responsive assessment. The data was derived from fourteen interviews with Danish student teachers and ten interviews with Icelandic student teachers. As per the selection criteria, all participants had to be in the final stages of their education process, meaning they had completed their on-site schoolteacher training and most courses in their teacher education programme. During the interviews, the participants reflected on pre-instructional, formative, and summative assessment practices with cultural diversity in mind. Furthermore, they discussed the importance of assessing children’s well-being. In both countries, the participants demonstrated positive attitudes towards cultural diversity and expressed awareness of considering children’s cultural and linguistic backgrounds when assessing them. On the other hand, most participants expressed criticism of teacher education programmes for lacking attention to the topic of culturally responsive assessment, which resulted in their rudimentary understanding of the theoretical underpinnings.
-  </article>
   <article id="sdg-article-IJTUVKAA" class="sdg-article">
     <h1>Sustainable Development Goals</h1>
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

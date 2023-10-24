@@ -14,7 +14,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; 
-    height: inherit !important;
+    height: inherit;
     display: flex;
     z-index: -1;
   }
@@ -29,9 +29,9 @@
     
   #overview article {
     display: grid;
-    box-shadow: none !important;
-    grid-gap: 100px !important;
-    max-width: 100% !important;
+    box-shadow: none;
+    grid-gap: 100px;
+    max-width: 100%;
   }
 
 
@@ -53,8 +53,8 @@
 
   
   #chart-container.full-viewport .chartjs  {
-    width: 100% !important;
-    max-height: 90vh !important;
+    width: 100%;
+    max-height: 90vh;
   }
   
   #chart-container.full-viewport .chartjs canvas {
@@ -62,7 +62,7 @@
   }
   
   .chartjs {
-    width: 550px !important;
+    width: 550px;
     display: flex;
     justify-content: center; /* Center horizontally */
     align-items: center; /* Center vertically */
@@ -79,8 +79,8 @@
 
   @media (min-height: 500px) and (min-width: 550px) {
     .fullscreen-toggle  {
-      display: inline-block !important;
-      opacity: 1 !important;
+      display: inline-block;
+      opacity: 1;
     }    
     .fullscreen-toggle span:hover {
       color: $global-flashy;
@@ -112,7 +112,7 @@
   @media (max-width: 1799px) {
     #overview article {
       grid-template-columns: 1fr;
-      margin: 30px !important;
+      margin: 30px;
     }
   }
 
@@ -147,7 +147,6 @@
     width: 100%;
 }
 
-
 .sdg-container .sdg {
     width: 140px;
     text-align: center;
@@ -161,11 +160,6 @@
     height: auto;
 }
 
-.sdg-container .sdg-publication-count {
-    margin: 0;
-}
-
-/* Initially hide the overlay */
 .sdg-overlay {
   display: none;
   position: absolute;
@@ -175,10 +169,44 @@
   bottom: 0;
   color: white;
   text-align: center;
-  /* Remove or change this property */
-  pointer-events: auto; /* Allow click events for the overlay */
+  pointer-events: auto;
   justify-content: center;
   align-items: center;
+}
+
+.sdg-publication-count {
+  margin: 0;
+  transition: font-size 0.1s linear;
+  color: $white;
+}
+
+.sdg-publication-count:hover {
+  font-size: 110%;
+}
+
+.sdg-overlay p {
+  margin: 0 auto;
+}
+
+.sdg-publication-count span {
+  font-size: 150%;
+  font-weight: bold;
+  display: block;
+}
+
+.sdg-read-more {
+  color: $white;
+  transition: text-decoration 0.5s ease;
+  text-decoration: none;
+}
+
+.sdg-read-more:hover {
+  text-decoration: underline;
+}
+
+.sdg:hover .sdg-overlay {
+  display: flex;
+  flex-direction: column; 
 }
 
 #sdg1 .sdg-overlay {background-color: rgba(229, 36, 59, 1);}
@@ -199,39 +227,12 @@
 #sdg16 .sdg-overlay {background-color: rgba(0, 104, 157, 1);}
 #sdg17 .sdg-overlay {background-color: rgba(25, 72, 106, 1);}
 
-/* Style the "Read More" link */
-.sdg-read-more {
-  color: $white !important;
-  text-decoration: underline !important;
-}
-
-.sdg-read-more:hover {
-  text-decoration: none !important;
-}
-
-/* When hovering over the .sdg container, show the overlay */
-.sdg:hover .sdg-overlay {
-  display: flex; /* Use flexbox for centering */
-  flex-direction: column; /* Stack elements vertically */
-}
-
-.sdg-overlay p {
-  margin: 0 auto;
-  transition: font-size 0.3s; /* Smooth transition effect */
-}
-
-.sdg-overlay span {
-  font-size: 150%;
-  font-weight: bolder;
-  display: block;
-}
 
 .slideshow-container {
   max-width: 700px;
   position: relative;
   margin: auto;
 }
-
 
 .slideshow-previous,
 .slideshow-next {
@@ -295,8 +296,8 @@
 }
 
 .canvas-hidden {
-  opacity: 0 !important;
-  transition: opacity 10.0s ease-in-out !important;
+  opacity: 0;
+  transition: opacity 10.0s ease-in-out;
 }
 
 .numbertext {
@@ -312,13 +313,13 @@
 
 @media only screen and (orientation: portrait) and (max-width: 768px)  {
   .chartjs {
-    height: 100vh !important;
+    height: 100vh;
   }
 }
 
 @media screen and (max-width: 450px) and (orientation: portrait) {
   html {
-    font-size: 80% !important;
+    font-size: 80%;
   }
 }
 
@@ -326,32 +327,32 @@
 
   #overview {
     article {
-      margin: 0 auto !important;
-      width: 95vw !important;
+      margin: 0 auto;
+      width: 95vw;
     }
   }  
 
   .chart {
-    display: block !important;
-    max-width: 100% !important;
+    display: block;
+    max-width: 100%;
   }
 
   .graph {
-    margin: 10px !important;
-    padding: 10px !important;
+    margin: 10px;
+    padding: 10px;
   }
 
   .right {
-    padding: 10px !important;
+    padding: 10px;
   }
   
   #chart-container {
-    width: 100% !important;
+    width: 100%;
     margin: 0;
   }
 
   .slideshow-buttons, .numbertext {
-    display: none !important;
+    display: none;
   }
 
 }
@@ -364,11 +365,11 @@
   height: 100%;
   z-index: 9998;
   background-color: $global-background;
-  overflow: hidden !important;
+  overflow: hidden;
   font-size: 130%;
 
   .graph {  
-    background-color: $global-background !important;
+    background-color: $global-background;
   }
 
   .numbertext {
@@ -391,20 +392,20 @@
   }
   
   .slideshow-container, .graph {
-    width: 100% !important;
-    max-width: 100% !important;
+    width: 100%;
+    max-width: 100%;
     justify-content: center;
     align-items: center;
   }
 
   .chart {
-    max-width: 800px !important;
-    width: 90vw !important;
+    max-width: 800px;
+    width: 90vw;
   }
 
   .chartjs {
-    max-width: 100% !important;
-    height: 80vh !important;
+    max-width: 100%;
+    height: 80vh;
   }
 
 }

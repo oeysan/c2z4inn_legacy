@@ -1,5 +1,5 @@
 ---
-title: "Introduction: Out With the Old, In With the New? Explaining Changing EU–US Relations"
+title: "7THKA2NS"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7THKA2NS" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2025360" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/7THKA2NS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-7THKA2NS" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7THKA2NS" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.cogitatiopress.com/politicsandgovernance/article/download/5597/5597" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7THKA2NS"></div>
 </article>
 <div id="csl-bib-meta-7THKA2NS" class="csl-bib-meta">
-  <article id="abstract-article-7THKA2NS" class="abstract-article">
-    <h1>Samandrag</h1>
-    When Russia invaded Ukraine in February 2022, Europe and the US quickly joined in a strong and coordinated response. But how significant is the Ukraine crisis response for longer-term trends in transatlantic relations? This thematic issue addresses this question by focusing on the factors that affect the strength of the transatlantic relationship. Only by exploring the impact of various structural, strategic, economic, institutional, and domestic factors can we better understand the current and future state of EU–US relations—both in normal times and in times of crisis. Two questions are explored across cases: First, is the EU–US relationship changing in various fields? Second, how can the putative changes (or stability) in EU–US relations be explained? For this purpose, the articles also operationalize and apply a common explanatory framework. This Introduction sets out and justifies the overall research questions, develops the analytical framework, and briefly explains the empirical focus of the articles that follow.
-  </article>
   <article id="contributors-article-7THKA2NS" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

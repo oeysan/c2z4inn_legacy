@@ -1,5 +1,5 @@
 ---
-title: "Et maktperspektiv på «gode nok foreldre» i barnevernets kontekst"
+title: "RLZJHV24"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RLZJHV24" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1483658" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/RLZJHV24" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RLZJHV24" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/issn.1891-1838-2017-02-05" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-RLZJHV24"></div>
 </article>

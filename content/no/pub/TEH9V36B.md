@@ -1,5 +1,5 @@
 ---
-title: "Om å bli noes talsperson: En kosmopolitisk tilnærming for en praksisnær forskning."
+title: "TEH9V36B"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TEH9V36B" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2121839" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TEH9V36B" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TEH9V36B" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/9788245035445" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-TEH9V36B"></div>
 </article>

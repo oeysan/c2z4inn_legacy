@@ -1,5 +1,5 @@
 ---
-title: "Lasting social value or a one-off? People with intellectual disabilities’ experiences with volunteering for the Youth Olympic Games"
+title: "SW9II5FV"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SW9II5FV" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1717583" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/SW9II5FV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SW9II5FV" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-SW9II5FV"></div>

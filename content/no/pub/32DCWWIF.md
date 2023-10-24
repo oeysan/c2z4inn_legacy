@@ -1,5 +1,5 @@
 ---
-title: "The association between executive functioning and parental stress and psychological distress is mediated by parental reflective functioning in mothers with substance use disorder"
+title: "32DCWWIF"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-32DCWWIF" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1715344" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/32DCWWIF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-32DCWWIF" class="csl-bib-button">Medverkande</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smi.2868" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-32DCWWIF"></div>
 </article>

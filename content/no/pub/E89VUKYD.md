@@ -1,5 +1,5 @@
 ---
-title: "Ultrafast and Cost-Effective Pathogen Identification and Resistance Gene Detection in a Clinical Setting Using Nanopore Flongle Sequencing"
+title: "E89VUKYD"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E89VUKYD" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2018346" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/E89VUKYD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-E89VUKYD" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-E89VUKYD" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-E89VUKYD" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fmicb.2022.822402/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-E89VUKYD"></div>
 </article>
 <div id="csl-bib-meta-E89VUKYD" class="csl-bib-meta">
-  <article id="abstract-article-E89VUKYD" class="abstract-article">
-    <h1>Samandrag</h1>
-    Rapid bacterial identification and antimicrobial resistance gene (ARG) detection are crucial for fast optimization of antibiotic treatment, especially for septic patients where each hour of delayed antibiotic prescription might have lethal consequences. This work investigates whether the Oxford Nanopore Technology’s (ONT) Flongle sequencing platform is suitable for real-time sequencing directly from blood cultures to identify bacteria and detect resistance-encoding genes. For the analysis, we used pure bacterial cultures of four clinical isolates of Escherichia coli and Klebsiella pneumoniae and two blood samples spiked with either E. coli or K. pneumoniae that had been cultured overnight. We sequenced both the whole genome and plasmids isolated from these bacteria using two different sequencing kits. Generally, Flongle data allow rapid bacterial ID and resistome detection based on the first 1,000–3,000 generated sequences (10 min to 3 h from the sequencing start), albeit ARG variant identification did not always correspond to ONT MinION and Illumina sequencing-based data. Flongle data are sufficient for 99.9% genome coverage within at most 20,000 (clinical isolates) or 50,000 (positive blood cultures) sequences generated. The SQK-LSK110 Ligation kit resulted in higher genome coverage and more accurate bacterial identification than the SQK-RBK004 Rapid Barcode kit.
-  </article>
   <article id="contributors-article-E89VUKYD" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 2N1248
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>221</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

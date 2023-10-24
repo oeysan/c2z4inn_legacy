@@ -1,5 +1,5 @@
 ---
-title: "Perseptuelle illusjoner i norske kommunevåpen"
+title: "VYAKSL93"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,18 +9,14 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VYAKSL93" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2153299" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/VYAKSL93" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-VYAKSL93" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VYAKSL93" class="csl-bib-button">Contributors</a>
+    <a href="https://journals.oslomet.no/index.php/formakademisk/article/download/4897/4604" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VYAKSL93"></div>
 </article>
 <div id="csl-bib-meta-VYAKSL93" class="csl-bib-meta">
-  <article id="abstract-article-VYAKSL93" class="abstract-article">
-    <h1>Abstract</h1>
-    Alle 356 kommuner i Norge har eget kommunevåpen, et visuelt kjennetegn for utøvelse av kommunal myndighet og som regel basert på heraldisk design. Kommunevåpen måtte tidligere godkjennes av Kongen i statsråd, men etter 1. januar 2018 kan alle kommuner godkjenne disse selv. Utformingen kan gjøre våpnene sårbare for perseptuelle illusjoner, og disse illusjonene kan påvirke fortolkningen av våpnene. Det er tre hovedkategorier illusjoner som er særlig aktuelle på dette området: Ansikts-illusjoner, form-illusjoner og Herrmann-gitre. Alle landets kommunevåpen er undersøkt med psykofysisk metodikk, og det ble registrert 47 våpen med illusjoner (13.2%). Det var flest ansikts-illusjoner, noen færre form-illusjoner og få Herrmann-gitre. Artikkelen påpeker nytten av perseptuell kompetanse både for kommuner, fylkeskommuner og formgivere. Framtidige kommunevåpen bør utformes slik at man unngår ulike former for perseptuelle illusjoner.  
-  </article>
   <article id="contributors-article-VYAKSL93" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

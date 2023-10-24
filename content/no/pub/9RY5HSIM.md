@@ -1,5 +1,5 @@
 ---
-title: "A 11‐day compressed overload and taper induces larger physiological improvements than a normal taper in elite cyclists"
+title: "9RY5HSIM"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,9 +9,10 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9RY5HSIM" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1715801" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/9RY5HSIM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9RY5HSIM" class="csl-bib-button">Medverkande</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sms.13536" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-9RY5HSIM"></div>
 </article>

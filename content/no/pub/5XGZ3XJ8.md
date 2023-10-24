@@ -1,5 +1,5 @@
 ---
-title: "Emotional reactions to climate change: a comparison across France, Germany, Norway, and the United Kingdom"
+title: "5XGZ3XJ8"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5XGZ3XJ8" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2168151" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/5XGZ3XJ8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-5XGZ3XJ8" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-5XGZ3XJ8" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-5XGZ3XJ8" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1139133/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-5XGZ3XJ8"></div>
 </article>
 <div id="csl-bib-meta-5XGZ3XJ8" class="csl-bib-meta">
-  <article id="abstract-article-5XGZ3XJ8" class="abstract-article">
-    <h1>Samandrag</h1>
-    We present a study of emotional reactions to climate change utilizing representative samples from France, Germany, Norway, and the United Kingdom (UK). Drawing on appraisal theories of emotion, we examine relations between appraisals, emotions, and behavioral intentions in the context of climate change. We compare the four countries concerning emotional differences and commonalities and relate our findings to pertinent models of cultural values. Five distinct emotions were measured: worry, hope, fear, outrage, and guilt. In addition, the survey asked respondents to appraise a set of climate-related statements, such as the causality of climate change, or the efficacy of mitigation efforts. Also, a set of climate-relevant actions, such as willingness to reduce energy consumption or support for climate policies, was assessed. Findings show that appraisals of human causation and moral concern were associated with worry and outrage, and appraisals of efficacy and technological solutions were associated with hope. Worry and outrage are associated with intentions to reduce one’s energy consumption, whereas hope and guilt are related to support for policies such as tax and price increases. A country comparison shows that French respondents score high on outrage and worry and tend to engage in individual behaviors to mitigate climate change, whereas Norwegian respondents score high on hope and show a tendency to support policies of cost increase. Generally, worry is the most and guilt the least intense emotion. Moral concerns and perceived collective efficacy of one’s country in addressing climate change are relatively strong in France, while beliefs in human causation and in negative impacts of climate change prevail in Germany, and confidence in technological solutions are prevalent in Norway. In sum, findings reveal typical patterns of emotional responses in the four countries and confirm systematic associations between emotions and appraisals as well as between emotions and behaviors. Relating these findings to models of cultural values reveals that Norway, endorsing secular and egalitarian values, is characterized by hope and confidence in technological solutions, whereas France and Germany, emphasizing relatively more hierarchical and traditional values, are rather characterized by fear, outrage, and support for behavioral restrictions imposed by climate change policies.
-  </article>
   <article id="contributors-article-5XGZ3XJ8" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -61,7 +57,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg13" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg13_no.png" class="image" alt="SDG 13">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>43</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=13#archive" class="sdg-publication-count"><span>45</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/stoppe-klimaendringene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

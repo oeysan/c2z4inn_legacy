@@ -1,5 +1,5 @@
 ---
-title: "Classification of behaviors of free-ranging cattle using accelerometry signatures collected by virtual fence collars"
+title: "A3YMDZUD"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-A3YMDZUD" class="csl-bib-button">Archive</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=2142639" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/A3YMDZUD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-A3YMDZUD" class="csl-bib-button">Abstract</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-A3YMDZUD" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-A3YMDZUD" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fanim.2023.1083272/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-A3YMDZUD"></div>
 </article>
 <div id="csl-bib-meta-A3YMDZUD" class="csl-bib-meta">
-  <article id="abstract-article-A3YMDZUD" class="abstract-article">
-    <h1>Abstract</h1>
-    Precision farming technology, including GPS collars with biologging, has revolutionized remote livestock monitoring in extensive grazing systems. High resolution accelerometry can be used to infer the behavior of an animal. Previous behavioral classification studies using accelerometer data have focused on a few key behaviors and were mostly conducted in controlled situations. Here, we conducted behavioral observations of 38 beef cows (Hereford, Limousine, Charolais, Simmental/NRF/Hereford mix) free-ranging in rugged, forested areas, and fitted with a commercially available virtual fence collar (Nofence) containing a 10Hz tri-axial accelerometer. We used random forest models to calibrate data from the accelerometers on both commonly documented (e.g., feeding, resting, walking) and rarer (e.g., scratching, head butting, self-grooming) behaviors. Our goal was to assess pre-processing decisions including different running mean intervals (smoothing window of 1, 5, or 20 seconds), collar orientation and feature selection (orientation-dependent versus orientation-independent features). We identified the 10 most common behaviors exhibited by the cows. Models based only on orientation-independent features did not perform better than models based on orientation-dependent features, despite variation in how collars were attached (direction and tightness). Using a 20 seconds running mean and orientation-dependent features resulted in the highest model performance (model accuracy: 0.998, precision: 0.991, and recall: 0.989). We also used this model to add 11 rarer behaviors (each 0.1% of the data; e.g. head butting, throwing head, self-grooming). These rarer behaviors were predicted with less accuracy because they were not observed at all for some individuals, but overall model performance remained high (accuracy, precision, recall ;98%). Our study suggests that the accelerometers in the Nofence collars are suitable to identify the most common behaviors of free-ranging cattle. The results of this study could be used in future research for understanding cattle habitat selection in rugged forest ranges, herd dynamics, or responses to stressors such as carnivores, as well as to improve cattle management and welfare.
-  </article>
   <article id="contributors-article-A3YMDZUD" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -245,7 +241,7 @@ Campus Evenstad
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>78</span> Publications</p>
+<a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

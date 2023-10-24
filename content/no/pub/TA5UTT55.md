@@ -1,5 +1,5 @@
 ---
-title: "Mashi – this language was in my ears: Metaphors of ‘language’ in language autobiographies narrated by Congolese migrants in Norway"
+title: "TA5UTT55"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,19 +9,15 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TA5UTT55" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1929996" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/TA5UTT55" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-TA5UTT55" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TA5UTT55" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-TA5UTT55" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.duo.uio.no/bitstream/10852/92131/1/MSW_Golden_Steien_Mashi.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TA5UTT55"></div>
 </article>
 <div id="csl-bib-meta-TA5UTT55" class="csl-bib-meta">
-  <article id="abstract-article-TA5UTT55" class="abstract-article">
-    <h1>Samandrag</h1>
-    In order to understand the process of learning new languages as adults, we need to take into account learners’ past experiences with all of their language(s), as such experiences shape attitudes and conceptualizations. In this paper, we present an analysis of metaphorical expressions in the narrated linguistic biographies of (former) refugees from the Democratic Republic of Congo (DRC) in Norway. The participants speak a multitude of languages, e.g., different local Congolese languages, Congolese national languages (Lingala or Swahili), French (the official language of the DRC), in addition to Norwegian (the language of the host society). Attention is paid to how the participants’ expressions align with conceptual metaphors emerged from work in Cognitive Linguistics, such as language is an object , language is a person and language is an identity marker , as well as specifications like language is a tool and language is a possession . We argue that awareness of conceptualizations of ‘language’ can contribute to the development of language training pedagogies that better reflect learners’ past experiences.
-  </article>
   <article id="contributors-article-TA5UTT55" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +59,7 @@ Rom 2C262-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<p class="sdg-publication-count"><span>164</span> Publikasjonar</p>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

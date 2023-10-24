@@ -1,5 +1,5 @@
 ---
-title: "Kroppens subjektivitet – glemt eller anerkjent i fysioterapifaget?"
+title: "BR3SREXS"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,22 +9,13 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BR3SREXS" class="csl-bib-button">Arkiv</a>
-    <a href="https://app.cristin.no/results/show.jsf?id=1431291" alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href="http://zotero.org/groups/5022929/items/BR3SREXS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
-    <a href="#abstract-article-BR3SREXS" class="csl-bib-button">Samandrag</a>
+    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BR3SREXS" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-BR3SREXS"></div>
 </article>
 <div id="csl-bib-meta-BR3SREXS" class="csl-bib-meta">
-  <article id="abstract-article-BR3SREXS" class="abstract-article">
-    <h1>Samandrag</h1>
-    Innledning: Artikkelens hensikt er å belyse at faglige begrep om kroppen er grunnleggende for fysioterapifaget.  Fysioterapeuter har til felles at de berører og berøres av andre menneskers kropper. Hvilke(n) kroppsforståelse(r) fysioterapeuter har felles, må dermed avklares. Barnekroppen brukes som case for å belyse relevansen av teori om kroppen. 
- 
-Hoveddel: Fysioterapeuter kan merke og fornemme den andres og egen kropp slik kroppene er og uttrykkes i bevegelse og berøring. For å gjøres faglig relevant må denne innsikten teoretiseres og gyldiggjøres innenfor fysioterapeutens faglige forståelse. Artikkelen presenterer teori som støtter opp om allerede etablerte forståelser av kroppen i fysioterapi.  
- 
-Avslutning: Ved å kombinere teori om kroppen med forskning om barnet som subjekt, bidrar artikkelen med innsikter som viderefører sentral forskning og litteratur om kroppen som er relevant for fysioterapi.
-  </article>
   <article id="contributors-article-BR3SREXS" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
