@@ -1,3 +1,7 @@
+# Hugo Library 0.1.6 
+
+* Minor bug in `SCSS` concerning charts section on handheld devices
+
 # Hugo Library 0.1.5 
 
 * Minor bug in `SCSS` concerning max-width

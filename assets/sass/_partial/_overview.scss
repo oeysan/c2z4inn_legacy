@@ -331,7 +331,7 @@
   }  
 
   .chart {
-    display: block;
+    display: block !important;
     max-width: 100%;
   }
 
@@ -345,12 +345,12 @@
   }
   
   #chart-container {
-    width: 100%;
+    width: 100% !important;
     margin: 0;
   }
 
   .slideshow-buttons, .numbertext {
-    display: none;
+    display: none !important;
   }
 
 }
@@ -376,14 +376,12 @@
     position: fixed;
   } 
   
-  /* Center the "previous button" to the left */
   .slideshow-previous, .slideshow-next  {
     position: fixed;
     top: 50%;
     transform: translateY(-50%);
   }
   
-  /* Center the "previous button" to the left */
   .slideshow-previous:hover, .slideshow-next:hover  {
     transform: translateY(-50%) scale(1.5);
     transition: transform 0s;
