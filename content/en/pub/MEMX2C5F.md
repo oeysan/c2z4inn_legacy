@@ -1,5 +1,5 @@
 ---
-title: "MEMX2C5F"
+title: "Scavenging patterns of an inbred wolf population in a landscape with a pulse of human‐provided carrion"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MEMX2C5F" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2160952" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/MEMX2C5F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-MEMX2C5F" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-MEMX2C5F" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-MEMX2C5F" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.10236" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-MEMX2C5F"></div>
 </article>
 <div id="csl-bib-meta-MEMX2C5F" class="csl-bib-meta">
+  <article id="abstract-article-MEMX2C5F" class="abstract-article">
+    <h1>Abstract</h1>
+    Scavenging is an important part of food acquisition for many carnivore species that switch between scavenging and predation. In landscapes with anthropogenic impact, humans provide food that scavenging species can utilize. We quantified the magnitude of killing versus scavenging by gray wolves ( Canis lupus ) in Scandinavia where humans impact the ecosystem through hunter harvest, land use practices, and infrastructure. We investigated the cause of death of different animals utilized by wolves, and examined how the proportion of their consumption time spent scavenging was influenced by season, wolf social affiliation, level of inbreeding, density of moose ( Alces alces ) as their main prey, density of brown bear ( Ursus arctos ) as an intraguild competitor, and human density. We used data from 39 GPS‐collared wolves covering 3198 study days (2001–2019), including 14,205 feeding locations within space–time clusters, and 1362 carcasses utilized by wolves. Most carcasses were wolf‐killed (80.5%) while a small part had died from other natural causes (1.9%). The remaining had either anthropogenic mortality causes (4.7%), or the cause of death was unknown (12.9%). Time spent scavenging was higher during winter than during summer and autumn. Solitary wolves spent more time scavenging than pack‐living individuals, likely because individual hunting success is lower than pack success. Scavenging time increased with the mean inbreeding coefficient of the adult wolves, possibly indicating that more inbred individuals resort to scavenging, which requires less body strength. There was weak evidence for competition between wolves and brown bears as well as a positive relationship between human density and time spent scavenging. This study shows how both intrinsic and extrinsic factors drive wolf scavenging behavior, and that despite a high level of inbreeding and access to carrion of anthropogenic origin, wolves mainly utilized their own kills.
+  </article>
   <article id="contributors-article-MEMX2C5F" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -93,7 +98,7 @@ Room 6N111
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

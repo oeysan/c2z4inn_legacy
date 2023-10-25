@@ -1,5 +1,5 @@
 ---
-title: "2TJNH8TB"
+title: "«Det er bare du som kan føle det du føler» – emosjonell investering og engasjement i nettdramaet SKAM"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,12 +9,17 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2TJNH8TB" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1478914" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/2TJNH8TB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-2TJNH8TB" class="csl-bib-button">Samandrag</a>
   </div>
   <div id="csl-bib-meta-container-2TJNH8TB"></div>
 </article>
 <div id="csl-bib-meta-2TJNH8TB" class="csl-bib-meta">
+  <article id="abstract-article-2TJNH8TB" class="abstract-article">
+    <h1>Samandrag</h1>
+    I SKAM-klippet «Tenker det du føler» sier Isak til Even at det er bare han som kan føle det han føler, før Even hvisker tilbake at slik som dette har han aldri følt før. Men tar han ikke feil? For er det ikke slik at også mange SKAM-seere har følt med Isak gjennom sesong 3? Kommentarfeltet som følger dette og andre SKAM-klipp vitner om mange seere med sterk emosjonell investering til seriens univers og karakterer. Men hva er det som gjør SKAM til en dramaserie så mange føler så sterkt rundt?
+  </article>
   <article id="taxonomy-article-2TJNH8TB" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>

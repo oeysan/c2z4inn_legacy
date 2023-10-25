@@ -1,5 +1,5 @@
 ---
-title: "4FPSJ4XS"
+title: "Utilization of somatic specialist services among psychiatric immigrant patients: the Norwegian patient registry study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4FPSJ4XS" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1632465" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/4FPSJ4XS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-4FPSJ4XS" class="csl-bib-button">Contributors</a>
     <a href="https://bmchealthservres.biomedcentral.com/track/pdf/10.1186/s12913-018-3672-y" class="csl-bib-button">Unpaywall</a>
   </div>

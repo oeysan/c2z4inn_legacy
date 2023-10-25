@@ -1,5 +1,5 @@
 ---
-title: "3YWAQP33"
+title: "Linking Structural Empowerment to Employee-Driven Innovation: The Mediating Role of Psychological Empowerment"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3YWAQP33" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1819329" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/3YWAQP33" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-3YWAQP33" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-3YWAQP33" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-3YWAQP33" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.mdpi.com/2076-3387/10/3/42/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-3YWAQP33"></div>
 </article>
 <div id="csl-bib-meta-3YWAQP33" class="csl-bib-meta">
+  <article id="abstract-article-3YWAQP33" class="abstract-article">
+    <h1>Samandrag</h1>
+    This paper aims to link structural empowerment to employee-driven innovation (EDI) with psychological empowerment as a mediation mechanism. Recently, there has been an increase in interest in utilizing all sources of knowledge in an organization to stimulate innovation among all employees. A clear understanding of some of the mechanisms used to achieve this is needed. The paper applies a quantitative approach based on two studies. Study 1 involved a total of 228 employees in a public sector organization, while study 2 involved 60 employees from a private sector organization. We employed structural equation modeling to test the hypothesized relationships among the variables. It was determined that both structural empowerment and psychological empowerment have a direct positive association with EDI. Second, the relationship between structural empowerment and EDI was partially mediated by psychological empowerment. EDI can only happen in an organization if employers and managers empower the ordinary employees to not only generate creative ideas but also to participate in its development and implementation.
+  </article>
   <article id="contributors-article-3YWAQP33" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -121,7 +126,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

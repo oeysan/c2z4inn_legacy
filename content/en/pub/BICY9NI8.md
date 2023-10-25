@@ -1,5 +1,5 @@
 ---
-title: "BICY9NI8"
+title: "Physical inactivity and platelet function in humans and brown bears: A comparative study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BICY9NI8" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1554470" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/BICY9NI8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BICY9NI8" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/09537104.2017.1336530" class="csl-bib-button">EZproxy</a>
   </div>

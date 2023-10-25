@@ -1,5 +1,5 @@
 ---
-title: "IWIS7VZA"
+title: "Five weeks of heat training increases haemoglobin mass in elite cyclists"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IWIS7VZA" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1820937" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/IWIS7VZA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IWIS7VZA" class="csl-bib-button">Medverkande</a>
     <a href="https://doi.org/10.1113/ep088544" class="csl-bib-button">Unpaywall</a>
   </div>

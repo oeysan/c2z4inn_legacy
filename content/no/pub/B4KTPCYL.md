@@ -1,5 +1,5 @@
 ---
-title: "B4KTPCYL"
+title: "Willingness to Take the COVID-19 Vaccine as Reported Nine Months after the Pandemic Outbreak: A Cross-National Study"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-B4KTPCYL" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1954452" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/B4KTPCYL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-B4KTPCYL" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-B4KTPCYL" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-B4KTPCYL" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.mdpi.com/2076-0760/10/11/442/pdf?version=1637562572" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-B4KTPCYL"></div>
 </article>
 <div id="csl-bib-meta-B4KTPCYL" class="csl-bib-meta">
+  <article id="abstract-article-B4KTPCYL" class="abstract-article">
+    <h1>Samandrag</h1>
+    Although vaccination has been identified as an effective measure of reducing the spread of COVID-19, hesitancy to obtain a vaccine for COVID-19 has been shared. The aim of this cross-national study was to examine (i) the willingness in the general population to take the COVID-19 vaccine nine months after the pandemic outbreak and (ii) the willingness to take the vaccine in relation to sociodemographic variables, whether one has experienced COVID-19 infection, concerns about health and family, and trust in the authorities’ information about the pandemic. A cross-sectional survey design was used to collect data online in Norway, the UK, the USA, and Australia. Chi-Square tests or Fisher’s Exact test were used to analyze the data. Logistic regression analysis was used to assess direct associations between the independent variables and the outcome. Within the total sample (n = 3474), living in a city, having a college education, being concerned about your own health and the health of next of kin, and trusting information provided by authorities increased the likelihood of reporting willingness to take the COVID-19 vaccine. Across all countries, participants who reported trust in the authorities’ information about COVID-19 demonstrated a significantly higher plausibility of taking the COVID-19 vaccine.
+  </article>
   <article id="contributors-article-B4KTPCYL" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

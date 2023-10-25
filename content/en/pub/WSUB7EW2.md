@@ -1,5 +1,5 @@
 ---
-title: "WSUB7EW2"
+title: "Epilogue: polycrisis and resilience in the European Union: Covid-19 and avenues for future studies"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WSUB7EW2" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2023501" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WSUB7EW2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WSUB7EW2" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4324/9780429054136-49" class="csl-bib-button">EZproxy</a>
   </div>

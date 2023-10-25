@@ -1,5 +1,5 @@
 ---
-title: "2VEQFRGR"
+title: "Teaching for Student and Societal Wellbeing in HPE: Nine Pedagogies for Social Justice"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2VEQFRGR" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1925232" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/2VEQFRGR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-2VEQFRGR" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-2VEQFRGR" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-2VEQFRGR" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fspor.2021.702922/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-2VEQFRGR"></div>
 </article>
 <div id="csl-bib-meta-2VEQFRGR" class="csl-bib-meta">
+  <article id="abstract-article-2VEQFRGR" class="abstract-article">
+    <h1>Samandrag</h1>
+    We currently find ourselves living in precarious times, with old and new social inequities on the rise due to the challenges associated with an unprecedented rise of global migration and neoliberalism, amplified in our post COVID-19 world. Research has demonstrated that there is a high correlation between inequality at the societal level and the overall health and wellbeing of individuals within those societies. We believe that school health and physical education (HPE) has a significant role to play in addressing and acting on social inequities that impact on the wellbeing of both students and society as a whole. Based on the findings of an international research project called EDUHEALTH which explored pedagogies for social justice in school health and physical education (HPE) across Sweden, Norway and New Zealand, this paper aims to highlight the addressing of (in)equality and student wellbeing through HPE practice. In particular, the paper presents nine different but complementary pedagogies for social justice that we believe can improve individual, collective, and societal wellbeing. We conclude by proposing that, if adopted across a whole school curriculum, these nine pedagogies for social justice could form the basis of a holistic school-wide community approach aimed at improving both student and societal wellbeing.
+  </article>
   <article id="contributors-article-2VEQFRGR" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

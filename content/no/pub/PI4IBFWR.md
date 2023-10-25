@@ -1,5 +1,5 @@
 ---
-title: "PI4IBFWR"
+title: "Litteraturformidling og kunstopplevelse: en studie av Den kulturelle skolesekken"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PI4IBFWR" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1698053" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PI4IBFWR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-PI4IBFWR" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-PI4IBFWR" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-PI4IBFWR"></div>
 </article>
 <div id="csl-bib-meta-PI4IBFWR" class="csl-bib-meta">
+  <article id="abstract-article-PI4IBFWR" class="abstract-article">
+    <h1>Samandrag</h1>
+    Gjennom Den kulturelle skolesekken får alle barn og unge i norsk skole møte kunst minst en gang i året. Litteratur er én av kunstartene som inngår i denne unike og omfattende ordningen. Elevene får møte litteratur på ulike måter, som forfatterbesøk, forestillinger, skriveverksted eller gjennom andre formidlingsformer. Forfatterne av denne boka har undersøkt hvordan litteraturformidlingen i Den kulturelle skolesekken formes og fungerer, sett fra de ulike perspektivene til de som er involvert; forfattere og formidlere som skaper litterære produksjoner, kulturaktører i fylker, kommuner og på skoler som legger til rette og elever, lærere og andre på skolene som tar imot produksjonene. Undersøkelsen gir et kunnskapsgrunnlag som kan brukes til å skape enda flere litterære øyeblikk som setter spor. Boka er nyttig for alle som er opptatt av hvordan en barne- og ungdomslitterær tekst blir til og formidles til barn og unge. Den er særlig viktig for forfattere og illustratører av barne- og ungdomslitteratur, de som arbeider med litteraturformidling i og utenfor Den kulturelle skolesekken, samt studenter og forskere innen lærerutdanningene, bibliotekutdanning, litteraturvitenskap og litteraturformidling, medievitenskap og kulturstudier. Denne vitenskapelige monografien er resultat av et kombinert forsknings- og kunstnerisk utviklingsprosjekt i regi av Norsk barnebokinstitutt.
+  </article>
   <article id="contributors-article-PI4IBFWR" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

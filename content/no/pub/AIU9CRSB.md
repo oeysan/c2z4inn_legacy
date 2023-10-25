@@ -1,5 +1,5 @@
 ---
-title: "AIU9CRSB"
+title: "Time in languages, languages in time"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AIU9CRSB" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1926441" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/AIU9CRSB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-AIU9CRSB" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-AIU9CRSB" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-AIU9CRSB" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-AIU9CRSB"></div>
 </article>
 <div id="csl-bib-meta-AIU9CRSB" class="csl-bib-meta">
+  <article id="abstract-article-AIU9CRSB" class="abstract-article">
+    <h1>Samandrag</h1>
+    This volume comprises a collection of contrastive studies on language and time. Languages represented include Czech, French, German, Mandarin, Norwegian and Swedish, all of which are contrasted with English. While the amount of published research on temporal relations in general is considerable, less work has been carried out on comparing how we talk about time in various languages and how languages change over time. Several methodological challenges are addressed and solutions proposed, such as how to deal with poor quality historical data and how to identify n-grams in typologically different languages for purposes of comparison. The results of the various studies show how multilingual corpora can increase our knowledge of language-specific features as well as linguistic, typological and cultural differences and similarities across languages.
+  </article>
   <article id="contributors-article-AIU9CRSB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

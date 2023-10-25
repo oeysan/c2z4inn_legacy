@@ -1,4 +1,5 @@
 .obsidian
+.RData
 .Rproj.user
 *.Rhistory
 .Renviron

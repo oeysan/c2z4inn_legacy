@@ -1,5 +1,5 @@
 ---
-title: "3LKP3ASC"
+title: "A sociometric approach to university teaching: Creating group cohesion and a safe learning climate with action methods"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3LKP3ASC" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2000240" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/3LKP3ASC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-3LKP3ASC" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/s11620-021-00646-5" class="csl-bib-button">EZproxy</a>
   </div>

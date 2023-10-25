@@ -1,5 +1,5 @@
 ---
-title: "VR97XGXS"
+title: "Online information seeking during the COVID-19 pandemic: A cross-country analysis"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VR97XGXS" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2101869" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VR97XGXS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-VR97XGXS" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-VR97XGXS" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-VR97XGXS" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://doi.org/10.1177/03400352221141466" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-VR97XGXS"></div>
 </article>
 <div id="csl-bib-meta-VR97XGXS" class="csl-bib-meta">
+  <article id="abstract-article-VR97XGXS" class="abstract-article">
+    <h1>Abstract</h1>
+    The aim of this study was to investigate the coronavirus-related web-searching patterns of people from the 10 most affected nations in September 2020. The authors extracted all searches for the sample nations, consisting of the two words ‘COVID-19’ and ‘coronavirus’ and their variations, from Google Trends for the complete year of 2020. The results showed a discrepancy due to the priority of the language used during searches for coronavirus-related information. The time span of the attention level of citizens towards coronavirus-related information was relatively short (about one month). This supports the assumption of the activation model of information exposure that information which generates a negative affect is not welcomed by users. The findings have practical implications for governments and health authorities in, for example, launching information services for citizens in the early months of a pandemic and them remaining as the preferred source of information for citizens.
+  </article>
   <article id="contributors-article-VR97XGXS" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

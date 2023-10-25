@@ -1,5 +1,5 @@
 ---
-title: "UU85IANA"
+title: "Barnebeskyttelseskonvensjonen, Haagkonvensjonen 1996"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UU85IANA" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1718479" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/UU85IANA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/issn.0809-9553-2019-01-05" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-UU85IANA"></div>

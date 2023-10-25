@@ -1,5 +1,5 @@
 ---
-title: "DSBY47ME"
+title: "Wherever I may roam—Human activity alters movements of red deer ( Cervus elaphus ) and elk ( Cervus canadensis ) across two continents"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DSBY47ME" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2157917" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DSBY47ME" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-DSBY47ME" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-DSBY47ME" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-DSBY47ME" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.16769" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-DSBY47ME"></div>
 </article>
 <div id="csl-bib-meta-DSBY47ME" class="csl-bib-meta">
+  <article id="abstract-article-DSBY47ME" class="abstract-article">
+    <h1>Samandrag</h1>
+    Human activity and associated landscape modifications alter the movements of animals with consequences for populations and ecosystems worldwide. Species performing long‐distance movements are thought to be particularly sensitive to human impact. Despite the increasing anthropogenic pressure, it remains challenging to understand and predict animals' responses to human activity. Here we address this knowledge gap using 1206 Global Positioning System movement trajectories of 815 individuals from 14 red deer ( Cervus elaphus ) and 14 elk ( Cervus canadensis ) populations spanning wide environmental gradients, namely the latitudinal range from the Alps to Scandinavia in Europe, and the Greater Yellowstone Ecosystem in North America. We measured individual‐level movements relative to the environmental context, or movement expression, using the standardized metric Intensity of Use, reflecting both the directionality and extent of movements. We expected movement expression to be affected by resource (Normalized Difference Vegetation Index, NDVI) predictability and topography, but those factors to be superseded by human impact. Red deer and elk movement expression varied along a continuum, from highly segmented trajectories over relatively small areas (high intensity of use), to directed transitions through restricted corridors (low intensity of use). Human activity (Human Footprint Index, HFI) was the strongest driver of movement expression, with a steep increase in Intensity of Use as HFI increased, but only until a threshold was reached. After exceeding this level of impact, the Intensity of Use remained unchanged. These results indicate the overall sensitivity of Cervus movement expression to human activity and suggest a limitation of plastic responses under high human pressure, despite the species also occurring in human‐dominated landscapes. Our work represents the first comparison of metric‐based movement expression across widely distributed populations of a deer genus, contributing to the understanding and prediction of animals' responses to human activity.
+  </article>
   <article id="contributors-article-DSBY47ME" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

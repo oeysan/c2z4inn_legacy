@@ -1,5 +1,5 @@
 ---
-title: "UZJQ7WIY"
+title: "Assessing Gambling Disorder Using Semistructured Interviews or Self-Report? Evaluation of the Structured Clinical Interview for Gambling Disorder Among Swedish Gamblers"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UZJQ7WIY" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2112582" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/UZJQ7WIY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-UZJQ7WIY" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-UZJQ7WIY" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-UZJQ7WIY" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/10731911221147038" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-UZJQ7WIY"></div>
 </article>
 <div id="csl-bib-meta-UZJQ7WIY" class="csl-bib-meta">
+  <article id="abstract-article-UZJQ7WIY" class="abstract-article">
+    <h1>Abstract</h1>
+    The Structured Clinical Interview for Gambling Disorder (SCI-GD) has the potential to bridge a diagnostic clinical gap, but psychometric evaluations have been scarce, in particular in relation to self-reported diagnostic criteria. This study analyzed existing data, including Swedish gamblers ( N = 204) from treatment- and help-seeking contexts, self-help groups, and the general population, who were interviewed with the SCI-GD and completed self-report measures. The results indicated that fewer individuals fulfilled the diagnostic criteria for gambling disorder (GD) with the SCI-GD ( n = 110, 54%), compared to a self-report Diagnostic and Statistical Manual of Mental Disorders:5th Edition ( DSM-5) questionnaire on GD ( n = 145, 71%; p &lt; .001). Agreement between interviews and self-reported criteria was generally low (Fleiss kappa range: 0.31–0.52; r range: 0.35–0.55). A Rasch analysis showed that specific diagnostic criteria varied in difficulty, indicating a general pattern of higher item difficulty for the SCI-GD compared to self-reported DSM-5 criteria. Both the SCI-GD and the self-reported DSM-5 criteria performed well in terms of internal consistency, convergent, and discriminant validity. We conclude that the SCI-GD is a reliable and valid diagnostic tool to assess GD among individuals with various gambling behavior patterns. Further research-related and clinical implications are discussed.
+  </article>
   <article id="contributors-article-UZJQ7WIY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

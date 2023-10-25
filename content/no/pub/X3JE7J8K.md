@@ -1,5 +1,5 @@
 ---
-title: "X3JE7J8K"
+title: "Understanding the National Student Satisfaction Survey in Light of Intellectual Capital Framework: the Case of Study Barometer Norway"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-X3JE7J8K" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1918708" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/X3JE7J8K" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-X3JE7J8K" class="csl-bib-button">Samandrag</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4018/978-1-7998-8085-1.ch017" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-X3JE7J8K"></div>
 </article>
 <div id="csl-bib-meta-X3JE7J8K" class="csl-bib-meta">
+  <article id="abstract-article-X3JE7J8K" class="abstract-article">
+    <h1>Samandrag</h1>
+    The study aims to examine whether an online national student survey can contribute to the understanding of intellectual capital in higher education institutions. The study adopts a performance management and measurement perspective towards NSS and applies the lens of intellectual capital measurement theory, which distinguishes between human, relational and structural capitals. By adopting a conceptual and explorative research approach, the study is based on an intensive analysis of document sources related to the Norwegian online national student survey – Study Barometer. The results suggest that the Norwegian national student survey reflects certain categories of the intellectual capital framework – including those categories that are of interest to university stakeholders. However, the scope of the intellectual capital categories in the survey is limited to a few certain items. The study concludes that national online student survey can be used as a performance measurement tool and assist our understanding of the IC in HEIs - even though to a limited degree.
+  </article>
   <article id="taxonomy-article-X3JE7J8K" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>

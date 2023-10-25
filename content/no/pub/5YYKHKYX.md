@@ -1,5 +1,5 @@
 ---
-title: "5YYKHKYX"
+title: "First Record of Hepatozoon spp. in Alpine Wild Rodents: Implications and Perspectives for Transmission Dynamics across the Food Web"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5YYKHKYX" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2013113" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/5YYKHKYX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-5YYKHKYX" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-5YYKHKYX" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-5YYKHKYX" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.mdpi.com/2076-2607/10/4/712/pdf?version=1648215710" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-5YYKHKYX"></div>
 </article>
 <div id="csl-bib-meta-5YYKHKYX" class="csl-bib-meta">
+  <article id="abstract-article-5YYKHKYX" class="abstract-article">
+    <h1>Samandrag</h1>
+    Among the Apicomplexa parasites, Hepatozoon spp. have been mainly studied in domestic animals and peri-urban areas. The epidemiology of Hepatozoon spp. is poorly investigated in natural systems and wild hosts because of their scarce veterinary and economic relevance. For most habitats, the occurrence of these parasites is unknown, despite their high ecosystemic role. To fill this gap for alpine small mammals, we applied molecular PCR-based methods and sequencing to determine the Hepatozoon spp. in 830 ear samples from 11 small mammal species (i.e., Apodemus, Myodes, Chionomys, Microtus, Crocidura and Sorex genera) live-trapped during a cross-sectional study along an altitudinal gradient in the North-Eastern Italian Alps. We detected Hepatozoon spp. with an overall prevalence of 35.9%. Two species ranging from 500 m a.s.l. to 2500 m a.s.l. were the most infected: My. glareolus, followed by Apodemus spp. Additionally, we detected the parasite for the first time in another alpine species: C. nivalis at 2000–2500 m a.s.l. Our findings suggest that several rodent species maintain Hepatozoon spp. along the alpine altitudinal gradient of habitats. The transmission pathway of this group of parasites and their role within the alpine mammal community need further investigation, especially in consideration of the rapidly occurring environmental and climatic changes.
+  </article>
   <article id="contributors-article-5YYKHKYX" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

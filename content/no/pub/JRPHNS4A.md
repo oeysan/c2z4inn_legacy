@@ -1,5 +1,5 @@
 ---
-title: "JRPHNS4A"
+title: "Flexible delivery of opioid agonist treatment during COVID-19 in Norway: qualitative and quantitative findings from an online survey of provider experiences"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JRPHNS4A" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2170306" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JRPHNS4A" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-JRPHNS4A" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-JRPHNS4A" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-JRPHNS4A" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-023-09959-7" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-JRPHNS4A"></div>
 </article>
 <div id="csl-bib-meta-JRPHNS4A" class="csl-bib-meta">
+  <article id="abstract-article-JRPHNS4A" class="abstract-article">
+    <h1>Samandrag</h1>
+    BackgroundFor patients receiving daily opioid agonist treatment (OAT) for opioid dependence, several countries relaxed treatment guidelines at the beginning of the COVID-19 pandemic. This involved longer take-home intervals for methadone and buprenorphine doses as well as a reduction in supervised dosing and drug screening. To date, little is known about the medium or long-term experience of OAT deregulation. Therefore, we conducted a survey to explore how OAT providers perceived greater flexibility in OAT service delivery at the end of the second year of the pandemic. MethodsNationwide cross-sectional study of twenty-three OAT units in 19 publicly funded hospital trusts in Norway. OAT units were sent a 29-item online questionnaire comprising closed-format and open-ended questions on treatment provider experiences and changes in OAT service delivery during the past 12 months (January to December 2021). Results Twenty-three (of whom female: 14; 60.8%) managers or lead physicians of OAT units completed the questionnaire reporting that, in 2021, most OAT units (91.3%, n  = 21) still practiced some adjusted approaches as established in the beginning of the pandemic. The most common adaptions were special protocols for COVID-19 cases (95.7%, n  = 22), increased use of telephone- (91.3%, n  = 21) and video consultations (87.0%, n  = 20), and longer take-home intervals for OAT medications (52.2%, n  = 12). The use of depot buprenorphine also increased substantially during the pandemic. According to the OAT providers, most patients handled flexible treatment provision well. In individual cases, patients’ substance use was identified as key factor necessitating a reintroduction of supervised dosing and drug screening. Collaboration with general practitioners and municipal health and social services was generally perceived as crucial for successful treatment delivery. ConclusionsOverall, the Norwegian OAT system proved resilient in the second year of the COVID-19 pandemic, as its healthcare workforce embraced innovation in technology (telemedicine) and drug development (depot buprenorphine). According to our nationally representative sample of OAT providers, most patients were compliant with longer take-home doses of methadone and buprenorphine. Our findings suggest that telemedicine can be useful as adjunct to face-to-face treatment and provide greater flexibility for patients.
+  </article>
   <article id="contributors-article-JRPHNS4A" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

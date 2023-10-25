@@ -1,5 +1,5 @@
 ---
-title: "HLEEFSYS"
+title: "Screening for depression in patients in treatment for alcohol use disorder using the Beck Depression Inventory-II and the Hopkins Symptom Checklist-10"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HLEEFSYS" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1989450" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HLEEFSYS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HLEEFSYS" class="csl-bib-button">Medverkande</a>
     <a href="https://doi.org/10.1016/j.psychres.2021.114363" class="csl-bib-button">Unpaywall</a>
   </div>

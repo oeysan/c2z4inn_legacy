@@ -1,5 +1,5 @@
 ---
-title: "EB7DTH3N"
+title: "World Vegetable Center Eggplant Collection: Origin, Composition, Seed Dissemination and Utilization in Breeding"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EB7DTH3N" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1493921" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/EB7DTH3N" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-EB7DTH3N" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-EB7DTH3N" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-EB7DTH3N" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fpls.2017.01484/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-EB7DTH3N"></div>
 </article>
 <div id="csl-bib-meta-EB7DTH3N" class="csl-bib-meta">
+  <article id="abstract-article-EB7DTH3N" class="abstract-article">
+    <h1>Abstract</h1>
+    Eggplant is the fifth most economically important solanaceous crop after potato, tomato, pepper, and tobacco. Apart from the well-known brinjal eggplant (Solanum melongena L.), two other under-utilized eggplant species, the scarlet eggplant (S. aethiopicum L.) and the gboma eggplant (S. macrocarpon L.) are also cultivated. The taxonomy and identification of eggplant wild relatives is challenging for breeders due to the large number of related species, but recent phenotypic and genetic data and classification in primary, secondary, and tertiary genepools, as well as information on the domestication process and wild progenitors, facilitates their utilization in breeding. The World Vegetable Center (WorldVeg) holds a large public germplasm collection of eggplant, which includes the three cultivated species and more than 30 eggplant wild relatives, with more than 3,200 accessions collected from 90 countries. Over the last 15 years, more than 10,000 seed samples from the Center’s eggplant collection have been shared with public and private sector entities, including other genebanks. An analysis of the global occurrences and genebank holdings of cultivated eggplants and their wild relatives reveals that the WorldVeg genebank holds the world’s largest public collection of the three cultivated eggplant species. The composition, seed dissemination and utilization of germplasm from the Center’s collection are highlighted. In recent years more than 1,300 accessions of eggplant have been characterized for yield and fruit quality parameters. Further screening for biotic and abiotic stresses in eggplant wild relatives is a priority, as is the need to amass more comprehensive knowledge regarding wild relatives’ potential for use in breeding. However, as is the case for many other crops, wild relatives are highly under-represented in the global conservation system of eggplant genetic resources.
+  </article>
   <article id="contributors-article-EB7DTH3N" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "AVGVVXZR"
+title: "Storytelling through experiencescape: Creating unique stories and extraordinary experiences in farm tourism"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AVGVVXZR" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1635146" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/AVGVVXZR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-AVGVVXZR" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-AVGVVXZR" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-AVGVVXZR" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/1467358418813410" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-AVGVVXZR"></div>
 </article>
 <div id="csl-bib-meta-AVGVVXZR" class="csl-bib-meta">
+  <article id="abstract-article-AVGVVXZR" class="abstract-article">
+    <h1>Samandrag</h1>
+    Creating unique stories through storytelling as a way to stage extraordinary experiences has become increasingly important in the tourism industry, particularly in experience-based activities such as farm tourism. However, limited resources and the lack of knowledge of the experiencescape suggest that many farm tourism operators struggle to integrate the experiencescape as part of storytelling. The research method chosen was an explorative study with the use of semi-structured in-depth interviews with key farm tourism operators in the Inland region in Norway. How stories and concepts are created is dependent on the resources available, the perception of authenticity, the history of the farm as well as the environment. Storytelling can be facilitated through tangible elements in the experiencescape such as the physical environment as well as intangible elements including the interaction and dynamics between the host and guest. The farmer or the person telling the story also need to possess certain skills, engagement, and interest in order to be committed to deliver the story or the concept. Essentially, the farmer becomes a part of the product and the experience.
+  </article>
   <article id="contributors-article-AVGVVXZR" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

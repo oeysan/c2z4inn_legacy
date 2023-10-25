@@ -1,5 +1,5 @@
 ---
-title: "RXZQDAK4"
+title: "Social psychological aspects of inter-organizational collaboration in a total defense context: a literature review"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RXZQDAK4" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1943638" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/RXZQDAK4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-RXZQDAK4" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-RXZQDAK4" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-RXZQDAK4" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/IJOA-02-2021-2626" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-RXZQDAK4"></div>
 </article>
 <div id="csl-bib-meta-RXZQDAK4" class="csl-bib-meta">
+  <article id="abstract-article-RXZQDAK4" class="abstract-article">
+    <h1>Abstract</h1>
+    PurposeThis paper aims to systematically review the extant research on social psychological aspects of civil-military inter-organizational collaboration, particularly in a total defense context. Design/methodology/approachA systematic scoping studies review was performed. Peer-reviewed articles were searched in PsycInfo and Sociological Abstracts. Inclusion criteria were met by 25 articles. FindingsFour higher-order categories with underpinning categories were derived in the analysis. They were modeled as follows: antecedent conditions affect, informal processes and practical efforts, which, in turn, affect inter-organizational trust and collaboration. These higher-order categories are all influenced by formal organizational aspects and the society in which they are found. Research limitations/implicationsThe existing literature covering the chosen study focus is limited. Further studies are needed and the presented model can serve as a road map. Practical implicationsA series of questions derived from the categories of the model is presented. The questions are included as a tool for practical reflection for collaborating actors in common education, training or exercise settings or in after-action reviews. Originality/valueThe focus on social psychological aspects of civil-military inter-organizational collaboration, particularly in a total defense context, is new. The suggested relationship between superior themes adds knowledge to a research field dominated by sociological and political science approaches.
+  </article>
   <article id="contributors-article-RXZQDAK4" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "TKZBDBMB"
+title: "The border as an engine for mobility and spatial integration: A study of commuting in a Swedish–Norwegian context"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TKZBDBMB" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1976399" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/TKZBDBMB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-TKZBDBMB" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-TKZBDBMB" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-TKZBDBMB" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/00291951.2018.1497698?needAccess=true" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-TKZBDBMB"></div>
 </article>
 <div id="csl-bib-meta-TKZBDBMB" class="csl-bib-meta">
+  <article id="abstract-article-TKZBDBMB" class="abstract-article">
+    <h1>Abstract</h1>
+    The purpose of the study was to analyse how cross-border commuting differed from intranational commuting in Sweden, and how cross-border mobilities affected spatial integration. The authors analysed patterns and spatial flows of cross-border commuting by comparing them with characteristics of intranational commuting. In the article, they explore the assumption that the border constitutes an ‘engine’ for work-related mobility, which affects processes of spatial integration in cross-border areas. The empirical material comprised data from surveys of commuting from the Swedish county of Värmland to Norway and commuting within Värmland. The findings showed that cross-border commuting shared common features with intranational commuting, including how the frequency of commuting was dependent on distance. The motives for commuting differed, and the reasons for working in Norway were economic rather than professional. In terms of spatial integration, cross-border commuting was mainly one-directional, from Sweden to Norway, while leisure mobility and migration tended to be in the opposite direction. The authors conclude that the border region is characterised by integration through specialisation, which involves a permanent state of ‘transient’ mobility. Thus, a win-win situation can be distinguished, in which the border serves as a resource and an ‘engine’ for cross-border integration, mobility and economic activities.
+  </article>
   <article id="contributors-article-TKZBDBMB" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

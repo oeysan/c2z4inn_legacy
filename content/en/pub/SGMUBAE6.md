@@ -1,5 +1,5 @@
 ---
-title: "SGMUBAE6"
+title: "The effects of a school-based physical activity intervention programme on children’s executive control: The Health Oriented Pedagogical Project (HOPP)"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SGMUBAE6" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1583073" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/SGMUBAE6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-SGMUBAE6" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-SGMUBAE6" class="csl-bib-button">Contributors</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/1403494818767823" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-SGMUBAE6"></div>
 </article>
 <div id="csl-bib-meta-SGMUBAE6" class="csl-bib-meta">
+  <article id="abstract-article-SGMUBAE6" class="abstract-article">
+    <h1>Abstract</h1>
+    Aims: To assess the effects of a large school-based physical activity intervention on children’s ability to resist distractions and maintain focus, known as executive control. Methods: A quasi-experimental design with seven intervention and two control primary schools. The Health Oriented Pedagogical Project (HOPP) intervention consisted of 45 min of physical activity a day during school time for 6–8 months in addition to the regular weekly physical education lessons. A total of 1173 children, spanning from second grade (age 7 years) to sixth grade (age 12 years) were included in the analysis. Main outcome measures were executive control was measured at baseline and 1 year after using a modified Eriksen flanker task for the younger children (second and third grades) and a computerised Stroop task for the older children (fourth, fifth, and sixth grades). Results: Both the intervention and control group showed improvements in executive control after 1 year. However, the children in the intervention group did not improve their performance more than those in the control group. Conclusions: No positive effect of the physical activity intervention programme on children’s task performance was found, suggesting that the intervention did not affect children’s executive control.
+  </article>
   <article id="contributors-article-SGMUBAE6" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

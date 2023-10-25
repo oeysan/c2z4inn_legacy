@@ -1,5 +1,5 @@
 ---
-title: "S65GPUG7"
+title: "Mellom bonde og børs: Landkreditts historie 1915-2015"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-S65GPUG7" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1460685" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/S65GPUG7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
   </div>
   <div id="csl-bib-meta-container-S65GPUG7"></div>
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "RYYGKHI8"
+title: "The Dollar as a Mutual Problem: New Transatlantic Interdependence in Finance"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RYYGKHI8" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2025384" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/RYYGKHI8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-RYYGKHI8" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-RYYGKHI8" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-RYYGKHI8" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.cogitatiopress.com/politicsandgovernance/article/download/5028/5028" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-RYYGKHI8"></div>
 </article>
 <div id="csl-bib-meta-RYYGKHI8" class="csl-bib-meta">
+  <article id="abstract-article-RYYGKHI8" class="abstract-article">
+    <h1>Abstract</h1>
+    When the 2007 global financial crisis hit financial markets, European leaders were quick to point the finger at US markets, excessive risk-taking, and insufficient regulation. However, it soon became apparent that European banks were more exposed than their Wall Street counterparts. With massive dollar liabilities, European banks were dependent on the US to act as a global lender of last resort. The crisis revealed a level of transatlantic interdependence that had been unknown to most observers and policymakers prior to the crisis. We argue that this represents a paradox, given that the project of the European Monetary Union was partly motivated by a desire to make Europe more independent from the US dollar. The euro was a response to the challenge of “it’s our dollar, but it’s your problem.” In this article, we examine how the European vulnerability to the US dollar that began post-Bretton Woods did not, in fact, disappear with the creation of a European currency. Instead, through financialization and deregulation, European financial markets developed new, complex interactions with US financial markets. This financialization of transatlantic banking flows created a new type of interdependence. As European banks were so heavily invested in US markets, this gave the US authorities a direct interest in bailing them out. While cross-border banking flows have decreased since the crisis, the interdependencies remain, and currency swaps were used once again to handle the economic fallout from Covid-19. In the area of financial and monetary policy, the transatlantic relationship remains strong and stable within a dollar hegemony.
+  </article>
   <article id="contributors-article-RYYGKHI8" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

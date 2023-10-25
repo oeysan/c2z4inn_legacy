@@ -1,5 +1,5 @@
 ---
-title: "JIJIRMC3"
+title: "Meg kan ingen grava ned: artiklar om Tor Jonsson"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JIJIRMC3" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1476544" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JIJIRMC3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-JIJIRMC3" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-JIJIRMC3" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-JIJIRMC3"></div>
 </article>
 <div id="csl-bib-meta-JIJIRMC3" class="csl-bib-meta">
+  <article id="abstract-article-JIJIRMC3" class="abstract-article">
+    <h1>Abstract</h1>
+    Boka inneheld 18 tekstar som handlar om forskjellige sider ved livet og forfattarskapen. Elleve er nyskrivne eller omarbeidde for denne boka. Dei tek for seg forfattaren som samfunns- og bygdekritikar, og drøftar korleis omgrepet "bygdedyret" er blitt knutt til han. Dei sju siste bidraga er eldre tekstar der samtidige forfattarar, skribentar og forskarar skriv om livet og forfattarskapen til Tor Jonsson. Ottar Brox har skrive etterordet.
+  </article>
   <article id="contributors-article-JIJIRMC3" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

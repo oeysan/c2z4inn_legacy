@@ -1,5 +1,5 @@
 ---
-title: "JTQKKBUP"
+title: "Psychological distress and quality of life among Opioid Agonist Treatment service users with a history of injecting and non-injecting drug use: A cross-sectional study in Kathmandu, Nepal"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JTQKKBUP" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2129260" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JTQKKBUP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-JTQKKBUP" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-JTQKKBUP" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-JTQKKBUP" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0281437&amp;type=printable" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-JTQKKBUP"></div>
 </article>
 <div id="csl-bib-meta-JTQKKBUP" class="csl-bib-meta">
+  <article id="abstract-article-JTQKKBUP" class="abstract-article">
+    <h1>Samandrag</h1>
+    BackgroundOpioid use disorder is a serious public health problem in Nepal. People who use opioids often experience psychological distress and poor quality of life. Opioid agonist Treatment (OAT) is central in managing opioid dependence. This study aimed to examine factors associated with quality of life and serious psychological distress among OAT service users in the Kathmandu Valley, Nepal and compare those who had injected opioids prior to OAT and those who had not. MethodsA cross-sectional study with 231 was conducted using a semi-structured questionnaire, the Nepalese versions of the Kessler 6 psychological distress scale and World Health Organization Quality of Life scale (WHOQOL-BREF). Bivariate and multivariate analyses were undertaken to examine factors associated with quality of life and serious psychological distress. ResultsMost participants were males (92%) and about half had injected opioids before initiating OAT. Serious psychological distress in the past four weeks was significantly more prevalent among participants with a history of injecting (32.2%) than those who did not inject (15.9%). In the adjusted linear regression model, those who had history of injecting were likely to have lower physical quality of life compared to non-injectors. Those self-reporting a past history of mental illness were more than seven times and those with medical comorbidity twice more likely to have serious psychological distress over last four weeks. Lower socioeconomic status and a history of self-reported mental illness in the past were found to be significantly associated with lower quality of life on all four domains. ConclusionThose who had history of injecting were younger, had frequent quit attempts, higher medical comorbidity, lower socioeconomic status and remained longer in OAT services. Alongside OAT, the complex and entangled needs of service users, especially those with a history of injecting drugs, need to be addressed to improve quality of life and lessen psychological distress.
+  </article>
   <article id="contributors-article-JTQKKBUP" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

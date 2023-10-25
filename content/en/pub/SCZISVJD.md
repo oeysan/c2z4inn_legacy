@@ -1,5 +1,5 @@
 ---
-title: "SCZISVJD"
+title: "Low Prevalence of Vitamin D Insufficiency among Nepalese Infants Despite High Prevalence of Vitamin D Insufficiency among Their Mothers"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SCZISVJD" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1430582" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/SCZISVJD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://www.mdpi.com/2072-6643/8/12/825/pdf?version=1482284975" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-SCZISVJD"></div>

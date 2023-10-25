@@ -1,5 +1,5 @@
 ---
-title: "BXATE8GQ"
+title: "Student Input – A Case of an Extended Flipped Classroom"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BXATE8GQ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1502673" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/BXATE8GQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BXATE8GQ" class="csl-bib-button">Medverkande</a>
     <a href="https://opus.lib.uts.edu.au/bitstream/10453/126076/4/Student_Input_FullPaper-V2.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

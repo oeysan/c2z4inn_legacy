@@ -1,5 +1,5 @@
 ---
-title: "PU7D3MFK"
+title: "Interrelationship of Posttraumatic Stress, Hassles, Uplifts, and Coping in Women With a History of Severe Sexual Abuse: A Cross-Sectional Study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PU7D3MFK" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1840771" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PU7D3MFK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-PU7D3MFK" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-PU7D3MFK" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-PU7D3MFK" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/0886260520935479" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-PU7D3MFK"></div>
 </article>
 <div id="csl-bib-meta-PU7D3MFK" class="csl-bib-meta">
+  <article id="abstract-article-PU7D3MFK" class="abstract-article">
+    <h1>Abstract</h1>
+    Experiencing trauma, such as sexual abuse, increases the risk of a negative health outcome. The aim of the present study was to compare two groups of female survivors of sexual abuse, one group with a lower indication of posttraumatic stress disorder (L-PTSD) and one with a higher indication of posttraumatic stress disorder (H-PTSD). We hypothesized that, with a history of sexual abuse, higher levels of PTSD symptoms would be associated with more daily hassles, fewer daily uplifts, and more maladaptive coping strategies, and that there would be more reporting of severe types of sexual victimization, less resourceful socioeconomic conditions and a lower level of emotional stability. A questionnaire, including measures of socioeconomic conditions, trauma experience, emotional stability (the Single-Item Measures of Personality), Posttraumatic Stress Disorder Checklist (PCL), daily hassles and uplifts (the Stress Profile), and coping strategies (the Brief Coping Orientation to Problems Experienced [COPE] questionnaire), was completed by 57 female users at nine support centers for survivors of incest and sexual abuse in Norway. The results show that the H-PTSD group reported significantly more daily hassles, fewer daily uplifts, and more use of maladaptive coping strategies. The L-PTSD group reported more emotional stability, fewer daily hassles, and more uplifts, and used more adaptive coping strategies. However, few differences were found between the H-PTSD and the L-PTSD groups with regard to severity of sexual abuse and socioeconomic conditions. The results on the hassle, uplift, and coping scales are potentially interesting from an interventional point of view. Major life events such as sexual abuse may be out of control for the afflicted victim. Appraisal of and coping with everyday events, however, can be affected and offer interesting possibilities for interventions directed at the survivor, her significant others, and professional helpers.
+  </article>
   <article id="contributors-article-PU7D3MFK" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

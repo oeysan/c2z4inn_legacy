@@ -1,5 +1,5 @@
 ---
-title: "HLEPIMEQ"
+title: "Overcoming the business model transformation dilemma: exploring market shaping and stabilizing strategies in incumbent firms"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HLEPIMEQ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2096216" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HLEPIMEQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-HLEPIMEQ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-HLEPIMEQ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-HLEPIMEQ" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.emerald.com/insight/content/doi/10.1108/JBIM-06-2020-0264/full/pdf?title=overcoming-the-business-model-transformation-dilemma-exploring-market-shaping-and-stabilizing-strategies-in-incumbent-firms" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-HLEPIMEQ"></div>
 </article>
 <div id="csl-bib-meta-HLEPIMEQ" class="csl-bib-meta">
+  <article id="abstract-article-HLEPIMEQ" class="abstract-article">
+    <h1>Abstract</h1>
+    PurposeThe purpose of this paper is to extend the knowledge on business model transformation (BMT) by developing an integrative framework for BMT dilemmas, including strategies for shaping and stabilizing market structures. Design/methodology/approachThe study uses a case-based approach, with data from the Swedish electric utility industry. FindingsThe findings uncover practices related to both shaping and stabilizing market structure. The study contributes with insights for firms to overcome the BMT dilemma. Shaping strategies involve disruptive innovations while stabilizing strategies concerns incremental improvements in existing structures; by balancing these efforts, firms can find ways toward successful BMT. Originality/valueWith a focus on incumbent firms and the balancing act of BMT in a network, the study covers areas that have scarcely been addressed in the existing literature. Even though most business model literature has focused on shaping consumer markets, the need to consider BMT as a dual-directional process in an industrial context is emphasized in this study.
+  </article>
   <article id="contributors-article-HLEPIMEQ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -58,7 +63,7 @@ Campus Kongsvinger
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">

@@ -1,5 +1,5 @@
 ---
-title: "HNKUR3QI"
+title: "Climate, Conflict and Society: Changing Responses to Weather Extremes in Nineteenth Century Zululand"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HNKUR3QI" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1600717" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HNKUR3QI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-HNKUR3QI" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-HNKUR3QI" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-HNKUR3QI" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://eprints.lincoln.ac.uk/id/eprint/32360/1/E%26H_final.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,14 @@ type: pub
   <div id="csl-bib-meta-container-HNKUR3QI"></div>
 </article>
 <div id="csl-bib-meta-HNKUR3QI" class="csl-bib-meta">
+  <article id="abstract-article-HNKUR3QI" class="abstract-article">
+    <h1>Abstract</h1>
+    Changing climates affect human societies differently depending on societal structures, cultural perceptions and their relative vulnerability and resilience. In this study, we explore the complex relationship between climate, conflict and society in nineteenth century Zululand. The paper first reviews current debates surrounding the links between climatic change, societal transformation and the rise of the Zulu Kingdom from the late-eighteenth to early-nineteenth centuries. It then considers new empirical evidence relating to conflict and socio-economic changes at a local scale in Zululand from theearly-mid-nineteenth century onwards, using a combination of unpublished archival 
+materials written by missionaries and other observers, together with oral histories and traditions. Our analysis highlights how changing precipitation patterns, especially towards drier conditions, may have contributed to changes 
+in societal responses, including dominant narratives about rain-control, the migration and dissolution of society, and conflicts and unrest. We suggest that temporal differences in these responses were contingent upon the role of leaders, 
+power structures, and the willingness and ability of leaders to yield this power. The case of nineteenth century Zululand exemplifies the complexity of environment–society interactions, and strengthens the call for a thorough 
+scrutiny of the narratives of social unrest in specific socio-cultural contexts.
+  </article>
   <article id="contributors-article-HNKUR3QI" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

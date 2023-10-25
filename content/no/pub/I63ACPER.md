@@ -1,5 +1,5 @@
 ---
-title: "I63ACPER"
+title: "Staging a ‘real’ masculinity in a ‘fake’ world: creativity, (in)authenticity, and the gendering of musical labour"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-I63ACPER" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1993285" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/I63ACPER" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-I63ACPER" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-I63ACPER" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-I63ACPER" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/09502386.2021.2011932?needAccess=true" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-I63ACPER"></div>
 </article>
 <div id="csl-bib-meta-I63ACPER" class="csl-bib-meta">
+  <article id="abstract-article-I63ACPER" class="abstract-article">
+    <h1>Samandrag</h1>
+    A distinction between creativity and commerce as opposing forces is central to discourses surrounding popular music, and this distinction facilitates a gendered hierarchy of valued and devalued forms of musical labour. The practice of singing has typically been coded as feminine and has held a lower status than the masculinized practices of playing an instrument or composing. Accordingly, male pop singers tend to be assessed as inauthentic – and, by extension, insufficiently masculine – by some critics and audiences. In this article, I investigate how entwined notions of creativity and authenticity might shape contemporary pop artists’ representations of masculinity. Through a case study of Justin Timberlake’s music video Say Something (2018), I demonstrate how the showcasing of particular forms of musical labour can function to authenticate constructions of masculinity in accordance with artistic and creative ideals with roots in the Romantic era. My approach to audiovisual analysis merges perspectives from critical musicology and cultural studies, in order to investigate the processes by which ‘real’ masculinities are articulated on multiple levels.
+  </article>
   <article id="contributors-article-I63ACPER" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

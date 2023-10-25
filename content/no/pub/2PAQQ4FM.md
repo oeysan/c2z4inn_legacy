@@ -1,5 +1,5 @@
 ---
-title: "2PAQQ4FM"
+title: "Re-framing Early Intervention: from a child to a teacher centred perspective in education"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2PAQQ4FM" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1748301" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/2PAQQ4FM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-2PAQQ4FM" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-2PAQQ4FM" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-2PAQQ4FM" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://czasopisma.bg.ug.edu.pl/index.php/pwe/article/download/3959/3301" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-2PAQQ4FM"></div>
 </article>
 <div id="csl-bib-meta-2PAQQ4FM" class="csl-bib-meta">
+  <article id="abstract-article-2PAQQ4FM" class="abstract-article">
+    <h1>Samandrag</h1>
+    This paper offers a theoretical description and discuss alternative approaches to Early Intervention (EI). The theoretical framework is based on the philosophical and educational frameworks of Hans Skjervheim and Gert Biesta. The central part of this discussion is the elaboration of different approaches in education, and how it relates to EI. It is stated that EI is historically rooted in an Anglo-American tradition where the central goal was to reduce the societal consequences of children struggling in schools and life in general. Evaluations, tests and interventions directed towards these children is at the core of this tradition. The alternative presented in this article points at an educational framework based on a European, relational centred, education framework and offers a perspective where EI is re-framed into a strategy where EI is focusing on the adult, responsible, person in the relationship.
+  </article>
   <article id="contributors-article-2PAQQ4FM" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

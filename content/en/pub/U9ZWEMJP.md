@@ -1,5 +1,5 @@
 ---
-title: "U9ZWEMJP"
+title: "Excavating the origins of the learning pyramid myths"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-U9ZWEMJP" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1607106" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/U9ZWEMJP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-U9ZWEMJP" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-U9ZWEMJP" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-U9ZWEMJP" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://doi.org/10.1080/2331186x.2018.1518638" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-U9ZWEMJP"></div>
 </article>
 <div id="csl-bib-meta-U9ZWEMJP" class="csl-bib-meta">
+  <article id="abstract-article-U9ZWEMJP" class="abstract-article">
+    <h1>Abstract</h1>
+    The family of cognitive models sometimes referred to as the “Learning Pyramid” enjoys a considerable level of authority within several areas of educational studies, despite that nobody knows how they originated or whether they were supported by any empirical evidence. This article investigates the early history of these models. Through comprehensive searches in digital libraries, we have found that versions of the Learning Pyramids have been part of educational debates and practices for more than 160 years. These findings demonstrate that the models did not originate from empirical research. We also argue that the contemporary Learning Pyramids, despite their continued modifications and modernizations, have failed to keep up with the developments of cognitive psychology. The conception of memory implied by the Learning Pyramids deviates significantly from the standard picture of human memory.
+  </article>
   <article id="contributors-article-U9ZWEMJP" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "H6UD2NYD"
+title: "Investering i lesing og skriving: Livserfaringers betydning for to flyktningers lese- og skriveopplæring i Norge"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-H6UD2NYD" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2137496" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/H6UD2NYD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-H6UD2NYD" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-H6UD2NYD"></div>

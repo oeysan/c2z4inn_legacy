@@ -1,5 +1,5 @@
 ---
-title: "YFI9BAY5"
+title: "Sperm quality parameters, fertilizing potential, metabolites, and DNA methylation in cold-stored and cryopreserved milt from Atlantic salmon (Salmo salar L.)"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YFI9BAY5" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2169186" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/YFI9BAY5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-YFI9BAY5" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-YFI9BAY5" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-YFI9BAY5" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fgene.2023.1199681/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-YFI9BAY5"></div>
 </article>
 <div id="csl-bib-meta-YFI9BAY5" class="csl-bib-meta">
+  <article id="abstract-article-YFI9BAY5" class="abstract-article">
+    <h1>Abstract</h1>
+    Cold storage and freezing/thawing of milt may affect sperm functionality and the subsequent fertilization ability of milt. This study aimed to investigate sperm quality parameters and fertilization potential of Atlantic salmon milt, stored cold and subsequently cryopreserved, using different storage conditions. The objective was also to assess if analysis of milt metabolites and sperm DNA methylation signatures could be applicable to further elucidate sperm quality and fertilization following preservation. Milt samples were collected from eight mature Atlantic salmon males and stored for 4 days at 2°C and 8°C. Samples were taken on day one of storage at 2°C and on day four of storage at 2°C and 8°C. Storage for 4 days at 8°C is expected to be detrimental to sperm quality, and was included to create contrasts. Correspondingly, aliquots of cold-stored milt were prepared for cryopreservation, resulting in a total of six experimental conditions. Samples from all six experimental conditions were used in fertilization trials and analyzed for sperm viability, motility, ATP content, DNA fragmentation index, and High DNA stainability. In addition, milt samples from four of the males were analyzed for targeted metabolites and DNA methylation signatures by reduced representation bisulfite sequencing. The fertilization trials were performed using sperm:egg ratios of 75 × 10 3 and 500 × 10 3 , respectively. Storage duration, temperature, and cryopreservation of cold-stored milt influenced several sperm quality parameters, metabolites, and DNA methylation signatures. The total motility, progressive motility, ATP, and velocity parameters were the sperm parameters with the strongest correlation to fertilization rates ( p 0.01). Several metabolites were correlated with fertility rates in both cold-stored and cryopreserved samples ( p 0.05). The fertilizing capacity of cold-stored milt was significantly reduced after 4 days of storage at 8°C, while corresponding cryopreserved milt showed reduced fertilization at both storage temperatures (2°C and 8°C) ( p 0.05). The results indicate that cryopreservation of milt stored for 1 day does not compromise either fertilization ability or DNA methylation signatures.
+  </article>
   <article id="contributors-article-YFI9BAY5" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

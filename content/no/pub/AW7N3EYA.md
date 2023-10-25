@@ -1,5 +1,5 @@
 ---
-title: "AW7N3EYA"
+title: "Leading and organising national teams: functions of institutional leadership"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AW7N3EYA" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1916408" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/AW7N3EYA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AW7N3EYA" class="csl-bib-button">Medverkande</a>
     <a href="https://doi.org/10.1080/21640629.2021.1896213" class="csl-bib-button">Unpaywall</a>
   </div>

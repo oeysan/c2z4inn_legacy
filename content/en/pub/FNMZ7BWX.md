@@ -1,5 +1,5 @@
 ---
-title: "FNMZ7BWX"
+title: "The Overfishing Problem: Natural and Social Categories in Early Twentieth-Century Fisheries Science"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FNMZ7BWX" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2007300" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/FNMZ7BWX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-FNMZ7BWX" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-FNMZ7BWX" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-FNMZ7BWX" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s10739-021-09655-4.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-FNMZ7BWX"></div>
 </article>
 <div id="csl-bib-meta-FNMZ7BWX" class="csl-bib-meta">
+  <article id="abstract-article-FNMZ7BWX" class="abstract-article">
+    <h1>Abstract</h1>
+    This article looks at how fisheries biologists of the early twentieth century conceptualized and measured overfishing and attempted to make it a scientific object. Considering both theorizing and physical practices, the essay shows that categories and understandings of both the fishing industry and fisheries science were deeply and, at times, inextricably interwoven. Fish were both scientific and economic objects. The various models fisheries science used to understand the world reflected amalgamations of biological, physical, economic, and political factors. As a result, scientists had great difficulty stabilizing the concept of overfishing and many influential scholars into the 1930s even doubted the coherence of the concept. In light of recent literature in history of fisheries and environmental social sciences that critiques the infiltration of political and economic imperatives into fisheries and environmental sciences more generally, this essay highlights both how early fisheries scientists understood their field of study as the entire combination of interactions between political, economic, biological and physical factors and the work that was necessary to separate them.
+  </article>
   <article id="contributors-article-FNMZ7BWX" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

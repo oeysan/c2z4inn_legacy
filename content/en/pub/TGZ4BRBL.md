@@ -1,5 +1,5 @@
 ---
-title: "TGZ4BRBL"
+title: "Earthworms are associated with subpopulations of Gammaproteobacteria irrespective of the total soil microbiota composition and stability"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TGZ4BRBL" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1608101" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/TGZ4BRBL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TGZ4BRBL" class="csl-bib-button">Contributors</a>
     <a href="https://academic.oup.com/femsle/article-pdf/365/9/fny071/24762383/fny071.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

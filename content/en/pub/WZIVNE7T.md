@@ -1,5 +1,5 @@
 ---
-title: "WZIVNE7T"
+title: "Creating a lean mind-set: Change of practice towards early treatment"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WZIVNE7T" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2050788" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WZIVNE7T" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WZIVNE7T" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-WZIVNE7T" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-WZIVNE7T" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/13505076221122152" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-WZIVNE7T"></div>
 </article>
 <div id="csl-bib-meta-WZIVNE7T" class="csl-bib-meta">
+  <article id="abstract-article-WZIVNE7T" class="abstract-article">
+    <h1>Abstract</h1>
+    This paper reports the findings of a qualitative study on lean implementation viewed as an organisational learning process. By using a scaffolding framework, we investigate the ways in which human resource development facilitates learning among clinicians. This study contributes to the temporary role of human resource development in learning processes within multi-disciplinary professional groups. We identify scaffolding activities from which we have identified three human resource development practices: phase 1 – cognitive scaffolding, in which human resource development acts as a ‘mindsetter’ that aims to motivate the learning of lean in relation to the clinicians’ practices; phase 2 – peer-to-peer scaffolding through ‘doing’ lean, in which human resource development performs the role of an ‘experience creator’ who creates knowledge engagement between peers – in order to put lean into practice; and phase 3 – fading of the scaffolding, in which human resource development performs the role of a ‘delegator’ who transfers the responsibility to the clinicians to promote learning. This contributes to our understanding of how knowledge is negotiated in a multidisciplinary context. We contribute to the learning literature by emphasising how learning trajectories are initiated by learning initiatives, highlighting the role limitations of human resource development in this context, and demonstrating how a new learning tension arises between different versions of ‘lean’ in the organisation.
+  </article>
   <article id="contributors-article-WZIVNE7T" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "RM8GUASD"
+title: "Levels of mental distress over 18 years after entering treatment for substance use disorders: A longitudinal cohort study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RM8GUASD" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1842449" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/RM8GUASD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-RM8GUASD" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-RM8GUASD" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-RM8GUASD" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/1455072520947249" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-RM8GUASD"></div>
 </article>
 <div id="csl-bib-meta-RM8GUASD" class="csl-bib-meta">
+  <article id="abstract-article-RM8GUASD" class="abstract-article">
+    <h1>Abstract</h1>
+    Aims:The aims were to investigate whether baseline characteristics and problematic substance use were related to change in mental distress over time in patients with substance use disorders during an 18-year period. Method:This was a prospective, longitudinal study of patients followed for 18 years after entering specialised treatment for substance use disorders. A sample of 291 patients was recruited in 1997 and 1998. Mental distress was measured using the Hopkins Symptom Checklist 25 at baseline, and at six and 18 years. Lifetime psychiatric disorders and substance use disorders at baseline were measured using the Composite International Diagnostic Interview, while personality disorders were measured using the Millon Clinical Multiaxial Inventory II. At the six- and 18-year follow-ups, substance use was measured using the Alcohol Use Disorders Identification Test and the Drug Use Disorders Identification Test. Linear mixed model was estimated to assess the overall level of mental distress over 18 years for participants with complete data at baseline ( n = 232). Results:In an adjusted model, problematic substance use assessed simultaneously with mental distress, having lifetime affective, anxiety and personality disorder at baseline were associated with greater levels of mental distress over the 18-year period. The change in mental distress from baseline to the six-year, but not to the 18-year, follow-up was significantly larger among females than among males. Conclusion:The results suggests a reciprocal relationship over time between substance use and mental health problems. Also, there seems to be an additive effect between ongoing problematic substance use and lifetime mental disorders on greater levels of mental distress. This addresses the importance of integrated treatment for both substance use disorders and mental disorders to improve the long-term course for patients with these comorbid disorders.
+  </article>
   <article id="contributors-article-RM8GUASD" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

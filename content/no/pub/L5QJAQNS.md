@@ -1,5 +1,5 @@
 ---
-title: "L5QJAQNS"
+title: "Juleavslutninger i skolen"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-L5QJAQNS" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1764519" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/L5QJAQNS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-L5QJAQNS" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-L5QJAQNS" class="csl-bib-button">Medverkande</a>
     <a href="https://journals.uio.no/prismet/article/download/7515/6852" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-L5QJAQNS"></div>
 </article>
 <div id="csl-bib-meta-L5QJAQNS" class="csl-bib-meta">
+  <article id="abstract-article-L5QJAQNS" class="abstract-article">
+    <h1>Samandrag</h1>
+    I denne artikkelen rapporteres det fra en kvalitativ studie om juleavslutninger ved en norsk barneskole. Basert på observasjoner og lærerintervjuer undersøker den hvordan juleavslutninger foregår og hvilke refleksjoner de ansvarlige lærerne har om deres betydning og rolle som fellesarrangement. Observasjonene viser at arrangementet involverer alle elevene, og lærerintervjuene gjenspeiler en utelukkende positiv lærergruppe. Men til tross for full elevdeltakelse og lærernes opplevelse av juleavslutningen som viktig felleskapsarena, viser dataene at det er verdt å rette også et kritisk blikk på arrangementet. I et inkluderingsperspektiv vil vi fremheve to funn: 1. Assimilerende praksis. 2. Humorpreget formidling av religiøst innhold. Artikkelen diskuterer til slutt hvilken betydning disse funnene har for oppfatningen av skolens juleavslutning som inkluderende fellesarrangement. Temaord: Juleavslutning, fellesarrangement, inkludering, religion i skolen.
+  </article>
   <article id="contributors-article-L5QJAQNS" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

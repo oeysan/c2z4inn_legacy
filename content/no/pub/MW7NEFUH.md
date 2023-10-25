@@ -1,5 +1,5 @@
 ---
-title: "MW7NEFUH"
+title: "It soon became clear – insights into technology and participation"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MW7NEFUH" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1924972" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/MW7NEFUH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-MW7NEFUH" class="csl-bib-button">Medverkande</a>
     <a href="http://oro.open.ac.uk/78744/1/It%20soon%20became%20clear%20-%20Insights%20on%20technology%20and%20participation%20-%20JR%202021.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: "PCHRUHRH"
+title: "Spatial and temporal cohesion of parents and offspring in a social large carnivore"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PCHRUHRH" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2136172" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PCHRUHRH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PCHRUHRH" class="csl-bib-button">Medverkande</a>
     <a href="https://doi.org/10.1016/j.anbehav.2022.12.006" class="csl-bib-button">Unpaywall</a>
   </div>

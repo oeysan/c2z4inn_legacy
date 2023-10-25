@@ -1,5 +1,5 @@
 ---
-title: "8SULYMUZ"
+title: "Collected worker experiences, knowledge management practices and service innovation in urban Norway"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8SULYMUZ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1925448" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/8SULYMUZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-8SULYMUZ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-8SULYMUZ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-8SULYMUZ" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/pirs.12633" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-8SULYMUZ"></div>
 </article>
 <div id="csl-bib-meta-8SULYMUZ" class="csl-bib-meta">
+  <article id="abstract-article-8SULYMUZ" class="abstract-article">
+    <h1>Samandrag</h1>
+    Knowledge‐intensive services firms prefer to locate in cities that provide access to rich information flows and abundant opportunities for learning‐by‐recruiting. Focusing specifically on such locations, this paper explores how innovation is associated with work experiences ‘collected’ by employees through their recent career paths and the implementation by current employer firms of practices to manage knowledge. Strong complementarities are found using a unique Norwegian dataset: The statistical association between practices and innovation outcomes depends strongly on variety of experience‐knowledge among employees. Conversely, while said variety does not affect innovation in the absence of dedicated practices, it strongly does in their presence.
+  </article>
   <article id="contributors-article-8SULYMUZ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -83,7 +88,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

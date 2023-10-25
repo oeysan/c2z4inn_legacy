@@ -1,5 +1,5 @@
 ---
-title: "PD5WHYCI"
+title: "Contested organizational change and accounting in trials of incompatibility"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PD5WHYCI" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1698450" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PD5WHYCI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PD5WHYCI" class="csl-bib-button">Contributors</a>
     <a href="https://research.cbs.dk/files/61731463/peter_sk_rb_k_et_al_contested_organizational_chang_acceptedmanuscript.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: "9B8WD7DW"
+title: "Reclaiming songs of wisdom in rural Bangladesh: Four pillars of a unique music pedagogy"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9B8WD7DW" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2077701" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9B8WD7DW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-9B8WD7DW" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-9B8WD7DW" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-9B8WD7DW" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://journals.oslomet.no/index.php/nordiccie/article/download/4943/4505" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-9B8WD7DW"></div>
 </article>
 <div id="csl-bib-meta-9B8WD7DW" class="csl-bib-meta">
+  <article id="abstract-article-9B8WD7DW" class="abstract-article">
+    <h1>Samandrag</h1>
+    What kind of music teaching and learning takes place among folk musicians and young ones, aiming to reclaim their oral tradition and educate new master teachers? This question will be answered by drawing on extensive fieldwork at nine song-and-music schools in rural Bangladesh, applying critical realism as a meta-theory. An overall aim is to expand views on what music teaching and learning can be, with potential implications for education beyond rural Bangladesh. The empirical material was collected through a focus group interview with 12 students in an advanced class and in-depth interviews with these students and their three master teachers. The analysis shows that the generational transmission can be seen as based on the ‘four pillars’ of music pedagogy. These are re-described through dialectical critical realism in an abductive process, showing that music pedagogy can open an ontology and dialectic on being and becoming human for the participants. Results are discussed with absence and remembrance as key concepts. The study provides practical and philosophical insights into a music pedagogy about deep learning and resonance: towards transformative praxis.
+  </article>
   <article id="contributors-article-9B8WD7DW" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

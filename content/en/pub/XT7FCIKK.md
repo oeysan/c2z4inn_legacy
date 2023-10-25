@@ -1,5 +1,5 @@
 ---
-title: "XT7FCIKK"
+title: "Efficient Boar Semen Production and Genetic Contribution: The Impact of Low-Dose Artificial Insemination on Fertility"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XT7FCIKK" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2127866" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/XT7FCIKK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/rda.12558" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-XT7FCIKK"></div>

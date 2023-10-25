@@ -1,5 +1,5 @@
 ---
-title: "8GC88ISB"
+title: "Sykepleieverdier under press?"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,40 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8GC88ISB" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1437614" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/8GC88ISB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-8GC88ISB" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-8GC88ISB" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/issn.1892-2686-2016-04-03" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-8GC88ISB"></div>
 </article>
 <div id="csl-bib-meta-8GC88ISB" class="csl-bib-meta">
+  <article id="abstract-article-8GC88ISB" class="abstract-article">
+    <h1>Samandrag</h1>
+    Bakgrunn: Barmhjertighet og respekt for enkeltmenneskets liv og verdighet 
+er grunnleggende verdier i sykepleien. Økonomiske styringssystemer i 
+helsevesenet, basert på mål- og resultatstyring, er ytre rammefaktorer som kan 
+utfordre disse verdiene. Hensikt: Å utforske hvordan ytre rammefaktorer kan 
+innvirke på sykepleiernes prioriteringer i praksis, og hvilke konsekvenser 
+denne innvirkningen kan ha for sykepleieridentiteten. Metode: Studien har et 
+kvalitativt design, der data er innhentet ved fokusgruppeintervjuer med 
+sykepleiere i kommunehelsetjenesten og spesialisthelsetjenesten. Resultater: 
+Ytre krav og rammer påvirker arbeidshverdagen og gir tradisjonelle 
+sykepleieverdier trangere kår, ved at man prioriterer det man blir målt og 
+kontrollert på, mens pasientenes psykososiale behov og aktivitet nedprioriteres. 
+Også andre behov – som munnstell og ernæring – som må kunne forstås 
+innenfor rammen av nødvendig helsehjelp, kan bli lidende. Diskusjon: De ytre 
+kravene og rammene kan sees i sammenheng med innføring av New Public 
+Management (NPM) som styringsredskap i helsevesenet. NPM baseres på 
+måling og rapportering, og medvirker til at man prioriterer det man blir målt og 
+kontrollert på. Dette gjør sykepleierne mer oppgavesentrerte. På sikt kan dette 
+påvirke sykepleieprofesjonens identitet på samfunnsnivå og gi 
+omsorgsperspektivet og pasientrelasjonen mindre plass. Konklusjon: 
+Modellene for økonomisk styring i helsevesenet bør ta opp i seg perspektiver 
+som ivaretar pasientsentrert pleie og gir sykepleiefagets grunnleggende verdier 
+en sterkere posisjon
+  </article>
   <article id="contributors-article-8GC88ISB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

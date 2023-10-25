@@ -1,5 +1,5 @@
 ---
-title: "HE754TNU"
+title: "Determining Statistically Robust Changes in Ungulate Browsing Pressure as a Basis for Adaptive Wildlife Management"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HE754TNU" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1954274" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HE754TNU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-HE754TNU" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-HE754TNU" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-HE754TNU" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.mdpi.com/1999-4907/12/8/1030/pdf?version=1628063177" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-HE754TNU"></div>
 </article>
 <div id="csl-bib-meta-HE754TNU" class="csl-bib-meta">
+  <article id="abstract-article-HE754TNU" class="abstract-article">
+    <h1>Samandrag</h1>
+    Ungulate browsing has a major impact on the composition and structure of forests. Repeatedly conducted, large-scale regeneration inventories can monitor the extent of browsing pressure and its impacts on forest regeneration development. Based on the respective results, the necessity and extent of wildlife management activities such as hunting, fencing, etc., can be identified at a landscape scale. However, such inventories have rarely been integrated into wildlife management decision making. In this article, we evaluate a regeneration inventory method which was carried out in the Bavarian Forest National Park between 2007 and 2018. We predict the browsing impact by calculating browsing probabilities using a logistic mixed effect model. To provide wildlife managers with feedback on their activities, we developed a test which can assess significant changes in browsing probability between different inventory periods. To find the minimum observable browsing probability change, we simulated ungulate browsing based on the data of a potential browsing indicator species (Sorbus aucuparia) in the National Park. Sorbus aucuparia is evenly distributed, commonly found, selectively browsed and meets the ecosystem development objectives in our study area. We were able to verify a browsing probability change down to ±5 percentage points with a sample size of about 1,000 observations per inventory run. In view of the size of the National Park and the annual fluctuations in browsing pressure, this estimation accuracy seems sufficient. In seeking the maximal cost-efficiency, we were able to reduce this sample size in a sensitivity analysis by about two thirds without severe loss of information for wildlife management. Based on our findings, the presented inventory method combined with our evaluation tool has the potential to be a robust and efficient instrument to assess the impact of herbivores that are in the National Park and other regions.
+  </article>
   <article id="contributors-article-HE754TNU" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

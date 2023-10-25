@@ -1,5 +1,5 @@
 ---
-title: "KJ3NXSMY"
+title: "Chronic obstructive pulmonary disease does not impair responses to resistance training"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KJ3NXSMY" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1922693" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KJ3NXSMY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KJ3NXSMY" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-KJ3NXSMY" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-KJ3NXSMY" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://translational-medicine.biomedcentral.com/counter/pdf/10.1186/s12967-021-02969-1" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-KJ3NXSMY"></div>
 </article>
 <div id="csl-bib-meta-KJ3NXSMY" class="csl-bib-meta">
+  <article id="abstract-article-KJ3NXSMY" class="abstract-article">
+    <h1>Samandrag</h1>
+    BackgroundSubjects with chronic obstructive pulmonary disease (COPD) are prone to accelerated decay of muscle strength and mass with advancing age. This is believed to be driven by disease-inherent systemic pathophysiologies, which are also assumed to drive muscle cells into a state of anabolic resistance, leading to impaired abilities to adapt to resistance exercise training. Currently, this phenomenon remains largely unstudied. In this study, we aimed to investigate the assumed negative effects of COPD for health- and muscle-related responsiveness to resistance training using a healthy control-based translational approach. Methods Subjects with COPD (n = 20, GOLD II-III, FEV 1predicted 57 ± 11%, age 69 ± 5) and healthy controls (Healthy, n = 58, FEV 1predicted 112 ± 16%, age 67 ± 4) conducted identical whole-body resistance training interventions for 13 weeks, consisting of two weekly supervised training sessions. Leg exercises were performed unilaterally, with one leg conducting high-load training (10RM) and the contralateral leg conducting low-load training (30RM). Measurements included muscle strength (n variables  = 7), endurance performance (n variables  = 6), muscle mass (n variables  = 3), muscle quality, muscle biology ( m. vastus lateralis ; muscle fiber characteristics, RNA content including transcriptome) and health variables (body composition, blood). For core outcome domains, weighted combined factors were calculated from the range of singular assessments. Results COPD displayed well-known pathophysiologies at baseline, including elevated levels of systemic low-grade inflammation ([c-reactive protein] serum ), reduced muscle mass and functionality, and muscle biological aberrancies. Despite this, resistance training led to improved lower-limb muscle strength (15 ± 8%), muscle mass (7 ± 5%), muscle quality (8 ± 8%) and lower-limb/whole-body endurance performance (26 ± 12%/8 ± 9%) in COPD, resembling or exceeding responses in Healthy, measured in both relative and numeric change terms. Within the COPD cluster, lower FEV 1predicted was associated with larger numeric and relative increases in muscle mass and superior relative improvements in maximal muscle strength. This was accompanied by similar changes in hallmarks of muscle biology such as rRNA-content↑, muscle fiber cross-sectional area↑, type IIX proportions↓, and changes in mRNA transcriptomics. Neither of the core outcome domains were differentially affected by resistance training load. ConclusionsCOPD showed hitherto largely unrecognized responsiveness to resistance training, rejecting the notion of disease-related impairments and rather advocating such training as a potent measure to relieve pathophysiologies. Trial registration: ClinicalTrials.gov ID: NCT02598830. Registered November 6th 2015, https://clinicaltrials.gov/ct2/show/NCT02598830
+  </article>
   <article id="contributors-article-KJ3NXSMY" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

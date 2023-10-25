@@ -1,5 +1,5 @@
 ---
-title: "YAS76KRK"
+title: "How do actors coordinate for value creation? A signaling and screening perspective on resource integration"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YAS76KRK" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2016357" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/YAS76KRK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-YAS76KRK" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-YAS76KRK" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-YAS76KRK" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.emerald.com/insight/content/doi/10.1108/JSM-02-2020-0068/full/pdf?title=how-do-actors-coordinate-for-value-creation-a-signaling-and-screening-perspective-on-resource-integration" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-YAS76KRK"></div>
 </article>
 <div id="csl-bib-meta-YAS76KRK" class="csl-bib-meta">
+  <article id="abstract-article-YAS76KRK" class="abstract-article">
+    <h1>Abstract</h1>
+    PurposeAlthough service research typically asserts that institutions coordinate actors’ value creation processes, institutions and resources are not necessarily transparent, aligned, or pre-existing. This paper aims to develop a more granular perspective on how actors coordinate for value. Design/methodology/approachDrawing on the established concepts of signaling and screening theory, this paper adopts a service marketing perspective to explore how independent heterogeneous actors coordinate for value creation at the individual level. Illustrative cases of corporate startup collaborations are presented in support of the proposed conceptual framework. FindingsActors share and acquire information through signaling and screening activities in a coordinative dialogue with other actors. These resource integration activities (for resource creation and matching) affect actors’ valuations and future actions. Originality/valueThe one-sided explanations of coordination in the existing literature reflect the dominance of the institutional theory. By contrast, the proposed agency-oriented perspective based on the integration of signaling and screening functions offers a more granular conceptualization of the resource integration process. As well as capturing how actors use coordinating dialogue to match resources and institutions, this account also shows that matching is a core element of resource integration rather than an antecedent. The findings indicate paths for future research that focus on the actor.
+  </article>
   <article id="contributors-article-YAS76KRK" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

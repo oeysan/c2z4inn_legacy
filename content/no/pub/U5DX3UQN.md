@@ -1,5 +1,5 @@
 ---
-title: "U5DX3UQN"
+title: "Epistemic constructions in L2 Norwegian: a usage-based longitudinal study of formulaic and productive patterns"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-U5DX3UQN" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1936507" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/U5DX3UQN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-U5DX3UQN" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-U5DX3UQN" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-U5DX3UQN" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7F5F95002C020B6E7841902ACDCAE096/S1866980821000090a.pdf/div-class-title-epistemic-constructions-in-l2-norwegian-a-usage-based-longitudinal-study-of-formulaic-and-productive-patterns-div.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-U5DX3UQN"></div>
 </article>
 <div id="csl-bib-meta-U5DX3UQN" class="csl-bib-meta">
+  <article id="abstract-article-U5DX3UQN" class="abstract-article">
+    <h1>Samandrag</h1>
+    This paper addresses the development of epistemic verb–argument constructions in L2 Norwegian in four learners from a usage-based perspective. Usage-based theories hold that language learning is a gradual process of schematization. Recent research has pointed out that adult L2 learning may start out from both lexically specific and productive patterns, but also that formulaic language and semi-fixed patterns can persist for a long time in an L2. The aim of the present study is to trace how the schematization process unfolds in dense longitudinal data collected from learners in their second semester of intense Norwegian language studies, and to explore the interaction between formulaic and productive patterns in this period of language learning. The analyses show that the learners in general employ a limited repertoire of epistemic verbs, mainly tro ‘think’ and vite ‘know’. The level of productivity of tro and vite constructions varies across the learners: while one learner shows increasingly productive use of constructions with both verbs, other learners rely on semi-fixed construction patterns. A general conclusion is thus that formulaic and semi-fixed patterns are not restricted to initial phases of L2 learning and should be an object of attention at all levels of L2 competence.
+  </article>
   <article id="contributors-article-U5DX3UQN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

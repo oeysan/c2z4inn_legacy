@@ -1,5 +1,5 @@
 ---
-title: "ZUNT3CM3"
+title: "The Association between Endogenous Hair Steroid Hormones and Social Environmental Factors in a Group of Conscripts during Basic Military Training"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZUNT3CM3" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1963708" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZUNT3CM3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ZUNT3CM3" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-ZUNT3CM3" class="csl-bib-button">Contributors</a>
     <a href="https://www.mdpi.com/1660-4601/18/22/12239/pdf?version=1637574583" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ZUNT3CM3"></div>
 </article>
 <div id="csl-bib-meta-ZUNT3CM3" class="csl-bib-meta">
+  <article id="abstract-article-ZUNT3CM3" class="abstract-article">
+    <h1>Abstract</h1>
+    This study aimed to analyse the association between endogenous hair steroid hormones as reliable biological indicators of an individual’s stress level and the social environmental factors experienced during military training that are manifested at the beginning of compulsory military service. Hair steroid hormone concentrations—cortisol, cortisone, dehydroepiandrosterone (DHEA), and testosterone—in a group of 185 conscripts were measured using the ultra-high performance liquid chromatography-tandem mass spectrometry method. Six subjective social environmental factors in the military—attitude towards the military and military service, adaptation to the military environment, team, task, and norm cohesion, as well as psychological (un)safety in the group—were evaluated using military-specific research questionnaires. Weak but significant negative correlations were identified between cortisol and adaptation (r = −0.176, p &lt; 0.05), attitude (r = −0.147, p &lt; 0.05) as well as between testosterone and task cohesion (r = −0.230, p &lt; 0.01) levels. Additionally, a multiple forward stepwise regression analysis highlighted that cortisone variation might be partially explained by task cohesion; the DHEA—determined by psychological (un)safety in the group, attitude towards the military and military service, and norm cohesion; and the testosterone—determined by task cohesion and adaptation to the new military environment. The results of this study suggest that subjective measures of social factors can be used to predict hair steroid hormone levels as objective measures of the chronic stress perceived by conscripts during their basic military training.
+  </article>
   <article id="contributors-article-ZUNT3CM3" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

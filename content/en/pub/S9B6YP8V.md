@@ -1,5 +1,5 @@
 ---
-title: "S9B6YP8V"
+title: "Soil properties after forest rehabilitation by planting teak and mahogany in Java, Indonesia"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-S9B6YP8V" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1738347" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/S9B6YP8V" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-S9B6YP8V" class="csl-bib-button">Contributors</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/21580103.2019.1673220?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: "YHMVXFLY"
+title: "Taking stock of sport management research in the new millenia – research contributions, worthwhile knowledge, and the field’s raison d’être"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YHMVXFLY" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2045306" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/YHMVXFLY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-YHMVXFLY" class="csl-bib-button">Contributors</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/16184742.2022.2063360?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>

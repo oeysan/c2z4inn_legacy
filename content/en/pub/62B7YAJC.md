@@ -1,5 +1,5 @@
 ---
-title: "62B7YAJC"
+title: "DDL pedagogy, participants, and perspectives"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-62B7YAJC" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2045429" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/62B7YAJC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-62B7YAJC" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-62B7YAJC" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-62B7YAJC" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-62B7YAJC"></div>
 </article>
 <div id="csl-bib-meta-62B7YAJC" class="csl-bib-meta">
+  <article id="abstract-article-62B7YAJC" class="abstract-article">
+    <h1>Abstract</h1>
+    The chapter covers the perspectives of learners and teachers who use corpus-based approaches to language learning. We briefly summarize data-driven learning approaches reported from pedagogic contexts before exploring their perceived affordances and complexities. Following this, a recent empirical case-study is presented from the Norwegian secondary school context, exploring teacher and student perspectives.
+  </article>
   <article id="contributors-article-62B7YAJC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

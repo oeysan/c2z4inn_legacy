@@ -1,5 +1,5 @@
 ---
-title: "MRX4P3TF"
+title: "Student teachers’ understanding of the concept of culture"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MRX4P3TF" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1837634" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/MRX4P3TF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-MRX4P3TF" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-MRX4P3TF"></div>

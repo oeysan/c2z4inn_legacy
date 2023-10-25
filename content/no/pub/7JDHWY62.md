@@ -1,5 +1,5 @@
 ---
-title: "7JDHWY62"
+title: "An Enlightened Common Sense Approach to Environmental Education, with Special Reference to Climate Change"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7JDHWY62" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2149562" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/7JDHWY62" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-7JDHWY62" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-7JDHWY62" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-7JDHWY62" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.ajol.info/index.php/sajee/article/download/235170/234687" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-7JDHWY62"></div>
 </article>
 <div id="csl-bib-meta-7JDHWY62" class="csl-bib-meta">
+  <article id="abstract-article-7JDHWY62" class="abstract-article">
+    <h1>Samandrag</h1>
+    This article argues that, in order for humanity to act timeously to ameliorate threats such as climate change, we would do well to heed the central tenets of Roy Bhaskar’s transcendental realism, which he also calls enlightened common sense. This is because transcendental realism is critical of the unnecessarily burdensome assumption allied with systems/complexity theory that statistical analyses and complex computer models are necessary and suffi cient to deal with complex systems such as climate. To the contrary, from the perspective of transcendental realism, it is knowing ‘how things work’ – being enlightened – that is necessary, and often sufficient, to deal with complex systems. For example, in terms of climate change, knowing how the Greenhouse Eff ect works – that is, knowing how extra carbon dioxide in the atmosphere heats the Earth – makes it as simple to decide to act to reduce carbon dioxide as knowing how gravity works makes it simple to decide not to step off a high-rise building. This does not detract from the further need to (preferably democratically) consider diff erent action options, for which computer models can be a helpful tool. Transcendental realism also has implications for how environmental educators define climate and climate change and it provides an antidote to certain challenges posed by climate change deniers. Much of the critique applied in this article to systems/complexity theory can also be applied to posthumanism. Keywords: climate change education, Roy Bhaskar, climate scepticism, complex systems, posthumanism
+  </article>
   <article id="contributors-article-7JDHWY62" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

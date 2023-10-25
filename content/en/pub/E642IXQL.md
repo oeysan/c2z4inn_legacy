@@ -1,5 +1,5 @@
 ---
-title: "E642IXQL"
+title: "Estimation of costs of technical and allocative inefficiency"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E642IXQL" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1940881" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/E642IXQL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/s11123-020-00596-4" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-E642IXQL"></div>

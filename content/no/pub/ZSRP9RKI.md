@@ -1,5 +1,5 @@
 ---
-title: "ZSRP9RKI"
+title: "The impact of human land use and landscape productivity on population dynamics of red fox in southeastern Norway"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZSRP9RKI" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1807149" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZSRP9RKI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ZSRP9RKI" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-ZSRP9RKI" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-ZSRP9RKI" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s13364-020-00494-y.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-ZSRP9RKI"></div>
 </article>
 <div id="csl-bib-meta-ZSRP9RKI" class="csl-bib-meta">
+  <article id="abstract-article-ZSRP9RKI" class="abstract-article">
+    <h1>Samandrag</h1>
+    In the boreal forest, the red fox ( Vulpes vulpes ) is a key species due to its many strong food web linkages and its exploitation of niches that form in the wake of human activities. Recent altitudinal range expansion and a perceived population increase have become topics of concern in Scandinavia, primarily due to the potential impacts of red foxes on both prey and competitor species. However, despite it being a common species, there is still surprisingly little knowledge about the temporal and spatial characteristics of its population dynamics. In this study, we synthesized 12 years of snow-track transect data covering a 27,000-km 2 study area to identify factors associated with red fox distribution and population dynamics. Using Bayesian hierarchical regression models, we evaluated the relationships of landscape productivity and climate gradients as well as anthropogenic subsidies with an index of red fox population size and growth rates. We found that landscapes with high human settlement density and large amounts of gut piles from moose ( Alces alces ) hunting were associated with higher red fox abundances. Population dynamics were characterized by direct density-dependent growth, and the structure of density dependence was best explained by the amount of agricultural land in the landscape. Population equilibrium levels increased, and populations were more stable, in areas with a higher presence of agricultural lands, whereas density-dependent population growth was more prominent in areas of low agricultural presence. We conclude that human land use is a dominant driver of red fox population dynamics in the boreal forest. We encourage further research focusing on contrasting effects of anthropogenic subsidization on predator population carrying capacities and temporal stability, and potential impacts on prey dynamics.
+  </article>
   <article id="contributors-article-ZSRP9RKI" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

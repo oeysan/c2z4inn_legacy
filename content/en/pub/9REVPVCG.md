@@ -1,5 +1,5 @@
 ---
-title: "9REVPVCG"
+title: "Effects of Including Sprints in LIT Sessions during a 14-d Camp on Muscle Biology and Performance Measures in Elite Cyclists"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9REVPVCG" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1928668" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9REVPVCG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-9REVPVCG" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-9REVPVCG" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-9REVPVCG" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1249/MSS.0000000000002709" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-9REVPVCG"></div>
 </article>
 <div id="csl-bib-meta-9REVPVCG" class="csl-bib-meta">
+  <article id="abstract-article-9REVPVCG" class="abstract-article">
+    <h1>Abstract</h1>
+    PurposeThis study investigated the effects of including sprints within low-intensity training (LIT) sessions during a 14-d training camp focusing on LIT, followed by 10-d recovery (Rec), on performance and performance-related measures in elite cyclists. Methods During the camp, a sprint training group (SPR; n = 9) included 12 × 30-s maximal sprints during five LIT sessions, whereas a control group (CON; n = 9) performed distance-matched LIT only. Training load was equally increased in both groups by 48% ± 27% during the training camp and subsequently decreased by −56% ± 23% during the recovery period compared with habitual training. Performance tests were conducted before the training camp (Pre) and after Rec. Muscle biopsies, hematological measures, and stress/recovery questionnaires were collected Pre and after the camp (Post). Results Thirty-second sprint (SPR vs CON: 4% ± 4%, P &lt; 0.01) and 5-min mean power (SPR vs CON: 4% ± 8%, P = 0.04) changed differently between groups. In muscle, Na + -K + β1 protein content changed differently between groups, decreasing in CON compared with SPR (−8% ± 14%, P = 0.04), whereas other proteins showed similar changes. SPR and CON displayed similar increases in red blood cell volume (SPR: 2.6% ± 4.7%, P = 0.07; CON: 3.9% ± 4.5%, P = 0.02) and V˙O 2 at 4 mmol·L −1 [BLa − ] (SPR: 2.5% ± 3.3%, P = 0.03; CON: 2.2% ± 3.0%, P = 0.04). No changes were seen for V˙O 2max , Wmax , hematological measures, muscle enzyme activity, and stress/recovery measures. Conclusions Inclusion of 30-s sprints within LIT sessions during a high-volume training camp affected competition-relevant performance measures and Na + -K + β1 protein content differently from LIT only, without affecting sport-specific stress/recovery or any other physiological measure in elite cyclists.
+  </article>
   <article id="contributors-article-9REVPVCG" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

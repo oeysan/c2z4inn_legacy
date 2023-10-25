@@ -1,5 +1,5 @@
 ---
-title: "DDAGVTQY"
+title: "Brukermedvirkning som innflytelse og deltakelse - en studie av omsorgslederes vurderinger"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DDAGVTQY" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1763414" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DDAGVTQY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-DDAGVTQY" class="csl-bib-button">Contributors</a>
     <a href="https://www.idunn.no/file/pdf/67186120/brukermedvirkning_som_innflytelse_og_deltakelse_en_studie.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

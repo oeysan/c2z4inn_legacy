@@ -1,5 +1,5 @@
 ---
-title: "T674IUBS"
+title: "Association between diet and rumen microbiota in wild roe deer"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-T674IUBS" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1710520" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/T674IUBS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-T674IUBS" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-T674IUBS" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1093/femsle/fnz060" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-T674IUBS"></div>
 </article>
 <div id="csl-bib-meta-T674IUBS" class="csl-bib-meta">
+  <article id="abstract-article-T674IUBS" class="abstract-article">
+    <h1>Abstract</h1>
+    The association between diet and the rumen microbiota for wild animals remains largely unexplored. Here, we explored this association using a combination of 16S rRNA gene sequencing to determine the prokaryote microbiota and 18S rRNA gene sequencing to determine the dietary components for wild roe deer. These analyses revealed a wide diversity of dietary components, with over-representation of Bacteroidetes for the diet-correlating bacteria. Ruminococcus, on the other hand, dominated the stable diet-independent part of the microbiota. Taken together, the combination of 16S and 18S rRNA gene analyses provide novel insight into rumen microbiota ecology.
+  </article>
   <article id="contributors-article-T674IUBS" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

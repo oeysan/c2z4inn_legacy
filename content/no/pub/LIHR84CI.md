@@ -1,5 +1,5 @@
 ---
-title: "LIHR84CI"
+title: "Between company and network practices: mirroring innovative ideas"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LIHR84CI" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1625878" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LIHR84CI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/15022250.2018.1497305" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-LIHR84CI"></div>

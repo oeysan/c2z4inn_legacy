@@ -1,5 +1,5 @@
 ---
-title: "WXRSN2EP"
+title: "Sharing Spaces and Entanglements With Big Cats: The Warli and Their Waghoba in Maharashtra, India"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WXRSN2EP" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1931230" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WXRSN2EP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WXRSN2EP" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-WXRSN2EP" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-WXRSN2EP" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fcosc.2021.683356/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-WXRSN2EP"></div>
 </article>
 <div id="csl-bib-meta-WXRSN2EP" class="csl-bib-meta">
+  <article id="abstract-article-WXRSN2EP" class="abstract-article">
+    <h1>Abstract</h1>
+    Long histories of sharing space and resources have built complex, robust, and enduring relationships between humans and wildlife in many communities across the world. In order to understand what makes it possible for humans and wildlife to share space, we have to look beyond the ecological and socio-economic study of damages caused by human-wildlife conflict and explore the cultural and societal context within which co-existence is embedded. We conducted an exploratory study on the institution of Waghoba, a big cat deity worshiped by the Indigenous Warli community in Maharashtra, India. Through our research, we found that the worship of Waghoba is highly prevalent, with 150 shrines dedicated to this deity across our study site. We also learnt that the Warlis believe in a reciprocal relationship, where Waghoba will protect them from the negative impacts of sharing spaces with big cats if the people worship the deity and conduct the required rituals, especially the annual festival of Waghbaras. We propose that such relationships facilitate the sharing spaces between humans and leopards that live in the landscape. The study also revealed the ways in which the range of institutions and stakeholders in the landscape shape the institution of Waghoba and thereby contribute to the human-leopard relationship in the landscape. This is relevant for present-day wildlife conservation because such traditional institutions are likely to act as tolerance-building mechanisms embedded within the local cosmology. Further, it is vital that the dominant stakeholders outside of the Warli community (such as the Forest Department, conservation biologists, and other non-Warli residents who interact with leopards) are informed about and sensitive to these cultural representations because it is not just the biological animal that the Warlis predominantly deal with.
+  </article>
   <article id="contributors-article-WXRSN2EP" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "5A2P4WQD"
+title: "Innovasjon i fragmenterte næringer"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5A2P4WQD" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1454545" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/5A2P4WQD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-5A2P4WQD" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-5A2P4WQD" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-5A2P4WQD"></div>
 </article>
 <div id="csl-bib-meta-5A2P4WQD" class="csl-bib-meta">
+  <article id="abstract-article-5A2P4WQD" class="abstract-article">
+    <h1>Samandrag</h1>
+    Denne boka presenterer nye forskningsarbeider om innovasjon i fragmenterte næringer. Gjennom casestudier av innovasjon i reiselivsnæringen og skogbaserte næringer, kartlegger bidragene forutsetningene for innovasjon i Innlandet. Bidragene viser hvordan eksisterende litteratur undervurderer små og mellomstore bedrifters evne til å føre frem innovasjon og koordinerte tiltak.
+  </article>
   <article id="contributors-article-5A2P4WQD" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

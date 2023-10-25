@@ -1,5 +1,5 @@
 ---
-title: "AKJKP5IG"
+title: "Musical gentrification, parenting and children’s media music"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AKJKP5IG" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1822739" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/AKJKP5IG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AKJKP5IG" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-AKJKP5IG"></div>

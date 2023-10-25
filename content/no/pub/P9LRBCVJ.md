@@ -1,5 +1,5 @@
 ---
-title: "P9LRBCVJ"
+title: "Using a System Dynamics Model for Investigating Potential Levels of Antibiotics Pollution in the Volga River"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-P9LRBCVJ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1817131" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/P9LRBCVJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-P9LRBCVJ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-P9LRBCVJ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-P9LRBCVJ" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s11270-020-04526-w.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-P9LRBCVJ"></div>
 </article>
 <div id="csl-bib-meta-P9LRBCVJ" class="csl-bib-meta">
+  <article id="abstract-article-P9LRBCVJ" class="abstract-article">
+    <h1>Samandrag</h1>
+    We have modelled the possible antibiotics concentrations at different nodes along the Volga River using a system dynamics model developed for the purpose. The antibiotics concentrations in the river estimated using the model are far above the proposed no effect concentrations (PNEC) limits suggested by the WHO and EU European Environmental Agency at 0.1 μg/l total antibiotics water content. Concentrations in the range of 0.1 to more than 4 μg/l have been simulated with the model. A part of this comes from use in the agricultural sector. The simulations were done with a system dynamics model built for the purpose. The Volga model simulations are uncertain because of lack of measurements in the river and lack of accurate estimates of antibiotics loads from medical and agricultural use. The picture is consistent with observations in earlier international studies from various rivers in the world. To comply with the suggested PNEC limit, the medical pollution to Volga needs to be reduced by 90%.
+  </article>
   <article id="contributors-article-P9LRBCVJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

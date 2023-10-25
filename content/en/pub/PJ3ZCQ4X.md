@@ -1,5 +1,5 @@
 ---
-title: "PJ3ZCQ4X"
+title: "Experiences of shared decision making among patients with psychotic disorders in Norway: a qualitative study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PJ3ZCQ4X" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2018893" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PJ3ZCQ4X" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-PJ3ZCQ4X" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-PJ3ZCQ4X" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-PJ3ZCQ4X" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://bmcpsychiatry.biomedcentral.com/track/pdf/10.1186/s12888-022-03849-8" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-PJ3ZCQ4X"></div>
 </article>
 <div id="csl-bib-meta-PJ3ZCQ4X" class="csl-bib-meta">
+  <article id="abstract-article-PJ3ZCQ4X" class="abstract-article">
+    <h1>Abstract</h1>
+    BackgroundShared decision making (SDM) is a process where the patient and the health professional collaborate to make decisions based on both the patient’s preferences and the best available evidence. Patients with psychotic disorders are less involved in making decisions than they would like. More knowledge of these patients’ experiences of SDM may improve implementation. The study aim was to describe and explore experiences of SDM among patients with psychotic disorders in mental health care. MethodsIndividual interviews were conducted with ten persons with a psychotic disorder. They were service users of two community mental health centres. The transcribed material was analysed using qualitative content analysis. ResultsFour-fifths of the participants in this study found that they received insufficient information about their health situation and treatment options. All participants experienced that only one kind of treatment was often presented, which was usually medication. Although the study found that different degrees of involvement were practised, two thirds of the participants had little impact on choices to be made. This was despite the fact that they wanted to participate and felt capable of participating, even during periods of more severe illness. The participants described how important it was that SDM in psychosis was based on a trusting relationship, but stated that it took time to establish such a relationship. ConclusionsThis study with ten participants indicates that patients with psychotic disorders experienced that they were not allowed to participate as much as they wanted to and believed they were capable of. Some patients were involved, but to a lesser degree than in SDM. More and better tailored information communicated within a trusting relationship is needed to provide psychotic patients with a better basis for active involvement in decisions about their health care.
+  </article>
   <article id="contributors-article-PJ3ZCQ4X" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

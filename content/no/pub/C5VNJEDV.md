@@ -1,5 +1,5 @@
 ---
-title: "C5VNJEDV"
+title: "Poor Quality in Systematic Reviews on PTSD and EMDR – An Examination of Search Methodology and Reporting"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,21 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-C5VNJEDV" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1709272" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/C5VNJEDV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-C5VNJEDV" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-C5VNJEDV" class="csl-bib-button">Medverkande</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01558/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-C5VNJEDV"></div>
 </article>
 <div id="csl-bib-meta-C5VNJEDV" class="csl-bib-meta">
+  <article id="abstract-article-C5VNJEDV" class="abstract-article">
+    <h1>Samandrag</h1>
+    Background: Different user groups regard systematic reviews as reliable and valuable sources for answering research questions. For systematic reviews to fulfill their purpose, methodological quality in all stages are of importance. The studies identified in a systematic search form the basis of the review, thus the search process methodology is important for both performing and reporting the search. The purpose of the present study was to evaluate the quality of non-Cochrane systematic reviews by analyzing how they perform and report the search. The focus of this article is eye movement desensitization and reprocessing (EMDR), a trauma-focused therapy commonly used for post-traumatic stress disorder (PTSD). 
+Methods and results: We examined the method chapters of 20 systematic reviews on the subject, and rated their searches and reporting using relevant elements from the Cochrane Handbook and PRISMA. We found inadequacies in the methods employed for searching and reporting the search strategy, which could have been avoided by greater adherence to guiding documents for performing systematic reviews. 
+Conclusions: Our findings raise important questions for future debate on the risk of omitting studies, thus impairing the conclusions in a systematic review. For clinical purposes, researchers should investigate if, and how, the search strategy in a systematic review affects the body of knowledge and the results.
+  </article>
   <article id="contributors-article-C5VNJEDV" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

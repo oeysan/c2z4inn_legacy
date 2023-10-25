@@ -1,5 +1,5 @@
 ---
-title: "BJ34ENF5"
+title: "Learning spaces for inclusion and social justice: the project and the book"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BJ34ENF5" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1624458" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/BJ34ENF5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BJ34ENF5" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-BJ34ENF5"></div>

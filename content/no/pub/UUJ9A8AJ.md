@@ -1,5 +1,5 @@
 ---
-title: "UUJ9A8AJ"
+title: "Embedded Multi-Level Leadership in Diverse Elite Sport Systems"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UUJ9A8AJ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1953074" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/UUJ9A8AJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UUJ9A8AJ" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4324/9781003092728-1" class="csl-bib-button">EZproxy</a>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: "H5ZGWGIW"
+title: "Mortality, Causes of Death, and Predictors of Death among Patients On and Off Opioid Agonist Treatment: Results from a 19-Year Cohort Study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-H5ZGWGIW" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2062284" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/H5ZGWGIW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-H5ZGWGIW" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-H5ZGWGIW" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-H5ZGWGIW" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.karger.com/Article/Pdf/525694" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,19 @@ type: pub
   <div id="csl-bib-meta-container-H5ZGWGIW"></div>
 </article>
 <div id="csl-bib-meta-H5ZGWGIW" class="csl-bib-meta">
+  <article id="abstract-article-H5ZGWGIW" class="abstract-article">
+    <h1>Abstract</h1>
+    Background: Mortality is increased among people with opioid use disorder but reduced while on opioid agonist treatment (OAT). However, the impact of patient and treatment characteristics on mortality and causes of death is insufficiently studied.  
+Objectives: The objective of this study was to explore mortality and causes of death and examine the impact of patient and treatment characteristics on mortality in an OAT cohort with high retention in treatment.  
+Methods: Design: longitudinal cohort study.  
+Setting: Norway. Observation period: time from OAT start as of 1998 until death or end of 2016, 2,508 person-years (PY) in total.  
+Sample: 200 persons starting OAT 1998–2007.  
+Data sources: hospital records, interviews, the Norwegian Cause of Death Registry, Statistics Norway.  
+Results: Retention: 86.4% of the observation period was on OAT, 9.0% off, 4.6% unknown OAT status. All-cause crude mortality rate per 100 PY during the whole observation period was 1.64 (95% CI: 1.19–2.20), for deaths of somatic cause 0.88 (0.56–1.31), for drug-induced deaths 0.44 (0.23–0.76), and traumatic deaths 0.24 (0.10–0.50). Off-versus-on-OAT all-cause mortality ratio was 2.31 (1.00–4.85). On OAT, 58% of the deaths were of somatic cause and 21% drug-induced; off OAT, 38% of somatic cause and 50% drug-induced. Increasing baseline age and rate of somatic hospital treatment episodes were independently associated with increased all-cause mortality risk, while increasing rate of in-patient psychiatric treatment episodes was associated with reduced risk. Increasing duration of nicotine and cannabis use and alcohol dependence as well as increasing severity of polydrug use were associated with increased all-cause and somatic mortality adjusted for age and sex.  
+Conclusion: The long observation period made it possible to demonstrate the importance of long-term retention in OAT to reduce mortality. Further, the preponderance of somatic and reduction of drug-induced causes of death during OAT underlines the need for follow-up of chronic diseases and health-promoting lifestyle changes. These findings add to the knowledge about long-term OAT effects, not least in ageing OAT populations. 
+© 2022 The Author(s). This article is licensed under the Creative Commons Attribution 4.0 International License (CC BY) (http://www.karger.com/Services/OpenAccessLicense). Usage, derivative works and distribution are permitted provided that proper credit is given to the author and the  
+original publisher.
+  </article>
   <article id="contributors-article-H5ZGWGIW" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

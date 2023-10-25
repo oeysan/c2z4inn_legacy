@@ -1,5 +1,5 @@
 ---
-title: "JS7QL8PK"
+title: "Coat Polymorphism in Eurasian Lynx: Adaptation to Environment or Phylogeographic Legacy?"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JS7QL8PK" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1957075" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JS7QL8PK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JS7QL8PK" class="csl-bib-button">Contributors</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s10914-021-09580-7.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

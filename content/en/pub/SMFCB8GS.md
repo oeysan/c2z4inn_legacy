@@ -1,5 +1,5 @@
 ---
-title: "SMFCB8GS"
+title: "Norwegian schools of music and arts: Local significance and strategies of inclusion"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SMFCB8GS" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2132358" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/SMFCB8GS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-SMFCB8GS" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-SMFCB8GS" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-SMFCB8GS" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/02557614231157737" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-SMFCB8GS"></div>
 </article>
 <div id="csl-bib-meta-SMFCB8GS" class="csl-bib-meta">
+  <article id="abstract-article-SMFCB8GS" class="abstract-article">
+    <h1>Abstract</h1>
+    The Norwegian schools of music and arts are publicly funded institutions which offer extra-curricular activities for children and adolescents in music and other art forms. According to Norwegian legislation, each municipality is required to provide such education for its inhabitants. By parliamentary decision the schools are expected to be for all children and youth. In this article we explore this mandate through research questions focussing on how the schools work to increase their local significance; what their strategies of inclusion are; and how these strategies are experienced by the parents of school users, with a special attention towards tensions that may arise with respect to inclusion/exclusion. The exploration is based on an interview study among headteachers, teachers and parents belonging to five strategically sampled schools of music and arts. The data comprise 30 interviews. The findings show that the schools put considerable efforts into increasing their local significance as well as developing and executing a multitude of strategies of inclusion. Still, they reach only a limited selection of children and youth. Using a Bourdieusian framework, we suggest that this may partly be due to the patterns of cultural domination existing within the Norwegian school of music and art system.
+  </article>
   <article id="contributors-article-SMFCB8GS" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

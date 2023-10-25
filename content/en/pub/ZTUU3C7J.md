@@ -1,5 +1,5 @@
 ---
-title: "ZTUU3C7J"
+title: "Expert reviews, peer recommendations and buying red wine: experimental evidence"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZTUU3C7J" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1708343" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZTUU3C7J" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ZTUU3C7J" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/09571264.2019.1614548" class="csl-bib-button">EZproxy</a>
   </div>

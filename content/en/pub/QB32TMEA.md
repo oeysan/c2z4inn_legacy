@@ -1,5 +1,5 @@
 ---
-title: "QB32TMEA"
+title: "Theoretical construct into blocks of actigraphic-derived sleep parameters"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QB32TMEA" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2102026" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/QB32TMEA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-QB32TMEA" class="csl-bib-button">Contributors</a>
     <a href="https://figshare.com/articles/journal_contribution/Theoretical_construct_into_blocks_of_actigraphic-derived_sleep_parameters/21749478/1/files/38589987.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

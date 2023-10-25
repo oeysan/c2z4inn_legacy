@@ -1,5 +1,5 @@
 ---
-title: "EWVEZ7JF"
+title: "Performing Sport Political Legitimacy: A Cultural Sociology Perspective on Sport Politics"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EWVEZ7JF" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1704002" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/EWVEZ7JF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-EWVEZ7JF" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-EWVEZ7JF" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-EWVEZ7JF" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://journals.humankinetics.com/downloadpdf/journals/ssj/36/2/article-p171.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-EWVEZ7JF"></div>
 </article>
 <div id="csl-bib-meta-EWVEZ7JF" class="csl-bib-meta">
+  <article id="abstract-article-EWVEZ7JF" class="abstract-article">
+    <h1>Samandrag</h1>
+    This paper concerns the performance of sport politics. We carry out a text analysis of a year-long media debate that raged in Norwegian newspapers throughout 2016. After the Medias had critiqued how the Norwegian Confederation of Sports (NIF) spends state-provided funds, the Minister of Culture questioned the alleged civil contribution from NIF and demanded change. An archival search retrieved 488 articles and 1604 pages on the matter. Performance theory clarifies the debaters’ failure and success in achieving sport political legitimacy. Success was an ongoing achievement contingent upon the actors’ abilities to apply broadly available representations in the pragmatics of the dispute. Drawing on Norwegian codes of equality and by polluting the image of NIF, the Minister of Culture eventually managed to reshape Norwegian sports.
+  </article>
   <article id="contributors-article-EWVEZ7JF" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

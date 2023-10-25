@@ -1,5 +1,5 @@
 ---
-title: "BPMGCZZT"
+title: "Norway: A Small State in the Great European Energy Game"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BPMGCZZT" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1620114" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/BPMGCZZT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-BPMGCZZT" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-BPMGCZZT" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-BPMGCZZT" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-3-319-93360-3_6" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-BPMGCZZT"></div>
 </article>
 <div id="csl-bib-meta-BPMGCZZT" class="csl-bib-meta">
+  <article id="abstract-article-BPMGCZZT" class="abstract-article">
+    <h1>Abstract</h1>
+    This chapter discusses the scale and scope of the room for political manoeuvre in the energy sector available to Norway as a member of the EU’s Single Market (SM). Norway has deliberately developed its energy resources under strong political control to benefit the ‘entire Norwegian nation’. The European Economic Area (EEA) agreement, which came into effect in 1994, made Norway a participant of liberal economic restructuring processes. As EU policy aims at benefiting purchasers throughout the EEA area, and not individual member states only (and outside exporters even less), it has clashed with Norwegian energy policy concerning how such policy should work, and for whom. Focusing on natural gas, the chapter examines how small-state Norway has managed to achieve nationally defined goals for its energy sector within the rule-based SM, where the EU is the major political player. The room for national political manoeuvring within liberal EU regulations appears to depend as much on national vision and situation, and on comparative advantages in policy-making and choice, as on EU policy as such. Norway’s nationally defined policy goals were largely retained, with active regulatory and legal interpretation, innovative adaptation and, when necessary, the introduction of new policies and greater direct state participation to compensate for lost opportunities.
+  </article>
   <article id="contributors-article-BPMGCZZT" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

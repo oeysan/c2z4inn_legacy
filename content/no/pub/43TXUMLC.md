@@ -1,5 +1,5 @@
 ---
-title: "43TXUMLC"
+title: "The Significance of Demographic Variables on Psychosocial Health from the Early Stage and Nine Months after the COVID-19 Pandemic Outbreak. A Cross-National Study"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-43TXUMLC" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1905223" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/43TXUMLC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-43TXUMLC" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-43TXUMLC" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-43TXUMLC" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.mdpi.com/1660-4601/18/8/4345/pdf?version=1618904571" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,22 @@ type: pub
   <div id="csl-bib-meta-container-43TXUMLC"></div>
 </article>
 <div id="csl-bib-meta-43TXUMLC" class="csl-bib-meta">
+  <article id="abstract-article-43TXUMLC" class="abstract-article">
+    <h1>Samandrag</h1>
+    Abstract: This cross-national study explored stability and change in mental health, quality of life, wellbeing and loneliness during the early stage and nine months after the implementation of COVID-19 
+pandemic social distancing measures and periodic lockdowns as adjusted by demographic variables. 
+In the USA, the UK, Australia and Norway, 7284 individuals responded to the invitation to take part 
+in two cross-sectional web-based surveys (April and November 2020), including questions about 
+sociodemographic variables and psychosocial outcomes. Independent t-tests and generalized linear 
+models (GLM) and estimated marginal means were used to analyze differences between subgroups 
+and countries, multiple linear regression analyses were conducted on the psychosocial outcome 
+measures by demographic variables and time in each country and mean responses presented by 
+time after adjusting for all demographic variables in the model. Age, gender, civil status, education, 
+employment, place of work and living area were all significant factors for psychosocial health across 
+the countries. Differences in mental health, quality of life, well-being and loneliness were found 
+between the countries in both April and November 2020, while time did not contribute to reducing 
+the toll in any of the four countries over the nine-month period.
+  </article>
   <article id="contributors-article-43TXUMLC" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

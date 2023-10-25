@@ -1,5 +1,5 @@
 ---
-title: "6T6ELUQK"
+title: "Effects of immersive virtual nature on nature connectedness: A systematic review protocol"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6T6ELUQK" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2049727" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/6T6ELUQK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-6T6ELUQK" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-6T6ELUQK" class="csl-bib-button">Medverkande</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/20552076221120324" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-6T6ELUQK"></div>
 </article>
 <div id="csl-bib-meta-6T6ELUQK" class="csl-bib-meta">
+  <article id="abstract-article-6T6ELUQK" class="abstract-article">
+    <h1>Samandrag</h1>
+    ObjectiveNature Connectedness, an individual’s cognitive, affective, and behavioral connection with the natural world, has been linked to various health and well-being outcomes. As Nature Connectedness can be elicited and strengthened through direct contact with nature, in the past decade studies have investigated whether similar effects can be achieved through technologies that simulate highly immersive and realistic experiences of nature, such as Immersive Virtual Nature. This protocol describes the methodology for a systematic review that will summarize the existing evidence on the effects of Immersive Virtual Nature on Nature Connectedness in non-clinical populations. MethodsThe review will be conducted following the guidelines of Preferred Reporting Items for Systematic Reviews and MetaAnalyses. Terms such as “immersive virtual environment,” “natural setting*,” and “contact with nature” were searched in Scopus, WebOfScience, GoogleScholar, Medline, and GreenFILE (22–28 November 2021). Papers in English, describing experimental studies, with or without control/comparison, and testing the effects of Immersive Virtual Nature interventions on Nature Connectedness outcomes in non-clinical populations were included. The risk of bias will be assessed using Cochrane’s Risk of Bias 2 for randomized studies, and the Risk Of Bias In Non-randomized Studies - of Interventions. The data synthesis will be performed through meta-analysis, assuming that the Cochrane Consumers and Communication Group guidelines are met. ConclusionThe findings will be relevant for understanding the potential and challenges of Immersive Virtual Nature as a tool to promote health and well-being in the general population, providing information on the consistency and limitations of the existing literature and recommendations for future research.
+  </article>
   <article id="contributors-article-6T6ELUQK" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "QJK5SCY8"
+title: "Willingness to Participate in Alcohol Prevention Interventions Targeting Risky Drinking Employees. The WIRUS Project"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QJK5SCY8" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1912851" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/QJK5SCY8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-QJK5SCY8" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-QJK5SCY8" class="csl-bib-button">Medverkande</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2021.692605/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-QJK5SCY8"></div>
 </article>
 <div id="csl-bib-meta-QJK5SCY8" class="csl-bib-meta">
+  <article id="abstract-article-QJK5SCY8" class="abstract-article">
+    <h1>Samandrag</h1>
+    Background: The extent to which eligible individuals in a target population are willing to participate in interventions is important when evaluating the efficacy of public health interventions. Objectives: As part of a process evaluation of an ongoing randomized controlled trial, this study aimed to identify the proportion of risky drinkers who were willing to participate in an alcohol prevention intervention in an occupational health setting, and correlates for such willingness. Methods: Risky drinking employees from 22 companies in Norway were identified through an alcohol screening survey. Risky drinkers' ( N = 779) willingness to complete a health examination and to be randomized into an alcohol prevention intervention (digital or face-to-face intervention, or control) was recorded by personnel from occupational health services. The proportion of employees who were willing to participate was assessed on 31 potential correlates (sociodemographic, alcohol-related, work-related, and lifestyle/daily activity). Adjusted (multiple logistic regression) analyses were utilized to explore associations between potential correlates and willingness to participate. Results: Altogether, 38.1% of employees were willing to participate in prevention interventions. In the adjusted analysis, only 5 out of 31 potential correlates were significantly associated with willingness to participate. Managers were more than twice as willing to participate than workers (OR = 2.17, p 0.01). Willing employees had less workplace decision latitude (perceived control over workplace decisions and less possibility of utilizing personal skills in the job) (OR = 0.62, p 0.05), and were more overcommitted with exorbitant work ambition and need for approval (OR = 1.49, p 0.05). Willing employees had to some extent less alcohol-related impaired work performance (presenteeism, OR = 0.78, p 0.05), and they spent less time on care activities (OR = 0.84, p 0.05). Conclusions: Reaching four out of ten with risky drinking habits for prevention interventions strengthens the rationale for targeting this public health problem in occupational health care settings. In particular, this study suggests the importance of ensuring secure commitment among workers, who were less willing til participate than managers. Nevertheless, tailoring recruitment and implementation strategies based on easily identifiable correlates may be onerous.
+  </article>
   <article id="contributors-article-QJK5SCY8" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

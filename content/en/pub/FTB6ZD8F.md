@@ -1,5 +1,5 @@
 ---
-title: "FTB6ZD8F"
+title: "Communicative competence in English upper secondary school curricula in Indonesia"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FTB6ZD8F" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1818523" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/FTB6ZD8F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FTB6ZD8F" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-FTB6ZD8F"></div>

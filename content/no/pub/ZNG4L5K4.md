@@ -1,5 +1,5 @@
 ---
-title: "ZNG4L5K4"
+title: "Popular Musicology and Identity: Essays in Honour of Stan Hawkins"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZNG4L5K4" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1818726" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZNG4L5K4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ZNG4L5K4" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-ZNG4L5K4" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-ZNG4L5K4" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-ZNG4L5K4"></div>
 </article>
 <div id="csl-bib-meta-ZNG4L5K4" class="csl-bib-meta">
+  <article id="abstract-article-ZNG4L5K4" class="abstract-article">
+    <h1>Samandrag</h1>
+    Popular Musicology and Identity paves new paths for studying popular music’s entwinement with gender, sexuality, ethnicity, class, locality, and a range of other factors. The book consists of original essays in honour of Stan Hawkins, whose work has been a major influence on the musicological study of gender and identity since the early 1990s. In the new millennium, musicological approaches have proliferated and evolved alongside major shifts in the music industry and popular culture. Reflecting this plurality, the book reaches into a range of musical contexts, eras, and idioms to critically investigate the discursive structures that govern the processes through which music is mobilised as a focal point for negotiating and assessing identity. With contributions from leading scholars in the field, Popular Musicology and Identity accounts for the state of popular musicology at the onset of the 2020s while also offering a platform for the further advancement of the critical study of popular music and identity. This collection of essays thus provides an up-to-date resource for scholars across fields such as popular music studies, musicology, gender studies, and media studies.
+  </article>
   <article id="contributors-article-ZNG4L5K4" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "KND2BDSG"
+title: "Genetic mapping and identification of a QTL determining tolerance to freezing stress in Fragaria vesca L."
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KND2BDSG" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1919038" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KND2BDSG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KND2BDSG" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-KND2BDSG" class="csl-bib-button">Medverkande</a>
     <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0248089&amp;type=printable" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-KND2BDSG"></div>
 </article>
 <div id="csl-bib-meta-KND2BDSG" class="csl-bib-meta">
+  <article id="abstract-article-KND2BDSG" class="abstract-article">
+    <h1>Samandrag</h1>
+    Extreme cold and frost cause significant stress to plants which can potentially be lethal. Low temperature freezing stress can cause significant and irreversible damage to plant cells and can induce physiological and metabolic changes that impact on growth and development. Low temperatures cause physiological responses including winter dormancy and autumn cold hardening in strawberry ( Fragaria ) species, and some diploid F . vesca accessions have been shown to have adapted to low-temperature stresses. To study the genetics of freezing tolerance, a F . vesca mapping population of 143 seedlings segregating for differential responses to freezing stress was raised. The progeny was mapped using ‘Genotyping-by-Sequencing’ and a linkage map of 2,918 markers at 851 loci was resolved. The mapping population was phenotyped for freezing tolerance response under controlled and replicated laboratory conditions and subsequent quantitative trait loci analysis using interval mapping revealed a single significant quantitative trait locus on Fvb2 in the physical interval 10.6 Mb and 15.73 Mb on the F . vesca v4.0 genome sequence. This physical interval contained 896 predicted genes, several of which had putative roles associated with tolerance to abiotic stresses including freezing. Differential expression analysis of the 896 QTL-associated gene predictions in the leaves and crowns from ‘Alta’ and ‘NCGR1363’ parental genotypes revealed genotype-specific changes in transcript accumulation in response to low temperature treatment as well as expression differences between genotypes prior to treatment for many of the genes. The putative roles, and significant interparental differential expression levels of several of the genes reported here identified them as good candidates for the control of the effects of freezing tolerance at the QTL identified in this investigation and the possible role of these candidate genes in response to freezing stress is discussed.
+  </article>
   <article id="contributors-article-KND2BDSG" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

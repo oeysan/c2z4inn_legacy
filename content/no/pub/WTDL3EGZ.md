@@ -1,5 +1,5 @@
 ---
-title: "WTDL3EGZ"
+title: "Smartphone app reveals that lynx avoid human recreationists on local scale, but not home range scale"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WTDL3EGZ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2011659" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WTDL3EGZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WTDL3EGZ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-WTDL3EGZ" class="csl-bib-button">Medverkande</a>
     <a href="https://www.nature.com/articles/s41598-022-08468-7.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WTDL3EGZ"></div>
 </article>
 <div id="csl-bib-meta-WTDL3EGZ" class="csl-bib-meta">
+  <article id="abstract-article-WTDL3EGZ" class="abstract-article">
+    <h1>Samandrag</h1>
+    Outdoor recreation is increasing and affects habitat use and selection by wildlife. These effects are challenging to study, especially for elusive species with large spatial requirements, as it is hard to obtain reliable proxies of recreational intensity over extensive areas. Commonly used proxies, such as the density of, or distance to, hiking paths, ignore outdoor recreation occurring on other linear feature types. Here we utilized crowdsourced data from the Strava training app to obtain a large-scale proxy for pedestrian outdoor recreation intensity in southeast Norway. We used the proxy and GPS-tracking data from collared Eurasian lynx ( Lynx lynx ) to investigate how recreation affects habitat selection at the home range scale and local scale by lynx during summer. We fitted resource selection functions at the two scales using conditional logistic regression. Our analysis revealed that lynx avoided areas of recreational activity at the local scale, but not at home range scale. Nonetheless, lynx frequently used areas associated with recreation, and to a greater degree at night than during the day. Our results suggest that local-scale avoidance of recreation and temporal adjustments of habitat use by lynx mitigate the need for a home range-scale response towards recreation. Scale-dependent responses and temporal adjustments in habitat use may facilitate coexistence between humans and large carnivores.
+  </article>
   <article id="contributors-article-WTDL3EGZ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

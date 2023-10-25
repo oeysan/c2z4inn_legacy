@@ -1,5 +1,5 @@
 ---
-title: "7ZQH9BPJ"
+title: "Homeless at heart, and in mind: Exploring Citizenship and Mattering"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7ZQH9BPJ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2145725" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/7ZQH9BPJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/njwel.2.1.4" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-7ZQH9BPJ"></div>

@@ -1,5 +1,5 @@
 ---
-title: "LSBDXKN9"
+title: "Language orientations in early childhood education policy in Finland and Norway"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LSBDXKN9" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1864365" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LSBDXKN9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-LSBDXKN9" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-LSBDXKN9" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-LSBDXKN9" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/20020317.2020.1862951?needAccess=true" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-LSBDXKN9"></div>
 </article>
 <div id="csl-bib-meta-LSBDXKN9" class="csl-bib-meta">
+  <article id="abstract-article-LSBDXKN9" class="abstract-article">
+    <h1>Abstract</h1>
+    This article investigates the language orientations in education policy documents for early childhood education and care (ECEC) in Finland and Norway. Finland, an officially bilingual country, and Norway, a predominantly monolingual country, share similar views on ECEC. However, the ECEC field in both countries has undergone major changes in recent years: more children are attending ECEC, and the increasing number of children with diverse backgrounds and minority languages. The document analysis includes seven policy documents related to ECEC in Finland and Norway. The analytical approach is based on Ruíz’ framework for language orientations, i.e. language as resource, language as right and language as problem. The analysis shows that the language orientation in ECEC policy is rather vague and open. On the one hand, multilingualism is seen as a resource. On the other hand, multilingualism is considered as challenging in terms of language diversity, facilitating multilingual and first language development. In both countries, there seems to be a a monolingual ideology underlying the policy. We discuss these findings in light of policy implementations and finally underline the importance of critical multilingual awareness in early childhood teacher education.
+  </article>
   <article id="contributors-article-LSBDXKN9" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

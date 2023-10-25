@@ -1,5 +1,5 @@
 ---
-title: "7PYAF69H"
+title: "Same but different: meaning-making among refugee and non-refugee youths"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7PYAF69H" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1944627" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/7PYAF69H" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-7PYAF69H" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-7PYAF69H" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-7PYAF69H" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.emerald.com/insight/content/doi/10.1108/IJMHSC-02-2021-0019/full/pdf?title=same-but-different-meaning-making-among-refugee-and-non-refugee-youths" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-7PYAF69H"></div>
 </article>
 <div id="csl-bib-meta-7PYAF69H" class="csl-bib-meta">
+  <article id="abstract-article-7PYAF69H" class="abstract-article">
+    <h1>Abstract</h1>
+    PurposeThere is substantial research on the experiences, needs and well-being of unaccompanied refugee adolescents, but less is known about existential aspects of their lives. The purpose of the current study is to explore existential meaning-making among unaccompanied refugee children. Design/methodology/approach The informants in this study are young unaccompanied refugees ( n = 30) living in Norway, and young Norwegians ( n = 46). The authors undertook a secondary analysis of in-depth qualitative refugee interview data and a quantitative analysis of questionnaire data from Norwegian informants. FindingsBoth the refugee youths and the Norwegian youths expressed that social relationships and connections to others were most important for meaning. Moreover, both groups emphasized the importance of relatedness and generativity, i. e. commitment to worldly affairs beyond one’s immediate needs. The main differences between the two groups were related to the significance attached to religion and to loneliness. Research limitations/implicationsThe comparison between the two groups is only possible to some degree. Secondary analyses have some limitations, as well as strengths. Practical implicationsThe findings may be useful for supporting young refugees, as they provide insights into less-studied aspects of their lives. Originality/valueThe originality of this study lies in the focus on and broad interpretation of meaning, of secondary data analyses, and of comparisons between youths that are refugees versus non-refugees.
+  </article>
   <article id="contributors-article-7PYAF69H" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

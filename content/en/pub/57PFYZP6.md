@@ -1,5 +1,5 @@
 ---
-title: "57PFYZP6"
+title: "When the linguistic L1 context is linguistic diversity - Norwegian language policy and education"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-57PFYZP6" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2116183" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/57PFYZP6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-57PFYZP6" class="csl-bib-button">Contributors</a>
     <a href="http://educationalroleoflanguage.org/wp-content/uploads/2023/02/ERL-Journal-Volume-8-2-J-Haugan-When-the-linguistic-L1-context-is-linguistic-diversity-Norwegian-language-policy-and-education.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

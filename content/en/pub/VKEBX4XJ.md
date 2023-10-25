@@ -1,5 +1,5 @@
 ---
-title: "VKEBX4XJ"
+title: "Den barnevernskapte virkelighet: Et sosialkonstruktivistisk perspektiv på det faktiske grunnlaget i barnevernets beslutninger"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VKEBX4XJ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1685026" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VKEBX4XJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VKEBX4XJ" class="csl-bib-button">Contributors</a>
     <a href="https://www.idunn.no/file/pdf/67113394/den_barnevernskapte_virkelighet.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

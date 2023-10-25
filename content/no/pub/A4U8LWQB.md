@@ -1,5 +1,5 @@
 ---
-title: "A4U8LWQB"
+title: "Using Rasch measurement theory to assess the psychometric properties of a depressive symptoms scale in Norwegian adolescents"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-A4U8LWQB" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1810155" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/A4U8LWQB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-A4U8LWQB" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-A4U8LWQB" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-A4U8LWQB" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://hqlo.biomedcentral.com/track/pdf/10.1186/s12955-020-01373-5" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-A4U8LWQB"></div>
 </article>
 <div id="csl-bib-meta-A4U8LWQB" class="csl-bib-meta">
+  <article id="abstract-article-A4U8LWQB" class="abstract-article">
+    <h1>Samandrag</h1>
+    BackgroundScales measuring depressive symptoms in adolescents and adults are widely used for epidemiological purposes. The purpose of this study is to use Rasch measurement theory to examine the psychometric properties of a six-item scale intended to measure depressive symptoms in Norwegian adolescents. MethodsThe study is based on cross-sectional data from Ungdata, a survey conducted by the Norwegian Social Research Institute in cooperation with Regional Centres for Drug Rehabilitation in 2017. The target group comprised 13- to 19-years olds in Norway. Six items with four response categories, intended to measure depressive symptoms, were analysed. The analysis focused on invariance, including differential item functioning across gender and school levels. In addition, targeting, possible multidimensionality, response dependency, and the categorisation of the items were analysed. ResultsThe scale measuring depressive symptoms shows good reliability and, on the whole, the items work well. However, one item, ‘had sleep problems’, clearly misfit and another, ‘worried too much about things’, works differently for males and females. ConclusionsThe scale has the potential to measure depressive symptoms in adolescents though there is room for improvement. To further improve the scale, the item concerning sleep problems should be rephrased.
+  </article>
   <article id="contributors-article-A4U8LWQB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

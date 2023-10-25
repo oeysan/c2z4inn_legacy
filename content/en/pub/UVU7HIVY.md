@@ -1,5 +1,5 @@
 ---
-title: "UVU7HIVY"
+title: "Evaluating Supply Resilience Performance of an Automotive Industry during Operational Shocks: A Pythagorean Fuzzy AHP-VIKOR-Based Approach"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UVU7HIVY" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2174193" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/UVU7HIVY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-UVU7HIVY" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-UVU7HIVY" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-UVU7HIVY" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/2079-8954/11/8/396/pdf?version=1690962422" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-UVU7HIVY"></div>
 </article>
 <div id="csl-bib-meta-UVU7HIVY" class="csl-bib-meta">
+  <article id="abstract-article-UVU7HIVY" class="abstract-article">
+    <h1>Abstract</h1>
+    An integral aspect of global businesses and economic activities is the supply chain networks. Importantly, the coronavirus (COVID-19) pandemic scenario has further shown that the outbreak of diseases can create a global network-scale disruption to supply chain or logistics, thereby damaging several aspects of economic activities and business life. Hence, this study aims to assess the resilient supplier selection (RSS) process in the wake of the COVID-19 outbreak. A two-stage hybrid decision model using Pythagorean fuzzy sets was proposed as a case study from the automotive industry to deal with RSS during the COVID-19 outbreak. In the first stage, significant criteria and their corresponding sub-criteria were determined through a vast review of the literature and nominal group technique, while the relative weights for RSS were obtained through the Pythagorean Fuzzy Analytic Hierarchy Process (PFAHP) method. In the second stage, nine suppliers were evaluated with Pythagorean Fuzzy VIKOR (PFVIKOR) method. The results of the hybrid approach revealed that flexibility is the most important criterion among resilience criteria that constitute the most significant dimensions for RSS. In many studies, strategic criteria such as quality, cost, and delivery are found to be the most important criteria in supplier selection, however, in the wake of the COVID-19 outbreak, the opinions of decision-makers were significantly changed as the present study reveals that flexibility is the most important criterion to improve the operations of the supply chain for RSS. Next to flexibility is process capabilities, while quality (Q), and cost (C) existed as the first and second in the category of influential criteria for strategic supplier selection criteria, respectively. The managerial and practical implication is that, in the wake of COVID-19 disruptions, suppliers need to be re-evaluated based on resilience-related indicators.
+  </article>
   <article id="contributors-article-UVU7HIVY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -67,7 +72,7 @@ Campus Kongsvinger
 </div> <div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

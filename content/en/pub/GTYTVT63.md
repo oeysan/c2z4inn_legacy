@@ -1,5 +1,5 @@
 ---
-title: "GTYTVT63"
+title: "I miss my Office in my home Office: Challenges with work from home"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GTYTVT63" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2046170" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/GTYTVT63" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-GTYTVT63" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-GTYTVT63" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-GTYTVT63" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://papers.academic-conferences.org/index.php/eckm/article/download/649/507" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-GTYTVT63"></div>
 </article>
 <div id="csl-bib-meta-GTYTVT63" class="csl-bib-meta">
+  <article id="abstract-article-GTYTVT63" class="abstract-article">
+    <h1>Abstract</h1>
+    The COVID-19 pandemic has sent many employees to home offices. Some employees enjoy their home office, while for various reasons others experience challenges working from home. Qualitative investigations show that new employees who have been recruited and hired during the COVID-19 pandemic can find life in the home office quite challenging. Despite adequate technological solutions that make it possible to perform the work tasks from home, these employees want to be able to physically attend at their workplace. Our data indicate that it is important that the company not only sees technology and digitalization as "hard core" skills, but that the digital and technological are woven into other aspects of organizational life, for example, structures, culture and social interaction. New employees need to feel that they are valued, and that the business wants to establish personal and social bonds that support the development of loyalty to the company and quality of the production. These are conditions that are often tied to informal learning in the workplace. Relational development and maintenance are vital for having newcomers to not only function in the digital arena, but also within the physical sphere at the workplace.
+  </article>
   <article id="contributors-article-GTYTVT63" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

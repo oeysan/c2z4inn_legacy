@@ -1,5 +1,5 @@
 ---
-title: "UVP97CYU"
+title: "Combining capacity for instructional leadership with individual core practices in the Norwegian policy context"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UVP97CYU" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2025619" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/UVP97CYU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-UVP97CYU" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-UVP97CYU" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-UVP97CYU" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/17411432221084155" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-UVP97CYU"></div>
 </article>
 <div id="csl-bib-meta-UVP97CYU" class="csl-bib-meta">
+  <article id="abstract-article-UVP97CYU" class="abstract-article">
+    <h1>Abstract</h1>
+    This study explores how Norwegian school leaders develop their capacity for instructional leadership, a leadership style that is strongly related to school effectiveness and school improvement across a range of national school systems. The concept captures important aspects of Norwegian school leaders’ task preferences. To gain further insight into the process of developing the capacity for instructional leadership, this study links instructional leadership to school leaders’ core practices. The multidimensional concept of core practices views school leaders as goal oriented and actively involved in teachers’ collaboration and professional development, observation, and supervision. Moreover, the concept covers school leaders’ efforts to redesign and improve their schools’ instructional programs. In this study, school leaders assessed instructional leadership related to three distinctive core practices: observation and supervision, collaborative learning engagement, and time allocation for data use. Multiple regression analyses were conducted, and overall, the regression model, with all the predictors included as a set, was significant. 28.5% of the variance in school leader's capacity for instructional leadership is explained by the three distinct factors. The results indicate that when school leaders adapt core practices of leadership to their work context, their capacity as instructional leaders increases. The findings and implications will be discussed.
+  </article>
   <article id="contributors-article-UVP97CYU" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

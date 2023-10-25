@@ -1,5 +1,5 @@
 ---
-title: "79S6WLTC"
+title: "‘Not to judge by the looks but you can tell by the looks!’ Physical capital as symbolic capital in the individualization of health among young Norwegians"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-79S6WLTC" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2102482" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/79S6WLTC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-79S6WLTC" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/13573322.2022.2159361" class="csl-bib-button">EZproxy</a>
   </div>

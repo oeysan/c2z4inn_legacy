@@ -1,5 +1,5 @@
 ---
-title: "GQBDIG6E"
+title: "The European Central Bank"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GQBDIG6E" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1920831" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/GQBDIG6E" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GQBDIG6E" class="csl-bib-button">Contributors</a>
     <a href="https://www.duo.uio.no/bitstream/10852/91199/1/Chapter%2b18%2bECB%2bHjertaker%2bTran%25C3%25B8y.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

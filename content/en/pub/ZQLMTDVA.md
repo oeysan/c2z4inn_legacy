@@ -1,5 +1,5 @@
 ---
-title: "ZQLMTDVA"
+title: "Plasma Treated Cattle Slurry Moderately Increases Cereal Yields"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZQLMTDVA" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2157547" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZQLMTDVA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ZQLMTDVA" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-ZQLMTDVA" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-ZQLMTDVA" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/2073-4395/13/6/1549/pdf?version=1685949564" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-ZQLMTDVA"></div>
 </article>
 <div id="csl-bib-meta-ZQLMTDVA" class="csl-bib-meta">
+  <article id="abstract-article-ZQLMTDVA" class="abstract-article">
+    <h1>Abstract</h1>
+    Plasma treatment offers an approach to enhance the nitrogen (N) content of livestock slurry and biogas digestate, thereby increasing the efficacy of organic fertilizers. This innovative method is used to produce nitrogen-enriched organic fertilizer (NEO) containing a double concentration of plant-available N. Over three years, we conducted a comprehensive study in 14 spring wheat and barley field trials in Norway. The primary objective was to assess and compare the cereal grain yield achieved by applying NEO to other conventional fertilizers. The NEO utilized in our research was derived from the unit developed by the Norwegian company N2 Applied. The results indicated that 120 kg N ha−1 in NEO yielded in the same range of cereal grains as 95 kg N ha−1 in mineral fertilizer. Moreover, the combination of untreated slurry and 55 kg N ha−1 in mineral fertilizer Opti-NS yielded the same as 120 kg N ha−1 in NEO. Surprisingly a combination of 12 kg N ha−1 in mineral fertilizer at sowing day and 108 kg N ha−1 in NEO at the three-leaf stage led to a higher yield in spring wheat than 120 kg N ha−1 NEO spread at sowing day in two out of three experimental years. Moreover, applying NEO directly to plants has shown no visible signs of harm. Lastly, filtering the slurry resulted in higher cereal grain yields than the untreated slurry. In conclusion, despite possessing the same N content, utilizing NEO yielded a 15–20% lower cereal grain yield than mineral fertilizer. Nonetheless, 20–30% more yield than the native amount of cattle slurry it derived. However, we have observed an unexplained loss of approximately 17% of the nitrogen in NEO, which does not translate into increased grain yield or nitrogen productivity.
+  </article>
   <article id="contributors-article-ZQLMTDVA" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

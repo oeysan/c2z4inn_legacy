@@ -1,5 +1,5 @@
 ---
-title: "PJCSG47U"
+title: "Strength and Power Testing of Athletes: A Multicenter Study of Test–Retest Reliability"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PJCSG47U" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2043777" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PJCSG47U" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-PJCSG47U" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-PJCSG47U" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1123/ijspp.2021-0558" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-PJCSG47U"></div>
 </article>
 <div id="csl-bib-meta-PJCSG47U" class="csl-bib-meta">
+  <article id="abstract-article-PJCSG47U" class="abstract-article">
+    <h1>Samandrag</h1>
+    Purpose: This study examined the test–retest reliability of common assessments for measuring strength and power of the lower body in high-performing athletes. Methods: A total of 100 participants, including both male (n = 83) and female (n = 17) athletes (21 [4] y, 182 [9] cm, and 78 [12] kg), were recruited for this study, using a multicenter approach. The participants underwent physical testing 4 times. The first 2 sessions (1 and 2) were separated by ∼1 week, followed by a period of 2 to 6 months, whereas the last 2 sessions (3 and 4) were again separated by ∼1 week. The test protocol consisted of squat jumps, countermovement jumps, jump and reach, 30-m sprint, 1-repetition-maximum squat, sprint cycling, and a leg-press test. Results: The typical error (%) ranged from 1.3% to 8.5% for all assessments. The change in means ranged from −1.5% to 2.5% for all assessments, whereas the interclass correlation coefficient ranged from .85 to .97. The smallest worthwhile change (0.2 of baseline SD) ranged from 1.2% to 5.0%. The ratio between the typical error (%) and the smallest worthwhile change (%) ranged from 0.5 to 1.2. When observing the reliability across testing centers, considerable differences in reliability were observed (typical error [%] ratio: 0.44–1.44). Conclusions: Most of the included assessments can be used with confidence by researchers and coaches to measure strength and power in athletes. Our results highlight the importance of controlling testing reliability at each testing center and not relying on data from others, despite having applied the same protocol.
+  </article>
   <article id="contributors-article-PJCSG47U" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

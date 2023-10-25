@@ -1,5 +1,5 @@
 ---
-title: "WIJWA8LB"
+title: "Genetic Diversity of Hatchery-Bred Brown Trout (Salmo trutta) Compared with the Wild Population: Potential Effects of Stocking on the Indigenous Gene Pool of a Norwegian Reservoir"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WIJWA8LB" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1934999" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WIJWA8LB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WIJWA8LB" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-WIJWA8LB" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-WIJWA8LB" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.mdpi.com/1424-2818/13/9/414/pdf?version=1630545124" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-WIJWA8LB"></div>
 </article>
 <div id="csl-bib-meta-WIJWA8LB" class="csl-bib-meta">
+  <article id="abstract-article-WIJWA8LB" class="abstract-article">
+    <h1>Samandrag</h1>
+    This study was conducted in Lake Savalen in southeastern Norway, focusing on genetic diversity and the structure of hatchery-reared brown trout (Salmo trutta) as compared with wild fish in the lake and in two tributaries. The genetic analysis, based on eight simple sequence repeat (SSR) markers, showed that hatchery bred single cohorts and an age structured sample of stocked and recaptured fish were genetically distinctly different from each other and from the wild fish groups. The sample of recaptured fish showed the lowest estimated effective population size Ne = 8.4, and the highest proportion of siblings, despite its origin from five different cohorts of hatchery fish, counting in total 84 parent fish. Single hatchery cohorts, originating from 13–24 parental fish, showed Ne = 10.5–19.9, suggesting that the recaptured fish descended from a narrow group of parents. BayeScan analysis indicated balancing selection at several loci. Genetic indices of wild brown trout collected in the lake in 1991 and 2010 suggested temporal genetic stability, i.e., the genetic differentiation (FST) was non-significant, although the Ne, the number of alleles per locus and the number of private alleles were lower in the 2010 sample.
+  </article>
   <article id="contributors-article-WIJWA8LB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

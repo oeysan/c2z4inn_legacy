@@ -1,5 +1,5 @@
 ---
-title: "JXD7Y2WV"
+title: "Smooth power: identifying high-level leadership skills promoting organizational adaptability"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JXD7Y2WV" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1825062" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JXD7Y2WV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-JXD7Y2WV" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-JXD7Y2WV" class="csl-bib-button">Contributors</a>
     <a href="http://su.diva-portal.org/smash/get/diva2:1454097/FULLTEXT02" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-JXD7Y2WV"></div>
 </article>
 <div id="csl-bib-meta-JXD7Y2WV" class="csl-bib-meta">
+  <article id="abstract-article-JXD7Y2WV" class="abstract-article">
+    <h1>Abstract</h1>
+    PurposeThe study aims to gain a deeper understanding of what leadership skills are important for leaders in gaining adaptability in a hierarchical organization along with antecedent factors that influence the potential development of these skill sets. Design/methodology/approachA qualitative study was conducted by interviewing fifteen high-level military officers (Brigadiers and Colonels). Data were analyzed according to the grounded theory method and a theoretical model was generated. FindingsA core variable was identified in the data analysis, the leader's use of organizational smooth power, using structural, emotional and relational smoothness, to gain organizational adaptability. The leader's professional background, experience and the organizational environment characteristics respectively interact as antecedent variables shaping the leader's contextual appraisal in order to implement smooth power. Further research suggestions are pointed out and practical and ethical implications are included. Research limitations/implicationsThe study was completed in a specific context, a higher-level military staff, which makes it context specific. We hypothesize that similar behaviors may be found in other organizations but further research should be conducted to test this. The sample size is relatively small due to the chosen qualitative research method. Practical implications Practical considerations should be given to ethical and moral reflection within leadership training for ongoing use in leadership praxis, such as implementation and ongoing reflection of ethical leadership (Treviño et al. , 2000; Treviño et al. , 2003). Other practical impacts of this research may be for selection and retention efforts of high-level military staff workers. The model may also be useful for education purposes in order to increase awareness and abilities of smooth power concepts in an attempt to increase adaptability in military leadership. It may increase their awareness of skills rendered as necessary for collaborative efforts in multinational staff environments. Originality/valueThe research contribution is the detailed descriptions of the ways high-level leaders use organizational smooth power in order gain organizational adaptability.
+  </article>
   <article id="contributors-article-JXD7Y2WV" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

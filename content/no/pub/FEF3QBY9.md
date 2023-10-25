@@ -1,5 +1,5 @@
 ---
-title: "FEF3QBY9"
+title: "Negotiating versatility and specialisation: On music teachers’ identification with subject positions in Norwegian municipal schools of music and performing arts"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FEF3QBY9" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1876515" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/FEF3QBY9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-FEF3QBY9" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-FEF3QBY9" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-FEF3QBY9" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/0255761421989113" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-FEF3QBY9"></div>
 </article>
 <div id="csl-bib-meta-FEF3QBY9" class="csl-bib-meta">
+  <article id="abstract-article-FEF3QBY9" class="abstract-article">
+    <h1>Samandrag</h1>
+    The Norwegian municipal school of music and performing arts has diverse tasks it must manage; the school not only intends to offer its students opportunities to specialise, but it also aims to facilitate social inclusion and be a school ‘for everyone’. Handling these two seemingly opposing tasks requires a great deal from its staff. This article explores how music teachers negotiate versatility and specialisation through identifying with professional subject positions. Based on 16 teacher interviews and document analyses, the study finds six analytically subject positions for teachers to identify with. Most of the teachers identify with several subject positions, either at the same time or interchangeably, based on the situation. Together, these subject positions shape their professional identities. This has implications for the institution’s management of its competencies. While being a school ‘for everyone’ is a widely shared commitment, this does not necessarily require versatility from each of its teachers, as long as the school can become a versatile institution through assembling teachers with different specialised competences. This in turn would entail the future music teacher education to be broad-based with possibilities of specialisation, which could lay the groundwork for teachers’ flexibility and their ability to further develop their competence after graduation.
+  </article>
   <article id="contributors-article-FEF3QBY9" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

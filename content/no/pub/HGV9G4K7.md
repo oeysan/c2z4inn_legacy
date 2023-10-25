@@ -1,5 +1,5 @@
 ---
-title: "HGV9G4K7"
+title: "Scientific Progress Without Justification: A reply to McCoy"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HGV9G4K7" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2077714" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HGV9G4K7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4324/9781003202905-35" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-HGV9G4K7"></div>

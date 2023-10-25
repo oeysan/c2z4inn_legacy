@@ -1,5 +1,5 @@
 ---
-title: "TN3FHTNG"
+title: "Training wearing thermal clothing and training in hot ambient conditions are equally effective methods of heat acclimation"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,23 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TN3FHTNG" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1929337" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/TN3FHTNG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-TN3FHTNG" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-TN3FHTNG" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.jsams.2021.06.005" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-TN3FHTNG"></div>
 </article>
 <div id="csl-bib-meta-TN3FHTNG" class="csl-bib-meta">
+  <article id="abstract-article-TN3FHTNG" class="abstract-article">
+    <h1>Samandrag</h1>
+    The objective was to compare the efficacy of three different heat acclimation protocols to improve exercise performance in the heat. Thirty four cyclists completed one of three 10-day interventions 1) 50-min cycling per day in 35 °C, 2) 50-min cycling per day wearing thermal clothing, and 3) 50-min cycling wearing thermal clothing plus 25 min hot water immersion per day. Pre- and post-intervention hemoglobin mass, intravascular volumes and core temperature were determined at rest. Heart rate, sweat rate, blood lactate concentration and core temperature were evaluated during 15-min submaximal and 30-min all-out cycling performance conducted in 35.2 ± 0.1 °C and 61 ± 1% relative humidity. 
+ 
+There were no significant between-group differences in any of the determined variables. None of the interventions statistically altered any of the parameters investigated as part of the 15-min submaximal trial. However, following the intervention period, heat chamber, thermal clothing and thermal clothing + hot water immersion all improved 30-min all-out average power in the heat (9.5 ± 3.8%, 9.5 ± 3.6 and 9.9 ± 5.2%, respectively, p &lt; 0.001, F = 192.3). At termination of the 30-min all-out test, the increase in blood lactate concentration, rate of perceived exertion and sweat rate were not different between the three interventions. 
+ 
+In conclusion, daily training sessions conducted either in ambient 35 °C, while wearing thermal clothing in temperate conditions or while wearing thermal clothing combined with hot water immersion are equally effective for improving exercise performance in the heat.
+  </article>
   <article id="contributors-article-TN3FHTNG" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

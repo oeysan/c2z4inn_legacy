@@ -1,5 +1,5 @@
 ---
-title: "AFHALNZQ"
+title: "Self-Reported Long COVID in the General Population: Sociodemographic and Health Correlates in a Cross-National Sample"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AFHALNZQ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2031748" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/AFHALNZQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-AFHALNZQ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-AFHALNZQ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-AFHALNZQ" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/2075-1729/12/6/901/pdf?version=1655360363" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-AFHALNZQ"></div>
 </article>
 <div id="csl-bib-meta-AFHALNZQ" class="csl-bib-meta">
+  <article id="abstract-article-AFHALNZQ" class="abstract-article">
+    <h1>Abstract</h1>
+    We aimed to gain knowledge of possible sociodemographic predictors of long COVID and whether long COVID was associated with health outcomes almost two years after the pandemic outbreak. There were 1649 adults who participated in the study by completing a cross-sectional online survey disseminated openly in Norway, the UK, the USA, and Australia between November 2021 and January 2022. Participants were defined as having long COVID based on self-reports that they had been infected by COVID-19 and were experiencing long-lasting COVID symptoms. Logistic regression analyses were used to examine possible sociodemographic predictors, and multivariate analysis of variance was used to examine whether long COVID status was associated with health outcomes. None of the sociodemographic variables was significantly associated with reporting long COVID. Having long COVID was associated with higher levels of psychological distress, fatigue, and perceived stress. The effect of long COVID on health outcomes was greater among men than among women. In conclusion, long COVID appeared across sociodemographic groups. People with long COVID reported worsened health outcomes compared to those who had had COVID-19 but without long-term symptoms. Men experiencing long COVID appear to be particularly vulnerable to experiencing poorer health outcomes; health services may pay extra attention to potentially unnoticed needs for support among men experiencing long COVID.
+  </article>
   <article id="contributors-article-AFHALNZQ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

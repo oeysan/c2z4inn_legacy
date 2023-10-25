@@ -1,5 +1,5 @@
 ---
-title: "58KENN9U"
+title: "Macrocognition Applied to the Hybrid Space: Team Environment, Functions and Processes in Cyber Operations"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-58KENN9U" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1484687" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/58KENN9U" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-58KENN9U" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-58KENN9U" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-3-319-58625-0_35" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-58KENN9U"></div>
 </article>
 <div id="csl-bib-meta-58KENN9U" class="csl-bib-meta">
+  <article id="abstract-article-58KENN9U" class="abstract-article">
+    <h1>Abstract</h1>
+    As cyber is increasingly integrated into military operations, conducting military cyber operations requires the effective coordination of teams. This interdisciplinary contribution discusses teams working in, and in relation to the cyber domain as a part of a larger socio-technical system, and the need for a better understanding of the human factors that contribute to individual and team performance in such settings. To extend an existing macrocognitive model [19] describing functions and processes into a conceptual framework that maps cognitive processes along cyber-physical and tactical-strategic dimensions (the Hybrid Space; [4]) to gain a better understanding of environmental complexity, and how to operate effectively in a cyber team context. Current experience from conducting cyber network defence exercises at the Norwegian Defence Cyber Academy and implications for future education and training are discussed.
+  </article>
   <article id="contributors-article-58KENN9U" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

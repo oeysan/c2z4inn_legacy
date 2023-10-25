@@ -1,5 +1,5 @@
 ---
-title: "KFGZH5PC"
+title: "The Differentiated Effects of Human Resource Diversity on Corporate Innovation"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KFGZH5PC" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1593603" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KFGZH5PC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KFGZH5PC" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-KFGZH5PC" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-KFGZH5PC" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1142/S0219877018500463" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-KFGZH5PC"></div>
 </article>
 <div id="csl-bib-meta-KFGZH5PC" class="csl-bib-meta">
+  <article id="abstract-article-KFGZH5PC" class="abstract-article">
+    <h1>Abstract</h1>
+    By linking theoretical perspectives on human resource diversity to the distinction between knowledge exploration and exploitation, this paper contributes to the growing research literature on diversity and innovation by following up on the original argument by March [1991] that different dimensions of organizational learning depend on different inputs and processes. Empirically, the paper draws on a unique dataset constructed by merging Norwegian employer–employee register data for 2004–2008 with Community Innovation Survey (CIS) data covering the years 2008–2010. Bivariate probit regressions with controls for innovation strategy find patenting propensities more responsive to the diversity of experience-based knowledge accumulated in firms, than the propensities to improve production processes or introduce new products onto the market. The latter depends foremost on firms’ investments in innovation, and responds positively to human resource diversity only when the financial commitment of firms to development work is limited.
+  </article>
   <article id="contributors-article-KFGZH5PC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -59,7 +64,7 @@ Campus Lillehammer
 </div> <div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">

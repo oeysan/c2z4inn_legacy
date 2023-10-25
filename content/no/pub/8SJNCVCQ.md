@@ -1,5 +1,5 @@
 ---
-title: "8SJNCVCQ"
+title: "Seed Germination after 30 Years Storage in Permafrost"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8SJNCVCQ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1811197" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/8SJNCVCQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-8SJNCVCQ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-8SJNCVCQ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-8SJNCVCQ" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.mdpi.com/2223-7747/9/5/579/pdf?version=1590052147" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-8SJNCVCQ"></div>
 </article>
 <div id="csl-bib-meta-8SJNCVCQ" class="csl-bib-meta">
+  <article id="abstract-article-8SJNCVCQ" class="abstract-article">
+    <h1>Samandrag</h1>
+    More than 30 years ago, the Nordic Gene Bank established a long-term experiment on seeds stored under permafrost conditions in an abandoned mine corridor in Svalbard, as a tool to monitor storage life under these conditions. The study included seeds from 16 Nordic agricultural and horticultural crops, each represented by two or three cultivars (altogether 38 accessions). All seeds were ultra-dried to 3–5% moisture before being sealed in glass tubes. Germination tests were performed in accordance with the International Seed Testing Association (ISTA) protocols. At the initiation of the experiment, the samples showed good germination with the median value at 92%. The overall picture remained stable over the first twenty to twenty-five years. However, the variation became larger over time and at 30 years, the median value had dropped to 80%. At the lower end, with a high drop in germination, we found rye, wheat, and English ryegrass. At the upper end, we found Kentucky bluegrass and cucumber. The lowest germination was found in samples with the highest initial seed moisture levels. Pre-storage conditions are likely to be of major importance for longevity.
+  </article>
   <article id="contributors-article-8SJNCVCQ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

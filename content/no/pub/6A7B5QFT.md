@@ -1,5 +1,5 @@
 ---
-title: "6A7B5QFT"
+title: "A cross-sectional and 6-year follow-up study of associations between leisure time physical activity and vertebral fracture in adults"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6A7B5QFT" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1726979" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/6A7B5QFT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-6A7B5QFT" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-6A7B5QFT" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-6A7B5QFT" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://bmcmusculoskeletdisord.biomedcentral.com/track/pdf/10.1186/s12891-019-2821-8" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-6A7B5QFT"></div>
 </article>
 <div id="csl-bib-meta-6A7B5QFT" class="csl-bib-meta">
+  <article id="abstract-article-6A7B5QFT" class="abstract-article">
+    <h1>Samandrag</h1>
+    IntroductionVertebral fractures are common osteoporotic fractures, affecting 2–46% of the population, causing morbidity and increased risk of mortality. Physical activity has beneficial effects for bone health, including increased bone mineral density and reduced hip fractures. However, evidence concerning prevention of vertebral fractures is scarce. Therefore, the aim of this study was to investigate the association between leisure time physical activity and vertebral fracture risk. MethodsThe data were retrieved from the 2001 and 2007–2008 surveys of the Tromsø Study, a longitudinal population study in Norway. A total of 1904 participants (1030 women and 874 men, age 38–87 yr and 40–87 yr respectively) were included in the cross-sectional analysis (2007–2008). Prospective follow-up data (2001 to 2007) on physical activity were available for 1131 participants (636 women and 495 men, age 32–69 yr and 33–69 yr respectively). Physical activity was assessed by a questionnaire and vertebral fracture by lateral vertebral fracture assessment from dual-energy x-ray absorptiometry scans. Logistic regression was used to examine associations between physical activity and vertebral fracture. ResultsAfter controlling for confounders (age, height, weight, smoking, osteoporosis, osteoporosis medication, left hip total bone mineral density, and use of hormones in women only), no cross-sectional associations between physical activity levels and vertebral fracture were observed, OR 1.13 (95% CI: 0.59–2.13), for moderately active women and 1.44 (0.61–3.42) for highly active women, compared with sedentary women. In men, the respective ORs were 1.74 (95% CI: 0.91–3.35) and 1.64 (0.78–3.41). In the prospective analyses, OR for vertebral fracture in women with reduced physical activity was 0.81 (95% CI: 0.18–3.62), 1.24 (95% CI: 0.29–5.26) for increased physical activity and 1.54 (95% CI: 0.43–5.50) for active unchanged physical activity pattern, compared with sedentary unchanged physical activity. In men, the respective ORs were 2.05 (95% CI: 0.57–7.42), 2.23 (95% CI: 0.63–7.87), and 1.81 (95% CI: 0.54–6.02). Subanalyses of women and men ≥50 yr showed similar results. ConclusionsOur findings suggest that physical activity does not play a major role in preventing vertebral fractures in Norwegian adults. Future studies may benefit from data on incident vertebral fracture, and objectively measured physical activity.
+  </article>
   <article id="contributors-article-6A7B5QFT" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

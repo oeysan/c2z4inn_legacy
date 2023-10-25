@@ -1,5 +1,5 @@
 ---
-title: "3W2FGIWW"
+title: "«Kanskje for høgt utdanna europearar på spor 3»: lærerkommentarer fra en spørreundersøkelse om 'Det felles europeiske rammeverket'"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3W2FGIWW" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1875082" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/3W2FGIWW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-3W2FGIWW" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-3W2FGIWW" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-3W2FGIWW"></div>
 </article>
 <div id="csl-bib-meta-3W2FGIWW" class="csl-bib-meta">
+  <article id="abstract-article-3W2FGIWW" class="abstract-article">
+    <h1>Samandrag</h1>
+    I en spørreundersøkelse blant medlemmer av Facebook-gruppa «Norsksom andrespråk» svarte lærere i norsk som andrespråk på spørsmål somdels gjaldt kjennskap til Det felles europeiske rammeverketog hvilkeformål de mente Rammeverket egnet seg for, dels hvordan de mente inn-læring av et andrespråk foregår. I tillegg til å krysse av for oppgitte svar-alternativer, kunne lærerne kommentere svarene sine. I denne artikkelenanalyseres kommentarene til de lærerne som benyttet denne mulighetenflest ganger. Utgangspunktet for studien er teorier utviklet i studier avlæreroppfatninger, profesjonsteorier og sentrale begreper fra Basil Bern-steins kunnskapssosiologi. Samtidig som artikkelen belyser hvilke lærer-oppfatninger  som  kommer  fram  i  kommentarene,  kartlegges  hvilkekilder lærere har for oppfatningene. Videre analyseres hvilke språkhand-linger lærerne bruker når de kommenterer svarene sine, og hvordan deartikulerer  oppfatningene.  Funnene  viser  at  lærerne  bruker  kom-mentarene til å presisere, nyansere og utdype svaralternativene de harkrysset av for, at de da oftest bygger på erfaringer de har som lærere, ogsjeldnere på relevant teori. Samtidig bruker lærerne i betydelig grad fag-lig pregete uttrykksmåter. De faglige termene og begrepene er hentet fra agfeltene lingvistikk, andrespråksteori, andrespråksdidaktikk og all-menn pedagogikk og didaktikk.
+  </article>
   <article id="contributors-article-3W2FGIWW" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

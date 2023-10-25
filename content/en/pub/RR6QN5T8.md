@@ -1,5 +1,5 @@
 ---
-title: "RR6QN5T8"
+title: "Unge jenters oppfatning av hvordan stress påvirker kroppen deres en fenomenografisk studie"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RR6QN5T8" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1929230" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/RR6QN5T8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RR6QN5T8" class="csl-bib-button">Contributors</a>
     <a href="https://septentrio.uit.no/index.php/helseforsk/article/download/5764/5798" class="csl-bib-button">Unpaywall</a>
   </div>

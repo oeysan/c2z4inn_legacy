@@ -1,5 +1,5 @@
 ---
-title: "EBLQMYMH"
+title: "Shiitake cultivation as biological preprocessing of lignocellulosic feedstocks – Substrate changes in crystallinity, syringyl/guaiacyl lignin and degradation-derived by-products"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EBLQMYMH" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1987602" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/EBLQMYMH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-EBLQMYMH" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-EBLQMYMH" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-EBLQMYMH" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://doi.org/10.1016/j.biortech.2021.126256" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-EBLQMYMH"></div>
 </article>
 <div id="csl-bib-meta-EBLQMYMH" class="csl-bib-meta">
+  <article id="abstract-article-EBLQMYMH" class="abstract-article">
+    <h1>Samandrag</h1>
+    Formulation of substrates based on three hardwood species combined with modulation of nitrogen content by whey addition (0–2%) was investigated in an experiment designed in D-optimal model for their effects on biological preproceesing of lignocellulosic feedstock by shiitake mushroom (Lentinula edodes) cultivation. Nitrogen loading was shown a more significant role than wood species for both mushroom production and lignocellulose degradation. The fastest mycelial colonisation occurred with no nitrogen supplementation, but the highest mushroom yields were achieved when 1% whey was added. Low nitrogen content resulted in increased delignification and minimal glucan consumption. Delignification was correlated with degradation of syringyl lignin unit, as indicated by a significant reduction (41.5%) of the syringyl-to-guaiacyl ratio after cultivation. No significant changes in substrate crystallinity were observed. The formation of furan aldehydes and aliphatic acids was negligible during the pasteurisation and fungal cultivation, while the content of soluble phenolics increased up to seven-fold.
+  </article>
   <article id="contributors-article-EBLQMYMH" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "TH4QXLNK"
+title: "Moving from irrelevant intellectual capital (IC) reporting to value-relevant IC disclosures: Key learning points from the Danish experience"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,31 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TH4QXLNK" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1446126" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/TH4QXLNK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-TH4QXLNK" class="csl-bib-button">Samandrag</a>
     <a href="#sdg-article-TH4QXLNK" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://discovery.dundee.ac.uk/ws/files/10108446/JICpaper.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TH4QXLNK"></div>
 </article>
 <div id="csl-bib-meta-TH4QXLNK" class="csl-bib-meta">
+  <article id="abstract-article-TH4QXLNK" class="abstract-article">
+    <h1>Samandrag</h1>
+    Informed by the findings of a follow-up research study of companies originally involved in the Danish Guideline Project (DGP) for intellectual capital statements (ICS), the purpose of this paper is to provide valuable insights for a potential shift from intellectual capital (IC) reporting, largely informed by an accounting perspective, towards IC-related disclosures. 
+ 
+Design/methodology/approach 
+The paper draws on data obtained from 21 semi-structured interviews with respondents in 16 companies. The respondents were contacted following a genealogical exercise carried out on the 102 companies involved in the DGP between 1999 and 2003. 
+ 
+Findings 
+The interviews suggested a rather critical perspective towards IC reporting using the ICS framework. Despite the attempt of the DGP to establish a reporting standard, a range of experiments resulted in changes to the framework’s original structure. Overall, a trend towards more integrated forms of reporting was discernible, in some part being motivated by the need to reduce the levels of reporting overload. Examples of integration designed to legitimise IC or corporate social responsibility reports, involving issuing them in tandem with a recognised reporting vehicle such as the annual report, were also encountered. 
+ 
+Research limitations/implications 
+The implications of this study are that timely, value-relevant IC disclosures and compliant reporting, primarily for accountability purposes, have the potential to coexist. In addition to the usual limitations of a semi-structured interview research design, respondents’ difficulties in clearly recalling events during the project after some 10-12 years is a further potential limitation. Additionally, the use of internet-based communication channels for disclosure purposes was in its infancy at the time of the DGP. 
+ 
+Originality/value 
+The paper provides important insights into the mechanisms of IC disclosure and IC reporting as seen from a practitioner perspective. Implications relevant to the continued development of integrated reporting are also identified.
+  </article>
   <article id="sdg-article-TH4QXLNK" class="sdg-article">
     <h1>Berekraftsmål</h1>
     <div class="sdg-container"><div id="sdg10" class="sdg">

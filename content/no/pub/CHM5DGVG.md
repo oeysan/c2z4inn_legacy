@@ -1,5 +1,5 @@
 ---
-title: "CHM5DGVG"
+title: "Circular economy, cradle to cradle and zero waste frameworks in teacher education for sustainability"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CHM5DGVG" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2023589" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/CHM5DGVG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-CHM5DGVG" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-CHM5DGVG" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/IJSHE-10-2021-0428" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-CHM5DGVG"></div>
 </article>
 <div id="csl-bib-meta-CHM5DGVG" class="csl-bib-meta">
+  <article id="abstract-article-CHM5DGVG" class="abstract-article">
+    <h1>Samandrag</h1>
+    PurposeSustainability is a major concern in education policies. This paper aims to describe how alternative economic education including concepts of the circular economy (CE), cradle to cradle (C2C) and zero waste can be addressed by teacher education. The author asks to what extent such alternative concepts contribute to sustainability education and transitions and empower students and future teachers, through fieldtrips. Design/methodology/approachFieldtrips to three extracurricular learning places in Graz (Austria) – a plastic waste disposal facility, an upcycling design atelier and a supermarket without packaging – were organized as part of a university seminar on economy and sustainability. Based on student essays reflecting the fieldtrips, this praxeological paper provides insights on how students perceive awareness-raising and innovative responses to mass consumption, recycling/upcycling and waste prevention issues. FindingsIncluding altermatic economic frameworks, such as CE/C2C and zero waste, into teacher education contributes to reflections on the economic growth paradigm and promotes more sustainable futures. In various statements, students highlighted social-ecological change and awareness-raising. They rather focussed on recycling, upcycling and (plastic) packaging than on the problematic eco-efficiency of downcycling. Originality/valueAlternative economic concepts can be addressed and critically reflected in sustainability education, even if rarely taught. Although the extracurricular learning places described offer partial solution from the perspective of degrowth, they can serve as an eye-opener and promote alternative economic education, where students can share experiences, knowledge and creative ideas to engage in sustainability transitions.
+  </article>
   <article id="contributors-article-CHM5DGVG" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

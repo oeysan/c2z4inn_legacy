@@ -1,5 +1,5 @@
 ---
-title: "B8WP62WJ"
+title: "Competition between apex predators? Brown bears decrease wolf kill rate on two continents"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,34 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-B8WP62WJ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1448857" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/B8WP62WJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-B8WP62WJ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-B8WP62WJ" class="csl-bib-button">Medverkande</a>
     <a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2016.2368" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-B8WP62WJ"></div>
 </article>
 <div id="csl-bib-meta-B8WP62WJ" class="csl-bib-meta">
+  <article id="abstract-article-B8WP62WJ" class="abstract-article">
+    <h1>Samandrag</h1>
+    Trophic interactions are a fundamental topic in ecology, but we know little 
+about how competition between apex predators affects predation, the mechanism 
+driving top-down forcing in ecosystems.We used long-term datasets from 
+Scandinavia (Europe) and Yellowstone National Park (North America) to 
+evaluate how grey wolf (Canis lupus) kill rate was affected by a sympatric 
+apex predator, the brown bear (Ursus arctos). We used kill interval (i.e. the 
+number of days between consecutive ungulate kills) as a proxy of kill rate. 
+Although brown bears can monopolize wolf kills, we found no support in 
+either study system for the common assumption that they cause wolves to 
+killmore often.On the contrary, our results showed the opposite effect. In Scandinavia, 
+wolf packs sympatric with brown bears killed less often than allopatric 
+packs during both spring (after bear den emergence) and summer. Similarly, 
+the presence of bears at wolf-killed ungulates was associated with wolves killing 
+less often during summer in Yellowstone. The consistency in results 
+between the two systems suggests that brown bear presence actually reduces wolf kill rate. Our results suggest that the influence of predation on lower trophic levels may depend on the composition of predator communities. 
+Canis lupus, competition, predation, Scandinavia, Ursus arctos, Yellowstone
+  </article>
   <article id="contributors-article-B8WP62WJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

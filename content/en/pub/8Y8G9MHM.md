@@ -1,5 +1,5 @@
 ---
-title: "8Y8G9MHM"
+title: "Animal welfare testing for shooting and darting free-ranging wildlife: a review and recommendations"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8Y8G9MHM" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1907288" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/8Y8G9MHM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-8Y8G9MHM" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-8Y8G9MHM" class="csl-bib-button">Contributors</a>
     <a href="https://www.publish.csiro.au/wr/pdf/WR20107" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-8Y8G9MHM"></div>
 </article>
 <div id="csl-bib-meta-8Y8G9MHM" class="csl-bib-meta">
+  <article id="abstract-article-8Y8G9MHM" class="abstract-article">
+    <h1>Abstract</h1>
+    Several important techniques for managing wildlife rely on ballistics (the behaviour of projectiles), including killing techniques (shooting) as well as capture and marking methods (darting). Because all ballistic techniques have the capacity to harm animals, animal welfare is an important consideration. Standardised testing approaches that have allowed refinement for other physical killing and capture methods (e.g. traps for mammals) have not been applied broadly to ballistic methods. At the same time, new technology is becoming available for shooting (e.g. subsonic and lead-free ammunition) and darting (e.g. dye-marker darts). We present several case studies demonstrating (a) how basic ballistic testing can be performed for novel firearms and/or projectiles, (b) the benefits of identifying methods producing undesirable results before operational use, and (c) the welfare risks associated with bypassing testing of a technique before broad-scale application. Following the approach that has been used internationally to test kill-traps, we suggest the following four-step testing process: (1) range and field testing to confirm accuracy and precision, the delivery of appropriate kinetic energy levels and projectile behaviour, (2) post-mortem assessment of ballistic injury in cadavers, (3) small-scale live animal pilot studies with predetermined threshold pass/fail levels, and (4) broad-scale use with reporting of the frequency of adverse animal welfare outcomes. We present this as a practical approach for maintaining and improving animal welfare standards when considering the use of ballistic technology for wildlife management.
+  </article>
   <article id="contributors-article-8Y8G9MHM" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

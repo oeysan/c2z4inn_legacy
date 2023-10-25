@@ -1,5 +1,5 @@
 ---
-title: "28MUGZTY"
+title: "ERP correlates of cognitive control in children prenatally exposed to methadone or buprenorphine"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-28MUGZTY" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1593114" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/28MUGZTY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-28MUGZTY" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/87565641.2018.1493592" class="csl-bib-button">EZproxy</a>
   </div>

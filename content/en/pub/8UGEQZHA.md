@@ -1,5 +1,5 @@
 ---
-title: "8UGEQZHA"
+title: "Mine formative filmår: Fra 'Holocaust' til 'Shoah'"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8UGEQZHA" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2126498" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/8UGEQZHA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-8UGEQZHA" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-8UGEQZHA" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-8UGEQZHA"></div>
 </article>
 <div id="csl-bib-meta-8UGEQZHA" class="csl-bib-meta">
+  <article id="abstract-article-8UGEQZHA" class="abstract-article">
+    <h1>Abstract</h1>
+    De fleste vet at Holocaust er betegnelsen på Nazi-Tysklands folkemord på Europas jøder, men ikke alle vet hvor dette begrepet egentlig kommer fra. I denne utgaven av Mediehistorisk Tidsskrift retter vi først blikket mot den lite kjente historien om hvordan selve Holocaust-begrepet kom i bruk. Deretter handler det om hvordan utryddelsen av jødene er blitt omtalt og oppfattet i norske medier.
+  </article>
   <article id="contributors-article-8UGEQZHA" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "K2NREBQS"
+title: "Effects of camera‐trap placement and number on detection of members of a mammalian assemblage"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-K2NREBQS" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1922675" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/K2NREBQS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-K2NREBQS" class="csl-bib-button">Medverkande</a>
     <a href="https://dspace.library.uu.nl/bitstream/handle/1874/412823/ecs2.3662.pdf?sequence=1&amp;isAllowed=y" class="csl-bib-button">Unpaywall</a>
   </div>

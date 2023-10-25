@@ -1,5 +1,5 @@
 ---
-title: "4Y5TQYK4"
+title: "Genre and “Genring” in Music Education"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4Y5TQYK4" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1929633" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/4Y5TQYK4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-4Y5TQYK4" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-4Y5TQYK4" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-4Y5TQYK4" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://doi.org/10.22176/act21.1.56" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-4Y5TQYK4"></div>
 </article>
 <div id="csl-bib-meta-4Y5TQYK4" class="csl-bib-meta">
+  <article id="abstract-article-4Y5TQYK4" class="abstract-article">
+    <h1>Samandrag</h1>
+    In this article, I explore the theoretical and analytical potential of the concept of genring, which here refers to productive acts of temporary interpretation and signification, wherein existing classification systems and genre categories in the social are operationalized and (re)negotiated. Foucault and Butler’s theories of discursive subjection serve as a theoretical framework to consider how genring works as a performative mode of action: a discursive, reiterative, and citational practice that establishes ontological effects of truth, reality, and naturalness. This performative mode of action is not a “discursive practice” in itself; rather, it might be understood as one of the ways discourse practices itself. To probe the analytical value of the concept genring, I take as my case the field of music education, where genring seems to be a common strategy for associating music with music, music with people, and people with people for educational purposes.
+  </article>
   <article id="contributors-article-4Y5TQYK4" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

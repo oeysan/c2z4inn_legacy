@@ -1,5 +1,5 @@
 ---
-title: "7LPSG6VS"
+title: "Using the Kaban Lakes Integrated Assessment Model for Investigating Potential Levels of Antibiotic Pollution of the Nizhniy Kaban and Sredniy Kaban Lakes"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7LPSG6VS" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1834833" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/7LPSG6VS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-7LPSG6VS" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-7LPSG6VS" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-7LPSG6VS" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s11270-020-04756-y.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-7LPSG6VS"></div>
 </article>
 <div id="csl-bib-meta-7LPSG6VS" class="csl-bib-meta">
+  <article id="abstract-article-7LPSG6VS" class="abstract-article">
+    <h1>Samandrag</h1>
+    The Kaban Lakes Integrated Assessment Model (KLIAM) was enhanced in order to assess the possible content of antibiotics in the Kaban lakes, located within the city borders of Kazan City, Tatarstan Republic in the Russian Federation, and potential for adverse environmental effects. The Kaban Lakes Integrated Assessment Model simulations suggest that the concentrations in the Nizhniy Kaban lake and Sredniy Kaban lake may exceed the predicted no effect concentration (PNEC) and low-risk limits set by EU and the WHO. Many missing data could be assumed or approximated, and simulation runs were conducted. The results are consistent with other global studies in terms of average concentrations observed elsewhere in rivers and lakes. The results suggest that the study should be followed up with lake water analysis and an assessment of antibiotic loads to the Kaban lakes. It is concluded that the results are too uncertain to initiate any policy action at the present moment and that an assessment supported by measurements would be warranted.
+  </article>
   <article id="contributors-article-7LPSG6VS" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

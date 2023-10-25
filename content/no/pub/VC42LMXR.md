@@ -1,5 +1,5 @@
 ---
-title: "VC42LMXR"
+title: "Innovation in Norwegian Local Governments: Three Historical Roles"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VC42LMXR" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1816457" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VC42LMXR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VC42LMXR" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-VC42LMXR"></div>

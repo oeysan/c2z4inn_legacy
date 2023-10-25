@@ -1,5 +1,5 @@
 ---
-title: "Y47JXKFI"
+title: "Young Children’s Cross-Domain Mapping of Numerosity in Path Navigation"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Y47JXKFI" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1801921" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/Y47JXKFI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Y47JXKFI" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-3-030-34776-5_7" class="csl-bib-button">EZproxy</a>
   </div>

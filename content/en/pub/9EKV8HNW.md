@@ -1,5 +1,5 @@
 ---
-title: "9EKV8HNW"
+title: "Work, family life and recovery: An exploratory study of “the third shift”"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9EKV8HNW" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1982508" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9EKV8HNW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-9EKV8HNW" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-9EKV8HNW" class="csl-bib-button">Contributors</a>
     <a href="https://content.iospress.com:443/download/work/wor213624?id=work%2Fwor213624" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-9EKV8HNW"></div>
 </article>
 <div id="csl-bib-meta-9EKV8HNW" class="csl-bib-meta">
+  <article id="abstract-article-9EKV8HNW" class="abstract-article">
+    <h1>Abstract</h1>
+    Using 24-hour narratives as a starting-point, the present study examines conditions for recovery from work. 
+The third shift concept forms the explorative starting point for highlighting the interplay between work, family responsibilities, leisure time and recovery
+  </article>
   <article id="contributors-article-9EKV8HNW" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

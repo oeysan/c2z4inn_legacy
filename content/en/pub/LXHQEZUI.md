@@ -1,5 +1,5 @@
 ---
-title: "LXHQEZUI"
+title: "Adaptations to strength training differ between endurance-trained and untrained women"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,29 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LXHQEZUI" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1847309" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LXHQEZUI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-LXHQEZUI" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-LXHQEZUI" class="csl-bib-button">Contributors</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s00421-020-04381-x.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LXHQEZUI"></div>
 </article>
 <div id="csl-bib-meta-LXHQEZUI" class="csl-bib-meta">
+  <article id="abstract-article-LXHQEZUI" class="abstract-article">
+    <h1>Abstract</h1>
+    Purpose: 
+The purpose of this study was to investigate if endurance athletes, sustaining their normal endurance training, experience attenuated adaptations to strength training compared to untrained individuals. 
+ 
+Methods: 
+Eleven non-strength-trained female endurance athletes (E + S) added 11 weeks of strength training to their normal endurance training (5.1 ± 1.1 h per week), and 10 untrained women (S) performed the same strength training without any endurance training. The strength training consisted of four leg exercises [3 × 4 − 10 repetition maximum (RM)], performed twice a week for 11 weeks. 
+ 
+Results: 
+E + S and S displayed similar increases in 1RM one-legged leg press (E + S 39 ± 19%, S 42 ± 17%, p &lt; 0.05), maximal isometric torque in knee extension (E + S 12 ± 11%, S 8 ± 10%, p &lt; 0.05) and lean mass in the legs (E + S 3 ± 4%, S 3 ± 3%, p &lt; 0.05). However, S displayed superior increases in peak torque in knee extension at an angular velocity of 240° sec−1 (E + S 8 ± 5%, S 15 ± 7%, p &lt; 0.05) and maximal squat jump height (E + S 8 ± 6%, S 14 ± 7%, p &lt; 0.05). 
+ 
+Conclusions: 
+In this study, concurrent training did not impair the adaptations in the ability to develop force at low contraction velocities or muscle hypertrophy. However, concurrent training attenuated strength training-associated changes in the ability to develop force at higher muscular contraction velocities.
+  </article>
   <article id="contributors-article-LXHQEZUI" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

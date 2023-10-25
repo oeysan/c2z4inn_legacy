@@ -1,5 +1,5 @@
 ---
-title: "Q2MLI7T5"
+title: "Exploitative Competition between Mountain Hare and Moose—Qualitative Effects on Hare Winter Forage?"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Q2MLI7T5" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1932545" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/Q2MLI7T5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-Q2MLI7T5" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-Q2MLI7T5" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-Q2MLI7T5" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.mdpi.com/2076-2615/11/9/2638/pdf?version=1631253417" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-Q2MLI7T5"></div>
 </article>
 <div id="csl-bib-meta-Q2MLI7T5" class="csl-bib-meta">
+  <article id="abstract-article-Q2MLI7T5" class="abstract-article">
+    <h1>Samandrag</h1>
+    Mountain hares (Lepus timidus) in Scandinavia are classified as Near Threatened in the Norwegian and Swedish Redlists. This is due to a possible population decline witnessed during the last decades in Scandinavia. Competition between large herbivores and mountain hares is one of several hypotheses that has been put forward to explain this decline. In a cafeteria trial we investigate the effects of previous moose (Alces alces) winter browsing on the food selection (i.e., biomass consumed, bites per minute and bitediameter) of downy birch (Betula pubescens) and goat willow (Salix caprea) by captive mountain hares. We find that mountain hares do not differentiate among previous browsing levels of downy birch, but have larger bite diameters of goat willow earlier browsed by moose, compared to non-browsed plants. Thus, effects of moose on mountain hare winter food quality seem to be limited. We highlight the need for studies focusing on (1) qualitative effects of moose browsing using wild mountain hares in a natural experimental design, and (2) quantitative effects of moose browsing on available mountain hare forage at a landscape scale during winter
+  </article>
   <article id="contributors-article-Q2MLI7T5" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

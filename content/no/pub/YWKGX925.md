@@ -1,5 +1,5 @@
 ---
-title: "YWKGX925"
+title: "International Perspectives from India, Norway, and Poland on Immigrant Intake in the Military"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YWKGX925" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2018715" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/YWKGX925" alt="Zotero URL" class="csl-bib-button">Zotero</a>
   </div>
   <div id="csl-bib-meta-container-YWKGX925"></div>
 </article>

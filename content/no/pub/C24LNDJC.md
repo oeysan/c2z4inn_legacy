@@ -1,5 +1,5 @@
 ---
-title: "C24LNDJC"
+title: "Film og fortelling"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-C24LNDJC" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2079759" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/C24LNDJC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-C24LNDJC" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-C24LNDJC" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-C24LNDJC"></div>
 </article>
 <div id="csl-bib-meta-C24LNDJC" class="csl-bib-meta">
+  <article id="abstract-article-C24LNDJC" class="abstract-article">
+    <h1>Samandrag</h1>
+    Film og fortelling er en bok om filmanalyse. Enhver fortelling består av et sett virkemidler, som virker inn på hvordan vi oppfatter historien. Filmnarratologi handler om hvordan det fortelles på film, hvilke virkemidler som anvendes, og hvordan fortellegrepene fungerer. Til sammen utgjør dette filmens meningslag. Denne boken presenterer de sentrale begrepene innen narratologi, og gjennom en rekke illustrerte eksempler fra norske og internasjonale filmer demonstreres innholdet i begrepene og hvilken betydning de har for filmfortellingen. 
+ 
+Denne reviderte utgaven har en ny del om mening og meningsdannelse, med et nyskrevet kapittel om tematisk analyse. I tillegg har boken fått flere nye eksempler fra filmer som har preget vår moderne filmkultur.
+  </article>
   <article id="contributors-article-C24LNDJC" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

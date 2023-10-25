@@ -1,5 +1,5 @@
 ---
-title: "WKB7ZHTE"
+title: "The Impact of Relational Governance on Performance Improvement in Export Manufacturing Firms"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WKB7ZHTE" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2096706" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WKB7ZHTE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WKB7ZHTE" class="csl-bib-button">Medverkande</a>
     <a href="http://www.jiem.org/index.php/jiem/article/download/2558/860" class="csl-bib-button">Unpaywall</a>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: "JDL8DEQY"
+title: "«Det knirker mye mer enn jeg trodde»: En empirisk studie av ledelsens forsøk på å implementere innovasjonssamarbeid mellom en offentlig og en privat aktør."
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JDL8DEQY" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1859232" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JDL8DEQY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-JDL8DEQY" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-JDL8DEQY" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-JDL8DEQY" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.idunn.no/file/pdf/67239814/det_knirker_mye_mer_enn_jeg_trodde.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,14 @@ type: pub
   <div id="csl-bib-meta-container-JDL8DEQY"></div>
 </article>
 <div id="csl-bib-meta-JDL8DEQY" class="csl-bib-meta">
+  <article id="abstract-article-JDL8DEQY" class="abstract-article">
+    <h1>Abstract</h1>
+    Forventningene til at velferdsstaten skal levere gode tjenester, tross knappe ressurser og komplekse problemstillinger, har skapt et behov for å tenke nytt. Ett interesseområde har vært samarbeidsdrevet innovasjon. Empirisk kunnskap om slike prosesser er begrenset. Denne case-studien utforsker møtet mellom ledelsen i en stor norsk kommune og Ferd sosiale entreprenører, når de forsøker å utvikle partnerskapsmodeller mellom kommuner og sosiale entreprenører. Aktørene viste interesse for, og ønske om å samarbeide for felles nytte. Sosial nærhet var en drivende faktor i startfasen. Det som fremstod som et vinn-vinn-utgangspunkt med felles målsetting stanset etter halvannet år med tidkrevende samarbeidsforsøk. 
+ 
+Partene prioriterte tid til mål- og forventningsavklaring, som er vesentlige betingelser for samarbeid. Et sentralt funn som vises i artikkelen, er at forventninger ikke alltid kan avklares på forhånd, fordi prosessen i seg selv har en betydelig avklarende funksjon. 
+ 
+Studien gir økt forståelse for de praktiske implikasjoner og teoretiske antakelser samarbeidsdrevne innovasjonsprosesser baseres på.
+  </article>
   <article id="contributors-article-JDL8DEQY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

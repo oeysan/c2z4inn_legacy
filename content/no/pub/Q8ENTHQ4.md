@@ -1,5 +1,5 @@
 ---
-title: "Q8ENTHQ4"
+title: "What hinge epistemology and Bayesian epistemology can learn from each other"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Q8ENTHQ4" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2179473" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/Q8ENTHQ4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Q8ENTHQ4" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-Q8ENTHQ4"></div>

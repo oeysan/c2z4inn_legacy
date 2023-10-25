@@ -1,5 +1,5 @@
 ---
-title: "RWPWD8CQ"
+title: "An Attack on an Integrated Navigation System"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RWPWD8CQ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1620870" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/RWPWD8CQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RWPWD8CQ" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.21339/2464-353x.3.2.149" class="csl-bib-button">EZproxy</a>
   </div>

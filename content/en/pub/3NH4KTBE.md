@@ -1,5 +1,5 @@
 ---
-title: "3NH4KTBE"
+title: "Norwegian Emergency Medicine Systems’ Training and Equipment for Penetrating Injuries: A National Survey-Based Study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3NH4KTBE" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1889861" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/3NH4KTBE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-3NH4KTBE" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-3NH4KTBE" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-3NH4KTBE" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F0BCD8C65AB4934132D362C6D4075BF0/S1935789320004401a.pdf/div-class-title-norwegian-emergency-medicine-systems-training-and-equipment-for-penetrating-injuries-a-national-survey-based-study-div.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,20 @@ type: pub
   <div id="csl-bib-meta-container-3NH4KTBE"></div>
 </article>
 <div id="csl-bib-meta-3NH4KTBE" class="csl-bib-meta">
+  <article id="abstract-article-3NH4KTBE" class="abstract-article">
+    <h1>Abstract</h1>
+    Objective: 
+Recent terror attacks led the Norwegian government to develop a procedure for emergency and law enforcement services cooperation during Active Violent Incidents (AVI, abbreviated PLIVO in Norwegian). To address further national initiatives to improve preparedness for mass casualty events and penetrating injuries among emergency medical services (EMS) in Norway, training and equipment status were mapped. 
+ 
+Methods: 
+All EMS regions in Norway were invited to participate in an electronic nation-wide survey about practical medical training in PLIVO scenario training and specific training in hemorrhage control and penetrating injuries. 
+ 
+Results: 
+Ninety percent (842/938) had attended at least 1 PLIVO training scenario. Of these, 76% (642/938) reported only evacuation training during the exercise, while only 20% (168/938) had practiced hemorrhage control. Eighty-one percent (760/938) respondents reported that they were equipped with tourniquets and 91% (853/938) were equipped with gauze to pack wounds. However, only 52% (487/938) and 48% (450/938) reported practical training in tourniquet application and wound packing, respectively, while 30% (280/938) reported that they had no training or only theoretical education in tourniquet application. Supervised practical training on penetrating thoracic injuries was reported by &lt;20%, and &lt;50% reported practical training in needle decompression of a tension pneumothorax. 
+ 
+Conclusions: 
+Enhanced focus on training in hemorrhage control and penetrating injuries is needed. This supports the recent decision from the Norwegian government to strengthen the training for EMS in AVI (PLIVO) exercises, by focusing on medical procedures in addition to evacuation training. Although the estimated response rate is 17%, we believe the large number of respondents still make the results valuable.
+  </article>
   <article id="contributors-article-3NH4KTBE" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

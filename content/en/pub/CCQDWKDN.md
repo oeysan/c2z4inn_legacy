@@ -1,5 +1,5 @@
 ---
-title: "CCQDWKDN"
+title: "DNA metabarcoding reveals the importance of gelatinous zooplankton in the diet of Pandalus borealis, a keystone species in the Arctic"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CCQDWKDN" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1992899" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/CCQDWKDN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="http://diposit.ub.edu/dspace/bitstream/2445/191277/1/727013.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-CCQDWKDN"></div>

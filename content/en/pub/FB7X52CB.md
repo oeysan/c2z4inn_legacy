@@ -1,5 +1,5 @@
 ---
-title: "FB7X52CB"
+title: "Autism i möte med pedagogisk verksamhet: egna berättelser och tips kopplat till forskning"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FB7X52CB" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1872007" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/FB7X52CB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-FB7X52CB" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-FB7X52CB" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-FB7X52CB"></div>
 </article>
 <div id="csl-bib-meta-FB7X52CB" class="csl-bib-meta">
+  <article id="abstract-article-FB7X52CB" class="abstract-article">
+    <h1>Abstract</h1>
+    De unga författarna med diagnoser inom autismspektrat berättar med insikt och inlevelse om deras upplevelser i pedagogiska verksamheter och övriga livet. Anne Lindblom är deras före detta lärare. Boken tar avstamp i författarnas gemensamma upplevelser som lärare och elever i särskild undervisningsgrupp...
+  </article>
   <article id="contributors-article-FB7X52CB" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "E3U6TS8T"
+title: "Genetic Structure and Gene Flow in Red Foxes (Vulpes vulpes) in Scandinavia: Implications for the Potential Future Spread of Echinococcus multilocularis Tapeworm"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E3U6TS8T" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1756940" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/E3U6TS8T" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-E3U6TS8T" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-E3U6TS8T" class="csl-bib-button">Medverkande</a>
     <a href="https://www.mdpi.com/2076-3417/9/24/5289/pdf?version=1576808003" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-E3U6TS8T"></div>
 </article>
 <div id="csl-bib-meta-E3U6TS8T" class="csl-bib-meta">
+  <article id="abstract-article-E3U6TS8T" class="abstract-article">
+    <h1>Samandrag</h1>
+    Knowledge about the dispersal and gene flow patterns in wild animals are important for our understanding of population ecology and the connectedness of populations. It is also important for management relating to disease control and the transmission of new and emerging diseases. Our study aimed to evaluate the genetic structuring among comparative samples of red foxes in a small part of Scandinavia and to estimate the gene flow and potential directionality in the movements of foxes using an optimized set of microsatellite markers. We compared genetic samples of red foxes (Vulpes vulpes) from two areas in Sweden and two areas in Norway, including red fox samples from areas where the occurrence of the cyclophyllic tapeworm Echinococcus multilocularis has been documented, and areas without known occurrence of the parasite. Our results show a high level of gene flow over considerable distances and substantiates migration from areas affected with E. multilocularis into Norway where the parasite is not yet detected. The results allow us to better understand the gene flow and directionality in the movement patterns of red foxes, which is important for wildlife management authorities regarding the spread of E. multilocularis.
+  </article>
   <article id="contributors-article-E3U6TS8T" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

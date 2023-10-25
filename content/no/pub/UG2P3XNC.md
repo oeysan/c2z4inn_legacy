@@ -1,5 +1,5 @@
 ---
-title: "UG2P3XNC"
+title: "Har samlebandsideologien sigra over kreativitet og mogelegheitene for innovasjon i høgare utdanning?"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,26 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UG2P3XNC" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2015289" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/UG2P3XNC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-UG2P3XNC" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-UG2P3XNC" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/uniped.45.1.7" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-UG2P3XNC"></div>
 </article>
 <div id="csl-bib-meta-UG2P3XNC" class="csl-bib-meta">
+  <article id="abstract-article-UG2P3XNC" class="abstract-article">
+    <h1>Samandrag</h1>
+    Vi ser eit auka fokus på innovasjon i høgare utdanning for å møta utfordringar i framtida. Det er ei målsetjing med 
+utdanninga å utrusta studentane med eigna kunnskapar og dugleikar, slik at dei kan bidra til fellesskapet og arbeidsmarknaden med nytenking og kreativitet. Kvalifikasjonsrammeverket har som målsetjing å klargjera og fanga opp 
+utbyte til studentane og legg samstundes føringar på kva innhaldet i utdanninga bør legga vekt på. Spørsmålet er om 
+rammeverket bidreg til innovasjon og nytenking, eller om ein samlebandsideologi og standardiserte læringsutbyteskildringar har ført til ei instrumentell tilnærming til kunnskap som stikk kjeppar i hjula for kreativitet og mogelegheitene for innovasjon. Gjennom ei konseptuell tilnærming diskuterer artikkelen mogelegheiter og utfordringar 
+for innovasjon i rammeverket med utgangspunkt i ulike syn på og oppfatningar av læringsutbyte og tileigning av 
+kunnskap. Artikkelen viser at innovativ læring og innovasjonsprosessar er utfordrande å målsetja og vurdera 
+og inneber læring som ikkje alltid kan fastsetjast på førehand eller stykkast opp i standardiserte skildringar av kunnskap. Det ser dermed ut til at ei instrumentell og policystyrt tilnærming til utforming av læringsutbyte står i fare for 
+å fremja strategisk og instrumentell etterleving i staden for kritisk, analytisk tenking, som er kjenneteikn på eigenskapar for innovasjon, noko som kan gjera det utfordrande å sigra over samlebandsideologien.
+  </article>
   <article id="contributors-article-UG2P3XNC" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

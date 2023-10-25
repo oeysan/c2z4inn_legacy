@@ -1,5 +1,5 @@
 ---
-title: "NCENI263"
+title: "The persistence of anti-Spike antibodies following two SARS-CoV-2 vaccine doses in patients on immunosuppressive therapy compared to healthy controls—a prospective cohort study"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NCENI263" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2075057" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/NCENI263" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-NCENI263" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-NCENI263" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-NCENI263" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://bmcmedicine.biomedcentral.com/counter/pdf/10.1186/s12916-022-02587-8" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-NCENI263"></div>
 </article>
 <div id="csl-bib-meta-NCENI263" class="csl-bib-meta">
+  <article id="abstract-article-NCENI263" class="abstract-article">
+    <h1>Samandrag</h1>
+    BackgroundThe durability of vaccine-induced humoral immunity against SARS-CoV-2 in patients with immune-mediated inflammatory diseases (IMIDs) on immunosuppressive therapy is not known. The aim of this study was to compare the persistence of anti-Spike antibodies following two-dose SARS-CoV-2 vaccination between IMID patients and healthy controls and to identify factors associated with antibody decline. MethodsIMID patients on immunosuppressive medication enrolled in the prospective observational Nor-vaC study were included. Participants received two-dose SARS-CoV-2 vaccination. Serum collected at two time points following vaccination (first assessment within 6–48 days, second within 49–123 days) were analyzed for antibodies binding the receptor-binding domain (RBD) of the SARS-CoV-2 Spike protein. Multivariable regression models estimated percent reduction in anti-RBD over 30 days and factors associated with reduction. Results A total of 1108 patients (403 rheumatoid arthritis, 195 psoriatic arthritis, 195 spondyloarthritis, 124 ulcerative colitis, 191 Crohn’s disease) and 134 controls provided blood samples within the defined intervals (median 19 days [IQR 15–24] and 97 days [87–105] after second vaccine dose). Antibody levels were lower in patients compared to controls at both time points, with median anti-RBD 2806 BAU/ml [IQR 1018–6068] in patients and 6187 BAU/ml [4105–7496] in controls ( p &lt;0.001) at first assessment, and 608 BAU/ml [IQR 58–1053] in patients and 1520 BAU/ml [979–3766] in controls ( p &lt;0.001) at second assessment. At second assessment, low anti-RBD antibody levels (defined as &lt;200 BAU/ml) were found in 449 (41%) patients, and 6 (5%) controls ( p &lt;0.001). The change was − 83% in patients and − 66% in controls ( p &lt;0.001). Patients had a greater estimated 30 days percent reduction in anti-RBD levels compared to controls − 4.9 (95% CI − 7.4 to − 2.4), ( p &lt;0.05). Among therapies, mono- or combination treatment with tumor necrosis factor inhibitors was associated with the greatest decline. ConclusionsWithin 4 months after vaccination, antibody levels declined considerably in both IMID patients and controls. Patients had lower initial antibody levels and a more pronounced decline compared to healthy controls and were therefore more likely to decline to low antibody levels. These results support that IMID patients need additional vaccine doses at an earlier stage than healthy individuals.
+  </article>
   <article id="contributors-article-NCENI263" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

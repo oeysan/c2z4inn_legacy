@@ -1,5 +1,5 @@
 ---
-title: "6FBUP4DS"
+title: "International Commercial Arbitration Court: Ukrainian Chamber of Commerce and Industry"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6FBUP4DS" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2052829" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/6FBUP4DS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-6FBUP4DS" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1093/law-mpeipro/e3922.013.3922/law-mpeipro-e3922?rskey=w54H4M&amp;result=1&amp;prd=OPIL" class="csl-bib-button">EZproxy</a>
   </div>

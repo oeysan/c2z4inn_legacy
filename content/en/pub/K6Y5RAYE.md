@@ -1,5 +1,5 @@
 ---
-title: "K6Y5RAYE"
+title: "Long-term effects of daily postprandial physical activity on blood glucose: a randomized controlled trial"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-K6Y5RAYE" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1464321" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/K6Y5RAYE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-K6Y5RAYE" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-K6Y5RAYE" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-K6Y5RAYE" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://tspace.library.utoronto.ca/bitstream/1807/75863/1/apnm-2016-0467.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-K6Y5RAYE"></div>
 </article>
 <div id="csl-bib-meta-K6Y5RAYE" class="csl-bib-meta">
+  <article id="abstract-article-K6Y5RAYE" class="abstract-article">
+    <h1>Abstract</h1>
+    Previous studies have shown that a bout of moderate or light postprandial physical activity effectively blunts the postprandial increase in blood glucose. The objective of this study was to test whether regular light postprandial physical activity can improve glycemia in persons with hyperglycemia or with a high risk of hyperglycemia. We randomized 56 participants to an intervention or a control group. They were diagnosed as hyperglycemic, not using antidiabetics, or were categorized as high-risk individuals for type 2 diabetes. The intervention group was instructed to undertake a minimum 30 min of daily light physical activity, starting a maximum of 30 min after a meal in addition to their usual physical activity for 12 weeks. The control group maintained their usual lifestyle. Blood samples were taken pre- and post-test. Forty participants completed the study and are included in the results. The self-reported increase in daily physical activity from before to within the study period was higher in the intervention group compared with control (41 ± 25 vs. 2 ± 16 min, p &lt; 0.001). Activity diaries and accelerometer recordings supported this observation. The activity in the intervention group started earlier after the last meal compared with control (30 ± 13 vs. 100 ± 57 min, p = 0.001). There were no within- or between-group differences in any glycemic variable from pre- to post-test. In conclusion, the present study does not seem to support the notion that regular light postprandial physical activity improves blood glucose in the long term in persons with hyperglycemia or with high risk of hyperglycemia.
+  </article>
   <article id="contributors-article-K6Y5RAYE" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

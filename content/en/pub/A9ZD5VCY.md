@@ -1,5 +1,5 @@
 ---
-title: "A9ZD5VCY"
+title: "Digital dannelse: en overordnet interkulturellkompetanse: En systematisk litteraturgjennomgang av dannelse i kunnskapssamfunnet"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-A9ZD5VCY" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1628665" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/A9ZD5VCY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-A9ZD5VCY" class="csl-bib-button">Contributors</a>
     <a href="https://www.idunn.no/file/pdf/67084774/digital_dannelse_en_overordnet_interkulturell_kompetanse.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

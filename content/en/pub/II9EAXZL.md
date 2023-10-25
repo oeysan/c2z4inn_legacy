@@ -1,5 +1,5 @@
 ---
-title: "II9EAXZL"
+title: "Performative Feelings for Others: The Civil Repair of Organised Competitive Sports"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-II9EAXZL" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2062260" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/II9EAXZL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-II9EAXZL" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-II9EAXZL" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-II9EAXZL" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://doi.org/10.1177/17499755221110313" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,12 @@ type: pub
   <div id="csl-bib-meta-container-II9EAXZL"></div>
 </article>
 <div id="csl-bib-meta-II9EAXZL" class="csl-bib-meta">
+  <article id="abstract-article-II9EAXZL" class="abstract-article">
+    <h1>Abstract</h1>
+    In many western nations, sport is an institutional component of civil society that may be considered from quite different outlooks. From the critical theorists’ viewpoint, sport reproduces social hierarchies through competition and then colonises our democratic life worlds. Scholars of civil society argue that sport actors manoeuvre civic relations and fend off anti-civil pressures to allow integration, belonging and collective decision-making. This article positions sport actors and audiences at the interstice between hierarchies and solidarity, amid competition and friendship. Using Civil Sphere Theory, I present a cultural sociology of performance that highlights how sport actors interpret the democratic character (or lack thereof) of their own and others’ sport 
+actions. Drawing on eight months of participant field observations in Norwegian youth sport, I recreate an ethnographic tale of how coaches, players and spectators activate the civil sphere’s symbolic and affective codes for this purpose. This dramatic sequence of events, played out over the course of the season, shows how sport itself can be shaped by actors who bring the civil sphere to bear and make sport a facilitating input to the discourse of the Nordic civil sphere. This process, I conclude, is contingent on performances of the civil sphere that make sport a stage 
+on which to display performative feelings for others. When sport actors challenge the divisive, hierarchal character of organised competition and carry out a civil repair of sport, they expand the limits of civil inclusion and momentarily create a sporting civil society.
+  </article>
   <article id="contributors-article-II9EAXZL" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

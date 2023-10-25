@@ -1,5 +1,5 @@
 ---
-title: "IW5WW5BM"
+title: "Yeast immobilization systems for second‐generation ethanol production: actual trends and future perspectives"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IW5WW5BM" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1943688" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/IW5WW5BM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IW5WW5BM" class="csl-bib-button">Contributors</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bbb.2250" class="csl-bib-button">Unpaywall</a>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: "XMP8F4AP"
+title: "Charting the reach and contribution of IMP literature in other disciplines: A bibliometric analysis"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XMP8F4AP" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2096223" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/XMP8F4AP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XMP8F4AP" class="csl-bib-button">Medverkande</a>
     <a href="https://ore.exeter.ac.uk/repository/bitstream/10871/120322/1/Symplectic_Version_IMM%20Main%203rd%20revised%20200223.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

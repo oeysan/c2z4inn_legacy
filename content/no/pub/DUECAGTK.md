@@ -1,5 +1,5 @@
 ---
-title: "DUECAGTK"
+title: "Enhancing Student Teachers’ Professional Development through Active Learning"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DUECAGTK" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2173849" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DUECAGTK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-DUECAGTK" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-DUECAGTK" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-DUECAGTK" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.intechopen.com/citation-pdf-url/87641" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-DUECAGTK"></div>
 </article>
 <div id="csl-bib-meta-DUECAGTK" class="csl-bib-meta">
+  <article id="abstract-article-DUECAGTK" class="abstract-article">
+    <h1>Samandrag</h1>
+    As a contrast to traditional approaches to learning, this chapter explores two examples of active learning conducted with student teachers in Norway. In the first example, the chapter reports from a case study on student teachers’ engagement with the Scandinavian Romani exhibit at a local museum. For this example, the chapter discusses student teachers’ possibilities for developing a critical consciousness through immersive experiences. In the second example, the chapter presents and discusses a project using virtual reality (VR) technology designed to build student teachers’ capacity for their future professional role in schools. For this example, the chapter addresses the development of student teachers’ awareness of their own professionality and their active role in home-school cooperation. In both examples, the chapter draws attention to the leading role of the teacher educator, who actively facilitates a collaborative, interactive, and participatory learning environment. Theoretically, the chapter elaborates on student-centered learning from the perspectives of John Dewey and Paulo Freire, underlining the significance of active engagement and critical reflections.
+  </article>
   <article id="contributors-article-DUECAGTK" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "4ANYCT2T"
+title: "Diets and drugs for weight loss and health in obesity – An update"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4ANYCT2T" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1926995" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/4ANYCT2T" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-4ANYCT2T" class="csl-bib-button">Contributors</a>
     <a href="https://doi.org/10.1016/j.biopha.2021.111789" class="csl-bib-button">Unpaywall</a>
   </div>

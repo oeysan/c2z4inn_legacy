@@ -1,5 +1,5 @@
 ---
-title: "DP9L5ZBV"
+title: "Are Demanding Job Situations Associated with Alcohol-Related Presenteeism? The WIRUS-Screening Study"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DP9L5ZBV" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1913870" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DP9L5ZBV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-DP9L5ZBV" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-DP9L5ZBV" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-DP9L5ZBV" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.mdpi.com/1660-4601/18/11/6169/pdf?version=1623070431" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-DP9L5ZBV"></div>
 </article>
 <div id="csl-bib-meta-DP9L5ZBV" class="csl-bib-meta">
+  <article id="abstract-article-DP9L5ZBV" class="abstract-article">
+    <h1>Samandrag</h1>
+    Alcohol-related presenteeism (impaired work performance caused by alcohol use) is an important but under-researched topic. The aim of this study was to explore whether psychosocial work environment factors were associated with alcohol-related presenteeism. A cross sectional study of Norwegian employees (n = 6620) was conducted. Logistic regression analyses were used for estimating associations with alcohol-related presenteeism, which was reported among 473 (7.1%) of the employees. Adjusted by age, gender, education level and managerial level, higher levels of overcommitment to work were associated with alcohol-related presenteeism. Higher age, male gender and higher education were also associated with alcohol-related presenteeism. Occupational health services and employers should especially focus on overcommitted employees when designing workplace health promotion programs. Modifying attitudes towards alcohol-related presenteeism among overcommitted employees may be of importance for safety at work.
+  </article>
   <article id="contributors-article-DP9L5ZBV" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "9XT2BJWB"
+title: "Connecting the dots in counterterrorism: The consequences of communication setting for shared situation awareness and team performance"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9XT2BJWB" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1638505" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9XT2BJWB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9XT2BJWB" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1111/1468-5973.12217" class="csl-bib-button">EZproxy</a>
   </div>

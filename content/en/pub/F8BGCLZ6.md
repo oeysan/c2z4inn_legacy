@@ -1,5 +1,5 @@
 ---
-title: "F8BGCLZ6"
+title: "The role of alternative energy and globalization in decarbonization prospects of the oil-producing African economies"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-F8BGCLZ6" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2138567" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/F8BGCLZ6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-F8BGCLZ6" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-F8BGCLZ6" class="csl-bib-button">Contributors</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s11356-023-26581-6.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-F8BGCLZ6"></div>
 </article>
 <div id="csl-bib-meta-F8BGCLZ6" class="csl-bib-meta">
+  <article id="abstract-article-F8BGCLZ6" class="abstract-article">
+    <h1>Abstract</h1>
+    This study assesses the environmental impacts of the energy mix of mainly oil-producing African nations. The economic aspects of decarbonization prospects were also viewed from the perspectives of fossil energy dependence among the countries. More insights on the impacts of energy mix on decarbonization prospects were also provided on a country-specific analysis basis via the application of second-generation econometric techniques in assessing carbon emission levels across the countries between 1990 and 2015. From the results, only renewable resources proved to be a significant decarbonization tool among the understudied oil-rich economies. Moreover, the consequences of the trio of fossil fuel consumption, income growth, and globalization are diametrically opposed to achieving decarbonization as the rise in their usage significantly acts as pollutant-inducing tools. The validity of the environmental Kuznets curve (EKC) conjecture was also upheld for the combined analysis of the panel countries. The study thus opined that the reduction in conventional energy dependence will enhance environmental quality. Consequently, given the advantages of the geographical locations of these countries in Africa, concerted strategies for more investment in clean renewable energy sources like solar and wind were suggested to policymakers among other recommendations.
+  </article>
   <article id="contributors-article-F8BGCLZ6" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "EJW27ZEF"
+title: "Kom susande, seinhaustnatt: fire artikler om Tor Jonssons lyrikk"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EJW27ZEF" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1585304" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/EJW27ZEF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-EJW27ZEF" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-EJW27ZEF" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-EJW27ZEF"></div>
 </article>
 <div id="csl-bib-meta-EJW27ZEF" class="csl-bib-meta">
+  <article id="abstract-article-EJW27ZEF" class="abstract-article">
+    <h1>Abstract</h1>
+    Boka inneholder fire artikler om Tor Jonssons diktning som har som formål å kaste nytt lys over de lyriske diktene hans. Alle som interesserer seg for Jonssons dikterskjebne og diktverk, vil ha glede av denne boka.
+  </article>
   <article id="contributors-article-EJW27ZEF" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

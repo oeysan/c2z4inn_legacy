@@ -1,5 +1,5 @@
 ---
-title: "HLY34D5Q"
+title: "Development of Cultural and Environmental Awareness Through Sámi Outdoor Life at Sámi/Indigenous Festivals"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,25 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HLY34D5Q" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2071866" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HLY34D5Q" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-HLY34D5Q" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-HLY34D5Q" class="csl-bib-button">Contributors</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fspor.2021.662929/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-HLY34D5Q"></div>
 </article>
 <div id="csl-bib-meta-HLY34D5Q" class="csl-bib-meta">
+  <article id="abstract-article-HLY34D5Q" class="abstract-article">
+    <h1>Abstract</h1>
+    The indigenous people Sámi are an ethnic minority living in Finland, Norway, Russia, and Sweden. Throughout history, Sámis have been living close to nature. Working with reindeer husbandry, fishing-farming, hunting, herding, and harvesting for food supplies, has traditionally been an integral part of their lives. Currently, only 2,500 of the ∼65,000 Sámis in Norway are operating reindeer husbandry (2019). Most Sámis 
+today work in mainstream jobs, and the fishing-farming culture gradually become more like the mainstream societies where Sámis live. Fieldwork with participant observation 
+and semi-structured interviews carried out at Riddu Riąąu Festivala in the period 2009–2018. In addition, the governing bodies of seven other Sámi festivals have been interviewed. All together 46 in-depth interviews and participant observations conducted, in addition to document analysis of the festivals. The aim was to study how physical and outdoor activities included in the festivals create indigenous people’s identities and cultural understanding and how the activities at the festivals might develop climate and 
+environmental awareness. Indigenous festivals and their governing bodies offer many different forms of physical and cultural activities from Sámis and different indigenous 
+peoples to the youth and children taking part. Further, the study shows that important aims for the organizers are to spread the knowledge about Sámis (i.e., local coastal 
+Sámis and regional reindeer/Inland Sámis) and other indigenous peoples, and making environment-friendly festivals. They are trying to educate the children and youth in the cultural practices of their forefathers and foremothers. The manifold of activities offered at the festivals seem to create sustainable ties between persons, which equip the participants with social and cultural capital in addition to networks across festivals organizations internationally. The participants further express that taking part in the festival activities create symbolic capital, due to that they might express their indigeneity at the festivals both for people living in the region and for a greater audience. According to the participants, the festivals have equipped the participants with cultural awareness, 
+as well as the children and youth taught an appreciation of nature so they can enjoy and respect nature and develop climate and environmental awareness.
+  </article>
   <article id="contributors-article-HLY34D5Q" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

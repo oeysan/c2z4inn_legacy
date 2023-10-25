@@ -1,16 +1,16 @@
 ---
-title: "QXXEEK2F"
+title: "Verdibasert praksis i kroppsøving - Anerkjennelsens relasjonelle didaktikk"
 type: pub
 ---
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-QXXEEK2F" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Westlie, K., &amp; Moen, K. M. (2023). Verdibasert praksis i kropps&#xF8;ving - Anerkjennelsens relasjonelle didaktikk. I K. M. Moen &amp; A. N. Jordet (Red.), <i>Et anerkjennende kropps&#xF8;vingsfag</i>. Cappelen Damm akademisk.</div>
+  <div class="csl-entry">Westlie, K., &amp; Moen, K. M. (2023). Verdibasert praksis i kropps&#xF8;ving - Anerkjennelsens relasjonelle didaktikk. I K. M. Moen &amp; A. N. Jordet (Red.), <i>Et anerkjennende kropps&#xF8;vingsfag</i> (s. 125&#x2013;145). Cappelen Damm akademisk.</div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QXXEEK2F" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2127720" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/QXXEEK2F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-QXXEEK2F" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-QXXEEK2F"></div>

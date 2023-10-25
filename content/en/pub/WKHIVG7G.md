@@ -1,5 +1,5 @@
 ---
-title: "WKHIVG7G"
+title: "The Ponytail: Icon, Movement, and the Modern (Sports)Woman"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WKHIVG7G" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2099700" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WKHIVG7G" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WKHIVG7G" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-WKHIVG7G" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-WKHIVG7G" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://doi.org/10.1007/978-3-031-20780-8" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-WKHIVG7G"></div>
 </article>
 <div id="csl-bib-meta-WKHIVG7G" class="csl-bib-meta">
+  <article id="abstract-article-WKHIVG7G" class="abstract-article">
+    <h1>Abstract</h1>
+    This open access book adopts a cultural sociology of materiality to explore the hallmark of the female athlete: the ponytail. Studying a wealth of news articles about ponytails in sports and society, Broch uncovers this hairstyle’s polyvocality and argues that it is a total social phenomenon. By separating his approach from the cultural studies tradition, Broch highlights how hair is imbued with codes, narratives, and myth that allow its wearers to understand, maneuver, and criticize social gender relations in deeply personal ways. Using multiple theories about hair, bodies, myths, and icons, he creates a multidimensional method to show how icons are imitated and used. As women navigate their practical lives, health issues, and gendered expectations, the ponytail materializes their dynamic maneuvering of cultural and social environments. Sporting a ponytail—itself an embodiment of movement—is filled with a performativity of social movements: a cultural kinetics that is never apolitical.
+  </article>
   <article id="contributors-article-WKHIVG7G" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

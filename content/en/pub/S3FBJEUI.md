@@ -1,5 +1,5 @@
 ---
-title: "S3FBJEUI"
+title: "Painting with natural pigments on drowning land: the necessity of beauty in a new economy"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-S3FBJEUI" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2155091" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/S3FBJEUI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-S3FBJEUI" class="csl-bib-button">Contributors</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/14767430.2023.2217056?needAccess=true&amp;role=button" class="csl-bib-button">Unpaywall</a>
   </div>

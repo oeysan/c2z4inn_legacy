@@ -1,5 +1,5 @@
 ---
-title: "7XX2IABH"
+title: "No Differences Between 12 Weeks of Block- vs. Traditional-Periodized Training in Performance Adaptations in Trained Cyclists"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7XX2IABH" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2021301" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/7XX2IABH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-7XX2IABH" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-7XX2IABH" class="csl-bib-button">Contributors</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fphys.2022.837634/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7XX2IABH"></div>
 </article>
 <div id="csl-bib-meta-7XX2IABH" class="csl-bib-meta">
+  <article id="abstract-article-7XX2IABH" class="abstract-article">
+    <h1>Abstract</h1>
+    The purpose of this study was to compare the effects of 12 weeks load-matched block periodization (BP, n  = 14), using weekly concentration of high- (HIT), moderate- (MIT), and low- (LIT) intensity training, with traditional periodization (TP, n  = 16) using a weekly, cyclic progressive increase in training load of HIT-, MIT-, and LIT-sessions in trained cyclists (peak oxygen uptake: 58 ± 8 ml·kg −1 ·min −1 ). Red blood cell volume increased 10 ± 16% ( p  = 0.029) more in BP compared to TP, while capillaries around type I fibers increased 20 ± 12% ( p  = 0.002) more in TP compared to BP from Pre to Post12. No other group differences were found in time-trial (TT) performances or muscular-, or hematological adaptations. However, both groups improved 5 and 40-min TT power by 9 ± 9% ( p   0.001) and 8 ± 9% ( p   0.001), maximal aerobic power (W max ) and power output (PO) at 4 mmol·L −1 blood lactate (W 4mmol ), by 6 ± 7 ( p  = 0.001) and 10 ± 12% ( p  = 0.001), and gross efficiency (GE) in a semi-fatigued state by 0.5 ± 1.1%-points ( p  = 0.026). In contrast, GE in fresh state and VO 2peak were unaltered in both groups. The muscle protein content of β-hydroxyacyl (HAD) increased by 55 ± 58% in TP only, while both TP and BP increased the content of cytochrome c oxidase subunit IV (COXIV) by 72 ± 34%. Muscle enzyme activities of citrate synthase (CS) and phosphofructokinase (PFK) were unaltered. TP increased capillary-to-fiber ratio and capillary around fiber (CAF) type I by 36 ± 15% ( p   0.001) and 17 ± 8% ( p  = 0.025), respectively, while BP increased capillary density (CD) by 28 ± 24% ( p  = 0.048) from Pre to Post12. The present study shows no difference in performance between BP and “best practice”-TP of endurance training intensities using a cyclic, progressively increasing training load in trained cyclists. However, hematological and muscle capillary adaptations may differ.
+  </article>
   <article id="contributors-article-7XX2IABH" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

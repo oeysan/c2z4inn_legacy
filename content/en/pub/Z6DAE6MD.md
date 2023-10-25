@@ -1,5 +1,5 @@
 ---
-title: "Z6DAE6MD"
+title: "“This one Grandma knew, too, exactly this one!” Processes of Canonization in Children’s Music"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Z6DAE6MD" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1499260" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/Z6DAE6MD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-Z6DAE6MD" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-Z6DAE6MD" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-Z6DAE6MD" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journals.hioa.no/index.php/information/article/download/2279/2067" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-Z6DAE6MD"></div>
 </article>
 <div id="csl-bib-meta-Z6DAE6MD" class="csl-bib-meta">
+  <article id="abstract-article-Z6DAE6MD" class="abstract-article">
+    <h1>Abstract</h1>
+    Processes of musical canonization occur at different levels of culture and society. People have a strong propensity to categorize, differentiate, and evaluate the music that is important to them, and music is ascribed value in action by people in real-life settings. Based in these premises, the article discusses two questions: First, how does the idea of a canon of children’s music influence the daily musical activities and repertoires used in children’s day care facilities and family homes? Second, in what ways is music legitimized in the everyday lives of children? Our data is collected by observation and interviews conducted in two pedagogical day care facilities and nine family homes. Children, day care staff and parents participated in the study. We find that a discussion of canonization in children’s music along the following four paths of legitimation is meaningful: the “good, old stuff,” the need for renewal, the inclusion of other types of music other than that aimed at a child audience, and the need for a wide array of genres and sentiments. Finally, we argue that although the legitimation and canonization in children’s music obviously involve considerations of musical aspects, separating these canonization processes from the prevailing socio-cultural ideas of childhood and children’s best interest is impossible.  
+  </article>
   <article id="contributors-article-Z6DAE6MD" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

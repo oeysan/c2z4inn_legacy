@@ -1,5 +1,5 @@
 ---
-title: "B44MZYUF"
+title: "Dignity in people with frontotemporal dementia and similar disorders — a qualitative study of the perspective of family caregivers"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-B44MZYUF" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1478590" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/B44MZYUF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-B44MZYUF" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-B44MZYUF" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-B44MZYUF" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://bmchealthservres.biomedcentral.com/track/pdf/10.1186/s12913-017-2378-x" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,24 @@ type: pub
   <div id="csl-bib-meta-container-B44MZYUF"></div>
 </article>
 <div id="csl-bib-meta-B44MZYUF" class="csl-bib-meta">
+  <article id="abstract-article-B44MZYUF" class="abstract-article">
+    <h1>Abstract</h1>
+    Background 
+ 
+Frontotemporal dementia (FTD) constitutes on average 10–15% of dementia in younger persons (≤65 years old), but can also affect older people. These patients demonstrate a decline in social conduct, and/or language aphasias, apathy, and loss of insight that is gradual and progressive. Preservation of dignity seems to be highly relevant both before and after admission to different types of institutionalized care, but the research is scant. From the perspective of close relatives, this study aims to develop knowledge related to dignified or undignified care of patients with FTD and similar conditions. 
+ 
+Methods 
+ 
+A qualitative, descriptive, and explorative design were employed to address the aims of this study. We interviewed nine relatives of people with FTD and similar conditions living in nursing homes, and two relatives of people living at home but attending day center 5 days a week. 
+ 
+Results 
+ 
+Relatives described the transition from being a close relative to someone who had little influence or knowledge of what constituted the care and the daily life of their loved ones. According to relatives’ descriptions, patients are deprived of dignity in various ways: through limited interaction with peers and close relatives, limited confirmation of identity through staff who know them well, lack of possibilities for making autonomous decisions or entertaining meaningful roles or activities. Examples provided from the day care centres show how dignity is maintained through identity-strengthening activities conducted in different places, under various kinds of supervision and care, and together with people representing different roles and functions. 
+ 
+Conclusions 
+ 
+Maintaining a link with the world outside the institution, through closer cooperation between the institution and family members, and/or by the use of day care centres, seems to facilitate prevention of many of the factors that may threaten dignified care.
+  </article>
   <article id="contributors-article-B44MZYUF" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

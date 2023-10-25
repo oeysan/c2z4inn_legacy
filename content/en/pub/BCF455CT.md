@@ -1,5 +1,5 @@
 ---
-title: "BCF455CT"
+title: "Bruk av metaforer om kjemiske bindinger i kreativ skriving"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BCF455CT" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1456385" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/BCF455CT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-BCF455CT" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-BCF455CT" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-BCF455CT" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journals.uio.no/index.php/nordina/article/download/2855/4805" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-BCF455CT"></div>
 </article>
 <div id="csl-bib-meta-BCF455CT" class="csl-bib-meta">
+  <article id="abstract-article-BCF455CT" class="abstract-article">
+    <h1>Abstract</h1>
+    The basis for this study is to use students' creative texts in science as a mean to gain insight into their conceptual ideas. Eight grade students' creative writing tasks (n = 26) were analyzed with respect to the conceptual metaphors that were used to describe the abstract concept chemical bonding. The conceptual metaphors were identified and sorted into two main categories; location event-structure conceptual metaphors and object event-structure conceptual metaphors. Results show that most metaphors can be categorized as location event-structure conceptual metaphors. Embodied concepts and everyday language rooted in senso-motoric experiences from students’ daily life as well as from former science education seem to play a central role when they attempt to make meaning of the abstract concept ‘chemical bonding’ within a creative writing context. Creative writing tasks in science may have an unutilized potential for both uncovering and developing understanding of abstract phenomena on sub-microscopic level, such as chemical bonding.
+  </article>
   <article id="contributors-article-BCF455CT" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

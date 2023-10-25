@@ -1,5 +1,5 @@
 ---
-title: "WPLV95YZ"
+title: "”I kjærlighedens tjeneste”: Straffens legitimitet i oppdragelse og undervisning"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WPLV95YZ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1622115" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WPLV95YZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WPLV95YZ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-WPLV95YZ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-WPLV95YZ" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://journals.ub.umu.se/index.php/njedh/article/download/116/99" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-WPLV95YZ"></div>
 </article>
 <div id="csl-bib-meta-WPLV95YZ" class="csl-bib-meta">
+  <article id="abstract-article-WPLV95YZ" class="abstract-article">
+    <h1>Samandrag</h1>
+    “In the Service of Love:” The legitimacy of punishment in child rearing and educationThe article attempts to show that the Norwegian attitude towards punishment as a method of child rearing and education changed character during the last half of the nineteenth century. Legal sanctions regulating and prohibiting the use of physical punishment of children was introduced, primarily in schools but much later also in the family. The article suggests that this was the result of an ideological and political development towards valorising the integrity and humanity of children, but that it was controversial to impose restrictions on parents. It also outlines four models or perspectives on the nature of children and childhood that is discernible in handbooks and manuals for parents and educators, and how these models conveyed a particular understanding of the reasoning for and the consequences of punishing children as a part of rearing practices. This influenced both parents’ values and public and political debate.
+  </article>
   <article id="contributors-article-WPLV95YZ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "L3FZA3XR"
+title: "Transcending the nature/culture dichotomy: cultivated and cultured World Heritage nature"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-L3FZA3XR" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1935368" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/L3FZA3XR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://findresearcher.sdu.dk/ws/files/195736806/Transcending_the_Nature_Culture_Dichotomy.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-L3FZA3XR"></div>

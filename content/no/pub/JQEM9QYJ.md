@@ -1,5 +1,5 @@
 ---
-title: "JQEM9QYJ"
+title: "Selection for tameness has changed brain gene expression in silver foxes"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JQEM9QYJ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2047475" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JQEM9QYJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JQEM9QYJ" class="csl-bib-button">Medverkande</a>
     <a href="http://www.cell.com/article/S0960982205013278/pdf" class="csl-bib-button">Unpaywall</a>
   </div>

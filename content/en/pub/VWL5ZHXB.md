@@ -1,5 +1,5 @@
 ---
-title: "VWL5ZHXB"
+title: "Sjangring som musikkdidaktisk praksis"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VWL5ZHXB" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1929634" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VWL5ZHXB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-VWL5ZHXB" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-VWL5ZHXB" class="csl-bib-button">Contributors</a>
     <a href="https://nrme.no/index.php/nrme/article/download/2811/6035" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VWL5ZHXB"></div>
 </article>
 <div id="csl-bib-meta-VWL5ZHXB" class="csl-bib-meta">
+  <article id="abstract-article-VWL5ZHXB" class="abstract-article">
+    <h1>Abstract</h1>
+    musikkfaget i grunnskolen, men også fungerer som en kunnskapsproduserende diskursiv praksis. For å forstå hvordan, og på bakgrunn av tidligere teorier om sjangeres vesen og verdi, skriver forfatteren frem sjanger som handling: å sjangre. Artikkelen undersøker hvordan lærere som underviser i musikk i norsk grunnskole sjangrer musikk og musikkaktiviteter når de beskriver undervisningen sin. Analysene viser at lærernes sjangring tjener praktisk-didaktiske formål ved å ordne et innholdstilfang og tilrettelegge det for læring. I dette arbeidet operasjonaliserer sjangringen bestemte musikkhistoriske narrativ og etablerer likheter og forskjeller mellom musikk, folk og kulturer, tider og steder. Samtidig virker sjangringen diskursivt regulerende på selve tilfanget, ved å ta for gitt et utvalg den allerede har produsert. Dette gir seg blant annet utslag i et vektet og kanonisert innhold hva angår musikken og artistene/komponistene som er representert i skolen. Nøkkel
+  </article>
   <article id="contributors-article-VWL5ZHXB" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

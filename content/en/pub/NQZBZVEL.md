@@ -1,5 +1,5 @@
 ---
-title: "NQZBZVEL"
+title: "A Comparison of Nursing and Teacher Education Students’ Information Literacy Learning: Results from Norway, 2016"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NQZBZVEL" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1484741" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/NQZBZVEL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-NQZBZVEL" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-NQZBZVEL" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-NQZBZVEL" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://crl.acrl.org/index.php/crl/article/download/16715/18208" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-NQZBZVEL"></div>
 </article>
 <div id="csl-bib-meta-NQZBZVEL" class="csl-bib-meta">
+  <article id="abstract-article-NQZBZVEL" class="abstract-article">
+    <h1>Abstract</h1>
+    This study measures first-year undergraduate students’ self-assessments and learning outcomes in information literacy skills in their first months of higher education in Norway. Comparisons are made between nursing students and teacher education students. Surveys were conducted before the library’s information literacy course and after both library instruction and the submission of an academic paper in which citations were required. Survey questions were specifically related to evaluating sources, avoiding plagiarism, and citing sources. Results show significant improvement, especially in students’ ability to cite sources. There were small differences between student groups.
+  </article>
   <article id="contributors-article-NQZBZVEL" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

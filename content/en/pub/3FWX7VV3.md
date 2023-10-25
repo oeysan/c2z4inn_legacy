@@ -1,5 +1,5 @@
 ---
-title: "3FWX7VV3"
+title: "Promoting Early Literacy and Student Investment in the African Storybook"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3FWX7VV3" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1619571" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/3FWX7VV3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-3FWX7VV3" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-3FWX7VV3" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-3FWX7VV3" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/15348458.2019.1674150" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-3FWX7VV3"></div>
 </article>
 <div id="csl-bib-meta-3FWX7VV3" class="csl-bib-meta">
+  <article id="abstract-article-3FWX7VV3" class="abstract-article">
+    <h1>Abstract</h1>
+    Research has found that reading achievement is strongly associated with opportunities for children to engage actively with print. This article addresses research on a digital initiative called the African Storybook, which provides a website with over 1,000 openly licensed children’s picture storybooks in more than 150 African languages, as well as the official languages of English, French, and Portuguese (africanstorybook.org). The article draws on a 2014 study conducted in Uganda that sought to examine the extent to which teachers and children were invested in the African Storybook stories. Of central interest in this article is the extent to which teachers sought to encourage young children to engage actively with the African Storybook stories. The findings suggest that use of the stories promoted greater ownership of meaning for the young readers, as well as shifts of identity for both students and teachers.
+  </article>
   <article id="contributors-article-3FWX7VV3" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

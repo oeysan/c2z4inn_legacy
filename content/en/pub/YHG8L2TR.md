@@ -1,5 +1,5 @@
 ---
-title: "YHG8L2TR"
+title: "Associations between exposure to sexual abuse, substance use, adverse health outcomes, and use of youth health services among Norwegian adolescents"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YHG8L2TR" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2162190" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/YHG8L2TR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-YHG8L2TR" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-YHG8L2TR" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-YHG8L2TR" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-023-16261-y" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-YHG8L2TR"></div>
 </article>
 <div id="csl-bib-meta-YHG8L2TR" class="csl-bib-meta">
+  <article id="abstract-article-YHG8L2TR" class="abstract-article">
+    <h1>Abstract</h1>
+    BackgroundA strong association between sexual abuse and adverse health outcomes has been reported among adolescents. The present study aimed to provide more information about adverse health outcomes associated with sexual abuse and substance use, and to examine the use of youth health services among Norwegian adolescents. MethodsNational representative cross-sectional study among 16–19-year-old Norwegian adolescents (n = 9784). Multivariable regression analyses, adjusted for socioeconomic status and age, were used to examine the association between exposure to sexual abuse, substance use and health risk factors, and the use of youth health services. ResultsAdolescents exposed to sexual abuse had higher odds of depressive symptoms (males: OR:3.8; 95% CI:2.5–5.8, females: 2.9;2.4–3.5), daily headache (males: 5.3;2.8–10.1, females:1.9; 1.5–2.4), high medication use (males: 3.2;1.7-6.0, females: 2.0;1.6–2.6), self-harm (males: 3.8;2.4-6.0, females:3.2; 2.6–3.9), suicidal thoughts (males: 3.3; 2.2-5.0, females:3.0; 2.5–3.6) and suicide attempts (males: 9.5;5.6–16.0, females:3.6;2.7–4.9). Furthermore, exposure to sexual abuse was associated with higher odds of using school health services (males: 3.9;2.6–5.9, females: 1.6;1.3–1.9) and health services for youth (males: 4.8;3.1–7.6, females: 2.1;1.7–2.5). In general, substance use was associated with increased odds of adverse health related outcomes and use of youth health services, but the strength of the relationships varied according to sex. Finally, results indicated a significant interaction between sexual abuse and smoking that was associated with increased odds of having suicidal thoughts for males (2.6;1.1–6.5) but a decreased odds of having suicidal thoughts and have conducted suicide attempts once or more for females (0.6;0.4-1.0 and 0.5;0.3–0.9, respectively). ConclusionsThe present study confirmed a strong relationship between exposure to sexual abuse and health risks, especially among males. Moreover, males exposed to sexual abuse were much more likely to use youth health services compared to sexually abused females. Substance use was also associated with adverse health outcomes and use of youth health services, and interactions between sexual abuse and smoking seemed to influence risk of suicidal thoughts and attempts differently according to sex. Results from this study increase knowledge about possible health related effects of sexual abuse which should be used to identify victims and provide targeted treatment by youth health services.
+  </article>
   <article id="contributors-article-YHG8L2TR" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

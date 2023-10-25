@@ -1,5 +1,5 @@
 ---
-title: "88QDYPB2"
+title: "Coordinating Flows of Organisational Knowledge: The Role of the Corporate University"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-88QDYPB2" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1470994" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/88QDYPB2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-88QDYPB2" class="csl-bib-button">Samandrag</a>
     <a href="#sdg-article-88QDYPB2" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://dspace.spbu.ru/bitstream/11701/6704/1/03-Konovalenko.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-88QDYPB2"></div>
 </article>
 <div id="csl-bib-meta-88QDYPB2" class="csl-bib-meta">
+  <article id="abstract-article-88QDYPB2" class="abstract-article">
+    <h1>Samandrag</h1>
+    This paper seeks to advance the understanding of the corporate university phenomenon by addressing the role that a corporate university plays in coordinating the flows of organisational knowledge. Drawing on the longitudinal in-depth case study of Severstal Corporate University, we illustrate how a corporate university contributes to dynamic knowledge management in the company by serving as a coordinator of its knowledge flows. The study provides evidence of how a corporate university — by performing three different knowledge-coordinating roles — operates as a corporate function to support evolving business strategies during different periods of organisational development. The findings suggest the following roles of a corporate university are related to the coordination of knowledge flows: knowledge-harmonising, knowledge-disseminating, and knowledge-centralising. As a result of the study, a corporate university appears as a dynamic concept with development stages that can be explained from a teleological rather than life cycle perspective. That is, a corporate university’s development is driven by its changing purpose and goals that are constructed and reconstructed according to the evolving knowledge needs of its parent company.
+  </article>
   <article id="sdg-article-88QDYPB2" class="sdg-article">
     <h1>Berekraftsmål</h1>
     <div class="sdg-container"><div id="sdg12" class="sdg">

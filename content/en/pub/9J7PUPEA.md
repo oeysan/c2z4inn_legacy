@@ -1,5 +1,5 @@
 ---
-title: "9J7PUPEA"
+title: "Tick Size and Price Reversal after Order Imbalance"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9J7PUPEA" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1903183" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9J7PUPEA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-9J7PUPEA" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-9J7PUPEA" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-9J7PUPEA" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/2227-7072/9/2/19/pdf?version=1617701230" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-9J7PUPEA"></div>
 </article>
 <div id="csl-bib-meta-9J7PUPEA" class="csl-bib-meta">
+  <article id="abstract-article-9J7PUPEA" class="abstract-article">
+    <h1>Abstract</h1>
+    It is well known that intraday returns tend to reverse the following intraday period, conditional on excess buying pressure on the bid or ask side. This suggests that liquidity providers “overreact” to order imbalance (OIB) by initially altering quotes so much that a negative autocorrelation is seen in mid-price returns. We investigate under which circumstances this behavior is most common. Specifically, it seems the tick size augments “OIB-reversal”. However, if the tick size is binding for much of the trading day, it has the opposite effect of censoring such reversals. In addition, if market liquidity is high, the reversal becomes more frequent.
+  </article>
   <article id="contributors-article-9J7PUPEA" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "KUP4RJ6H"
+title: "Sammensatte behov og store variasjoner: En studie av brukerorientering i kommunale tjenester til personer med nevrologiske tilstander"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KUP4RJ6H" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1861471" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KUP4RJ6H" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KUP4RJ6H" class="csl-bib-button">Medverkande</a>
     <a href="https://doi.org/10.18261/issn.2387-5984-2020-03-08" class="csl-bib-button">Unpaywall</a>
   </div>

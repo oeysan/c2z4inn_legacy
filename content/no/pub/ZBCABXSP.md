@@ -1,5 +1,5 @@
 ---
-title: "ZBCABXSP"
+title: "Effects of experimental rewilding on butterflies, bumblebees and grasshoppers"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZBCABXSP" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2050238" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZBCABXSP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ZBCABXSP" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-ZBCABXSP" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-ZBCABXSP" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s10841-022-00420-4.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-ZBCABXSP"></div>
 </article>
 <div id="csl-bib-meta-ZBCABXSP" class="csl-bib-meta">
+  <article id="abstract-article-ZBCABXSP" class="abstract-article">
+    <h1>Samandrag</h1>
+    Grassland ecosystems are species-rich habitats that are rapidly declining globally posing serious concerns for biodiversity conservation. This situation is particularly relevant in agricultural areas in Europe. As traditional management practices and livestock grazing regimes ceased, rewilding could be a potential avenue to tackle current biodiversity declines. To test this hypothesis, we set up a 3-year experiment where 12 horses were introduced in three 10-hectare enclosure replicates (four horses per enclosure). Horses were kept without supplementary feeding to mimic ecosystem functions of wild horses. We applied Generalized Linear Mixed Effects Models and a backward stepwise model selection procedure to elucidate factors that modulate insect richness induced by grazing. Our results show that plant species richness, the proportion of flowers and plant height play a significant role for butterfly and bumblebee richness, while the opposite effect was detected for grasshoppers. However, the effect on grasshoppers was counterbalanced by increased grasshopper species richness in habitats adjacent to horse latrines. Implications for insect conservationRewilding with horses may offset current biodiversity declines by maintaining important functional links between plants and pollinators in grassland ecosystems. Horse grazing can however have different effects on diverse functional groups of insects. Application of integrative landscape scale approaches may be needed to elucidate the effects of rewilding for certain functional groups such as grasshoppers. With current biodiversity declines, up-scaling rewilding research and practice might be crucial to mitigate the pervasive effects on insects as their services and functions are critical for our existence.
+  </article>
   <article id="contributors-article-ZBCABXSP" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

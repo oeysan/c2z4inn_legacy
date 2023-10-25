@@ -1,5 +1,5 @@
 ---
-title: "BPG6KX6F"
+title: "Implementing Virtual Reality in K-12 Classrooms: Lessons Learned from Early Adopters"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BPG6KX6F" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1920308" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/BPG6KX6F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-BPG6KX6F" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-BPG6KX6F" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-BPG6KX6F" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-981-16-2834-4_12" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-BPG6KX6F"></div>
 </article>
 <div id="csl-bib-meta-BPG6KX6F" class="csl-bib-meta">
+  <article id="abstract-article-BPG6KX6F" class="abstract-article">
+    <h1>Abstract</h1>
+    There is very little research on K-12 education outside designated research studies on how teachers use VR for learning. This study addresses gap in research by asking: How did teachers start with VR and how do they use it? We interviewed nine teachers from different primary, lower secondary, and upper secondary schools—who had one to five years of experience with VR—among the first to include VR in their teaching, making them early adopters. All schools used HDMs, but the number, brand, and model varied. VR was used to teach various subjects and topics, but mostly for a limited part of the lesson. Due to the limited number of HMDs, the teaching was often organized as stations, where the students took turns using the HMDs and working on other tasks related to the theme. This requires good planning from the teacher and a certain degree of self-regulation among the students, as the teacher’s eyes and ears are on the student(s) wearing the HMDs. The early adoption of VR sometimes encountered challenges related to technical (e.g., firewalls) or ethical issues (e.g., privacy), but some argued that for innovation to happen, it was necessary to “act first and ask later”.
+  </article>
   <article id="contributors-article-BPG6KX6F" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -59,7 +64,7 @@ Room 2M34-2
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

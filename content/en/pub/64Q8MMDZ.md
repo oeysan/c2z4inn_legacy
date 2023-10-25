@@ -1,5 +1,5 @@
 ---
-title: "64Q8MMDZ"
+title: "Factors Associated with the Establishment of New Occupational Therapist Positions in Norwegian Municipalities after the Coordination Reform"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-64Q8MMDZ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1898291" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/64Q8MMDZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-64Q8MMDZ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-64Q8MMDZ" class="csl-bib-button">Contributors</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/1178632921994908" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-64Q8MMDZ"></div>
 </article>
 <div id="csl-bib-meta-64Q8MMDZ" class="csl-bib-meta">
+  <article id="abstract-article-64Q8MMDZ" class="abstract-article">
+    <h1>Abstract</h1>
+    Community-based occupational therapy is an increasingly important domain of work for occupational therapists. In Norway, this has been emphasized by the Coordination reform (2012), which assigned municipalities increased responsibility to protect and promote the health of their inhabitants. However, even if approximately 400 positions have been established between 2012 and 2017, little is known whether they have contributed to increased and/or more equal coverage across municipalities. To explore this matter, survey data was gathered among members of the Norwegian Occupational Therapy Association during 2017. Data was analyzed statistically (descriptive, comparative and associative) with SPSS 25. Results suggest large regional variations in the establishment of new positions. Moreover, most new positions were established in medium-sized municipalities that already had (an) occupational therapist(s) in the community. Number of prior positions, as well as being in the process of merging with another municipality were the only significant predictors for the establishment of new positions during regression analysis. Findings suggest that no levelling-out of geographical distributions of OT-coverage has occurred, even if new positions might have contributed to level-out workload (number-of-patients-per-therapist). Further, we discuss implications of our findings for policy-making and recruitment of Occupational Therapists for rural positions.
+  </article>
   <article id="contributors-article-64Q8MMDZ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

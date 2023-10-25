@@ -1,5 +1,5 @@
 ---
-title: "W5KSBNXQ"
+title: "From clear lakes to murky waters – tracing the functional response of high‐latitude lake communities to concurrent ‘greening’ and ‘browning’"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-W5KSBNXQ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1680302" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/W5KSBNXQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://jyx.jyu.fi/bitstream/123456789/66477/1/hayden%20et%20al%20%20ecol%20lettaccepted.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-W5KSBNXQ"></div>

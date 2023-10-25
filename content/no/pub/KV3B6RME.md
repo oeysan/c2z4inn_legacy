@@ -1,5 +1,5 @@
 ---
-title: "KV3B6RME"
+title: "Student characteristics associated with dominant approaches to studying: Comparing a national and an international sample"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KV3B6RME" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1835397" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KV3B6RME" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KV3B6RME" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-KV3B6RME" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-KV3B6RME" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ira.lib.polyu.edu.hk/bitstream/10397/97282/1/Fong_Student_Characteristics_Associated.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,18 @@ type: pub
   <div id="csl-bib-meta-container-KV3B6RME"></div>
 </article>
 <div id="csl-bib-meta-KV3B6RME" class="csl-bib-meta">
+  <article id="abstract-article-KV3B6RME" class="abstract-article">
+    <h1>Samandrag</h1>
+    BACKGROUND: Productive approaches to studying (deep and strategic learning) are associated with a variety of favourable academic outcomes, and may be of particular importance for students in multifaceted and complex disciplines such as occupational therapy. 
+ 
+AIM: To explore associations between student characteristics and their dominant approaches to studying in two samples of occupational therapy students: a national sample of Norwegian first-year students, and an international sample of students in different year cohorts (Australia, Hong Kong, Singapore and Norway). 
+ 
+MATERIALS AND METHODS: A total of 180 (national sample) and 665 (international sample) students were included in the study. Approaches to studying were measured with the Approaches to Study Skills Inventory for Students (ASSIST). Data were analyzed with adjusted multinomial regression analyses. 
+ 
+RESULTS: Age, gender and prior higher education were not associated with the dominant study approach. More time spent on independent study (international sample: OR = 1.07/1.08, p &lt; 0.01/&lt;0.001) and having current study program as the top priority line of education at enrolment (national sample: OR = 2.89, p &lt; 0.05) predicted productive study approaches. 
+ 
+CONCLUSIONS AND SIGNIFICANCE: Factors such as age, gender and prior higher education seem to be of limited importance for understanding students’ dominant approaches to studying.
+  </article>
   <article id="contributors-article-KV3B6RME" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "7WHYF4CE"
+title: "Common Bean Genetics, Breeding, and Genomics for Adaptation to Biotic Stress Conditions"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7WHYF4CE" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2014760" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/7WHYF4CE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-7WHYF4CE" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-7WHYF4CE" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-7WHYF4CE" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://link.springer.com/content/pdf/bfm:978-3-030-91043-3/1?pdf=chapter%20toc" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,12 @@ type: pub
   <div id="csl-bib-meta-container-7WHYF4CE"></div>
 </article>
 <div id="csl-bib-meta-7WHYF4CE" class="csl-bib-meta">
+  <article id="abstract-article-7WHYF4CE" class="abstract-article">
+    <h1>Abstract</h1>
+    Sustainable Development Goal 2 from the United Nations (Zero Hunger) states that there is a pressing need for increasing food production and quality through sustainable agricultural practices to feed the ever-growing human population. One of the key aspects to achieve a sustainable food production is to control plant pests, diseases and weeds through integrated crop management which mainly aims at reducing the widespread use of phytochemicals due to their persistence in the air, 
+soil, water and food, as well as the development of biotic stress such as parasite resistance. Legume crops plants are, after cereals, the main source of food for the world population. These plants provide proteins, carbohydrates, minerals, vitamins, oils, fiber and other compounds of high nutraceutical value and beneficial properties for human health. The common bean (Phaseolus vulgaris L.) is the most widely used food legume for direct human consumption, and is present in regional, national and international marketson all continents by small farmers and large producers, with both green pods and dried seeds being marketed. Like other crops, beans need to adapt to changing conditions, in the current conditions of climate change. These conditions are producing new situations of abiotic and biotic stresses (mainly pests and diseases).Genetic improvement of the common bean includes the knowledge of its genetic diversity and the genome and gene function in response to the current changing environmental conditions. An important long-term challenge is the knowledge of the gene(s) that control relevant traits such as pest and disease tolerance/resistance that affects the crop yield and food security. New technologies built 
+around the recently released common bean genome sequence that facilitates the arise of genomic resources, but they need the support of phenotypic data. Generating new bean cultivars or genotypes with enhanced resistance to different parasitesand new knowledge on possible innovative control methods are relevant for the improvement of a sustainable productivity of bean and its quality in different agrosystems.
+  </article>
   <article id="contributors-article-7WHYF4CE" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

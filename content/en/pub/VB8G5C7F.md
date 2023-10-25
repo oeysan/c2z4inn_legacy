@@ -1,5 +1,5 @@
 ---
-title: "VB8G5C7F"
+title: "Carcasses at Fixed Locations Host a Higher Diversity of Necrophilous Beetles"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VB8G5C7F" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1954278" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VB8G5C7F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-VB8G5C7F" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-VB8G5C7F" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-VB8G5C7F" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/2075-4450/12/5/412/pdf?version=1620286013" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-VB8G5C7F"></div>
 </article>
 <div id="csl-bib-meta-VB8G5C7F" class="csl-bib-meta">
+  <article id="abstract-article-VB8G5C7F" class="abstract-article">
+    <h1>Abstract</h1>
+    In contrast to other necromass, such as leaves, deadwood, or dung, the drivers of insect biodiversity on carcasses are still incompletely understood. For vertebrate scavengers, a richer community was shown for randomly placed carcasses, due to lower competition. Here we tested if scavenging beetles similarly show a higher diversity at randomly placed carcasses compared to easily manageable fixed places. We sampled 12,879 individuals and 92 species of scavenging beetles attracted to 17 randomly and 12 at fixed places exposed and decomposing carcasses of red deer, roe deer, and red foxes compared to control sites in a low range mountain forest. We used rarefaction-extrapolation curves along the Hill-series to weight diversity from rare to dominant species and indicator species analysis to identify differences between placement types, the decay stage, and carrion species. Beetle diversity decreased from fixed to random locations, becoming increasingly pronounced with weighting of dominant species. In addition, we found only two indicator species for exposure location type, both representative of fixed placement locations and both red listed species, namely Omosita depressa and Necrobia violacea. Furthermore, we identified three indicator species of Staphylinidae (Philonthus marginatus and Oxytelus laqueatus) and Scarabaeidae (Melinopterus prodromus) for larger carrion and one geotrupid species Anoplotrupes stercorosus for advanced decomposition stages. Our study shows that necrophilous insect diversity patterns on carcasses over decomposition follow different mechanisms than those of vertebrate scavengers with permanently established carrion islands as important habitats for a diverse and threatened insect fauna.
+  </article>
   <article id="contributors-article-VB8G5C7F" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

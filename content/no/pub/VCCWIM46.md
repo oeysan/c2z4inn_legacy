@@ -1,5 +1,5 @@
 ---
-title: "VCCWIM46"
+title: "A Farewell to the World? Non-Western History in Norwegian Curricula"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VCCWIM46" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1583382" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VCCWIM46" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VCCWIM46" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-VCCWIM46"></div>

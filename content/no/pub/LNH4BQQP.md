@@ -1,5 +1,5 @@
 ---
-title: "LNH4BQQP"
+title: "«DU SKAL IKKE MOBBE». En psykoanalytisk revolusjon i tilnærmingen til mobbing?"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,22 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LNH4BQQP" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1742423" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LNH4BQQP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-LNH4BQQP" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-LNH4BQQP" class="csl-bib-button">Medverkande</a>
     <a href="https://pedagogikkogkritikk.no/index.php/ntpk/article/download/1580/4036" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LNH4BQQP"></div>
 </article>
 <div id="csl-bib-meta-LNH4BQQP" class="csl-bib-meta">
+  <article id="abstract-article-LNH4BQQP" class="abstract-article">
+    <h1>Samandrag</h1>
+    Hva innebærer det å ta psykoanalysens ide om det ubevisste på alvor i tilnærmingen til mobbeproblemet i skolen? Artikkelen undersøker problemstillingen i en todelt analyse som er inspirert av psykoanalytikeren Jacques Lacans diskursive typologi og filosofen Jacques Derridas behandling av to verdibegreper: rettferdighet og gjestfrihet. I del 1 undersøkes meningsskapende strukturer 
+og prosesser som er på spill i mobbingen og i kampen mot mobbing med utgangspunkt i Lacans fire idealtypiske diskurser. Analysen viser at både mobbingen og kampen mot mobbing skriver seg inn i diskurser som gjenfinnes i en rekke sammenhenger, noe som synes å bidra til status quo 
+i mobbefeltet. Det argumenteres derfor for å flytte oppmerksomheten fra å implementere tiltak i eksisterende diskurser til å ønske velkommen en praksis som rokker ved selve grunnlaget for at diskurser kan oppstå og opprettholdes; en praksis som dermed ikke kan presenteres i en diskurs. I del 2 undersøker forfatterne muligheten av et slikt fokus-skifte i lys av Derridas begrepspraksis knyttet 
+til rettferdighet og gjestfrihet. Psykoanalysens prinsipp om det ubevisste forbindes her med et nådeløst ansvar (Derrida, 2002b, s. 38). Denne praksisen vil være basert på et annet grunnlag enn det som mobbingen og kampen mot mobbing tradisjonelt baseres på; nemlig etablerte diskurser. Forfatterne betegner dette andre grunnlaget som en revolusjonær ansvarlighetspraksis.
+  </article>
   <article id="contributors-article-LNH4BQQP" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

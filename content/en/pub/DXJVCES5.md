@@ -1,5 +1,5 @@
 ---
-title: "DXJVCES5"
+title: "Teaching health in physical education: An action research project"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DXJVCES5" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2019908" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DXJVCES5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-DXJVCES5" class="csl-bib-button">Abstract</a>
     <a href="#sdg-article-DXJVCES5" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/1356336X221078319" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-DXJVCES5"></div>
 </article>
 <div id="csl-bib-meta-DXJVCES5" class="csl-bib-meta">
+  <article id="abstract-article-DXJVCES5" class="abstract-article">
+    <h1>Abstract</h1>
+    In the Norwegian curriculum for physical education (PE), health is one of several topics students should learn about. However, the way in which many educators conceptualize health can impact both what students learn and how health is taught in PE. According to Mong and Standal (2019) , differences in terms of the conceptualizations of health can also lead to differences in teachers’ didactical approaches. This article is based on an action research project in which the overall goal was to investigate how didactic work can contribute to developing the teaching of health in PE. The project included an action research phase and qualitative interviews. The project, conducted in Norway, lasted almost one school year and was divided into two units. One teacher and 48 students aged 14–15 years participated in the action research project, which included eight lessons. We conducted qualitative interviews with the teacher and six students after the completion of the action research phase. In our analysis, we identified three topics addressed by both the students and the teacher, namely ‘the use of logbooks as a method for reflection’, ‘awareness of health as a knowledge object’ and ‘developing confidence in how to teach health’. Through the use of a didactic approach to health, both the students and teacher developed new reflections on and awareness of health. The findings indicate that it was professional development which subsequently impacted didactic decisions, dialogues about how health was taught and the teacher’s confidence in teaching health.
+  </article>
   <article id="sdg-article-DXJVCES5" class="sdg-article">
     <h1>Sustainable Development Goals</h1>
     <div class="sdg-container"><div id="sdg4" class="sdg">

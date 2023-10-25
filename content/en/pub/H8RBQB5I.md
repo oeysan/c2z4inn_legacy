@@ -1,16 +1,16 @@
 ---
-title: "H8RBQB5I"
+title: "Modelling aspects of the dynamics of the industrial vanadium cycle in a sustainability perspective using the WORLD7 Integrated Assessment Model"
 type: pub
 ---
 <h1>Publication</h1>
 <article id="csl-bib-container-H8RBQB5I" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Sverdrup, H. U., &amp; Olafsdottir, A. H. (2023). Modelling aspects of the dynamics of the industrial vanadium cycle in a sustainability perspective using the WORLD7 Integrated Assessment Model. <i>Resources, Environment and Sustainability</i>, <i>13</i>(September 2023). <a href="https://doi.org/10.1016/j.resenv.2023.100121">https://doi.org/10.1016/j.resenv.2023.100121</a></div>
+  <div class="csl-entry">Sverdrup, H. U., &amp; &#xD3;lafsd&#xF3;ttir, A. H. (2023). Modelling aspects of the dynamics of the industrial vanadium cycle in a sustainability perspective using the WORLD7 Integrated Assessment Model. <i>Resources, Environment and Sustainability</i>, <i>13</i>(September 2023). <a href="https://doi.org/10.1016/j.resenv.2023.100121">https://doi.org/10.1016/j.resenv.2023.100121</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-H8RBQB5I" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2141690" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/H8RBQB5I" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-H8RBQB5I" class="csl-bib-button">Contributors</a>
     <a href="https://doi.org/10.1016/j.resenv.2023.100121" class="csl-bib-button">Unpaywall</a>
   </div>

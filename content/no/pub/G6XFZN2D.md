@@ -1,5 +1,5 @@
 ---
-title: "G6XFZN2D"
+title: "Circulating cytokine levels in the treatment of comorbid anxiety disorders"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-G6XFZN2D" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1872957" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/G6XFZN2D" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-G6XFZN2D" class="csl-bib-button">Medverkande</a>
     <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A5D1AEE3CAC485178A2E3797883F0C2A/S0924270820000381a.pdf/div-class-title-circulating-cytokine-levels-in-the-treatment-of-comorbid-anxiety-disorders-div.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

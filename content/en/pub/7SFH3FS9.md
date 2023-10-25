@@ -1,5 +1,5 @@
 ---
-title: "7SFH3FS9"
+title: "Testing the influence of habitat experienced during the natal phase on habitat selection later in life in Scandinavian wolves"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7SFH3FS9" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1699845" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/7SFH3FS9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-7SFH3FS9" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-7SFH3FS9" class="csl-bib-button">Contributors</a>
     <a href="https://www.nature.com/articles/s41598-019-42835-1.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7SFH3FS9"></div>
 </article>
 <div id="csl-bib-meta-7SFH3FS9" class="csl-bib-meta">
+  <article id="abstract-article-7SFH3FS9" class="abstract-article">
+    <h1>Abstract</h1>
+    Natal habitat preference induction (NHPI) occurs when characteristics of the natal habitat influence the future habitat selection of an animal. However, the influence of NHPI after the dispersal phase has received remarkably little attention. We tested whether exposure to humans in the natal habitat helps understand why some adult wolves Canis lupus may approach human settlements more than other conspecifics, a question of both ecological and management interest. We quantified habitat selection patterns within home ranges using resource selection functions and GPS data from 21 wolf pairs in Scandinavia. We identified the natal territory of each wolf with genetic parental assignment, and we used human-related characteristics within the natal territory to estimate the degree of anthropogenic influence in the early life of each wolf. When the female of the adult wolf pair was born in an area with a high degree of anthropogenic influence, the wolf pair tended to select areas further away from humans, compared to wolf pairs from natal territories with a low degree of anthropogenic influence. Yet the pattern was statistically weak, we suggest that our methodological approach can be useful in other systems to better understand NHPI and to inform management  about human-wildlife interactions.
+  </article>
   <article id="contributors-article-7SFH3FS9" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

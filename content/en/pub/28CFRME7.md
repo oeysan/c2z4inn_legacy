@@ -1,5 +1,5 @@
 ---
-title: "28CFRME7"
+title: "Compatibility of Concurrent Aerobic and Strength Training for Skeletal Muscle Size and Function: An Updated Systematic Review and Meta-Analysis"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-28CFRME7" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1957950" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/28CFRME7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-28CFRME7" class="csl-bib-button">Contributors</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s40279-021-01587-7.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

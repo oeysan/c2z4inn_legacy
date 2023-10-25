@@ -1,5 +1,5 @@
 ---
-title: "S47UFVRC"
+title: "Introduction: cooperation, conflict, and interaction in the global commons"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-S47UFVRC" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1936178" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/S47UFVRC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-S47UFVRC" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-S47UFVRC" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-S47UFVRC" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/00471178211036598" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-S47UFVRC"></div>
 </article>
 <div id="csl-bib-meta-S47UFVRC" class="csl-bib-meta">
+  <article id="abstract-article-S47UFVRC" class="abstract-article">
+    <h1>Samandrag</h1>
+    The global commons – the High Seas, Antarctica, the Atmosphere, and Outer Space – are resource domains outside the authority of states. Historically, the global commons have been practically inaccessible and thus rarely subject to sovereignty claims and international regulations. With technological advances and environmental developments, the global commons have become a key site for international relations (hereinafter IR). In spite of often competing claims from state and non-state actors to these areas, the global commons have remained mainly cooperative. This is not what one would expect from most IR perspectives in a close to anarchical environment and a volatile geopolitical international environment. This Special Issue sets out to address this puzzle by asking: To what extent and why is there little conflict in the global commons? For this purpose, this introduction develops a common framework that distinguishes between three models and corresponding hypotheses of the factors affecting the level of cooperation and conflict in these domains. While two are based on realist and liberal IR perspectives, we draw on constructivism, political theory, and law to develop a third model, called the Human Heritage model. To conclude, this introduction also sums up the findings and discusses their implications for the global commons and IR studies.
+  </article>
   <article id="contributors-article-S47UFVRC" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "GEQJGEUH"
+title: "The role of aesthetic experiential qualities for tourist satisfaction and loyalty"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GEQJGEUH" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1560389" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/GEQJGEUH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-GEQJGEUH" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-GEQJGEUH" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-GEQJGEUH" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/IJCTHR-07-2017-0082" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-GEQJGEUH"></div>
 </article>
 <div id="csl-bib-meta-GEQJGEUH" class="csl-bib-meta">
+  <article id="abstract-article-GEQJGEUH" class="abstract-article">
+    <h1>Samandrag</h1>
+    PurposeThe aim of this study is to examine the role of aesthetic experiential qualities for tourist overall satisfaction and three types of loyalty. Design/methodology/approachA national tourist route in Norway was chosen as an empirical context for this study. Totally, the role of five aesthetic experiential qualities were examined, namely, scenery, cleanliness harmony, art/architecture and genuineness. FindingsThe findings reveal that the three aesthetic experiential qualities, scenery, harmony and genuineness, were all positively related to tourist overall satisfaction with the tourist road. Moreover, tourist overall satisfaction had a direct influence on three types of loyalty, referring to tourists’ intentions to recommend the tourist road to other, to revisit same tourist road and to visit similar tourist roads in the future. However, the findings reveal that only two aesthetic qualities, cleanliness and genuineness, had a direct effect on intention to revisit the same tourist road, and thus indicates a more complex explanatory pattern concerning tourist loyalty. Research limitations/implicationsThis study is limited to five aesthetic experiential qualities in a specific nature-based tourist context. The results open up some of the areas for future research on the role of aesthetics in man-made environments (in addition to the natural environment) in nature-based tourism. When most of the other variables are similar, aesthetic experiential qualities may make a difference to a nature-based product’s performance, and thus provide the competitive edge. Practical implicationsDestination managers and marketers should focus on aesthetic experiential qualities to increase tourist satisfaction and loyalty, and thereby strengthen a destination competitiveness and value creation. Originality/valueResponding to the need to focus on aesthetic experiential qualities in a nature-based tourism context, this study measures the effects of the aesthetic experiential qualities for tourist satisfaction and loyalty in an original destination setting.
+  </article>
   <article id="contributors-article-GEQJGEUH" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "ZWSM4HSZ"
+title: "Andrespråkslæring hos voksne: vitenskapelige innsikter og didaktiske refleksjoner"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,28 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZWSM4HSZ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1893820" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZWSM4HSZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ZWSM4HSZ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-ZWSM4HSZ" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-ZWSM4HSZ"></div>
 </article>
 <div id="csl-bib-meta-ZWSM4HSZ" class="csl-bib-meta">
+  <article id="abstract-article-ZWSM4HSZ" class="abstract-article">
+    <h1>Samandrag</h1>
+    Hvordan lærer voksne norsk som andrespråk? 
+ 
+Hvordan bør språkopplæringen være? 
+ 
+De fleste utgivelsene innen norsk som andrespråk handler om barns læring av norsk i skolen og i barnehagen. Voksne innlærere har ikke fått like stor oppmerksomhet i forskningen. Voksne lærer imidlertid ikke språk helt på samme måte som barn, og voksnes språklæring skjer i andre kontekster og under andre betingelser. Derfor er det viktig med en oppdatert bok om andrespråkslæring hos voksne spesielt, både for forskningens del og for didaktisk refleksjon. 
+ 
+Denne boka presenterer ny kunnskap om andrespråkslæring og andrespråksdidaktikk for voksne. Sentrale temaer er morsmålsbegrepet, språklige repertoar, investering, identitet, ordforråd, syntaks, numerasitet, lese- og skriveutvikling, Norskprøven, språkkrav og jobbintervjuer. 
+ 
+Forfatterne er forskere innen flerspråklighet og språklæring, og de undersøker temaene fra ulike perspektiver; kritiske, sosiolingvistiske, sosiokulturelle og kognitive. De drøfter også hvilke konsekvenser de nye innsiktene bør få for norskopplæringen. 
+ 
+Boka er aktuell for alle som er involvert i andrespråksfeltet og språkopplæringen i norsk, som politikere, forskere, studenter og skolefolk. Den er særlig nyttig for lærere som underviser voksne i norsk som andrespråk.
+  </article>
   <article id="contributors-article-ZWSM4HSZ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

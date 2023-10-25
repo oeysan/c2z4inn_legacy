@@ -1,5 +1,5 @@
 ---
-title: "QSKTIM9K"
+title: "EU-Russian Gas Trade and the Shortcomings of International Law"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QSKTIM9K" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1496020" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/QSKTIM9K" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-QSKTIM9K" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-QSKTIM9K" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-QSKTIM9K"></div>
 </article>
 <div id="csl-bib-meta-QSKTIM9K" class="csl-bib-meta">
+  <article id="abstract-article-QSKTIM9K" class="abstract-article">
+    <h1>Samandrag</h1>
+    This article studies the impacts of international law on the political manoeuvring rooms for Russia and the EU in the natural gas sector. Russian energy policy, with its long tradition of strong state control, conflicts with the EU, which represents a far more liberal economic ideology, both in terms of for whom policy should work and how it should be performed. Legally, natural resources are not widely regulated. In this void, while both sides pressure legal cases to make or prevent, respectively, Russia moving towards a Western-styled policy, the private sector provides solutions for specific cases in which state action is insufficient or non-existent. The article asks to which extent Russia, pressured by international law, eventually will adopt an energy policy aligned to the West. It concludes that Russia’s steps towards greater economic integration with the outside world leads to greater similarities with the West in legal forms and processes. However, path-dependencies dominating society and politics, and the particularities of the energy industry, indicate that domestic Russian energy policy and external gas export policy may not necessarily lead to the same degree of similarity in actual political content, and, hence, real political convergence with the West.
+  </article>
   <article id="contributors-article-QSKTIM9K" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "DKHHPQLS"
+title: "Elektronisk studentvurdering i praksisstudier. Fremmer det kvalitet og effektivitet?"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,32 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DKHHPQLS" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1901608" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DKHHPQLS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-DKHHPQLS" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-DKHHPQLS" class="csl-bib-button">Contributors</a>
     <a href="https://doi.org/10.18261/issn.1893-8981-2021-01-07" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-DKHHPQLS"></div>
 </article>
 <div id="csl-bib-meta-DKHHPQLS" class="csl-bib-meta">
+  <article id="abstract-article-DKHHPQLS" class="abstract-article">
+    <h1>Abstract</h1>
+    Introduksjon: Praksisstudier utgjør fra 30–50 % av læringsaktivitetene i bachelorstudier innen helse- og sosialfagene. Praksisfeltet og utdanningsinstitusjonen har felles ansvar for å samarbeid om tilrettelegging av et læringsmiljø for studentene som gir mulighet for å oppnå læringsutbyttene. Både helsesektoren og universitets- og høgskolesektoren på nasjonalt nivå etterspør tekniske løsninger for å øke relevans, kvalitet og effektivitet i samhandlingen mellom partene i forbindelse med praksisstudier. 
+ 
+Hensikt: Å styrke kvalitet og effektivitet i vurderingen av sykepleiestudenter i praksisstudier. 
+ 
+Metode: Inspirert av aksjonsforskning, med reelt gjensidig samarbeid mellom helseinstitusjonene og utdanningsinstitusjonene. Utvalget var studenter, veiledere og kontaktlærere ved seks sykehusavdelinger. Elektronisk studentvurdering (ESV) ble utviklet og prøvd ut gjennom fire praksisperioder i spesialisthelsetjenesten. 
+ 
+Resultater: ESV kan gi økt kontinuitet i studentveiledningen, skape større grad av felles forståelse for vurderingsgrunnlaget og tilrettelegge for hensiktsmessig tidsbruk i forbindelse med praksisstudier. Stort potensiale for kvalitetsutvikling av praksisstudier ligger i muligheten ESV gir for kontaktlærers regelmessige oppfølging av student og veileder. 
+ 
+Konklusjon: For å utnytte ESVs potensiale fullt ut er lederforankring i både utdanningsinstitusjonen og praksisarenaen viktig for å sikre engasjerte og aktive studenter, veiledere og kontaktlærere. Mulighetene er store for å videreutvikle ESV for bruk i kommunehelsetjenesten og for andre profesjonsutdanninger med praksisstudier i sitt program. 
+ 
+Nøkkelord: elektronisk verktøy, praksisstudier, vurdering, sykepleiestudent 
+ 
+Copyright © 2021 Author(s). This is an open access article distributed under the terms of the Creative Commons CC BY 4.0 License (https:// 
+creativecommons.org/licenses/by/4.0/).
+  </article>
   <article id="contributors-article-DKHHPQLS" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

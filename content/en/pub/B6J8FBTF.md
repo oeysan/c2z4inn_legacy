@@ -1,5 +1,5 @@
 ---
-title: "B6J8FBTF"
+title: "The Norwegian 1.Lecturer – Shunned or Lost and Found?"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-B6J8FBTF" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1928948" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/B6J8FBTF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-B6J8FBTF" class="csl-bib-button">Contributors</a>
     <a href="https://articlegateway.com/index.php/JHETP/article/download/4494/4273" class="csl-bib-button">Unpaywall</a>
   </div>

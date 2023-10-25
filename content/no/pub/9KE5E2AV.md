@@ -1,5 +1,5 @@
 ---
-title: "9KE5E2AV"
+title: "The Role of Tryptophan Dysmetabolism and Quinolinic Acid in Depressive and Neurodegenerative Diseases"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9KE5E2AV" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2050250" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9KE5E2AV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-9KE5E2AV" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-9KE5E2AV" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-9KE5E2AV" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.mdpi.com/2218-273X/12/7/998/pdf?version=1658739095" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-9KE5E2AV"></div>
 </article>
 <div id="csl-bib-meta-9KE5E2AV" class="csl-bib-meta">
+  <article id="abstract-article-9KE5E2AV" class="abstract-article">
+    <h1>Samandrag</h1>
+    Emerging evidence suggests that neuroinflammation is involved in both depression and neurodegenerative diseases. The kynurenine pathway, generating metabolites which may play a role in pathogenesis, is one of several competing pathways of tryptophan metabolism. The present article is a narrative review of tryptophan metabolism, neuroinflammation, depression, and neurodegeneration. A disturbed tryptophan metabolism with increased activity of the kynurenine pathway and production of quinolinic acid may result in deficiencies in tryptophan and derived neurotransmitters. Quinolinic acid is an N-methyl-D-aspartate receptor agonist, and raised levels in CSF, together with increased levels of inflammatory cytokines, have been reported in mood disorders. Increased quinolinic acid has also been observed in neurodegenerative diseases, including Parkinson’s disease, Alzheimer’s disease, amyotrophic lateral sclerosis, and HIV-related cognitive decline. Oxidative stress in connection with increased indole-dioxygenase (IDO) activity and kynurenine formation may contribute to inflammatory responses and the production of cytokines. Increased formation of quinolinic acid may occur at the expense of kynurenic acid and neuroprotective picolinic acid. While awaiting ongoing research on potential pharmacological interventions on tryptophan metabolism, adequate protein intake with appropriate amounts of tryptophan and antioxidants may offer protection against oxidative stress and provide a balanced set of physiological receptor ligands.
+  </article>
   <article id="contributors-article-9KE5E2AV" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

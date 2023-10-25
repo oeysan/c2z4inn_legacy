@@ -1,5 +1,5 @@
 ---
-title: "ZWYNX6XM"
+title: "Integration of Care in Complex and Fragmented Service Systems: Experiences of Staff in Flexible Assertive Community Treatment Teams"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZWYNX6XM" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2050629" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZWYNX6XM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ZWYNX6XM" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-ZWYNX6XM" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-ZWYNX6XM" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://www.ijic.org/articles/10.5334/ijic.6011/galley/7692/download/" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,12 @@ type: pub
   <div id="csl-bib-meta-container-ZWYNX6XM"></div>
 </article>
 <div id="csl-bib-meta-ZWYNX6XM" class="csl-bib-meta">
+  <article id="abstract-article-ZWYNX6XM" class="abstract-article">
+    <h1>Samandrag</h1>
+    ntroduction:  To  provide  more  integrated  care,  several  countries  have  implemented  the Flexible Assertive Community Treatment (FACT) model. However, this model does not guarantee full integration, especially in complex and fragmented service systems like in Norway. Hence, we investigated which barriers that might reduce the potential for integrated care in the Norwegian system, as described by staff in FACT teams, and how they adjust their way of working to increase the opportunities for integration.Methods: Online focus group interviews involving 35 staff members of five Norwegian FACT  teams  were  conducted  using  a  semi-structured  interview  guide.  The  material  was analysed using thematic text analysis.Results:  Six  themes  described  the  barriers  to  integrated  care  in  the  service  system:  fragmentation,  different  legislation  and  digital  systems,  challenges  in  collaboration,  bureaucracy  and  limited  opening  hours.  Three  themes  described  adjustments  in  the  teams’ way of working to enhance integration: working as the responsible co-ordinator, being a collaborator, and the only entry channel into the service system.Conclusion:  The  FACT  team  staff  described  several  barriers  to  integration  within  the  system.  However,  they  made  some  adjustments  in  their  way  of  working  that  might  provide  opportunities  for  integrated  care  within  complex  and  fragmented  service  systems. 
+ 
+© 2022 The Author(s). This is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International License (CC-BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. See http://creativecommons.org/licenses/by/4.0/.
+  </article>
   <article id="contributors-article-ZWYNX6XM" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

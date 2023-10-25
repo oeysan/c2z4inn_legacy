@@ -1,5 +1,5 @@
 ---
-title: "GQHVXV4A"
+title: "Conceptualising Global Indigenous and Indigenist models of Inclusive and Equitable Education"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GQHVXV4A" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2057972" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/GQHVXV4A" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-GQHVXV4A" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-GQHVXV4A" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-GQHVXV4A" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://doi.org/10.7459/wse/23.1.09" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-GQHVXV4A"></div>
 </article>
 <div id="csl-bib-meta-GQHVXV4A" class="csl-bib-meta">
+  <article id="abstract-article-GQHVXV4A" class="abstract-article">
+    <h1>Samandrag</h1>
+    The role of colonial education systems in the cultural genocide of Indigenous children in many countries is an urgent matter to be meticulously scrutinised in order to address structural inequities. It is time to envision and construct context-based authentically inclusive education. In this article, we critically examine and address structural inequities in education with examples from our own research in Sámi and First Nations contexts, and discuss possible implications for the inclusive education of all Indigenous children, with emphasis on the early years of education. Dominant models of special education are displayed followed by conceptualising Indigenous and Indigenist models as ways to reimagine, restructure and inspire the positive change towards inclusive equitable education from early years education and onward for diverse Indigenous children, and enhance the development of teacher education programmes.
+  </article>
   <article id="contributors-article-GQHVXV4A" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

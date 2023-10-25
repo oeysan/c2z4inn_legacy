@@ -1,5 +1,5 @@
 ---
-title: "DGVKG8MB"
+title: "Challenging Stereotypes? Norwegian Music Teachers’ Repertoires on Gender Roles and Gender-Expansiveness"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DGVKG8MB" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2153417" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DGVKG8MB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-DGVKG8MB" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-DGVKG8MB" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-DGVKG8MB" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/00224294231175859" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-DGVKG8MB"></div>
 </article>
 <div id="csl-bib-meta-DGVKG8MB" class="csl-bib-meta">
+  <article id="abstract-article-DGVKG8MB" class="abstract-article">
+    <h1>Samandrag</h1>
+    The 2020 Norwegian national curriculum for primary, lower secondary, and upper secondary education includes a “competence aim” after Year 7 that expects pupils to be able to “investigate how gender, gender roles, and sexuality are presented in music and dance in the public sphere and create expressions that challenge stereotypes.” This article reviews four focus group interviews in which music teachers discussed the relevance and application of the new competence aim and their own experiences with gender roles and gender-expansive expressions among their pupils in their music practices. Using analytical tools from the field of discourse psychology, we trace and identify the discursive resources or “repertoires” that music teachers draw on when approaching questions of gender roles, gender identities, and sexuality. While the repertoires in question imply that the teachers hold progressive views about gender identities and expressions, the notion of “ideological dilemmas” enables us to ask whether the progressive attitudes may in fact also work to confirm perceptions of normative, binary gender conformity, hence also delimiting the diversity and freedom of gender expression that the repertoires seem to celebrate. We suggest that a queer pedagogical thinking can offer music teachers tools to address topics related to gender roles, sexuality, and queerness in their music educational practices.
+  </article>
   <article id="contributors-article-DGVKG8MB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

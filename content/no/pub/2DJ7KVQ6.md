@@ -1,5 +1,5 @@
 ---
-title: "2DJ7KVQ6"
+title: "‘The Sound of Asking a Question’: Metalanguage and Crosslinguistic Awareness in Adults Learning Norwegian as an Additional Language"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2DJ7KVQ6" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2048287" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/2DJ7KVQ6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-2DJ7KVQ6" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-2DJ7KVQ6"></div>

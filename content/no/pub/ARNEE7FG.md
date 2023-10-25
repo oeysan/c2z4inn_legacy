@@ -1,5 +1,5 @@
 ---
-title: "ARNEE7FG"
+title: "Tidehverv. Litterær erindring i Ingeborg Refling Hagens 1920-tallsromaner Ugild, Valvarsel og Fostersverdet"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ARNEE7FG" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2020027" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ARNEE7FG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ARNEE7FG" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-ARNEE7FG"></div>

@@ -1,5 +1,5 @@
 ---
-title: "5HTKU6YZ"
+title: "Salmar, språk og reformasjon. Om Luther, Landstad og Blix. Til 150-årsjubileet for den norske salmereformasjonen (1869-1870)"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5HTKU6YZ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1711328" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/5HTKU6YZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-5HTKU6YZ" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-5HTKU6YZ"></div>

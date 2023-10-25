@@ -199,7 +199,7 @@ output:
                     4,
                     25,
                     12,
-                    58
+                    59
                 ],
                 "backgroundColor": "rgba(25, 72, 106, 1)",
                 "borderRadius": 0

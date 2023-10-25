@@ -1,5 +1,5 @@
 ---
-title: "W2B4LLJE"
+title: "Klimatilpasning – hvordan få det tilå skje? Betydningen av læring i nettverk"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-W2B4LLJE" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1854159" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/W2B4LLJE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-W2B4LLJE" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/issn.2535-6003-2020-03-02" class="csl-bib-button">EZproxy</a>
   </div>

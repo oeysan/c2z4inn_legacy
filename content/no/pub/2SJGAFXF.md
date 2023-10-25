@@ -1,5 +1,5 @@
 ---
-title: "2SJGAFXF"
+title: "Praksisnær undervisning: i praksis og teori"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2SJGAFXF" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1811920" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/2SJGAFXF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-2SJGAFXF" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-2SJGAFXF" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-2SJGAFXF"></div>
 </article>
 <div id="csl-bib-meta-2SJGAFXF" class="csl-bib-meta">
+  <article id="abstract-article-2SJGAFXF" class="abstract-article">
+    <h1>Samandrag</h1>
+    Våre studenter i høyere utdanning ønsker at studiene deres er nyttige og relevante for deres framtidige arbeidskarriere, personlige utvikling og sosiale liv. Myndighetene ønsker at graden av mestring og gjennomstrømming øker, og at arbeidskraften er optimalt tilpasset dagens marked og framtidas uvisse krav om å være fleksibel, lærevillig og ha generelle kompetanser. En universalløsning er å gjøre studiene mer «praksisnære». Vi utfordres til å få studenter bedre i stand til å resonnere og forberede seg for «det praktiske», enten vi arbeider med konvensjonelle teoretiske emner, i profesjonsutdanninger eller i etterutdanning. 
+ 
+Forfatterne av denne boka tar utgangspunkt i at arbeidet med å gjøre undervisningen – og dermed studiene – praksisnære ikke bare handler om yrkespraksis, men om praksis i vid forstand. Studenters virke på lærestedene, og de erfaringer og innsikter de bringer med seg inn og skaper seg gjennom å tilegne seg kompetanser, gjør dem også til praktikere. Å hjelpe dem til erkjennelse av egenverd, og til å se seg selv i det speilet av kunnskap, verdier og ferdigheter høyere utdanning kan være, er en av våre sentrale dannelsesoppgaver. Boka inneholder eksempler på hvordan studenter kan arbeide praksisnært og forskningsmessig, fra FoU-prosjekter knyttet til læring av fag, til teoretiske bidrag og til hvordan det teoretiske og det praktiske kan flyte sammen.
+  </article>
   <article id="contributors-article-2SJGAFXF" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

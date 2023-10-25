@@ -1,5 +1,5 @@
 ---
-title: "W5LVDJSF"
+title: "Nyttepoesi, politisk lyrikk, formgivning. Noen aspekter ved Ingeborg Refling Hagens 1930-tallsdikt i lys av samtidig poesi"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-W5LVDJSF" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2026271" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/W5LVDJSF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-W5LVDJSF" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-W5LVDJSF"></div>

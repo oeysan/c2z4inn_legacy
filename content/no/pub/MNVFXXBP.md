@@ -1,5 +1,5 @@
 ---
-title: "MNVFXXBP"
+title: "Når det enkle kan bli mer komplekst. Læreres refleksjoner om muligheter og utfordringer med bruk av nettbrett i barneskolen"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MNVFXXBP" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1568722" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/MNVFXXBP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-MNVFXXBP" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-MNVFXXBP"></div>

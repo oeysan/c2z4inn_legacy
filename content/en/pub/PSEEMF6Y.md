@@ -1,5 +1,5 @@
 ---
-title: "PSEEMF6Y"
+title: "Differences in sperm functionality and intracellular metabolites in Norwegian Red bulls of contrasting fertility"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PSEEMF6Y" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1822768" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PSEEMF6Y" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PSEEMF6Y" class="csl-bib-button">Contributors</a>
     <a href="https://doi.org/10.1016/j.theriogenology.2020.07.005" class="csl-bib-button">Unpaywall</a>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: "ZBTH5AFH"
+title: "Australian evidence on the role of interregional flows, production capacity, and generation mix in wholesale electricity prices and price volatility"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZBTH5AFH" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1461129" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZBTH5AFH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ZBTH5AFH" class="csl-bib-button">Medverkande</a>
     <a href="https://research-repository.griffith.edu.au/bitstream/10072/141597/4/HiggsPUB1993.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

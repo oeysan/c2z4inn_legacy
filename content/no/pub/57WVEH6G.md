@@ -1,5 +1,5 @@
 ---
-title: "57WVEH6G"
+title: "Elevers forståelse av naturvitenskapens egenart (NOS)"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-57WVEH6G" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2161926" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/57WVEH6G" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-57WVEH6G" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-57WVEH6G" class="csl-bib-button">Medverkande</a>
     <a href="https://journals.uio.no/adnorden/article/download/9480/8551" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-57WVEH6G"></div>
 </article>
 <div id="csl-bib-meta-57WVEH6G" class="csl-bib-meta">
+  <article id="abstract-article-57WVEH6G" class="abstract-article">
+    <h1>Samandrag</h1>
+    Denne artikkelen presenterer en studie av seks elever (13–16 år) sin forståelse av naturvitenskapens egenart. Forståelse av naturvitenskapens egenart regnes å være sentralt for et individs evne til å ta informerte beslutninger og valg når det kommer til vitenskapsbaserte problemstillinger. Elevene deltok i en treårig intervensjon med fokus på naturvitenskapelige praksiser og naturvitenskapens egenart, veiledet av norske læreplaner. Elevene laget og testet hypoteser, deltok i planlegging av forsøk, skrev forskningsrapporter og tolket data. I de ulike naturvitenskapelige praksisene ble elevene oppfordret til å uttrykke sin forståelse for naturvitenskapens egenart. Seks elever ble intervjuet om sin forståelse av naturvitenskapens egenart hvert semester på 8., 9. og 10. trinn (unntatt høsten 10. trinn). Resultatene viser at elevene utviklet økt forståelse av flere sentrale aspekter ved naturvitenskapens egenart og en utvikling mot en anerkjennelse av kunnskap som konstruert. Elevene viste manglende forståelse av tolkningens rolle i naturvitenskapen, til tross for at de stadig tolket data i sine utforskninger. Selv om elevene brukte vitenskapelige prinsipper når de reflekterte over problemstillinger, hypoteser og i argumentasjon, så viste de manglende forståelse av slike verdier og prinsipper som underligger den naturvitenskapelige virksomheten. Disse resultatene støtter tidligere funn som vektlegger viktigheten av å hjelpe elevene til å bygge bro mellom aspekter ved naturvitenskapens egenart og elevenes deltakelse i naturvitenskapelige praksiser
+  </article>
   <article id="contributors-article-57WVEH6G" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

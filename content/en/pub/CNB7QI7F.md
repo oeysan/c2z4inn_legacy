@@ -1,5 +1,5 @@
 ---
-title: "CNB7QI7F"
+title: "Inclusion in the heat of the moment: Balancing participation and mastery"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CNB7QI7F" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2124425" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/CNB7QI7F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-CNB7QI7F" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-CNB7QI7F" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-CNB7QI7F" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.frontiersin.org/articles/10.3389/feduc.2023.967279/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-CNB7QI7F"></div>
 </article>
 <div id="csl-bib-meta-CNB7QI7F" class="csl-bib-meta">
+  <article id="abstract-article-CNB7QI7F" class="abstract-article">
+    <h1>Abstract</h1>
+    Individual and social explanatory models provide different frameworks for teachers’ practice. This study addresses how teachers’ understanding of inclusion and challenging behaviors affects their work with an inclusive practice in school. The chosen research design can be characterized as a qualitatively driven mixed-method case design, and the data collection was based on an explorative sequential design. All teachers from two schools that both have a vision linked to being inclusive were invited to participate, and the first five teachers who signed up from each school were included in this study. The data are based on interviews with and observations of 10 teachers as well as a survey conducted at 16 schools in Western Norway distributed across eight different municipalities. Based on an inductive analysis, the findings show that physical participation in the classroom is central to teachers’ understanding of inclusion. At the same time, they emphasize the importance of social and academic mastery. The study, nevertheless, shows that classroom participation and coping can conflict with each other. This means that teachers must often balance different considerations related to both practical and ethical dilemmas. When they encounter challenging behavior, they are additionally forced to make assessments in stressful situations. It is also in these situations that the underlying and often unconscious explanatory models provide the greatest guidance for the teachers’ decisions. Nevertheless, decision-making in stressful situations seems to be an almost absent topic in both teacher training and the professional community in schools. The authors of this article, therefore, argue that decision-making in stressful situations seems to be underestimated in the work on developing inclusive practices.
+  </article>
   <article id="contributors-article-CNB7QI7F" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

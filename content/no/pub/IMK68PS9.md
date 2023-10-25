@@ -1,5 +1,5 @@
 ---
-title: "IMK68PS9"
+title: "An Exploratory Study of the Relationship Between the Big-Five Personality Dimensions and Political Skills with Military Staff Members’ Perceived Performance"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IMK68PS9" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1516084" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/IMK68PS9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-IMK68PS9" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-IMK68PS9" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-IMK68PS9" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://www.sjwop.com/articles/10.16993/sjwop.31/galley/31/download/" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-IMK68PS9"></div>
 </article>
 <div id="csl-bib-meta-IMK68PS9" class="csl-bib-meta">
+  <article id="abstract-article-IMK68PS9" class="abstract-article">
+    <h1>Samandrag</h1>
+    The purpose was to explore the relationship and mediation effects between the Big Five personality dimensions, and political skill with military staff members’ perceived performance. The sample included 185 Armed Forces International staff members from several military education facilities. The results indicated that the PSI and several personality dimensions were positively correlated with individuals’ perceived performance. In addition, the personality dimension Conscientiousness acted as a statistically significant mediator between an individual’s use of political skills and their perceived performance. Practical considerations and future research directions are suggested.
+  </article>
   <article id="contributors-article-IMK68PS9" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

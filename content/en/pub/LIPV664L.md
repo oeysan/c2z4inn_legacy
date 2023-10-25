@@ -1,5 +1,5 @@
 ---
-title: "LIPV664L"
+title: "The subjective and intersubjective uses of “fail to” and “not fail to”"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LIPV664L" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1422027" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LIPV664L" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-LIPV664L" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-LIPV664L" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-LIPV664L"></div>
 </article>
 <div id="csl-bib-meta-LIPV664L" class="csl-bib-meta">
+  <article id="abstract-article-LIPV664L" class="abstract-article">
+    <h1>Abstract</h1>
+    It is virtually a commonplace in grammaticalization studies that intersubjective senses of lexical or grammatical items develop later than, and as extensions of, subjective senses. The two constructions examined in this chapter, “fail to” and “not fail to”, provide further support for the assertion that intersubjective senses develop later than subjective ones. However, their development challenges the assumption that intersubjective senses always constitute extensions of subjective senses. In fact, both in the case of the “not fail to” construction in Early Modern English (EModE) and the “fail to” construction in Late Modern English (LModE), the intersubjective senses are independent extensions of objective senses, rather than contemporary subjective ones. Moreover, whereas the objective and subjective senses of positive and negative polarity “fail to” code semantic opposites (contraries), their intersubjective senses are completely unrelated to each other. The development of each of these intersubjective senses is first described in detail and then related to the current discourse on intersubjectivity and intersubjectification. Finally, the question of whether positive polarity “fail to” is in the process of grammaticalizing as a marker of negation is addressed.
+  </article>
   <article id="contributors-article-LIPV664L" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

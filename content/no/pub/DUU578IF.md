@@ -1,5 +1,5 @@
 ---
-title: "DUU578IF"
+title: "Integrated spatially-explicit models predict pervasive risks to recolonizing wolves in Scandinavia from human-driven mortality"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DUU578IF" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1608127" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DUU578IF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-DUU578IF" class="csl-bib-button">Medverkande</a>
     <a href="https://doi.org/10.1016/j.biocon.2018.07.025" class="csl-bib-button">Unpaywall</a>
   </div>

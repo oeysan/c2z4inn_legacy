@@ -1,16 +1,16 @@
 ---
-title: "KFQ6EJN8"
+title: "Krenkelser og patologier i norsk kroppsøving - En kunnskapsgjennomgang"
 type: pub
 ---
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-KFQ6EJN8" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Moen, K. M., Aasland, E., &amp; L&#xF8;ndal, K. (2023). Krenkelser og patologier i norsk kropps&#xF8;ving - En kunnskapsgjennomgang. I K. M. Moen &amp; A. N. Jordet (Red.), <i>Et anerkjennende kropps&#xF8;vingsfag</i>. Cappelen Damm akademisk.</div>
+  <div class="csl-entry">Moen, K. M., Aasland, E., &amp; L&#xF8;ndal, K. (2023). Krenkelser og patologier i norsk kropps&#xF8;ving - En kunnskapsgjennomgang. I K. M. Moen &amp; A. N. Jordet (Red.), <i>Et anerkjennende kropps&#xF8;vingsfag</i> (s. 53&#x2013;79). Cappelen Damm akademisk.</div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KFQ6EJN8" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2127719" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KFQ6EJN8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KFQ6EJN8" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-KFQ6EJN8"></div>

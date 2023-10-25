@@ -1,5 +1,5 @@
 ---
-title: "JTSEND9F"
+title: "Innovation in strategic capabilities of municipal clients: some evidence from a Swedish case study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JTSEND9F" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1702359" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JTSEND9F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JTSEND9F" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1201/9781351110198-9" class="csl-bib-button">EZproxy</a>
   </div>

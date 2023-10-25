@@ -1,5 +1,5 @@
 ---
-title: "J7SZHKT8"
+title: "Ambiguous participation in older hospitalized patients: gaining influence through active and passive approaches-a qualitative study"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-J7SZHKT8" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1439237" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/J7SZHKT8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-J7SZHKT8" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-J7SZHKT8" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-J7SZHKT8" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://bmcnurs.biomedcentral.com/track/pdf/10.1186/s12912-016-0171-5" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,31 @@ type: pub
   <div id="csl-bib-meta-container-J7SZHKT8"></div>
 </article>
 <div id="csl-bib-meta-J7SZHKT8" class="csl-bib-meta">
+  <article id="abstract-article-J7SZHKT8" class="abstract-article">
+    <h1>Samandrag</h1>
+    Background: Patient participation is required by law in Norway and in several western countries. Current 
+participation ideology is based on individualism, which may conflict with the older generation’s commonly held 
+values of solidarity and community. Hence, different values and ideologies may come in conflict when older 
+patients receive treatment and rehabilitation in geriatric wards. Participation is a guiding principle in rehabilitation. 
+Criteria for admission of older patients to geriatric wards are complex health problems, acute illness and/or acute 
+physical and/or cognitive functional failure. The ideal is an active and engaged patient. The aim of the study was to 
+describe the difficulties experienced by older patients on acute geriatric wards when involving themselves with 
+their own treatment and care. 
+Methods: In this qualitative study older patients were interviewed during hospitalization in geriatric wards and 
+asked to tell about their experiences with participation. Data analysis was conducted using a phenomenological 
+hermeneutic method. 
+Results: The patients experienced difficulties in participating in decisions and care. They linked their difficulties to 
+their own diminishing capabilities, and cited the ward’s busy schedule as a reason for abstaining from participation. 
+However, despite their reservations, they did participate in decisions in different ways. Their participatory practices 
+appeared ambiguous and they employed various strategies to put themselves in a position of influence. The most 
+important of these involved their relatives. The patients delegated to family the tasks of seeking, receiving and 
+giving information to the nurses and the staff, and, to some extent, for the dialogues with hospital staff about their 
+needs and plan of care. The family appeared to accept the responsibility willingly. 
+Conclusions: The patients addressed their difficulties by authorizing family members to act and participate on their 
+behalf. This underlines the family’s important role in patient participation and the role that nurses and other staff 
+must play in collaborating with the patient and their family to facilitate participation independently of the patients’ 
+performances of participation.
+  </article>
   <article id="contributors-article-J7SZHKT8" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

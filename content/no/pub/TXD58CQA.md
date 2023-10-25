@@ -1,5 +1,5 @@
 ---
-title: "TXD58CQA"
+title: "Kommentar til Lov om film og videogram. L15.05.1987 nr. 21 [Hovedrevisjon"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TXD58CQA" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1718761" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/TXD58CQA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TXD58CQA" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-TXD58CQA"></div>

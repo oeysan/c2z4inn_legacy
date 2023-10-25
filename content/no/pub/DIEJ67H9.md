@@ -1,5 +1,5 @@
 ---
-title: "DIEJ67H9"
+title: "Performance-Determining Variables in Long-Distance Events: Should They Be Determined From a Rested State or After Prolonged Submaximal Exercise?"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DIEJ67H9" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1858179" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DIEJ67H9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-DIEJ67H9" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-DIEJ67H9" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-DIEJ67H9" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1123/ijspp.2019-0987" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-DIEJ67H9"></div>
 </article>
 <div id="csl-bib-meta-DIEJ67H9" class="csl-bib-meta">
+  <article id="abstract-article-DIEJ67H9" class="abstract-article">
+    <h1>Samandrag</h1>
+    Performance-determining variables are usually measured from a rested state and not after prolonged exercise, specific to when athletes compete for the win in long-distance events. Purpose : (1) To compare cross-country skiing double-poling (DP) performance and the associated physiological and biomechanical performance-determining variables between a rested state and after prolonged exercise and (2) to investigate whether the relationship between the main performance-determining variables and DP performance is different after prolonged submaximal DP than when tested from a rested state. Methods : Male cross-country skiers (N = 26) performed a blood lactate profile test and an incremental test to exhaustion from a rested state on day 1 (D1; all using DP) and after 90-minute submaximal DP on day 2 (D2). Results : The DP performance decreased following prolonged submaximal DP (D1: peak speed = 15.33–20.75 km·h −1 , median = 18.1 km·h −1 ; D2: peak speed = 13.68–19.77 km·h −1 , median  =  17.8 km·h −1 ; z  = −3.96, P  &lt; .001, effect size r =  −.77), which coincided with a reduced submaximal gross efficiency and submaximal and peak cycle length, with no significant change in peak oxygen uptake ( P  = .26, r =  .23). The correlation coefficient between D1 cycle length at 12 km·h −1 and D2 performance is significantly smaller than the correlation coefficient between D2 cycle length at 12 km·h −1 and D2 performance ( P  = .033), with the same result being found for peak cycle length ( P  &lt; .001). Conclusions : The reduced DP performance after prolonged submaximal DP coincided with a reduced submaximal gross efficiency and shorter peak cycle length. The results indicate that performance-determining variables could be determined after prolonged exercise to gain more valid insight into long-distance DP performance.
+  </article>
   <article id="contributors-article-DIEJ67H9" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

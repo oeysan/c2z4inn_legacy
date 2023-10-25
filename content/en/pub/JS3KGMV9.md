@@ -1,5 +1,5 @@
 ---
-title: "JS3KGMV9"
+title: "Verbal and nonverbal memory in school-aged children born to opioid-dependent mothers"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JS3KGMV9" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2041337" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JS3KGMV9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JS3KGMV9" class="csl-bib-button">Contributors</a>
     <a href="https://doi.org/10.1016/j.earlhumdev.2022.105614" class="csl-bib-button">Unpaywall</a>
   </div>

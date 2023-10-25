@@ -1,5 +1,5 @@
 ---
-title: "M352AQXU"
+title: "From American Dream to Nordic Realities?"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-M352AQXU" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2107447" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/M352AQXU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-M352AQXU" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-M352AQXU" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-M352AQXU" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4324/9781003326243-6" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-M352AQXU"></div>
 </article>
 <div id="csl-bib-meta-M352AQXU" class="csl-bib-meta">
+  <article id="abstract-article-M352AQXU" class="abstract-article">
+    <h1>Abstract</h1>
+    This chapter examines whether the Nordic region has surpassed today's America on two of the most central tenets of the American Dream, defined as individualism and equal opportunity. An important reason is that there are certain identifiable Nordic values that are institutionalized within and across the five states that make up the Nordic region. These are referred to as the Nordic Model, a distinct Nordic approach to democracy, a social market economy, and gender equality. The chapter's starting assumption is that individualism and equal opportunity as core tenets of the American Dream resonate strongly with the values that underpin the Nordic Model, even if the Nordic Model is based on a different calibration of these. The chapter operationalizes individualism and equal opportunity and undertakes an extensive literature survey and examination of a wide range of statistics in order to assess the claim that the Nordic region may have surpassed today's America on key tenets of the American Dream.
+  </article>
   <article id="contributors-article-M352AQXU" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "JVUWH6NV"
+title: "Coping, resilience and posttraumatic growth among Eritrean female refugees living in Norwegian asylum reception centres: A qualitative study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JVUWH6NV" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1576671" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JVUWH6NV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-JVUWH6NV" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-JVUWH6NV" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-JVUWH6NV" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.duo.uio.no/bitstream/10852/95636/1/PhD-Abraham-2022.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,25 @@ type: pub
   <div id="csl-bib-meta-container-JVUWH6NV"></div>
 </article>
 <div id="csl-bib-meta-JVUWH6NV" class="csl-bib-meta">
+  <article id="abstract-article-JVUWH6NV" class="abstract-article">
+    <h1>Abstract</h1>
+    Background: 
+The links between migration and health are well documented. Being a refugee exacerbates migrants’ vulnerability through trauma and loss. The aim of this study is to identify sources of resilience, coping and posttraumatic growth in female Eritrean refugees living in Norwegian asylum reception centres. 
+ 
+Method: 
+The study had a qualitative, descriptive and explorative design with two focus group interviews and 10 individual in-depth interviews. Participants included 18 female Eritrean refugees aged 18–60, who had obtained refugee status and were still living in an asylum reception centre. A content-focused hermeneutic analytic approach was used. 
+ 
+Results: 
+Interviewees described the challenges of pre-flight and flight trauma, conditions at the refugee centre, communication difficulties and the ‘endless’ waiting for transfer to a municipality. To cope, they found it helpful to focus on the future and to think positively. Fellowship with and support from fellow Eritrean refugees were essential as they became a proxy family and provided a strong ethnic identity. Their religious belief also helped them cope and gave them hope for the future. 
+ 
+Discussion: 
+The interviewees in this study perceived their psychological problems as a normal reaction to what they had been through. Religious belief was an important resilience factor, as was social support, especially from peers. 
+ 
+Conclusion: 
+The interviewees’ coping was based on the realization of their psychological reactions being normal while doing their utmost to focus on their aims and hopes for the future. 
+ 
+Keywords Refugees, resilience, coping, posttraumatic growth, religiosity, positive psychiatry
+  </article>
   <article id="contributors-article-JVUWH6NV" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "JEN4I5FI"
+title: "Narratives of nineteenth century drought in southern Africa in different historical source types"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JEN4I5FI" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1674557" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JEN4I5FI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-JEN4I5FI" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-JEN4I5FI" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-JEN4I5FI" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://cris.brighton.ac.uk/ws/files/5391566/Narratives_of_19th_century_drought_in_southern_Africa_in.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,13 @@ type: pub
   <div id="csl-bib-meta-container-JEN4I5FI"></div>
 </article>
 <div id="csl-bib-meta-JEN4I5FI" class="csl-bib-meta">
+  <article id="abstract-article-JEN4I5FI" class="abstract-article">
+    <h1>Abstract</h1>
+    Single- to multiple-year drought episodes posed significant challenges for agrarian communities across southern Africa during the nineteenth century and hence are widely recorded in a variety of historical documents. However, the ways in which droughts are articulated, and the focus of individual accounts, vary considerably between different authors and historical source types. This study draws on a range of documentary source types—specifically newspapers, letters, reports and diaries—to explore the varied narratives associated with three protracted droughts (those of 1861–1863, 1876–1879 and 1895–1897) that affected large areas of the subcontinent. The analysis spans four case study areas—present day KwaZulu-Natal (South Africa), Lesotho, Malawi and the southern Kalahari (Botswana and South Africa)—which were investigated as part of different interdisciplinary projects. We explore issues common to all case study areas, including (i) how specific drought events are framed and (ii) what is and is not reported about individual droughts across different source types. We conclude that different source types in the subcontinent may be more or less appropriate for addressing the specific objectives of historical climatology, particularly in relation to historical drought. Sources such as newspapers and weather diaries are rich in qualitative and quantitative observations suitable 
+for the reconstruction of temporal and spatial patterns of weather and climate, as well as climate-related natural disasters. In contrast, letters, reports and personal journals, especially those written by missionaries, provide additional qualitative narratives through which to 
+investigate the vulnerability of past societies and economies to climate variations, and to explore past discourses and social representations of climate. While studies of this kind have been published for European and American source types, this is the first systematic exploration of documentary sources for the historical climatology of Africa. It should therefore provide a 
+guide for climate history studies elsewhere in the continent, or other regions where written records are absent prior to the arrival of European colonists.
+  </article>
   <article id="contributors-article-JEN4I5FI" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

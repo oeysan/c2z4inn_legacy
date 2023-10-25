@@ -1,5 +1,5 @@
 ---
-title: "Q2FVMFD9"
+title: "Teachers as learning game designers: can elementary school teachers with no background really gamify their own teaching?"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Q2FVMFD9" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1447406" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/Q2FVMFD9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-Q2FVMFD9" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-Q2FVMFD9" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-Q2FVMFD9" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.21125/edulearn.2016.0368" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,12 @@ type: pub
   <div id="csl-bib-meta-container-Q2FVMFD9"></div>
 </article>
 <div id="csl-bib-meta-Q2FVMFD9" class="csl-bib-meta">
+  <article id="abstract-article-Q2FVMFD9" class="abstract-article">
+    <h1>Abstract</h1>
+    Yes, they can! This presentation gives some examples from a project where ordinary elementary school teacher’s design and implement games for their own teaching. Their assignment was simple - develop and implement a pervasive game that can be played in the school and the local community during one school day. The game should be based on the Norwegian national curriculum goals, and should include digital clues, videos, animations and digital games, as well as a well-written story that connected the game to the curriculum and the learning goals. Many of the teachers made the digital games themselves in Kodu (Microsoft) or similar game apps for iOS or Android. Some teachers even made collaboration with other classes in schools thousands of kilometers away. We will show that what the children learn from the game is very cross-disciplinary and can be connected to other topics and learning goal than the main one, including history, language, geography, gymnastics, science (mathematics and physics), digital competence etc.  
+ 
+The project was a collaboration projects between two Norwegian teacher educations in Game Based Learning. It was implemented between 2012 and 2015, and the classes for the teachers were implemented several times during this period. In HUC the course included teacher students are in their 4th educational year as well as experienced teachers that had worked in elementary school for years. The games were implemented and tested in their classes or in their educational practice. The course required no previous knowledge in game design or digital skills.
+  </article>
   <article id="contributors-article-Q2FVMFD9" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "X2QKB56Q"
+title: "Diversity and conservation of traditional African vegetables: Priorities for action"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-X2QKB56Q" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1864005" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/X2QKB56Q" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-X2QKB56Q" class="csl-bib-button">Medverkande</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ddi.13188" class="csl-bib-button">Unpaywall</a>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: "IBWGZ8VP"
+title: "Copying in EU security and defence policies: the case of EUNAVFOR MED Operation Sophia"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IBWGZ8VP" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1860653" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/IBWGZ8VP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-IBWGZ8VP" class="csl-bib-button">Contributors</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/09662839.2020.1845657?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>

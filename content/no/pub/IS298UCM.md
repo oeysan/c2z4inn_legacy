@@ -1,5 +1,5 @@
 ---
-title: "IS298UCM"
+title: "An Artificial Intelligence Chatbot for Young People’s Sexual and Reproductive Health in India (SnehAI): Instrumental Case Study"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IS298UCM" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1992729" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/IS298UCM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-IS298UCM" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-IS298UCM" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-IS298UCM" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.jmir.org/2022/1/e29969/PDF" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,13 @@ type: pub
   <div id="csl-bib-meta-container-IS298UCM"></div>
 </article>
 <div id="csl-bib-meta-IS298UCM" class="csl-bib-meta">
+  <article id="abstract-article-IS298UCM" class="abstract-article">
+    <h1>Samandrag</h1>
+    Background: Leveraging artificial intelligence (AI)–driven apps for health education and promotion can help in the accomplishment of several United Nations sustainable development goals. SnehAI, developed by the Population Foundation of India, is the first Hinglish (Hindi + English) AI chatbot, deliberately designed for social and behavioral changes in India. It provides a private, nonjudgmental, and safe space to spur conversations about taboo topics (such as safe sex and family planning) and offers accurate, relatable, and trustworthy information and resources. Objective: This study aims to use the Gibson theory of affordances to examine SnehAI and offer scholarly guidance on how AI chatbots can be used to educate adolescents and young adults, promote sexual and reproductive health, and advocate for the health entitlements of women and girls in India. 
+Methods: We adopted an instrumental case study approach that allowed us to explore SnehAI from the perspectives of technology design, program implementation, and user engagement. We also used a mix of qualitative insights and quantitative analytics data to triangulate our findings. 
+Results: SnehAI demonstrated strong evidence across fifteen functional affordances: accessibility, multimodality, nonlinearity, compellability, queriosity, editability, visibility, interactivity, customizability, trackability, scalability, glocalizability, inclusivity, connectivity, and actionability. SnehAI also effectively engaged its users, especially young men, with 8.2 million messages exchanged across a 5-month period. Almost half of the incoming user messages were texts of deeply personal questions and concerns about sexual and reproductive health, as well as allied topics. Overall, SnehAI successfully presented itself as a trusted friend and mentor; the curated content was both entertaining and educational, and the natural language processing system worked effectively to personalize the chatbot response and optimize user experience. 
+Conclusions: SnehAI represents an innovative, engaging, and educational intervention that enables vulnerable and hard-to-reach population groups to talk and learn about sensitive and important issues. SnehAI is a powerful testimonial of the vital potential that lies in AI technologies for social good.
+  </article>
   <article id="contributors-article-IS298UCM" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

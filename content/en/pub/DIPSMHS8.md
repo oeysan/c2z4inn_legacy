@@ -1,5 +1,5 @@
 ---
-title: "DIPSMHS8"
+title: "Audience-centered discourses in communication and social change: the ‘Voicebook’ of Main Kuch Bhi Kar Sakti Hoon , an entertainment-education initiative in India"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DIPSMHS8" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1593280" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DIPSMHS8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-DIPSMHS8" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-DIPSMHS8" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-DIPSMHS8" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/17447143.2018.1481857" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-DIPSMHS8"></div>
 </article>
 <div id="csl-bib-meta-DIPSMHS8" class="csl-bib-meta">
+  <article id="abstract-article-DIPSMHS8" class="abstract-article">
+    <h1>Abstract</h1>
+    In a world where development is unequal and dominant discourses are strident, communication strategies that both listen and speak to the needs and aspirations of the marginalized are few and far between. In this article, we investigated Main Kuch Bhi Kar Sakti Hoon (MKBKSH), an entertainment-education initiative in India that strategically utilized storytelling on television, radio and digital platforms to question and challenge hegemonic patriarchal discourses. In so doing, MKBKSH not only garnered a staggering audience of 400 million, it pioneered the use of an interactive voice response (IVR) system to invite feedback from diverse audience members and to track their engagement with the programme in real time. Our analysis documents 1.7 million calls from over 390,000 unique phone numbers. Given the high penetration of mobile telephony in India, and its uniquely invitational nature, the IVR system enabled women, youth and the less privileged, to access curated content, answer questions and share personal opinions and actions inspired by MKBKSH. The IVR’s simple user interface and purposive use – akin to the ‘voicebook’ of the have-nots – hold important implications for the design, implementation and evaluation of large-scale, real-time communication and social change interventions.
+  </article>
   <article id="contributors-article-DIPSMHS8" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

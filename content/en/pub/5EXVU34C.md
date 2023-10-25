@@ -1,5 +1,5 @@
 ---
-title: "5EXVU34C"
+title: "Determinants of maximal whole‐body fat oxidation in elite cross‐country skiers: Role of skeletal muscle mitochondria"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5EXVU34C" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1652275" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/5EXVU34C" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-5EXVU34C" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1111/sms.13298." class="csl-bib-button">EZproxy</a>
   </div>

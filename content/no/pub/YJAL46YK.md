@@ -1,5 +1,5 @@
 ---
-title: "YJAL46YK"
+title: "Altitude, latitude and climate zone as determinants of mountain hare ( Lepus timidus ) coat colour change"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YJAL46YK" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2167576" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/YJAL46YK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-YJAL46YK" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-YJAL46YK" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-YJAL46YK" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.10548" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-YJAL46YK"></div>
 </article>
 <div id="csl-bib-meta-YJAL46YK" class="csl-bib-meta">
+  <article id="abstract-article-YJAL46YK" class="abstract-article">
+    <h1>Samandrag</h1>
+    Local adaptation to annually changing environments has evolved in numerous species. Seasonal coat colour change is an adaptation that has evolved in multiple mammal and bird species occupying areas that experience seasonal snow cover. It has a critical impact on fitness as predation risk may increase when an individual is mismatched against its habitat's background colour. In this paper, we investigate the correlation between landscape covariates and moult timing in a native winter‐adapted herbivore, the mountain hare ( Lepus timidus ), throughout Norway. Data was collected between 2011 and 2019 at 678 camera trap locations deployed across an environmental gradient. Based on this data, we created a Bayesian multinomial logistic regression model that quantified the correlations between landscape covariates and coat colour phenology and analysed among season and year moult timing variation. Our results demonstrate that mountain hare moult timing is strongly correlated with altitude and latitude with hares that live at higher latitudes and altitudes keeping their winter white coats for longer than their conspecifics that inhabit lower latitudes and altitudes. Moult timing was also weakly correlated with climate zone with hares that live in coastal climates keeping their winter white coats for longer than hares that live in continental climates. We found evidence of some among year moult timing variation in spring, but not in autumn. We conclude that mountain hare moult timing has adapted to local environmental conditions throughout Norway.
+  </article>
   <article id="contributors-article-YJAL46YK" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

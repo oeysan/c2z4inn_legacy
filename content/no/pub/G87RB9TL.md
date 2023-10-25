@@ -1,5 +1,5 @@
 ---
-title: "G87RB9TL"
+title: "First-person experiences of recovery in co-occurring mental health and substance use conditions"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,38 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-G87RB9TL" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1423144" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/G87RB9TL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-G87RB9TL" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-G87RB9TL" class="csl-bib-button">Medverkande</a>
     <a href="https://brage.inn.no/inn-xmlui/bitstream/11250/2589116/1/First-person%2bexperiences%2bof%2brecovery%2bBrekke%2bet%2bal.%2b2017.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-G87RB9TL"></div>
 </article>
 <div id="csl-bib-meta-G87RB9TL" class="csl-bib-meta">
+  <article id="abstract-article-G87RB9TL" class="abstract-article">
+    <h1>Samandrag</h1>
+    Purpose 
+The purpose of this paper is to explore and describe experiences of recovery among people with co-occurring mental health and substance use conditions (co-occurring conditions) in a rural community in Norway. 
+ 
+Design/methodology/approach 
+In-depth individual interviews with eight persons with co-occurring conditions were conducted, audiotaped, transcribed and analysed using a phenomenological approach. This study is part of a research project investigating recovery orientation of services in a Norwegian district. 
+ 
+Findings 
+The analysis yielded four dimensions of recovery: feeling useful and accepted; coming to love oneself; mastering life; and emerging as a person. Insecure and inadequate housing and limited solutions to financial problems were described as major obstacles to recovery. 
+ 
+Research limitations/implications 
+Further research into the facilitation of recovery as defined by persons with concurrent disorders is needed, particularly regarding the facilitation of community participation. 
+ 
+Practical implications 
+This study supports an increased focus on societal and community factors in promoting recovery for persons with co-occurring conditions, as well as service designs that allow for an integration of social services and health care, and for collaboration among services. 
+ 
+Social implications 
+The results suggest that the community can aid recovery by accepting persons with co-occurring conditions as fellow citizens and welcoming their contributions. 
+ 
+Originality/value 
+The paper provides an enhanced understanding of how persons with co-occurring conditions may experience recovery.
+  </article>
   <article id="contributors-article-G87RB9TL" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

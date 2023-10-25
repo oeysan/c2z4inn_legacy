@@ -1,5 +1,5 @@
 ---
-title: "2XKPDQFX"
+title: "Sources of Resistance for Two-spotted Spider Mite (Tetranychus urticae) in Scarlet (Solanum aethiopicum L.) and Gboma (S. macrocarpon L.) Eggplant Germplasms"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2XKPDQFX" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1710304" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/2XKPDQFX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-2XKPDQFX" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-2XKPDQFX" class="csl-bib-button">Contributors</a>
     <a href="https://journals.ashs.org/downloadpdf/journals/hortsci/54/2/article-p240.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-2XKPDQFX"></div>
 </article>
 <div id="csl-bib-meta-2XKPDQFX" class="csl-bib-meta">
+  <article id="abstract-article-2XKPDQFX" class="abstract-article">
+    <h1>Abstract</h1>
+    The two-spotted spider mite, Tetranychus urticae, is a serious global pest of eggplants and other vegetables in the tropics and subtropics. The scarlet (Solanum aethiopicum L.) and gboma (Solanum macrocarpon L.) are two cultivated eggplants indigenous to sub-Saharan Africa. In this study, 120 accessions of S. aethiopicum and five accessions of S. macrocarpon from the World Vegetable Center’s genebank collection were evaluated for spider mite resistance based on leaf damage scores and trichome types and densities. The highest levels of resistance were detected in S. macrocarpon accessions VI050393 and VI050444. In addition, two accessions of S. aethiopicum, VI042749 and VI042753, were moderately resistant. All other S. aethiopicum accessions were susceptible or highly susceptible. Spider mite  resistance was significantly associated with the presence of type VII glandular trichome, but nonglandular stellate trichomes were not associated with resistance. The resistant S. macrocarpon accessions can be directly used as resistant cultivars or in prebreeding programs aimed at breeding resistant lines of the most commonly cultivated eggplant (S. melogena).
+  </article>
   <article id="contributors-article-2XKPDQFX" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "DFAURLRP"
+title: "Norwegian linguistic identity through history – from national identity to linguistic individualism"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DFAURLRP" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1990572" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DFAURLRP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-DFAURLRP" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-DFAURLRP" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-DFAURLRP" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://doi.org/10.36534/erlj.2020.02.04" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,18 @@ type: pub
   <div id="csl-bib-meta-container-DFAURLRP"></div>
 </article>
 <div id="csl-bib-meta-DFAURLRP" class="csl-bib-meta">
+  <article id="abstract-article-DFAURLRP" class="abstract-article">
+    <h1>Abstract</h1>
+    This paper will discuss how linguistic identity has changed during the history of the Norwegian society 
+and language from the time of the Vikings until today’s identity shaping of Generation Z. Because of the 
+great span of time that is covered in this discussion it will not be possible to go into greater detail. The 
+overall picture is that while there was little awareness about language as an identity marker during the 
+middle ages, linguistic identity became a group project during national romanticism, even though this 
+group project divided into two different linguistic varieties and identities, Bokmål (Dano-Norwegian) and 
+Nynorsk (New Norwegian). In today’s society, linguistic identity is to a large extent characterized by 
+individual language shaping, at least in social media. At the same time, there is still a tendency to 
+accommodate to a group standard and group identity.
+  </article>
   <article id="contributors-article-DFAURLRP" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

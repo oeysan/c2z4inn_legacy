@@ -1,5 +1,5 @@
 ---
-title: "FL9D5JCQ"
+title: "Unified in response to rising powers? China, Russia and EU-US relations"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FL9D5JCQ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1618753" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/FL9D5JCQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FL9D5JCQ" class="csl-bib-button">Medverkande</a>
     <a href="https://www.duo.uio.no/bitstream/10852/65316/2/Riddervold%2526Ros%25C3%25A9n2018-JEI.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

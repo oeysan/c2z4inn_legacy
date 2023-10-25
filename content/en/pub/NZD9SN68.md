@@ -1,5 +1,5 @@
 ---
-title: "NZD9SN68"
+title: "How engaging with nature can facilitate active healthy ageing"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NZD9SN68" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1829061" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/NZD9SN68" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/14616688.2020.1819398?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-NZD9SN68"></div>

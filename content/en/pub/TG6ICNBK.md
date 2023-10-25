@@ -1,5 +1,5 @@
 ---
-title: "TG6ICNBK"
+title: "Læreren som regissør: ledelse og læring i klasserommet"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TG6ICNBK" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2072842" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/TG6ICNBK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-TG6ICNBK" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-TG6ICNBK" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-TG6ICNBK"></div>
 </article>
 <div id="csl-bib-meta-TG6ICNBK" class="csl-bib-meta">
+  <article id="abstract-article-TG6ICNBK" class="abstract-article">
+    <h1>Abstract</h1>
+    Læreren er lederen som skal gi energi til elevenes læringsprosesser. Verktøy for å utvikle klassen til å bli en gruppe preget av positive relasjoner kan være klassesamtaler og varierte didaktiske tilnærminger. Boken gir kunnskap om bruk av slike verktøy og forklarer hva som særpreger ungdomsgenerasjonen i dag. Den bygger på nasjonal og internasjonal forskning og det vi vet om lærerarbeid og ledelse i klasserommet i dag. Omtalen er utarbeidet av BS.
+  </article>
   <article id="contributors-article-TG6ICNBK" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

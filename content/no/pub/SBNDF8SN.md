@@ -1,5 +1,5 @@
 ---
-title: "SBNDF8SN"
+title: "Examining the Energy Efficiency and Economic Growth Potential in the World Energy Trilemma Countries"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SBNDF8SN" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2129549" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/SBNDF8SN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-SBNDF8SN" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-SBNDF8SN" class="csl-bib-button">Medverkande</a>
     <a href="https://www.mdpi.com/1996-1073/16/4/2036/pdf?version=1676716488" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-SBNDF8SN"></div>
 </article>
 <div id="csl-bib-meta-SBNDF8SN" class="csl-bib-meta">
+  <article id="abstract-article-SBNDF8SN" class="abstract-article">
+    <h1>Samandrag</h1>
+    The World Energy Council has consistently formulated useful policies and ranked countries in term of their performances in environmental sustainability, energy equity, and energy security. In a novel approach, and possibly in one of the most unique studies in the World Energy Trilemma literature, the current study examines the interaction of energy efficiency and economic growth of several top-performing economies (Austria, Denmark, France, Finland, Germany, New Zealand, Sweden, Switzerland, and the United Kingdom) in respect to environmental sustainability, energy equity, and energy security. Importantly, while affirming the inappropriateness of the linear econometric approach, the study utilized the newly developed quantile-on-quantile approach to examine the dataset for the period 1990Q1 to 2018Q4. As such, the result largely indicates a significant and positive effect of economic growth toward the energy efficiency across the quantiles for the examined countries (Austria, Denmark, France, Finland, Germany, New Zealand, Sweden, Switzerland, and the United Kingdom). On the other hand, energy efficiency also impacts economic growth in most parts of the quantiles in the examined countries. However, the results show weak and negative interaction in the lower quantiles (average of 0.1–0.3) only for Denmark, Germany, and New Zealand, while the results further reveal weak and negative interaction in the middle quantile (average 0.4–0.6) for France, Finland, and Sweden. Importantly, this study presents useful economic-related policy inferences from the aspects of energy efficiency, energy security, energy equity, and environmental sustainability.
+  </article>
   <article id="contributors-article-SBNDF8SN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

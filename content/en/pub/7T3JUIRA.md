@@ -1,5 +1,5 @@
 ---
-title: "7T3JUIRA"
+title: "Use and self-perceived effects of social media before and after the COVID-19 outbreak: a cross-national study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7T3JUIRA" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1934469" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/7T3JUIRA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-7T3JUIRA" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-7T3JUIRA" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-7T3JUIRA" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s12553-021-00595-x.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-7T3JUIRA"></div>
 </article>
 <div id="csl-bib-meta-7T3JUIRA" class="csl-bib-meta">
+  <article id="abstract-article-7T3JUIRA" class="abstract-article">
+    <h1>Abstract</h1>
+    To (i) examine the use of social media before and after the COVID-19 outbreak; (ii) examine the self-perceived impact of social media before and after the outbreak; and (iii) examine whether the self-perceived impacts of social media after the outbreak varied by levels of mental health. A cross-national online survey was conducted in Norway, UK, USA and Australia. Participants ( n  = 3810) reported which social media they used, how frequently they used them before and after the COVID-19 outbreak, and the degree to which they felt social media contributed to a range of outcomes. The participants also completed the 12-item General Health Questionnaire. The data were analyzed by chi-square tests and multiple linear regression analysis. Social media were used more frequently after the pandemic outbreak than compared to before the outbreak. Self-perceived effects from using social media increased after the COVID-19 outbreak, and in particular stress and concern for own and others’ health. Emotional distress was associated with being more affected from using social media, in particular in terms of stress and concern for own or others’ health. The use of social media has increased during the coronavirus outbreak, as well as its impacts on people. In particular, the participants reported more stress and health concerns attributed to social media use after the COVID-19 outbreak. People with poor mental health appear to be particularly vulnerable to experiencing more stress and concern related to their use of social media.
+  </article>
   <article id="contributors-article-7T3JUIRA" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

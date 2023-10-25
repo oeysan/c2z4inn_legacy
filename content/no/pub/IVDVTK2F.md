@@ -1,5 +1,5 @@
 ---
-title: "IVDVTK2F"
+title: "Managing Risk in Agriculture: A Development Perspective"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IVDVTK2F" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2174930" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/IVDVTK2F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-IVDVTK2F" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-IVDVTK2F" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-IVDVTK2F" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-IVDVTK2F"></div>
 </article>
 <div id="csl-bib-meta-IVDVTK2F" class="csl-bib-meta">
+  <article id="abstract-article-IVDVTK2F" class="abstract-article">
+    <h1>Samandrag</h1>
+    The book addresses and documents farmers' risks in developing and emerging economies. It draws lessons from experimental economics on measuring risk preferences, attitudes, gender differences in managing risks, and risk management strategies in countries across Africa and Asia. It argues policy makers, especially in emerging economies, need a better understanding of farmers' attitudes toward risk and choices of risk management strategies when designing policies to support production agriculture. The book includes chapters on three themes: understanding risk attitudes and preferences; using experimental economics to measure risk, preferences, and risk management strategies; and understanding climate change, risk, and risk management. The book critically examines the currently held beliefs about risk preference, attitudes, and empirical estimation of risk management strategies, emphasizing developing and emerging economies (DEE).
+  </article>
   <article id="contributors-article-IVDVTK2F" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

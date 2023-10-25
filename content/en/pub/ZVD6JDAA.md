@@ -1,5 +1,5 @@
 ---
-title: "ZVD6JDAA"
+title: "Challenges and Solutions for Forest Biodiversity Conservation in Sweden: Assessment of Policy, Implementation Outputs, and Consequences"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZVD6JDAA" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2153777" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZVD6JDAA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ZVD6JDAA" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-ZVD6JDAA" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-ZVD6JDAA" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/2073-445X/12/5/1098/pdf?version=1684576313" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-ZVD6JDAA"></div>
 </article>
 <div id="csl-bib-meta-ZVD6JDAA" class="csl-bib-meta">
+  <article id="abstract-article-ZVD6JDAA" class="abstract-article">
+    <h1>Abstract</h1>
+    Swedish policies aim at conserving biological production, biodiversity, cultural heritage and recreational assets. This requires compositionally and structurally functional networks of representative habitats, the processes that maintain them, and resilient ecosystems. The term green infrastructure (GI) captures this. We review (1) policy concerning forest biodiversity conservation from the 1990s; (2) the implementation outputs, including the formulation of short-term and evidence-based long-term goals for protected areas, education, and the development of hierarchical spatial planning; (3) the consequences in terms of formally protected and voluntarily set-aside forest stands, as well as conservation management and habitat restoration. We assess the successes and failures regarding policy, outputs and consequences, discuss challenges to be addressed, and suggest solutions. Policies capture evidence-based knowledge about biodiversity, and evidence-based conservation planning as an output. However, the desired consequences are not met on the ground. Thus, the amount of formally protected and voluntary set-aside forests are presently too low, and have limited quality and poor functional connectivity. GI functionality is even declining because of forestry intensification, and insufficient conservation. Challenges include limited collaborative learning among forest and conservation planners, poor funding to conserve forest habitats with sufficient size, quality and connectivity, and national politics that ignores evidence-based knowledge. As solutions, we highlight the need for diversification of forest management systems with a landscape perspective that matches forest owner objectives and regional social-ecological contexts. This requires integrative approaches to knowledge production, learning and spatial planning.
+  </article>
   <article id="contributors-article-ZVD6JDAA" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -53,7 +58,7 @@ Campus Evenstad
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg15" class="sdg">

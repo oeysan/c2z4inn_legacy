@@ -1,5 +1,5 @@
 ---
-title: "U42PDWYA"
+title: "Does risk management affect productivity of organic rice farmers in India? Evidence from a semiparametric production model"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-U42PDWYA" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2050294" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/U42PDWYA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-U42PDWYA" class="csl-bib-button">Contributors</a>
     <a href="https://doi.org/10.1016/j.ejor.2022.03.051" class="csl-bib-button">Unpaywall</a>
   </div>

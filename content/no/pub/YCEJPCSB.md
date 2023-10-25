@@ -1,5 +1,5 @@
 ---
-title: "YCEJPCSB"
+title: "Trends and developments of community libraries in Africa"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YCEJPCSB" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1528064" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/YCEJPCSB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-YCEJPCSB" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-YCEJPCSB" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-YCEJPCSB" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1515/libri-2014-0031" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-YCEJPCSB"></div>
 </article>
 <div id="csl-bib-meta-YCEJPCSB" class="csl-bib-meta">
+  <article id="abstract-article-YCEJPCSB" class="abstract-article">
+    <h1>Samandrag</h1>
+    Community libraries in Africa are growing in number, and are increasingly subject to academic research. The literature on community libraries spans 30 years, and this review shows how there has been a shift from conceptual to empirical publications. The early, conceptual literature stressed that community libraries should be by and for the community, support development, actively reach out, and provide relevant materials. These publications can to some extent be seen as reactions to the colonial legacy that national library services carried on after independence. The empirical research was analyzed using Kuhlthau’s (1999) framework for school libraries as a starting point. The major function of this framework is to provide a meta-analysis of the research, and further to relate this meta-analysis to the larger context in which this research is situated. The empirical literature reported mainly on student use. Much of the literature addressed lower-level issues, skills and outcomes, such as materials offered or borrowed, increased reading, and change in attitudes. However, limited attention was given to utilisation as an outcome. Attempts to find a causal relationship between library use and improved grades have been inconclusive. A major limitation of this framework is that it does not address the community aspect of these libraries that the empirical literature emphasized. This dual aspect of community libraries merits further exploration, and there is a need to develop theoretical frameworks that fit better with the realities of African communities and their libraries. There is also need for more research comparing community libraries across countries as well as within countries. The scholarly significance of this study is that is provides a comprehensive, critical review of the literature on community libraries in Africa and identifies caveats in the research literature. This will support future research on community libraries in Africa, an under-researched area.
+  </article>
   <article id="contributors-article-YCEJPCSB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

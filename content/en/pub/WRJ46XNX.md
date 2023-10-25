@@ -1,5 +1,5 @@
 ---
-title: "WRJ46XNX"
+title: "Archetypes of Service Innovation: Implications for Value Cocreation"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WRJ46XNX" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1541513" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WRJ46XNX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WRJ46XNX" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-WRJ46XNX" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-WRJ46XNX" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/1094670517746776" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-WRJ46XNX"></div>
 </article>
 <div id="csl-bib-meta-WRJ46XNX" class="csl-bib-meta">
+  <article id="abstract-article-WRJ46XNX" class="abstract-article">
+    <h1>Abstract</h1>
+    Service innovation is a key source of competitive differentiation across firms and markets. Despite growing attention from practitioners and academics alike, systematic scholarly inquiry into service innovation’s diverse theoretical foundations has to date been limited. This article explores different approaches to service innovation and proposes a typology of four archetypes, each informed by a distinct theoretical perspective and by different underlying assumptions. Process-based and output-based archetypes focus on value-adding phases and output value, respectively. Experiential and systemic archetypes have attracted less attention but become central for firms seeking to cocreate phenomenologically determined value within the service ecosystem. The article also contributes to service innovation research and practice by bringing together the existing archetypes, which were previously treated separately. Juxtaposing these archetypes and emphasizing value and value cocreation, the article proposes an integrative view of how novel value cocreation can be enhanced in service innovations. Finally, we develop an agenda for future research, encouraging researchers and managers to plan service innovations systematically, deploying each archetype in value cocreation, and combining them within an integrative approach.
+  </article>
   <article id="contributors-article-WRJ46XNX" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -63,7 +68,7 @@ Room 3Ø012
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -1,5 +1,5 @@
 ---
-title: "VLK26D6S"
+title: "Public- and Private-Sector Entrepreneurship: Similarities and Differences"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VLK26D6S" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2100718" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VLK26D6S" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VLK26D6S" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-VLK26D6S"></div>

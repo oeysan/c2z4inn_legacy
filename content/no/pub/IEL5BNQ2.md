@@ -1,5 +1,5 @@
 ---
-title: "IEL5BNQ2"
+title: "«Den fyrste bibelen paa norsk»: Historia om Fyrebilsbibelen"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IEL5BNQ2" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1953268" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/IEL5BNQ2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-IEL5BNQ2" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-IEL5BNQ2" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-IEL5BNQ2"></div>
 </article>
 <div id="csl-bib-meta-IEL5BNQ2" class="csl-bib-meta">
+  <article id="abstract-article-IEL5BNQ2" class="abstract-article">
+    <h1>Samandrag</h1>
+    Den første fullstendige bibelomsetjinga til nynorsk, Bibelen eller Den heilage skrifti: Dei kanoniske bøkerne i Det gamle og Det nye testamentet, kom ut i 1921. Utgåva gjekk som oftast under namnet «Fyrebilsbibelen». Det mellombelse i nemninga er berre eitt av fleire påfallande trekk ved utgåva. Eit anna er ut­gjevaren: «Utgjeven av bibelnemndi aat Studentmaallaget i Oslo», står det på tittelsida, ikkje «Det norske Bibelselskabs Forlag», som ventande var. Eit tredje er arbeidsmåten. «Fyrebilsbibelen» var eit stort dugnadsprosjekt med heile tjue ulike teologar og lekfolk som omsetjarar. 
+ 
+Kvifor vart det slik? Kva var bakgrunnen for omsetjinga? Korleis vart ho til? Kva karakteriserer bibelutgåva? Korleis vart ho motteken, og kva har ho hatt å seie? Dette er spørsmål som forfattarane undersøker i denne boka, skriven til hundreårsjubileet for utgjevinga. Per Halse og Anders Aschim har begge drive omfattande forsking om framveksten av nynorsk kyrkjeleg skriftkultur, og dei har publisert resultata både i vitskapleg og populær form.
+  </article>
   <article id="contributors-article-IEL5BNQ2" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

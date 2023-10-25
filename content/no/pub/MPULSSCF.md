@@ -1,5 +1,5 @@
 ---
-title: "MPULSSCF"
+title: "Subcultural spaces: Lgbtq-aging in a Swedish context"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MPULSSCF" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2162956" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/MPULSSCF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-MPULSSCF" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-MPULSSCF" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-MPULSSCF" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-MPULSSCF"></div>
 </article>
 <div id="csl-bib-meta-MPULSSCF" class="csl-bib-meta">
+  <article id="abstract-article-MPULSSCF" class="abstract-article">
+    <h1>Samandrag</h1>
+    This study takes its starting point in the Swedish context to explore experiences of community among older lesbian, gay, bisexual, transgender, or queer (LGBTQ) adults. Using life story interviews with 33 self-identified LGBTQ older adults between the ages of 59 to 94 years, our aim is to explore meanings of community, belonging, and subcultural spaces at different times and in different ages. How are narratives of finding, entering, and creating subcultural spaces described, and how does time and geographical context play into these experiences in particular? What is it like to age within these communities and to enter these queer spaces later in life? This analysis illustrates how old age can be a disadvantage for entering or participating in queer subcultures, especially when it comes to dating, but the results also point to how old age can be something adding to one's social capital within these subcultures. Further, results suggest that it is important to take social, cultural, and economic resources into account when analyzing community and relationships among older LGBTQ people.
+  </article>
   <article id="contributors-article-MPULSSCF" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

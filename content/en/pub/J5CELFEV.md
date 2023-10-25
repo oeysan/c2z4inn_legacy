@@ -1,5 +1,5 @@
 ---
-title: "J5CELFEV"
+title: "Translating a theory-based positive deviance approach into an applied tool: Mitigating barriers among health professionals (HPs) regarding infection prevention and control (IPC) guidelines"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-J5CELFEV" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2038126" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/J5CELFEV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-J5CELFEV" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-J5CELFEV" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-J5CELFEV" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0269124&amp;type=printable" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,23 @@ type: pub
   <div id="csl-bib-meta-container-J5CELFEV"></div>
 </article>
 <div id="csl-bib-meta-J5CELFEV" class="csl-bib-meta">
+  <article id="abstract-article-J5CELFEV" class="abstract-article">
+    <h1>Abstract</h1>
+    Background 
+Although a wide range of intervention programs and methods have been implemented to increase health professionals’ (HPs) adherence with infection prevention and control (IPC) guidelines and decrease the incidence of healthcare associated infections (HAIs), a significant discrepancy remains between the guidelines and their implementation in practice. 
+ 
+Objectives 
+This study proposes an applied tool based on the integrated theoretical framework of the positive deviance (PD) approach for developing more effective interventions to mitigate this discrepancy. 
+ 
+Methods 
+A qualitative study guided by the PD approach based on data from two sources: (1) in-depth archival analysis of systematic review articles, and (2) integration and synthesis of findings based on an extensive empirical study we conducted, involving 250 HPs (nurses, physicians, support staff and cleaning staff) from three governmental hospitals in Israel, over 35 months (January 2017 to November 2020). 
+ 
+Results 
+The barriers faced by HPs were classified into four main categories: (1) individual-motivational, (2) social-cultural, (3) organizational, and (4) work environment and resource-centered. For each barrier, we constructed a set of questions based on the PD approach. For each question, we adapted and applied methodological tools (e.g., in-depth interviews, focus groups, social network maps, video clips and simulations) to help solve the problem. 
+ 
+Conclusion 
+Translating a theory-based approach into an applied tool that offers step-by-step actions can help researchers and practitioners adopt and implement the approach within intervention programs to mitigate barriers.
+  </article>
   <article id="contributors-article-J5CELFEV" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

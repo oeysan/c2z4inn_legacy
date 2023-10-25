@@ -1,5 +1,5 @@
 ---
-title: "9IM4GFE5"
+title: "Researching social justice and health (in)equality across different school Health and Physical Education contexts in Sweden, Norway and New Zealand"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9IM4GFE5" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1599877" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9IM4GFE5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-9IM4GFE5" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-9IM4GFE5" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-9IM4GFE5" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/1356336X18783916" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,27 @@ type: pub
   <div id="csl-bib-meta-container-9IM4GFE5"></div>
 </article>
 <div id="csl-bib-meta-9IM4GFE5" class="csl-bib-meta">
+  <article id="abstract-article-9IM4GFE5" class="abstract-article">
+    <h1>Abstract</h1>
+    The way school Health and Physical Education (HPE) is conceptualized and taught will impact on its 
+ability to provide equitable outcomes across gender, sexuality, ethnicity, religion and social class. A 
+focus on social justice in HPE is pertinent in times when these ideals are currently under threat 
+from neoliberal globalization. This paper draws on data from the initial year of an international 
+collaboration project called ‘Education for Equitable Health Outcomes – The Promise of School 
+Health and Physical Education’ involving HPE and Physical Education Teacher Education 
+researchers from Sweden, Norway and New Zealand. The data in this paper record the 
+researchers’ presentations and discussions about issues of social justice and health as informed by 
+school visits and interviews with HPE teachers in the three different countries. The analysis of the 
+data is focused on what is addressed in the name of social justice in each of the three countries and 
+how cross-cultural researchers of social justice in HPE interpret different contexts. In order to 
+analyse the data, we draw on Michael Uljens’s concepts of non-affirmative and non-hierarchical 
+education. The findings suggest that researching social justice and health (in)equality across different 
+countries offers both opportunities and challenges when it comes to understanding the 
+enactment of social justice in school and HPE practices. We conclude by drawing on Uljens to 
+assert that the quest for social justice in HPE should focus on further problematizing affirmative 
+and hierarchical educational practices since social justice teaching strategies are enabled and 
+constrained by the contexts in which they are practised.
+  </article>
   <article id="contributors-article-9IM4GFE5" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

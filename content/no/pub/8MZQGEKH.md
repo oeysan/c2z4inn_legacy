@@ -1,5 +1,5 @@
 ---
-title: "8MZQGEKH"
+title: "Forest education as contribution to education for environmental citizenship and non-anthropocentric perspectives"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8MZQGEKH" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2027032" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/8MZQGEKH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-8MZQGEKH" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-8MZQGEKH" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-8MZQGEKH" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/13504622.2022.2060940" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-8MZQGEKH"></div>
 </article>
 <div id="csl-bib-meta-8MZQGEKH" class="csl-bib-meta">
+  <article id="abstract-article-8MZQGEKH" class="abstract-article">
+    <h1>Samandrag</h1>
+    Forest ecosystems play a fundamental role in mitigating global environmental changes. The development of environmentally sound behavior, and inter- and intragenerational equity can help counteract these global changes. One type of formal and non-formal environmental education is forest education, which aims to promote the achievement of sustainable development in forest-related ecosystems. We conducted an empirical study among forest educators in Austria, using a mixed-method approach, to investigate the potential of forest education to promote education for environmental citizenship. Our findings suggest that forest education and encounters with nature can lead to increased self-responsibility and contribute to critically reflect experience-based changes in behaviour. In conclusion, forest education is a useful tool for environmental citizenship education that contributes to improved understanding of forest ecosystems and non-anthropocentric perspectives for future development. However, forest education lacks funding, integration into formal education curricula, and the harmonization of framework conditions in non-formal education.
+  </article>
   <article id="contributors-article-8MZQGEKH" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

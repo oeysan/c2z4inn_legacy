@@ -1,5 +1,5 @@
 ---
-title: "43SHB7AF"
+title: "Social reading and the public sphere in Nordic public libraries: a comparative study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-43SHB7AF" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2027529" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/43SHB7AF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-43SHB7AF" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-43SHB7AF" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-43SHB7AF" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://doi.org/10.47989/colis2234" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-43SHB7AF"></div>
 </article>
 <div id="csl-bib-meta-43SHB7AF" class="csl-bib-meta">
+  <article id="abstract-article-43SHB7AF" class="abstract-article">
+    <h1>Abstract</h1>
+    This paper presents research on how public librarians in Denmark, Iceland, Norway and Sweden view the importance of social reading and related professional roles. Previous research findings from a questionnaire administered to public librarians are analysed in depth in order to identify trends that can be further investigated in a subsequent qualitative study. The previous findings broadly show variation in the importance of social reading activities and related professional roles at the country level. A detailed understanding of the variations is elicited through a more comprehensive analysis at the country and community levels. Social reading plays a more important role in Danish and Icelandic libraries than in Norwegian and Swedish libraries, however it is more important in larger communities in Iceland and Sweden and smaller communities in Denmark and Norway. The role of literary mediator appears to correspond highly to librarians’ professional role across all countries and community sizes whereas that of a literary critic somewhat less. The results establish a need for further research on social reading in public libraries, especially concerning the types and nature of activities generally included in social reading and the extent digital solutions are used.
+  </article>
   <article id="contributors-article-43SHB7AF" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

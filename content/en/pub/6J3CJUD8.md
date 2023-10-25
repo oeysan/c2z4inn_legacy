@@ -1,5 +1,5 @@
 ---
-title: "6J3CJUD8"
+title: "Hellenismos: Texts in the Contemporary Worship of the Ancient Greek Gods in North America"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,24 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6J3CJUD8" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1933318" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/6J3CJUD8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-6J3CJUD8" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-6J3CJUD8" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1558/pome.40056" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-6J3CJUD8"></div>
 </article>
 <div id="csl-bib-meta-6J3CJUD8" class="csl-bib-meta">
+  <article id="abstract-article-6J3CJUD8" class="abstract-article">
+    <h1>Abstract</h1>
+    The article explores worship of ancient Greek gods among three contemporary 
+Pagan groups in North America. The main focus is on how the 
+groups use texts, both ancient and modern, in their theology and rituals. 
+The groups’ approaches are explored through interviews, analyses of 
+websites, and the texts referred to. How do the groups approaches differ 
+from each other and what can we learn from their different reconstruction strategies?
+  </article>
   <article id="contributors-article-6J3CJUD8" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

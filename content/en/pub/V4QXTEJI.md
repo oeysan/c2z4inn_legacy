@@ -1,5 +1,5 @@
 ---
-title: "V4QXTEJI"
+title: "Equal-Volume Strength Training With Different Training Frequencies Induces Similar Muscle Hypertrophy and Strength Improvement in Trained Participants"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-V4QXTEJI" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1989641" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/V4QXTEJI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-V4QXTEJI" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-V4QXTEJI" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-V4QXTEJI" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fphys.2021.789403/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-V4QXTEJI"></div>
 </article>
 <div id="csl-bib-meta-V4QXTEJI" class="csl-bib-meta">
+  <article id="abstract-article-V4QXTEJI" class="abstract-article">
+    <h1>Abstract</h1>
+    The main goal of the current study was to compare the effects of volume-equated training frequency on gains in muscle mass and strength. In addition, we aimed to investigate whether the effect of training frequency was affected by the complexity, concerning the degrees of freedom, of an exercise. Participants were randomized to a moderate training frequency group (two weekly sessions) or high training frequency group (four weekly sessions). Twenty-one participants (male: 11, female: 10, age: 25.9 ± 4.0) completed the 9-week whole-body progressive heavy resistance training intervention with moderate (n = 13) or high (n = 8) training frequency. Whole-body and regional changes in lean mass were measured using dual-energy x-ray absorptiometry, while the vastus lateralis thickness was measured by ultrasound. Changes in muscle strength were measured as one repetition maximum for squat, hack squat, bench press, and chest press. No differences between groups were observed for any of the measures of muscle growth or muscle strength. Muscle strength increased to a greater extent in hack squat and chest press than squat and bench press for both moderate (50 and 21% vs. 19 and 14%, respectively) and high-frequency groups (63 and 31% vs. 19 and 16%, respectively), with no differences between groups. These results suggest that training frequency is less decisive when weekly training volume is equated. Further, familiarity with an exercise seems to be of greater importance for strength adaptations than the complexity of the exercise.
+  </article>
   <article id="contributors-article-V4QXTEJI" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

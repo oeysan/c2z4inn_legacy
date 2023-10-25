@@ -1,5 +1,5 @@
 ---
-title: "89CKPSWC"
+title: "Teacher Nominations of Preschool Children at Risk for Mental Health Problems: how False Is a False Positive Nomination and What Make Teachers Concerned?"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-89CKPSWC" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1896237" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/89CKPSWC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-89CKPSWC" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-89CKPSWC" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-89CKPSWC" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s10862-021-09871-6.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-89CKPSWC"></div>
 </article>
 <div id="csl-bib-meta-89CKPSWC" class="csl-bib-meta">
+  <article id="abstract-article-89CKPSWC" class="abstract-article">
+    <h1>Abstract</h1>
+    Identification attempts in populations with a low prevalence of problems usually result in a considerable number of false positives. Thus, the aim of the current study was to investigate the false positive rate following nomination of developmental concerns by preschool teachers and the reasons for which teachers raise developmental concerns about children who display non-clinical levels of mental health problems.A total of 1430 children aged 1 to 6 years in Norwegian childcare centers were classified as true positive, false positive, true negative, or false negative by comparing preschool teachers’ nomination with their ratings on the Caregiver-Teacher Report Form, resulting in 127 (9%) false positives and 1142 (80%) true negatives.Compared to the true negative group, the false positive group received significantly higher scores on internalizing problems, externalizing problems than true negatives, conflict and significantly lower scores on closeness. Children’s internalizing and externalizing problems and age were the main factors that increased the likelihood of teachers raising concerns, while increased closeness in the teacher-child relationship reduced the likelihood of being nominated. Children’s gender and conflict level were not significant when adjusting for other factors.These findings suggest that preschool teachers’ concerns about children’s development should not be discarded as the false positive group did show elevated levels of problem behavior and poorer teacher-child relationship compared to the true negative group. Scrutinizing concerns in collaboration with parents and other mental health professionals may be beneficial to ensure healthy development for children with elevated problem levels.
+  </article>
   <article id="contributors-article-89CKPSWC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

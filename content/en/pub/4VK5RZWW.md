@@ -1,5 +1,5 @@
 ---
-title: "4VK5RZWW"
+title: "Customer experiences in crisis situations: An agency-structure perspective"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4VK5RZWW" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2027575" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/4VK5RZWW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-4VK5RZWW" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-4VK5RZWW" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-4VK5RZWW" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://doi.org/10.1177/14705931221104520" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-4VK5RZWW"></div>
 </article>
 <div id="csl-bib-meta-4VK5RZWW" class="csl-bib-meta">
+  <article id="abstract-article-4VK5RZWW" class="abstract-article">
+    <h1>Abstract</h1>
+    In times of crisis, interactions and structures can change, eradicating prevailing norms and rules, with enduring unfavorable effects, and existing conceptual frameworks may fail to explain the effects of radical contextual change. In such contexts, the meaning of the customer experience is also likely to change, and touchpoints, cues, and the concept of the customer journey may prove insufficient to theorize the formation of those experiences. Adopting an agency-structure perspective, the article explores how crisis disrupts and alters structuration modalities, including space-time perception, access to resources, and institutional arrangements. To conceptualize how these contextual changes affect customer experience, we contend that it is necessary to understand the complex set of interactions among multiple actors and the structures and modalities that together shape the customer experience. Drawing on structuration theories to elucidate how disruptive contexts and crisis modalities affect the customer experience, the proposed conceptual framework identifies crisis modalities (discontinuities, accessibility, and fragmentability) that explain customer experiences in disruptive contexts as meaningful patterns of interaction informed by structure and agency. These findings can help firms to understand and manage customer experiences in disruptive contexts. In conclusion, we discuss how future research might contextualize and test the proposed framework.
+  </article>
   <article id="contributors-article-4VK5RZWW" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "UT3NZT26"
+title: "Conceptualising employee involvement in service innovation: an integrative review"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UT3NZT26" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1965618" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/UT3NZT26" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-UT3NZT26" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-UT3NZT26" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-UT3NZT26" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/JOSM-11-2019-0348" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,27 @@ type: pub
   <div id="csl-bib-meta-container-UT3NZT26"></div>
 </article>
 <div id="csl-bib-meta-UT3NZT26" class="csl-bib-meta">
+  <article id="abstract-article-UT3NZT26" class="abstract-article">
+    <h1>Abstract</h1>
+    Employees are considered as important contributors to service innovation, but the literature is not 
+unanimous about what employee involvement in service innovation entails. To advance theoretical 
+understanding of the topic, this paper develops a conceptual framework for analysing employee 
+involvement in service innovations, reviews existing research on the topic and proposes a research agenda. 
+Design/methodology/approach – Different modes of employee involvement in service innovation are 
+distinguished based on two dimensions: (1) the intensity of employee influence on service innovation and (2) the 
+breadth of the innovation activity in which employees are involved. This conceptual framework is abductively 
+developed through a literature review of empirical service innovation studies to identify and analyse whether 
+and how these modes of employee involvement are manifested in the service innovation literature. 
+Findings – The findings delineate six modes of employee involvement in the reviewed service innovation 
+studies. Employees are primarily seen as having a strong influence on situated innovation activities but a 
+limited influence on systemic innovation activities. The findings show that more research is needed to assess 
+the connections between different modes of employee involvement. 
+Practical implications – The findings can be used by practitioners to assess the possibilities different modes 
+of employee involvement may bring to service innovation activities. 
+Originality/value – The proposed conceptual framework and the analysis of current research and research 
+gaps in service innovation studies provide a clear research agenda for progressing multidimensional 
+understanding of employee involvement in service innovation.
+  </article>
   <article id="contributors-article-UT3NZT26" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -83,7 +105,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

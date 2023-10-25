@@ -1,5 +1,5 @@
 ---
-title: "CP7BI3CR"
+title: "Nordic civil spheres and pro-civil states"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CP7BI3CR" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1757829" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/CP7BI3CR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
   </div>
   <div id="csl-bib-meta-container-CP7BI3CR"></div>
 </article>

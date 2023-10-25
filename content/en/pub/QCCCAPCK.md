@@ -1,5 +1,5 @@
 ---
-title: "QCCCAPCK"
+title: "Effects of forest roads on oak trees via cervid habitat use and browsing"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QCCCAPCK" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1596138" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/QCCCAPCK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-QCCCAPCK" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-QCCCAPCK" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-QCCCAPCK" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://brage.inn.no/inn-xmlui/bitstream/11250/2576594/4/Mathisen%20et%20al%202018%20Effect%20of%20forest%20roads%20on%20oak%20trees%20FEM%20post%20print.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,24 @@ type: pub
   <div id="csl-bib-meta-container-QCCCAPCK"></div>
 </article>
 <div id="csl-bib-meta-QCCCAPCK" class="csl-bib-meta">
+  <article id="abstract-article-QCCCAPCK" class="abstract-article">
+    <h1>Abstract</h1>
+    Roads can aﬀect animals in several ways, by aﬀecting movement, space use, foraging behavior and mortality. As 
+roads often have a negative eﬀect on populations of birds and mammals, their eﬀects are important for wildlife 
+management. However, the eﬀect of roads diﬀer between diﬀerent types of roads, and most studies of road 
+ecology have focused on major roads with high traﬃc intensity, whilst eﬀects of smaller unpaved forest roads in 
+northern ecosystems are less known. We investigated the eﬀects of forest roads in a mixed conifer forest in 
+central Europe on cervid habitat use and browsing impact on forest regeneration during the winter season. We 
+found that hunted cervid species avoided forest roads, and that browsing pressure was higher within the core of 
+forest areas rather than close to roads. This led to an increased density of undamaged trees (by browsing) close to 
+forest roads, whilst browsing damages were relatively high in the interior. Hunters often use these forest roads in 
+the hunting season. We suggest that human disturbance creates corridors of fear along forest roads, and that 
+cervids alter their habitat and browse use to avoid humans. This in turn has implications for forest and cervid 
+management. This is the ﬁrst study to document that gravel roads can aﬀect oak trees through modifying cervid 
+behavior. Future studies should use experiments to explore this question further and separate diﬀerent eﬀects of 
+forest roads to understand the mechanisms; edge eﬀects on vegetation, traﬃc, eﬀects on natural predators and 
+human disturbance.
+  </article>
   <article id="contributors-article-QCCCAPCK" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

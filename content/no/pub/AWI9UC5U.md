@@ -1,5 +1,5 @@
 ---
-title: "AWI9UC5U"
+title: "Professional development among newly graduated registered nurses working in acute care hospital settings: A qualitative explorative study"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AWI9UC5U" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2053612" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/AWI9UC5U" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AWI9UC5U" class="csl-bib-button">Medverkande</a>
     <a href="http://kau.diva-portal.org/smash/get/diva2:1696973/FULLTEXT01" class="csl-bib-button">Unpaywall</a>
   </div>

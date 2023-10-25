@@ -1,5 +1,5 @@
 ---
-title: "7DQVUCLJ"
+title: "The Role of Moral Experts in Secret Policy"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7DQVUCLJ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2140934" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/7DQVUCLJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-7DQVUCLJ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-7DQVUCLJ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-7DQVUCLJ" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s11158-023-09582-7.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-7DQVUCLJ"></div>
 </article>
 <div id="csl-bib-meta-7DQVUCLJ" class="csl-bib-meta">
+  <article id="abstract-article-7DQVUCLJ" class="abstract-article">
+    <h1>Abstract</h1>
+    Is it morally permissible to spy on allied countries? What otherwise criminal acts  may covert intelligence agents commit in order to keep their cover? Is it permissible to subject children of high value targets to covert surveillance? In this article, I ask whether democratically elected politicians ought to rely on advice from ethics committees in answering moral choices in secret policy. I argue that ethics committees should not advice politicians on how they ought to conclude in secret moral choices. Instead, we can mandate ethics committees to provide advice aimed at improving the moral reasoning behind moral decisions in secret policy. Such advice, I argue, may add value to the decision process independently of whether it increases the chances of reaching morally correct conclusions.
+  </article>
   <article id="contributors-article-7DQVUCLJ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

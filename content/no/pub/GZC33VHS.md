@@ -1,5 +1,5 @@
 ---
-title: "GZC33VHS"
+title: "Concerns Related to the COVID-19 in Adult Norwegians during the First Outbreak in 2020: A Qualitative Approach"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GZC33VHS" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1904484" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/GZC33VHS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-GZC33VHS" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-GZC33VHS" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-GZC33VHS" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.mdpi.com/1660-4601/18/8/4312/pdf?version=1618827966" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-GZC33VHS"></div>
 </article>
 <div id="csl-bib-meta-GZC33VHS" class="csl-bib-meta">
+  <article id="abstract-article-GZC33VHS" class="abstract-article">
+    <h1>Samandrag</h1>
+    Concerns related to the first outbreak of the COVID-19 pandemic in the Norwegian population are studied in a cross-sectional web-survey conducted between 8 April and 20 May 2020. The qualitative thematic analysis of the open-ended question “Do you have other concerns related to the pandemic?”, followed a six-step process. Concerns from 1491 informants were analyzed, 34% of women and 30% of men (p = 0.05) provided concerns. Respondents with higher educational level reported concerns more often (86% vs. 83%, p = 0.022). The qualitative analysis revealed five themes—society, health, social activities, personal economy and duration—and 13 sub-themes, mostly related to the themes “society” and “health” (724 and 704, respectively). Empathy for others was prominent, for society (nationally and globally), but also concerns related to infecting others and family members at risk for developing serious illness if infected. The responses to the open-ended question yielded additional information, beyond the information obtained from questions with pre-categorized response options, especially related to concerns about society and health. Themes arising from the qualitative analysis shed light on what are important concerns for people during the pandemic and this may serve as targeted measures for the authorities.
+  </article>
   <article id="contributors-article-GZC33VHS" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

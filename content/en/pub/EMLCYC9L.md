@@ -1,5 +1,5 @@
 ---
-title: "EMLCYC9L"
+title: "University-industry collaboration: constructing a business model lab for student venture creation"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EMLCYC9L" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2131703" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/EMLCYC9L" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EMLCYC9L" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-EMLCYC9L"></div>

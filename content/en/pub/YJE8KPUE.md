@@ -1,5 +1,5 @@
 ---
-title: "YJE8KPUE"
+title: "Should we individualize training based on force‐velocity profiling to improve physical performance in athletes?"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YJE8KPUE" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1947805" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/YJE8KPUE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-YJE8KPUE" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-YJE8KPUE" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1111/sms.14044" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-YJE8KPUE"></div>
 </article>
 <div id="csl-bib-meta-YJE8KPUE" class="csl-bib-meta">
+  <article id="abstract-article-YJE8KPUE" class="abstract-article">
+    <h1>Abstract</h1>
+    The present study aimed to examine the effectiveness of an individualized training program based on force-velocity (FV) profiling on jumping, sprinting, strength, and power in athletes. Forty national level team sport athletes (20 ± 4years, 83 ± 13 kg) from ice-hockey, handball, and soccer completed a 10-week training intervention. A theoretical optimal squat jump (SJ)-FV-profile was calculated from SJ with five different loads (0, 20, 40, 60, and 80 kg). Based on their initial FV-profile, athletes were randomized to train toward, away, or irrespective (balanced training) of their initial theoretical optimal FV-profile. The training content was matched between groups in terms of set x repetitions but varied in relative loading to target the different aspects of the FV-profile. The athletes performed 10 and 30 m sprints, SJ and countermovement jump (CMJ), 1 repetition maximum (1RM) squat, and a leg-press power test before and after the intervention. There were no significant group differences for any of the performance measures. Trivial to small changes in 1RM squat (2.9%, 4.6%, and 6.5%), 10 m sprint time (1.0%, −0.9%, and −1.7%), 30 m sprint time (0.9%, −0.6%, and −0.4%), CMJ height (4.3%, 3.1%, and 5.7%), SJ height (4.8%, 3.7%, and 5.7%), and leg-press power (6.7%, 4.2%, and 2.9%) were observed in the groups training toward, away, or irrespective of their initial theoretical optimal FV-profile, respectively. Changes toward the optimal SJ-FV-profile were negatively correlated with changes in SJ height (r = −0.49, p &lt; 0.001). Changes in SJ-power were positively related to changes in SJ-height (r = 0.88, p &lt; 0.001) and CMJ-height (r = 0.32, p = 0.044), but unrelated to changes in 10 m (r = −0.02, p = 0.921) and 30 m sprint time (r = −0.01, p = 0.974). The results from this study do not support the efficacy of individualized training based on SJ-FV profiling.
+  </article>
   <article id="contributors-article-YJE8KPUE" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

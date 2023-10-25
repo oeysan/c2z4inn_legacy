@@ -1,5 +1,5 @@
 ---
-title: "DIRV3JIX"
+title: "Agency and economic change in regions: identifying routes to new path development using qualitative comparative analysis"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DIRV3JIX" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2036674" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DIRV3JIX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-DIRV3JIX" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-DIRV3JIX" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-DIRV3JIX" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/00343404.2022.2053095?needAccess=true" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-DIRV3JIX"></div>
 </article>
 <div id="csl-bib-meta-DIRV3JIX" class="csl-bib-meta">
+  <article id="abstract-article-DIRV3JIX" class="abstract-article">
+    <h1>Abstract</h1>
+    This paper investigates the role of human agency in 40 phases of regional economic development in 12 Nordic regions over 30 years. It contributes with a theoretical framework to study agency over time and a fuzzy-set qualitative comparative analysis based on a unique dataset combining over 200 interviews, with printed and online sources, and quantitative data. The paper identifies which combinations of agency types and context conditions make industrial upgrading or diversification possible, and investigates how such combinations come into being. The causal claims from this analysis are illustrated with empirical examples and discussed in relation to previous literature.
+  </article>
   <article id="contributors-article-DIRV3JIX" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -57,7 +62,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">

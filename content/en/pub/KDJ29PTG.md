@@ -1,5 +1,5 @@
 ---
-title: "KDJ29PTG"
+title: "How do environmental taxes influence the effect of tourism on environmental performance? Evidence from EU countries"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KDJ29PTG" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2106280" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KDJ29PTG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KDJ29PTG" class="csl-bib-button">Contributors</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/13683500.2022.2157706?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>

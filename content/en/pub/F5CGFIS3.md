@@ -1,5 +1,5 @@
 ---
-title: "F5CGFIS3"
+title: "Allometric relationships in morphological traits associated with foraging, swimming ability, and predator defense reveal adaptations toward brackish and freshwater environments in the threespine stickleback"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-F5CGFIS3" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1843530" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/F5CGFIS3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-F5CGFIS3" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-F5CGFIS3" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-F5CGFIS3" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://doi.org/10.1002/ece3.6945" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-F5CGFIS3"></div>
 </article>
 <div id="csl-bib-meta-F5CGFIS3" class="csl-bib-meta">
+  <article id="abstract-article-F5CGFIS3" class="abstract-article">
+    <h1>Abstract</h1>
+    Freshwater colonization by threespine stickleback has led to divergence in morphology between ancestral marine and derived freshwater populations, making them ideal for studying natural selection on phenotypes. In an open brackish–freshwater system, we previously discovered two genetically distinct stickleback populations that also differ in geometric shape: one mainly found in the brackish water lagoon and one throughout the freshwater system. As shape and size are not perfectly correlated, the aim of this study was to identify the morphological trait(s) that separated the populations in geometric shape. We measured 23 phenotypes likely to be important for foraging, swimming capacity, and defense against predation. The lateral plate morphs in freshwater displayed few significant changes in trait sizes, but the low plated expressed feeding traits more associated with benthic habitats. When comparing the completely plated genetically assigned populations, the freshwater, the hybrids, the migrants and the lagoon fish, many of the linear traits had different slopes and intercepts in trait‐size regressions, precluding our ability to directly compare all traits simultaneously, which most likely results from low variation in body length for the lagoon and migrant population. We found the lagoon stickleback population to be more specialized toward the littoral zone, displaying benthic traits such as large, deep bodies with smaller eyes compared to the freshwater completely plated morph. Further, the lagoon and migrant fish had an overall higher body coverage of lateral plates compared to freshwater fish, and the dorsal and pelvic spines were longer. Evolutionary constraints due to allometric scaling relationships could explain the observed, overall restricted, differences in morphology between the sticklebacks in this study, as most traits have diversified in common allometric trajectories. The observed differences in foraging and antipredation traits between the fish with a lagoon and freshwater genetic signature are likely a result of genetic or plastic adaptations toward brackish and freshwater environments.
+  </article>
   <article id="contributors-article-F5CGFIS3" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

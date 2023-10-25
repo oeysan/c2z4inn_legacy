@@ -1,5 +1,5 @@
 ---
-title: "HAJYHVMV"
+title: "Diffusion of Evidence-based Interventions or Practice-based Positive Deviations"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HAJYHVMV" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1676604" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HAJYHVMV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HAJYHVMV" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-HAJYHVMV"></div>

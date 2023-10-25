@@ -1,5 +1,5 @@
 ---
-title: "PIF8YS4B"
+title: "Et rom hvor kroppen kan tre fram gjennom ulike uttrykk. Refleksjoner etter en pilotstudie om overvekt, kvinner og magedans"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PIF8YS4B" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1451588" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PIF8YS4B" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-PIF8YS4B" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-PIF8YS4B" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-PIF8YS4B" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://septentrio.uit.no/index.php/helseforsk/article/download/4055/3811" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-PIF8YS4B"></div>
 </article>
 <div id="csl-bib-meta-PIF8YS4B" class="csl-bib-meta">
+  <article id="abstract-article-PIF8YS4B" class="abstract-article">
+    <h1>Abstract</h1>
+    This articleis based on the implementation of, and reflections on the experiences from a pilotstudy in belly dancing for obesewomen, as well as interviews with participants  in  connection  with  the  course.  The  study had  a  qualitative approach. The movements in belly dance invitesinto a concentration towardsthe   body   along   with   others. This started processes   on   several   levels. Acknowledgment  of  vulnerability  seemed  to  be  a  strength,  and  an  important basis for the women’sdevelopment.Academic communitiesinternationally callfor new approaches and methods in relation to obesity.It is naturally to look at the body and movement in relation to health. If wehoweverare going to create a  space  where  the  body  can  emerge  through  different  expressions, is it then necessary to focus on health? Can the term healthblocka new insight? Maybewe also should concentrate more on attention to the body and its expressions?
+  </article>
   <article id="contributors-article-PIF8YS4B" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

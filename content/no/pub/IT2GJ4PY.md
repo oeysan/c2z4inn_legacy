@@ -1,5 +1,5 @@
 ---
-title: "IT2GJ4PY"
+title: "INTERORGANISATIONAL COLLABORATION FOR INNOVATION IMPROVEMENT IN MANUFACTURING FIRMS’S: THE MEDIATING ROLE OF SOCIAL PERFORMANCE"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IT2GJ4PY" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2096694" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/IT2GJ4PY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-IT2GJ4PY" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-IT2GJ4PY" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-IT2GJ4PY" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1142/S1363919620500498" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-IT2GJ4PY"></div>
 </article>
 <div id="csl-bib-meta-IT2GJ4PY" class="csl-bib-meta">
+  <article id="abstract-article-IT2GJ4PY" class="abstract-article">
+    <h1>Samandrag</h1>
+    The impact of collaboration on innovation performance has been investigated in many studies. This study provides a unique view on innovation performance by exploring the mediating role of social performance between collaboration and innovation performance. For this, a structural model was tested through an empirical investigation with partial least squares structural equation modelling (PLS-SEM) using a sample made up of 239 export manufacturing firms. The results of the empirical study show that social performance appears to be a necessary condition for innovation performance. Our findings confirm the great potential of addressing social concern increasingly drive innovation performance. The next decade is likely to be a period of rapidly expanding social performance practices in the manufacturing firms. The managers could foster sustainable innovation by collaborating customers and enhance their firm social performance.
+  </article>
   <article id="contributors-article-IT2GJ4PY" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -57,7 +62,7 @@ Studiested Kongsvinger
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">

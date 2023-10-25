@@ -1,5 +1,5 @@
 ---
-title: "E4F7HHG4"
+title: "Trans* and gender variant citizenship and the state in Norway"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E4F7HHG4" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1608417" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/E4F7HHG4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-E4F7HHG4" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-E4F7HHG4" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-E4F7HHG4" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/0261018317733084" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-E4F7HHG4"></div>
 </article>
 <div id="csl-bib-meta-E4F7HHG4" class="csl-bib-meta">
+  <article id="abstract-article-E4F7HHG4" class="abstract-article">
+    <h1>Samandrag</h1>
+    The last decade has seen the expansion of trans* identities that are gender queer, non-binary, androgynous, or multiply-sexed and gendered in Western Europe. These developments mark a shift from a uniformly gender-binaried system to one that encompasses some degree of gender pluralism, as reflected to an extent in policy changes in some European countries. However, gender binarism is still prevalent. This article uses the case of Norway to demonstrate a contrast between the citizenship statuses afforded to transsexual men and women, and the lack of citizenship rights that people with non-binary identities, and other gender-variant people who are not diagnosed as transsexual, face. The article addresses the historical role of the Norwegian state in perpetuating gender binaries, in key areas such as identity recognition. It then explores the ways in which Norwegian social policy is changing towards more trans-sensitive positions.
+  </article>
   <article id="contributors-article-E4F7HHG4" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

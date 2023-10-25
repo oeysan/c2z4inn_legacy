@@ -1,5 +1,5 @@
 ---
-title: "VQV25LRV"
+title: "Enacting assessment for learning in the induction phase of physical education teaching"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VQV25LRV" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1969726" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VQV25LRV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-VQV25LRV" class="csl-bib-button">Abstract</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/1356336X211056208" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VQV25LRV"></div>
 </article>
 <div id="csl-bib-meta-VQV25LRV" class="csl-bib-meta">
+  <article id="abstract-article-VQV25LRV" class="abstract-article">
+    <h1>Abstract</h1>
+    In many countries, assessment for learning (AfL) is recommended in both policy and research as a concept that should be integrated into the teaching of physical education (PE) in schools. AfL is also part of physical education teacher education (PETE) programs in several countries and, consequently, something future PE teachers are expected to practice in their teaching. In a previous study ( Tolgfors et al., 2021), we showed how AfL was transmitted and transformed between a university course and a school placement course within Swedish PETE. In the current study, we have more closely followed three of the preservice teachers who took part in our initial study into their first year of PE teaching. The purpose of this follow-up study is thus to explore how AfL is enacted in the induction phase of PE teaching. The more specific research question is: how is AfL enacted in beginning teachers’ PE practices under the contextual conditions provided at the schools where they are employed? The data were generated through Stimulated Recall interviews and follow-up interviews via the online meeting software Zoom. The analysis was based on Braun et al.’s (2011) contextual dimensions of policy enactment and Bernstein’s (1996) pedagogic device. Our findings illustrate how AfL is generally enacted through (1) progression and (2) “rich tasks.” However, the contextual dimensions of each school provide different conditions that either support or hinder the use of AfL in PE. AfL is accordingly enacted in different ways in the induction phase of PE teaching.
+  </article>
   <article id="taxonomy-article-VQV25LRV" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>

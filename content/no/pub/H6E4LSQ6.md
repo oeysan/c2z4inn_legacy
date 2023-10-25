@@ -1,5 +1,5 @@
 ---
-title: "H6E4LSQ6"
+title: "The Aerobic and Anaerobic Contribution During Repeated 30-s Sprints in Elite Cyclists"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-H6E4LSQ6" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1923428" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/H6E4LSQ6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-H6E4LSQ6" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-H6E4LSQ6" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-H6E4LSQ6" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fphys.2021.692622/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-H6E4LSQ6"></div>
 </article>
 <div id="csl-bib-meta-H6E4LSQ6" class="csl-bib-meta">
+  <article id="abstract-article-H6E4LSQ6" class="abstract-article">
+    <h1>Samandrag</h1>
+    Although the ability to sprint repeatedly is crucial in road cycling races, the changes in aerobic and anaerobic power when sprinting during prolonged cycling has not been investigated in competitive elite cyclists. Here, we used the gross efficiency (GE)-method to investigate: (1) the absolute and relative aerobic and anaerobic contributions during 3 × 30-s sprints included each hour during a 3-h low-intensity training (LIT)-session by 12 cyclists, and (2) how the energetic contribution during 4 × 30-s sprints is affected by a 14-d high-volume training camp with (SPR, n = 9) or without (CON, n = 9) inclusion of sprints in LIT-sessions. The aerobic power was calculated based on GE determined before, after sprints, or the average of the two, while the anaerobic power was calculated by subtracting the aerobic power from the total power output. When repeating 30-s sprints, the mean power output decreased with each sprint ( p 0.001, ES:0.6–1.1), with the majority being attributed to a decrease in mean anaerobic power (first vs. second sprint: −36 ± 15 W, p 0.001, ES:0.7, first vs. third sprint: −58 ± 16 W, p 0.001, ES:1.0). Aerobic power only decreased during the third sprint (first vs. third sprint: −17 ± 5 W, p 0.001, ES:0.7, second vs. third sprint: 16 ± 5 W, p 0.001, ES:0.8). Mean power output was largely maintained between sets (first set: 786 ± 30 W vs. second set: 783 ± 30 W, p = 0.917, ES:0.1, vs. third set: 771 ± 30 W, p = 0.070, ES:0.3). After a 14-d high-volume training camp, mean power output during the 4 × 30-s sprints increased on average 25 ± 14 W in SPR ( p 0.001, ES:0.2), which was 29 ± 20 W more than CON ( p = 0.008, ES: 0.3). In SPR, mean anaerobic power and mean aerobic power increased by 15 ± 13 W ( p = 0.026, ES:0.2) and by 9 ± 6 W ( p = 0.004, ES:0.2), respectively, while both were unaltered in CON. In conclusion, moderate decreases in power within sets of repeated 30-s sprints are primarily due to a decrease in anaerobic power and to a lesser extent in aerobic power. However, the repeated sprint-ability (multiple sets) and corresponding energetic contribution are maintained during prolonged cycling in elite cyclists. Including a small number of sprints in LIT-sessions during a 14-d training camp improves sprint-ability mainly through improved anaerobic power.
+  </article>
   <article id="contributors-article-H6E4LSQ6" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

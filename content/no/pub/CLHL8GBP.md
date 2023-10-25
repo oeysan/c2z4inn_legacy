@@ -1,5 +1,5 @@
 ---
-title: "CLHL8GBP"
+title: "Applying the Organizational Centaur Theory on Boundary Spanners in Demanding Situations"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CLHL8GBP" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1676922" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/CLHL8GBP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-CLHL8GBP" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-CLHL8GBP" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-CLHL8GBP" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.intechopen.com/citation-pdf-url/59671" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-CLHL8GBP"></div>
 </article>
 <div id="csl-bib-meta-CLHL8GBP" class="csl-bib-meta">
+  <article id="abstract-article-CLHL8GBP" class="abstract-article">
+    <h1>Samandrag</h1>
+    The aim of the present study was to compare the existing conceptualization of the dual nature of organizational centaurs to discover what could be found in an investigation of organizational contexts characterized by risky and life-threatening situations. The study design involved a two-step procedure. The first step was inductive in character and followed the guidelines of grounded theory regarding selection of the participants in the study (further called informants, N = 71), data collection and initial analysis. The second step consisted of an attempt to compare this conceptual model to the existing ideal-typical descriptions of the organizational centaur concept. Managing crisis, disasters and other uncertainties as a boundary spanner can be understood in terms of a typology differentiated at the organizational and individual levels. The organizational part defines the prevailing conditions in uniformed, greedy organizations for boundary spanners who contribute to the organization’s foundation of competence and behavior, and also outlines the limitations this may entail. The individual part focuses on the human such as no room for mistakes and the management of asymmetrical collaborations. It was concluded that the special case of severely demanding conditions added new insights into the organizational centaur framework.
+  </article>
   <article id="contributors-article-CLHL8GBP" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

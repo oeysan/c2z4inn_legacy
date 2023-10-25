@@ -1,5 +1,5 @@
 ---
-title: "JMYF4RL4"
+title: "Assessing global copper, zinc and lead extraction rates, supply, price and resources using the WORLD7 integrated assessment model."
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JMYF4RL4" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1856263" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JMYF4RL4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JMYF4RL4" class="csl-bib-button">Contributors</a>
     <a href="https://doi.org/10.1016/j.rcrx.2019.100007" class="csl-bib-button">Unpaywall</a>
   </div>

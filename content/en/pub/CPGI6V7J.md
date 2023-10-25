@@ -1,5 +1,5 @@
 ---
-title: "CPGI6V7J"
+title: "Psychosocial Aspects of Adult Acne: Data from 13 European Countries"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CPGI6V7J" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1871789" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/CPGI6V7J" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CPGI6V7J" class="csl-bib-button">Contributors</a>
     <a href="https://www.medicaljournals.se/acta/download/10.2340/00015555-3409/" class="csl-bib-button">Unpaywall</a>
   </div>

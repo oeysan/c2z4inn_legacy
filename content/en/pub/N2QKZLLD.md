@@ -1,5 +1,5 @@
 ---
-title: "N2QKZLLD"
+title: "Testing ActiveYou II: Applying Cognitive Interviews in Improving Item Quality and Applicability of a Web-Based, Self-Report Instrument on Participation in Children with Disabilities"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-N2QKZLLD" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1918489" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/N2QKZLLD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-N2QKZLLD" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-N2QKZLLD" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-N2QKZLLD" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/1660-4601/18/9/4768/pdf?version=1619775379" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-N2QKZLLD"></div>
 </article>
 <div id="csl-bib-meta-N2QKZLLD" class="csl-bib-meta">
+  <article id="abstract-article-N2QKZLLD" class="abstract-article">
+    <h1>Abstract</h1>
+    Background: Children and youth with disabilities participate less in leisure activities than their nondisabled peers. Increasing participation is a primary goal of rehabilitation interventions. However, valid measures that include the individual’s perspectives and facilitating and hindering factors for participation are lacking in the Norwegian setting. In this study, ActiveYou II, a self-report, web-based instrument under development, was tested to obtain item quality and applicability. Methods: Nine children with disabilities participated in cognitive interviews, testing a first set of ActiveYou II items. The verbal probe method for cognitive interviews was applied. Results: The children’s comprehension and responses through cognitive interviews improved the applicability and item quality of ActiveYou II. Item adjustments were made to the wording of the questions and response alternatives, and the number of response alternatives were decreased where appropriate. Conclusions: The use of cognitive interviews with children before performing further psychometric testing has been very useful in the development process of ActiveYou II. Adjustments of the questions and response alternatives were made accordingly.
+  </article>
   <article id="contributors-article-N2QKZLLD" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

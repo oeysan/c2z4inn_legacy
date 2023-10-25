@@ -1,5 +1,5 @@
 ---
-title: "87QJIPNQ"
+title: "Extending the servicescape conceptualization: accounting for perceptions of crowding and risks under the pandemic"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-87QJIPNQ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2113152" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/87QJIPNQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-87QJIPNQ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-87QJIPNQ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-87QJIPNQ" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/CBTH-04-2022-0086" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-87QJIPNQ"></div>
 </article>
 <div id="csl-bib-meta-87QJIPNQ" class="csl-bib-meta">
+  <article id="abstract-article-87QJIPNQ" class="abstract-article">
+    <h1>Samandrag</h1>
+    PurposeThough many conceptual and empirical studies have been conducted on the servicescape, limited research has focused on how the COVID-19 pandemic has reshaped factors influencing the servicescape. This paper aims to propose an extension of Bitner’s original conceptualization, including pandemic-induced physical and social constraints on servicescape in the form of crowding, consumer risk perception during the crisis and their impact on consumers' and employees’ behavioral changes in retail and hospitality sectors. Design/methodology/approachThis paper critically reviewed the past and emerging servicescape and risk literature. It then examines and delineates the concepts of crowding, density and associated risk perceptions to offer an extended servicescape framework. Alongside, scales were proposed to measure the constructs and guidelines given to conduct future empirical studies. FindingsThis paper discussed the major impact on servicescape during a pandemic situation, to what extent risk is perceived during consumption and the impact of crowding and store density on employee and customer behavioral responses. Research limitations/implicationsThis paper principally contributes by explicitly including specific risk dimensions and crowding and proposes the scales to measure consumers’ understanding of pandemic-induced perceptions of risk, crowding and density within servicescapes for further empirical testing. Alongside this, the identification and concretization of different types of perceived risks under COVID-19 provide critical and useful marketing implications. Originality/valueThis study identifies relevant risk dimensions, proposes crowding as an independent construct apart from servicescape physicality and proposes relevant measures for empirical verification.
+  </article>
   <article id="contributors-article-87QJIPNQ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

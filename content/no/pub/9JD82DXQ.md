@@ -1,5 +1,5 @@
 ---
-title: "9JD82DXQ"
+title: "The Epistemic Impact of Theorizing: Generation Bias Implies Evaluation Bias"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9JD82DXQ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1755769" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9JD82DXQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="http://philsci-archive.pitt.edu/16679/1/Generation%20Bias%20and%20Evaluation%20Bias%20PhilStud%20Accepted.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-9JD82DXQ"></div>

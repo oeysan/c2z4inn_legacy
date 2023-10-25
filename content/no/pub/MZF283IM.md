@@ -1,5 +1,5 @@
 ---
-title: "MZF283IM"
+title: "The Meaning of the Physical Environment in Child and Adolescent Therapy: A Qualitative Study of the Outdoor Care Retreat"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MZF283IM" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2139724" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/MZF283IM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-MZF283IM" class="csl-bib-button">Medverkande</a>
     <a href="https://www.duo.uio.no/bitstream/10852/101893/1/PostPrint%2bOutdoor%2bcare%2bretreat%2band%2btherapy.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

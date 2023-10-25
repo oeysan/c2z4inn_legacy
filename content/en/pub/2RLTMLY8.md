@@ -1,5 +1,5 @@
 ---
-title: "2RLTMLY8"
+title: "Regional differences in harvesting levels and wood-based employment in Norway"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2RLTMLY8" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1880368" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/2RLTMLY8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-2RLTMLY8" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/s11842-004-0003-4" class="csl-bib-button">EZproxy</a>
   </div>

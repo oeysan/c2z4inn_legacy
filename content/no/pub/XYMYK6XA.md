@@ -1,5 +1,5 @@
 ---
-title: "XYMYK6XA"
+title: "Effects of Risk Attitude and Risk Perceptions on Risk Management Decisions: Evidence from Farmers in an Emerging Economy"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XYMYK6XA" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1971355" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/XYMYK6XA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-XYMYK6XA" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-XYMYK6XA" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-XYMYK6XA" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.22004/ag.econ.310534" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-XYMYK6XA"></div>
 </article>
 <div id="csl-bib-meta-XYMYK6XA" class="csl-bib-meta">
+  <article id="abstract-article-XYMYK6XA" class="abstract-article">
+    <h1>Samandrag</h1>
+    Using primary survey data of onion growers in India, this study tests the relationship and predictability of risk attitude measures on farmers’ undertaking of various risk management decisions. Findings suggest that risk management decisions like diversification, adopting good agricultural practices, quality-enhancing practices, and participation in off-farm work are likely to decrease with decreasing risk-aversion. High-risk-averse farmers are more likely to adopt farm diversification strategies, good agricultural practices, governmentrecommended seed varieties and preventive measures against diseases &amp; pests than low-riskaverse farmers. The likelihood of adopting good agricultural practices decreases with farmers’ perceived higher risks of low-quality production, a higher risk of losing crops due to weather, and insects and pests.
+  </article>
   <article id="contributors-article-XYMYK6XA" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

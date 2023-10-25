@@ -1,5 +1,5 @@
 ---
-title: "JGGKREK4"
+title: "Når brukerne innoverer - Brukerstyrt personlig assistanse som sosial innovasjon"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,45 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JGGKREK4" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1472696" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JGGKREK4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-JGGKREK4" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-JGGKREK4" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/issn.2387-5984-2017-01-05" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-JGGKREK4"></div>
 </article>
 <div id="csl-bib-meta-JGGKREK4" class="csl-bib-meta">
+  <article id="abstract-article-JGGKREK4" class="abstract-article">
+    <h1>Abstract</h1>
+    Innovasjoner i den offentlige 
+velferdssektoren er risikofylte. Problemene er ofte 
+sammensatte og kompliserte, og det kan være 
+vanskelig å forutse negative effekter. Ved radikale 
+innovasjoner vil risikoen øke ved at uforutsigbarheten 
+blir større. I artikkelen analyserer vi 
+utviklingen av brukerstyrt personlig assistanse 
+(BPA) som en radikal sosial innovasjon. I BPA 
+stilles autoritetsforholdet mellom tjenesteytere 
+og tjenestebrukere på hodet ved at brukerne skal 
+styre ordningen. Vi stiller spørsmålet om hvilken 
+skjebne BPA som en brukerinitiert radikal innovasjon 
+har fått etter som den har blitt en del av 
+den offentlige velferdspolitikken, og hvordan offentlige 
+myndigheter har forholdt seg til ordningens 
+«radikalisme». Det empiriske grunnlaget er 
+en studie av offentlige dokumenter fra starten av 
+1990-tallet og fram til i dag, og en case-studie av 
+implementeringen av BPA i ti kommuner. Samlet 
+framstår et flertydig bilde. På den ene siden kan 
+det sees klare tendenser til at offentlige myndigheter 
+søker å stramme til ordningen gjennom ulike 
+«reaktive» virkemidler. Andre utviklingstrekk kan 
+på den annen side bidra til at ordningens særpreg 
+beholdes og sikres, men samtidig kan måten endringene 
+implementeres på bidra til å underminere 
+BPAs særpreg.
+  </article>
   <article id="contributors-article-JGGKREK4" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

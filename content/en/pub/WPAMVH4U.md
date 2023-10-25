@@ -1,5 +1,5 @@
 ---
-title: "WPAMVH4U"
+title: "How the application of teachings can affect the legitimacy of the International Court of Justice"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WPAMVH4U" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1694356" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WPAMVH4U" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-WPAMVH4U" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4324/9780429463280-11" class="csl-bib-button">EZproxy</a>
   </div>

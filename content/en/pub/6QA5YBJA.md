@@ -1,5 +1,5 @@
 ---
-title: "6QA5YBJA"
+title: "How to design a gamified education? Theory and design of a gamified curriculum for IGA, INN"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6QA5YBJA" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1564420" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/6QA5YBJA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-6QA5YBJA" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.21125/edulearn.2017.1476" class="csl-bib-button">EZproxy</a>
   </div>

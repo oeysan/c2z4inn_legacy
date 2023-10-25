@@ -1,5 +1,5 @@
 ---
-title: "G8B7VPJQ"
+title: "Tissue specific expression and cDNA structure of a human transcript encoding a nucleic acid binding [oligo(dC)] protein related to the pre-mRNA binding proteinK"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-G8B7VPJQ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1914019" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/G8B7VPJQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://europepmc.org/articles/pmc307915?pdf=render" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-G8B7VPJQ"></div>

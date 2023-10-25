@@ -1,5 +1,5 @@
 ---
-title: "5GVCCEHF"
+title: "Når studenter og underviseres forventninger til mediebruk kolliderer"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5GVCCEHF" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1847427" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/5GVCCEHF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-5GVCCEHF" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-5GVCCEHF" class="csl-bib-button">Contributors</a>
     <a href="https://tidsskrift.dk/lom/article/download/116223/169818" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-5GVCCEHF"></div>
 </article>
 <div id="csl-bib-meta-5GVCCEHF" class="csl-bib-meta">
+  <article id="abstract-article-5GVCCEHF" class="abstract-article">
+    <h1>Abstract</h1>
+    Artikkelen undersøker hvordan bachelorstudenter forholder seg til de mediene og den teknologien det forventes at de bruker i undervisning og i eget studiearbeid. Fokus rettes mot det mange betegner som et gap mellom undervisernes læringsintenderte bruk av medier og studentenes mediepraksiser. Artikkelen baseres på gruppeintervjuer, aktivitetslogger i høgskolens læringsplattform og en spørreundersøkelse. I analysen brukes rammeteori og systemteori for å forstå hvordan studentene fortolker, eller rammer inn, mediepraksiser i undervisning og studiearbeid. Artikkelen bidrar med empirisk basert kunnskap som er viktig for å forstå hvordan individuelle fortolkninger har betydning for engasjement og deltakelse i mediepraksiser. Resultatene synliggjør at det ikke kan tas for gitt at dagens studenter mestrer å bruke medier slik det forventes i høyere utdanning. Vi ser at både studenter og fagpersoner kan bli mer bevisste på hvordan individuelle fortolkninger får betydning for hvordan man engasjerer seg i mediepraksiser, ikke minst i lys av ønsker om studentaktiviserende undervisning.
+  </article>
   <article id="contributors-article-5GVCCEHF" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

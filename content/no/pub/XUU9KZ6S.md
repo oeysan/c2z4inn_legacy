@@ -1,5 +1,5 @@
 ---
-title: "XUU9KZ6S"
+title: "«Ei mil vid og ein tomme djup»? – ei undersøking av innhald og undervisning i kroppsøving på ungdomstrinnet i Noreg"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XUU9KZ6S" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1810453" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/XUU9KZ6S" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-XUU9KZ6S" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-XUU9KZ6S" class="csl-bib-button">Medverkande</a>
     <a href="https://jased.net/index.php/jased/article/download/1749/4168" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-XUU9KZ6S"></div>
 </article>
 <div id="csl-bib-meta-XUU9KZ6S" class="csl-bib-meta">
+  <article id="abstract-article-XUU9KZ6S" class="abstract-article">
+    <h1>Samandrag</h1>
+    Hensikta med denne artikkelen er å undersøke om og eventuelt på kva måtar kroppsøvingsfaget kan skildrast som «ei mil vid og ein tomme djup». Artikkelen går dermed inn i ein aktuell skulepolitisk kontekst som vektlegg djupnelæring og konsentrasjon om kjerneelement i fag. På bakgrunn av ei miksa-metodestudie der vi har gjort ei spørjeundersøking blant elevar og fokusgruppeintervju med lærarar viser vi at faget ser ut til å vere prega av eit snevert utval av aktivitetar og ein tradisjonell undervisningsmetode. Samstundes ser vi at lærarar og elevar oppfattar at sosiale og emosjonelle kompetansar er viktige i faget. Sett i samanheng med både nasjonal og internasjonal forsking på kroppsøving tyder undersøkinga vår på at undervisninga i kroppsøving er prega av det Sawyer (2014) kallar instruksjonisme: lærarstyrt overføring av kunnskap og ferdigheiter. Likevel er det grunn til å diskutere kva djupnelæring i kroppsøving betyr og om det er rett å knytte dette til utvalet av aktivitetar i faget.
+  </article>
   <article id="contributors-article-XUU9KZ6S" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

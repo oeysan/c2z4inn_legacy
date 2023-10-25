@@ -1,5 +1,5 @@
 ---
-title: "R4EDTCIJ"
+title: "MUSIC AS A FACILITATOR FOR SKILL DEVELOPMENT: REVISITING THREE YOUNG FIRST NATIONS INDIVIDUALS ON THE AUTISM SPECTRUM"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-R4EDTCIJ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1972779" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/R4EDTCIJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-R4EDTCIJ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-R4EDTCIJ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-R4EDTCIJ" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://eduport.pf.ujep.cz/doi/10.21062/edp.2021.004.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-R4EDTCIJ"></div>
 </article>
 <div id="csl-bib-meta-R4EDTCIJ" class="csl-bib-meta">
+  <article id="abstract-article-R4EDTCIJ" class="abstract-article">
+    <h1>Abstract</h1>
+    Indigenous children and young people on the autism spectrum are scarce in research publications. This article revisits three research partners, Connor, Debbie and Tom, in a follow-up study of a PhD project on the meaning of music for First Nations children on the autism spectrum in British Columbia, Canada. An Indigenist research framework was used in the project with conversations as the methodology. It would seem like the First Nations children on the spectrum would have similar life situations, but results show diverse barriers and opportunities for them to participate and influence their lives. Living on or off reserve is one aspect. Music plays a large role in their lives in various ways. It will be shown how music facilitates the development of self-regulation for the three young people, and social skills for one of them. The vital importance of culturally appropriate and sensitive diagnosis processes, autism services and special educational actions and activities will be discussed as steps towards fully inclusive, equitable, and decolonized education for Indigenous children and young people. Such measures will be beneficial for diverse learners across the globe
+  </article>
   <article id="contributors-article-R4EDTCIJ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

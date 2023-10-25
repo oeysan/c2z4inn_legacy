@@ -1,5 +1,5 @@
 ---
-title: "KUINXFZX"
+title: "Public health nurses’ experiences working with children who are next of kin: a qualitative study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KUINXFZX" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2092812" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KUINXFZX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KUINXFZX" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-KUINXFZX" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-KUINXFZX" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-022-08841-2" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-KUINXFZX"></div>
 </article>
 <div id="csl-bib-meta-KUINXFZX" class="csl-bib-meta">
+  <article id="abstract-article-KUINXFZX" class="abstract-article">
+    <h1>Abstract</h1>
+    BackgroundThere are a substantial number of children who are the next of kin of parents suffering from illness or substance abuse. These children can experience emotional and behavioral problems and may need support from professionals. In Norway, the specialist health service in hospitals is required to have a designated practitioner in each department to ensure support for and follow up of children who are next of kin; however, this is not regulated by law in the health care in the municipalities. The aim of this study was to explore public health nurse’s experiences working with children who are next of kin. MethodsQualitative interviews were conducted with 10 public health nurses working in the child health clinic and the school health service in four municipalities. Data were analysed using content analysis. Reporting of this study is conducted in accordance to COREQ’s checklist. ResultsThe analysis resulted in one main theme: ‘Lack of guidelines and routines among public health nurses working with children who are next of kin’. The main theme consisted of four categories: (1) identifying children who are next of kin are incidental; (2) public health nurses must be observant and willing to act; (3) communication is an important tool; and (4) follow up over time is not always provided. ConclusionThe public health nurses experienced uncertainty concerning how to identify and follow up children who are next of kin but were vigilant and willing to act in the children’s best interest. Doing so necessitated collaboration with other professionals. The need for guidelines around the role and responsibilities for the public health nurse were emphasized. The knowledge provided by the current study offers valuable insight into strengths and limitations in the support of children who are next of kin and can inform stakeholders in organizing sustainable support for this group.
+  </article>
   <article id="contributors-article-KUINXFZX" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

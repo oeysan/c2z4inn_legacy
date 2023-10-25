@@ -1,5 +1,5 @@
 ---
-title: "JBYHNUT3"
+title: "Prerequisites for coexistence: human pressure and refuge habitat availability shape continental-scale habitat use patterns of a large carnivore"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JBYHNUT3" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2140042" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JBYHNUT3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-JBYHNUT3" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-JBYHNUT3" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-JBYHNUT3" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s10980-023-01645-7.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-JBYHNUT3"></div>
 </article>
 <div id="csl-bib-meta-JBYHNUT3" class="csl-bib-meta">
+  <article id="abstract-article-JBYHNUT3" class="abstract-article">
+    <h1>Abstract</h1>
+    ContextAdjustments in habitat use by large carnivores can be a key factor facilitating their coexistence with people in shared landscapes. Landscape composition might be a key factor determining how large carnivores can adapt to occurring alongside humans, yet broad-scale analyses investigating adjustments of habitat use across large gradients of human pressure and landscape composition are lacking. Objectives Here, we investigate adjustments in habitat use by Eurasian lynx ( Lynx lynx ) in response to varying availability of refuge habitats (i.e., forests and rugged terrain) and human landscape modification. MethodsUsing a large tracking dataset including 434 individuals from seven populations, we assess functional responses in lynx habitat use across two spatial scales, testing for variation by sex, daytime, and season. ResultsWe found that lynx use refuge habitats more intensively with increasing landscape modification across spatial scales, selecting forests most strongly in otherwise open landscapes and rugged terrain in mountainous regions. Moreover, higher forest availability enabled lynx to place their home ranges in more human-modified landscapes. Human pressure and refuge habitat availability also shaped temporal patterns of lynx habitat use, with lynx increasing refuge habitat use and reducing their use of human-modified areas during periods of high exposure (daytime) or high vulnerability (postnatal period) to human pressure. ConclusionsOur findings suggest a remarkable adaptive capacity of lynx towards human pressure and underline the importance of refuge habitats across scales for enabling coexistence between large carnivores and people. More broadly, we highlight that the composition of landscapes determines how large carnivores can adapt to human pressure and thus play an important role shaping large carnivore habitat use and distributions.
+  </article>
   <article id="contributors-article-JBYHNUT3" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

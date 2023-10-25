@@ -1,5 +1,5 @@
 ---
-title: "HJDQCNNT"
+title: "Forming innovative projects in sustainable construction: how socio-technical connectivity shapes the building project and its context"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HJDQCNNT" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1702358" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HJDQCNNT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HJDQCNNT" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1201/9781351110198-2" class="csl-bib-button">EZproxy</a>
   </div>

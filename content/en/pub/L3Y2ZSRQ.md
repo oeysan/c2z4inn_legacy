@@ -1,5 +1,5 @@
 ---
-title: "L3Y2ZSRQ"
+title: "Leisure-time physical activity among adolescents and subsequent use of antidepressant and hypnotic drugs: a prospective register linkage study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-L3Y2ZSRQ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1584381" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/L3Y2ZSRQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-L3Y2ZSRQ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-L3Y2ZSRQ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-L3Y2ZSRQ" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s00787-018-1160-x.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-L3Y2ZSRQ"></div>
 </article>
 <div id="csl-bib-meta-L3Y2ZSRQ" class="csl-bib-meta">
+  <article id="abstract-article-L3Y2ZSRQ" class="abstract-article">
+    <h1>Abstract</h1>
+    In this prospective study, the association between physical activity and subsequent use of antidepressant and hypnotic drug use in adolescents aged 15–16 years was examined. This study is based on information retrieved from the Norwegian Youth Health Surveys (2000–2003) and linked to prescription data from the Norwegian Prescription Database (2004–2013). In total, the study included 10711 participants with a participation rate of 87%. Adolescents were asked how many hours per week they spent on physical activity that made them sweat and/or be out of breath outside of school. Incident psychotropic drug use (outcome measure) was defined as ≥ 1 prescription of one of the following psychotropic drugs: hypnotics and antidepressants registered in the Norwegian Prescription Database. In the crude model for the time period 2004–2007, the odds of incident hypnotic use were lower for those who were physically active 1–2 h per week (OR 0.48–0.64), compared to those who were physically inactive (&lt; 1 h per week). However, the association become non-significant 4-year post-baseline (2008–2010 and 2011–2013). In the crude model for the time periods 2004–2007, 2008–2010 and 2011–2013, the odds of incident antidepressant use were lower for physically active adolescents (2004–2007: OR 0.46–0.71, 2008–2010: OR 0.40–0.67 and 2011–2013: OR 0.37–0.58, compared to those who were physically inactive &lt; 1 h. However, after adjustment for confounders, the association became non-significant in all time periods except in physical activity 5–7 and 8–10 h in the period 2008–2010. Physical activity does not indicate any association with later use of antidepressants, and the significant association with incident hypnotic drug use was for short-term follow-up only and disappeared on longer term follow-up periods. Given the scarcity of longitudinal studies examining the association between physical activity and mental health as well as psychotropic drug use among young people, the current study adds to previous research.
+  </article>
   <article id="contributors-article-L3Y2ZSRQ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

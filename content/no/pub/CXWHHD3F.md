@@ -1,5 +1,5 @@
 ---
-title: "CXWHHD3F"
+title: "'Jeg vil helst snakke norsk på norsk': Valg og begrensning i andrespråksfonologi"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CXWHHD3F" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1630069" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/CXWHHD3F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CXWHHD3F" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-CXWHHD3F"></div>

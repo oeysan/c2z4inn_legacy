@@ -1,5 +1,5 @@
 ---
-title: "RMP2IXJL"
+title: "Mica pneumoconiosis--a literature review."
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RMP2IXJL" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2117934" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/RMP2IXJL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RMP2IXJL" class="csl-bib-button">Contributors</a>
     <a href="https://www.sjweh.fi/download.php?abstract_id=2250&amp;file_nro=1" class="csl-bib-button">Unpaywall</a>
   </div>

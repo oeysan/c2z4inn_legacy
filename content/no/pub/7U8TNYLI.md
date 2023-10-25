@@ -1,5 +1,5 @@
 ---
-title: "7U8TNYLI"
+title: "Daily uplifts and coping as a buffer against everyday hassles: Relationship with stress reactions over time in military personnel"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7U8TNYLI" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1516092" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/7U8TNYLI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-7U8TNYLI" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-7U8TNYLI" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-7U8TNYLI" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.15714/scandpsychol.4.e13" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-7U8TNYLI"></div>
 </article>
 <div id="csl-bib-meta-7U8TNYLI" class="csl-bib-meta">
+  <article id="abstract-article-7U8TNYLI" class="abstract-article">
+    <h1>Samandrag</h1>
+    The aim of this research was to gain a deeper understanding of how daily hassles and uplifts interact with each other and with stress reactions over time in military personnel. Interviews were conducted with 15 Swedish veterans five years after an international peace enforcement mission. The grounded theory method was used and result patterns were generated for six specific time periods distributed before, during, and after the mission. A theoretical model was developed showing that everyday uplifts combined with adaptive coping can be sufficient to limit stress reactions related to daily hassles. The model was supported by the fact that, five years after the mission, none of interviewees had received a PTSD diagnosis or needed professional psychological treatment. The last-mentioned outcome is noteworthy in itself given the severe stress often encountered in peace enforcement missions and previous research observations of high PTSD incidence, suicide rates, criminality, and substance abuse in mission participants.
+  </article>
   <article id="contributors-article-7U8TNYLI" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

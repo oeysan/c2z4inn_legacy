@@ -1,5 +1,5 @@
 ---
-title: "M32XKEXD"
+title: "A Screening for Virus Infections in Eight Herds of Semi-domesticated Eurasian Tundra Reindeer (Rangifer tarandus tarandus) in Norway, 2013–2018"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-M32XKEXD" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1957492" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/M32XKEXD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-M32XKEXD" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-M32XKEXD" class="csl-bib-button">Contributors</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fvets.2021.707787/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-M32XKEXD"></div>
 </article>
 <div id="csl-bib-meta-M32XKEXD" class="csl-bib-meta">
+  <article id="abstract-article-M32XKEXD" class="abstract-article">
+    <h1>Abstract</h1>
+    Background: Previous serological screenings have indicated that Eurasian semi-domesticated tundra reindeer ( Rangifer tarandus tarandus ) in Finnmark, Northern Norway, are exposed to alphaherpesvirus, gammaherpesvirus and pestivirus. Alphaherpesvirus (i.e., Cervid herpesvirus 2; CvHV2) has been identified as the transmissible component of infectious keratoconjunctivitis (IKC). Limited knowledge exists on the presence and prevalence of virus infections in other herding regions in Norway, which are hosting ~67,000 semi-domesticated reindeer and have contact with other species and populations of wildlife and livestock than those present in Finnmark. Methods: Blood samples ( n = 618) were obtained over five winter seasons (2013–2018), from eight different herds representing summer pasture districts in Tana, Lakselv, Tromsø, Lødingen, Hattfjelldal, Fosen, Røros, and Filefjell, distributed from North to South of the reindeer herding regions in Norway. Blood samples were investigated for specific antibodies against five viral pathogen groups, alphaherpesvirus, gammaherpesvirus (viruses in the malignant catarrhal fever group; MCFV), pestivirus, bluetongue virus (BTV), and Schmallenberg virus (SBV), by using commercial multispecies serological tests (ELISA). In addition, swab samples obtained from the nasal mucosal membrane from 486 reindeer were investigated by PCR for parapoxvirus-specific DNA. Results: Antibodies against aphaherpesvirus and MCFV were found in all eight herds, with a total prevalence of 42% (range 21–62%) and 11% (range 2–15%), respectively. Anti-Pestivirus antibodies were detected in five of eight herds, with a total prevalence of 19% (range 0–52%), with two of the herds having a particularly high seroprevalence. Antibodies against BTV or SBV were not detected in any of the animals. Parapoxvirus-specific DNA was detected in two animals representing two different herds in Finnmark. Conclusions: This study confirmed that alphaherpesvirus and MCFV are enzootic throughout the geographical reindeer herding regions in Norway, and that pestivirus is present in most of the herds, with varying seroprevalence. No exposure to BTV and SBV was evident. This study also indicated that semi-domesticated reindeer in Finnmark are exposed to parapoxvirus without disease outbreaks being reported from this region.
+  </article>
   <article id="contributors-article-M32XKEXD" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

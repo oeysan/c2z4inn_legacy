@@ -1,5 +1,5 @@
 ---
-title: "2XYPQPHQ"
+title: "Exploring the problems and potential of curriculum‐making for social learning: Implications for policy and practice"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2XYPQPHQ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1958925" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/2XYPQPHQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-2XYPQPHQ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-2XYPQPHQ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-2XYPQPHQ" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/curj.113" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-2XYPQPHQ"></div>
 </article>
 <div id="csl-bib-meta-2XYPQPHQ" class="csl-bib-meta">
+  <article id="abstract-article-2XYPQPHQ" class="abstract-article">
+    <h1>Samandrag</h1>
+    Although enhancing students’ social and emotional learning is a central concern in curriculum‐making at the policy level, little is still known about how curriculum‐making in the classroom can support such outcomes. Building on interviews and observations of students and teachers in lower secondary education in Norway, this study investigates how teachers support their students social learning through subject teaching in language and science, and explores the challenges related to such practices. The study identifies four main ways that teachers support social learning by; framing personal experiences as meaningful contents, facilitating community through peer assessment, using group work to develop shared practices and extending purpose to influence students’ identities through their subject teaching. The study concludes that curriculum‐making for social learning has potential as a strategy to support students’ social and academic learning in a more sustainable and meaningful way. Realising this potential, however, will require addressing the problems related to such practices and providing better guidance and support to avoid overburdening teachers and marginalising students.
+  </article>
   <article id="contributors-article-2XYPQPHQ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

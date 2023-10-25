@@ -1,5 +1,5 @@
 ---
-title: "QFWYXK48"
+title: "When student-activating teaching conflict with students' desire for efficiency. A communication perspective on undergraduate students' media use"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QFWYXK48" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1855937" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/QFWYXK48" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-QFWYXK48" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-QFWYXK48" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-QFWYXK48" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://journals.oslomet.no/index.php/seminar/article/download/4049/3643" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-QFWYXK48"></div>
 </article>
 <div id="csl-bib-meta-QFWYXK48" class="csl-bib-meta">
+  <article id="abstract-article-QFWYXK48" class="abstract-article">
+    <h1>Samandrag</h1>
+    This article explores how students on a bachelor's course in Media Education understand the educational framework for teaching based on how they choose to participate in the teaching communication. The Norwegian Educational Quality Reform has promoted expectations of student-activating teaching methods to increase the scope of student-active learning. Digital technology was introduced in response to this challenge. Data was gathered through group interviews, a survey, and information from activity logs in the university college's learning platform. The article aims to shed light on what media practices the students consider as important and how their experiences correspond with the teachers' academic use of media. Students seem to prefer to study effectively, at the expense of activating teaching methods and of being active producers of learning. Although students are expected to be digitally competent, it should not be assumed that they master technology as expected in higher education. By drawing on Luhmann's communication theory the educational consequences of the students' media use in teaching and in independent study work is discussed.
+  </article>
   <article id="contributors-article-QFWYXK48" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

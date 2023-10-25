@@ -1,5 +1,5 @@
 ---
-title: "ZHIBD7YZ"
+title: "The Impact of Trust in Time of Covid-19: Trust in Crisis Management and Crisis Communication in Inland Norway University of Applied Sciences"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZHIBD7YZ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2078957" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZHIBD7YZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ZHIBD7YZ" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-3-030-94814-6_14" class="csl-bib-button">EZproxy</a>
   </div>

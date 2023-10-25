@@ -1,5 +1,5 @@
 ---
-title: "N46PJNJY"
+title: "How gamification can change people’s behavior: Design and examples from a creative gamification class at IGA, INN 2017"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-N46PJNJY" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1564364" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/N46PJNJY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-N46PJNJY" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.21125/edulearn.2017.1478" class="csl-bib-button">EZproxy</a>
   </div>

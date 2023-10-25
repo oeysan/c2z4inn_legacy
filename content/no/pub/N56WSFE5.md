@@ -1,5 +1,5 @@
 ---
-title: "N56WSFE5"
+title: "Developing a method to investigate motivational sequences in the chick"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-N56WSFE5" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2047484" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/N56WSFE5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-N56WSFE5" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/09064702.2012.721388" class="csl-bib-button">EZproxy</a>
   </div>

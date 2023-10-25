@@ -1,5 +1,5 @@
 ---
-title: "SZ4LE6Y2"
+title: "Concerns in the Norwegian Population during the Initial Lockdown Due to the COVID-19 Pandemic"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SZ4LE6Y2" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1913873" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/SZ4LE6Y2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-SZ4LE6Y2" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-SZ4LE6Y2" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-SZ4LE6Y2" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.mdpi.com/1660-4601/18/11/6119/pdf?version=1622966575" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-SZ4LE6Y2"></div>
 </article>
 <div id="csl-bib-meta-SZ4LE6Y2" class="csl-bib-meta">
+  <article id="abstract-article-SZ4LE6Y2" class="abstract-article">
+    <h1>Samandrag</h1>
+    Although concern affects one’s welfare or happiness, few studies to date have focused on peoples’ concerns during the initial COVID-19 lockdown. The aim of the study was to explore concerns in the Norwegian populations according to gender and age, and identify which concerns were most prominent during the lockdown. A population-based cross-sectional online survey using snowball-sampling strategies was conducted, to which 4527 adults (≥18 years) responded. Questions related to concerns had response alternatives yes or no. In addition, they were asked which concern was most prominent. Nearly all the 4527 respondents (92%) reported that they were concerned: 60.9% were generally concerned about the pandemic, 83.9% were concerned about family and friends, 21.8% had financial concerns, and 25.3% expected financial loss. More women were concerned about family and friends than males, (85.2% vs. 76.2%, p &lt; 0.001), whereas more men expected financial loss (30.4% vs. 24.4%y, p = 0.001). Younger adults (&lt;50 years) had more financial concerns than older adults (25.9% vs. 10.5%, p &lt; 0.001). Being concerned about family and friends was the most prominent concern and was associated with; lower age (OR 0.79), female gender (OR 1.59), and being next of kin (2.42). The most prominent concern for adults 70 years or older was being infected by COVID-19. In conclusion, women and younger individuals were most concerned. While adults under 70 years of age were most concerned about family and friends and adults 70 years or older were most concerned about being infected by COVID-19.
+  </article>
   <article id="contributors-article-SZ4LE6Y2" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

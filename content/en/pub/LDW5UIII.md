@@ -1,5 +1,5 @@
 ---
-title: "LDW5UIII"
+title: "Change in Disability Associated with Psychological Distress among Internally Displaced Persons in Central Sudan"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LDW5UIII" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2024565" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LDW5UIII" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-LDW5UIII" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-LDW5UIII" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-LDW5UIII" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/1660-4601/19/9/5347/pdf?version=1651121322" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-LDW5UIII"></div>
 </article>
 <div id="csl-bib-meta-LDW5UIII" class="csl-bib-meta">
+  <article id="abstract-article-LDW5UIII" class="abstract-article">
+    <h1>Abstract</h1>
+    Individuals with disabilities are particularly vulnerable in conflict settings, and a high rate of psychopathology is well documented among persons with disabilities. The objective of this study was to explore the change in disability prevalence among IDPs in two settlement areas in central Sudan and the association between disability and psychological distress. In this one-year follow-up study, 1549 IDPs were interviewed twice using the General Health Questionnaire (GHQ) to investigate emotional distress. Disability was measured using the Washington Group Short Set. Households were randomly selected using the community health center as the starting point. All household members above eighteen years of age in the sampled households were interviewed. There is an increase in disability prevalence among internally displaced persons over time, associated with rural residency and poverty, low education, unemployment, IDP status, originating from western Sudan, young age, male gender, and being married. Disability was further found to be associated with psychological distress. Disability among displaced persons should be considered as a risk factor for increase in psychopathological disorders and is closely related to poverty. The study is limited to individual-level data and does not incorporate relevant environmental variables that may have influenced the changes in disability rates.
+  </article>
   <article id="contributors-article-LDW5UIII" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

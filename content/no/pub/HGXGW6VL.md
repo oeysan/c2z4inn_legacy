@@ -1,5 +1,5 @@
 ---
-title: "HGXGW6VL"
+title: "Foreldresamarbeid: barnehagen i et mangfoldig samfunn"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HGXGW6VL" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2127502" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HGXGW6VL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-HGXGW6VL" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-HGXGW6VL" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-HGXGW6VL"></div>
 </article>
 <div id="csl-bib-meta-HGXGW6VL" class="csl-bib-meta">
+  <article id="abstract-article-HGXGW6VL" class="abstract-article">
+    <h1>Samandrag</h1>
+    Et godt foreldresamarbeid styrker barnets trivsel, utvikling og læring. Barnehagene er i dag preget av økende mangfold og ulike verdisyn. Et godt foreldresamarbeid forutsetter at barnehagelæreren møter mangfold og ulikhet med respekt, anerkjennelse og toleranse. Målet må være at alle skal oppleve seg sett, tatt hensyn til og inkludert i et fellesskap. Boka er både praksisnær og forskningsbasert. Den er delt inn i tre deler: Del 1 omfatter det moderne foreldreskap, del 2 lovgivning og etikk og del 3 samarbeidets mål, innhold og form. Denne tredjeutgaven er oppdatert i tråd med ny forskning og endringer i barnehagens lovverk. Blant nye tema er barnehagens arbeid for å skape et godt psykososialt miljø, relasjonsarbeid og dialogbygging samt observasjon og dokumentasjon som grunnlag for foreldresamtaler. Bodil Mørland utdyper hvordan barnehagen kan møte familier med barn med nedsatt funksjonsevne. May Britt Drugli skriver om den vanskelige samtalen og Marit Gjervan om barnehagens flerkulturelle kompetanse.
+  </article>
   <article id="contributors-article-HGXGW6VL" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "RWA494AQ"
+title: "Assessing the Past and Future Sustainability of Global Helium Resources, Extraction, Supply and Use, Using the Integrated Assessment Model WORLD7"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RWA494AQ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1817136" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/RWA494AQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-RWA494AQ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-RWA494AQ" class="csl-bib-button">Contributors</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s41247-020-00072-5.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-RWA494AQ"></div>
 </article>
 <div id="csl-bib-meta-RWA494AQ" class="csl-bib-meta">
+  <article id="abstract-article-RWA494AQ" class="abstract-article">
+    <h1>Abstract</h1>
+    The sustainability of the helium production, supply and use was assessed using the WORLD7 integrated model. The use of helium is at present concluded to be unsustainable with respect to long-term supply security, because of lack of significant recycling. There is no risk for significant helium scarcity in the short term (before 2030), but in the long term, the scarcity risk is unavoidable under business as usual. The helium supply runs into limitations by 2090, under business as usual and supply declines after that. The study shows that the present helium recycling rate is far too low, causing helium to be squandered in one-way use and that is driving helium prices up. A scenario analysis with the WORLD7 model suggests that a sustained program for helium recycling and demand management, combined with political efforts to ban unnecessary use, will be able to significantly improve the long-term helium supply situation. The outputs show that such efforts may be sufficient for avoiding any scarcity under the demand assumptions taken.
+  </article>
   <article id="contributors-article-RWA494AQ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

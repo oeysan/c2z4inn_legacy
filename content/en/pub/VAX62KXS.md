@@ -1,5 +1,5 @@
 ---
-title: "VAX62KXS"
+title: "Transnational cooperation in enhancing researchers' wider employability: the TRANSPEER project"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VAX62KXS" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2041938" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VAX62KXS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VAX62KXS" class="csl-bib-button">Contributors</a>
     <a href="https://www.emerald.com/insight/content/doi/10.1108/SGPE-12-2021-0083/full/pdf?title=transnational-cooperation-in-enhancing-researchers-wider-employability-the-transpeer-project" class="csl-bib-button">Unpaywall</a>
   </div>

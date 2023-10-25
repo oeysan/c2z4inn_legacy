@@ -1,5 +1,5 @@
 ---
-title: "E5CCHGNV"
+title: "Comorbid post-traumatic stress disorder in alcohol use disorder: relationships to demography, drinking and neuroimmune profile"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E5CCHGNV" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1489686" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/E5CCHGNV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-E5CCHGNV" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-E5CCHGNV" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-E5CCHGNV" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://bmcpsychiatry.biomedcentral.com/track/pdf/10.1186/s12888-017-1479-8" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,17 @@ type: pub
   <div id="csl-bib-meta-container-E5CCHGNV"></div>
 </article>
 <div id="csl-bib-meta-E5CCHGNV" class="csl-bib-meta">
+  <article id="abstract-article-E5CCHGNV" class="abstract-article">
+    <h1>Abstract</h1>
+    BACKGROUND: 
+This study examined how alcohol use disorder (AUD) patients with post-traumatic stress disorder (PTSD) differed from those without PTSD in terms of demography, drinking patterns and C-reactive protein, inflammatory cytokines, tryptophan metabolism parameters, and brain-derived neurotrophic factor (BDNF). 
+METHODS: 
+A consecutive sample (N = 187) of treatment-receiving AUD individuals were recruited from Nepalese facilities. They underwent fully structured psychiatric interviews. Serum levels of inflammatory cytokines [interleukin (IL)-6, IL-1 Receptor antagonist (IL-1Ra), IL-10, tumor necrosis factor-alpha (TNF-α), and interferon-gamma (IFN-γ)] were determined by a multiplex assay, kynurenine and tryptophan levels by high-performance liquid chromatography, and BDNF by enzyme-linked immunosorbent assay (ELISA). 
+RESULTS: 
+The prevalence of exposure to severe trauma and PTSD was 74% and 17%, respectively. PTSD comorbidity was not associated with age, gender, or socioeconomic status, but with co-occurring major depression, history of attempted suicide, earlier peak of drinking problems, higher drinking quantity and withdrawal symptoms, experiencing alcoholic blackouts, and drinking problems among parents. None of the assessed neuroimmune parameters was related to comorbid PTSD. 
+CONCLUSIONS: 
+The findings support routine trauma screening in AUD treatment samples and screening for risky drinking in trauma populations to help guide interventions. The expected aberrations in neuroimmune functioning may not be found when examined in a sample with multiple psychiatric morbidities
+  </article>
   <article id="contributors-article-E5CCHGNV" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

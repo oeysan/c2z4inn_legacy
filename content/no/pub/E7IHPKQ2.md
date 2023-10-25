@@ -1,5 +1,5 @@
 ---
-title: "E7IHPKQ2"
+title: "No place like home? A test of the natal habitat-biased dispersal hypothesis in Scandinavian wolves"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E7IHPKQ2" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1645062" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/E7IHPKQ2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-E7IHPKQ2" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-E7IHPKQ2" class="csl-bib-button">Medverkande</a>
     <a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.181379" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-E7IHPKQ2"></div>
 </article>
 <div id="csl-bib-meta-E7IHPKQ2" class="csl-bib-meta">
+  <article id="abstract-article-E7IHPKQ2" class="abstract-article">
+    <h1>Samandrag</h1>
+    Natal dispersal is an important mechanism for the viability of populations. The influence of local conditions or experience gained in the natal habitat could improve fitness if dispersing individuals settle in an area with similar habitat characteristics. This process, defined as ‘natal habitat-biased dispersal’ (NHBD), has been used to explain distribution patterns in large carnivores, but actual studies evaluating it are rare. We tested whether grey wolf Canis lupus territory establishment was influenced by the habitat characteristics of the natal territory using the long-term monitoring of the Scandinavian wolf population. We paired the locations of natal and established territories, accounted for available habitats along the dispersing route, and compared their habitat characteristics for 271 wolves during 1998–2012. Wolves with the shortest dispersal distances established in natal-like habitat types more than expected by chance, whereas wolves that dispersed longer distances did not show NHBD. The pattern was consistent for male and female wolves, with females showing more NHBD than males. Chances to detect NHBD increased with the size of habitat defined as available. This highlights the importance of considering the biological characteristics of the studied species when defining habitat availability. Our methodological approach can prove useful to inform conservation and management to identify habitats to be selected by reintroduced or naturally expanding populations.
+  </article>
   <article id="contributors-article-E7IHPKQ2" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

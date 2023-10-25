@@ -1,5 +1,5 @@
 ---
-title: "ZVT4Z8KU"
+title: "The Peripheral Kynurenine Pathway and Psychosomatic Comorbidity in Subjects with Morbid Obesity Undergoing Bariatric Surgery"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZVT4Z8KU" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2014871" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZVT4Z8KU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ZVT4Z8KU" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-ZVT4Z8KU" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-ZVT4Z8KU" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/2076-3417/12/5/2648/pdf?version=1646368263" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-ZVT4Z8KU"></div>
 </article>
 <div id="csl-bib-meta-ZVT4Z8KU" class="csl-bib-meta">
+  <article id="abstract-article-ZVT4Z8KU" class="abstract-article">
+    <h1>Abstract</h1>
+    Background: The Kynurenine pathway (KP) is involved in various disorders, but little is known about the KP and psychosomatic complaints. The aim was to study the peripheral KP and psychosomatic comorbidity in subjects with morbid obesity. Methods: Psychosomatic comorbidity (perceived general health, muscle-skeletal pain, well-being, mood disorders, fatigue, self-esteem, sleepiness, and sense of humour) was registered, and serum samples were collected six months before and after bariatric surgery. Results: A total of 141 subjects (men/women, 116/25) with a mean age of 43.0 (SD 8.7) years and BMI of 42.1 (SD 3.8) kg/m2 were included. No significant associations were seen between the psychosomatic disorders and the KP. There was a significant downregulation of all KP metabolites after surgery, a reduction in CRP, and strong associations between CRP and the KP, particularly with the ratios of Kynurenine/Tryptophan and Quinolinic acid (QA)/Xanthurenic acid (XA). The QA/XA ratio was negatively associated with diabetes. Conclusions: The peripheral KP seemed to be of minor importance for the psychosomatic comorbidity in subjects with morbid obesity. The downregulation of all KP metabolites after bariatric surgery indicated reduced inflammation. The QA/XA ratio seemed to be a marker of insulin sensitivity and favourable glucose control.
+  </article>
   <article id="contributors-article-ZVT4Z8KU" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

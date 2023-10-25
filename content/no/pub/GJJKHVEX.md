@@ -1,5 +1,5 @@
 ---
-title: "GJJKHVEX"
+title: "Chapter 10. Hospitality Micro Enterprises (MEs) during COVID-19: Changing Experiences through Service Innovation and Digital Tools"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GJJKHVEX" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2152182" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/GJJKHVEX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-GJJKHVEX" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-GJJKHVEX"></div>

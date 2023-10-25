@@ -1,5 +1,5 @@
 ---
-title: "8SZ8VIR3"
+title: "Associations between occupational therapy students’ academic performance and their study approaches and perceptions of the learning environment"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8SZ8VIR3" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1933472" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/8SZ8VIR3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-8SZ8VIR3" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-8SZ8VIR3" class="csl-bib-button">Contributors</a>
     <a href="https://bmcmededuc.biomedcentral.com/track/pdf/10.1186/s12909-021-02940-0" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-8SZ8VIR3"></div>
 </article>
 <div id="csl-bib-meta-8SZ8VIR3" class="csl-bib-meta">
+  <article id="abstract-article-8SZ8VIR3" class="abstract-article">
+    <h1>Abstract</h1>
+    BackgroundRelationships between students’ academic performance and their employed study approaches have been studied extensively. However, research using study approaches and learning environment factors as concurrent predictors of academic performance is sparse. There is a need to disentangle the potentially interrelated influences of individual and contextual factors on students’ academic performance. ObjectiveThis study aimed to increase the understanding of the associations between occupational therapy students’ academic performance, and their approaches to studying, perceptions of the learning environment, and sociodemographic characteristics. MethodA cross-sectional study was designed, and 174 first-year students completed the Approaches and Study Skills Inventory for Students and the Course Experience Questionnaire, in addition to background information. Data on grades were collected from the data registries of each education institution, and associations were analyzed by multiple linear regression. Results None of the learning environment scales were associated with grades. Adjusting for all variables, better exam results were associated with being female ( β  = 0.22, p  &lt; 0.01) and having higher scores on strategic approach ( β  = 0.31, p  &lt; 0.001) and lower scores on surface approach ( β = -0.20, p  &lt; 0.01). ConclusionThe study suggests that students with a desire for obtaining good grades ought to use strategic study behaviors and avoid using surface approach behaviors. While it is important to ensure good quality of the learning environment for a variety of reasons, the learning environment did not contribute significantly to explain the students’ academic performance.
+  </article>
   <article id="contributors-article-8SZ8VIR3" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "SC5SVYBE"
+title: "Tidssignaler: lærerutdanningsfag i utvikling : utdanning av lærere på Hamar - 150 år"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SC5SVYBE" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1511235" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/SC5SVYBE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-SC5SVYBE" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-SC5SVYBE" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-SC5SVYBE"></div>
 </article>
 <div id="csl-bib-meta-SC5SVYBE" class="csl-bib-meta">
+  <article id="abstract-article-SC5SVYBE" class="abstract-article">
+    <h1>Samandrag</h1>
+    Denne boka er skrevet i anledning av 150-årsjubileet for etableringen av Hamar Stiftsseminarium i 1867. I dag er lærerutdanningen en del av Avdeling for lærerutdanning og naturvitenskap ved Høgskolen i Innlandet. Som en del av jubileumsmarkeringen er fagfolk ved denne avdelingen blitt invitert til å reflektere over både tradisjoner og nyere tendenser innen fagene de underviser og forsker i, samt til å se på lærerutdanningsinstitusjonen i et historisk perspektiv. Dette har resultert i artikkelsamlingen Tidssignaler - lærerutdanningsfag i utvikling.
+  </article>
   <article id="contributors-article-SC5SVYBE" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

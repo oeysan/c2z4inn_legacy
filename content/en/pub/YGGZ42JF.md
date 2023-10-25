@@ -1,5 +1,5 @@
 ---
-title: "YGGZ42JF"
+title: "Identity formation and agency in the diverse music classroom"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YGGZ42JF" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1453215" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/YGGZ42JF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1093/acprof:oso/9780199679485.003.0027" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-YGGZ42JF"></div>

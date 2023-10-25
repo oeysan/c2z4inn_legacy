@@ -1,5 +1,5 @@
 ---
-title: "SLRM98U4"
+title: "Cardiac adaptation in hibernating, free-ranging Scandinavian Brown Bears (Ursus arctos)"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SLRM98U4" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1782435" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/SLRM98U4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-SLRM98U4" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-SLRM98U4" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-SLRM98U4" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.nature.com/articles/s41598-019-57126-y.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-SLRM98U4"></div>
 </article>
 <div id="csl-bib-meta-SLRM98U4" class="csl-bib-meta">
+  <article id="abstract-article-SLRM98U4" class="abstract-article">
+    <h1>Samandrag</h1>
+    During six months of annual hibernation, the brown bear undergoes unique physiological changes to adapt to decreased metabolic rate. We compared cardiac structural and functional measures of hibernating and active bears using comprehensive echocardiography. We performed echocardiography on 13 subadult free-ranging, anaesthetised Scandinavian brown bears (Ursus arctos) during late hibernation and in early summer. Mean heart rate was 26 beats per minute (standard deviation (SD): 8)  during hibernation vs 71 (SD: 14) during active state. All left ventricular (LV) systolic and diastolic measures were decreased during hibernation: mean ejection fraction: 44.2% (SD: 6.0) active state vs 34.0 (SD: 8.1) hibernation, P = 0.001; global longitudinal strain: −11.2% (SD: 2.0) vs −8.8 (SD: 3.3), P = 0.03; global longitudinal strain rate: −0.82 (SD: 0.15) vs −0.41 (SD: 0.18), P &lt; 0.001; septal e’: 9.8 cm/s (SD: 1.8) vs 5.2 (SD: 2.7), P &lt; 0.001. In general, measures of total myocardial motion (ejection fraction and global longitudinal strain) were decreased to a lesser extent than measures of myocardial velocities. in the hibernating brown bear, cardiac adaptation included decreased functional measures, primarily measures of myocardial velocities, but was not associated with cardiac atrophy. Understanding the mechanisms of these adaptations could provide pathophysiological insight of human pathological conditions such as heart failure.
+  </article>
   <article id="contributors-article-SLRM98U4" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

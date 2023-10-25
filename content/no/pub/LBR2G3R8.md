@@ -1,5 +1,5 @@
 ---
-title: "LBR2G3R8"
+title: "DNA from scats combined with capture–recapture modeling: a promising tool for estimating the density of red foxes — a pilot study in a boreal forest in southeast Norway"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LBR2G3R8" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1632644" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LBR2G3R8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-LBR2G3R8" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-LBR2G3R8" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-LBR2G3R8" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/s13364-018-0408-7" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,25 @@ type: pub
   <div id="csl-bib-meta-container-LBR2G3R8"></div>
 </article>
 <div id="csl-bib-meta-LBR2G3R8" class="csl-bib-meta">
+  <article id="abstract-article-LBR2G3R8" class="abstract-article">
+    <h1>Samandrag</h1>
+    In spite of its important role as predator of small game species, estimating the density of red fox Vulpes vulpes has been hampered 
+by the species’ highly variable ranging pattern and elusive behavior. DNA analysis from scats combined with spatially explicit 
+capture–recapture (SECR) modeling might remedy this. In a 50-km2 coniferous forest in southeast Norway, we collected scats on 
+logging roads in late winter. DNA was extracted, amplified, and genotyped using 11 microsatellite markers. Of 184 samples 
+collected, 126 were genotyped successfully, of which 46 (36.5%) produced individual genetic profiles. Twenty-five of these were 
+different individuals: 13 females and 12 males. Nine of them were identified in multiple scats; mean recapture rate among all was 
+1.8/animal. Applying a conventional capture–recapture model (CAPWIRE) to the genotyped samples, 36 (95% CI 26–52) 
+different individuals were estimated to have been present in the area during the sampling period. For estimating population 
+density, we constructed three differently sized occupancy areas based on distances between recaptures, viz. ½ and 1/1 mean 
+maximum distance moved (MMDM) and the local convex hull home range method (LoCoH). Areas varied from 60 km2 
+(½MMDM) to 112 km2 (MMDM), producing density estimates of 0.60 and 0.32 foxes/km2, respectively; the 95% LoCoH 
+range method produced an estimate of 0.44 animals/km2 
+. Based on SECR modeling, the density was estimated at 0.38 (95% CI 
+0.21–0.70) animals/km2 
+. Smaller confidence intervals are expected with more appropriate sampling design than used in this pilot 
+study.
+  </article>
   <article id="contributors-article-LBR2G3R8" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

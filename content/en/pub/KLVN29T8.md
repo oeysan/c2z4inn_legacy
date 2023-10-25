@@ -1,5 +1,5 @@
 ---
-title: "KLVN29T8"
+title: "Kindergartens in Northern Norway as semiotic landscapes"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KLVN29T8" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1907158" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KLVN29T8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KLVN29T8" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-KLVN29T8" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-KLVN29T8" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.jbe-platform.com/deliver/fulltext/ll.20025.pes.pdf?itemId=%2Fcontent%2Fjournals%2F10.1075%2Fll.20025.pes&amp;mimeType=pdf&amp;containerItemId=content/journals/22149961" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-KLVN29T8"></div>
 </article>
 <div id="csl-bib-meta-KLVN29T8" class="csl-bib-meta">
+  <article id="abstract-article-KLVN29T8" class="abstract-article">
+    <h1>Abstract</h1>
+    Educational institutions have a responsibility to ensure that all children receive care and equal possibilities for development, independent of their linguistic and cultural background. However, there is little knowledge about how kindergartens ensure a welcoming and inspiring place for both transnational migrants, Indigenous children, and children from the majority population. Through a semiotic landscape analysis from two kindergartens in Northern Norway, this article contributes to this knowledge gap. Our starting point is that educational spaces are social, cultural, and political places. Applying a Bakhtinian perspective on semiotic landscapes as dialogues, the analysis focuses on two discourses. The first concerns diversity as an individual or shared value, and the second concerns balancing the ordinary and the exotic. We find that diversity related to transnational migration seems to be more integrated into the semiotic landscape, while the minoritised Indigenous Sámi people is stereotypically represented in kindergartens.
+  </article>
   <article id="contributors-article-KLVN29T8" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

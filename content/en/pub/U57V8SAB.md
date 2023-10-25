@@ -1,5 +1,5 @@
 ---
-title: "U57V8SAB"
+title: "How is health promotion research undertaken in a Nordic context? A scoping review of doctoral dissertations from 2008–2018"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-U57V8SAB" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1824946" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/U57V8SAB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
   </div>
   <div id="csl-bib-meta-container-U57V8SAB"></div>
 </article>

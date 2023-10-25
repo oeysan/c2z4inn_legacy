@@ -1,5 +1,5 @@
 ---
-title: "FSCAPCEV"
+title: "Holdninger til EØS-avtalen etter 25 år: Stor oppslutning, men liten kunnskap"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FSCAPCEV" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1817041" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/FSCAPCEV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-FSCAPCEV" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-FSCAPCEV" class="csl-bib-button">Medverkande</a>
     <a href="https://tidsskriftet-ip.no/index.php/intpol/article/download/1983/3683" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-FSCAPCEV"></div>
 </article>
 <div id="csl-bib-meta-FSCAPCEV" class="csl-bib-meta">
+  <article id="abstract-article-FSCAPCEV" class="abstract-article">
+    <h1>Samandrag</h1>
+    I anledning EØS-avtalens 25-årsjubileum gjennomførte NUPI og Sentio i januar 2019 en opinionsundersøkelse i den norske befolkningen for å kartlegge nordmenns holdninger til EØS-avtalen samt deres kunnskaper og vurderinger i tilknytning til avtalen og mulige alternativer til den. Resultatene fra undersøkelsen viser at det er stor støtte til EØS-avtalen i befolkningen. Samtidig viser den også at kunnskapsnivået om EØS-avtalen er lavt i hele befolkningen, men særlig blant de unge. Videre viser resultatene at dersom EØS-avtalen skulle opphøre, ville Norge neppe kunne forvente noen ny bred konsensus om en alternativ tilknytningsform. I dette bidraget går Svendsen, Sverdrup og Weltzien gjennom resultatene fra opinionsundersøkelsen og diskuterer hva de impliserer for norsk europapolitikk.
+  </article>
   <article id="contributors-article-FSCAPCEV" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

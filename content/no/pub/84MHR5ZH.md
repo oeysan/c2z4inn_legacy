@@ -1,5 +1,5 @@
 ---
-title: "84MHR5ZH"
+title: "Long-distance dispersal in red foxes Vulpes vulpes revealed by GPS tracking"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-84MHR5ZH" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1620198" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/84MHR5ZH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-84MHR5ZH" class="csl-bib-button">Medverkande</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s10344-018-1223-9.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

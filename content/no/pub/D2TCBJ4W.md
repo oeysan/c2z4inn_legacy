@@ -1,5 +1,5 @@
 ---
-title: "D2TCBJ4W"
+title: "Wolf monitoring in Scandinavia: evaluating counts of packs and reproduction events"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-D2TCBJ4W" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2014457" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/D2TCBJ4W" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-D2TCBJ4W" class="csl-bib-button">Medverkande</a>
     <a href="https://pub.epsilon.slu.se/27885/1/akesson-m-et-al-220516.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: "4MJMWHAJ"
+title: "Vitamin B12 status in infancy and the effect of a vitamin B12 injection in infants with subclinical vitamin B12 deficiency: study protocol for a register-based randomised controlled trial"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4MJMWHAJ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2142414" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/4MJMWHAJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-4MJMWHAJ" class="csl-bib-button">Contributors</a>
     <a href="https://bmjopen.bmj.com/content/bmjopen/13/4/e069102.full.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

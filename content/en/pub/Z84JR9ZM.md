@@ -1,5 +1,5 @@
 ---
-title: "Z84JR9ZM"
+title: "Women in the Olympics"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Z84JR9ZM" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2164156" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/Z84JR9ZM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-Z84JR9ZM" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-Z84JR9ZM" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-Z84JR9ZM" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-Z84JR9ZM"></div>
 </article>
 <div id="csl-bib-meta-Z84JR9ZM" class="csl-bib-meta">
+  <article id="abstract-article-Z84JR9ZM" class="abstract-article">
+    <h1>Abstract</h1>
+    "Women in the Olympics" traces the history of women in the Olympic Games. This pocket book offer details about important milestones in Olympic history and illustrates the salient themes that have shaped women’s involvement in the Games. From ancient times to today, women have always had a tenuous position in the Olympics. When Pierre de Coubertin founded the modern Olympic Movement at the end of the nineteenth century, he did not include women in his vision. He viewed the Olympics as a way for boys to cultivate manliness and men to demonstrate masculinity. Women eventually overcame such prejudices and competed at 1900 Olympics. Despite their inclusion, they remained beset by roadblocks. Sports that Olympic officials considered too grueling, taxing, or physical remained off limits to women. Leaders introduced sex tests to remove muscular female Olympians who breached gender norms from the Games. The Olympics were inaccessible for women in certain countries. And women remained severely underrepresented in the Olympic governance structure. Women in the Olympics shows how women have continuously fought for increased opportunities as athletes, equal access to elite sports, and a place in the decision-making process.
+  </article>
   <article id="contributors-article-Z84JR9ZM" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

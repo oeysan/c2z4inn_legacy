@@ -1,5 +1,5 @@
 ---
-title: "ZALG43LM"
+title: "Adolescents with substance use problems in outpatient treatment: a one-year prospective follow-up study focusing on mental health and gender differences"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZALG43LM" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2042380" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZALG43LM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ZALG43LM" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-ZALG43LM" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-ZALG43LM" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://substanceabusepolicy.biomedcentral.com/counter/pdf/10.1186/s13011-022-00482-2" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-ZALG43LM"></div>
 </article>
 <div id="csl-bib-meta-ZALG43LM" class="csl-bib-meta">
+  <article id="abstract-article-ZALG43LM" class="abstract-article">
+    <h1>Samandrag</h1>
+    BackgroundAlthough several studies have found a high incidence of coexisting mental health problems among adolescents with substance use problems, follow-up studies addressing how these conditions change over time are rare. The study will describe and analyze indications of mental health problems and how various risk factors predict outcomes 1 year after initial treatment contact. In addition, gender-specific risk factors are explored. MethodsA clinical sample of 455 adolescents (29% girls, median age 17 years) answered a structural interview at baseline and were followed up using official records 1 year after initiated treatment. Bivariate associations and logistic regressions were conducted to analyse the links between risk factors at the individual, social, and structural levels as well as links between various mental illness symptoms at treatment start and indications of mental health problems 1 year later were analysed. ResultsThe results show that mental health problems among adolescents largely persisted 1 year after start of outpatient care for substance use problems. Forty-two per cent of the sample displayed indications of mental health problems at follow-up, and registrations for both outpatient treatment and psychiatric medication were more common among the girls. Girls also reported more mental illness symptoms at treatment start than boys did, especially anxiety. Depression and suicidal thoughts had predictive values regarding indications of mental health problems and small cumulative effects were found for 6–10 co-occurring risk factors. ConclusionsAdolescents with depression and suicidal thoughts at treatment start should yield attention among clinicians as these general risk factors could predict indication of mental health problems at 1 year follow-up effectively. Also, patients with more than six co-occurring risk factors seem more vulnerable for continued mental health problems. Generally, girls displayed a greater mental health and psychosocial burden at treatment initiation and were more likely to show indication of mental health problems at follow-up. These results suggests that girls are more likely to get psychiatric out-treatment parallel to, or after, substance abuse treatment. We recommend further investigation of gender differences and gender-specific needs in substance use treatment.
+  </article>
   <article id="contributors-article-ZALG43LM" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

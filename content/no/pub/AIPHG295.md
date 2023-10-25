@@ -1,5 +1,5 @@
 ---
-title: "AIPHG295"
+title: "HR-2017-2064-A: Kjærestejuss, eiendomsrett og hendelege eigedomshøve"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AIPHG295" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1645404" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/AIPHG295" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://www.idunn.no/file/pdf/67087448/hr-2017-2064-a_kjaerestejuss_eiendomsrett_og_hendelege_eig.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-AIPHG295"></div>

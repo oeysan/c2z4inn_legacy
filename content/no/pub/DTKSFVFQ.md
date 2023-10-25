@@ -1,5 +1,5 @@
 ---
-title: "DTKSFVFQ"
+title: "Integrity governance: A new reform agenda for sport?"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DTKSFVFQ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2062884" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DTKSFVFQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-DTKSFVFQ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-DTKSFVFQ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-DTKSFVFQ" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://figshare.com/articles/journal_contribution/Integrity_governance_A_new_reform_agenda_for_sport_/21304743/1/files/37801746.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-DTKSFVFQ"></div>
 </article>
 <div id="csl-bib-meta-DTKSFVFQ" class="csl-bib-meta">
+  <article id="abstract-article-DTKSFVFQ" class="abstract-article">
+    <h1>Samandrag</h1>
+    Globally, “integrity” has emerged as a critical concept for sport, with scholars, government agencies and NGOs proposing the establishment of “integrity systems”, comprising measures such as new policy units, ombudsmen and mediation services. The purpose of this study is to assess the coherence of this reform agenda, to determine its core features and gauge whether it constitutes a new governing paradigm and departure from “professionalisation”. Drawing on case material from Australia and New Zealand, we trace the sport integrity agenda and its adoption into each country's government policies and programmes. The emerging agenda focuses on diverse risks at the periphery of “old” professionalised management, while demanding a sector-wide response and universal adherence. Coordination and regulation are emphasised (at national, state/regional and local levels), supported by central government policy frameworks and grievance detection regimes. While the integrity agenda has distinctive elements of a reform movement, preliminary evidence suggests it may become integrated under the existing logics of performance, audits and risk management. It nevertheless signals substantive changes to the conduct of sport organisations at multiple levels of the system.
+  </article>
   <article id="contributors-article-DTKSFVFQ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

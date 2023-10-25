@@ -1,5 +1,5 @@
 ---
-title: "6RFARRZC"
+title: "Effects of exercise in the fasted and postprandial state on interstitial glucose in hyperglycemic individuals"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6RFARRZC" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1475312" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/6RFARRZC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-6RFARRZC" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-6RFARRZC" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-6RFARRZC" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-6RFARRZC"></div>
 </article>
 <div id="csl-bib-meta-6RFARRZC" class="csl-bib-meta">
+  <article id="abstract-article-6RFARRZC" class="abstract-article">
+    <h1>Samandrag</h1>
+    The purpose of the present study was to test if one bout of moderate exercise performed in either the fasted or the postprandial state affects glucose values measured over 22 hours. Twelve participants diagnosed with hyperglycemia not using antidiabetic medications underwent 3 test days in a randomized cross-over design encompassing one test day without exercise, one test day with 60 min of treadmill walking prior to breakfast, and one test day with an identical bout of exercise 30 min after the start of breakfast. Continuous glucose monitoring was performed until the next morning (&gt;22 hours). There was no significant effect of type of test day on the area under the glucose curve for the entire 22 hours period (p = 0.111). None of the exercise interventions had a significant effect on the area under the glucose curve after breakfast, lunch or dinner. However, the postprandial exercise bout tended to decrease the area under the glucose curve after the evening meal compared to the fasted exercise bout (24.2 ± 6.2 vs. 27.6 ± 6.0 mmol·hour·L-1, p = 0.031). Furthermore, the postprandial exercise decreased the mean of the 10 highest glucose values measured in each individual (8.6 ± 1.9 mmol·L-1) over 22 hours compared to both the control day (9.3 ± 2.1 mmol.L-1) and the day with fasted exercise (9.6 ± 1.7 mmol·L-1, p = 0.012 and 0.009 respectively). Postprandial exercise also decreased the glycemic variability compared to the control day (1.22 ± 0.49 vs. 1.58 ± 0.52 mmol·L-1, p = 0.015). We conclude that performing moderate exercise in the postprandial state after breakfast, but not in the fasted state, decreases glucose excursions during the subsequent 22 hours period in hyperglycemic individuals not using antidiabetic medications.
+  </article>
   <article id="contributors-article-6RFARRZC" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

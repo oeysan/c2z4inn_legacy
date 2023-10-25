@@ -1,5 +1,5 @@
 ---
-title: "DMCZPPKS"
+title: "Coping and Negotiating a Sense of Self: Immigrant Men's Experiences of Living with Co-Occurring Substance Use and Mental Health Disorders in Norway"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DMCZPPKS" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1813505" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DMCZPPKS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-DMCZPPKS" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-DMCZPPKS" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-DMCZPPKS" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-DMCZPPKS"></div>
 </article>
 <div id="csl-bib-meta-DMCZPPKS" class="csl-bib-meta">
+  <article id="abstract-article-DMCZPPKS" class="abstract-article">
+    <h1>Abstract</h1>
+    Recent years have seen an increase in the immigrant population in Norway, and within this population, a considerable rise in substance use disorders (SUDs) and elevated odds of developing mental health disorders (MHDs). Immigrants are thus regarded as an at-risk group for both situations. No studies have been conducted on the subjective understanding of co-occurring SUDs and MHDs among this immigrant population; thus, there is limited knowledge of the field. This qualitative study aims to explore the lived experiences of being an immigrant and living with co-occurring SUDs and MHDs. Individual interviews with 10 persons of immigrant background with co-occurring SUDs and MHDs, and treatment experience in Norway, were conducted. Data were analyzed using a phenomenological approach and systematic text condensation. Analysis yielded three categories, each with two subcategories, of the immigrants’ experiences of living with cooccurring SUDs and MHDs. The overarching theme was how they coped and negotiated a sense of self within the self, within the surrounding culture, and within the structures of society. Subcategories revealed their experiences that necessitated coping and negotiating sense of self within each level. Participants experienced “living a double life” and a “culture clash” along with a sense of belonging to a marginalized group, thus, lacking a sense of belonging in mainstream society. This study provides enhanced understanding of how immigrants with co-occurring SUDs and MHDs experience being an immigrant and having the concurrent disorders.
+  </article>
   <article id="contributors-article-DMCZPPKS" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

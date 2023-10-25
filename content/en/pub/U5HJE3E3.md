@@ -1,5 +1,5 @@
 ---
-title: "U5HJE3E3"
+title: "Defining a Conceptual Model for Market Mechanisms in Food Supply Chains, and Parameterizing Price Functions for Coffee, Wheat, Corn, Soybeans, and Beef"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-U5HJE3E3" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1856234" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/U5HJE3E3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-U5HJE3E3" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-U5HJE3E3" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-U5HJE3E3" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18461/IJFSD.V10I2.14" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-U5HJE3E3"></div>
 </article>
 <div id="csl-bib-meta-U5HJE3E3" class="csl-bib-meta">
+  <article id="abstract-article-U5HJE3E3" class="abstract-article">
+    <h1>Abstract</h1>
+    The contribution of the study presented in this paper is twofold. Firstly, to add to the present body of knowledge of food supply and demand model dynamics and the associated economics, based on system analysis. It describes a new approach for dealing with price mechanisms in models based on causal links and dynamic feedbacks. It has been applied to some main global food commodities, but has also been used for metals and materials in a parallel study. The price mechanism is described in a way to be useful for other modelers dealing with price mechanism, and it enables modelers to make dynamic price endogenous in models. Secondly, it presents price function curves for different food commodities, parameterizing a fundamental property of the commodity trade.International Journal on Food System Dynamics, Vol 10, No 2 (2019)
+  </article>
   <article id="contributors-article-U5HJE3E3" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

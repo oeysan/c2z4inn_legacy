@@ -1,5 +1,5 @@
 ---
-title: "M6XA7E7G"
+title: "Liquid array diagnostics: a novel method for rapid detection of microbial communities in single-tube multiplex reactions"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-M6XA7E7G" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1703833" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/M6XA7E7G" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-M6XA7E7G" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-M6XA7E7G" class="csl-bib-button">Contributors</a>
     <a href="https://www.future-science.com/doi/pdf/10.2144/btn-2018-0134" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-M6XA7E7G"></div>
 </article>
 <div id="csl-bib-meta-M6XA7E7G" class="csl-bib-meta">
+  <article id="abstract-article-M6XA7E7G" class="abstract-article">
+    <h1>Abstract</h1>
+    We present a novel liquid array diagnostics (LAD) method, which enables rapid and inexpensive detection of microbial markers in a single-tube multiplex reaction. We evaluated LAD both on pure cultures, and on infant gut microbiota for a 15-plex reaction. LAD showed more than 80% accuracy of classification and a detection limit lower than 2% of the Illumina reads per sample. The results on the clinical dataset showed that there was a rapid decrease of staphylococci from 10-day- to 4-month-old children, a peak of bifidobacteria at 4 months, and a peak of Bacteroides in 2-year-old children, which is in accordance with findings described in the literature. Being able to detect up to 50 biomarkers, LAD is a suitable method for assays where high throughput is essential.
+  </article>
   <article id="contributors-article-M6XA7E7G" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

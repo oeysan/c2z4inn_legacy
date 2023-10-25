@@ -1,5 +1,5 @@
 ---
-title: "FMU2L8TC"
+title: "The effect of psychosocial support on caregivers’ perceived criticism and emotional over-involvement of persons with dementia: an assessor-blinded randomized controlled trial"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FMU2L8TC" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1727567" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/FMU2L8TC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-FMU2L8TC" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-FMU2L8TC" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-FMU2L8TC" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://bmchealthservres.biomedcentral.com/track/pdf/10.1186/s12913-019-4551-x" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-FMU2L8TC"></div>
 </article>
 <div id="csl-bib-meta-FMU2L8TC" class="csl-bib-meta">
+  <article id="abstract-article-FMU2L8TC" class="abstract-article">
+    <h1>Samandrag</h1>
+    BackgroundMany relatives of close family members suffering from dementia have taken on the caregiver role. While intervention studies have revealed promising results on caregiver burden, distress, and depression, there is a lack of knowledge about how caregivers’ perceived relationship with their ill family member influences the burden of care. This study examined whether a psychosocial intervention influenced this perceived relationship from the caregivers’ perspective. We also explored whether the caregivers’ perception of the care receiver’s attitude and behavior changed over time, and whether caregiver stress and mood differed following the intervention. MethodsThe participating caregivers and care receivers were randomly assigned to a psychosocial intervention comprising education about dementia, counselling and group sessions, or to treatment as usual. The study investigated caregivers’ experience of expressed emotion using the Felt Expressed Emotion Rating Scale (FEERS), a self-report questionnaire that captures caregivers’ perception of criticism (CC) and emotional over-involvement (EOI) exhibited by the family members with dementia. ResultsA total of 208 dyads were enrolled in the study. There were no significant differences between the intervention and control groups in the studied variables. Caregivers’ perception of CC and EOI was low but fluctuated somewhat, whereas their mood and stress level were stable during the follow-up period. ConclusionsAccording to the FEERS, the intervention did not influence caregivers’ perception of CC and EOI, and there was no difference between the intervention and control groups regarding caregivers’ perceived relationship. Despite the increased symptoms of dementia, caregivers’ level of distress and mood remained stable, and they seemed to maintain a positive perception of the quality of their relationship with the care receiver. Trial registrationClinical.Trials.gov Sept. 2009, NCT 01287767.
+  </article>
   <article id="contributors-article-FMU2L8TC" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

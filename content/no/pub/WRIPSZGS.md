@@ -1,5 +1,5 @@
 ---
-title: "WRIPSZGS"
+title: "Emergent analysis and dissemination within participatory research"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WRIPSZGS" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1818925" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WRIPSZGS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WRIPSZGS" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-WRIPSZGS" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-WRIPSZGS" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/1743727X.2020.1763945?needAccess=true" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,28 @@ type: pub
   <div id="csl-bib-meta-container-WRIPSZGS"></div>
 </article>
 <div id="csl-bib-meta-WRIPSZGS" class="csl-bib-meta">
+  <article id="abstract-article-WRIPSZGS" class="abstract-article">
+    <h1>Samandrag</h1>
+    Authentic participation involving jointly undertaken analysis of data and 
+dissemination of findings is rarely evident in participatory research 
+involving disabled people. This paper examines analysis and 
+dissemination which offers greater participation, providing a theoretical 
+underpinning for this approach. This conceptualization arises from 
+ARCHES, a museum education and access research project involving 
+over 200 disabled people and a systematic review undertaken as part of 
+this project. A few studies, including ARCHES, have moved beyond 
+traditional research analysis to recognize the evolving nature of the 
+‘messy space’ and how this may inform approaches to data and 
+dissemination. This paper frames this space as the While of participation, 
+a concept which emerged from the systematic literature review and 
+from working within ARCHES. It explores how the While of participation 
+is experienced in practice, in relation to analysis and dissemination. In 
+particular it focuses upon its emergent nature. Within this project and 
+occasionally elsewhere in the literature, data analysis and dissemination 
+are not retrospective or separated activities, but arise as part of the 
+ongoing participatory process, where immersion and dialogue are at the 
+root of all knowledge development and sharing.
+  </article>
   <article id="contributors-article-WRIPSZGS" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

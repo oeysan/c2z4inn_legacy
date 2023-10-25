@@ -1,5 +1,5 @@
 ---
-title: "MRHKFTZ3"
+title: "Factors Associated with Trust in Public Authorities Among Adults in Norway, United Kingdom, United States, and Australia Two Years after the COVID-19 Outbreak"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MRHKFTZ3" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2153015" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/MRHKFTZ3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-MRHKFTZ3" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-MRHKFTZ3" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-MRHKFTZ3" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.ssph-journal.org/articles/10.3389/ijph.2023.1605846/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-MRHKFTZ3"></div>
 </article>
 <div id="csl-bib-meta-MRHKFTZ3" class="csl-bib-meta">
+  <article id="abstract-article-MRHKFTZ3" class="abstract-article">
+    <h1>Samandrag</h1>
+    Objectives: This study aimed to examine the levels of trust in information provided by public authorities 2 years after the COVID-19 outbreak and to examine factors associated with trust. Methods: Using a cross-national approach, online survey data was collected from four Western countries—Australia, Norway, the United Kingdom, and the United States of America. Differences in reports of very low or low levels of trust were examined by age, gender, area of residence, and the highest level of education in the four countries. Results: Levels of trust in the public authorities’ information were highest among Norwegian respondents and lowest among U.K. respondents. Lower levels of trust in public authorities were found among males, individuals living in rural or remote areas, and those with lower levels of education. Conclusion: The outcomes contribute to knowledge regarding differences between socio-demographic groups and countries regarding the levels of trust people have in public authorities’ information concerning a crisis, such as COVID-19. Strategies to promote trust in societies in different countries could consider these socio-demographic differences.
+  </article>
   <article id="contributors-article-MRHKFTZ3" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "JTERRRYI"
+title: "Identifying and correcting spatial bias in opportunistic citizen science data for wild ungulates in Norway"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JTERRRYI" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1943625" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JTERRRYI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-JTERRRYI" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-JTERRRYI" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-JTERRRYI" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.8200" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,12 @@ type: pub
   <div id="csl-bib-meta-container-JTERRRYI"></div>
 </article>
 <div id="csl-bib-meta-JTERRRYI" class="csl-bib-meta">
+  <article id="abstract-article-JTERRRYI" class="abstract-article">
+    <h1>Samandrag</h1>
+    Many publications make use of opportunistic data, such as citizen science observation data, to infer large-scale properties of species’ distributions. However, the few publications that use opportunistic citizen science data to study animal ecology at a habitat level do so without accounting for spatial biases in opportunistic records or using methods that are difficult to generalize. In this study, we explore the biases that exist in opportunistic observations and suggest an approach to correct for them. We first examined the extent of the biases in opportunistic citizen science observations of three wild ungulate species in Norway by comparing them to data from GPS telemetry. We then quantified the extent of the biases by specifying a model of the biases. From the bias model, we sampled available locations within the species’ home range. Along with opportunistic observations, we used the corrected availability locations to estimate a resource selection function (RSF). We tested this method with simulations and empirical datasets for the three species. We compared the results of our correction method to RSFs obtained using opportunistic observations without correction and to RSFs using GPS-telemetry data. Finally, we compared habitat suitability maps obtained using each of these models. Opportunistic observations are more affected by human access and visibility than locations derived from GPS telemetry. This has consequences for drawing inferences about species’ ecology. Models naïvely using opportunistic observations in habitat-use studies can result in spurious inferences. However, sampling availability locations based on the spatial biases in opportunistic data improves the estimation of the species’ RSFs and predicted habitat suitability maps in some cases. This study highlights the challenges and opportunities of using opportunistic observations in habitat-use studies. While our method is not foolproof it is a first step toward unlocking the potential of opportunistic citizen science data for habitat-use studies. 
+citizen science, habitat selection, opportunistic data, preferential sampling, spatial bias,  
+ungulates
+  </article>
   <article id="contributors-article-JTERRRYI" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "BX28YA2N"
+title: "Brukermedvirkning – fra politikk til praksis: Hvordan implementeres de politiske målsettingene på bakkenivå?"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BX28YA2N" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1838865" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/BX28YA2N" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://www.idunn.no/file/pdf/67237886/brukermedvirkning_fra_politikk_til_praksis.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-BX28YA2N"></div>

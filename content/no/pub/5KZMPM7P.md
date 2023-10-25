@@ -1,5 +1,5 @@
 ---
-title: "5KZMPM7P"
+title: "Associations between Mental Health, Lifestyle Factors and Worries about Climate Change in Norwegian Adolescents"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5KZMPM7P" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2059819" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/5KZMPM7P" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-5KZMPM7P" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-5KZMPM7P" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-5KZMPM7P" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.mdpi.com/1660-4601/19/19/12826/pdf?version=1665130834" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-5KZMPM7P"></div>
 </article>
 <div id="csl-bib-meta-5KZMPM7P" class="csl-bib-meta">
+  <article id="abstract-article-5KZMPM7P" class="abstract-article">
+    <h1>Samandrag</h1>
+    Climate change is a serious global health threat that has an impact on young people’s lives and may influence their mental health. Since the global climate strike movement, many adolescents have expressed worries about climate change. Thus, the aim of this study is to examine the prevalence of worries about climate change, and factors associated with worries about climate change, in a representative sample of Norwegian adolescents. Data were retrieved from Ungdata, an annual nationwide online youth survey. Adolescents (n = 128,484) from lower and upper secondary school participated in the study. Data were analysed descriptively and with logistic regression. Most of the adolescents were not worried or a little worried about climate change. Girls, pupils who had at least one parent with higher education and pupils from urban areas were more inclined to worry about the climate. Adolescents who worried about the climate had more symptoms of depression than those who were less worried. While worry about climate change may constitute an additional burden for adolescents experiencing depressive symptoms, such worry can also be seen to reflect climate-friendly values.
+  </article>
   <article id="contributors-article-5KZMPM7P" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

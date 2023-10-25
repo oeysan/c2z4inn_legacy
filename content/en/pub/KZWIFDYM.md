@@ -1,5 +1,5 @@
 ---
-title: "KZWIFDYM"
+title: "Changes in prevalence of mental disorders among internally displaced persons in central Sudan: a 1-year follow-up study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KZWIFDYM" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1886396" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KZWIFDYM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KZWIFDYM" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-KZWIFDYM" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-KZWIFDYM" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A0BEDFDBEAFA314F9390256F4279F362/S2054425120000163a.pdf/div-class-title-changes-in-prevalence-of-mental-disorders-among-internally-displaced-persons-in-central-sudan-a-1-year-follow-up-study-div.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-KZWIFDYM"></div>
 </article>
 <div id="csl-bib-meta-KZWIFDYM" class="csl-bib-meta">
+  <article id="abstract-article-KZWIFDYM" class="abstract-article">
+    <h1>Abstract</h1>
+    BackgroundSudan has one of the largest numbers of internally displaced persons (IDPs) in the world, estimated at five million. The main cause of displacement was the civil war. Attention to the health and in particular the mental health of IDPs has been lacking. That includes limited population longitudinal data describing the “natural” fluctuations of mental morbidity among these groups. The aim of this study is to investigate the level and stability of mental disorders among IDPs over a 1-year period. MethodIn this 1-year follow-up of IDPs in two settlement areas in central Sudan, 1549 persons 18 years or older were interviewed twice using the MINI International Neuropsychiatric Interview. Trained psychologists collected the data in a random household survey in the selected IDP areas. ResultsWe found overall high stability among those having and those free of mental disorders in this 1-year follow-up study. There were, however, discernible and statistically significant increases in overall new cases of mental disorders from T1 to T2 as major depression increased by 1.4%, generalized anxiety by 2.8% and social phobia by 1.4%. ConclusionThe study revealed continued high levels and increases of mental disorders over time, although with a pattern of substantial persistence among those initially ill and limited recovery. This might be due to a complex set of factors such as unavailability of mental health services, poverty, low educational level and social exclusion.
+  </article>
   <article id="contributors-article-KZWIFDYM" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

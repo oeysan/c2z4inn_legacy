@@ -1,5 +1,5 @@
 ---
-title: "HI6ZT3KA"
+title: "Condições de trabalho do professor de Sociologia"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HI6ZT3KA" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1690625" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HI6ZT3KA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-HI6ZT3KA" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-HI6ZT3KA" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-HI6ZT3KA" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.scielo.br/j/ccedes/a/VvLsdXNV5kXsGxGHmKYRzrG/?lang=pt&amp;format=pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,11 @@ type: pub
   <div id="csl-bib-meta-container-HI6ZT3KA"></div>
 </article>
 <div id="csl-bib-meta-HI6ZT3KA" class="csl-bib-meta">
+  <article id="abstract-article-HI6ZT3KA" class="abstract-article">
+    <h1>Abstract</h1>
+    Oartigo tem como objetivo apresentar as condições de trabalho dos professores de Sociologia, no período atual, e, também, descrever e analisar as mudanças advindas de um conjunto de leis aprovadas no segundo semestre de 2009, no estado de São Paulo. O texto estrutura-se da seguinte forma: (1) Breve histórico da Sociologia como disciplina escolar. Este tópico apresenta a história da disciplina por meio das políticas educacionais, colocando ênfase nos seus desdobramentos no período mais recente no Estado de São Paulo. (2) Condições de trabalho. O objetivo deste tópico é o de analisar quatro pontos referentes às condições de trabalho, que se relacionam com a legislação discutida. Os pontos são os seguintes: (2.1) Salário; (2.2) Jornada de trabalho; (2.3) Carreira e (2.4) Relações de trabalho. Este artigo justifica-se pela compreensão dos reflexos das novas leis no trabalho docente e na trajetória e institucionalização da Sociologia como disciplina escolar.
+This paper aims to present the working conditions of Sociology professors, in the current period, and also describe and analyze the changes resulting from a series of laws approved in semester of 2009, in São Paulo State. The text is structured as follows: (1) Brief history of Sociology as a discipline in schools. This topic presents the history of the discipline through educational policies, emphasizing on their effects in the most recent period in São Paulo State. (2) Working conditions. The purpose of this topic is to analyze four points related to working conditions, according to the legislation discussed. The points are as follows: (2.1) Salary; (2.2) Journeywork; (2.3) Career and (2.4) Labor Relations. This paper is justified by the understanding of the consequences of new laws in academic labor and in the history and institutionalization of Sociology as a discipline in schools.
+  </article>
   <article id="contributors-article-HI6ZT3KA" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "ECRBIXXZ"
+title: "Work‐related stress, stress reactions and coping strategies in ambulance nurses: A qualitative interview study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ECRBIXXZ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2168167" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ECRBIXXZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ECRBIXXZ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-ECRBIXXZ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-ECRBIXXZ" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jan.15819" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-ECRBIXXZ"></div>
 </article>
 <div id="csl-bib-meta-ECRBIXXZ" class="csl-bib-meta">
+  <article id="abstract-article-ECRBIXXZ" class="abstract-article">
+    <h1>Abstract</h1>
+    AimTo describe experiences of work‐related stress, stress reactions and coping strategies among registered nurses (RNs) in the ambulance service (AS). DesignA descriptive and qualitative design. MethodsParticipants were recruited from eight different ambulance stations from different geographical locations in central Sweden. Data were collected from 14 RNs during the period from January 2022 to May 2022 using a semi‐structured interview guide. Qualitative content analysis was used to analyse data using an abductive approach. ResultsThree categories describe the RNs' experiences; (1) Situations that cause work‐related stress, (2) Reactions and feelings that occur and (3) Management of work‐related stress. These three main categories included a total of 12 subcategories. Work‐related stress was experienced when participants were a part of traumatic events or experienced insufficient cooperation or a disturbing event in the work environment. The different causes lead to different kinds of reactions with feelings of frustration, fear and loneliness being prominent. To manage the work‐related stress, RNs used different kinds of strategies and support from colleagues or lack thereof seemed to have a major impact. ConclusionsFindings revealed the importance of having competent colleagues in the AS. Working with a competent colleague can reduce experiences of stress and prevent feelings of loneliness. It is important for the AS to provide stress‐reduction support, to promote cooperation and to maintain and develop RNs' professional competence to ensure quality care and patient safety in the AS.
+  </article>
   <article id="contributors-article-ECRBIXXZ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

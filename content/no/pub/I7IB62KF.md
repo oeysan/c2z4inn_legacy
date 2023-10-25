@@ -1,5 +1,5 @@
 ---
-title: "I7IB62KF"
+title: "The Role of Communication, Institutional Trust and Reputation to Health Advice Adherence: Lessons from a Case Study of the Norwegian Institute of Public Health During the COVID-19 Pandemic."
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-I7IB62KF" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2092751" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/I7IB62KF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-I7IB62KF" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-3-030-94814-6_15" class="csl-bib-button">EZproxy</a>
   </div>

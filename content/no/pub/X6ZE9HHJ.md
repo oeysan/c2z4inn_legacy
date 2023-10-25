@@ -1,5 +1,5 @@
 ---
-title: "X6ZE9HHJ"
+title: "Perspektiver på kropp i kroppsøvingsfaget i skolen og i faglærerutdanningen i kroppsøving"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,31 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-X6ZE9HHJ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1586283" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/X6ZE9HHJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-X6ZE9HHJ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-X6ZE9HHJ" class="csl-bib-button">Medverkande</a>
     <a href="https://jased.net/index.php/jased/article/download/1052/2548" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-X6ZE9HHJ"></div>
 </article>
 <div id="csl-bib-meta-X6ZE9HHJ" class="csl-bib-meta">
+  <article id="abstract-article-X6ZE9HHJ" class="abstract-article">
+    <h1>Samandrag</h1>
+    Skolen blir pekt på som en arena som skal hjelpe barn og unge å håndtere problematikker knyttet 
+til helse og kropp. I kroppsøving skal elevene lære både om kropp og med kroppen. Følelser, 
+erfaringer og meninger knyttet til kroppen og det kroppslige synes å være essensielt i faget. Et 
+sentralt spørsmål blir da hva fremtidens kroppsøvingslærere lærer i sin utdanning for å få kompetanse 
+til å undervise mot slike mål. I denne artikkelen trekker vi frem to teoretiske perspektiver 
+på kropp: kroppen som objekt og kroppen som subjekt. Gjennom en teoridrevet tekstanalyse viser vi 
+hvordan disse perspektivene kommer til syne i styringsdokumenter i skolefaget kroppsøving og i 
+faglærerutdanning i kroppsøving og idrettsfag. Analysen viser at både skolefaget kroppsøving og 
+faglærerutdanningen åpner opp for en bred forståelse av kropp, særlig i formål og innledende tekst. 
+I målformuleringene er det imidlertid mindre tydelig at kropp kan forstås ut i fra ulike teoretiske 
+perspektiver. På bakgrunn av dette diskuterer vi hvordan ulike perspektiver på kropp kan etablere 
+et handlingsrom for fagutvikling innen et inkluderende kroppsøvingsfag som makter å konstruktivt 
+møte og bidra til læring og utvikling hos ulike elever.
+  </article>
   <article id="contributors-article-X6ZE9HHJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "W6PDJS5J"
+title: "Mapping patterns of abiotic and biotic stress resilience uncovers conservation gaps and breeding potential of Vigna wild relatives"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-W6PDJS5J" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1811194" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/W6PDJS5J" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-W6PDJS5J" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-W6PDJS5J" class="csl-bib-button">Contributors</a>
     <a href="https://www.nature.com/articles/s41598-020-58646-8.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-W6PDJS5J"></div>
 </article>
 <div id="csl-bib-meta-W6PDJS5J" class="csl-bib-meta">
+  <article id="abstract-article-W6PDJS5J" class="abstract-article">
+    <h1>Abstract</h1>
+    This study provides insights in patterns of distribution of abiotic and biotic stress resilience across Vigna gene pools to enhance the use and conservation of these genetic resources for legume breeding. Vigna is a pantropical genus with more than 88 taxa including important crops such as V. radiata (mung bean) and V. unguiculata (cowpea). Our results show that sources of pest and disease resistance occur in at least 75 percent of the Vigna taxa, which were part of screening assessments, while sources of abiotic stress resilience occur in less than 30 percent of screened taxa. This difference in levels of resilience suggests that Vigna taxa co-evolve with pests and diseases while taxa are more conservative to adapt to climatic changes and salinization. Twenty-two Vigna taxa are poorly conserved in genebanks or not at all. This germplasm is not available for legume breeding and requires urgent germplasm collecting before these taxa extirpate on farm and in the wild. Vigna taxa, which tolerate heat and drought stress are rare compared with taxa, which escape these stresses because of short growing seasons or with taxa, which tolerate salinity. We recommend prioritizing these rare Vigna taxa for conservation and screening for combined abiotic and biotic stress resilience resulting from stacked or multifunctional traits. The high presence of salinity tolerance compared with drought stress tolerance, suggests that Vigna taxa are good at developing salt-tolerant traits. Vigna taxa are therefore of high value for legume production in areas that will suffer from salinization under global climate change.
+  </article>
   <article id="contributors-article-W6PDJS5J" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

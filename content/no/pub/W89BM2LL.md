@@ -1,5 +1,5 @@
 ---
-title: "W89BM2LL"
+title: "Yardstick Regulation of Electricity Distribution Disentangling Short-run and Long-run Inefficiencies"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-W89BM2LL" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1488050" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/W89BM2LL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-W89BM2LL" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-W89BM2LL" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-W89BM2LL" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.5547/01956574.38.5.skum" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,23 @@ type: pub
   <div id="csl-bib-meta-container-W89BM2LL"></div>
 </article>
 <div id="csl-bib-meta-W89BM2LL" class="csl-bib-meta">
+  <article id="abstract-article-W89BM2LL" class="abstract-article">
+    <h1>Samandrag</h1>
+    In this paper we estimate the short-run, long-run and overall efficiency of Norwegian 
+electricity distribution companies for the period 2000–2013 controlling 
+for both noise and company effects. Short-run inefficiency is the part of inefficiency 
+that is allowed to adjust freely over time for each company, but long-run 
+(persistent) inefficiency remains constant over time, although it is allowed to vary 
+across companies. For robustness check we also consider two additional models 
+in which either company effects are not controlled or these are treated as inefficiency. 
+The production technology is represented by a translog input distance 
+function in all three models. We find that technical change and returns to scale 
+are quite robust across the models. However, the efficiency scores across the three 
+models we consider are not correlated strongly. We conclude that the regulators 
+and practitioners should take extra caution in using the proper model in practice, 
+especially when the efficiency measures are used to reward/punish companies 
+through incentives for better performance.
+  </article>
   <article id="contributors-article-W89BM2LL" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

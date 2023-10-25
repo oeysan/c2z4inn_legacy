@@ -1,5 +1,5 @@
 ---
-title: "IYDCUSTX"
+title: "Effect of age and level of education on neurocognitive impairment in HIV positive Zambian adults."
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IYDCUSTX" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1581309" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/IYDCUSTX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-IYDCUSTX" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-IYDCUSTX" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-IYDCUSTX" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://europepmc.org/articles/pmc6296371?pdf=render" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-IYDCUSTX"></div>
 </article>
 <div id="csl-bib-meta-IYDCUSTX" class="csl-bib-meta">
+  <article id="abstract-article-IYDCUSTX" class="abstract-article">
+    <h1>Abstract</h1>
+    Objective: Older age and lower education levels are known to be associated with worse neurocognitive (NC) performance in healthy adults, and individuals with HIV infection may experience accelerated brain/cognition aging. However, higher education may possibly protect against HIV-associated neurocognitive disorders (HAND). The aim of the current cross-sectional study was to assess the effect of age and education in an HIV-1 clade C infected adult population in urban Zambia. Method: Demographically corrected Zambian norms on a neuropsychological (NP) test battery were used to correct for normal age and education effects. The study assessed 286 HIV positive (+) males (37.1%) and females (62.9%) with a mean age of 41.35 (SD = 8.56) and mean years of education = 10.16 (SD = 2.18). A comprehensive NP test battery was used to assess cognitive domains frequently affected by HIV: attention/working memory, learning/and delayed recall, executive function, verbal fluency, processing speed, verbal and visual episodic memory, and fine motor skills. Results: In younger HIV+ Zambians, higher education evidenced protective effects against NC impairments overall, and for the specific domains of executive functions, learning and speed of information processing. Impairment scores did not support accelerated overall brain aging although the restricted age range and relative youth of our total sample may have precluded detection of such tendencies. Conclusions: The present study raises the need to investigate factors that could be implicated in the poor neurocognitive performance among the younger, less educated HIV+ individuals in Zambia.
+  </article>
   <article id="contributors-article-IYDCUSTX" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

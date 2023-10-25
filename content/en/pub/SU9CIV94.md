@@ -1,5 +1,5 @@
 ---
-title: "SU9CIV94"
+title: "Arne Garborg og fela"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,12 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SU9CIV94" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1710307" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/SU9CIV94" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-SU9CIV94" class="csl-bib-button">Abstract</a>
   </div>
   <div id="csl-bib-meta-container-SU9CIV94"></div>
 </article>
 <div id="csl-bib-meta-SU9CIV94" class="csl-bib-meta">
+  <article id="abstract-article-SU9CIV94" class="abstract-article">
+    <h1>Abstract</h1>
+    Forfattaren Arne Garborg (1851-1924) var verksam på mange litterære felt. 
+ Garborg hadde i unge år lært å spele fele. Seinare lærte han seg hardingfele, og hadde eit visst repertoar av slåttar.  
+Sjølv om det er kjent at Garborg spelte fele, er ikkje felespelet hans så mykje omtala i garborgiana.   
+Kva veit ein om felespelet til Arne Garborg? Korleis og av kven lærte Garborg seg felespel? Kva for plass hadde musikken og fela i livet til Arne Garborg?
+  </article>
   <article id="taxonomy-article-SU9CIV94" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>

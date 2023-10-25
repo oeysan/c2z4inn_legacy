@@ -1,5 +1,5 @@
 ---
-title: "CB2RYMZK"
+title: "Frontline Employees as Innovators"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CB2RYMZK" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1815430" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/CB2RYMZK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CB2RYMZK" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-CB2RYMZK"></div>

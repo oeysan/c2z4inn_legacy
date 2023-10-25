@@ -1,5 +1,5 @@
 ---
-title: "VIGYTAYY"
+title: "'Some Women Are Born Fighters': Discursive Constructions of a Fighter's Identity by Female Finnish Judo Athletes"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VIGYTAYY" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1535364" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VIGYTAYY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-VIGYTAYY" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-VIGYTAYY" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-VIGYTAYY" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://jyx.jyu.fi/bitstream/123456789/58956/1/sersd1700153kavoura%20et%20al.final.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,36 @@ type: pub
   <div id="csl-bib-meta-container-VIGYTAYY"></div>
 </article>
 <div id="csl-bib-meta-VIGYTAYY" class="csl-bib-meta">
+  <article id="abstract-article-VIGYTAYY" class="abstract-article">
+    <h1>Abstract</h1>
+    Martial arts and combat sports have been traditionally 
+associated with masculinity, and a range of contradictory 
+meanings have been attached to women’s engagement and 
+experiences. The present study draws on cultural praxis and 
+feminist poststructuralist frameworks to explore how female 
+martial artists are subjectified to dominant cultural discourses 
+surrounding fighting and competition. Interviews with nine 
+female judoka (judo athletes) were gathered in Finland and 
+analyzed using Foucauldian Discourse Analysis (FDA). The 
+FDA revealed that in female judoka talk, judo was constructed 
+as a sport for all, but also as a male domain and a manly sport 
+with fighting and competition as innate masculine qualities 
+that are not learned. Two sets of wider, competing discourses 
+provided the dominant structure for participants’ constructions 
+of judo: (a) a mass sport discourse versus an elite sport 
+discourse and (b) a gender equality discourse versus a female 
+biological inferiority discourse. Drawing on this discursive 
+context and in seeking to make sense of their experiences, 
+participants constructed a Bnaturally born fighter^ identity. 
+Although this might be an empowering identity for female 
+judoka, it does not advance the agenda of gender equity in 
+martial arts because it constructs Bordinary^ women as biologically 
+incapable of competitive judo. Our findings reveal 
+that even in the relatively egalitarian culture of Finland, gender 
+hierarchies persist in judo and that it is only by disrupting 
+prevalent constructions of fighting and competitiveness as 
+masculine that progress toward gender equity can be made.
+  </article>
   <article id="contributors-article-VIGYTAYY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

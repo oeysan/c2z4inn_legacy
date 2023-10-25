@@ -1,5 +1,5 @@
 ---
-title: "KWG4DRW9"
+title: "Serological Evidence of Hepatitis E Virus Infection in Semi-Domesticated Eurasian Tundra Reindeer (Rangifer tarandus tarandus) in Norway"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KWG4DRW9" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1969412" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KWG4DRW9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KWG4DRW9" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-KWG4DRW9" class="csl-bib-button">Medverkande</a>
     <a href="https://www.mdpi.com/2076-0817/10/12/1542/pdf?version=1638501581" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-KWG4DRW9"></div>
 </article>
 <div id="csl-bib-meta-KWG4DRW9" class="csl-bib-meta">
+  <article id="abstract-article-KWG4DRW9" class="abstract-article">
+    <h1>Samandrag</h1>
+    Hepatitis E virus (HEV) is a common cause of viral hepatitis in humans. In developing countries, HEV-infections seem to be mainly associated with pigs, but other animal species may be involved in viral transmission. Recently, anti-HEV antibodies were detected in Norwegian wild reindeer. Here, we investigated anti-HEV seroprevalence in Norwegian semi-domesticated reindeer, animals in closer contact with humans than their wild counterparts. Blood samples (n = 516) were obtained from eight reindeer herds during the period 2013–2017 and analysed with a commercial enzyme-linked immunosorbent assay designed for detecting anti-HEV antibodies in livestock. Antibodies were found in all herds and for all sampling seasons. The overall seroprevalence was 15.7% (81/516), with adults showing a slightly higher seroprevalence (18.0%, 46/256) than calves (13.5%, 35/260, p = 0.11). The seroprevalence was not influenced by gender or latitude, and there was no temporal trend (p &gt; 0.15). A positive association between the presence of anti-HEV antibodies and antibodies against alphaherpesvirus and pestivirus, detected in a previous screening, was found (p &lt; 0.05). We conclude that Norwegian semi-domesticated reindeer are exposed to HEV or an antigenically similar virus. Whether the virus is affecting reindeer health or infects humans and poses a threat for human health remains unknown and warrants further investigations.
+  </article>
   <article id="contributors-article-KWG4DRW9" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "ZFS3MZZL"
+title: "Et stjernebilde å snakke med? Kunst som nærvær og fremmedhet i Cecilie Løveids scenetekst Roadkills (2010)"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZFS3MZZL" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2045805" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZFS3MZZL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ZFS3MZZL" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/edda.109.4.3" class="csl-bib-button">EZproxy</a>
   </div>

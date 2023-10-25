@@ -1,5 +1,5 @@
 ---
-title: "TCEMCLZR"
+title: "Physical contact in physical education, sports coaching and the preschool – a scoping review"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TCEMCLZR" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2014478" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/TCEMCLZR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-TCEMCLZR" class="csl-bib-button">Samandrag</a>
     <a href="#sdg-article-TCEMCLZR" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://doi.org/10.1080/13573322.2021.2019697" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TCEMCLZR"></div>
 </article>
 <div id="csl-bib-meta-TCEMCLZR" class="csl-bib-meta">
+  <article id="abstract-article-TCEMCLZR" class="abstract-article">
+    <h1>Samandrag</h1>
+    Physical contact between adults and children in educational setting has been a well debated subject in research over the past 20 years. Although physical contact is often regarded as an important pedagogical tool, it has given rise to an increased awareness amongst sports coaches, physical education and preschool teachers about the possible negative consequences of its use in these settings. The aim of this article is to map the current literature on physical contact in physical education, sports coaching and the preschool and identify research gaps by means of a scoping review, i.e. after 20 years of research in the field of intergenerational touch what can be said to be known in the field and what possible gaps are there in the research? The research questions are: (i) Which journals, countries, settings, theories and methods are represented in the research field? (ii) Which central themes and knowledge gaps can be identified? The results show that the research field has expanded significantly in the last 20 years, both in terms of the number of published articles, the number of countries represented in the research and the number of journals in which articles on the topic have been published. The central themes identified in the articles included in the review cover the following topics: fears related to physical contact, resistance, cultural differences, the functions and needs of physical contact and the professional identity of sports coaches, physical education and preschool teachers. It is concluded that studies that could lead the research field forward would ideally focus on intersectionality, or how practitioners’ fears of physical contact impact their pedagogical work with students.
+  </article>
   <article id="sdg-article-TCEMCLZR" class="sdg-article">
     <h1>Berekraftsmål</h1>
     <div class="sdg-container"><div id="sdg4" class="sdg">

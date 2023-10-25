@@ -1,5 +1,5 @@
 ---
-title: "YSVDT8CN"
+title: "Expected climate change consequences and their role in explaining individual risk judgments"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YSVDT8CN" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2126532" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/YSVDT8CN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-YSVDT8CN" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-YSVDT8CN" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-YSVDT8CN" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0281258&amp;type=printable" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-YSVDT8CN"></div>
 </article>
 <div id="csl-bib-meta-YSVDT8CN" class="csl-bib-meta">
+  <article id="abstract-article-YSVDT8CN" class="abstract-article">
+    <h1>Samandrag</h1>
+    This study examines what individuals expect will be the most important impacts of climate change on their respective countries, and how these expectations relate to individual risk judgments. Open-ended responses from representative samples in four European countries (each n &gt; 1000), were sorted into six categories: expectations of climate change leading to changes in attitudes and goals, human activities, emissions and pollution, environmental changes, impacts on humans, or few or no impacts. The results showed that the most frequently mentioned climate change impacts were related to environmental changes. Although most results were consistent across the UK, Norway, Germany, and France, some differences were identified. For example, respondents in the UK and Norway more frequently mentioned changes in human actions and activities among the most important climate change impacts. We also found differences between demographic groups; men, those in the oldest age groups, and those placing themselves further right on the political spectrum were more likely to expect few or no consequences of climate change on their country. Additional analyses examined relationships between the six impact categories and two different measures of individual risk judgments. Those expecting climate change to lead to changes in attitudes and goals, environmental changes, or impacts on humans reported higher levels of worry about climate change and expected more negative effects on their country. Climate change worry, but not the evaluation of how positive or negative effects will be on one’s country, was further related to the number of consequences mentioned in response to the open-ended question and the specificity conveyed.
+  </article>
   <article id="contributors-article-YSVDT8CN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

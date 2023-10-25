@@ -1,5 +1,5 @@
 ---
-title: "TJTZ23SL"
+title: "Kommunikasjonssystemer for beredskap og krisehåndtering – teknologi og utfordringer"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TJTZ23SL" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1986154" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/TJTZ23SL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TJTZ23SL" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-TJTZ23SL"></div>

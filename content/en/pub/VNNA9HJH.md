@@ -1,5 +1,5 @@
 ---
-title: "VNNA9HJH"
+title: "A4A relationships"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VNNA9HJH" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1494083" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VNNA9HJH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-VNNA9HJH" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-VNNA9HJH" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-VNNA9HJH" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/JSTP-05-2017-0085" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,26 @@ type: pub
   <div id="csl-bib-meta-container-VNNA9HJH"></div>
 </article>
 <div id="csl-bib-meta-VNNA9HJH" class="csl-bib-meta">
+  <article id="abstract-article-VNNA9HJH" class="abstract-article">
+    <h1>Abstract</h1>
+    Purpose 
+The purpose of this paper is to investigate the characteristics of actors that allow them to relate to others actors in the system through shared intentionality (orientation) and the nature of the A4A relationship and the results that such interactions bring to the emergent system based on this shared purpose (finality). 
+ 
+Design/methodology/approach 
+The topic is approached by theoretical analysis and conceptual development of three integrative frameworks: the sociological perspective, service-dominant logic and a particular perspective of system thinking: the viable system approach (vSa). 
+ 
+Findings 
+The A4A relationships involve value co-creation based on actors integrating their resources and acting with intentionality to obtain value by providing benefits to other parties and by belonging to the emergent viable system; actor acts for other actors directly involved in the relationship generating positive effects for the whole system in which it is contextualized. 
+ 
+Research limitations/implications 
+Future empirical research might better support findings. 
+ 
+Social implications 
+Many social implications deriving from an augmented role of actors engaged within social relationships in co-creation exchanges. From the title of the paper A4A over on the manuscript describes numerous social inferences of actors in co-creation. 
+ 
+Originality/value 
+A4A is a relationship formed by actors that interact for the benefit of the whole system in which are involved. They find own benefit from the benefit created for the system in which they live and act. In A4A relationships the value of the single actor comes from the participation to the viability of the whole system.
+  </article>
   <article id="contributors-article-VNNA9HJH" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "73FZSPWY"
+title: "Does the Incredible Years Teacher Classroom Management programme improve child-teacher relationships in childcare centres? A 1-year universal intervention in a Norwegian community sample"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-73FZSPWY" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1725237" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/73FZSPWY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-73FZSPWY" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-73FZSPWY" class="csl-bib-button">Medverkande</a>
     <a href="https://munin.uit.no/bitstream/10037/16272/4/article.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-73FZSPWY"></div>
 </article>
 <div id="csl-bib-meta-73FZSPWY" class="csl-bib-meta">
+  <article id="abstract-article-73FZSPWY" class="abstract-article">
+    <h1>Samandrag</h1>
+    The Incredible Years Teacher Classroom Management (IY TCM) programme has shown promise in reducing behaviour problems among high-risk children in childcare. However, at present, we do not know whether the IY TCM successfully improves the child–teacher relationship in childcare and whether the effects manifest in both the population and in high-risk groups. Hence, we conducted a quasi-experimental pre-post study with a matched control condition to examine the changes in child–teacher relationships in a sample of 1085 children aged 3–6 years after implementing the IY TCM programme. Linear mixed models revealed favourable group-by-time differences benefitting the intervention compared to the control condition. Subgroup analyses of children scoring at or above the 90th percentile on either internalising or externalising behaviour problems showed that the preventive effects persisted in both high-risk subsamples. In sum, the findings indicate that the IY TCM programme does improve child–teacher relationships and that the effect is present for the entire study population as well as children scoring in the clinical range on behaviour problems. This suggests that the application of the IY TCM programme in childcare settings has important preventive effects. Implications and limitations are further discussed.
+  </article>
   <article id="contributors-article-73FZSPWY" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

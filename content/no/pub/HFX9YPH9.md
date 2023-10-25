@@ -1,5 +1,5 @@
 ---
-title: "HFX9YPH9"
+title: "Small rodent cycles influence interactions among predators in a boreal forest ecosystem"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HFX9YPH9" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1937949" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HFX9YPH9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-HFX9YPH9" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-HFX9YPH9" class="csl-bib-button">Medverkande</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s13364-021-00590-7.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-HFX9YPH9"></div>
 </article>
 <div id="csl-bib-meta-HFX9YPH9" class="csl-bib-meta">
+  <article id="abstract-article-HFX9YPH9" class="abstract-article">
+    <h1>Samandrag</h1>
+    Cyclic fluctuations of prey have profound effects on the functioning of ecosystems, for example, by changing the dynamics, behavior, and intraguild interactions of predators. The aim of this study was to assess the effect of rodent cyclic fluctuations in the interspecific interactions of a guild of small- and medium-sized predators: red fox ( Vulpes vulpes ), pine marten ( Martes martes ), and weasels ( Mustela erminea and Mustela nivalis ) in the boreal ecosystem. We analyzed eight years (2007–2014) of snow tracking data from southeastern Norway using structural equation models to assess hypothesized networks of causal relationships. Our results show that fluctuations in rodent abundance alter the strength of predator’s interactions, as well as the effect of determinant environmental variables. Pine marten and weasel abundances were positively associated with rodent population growth rate, but not red fox abundance. All predators were positively associated with each other; however, the association between red fox and the other predators weakened when rodents increased. Rodent fluctuations had variable effects on the habitat use of the predators. The presence of agricultural land was important for all predators, but this importance weakened for the mustelids as rodent abundance increased. We discuss the shifting role of interference and exploitative competition as possible mechanisms behind these patterns. Overall, we highlight the importance of accounting for the dynamics of prey resources when studying interspecific interactions among predators. Additionally, we demonstrate the importance of monitoring the predator populations in order to anticipate undesirable outcomes such as increased generalist predator abundances to the detriment of specialists.
+  </article>
   <article id="contributors-article-HFX9YPH9" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

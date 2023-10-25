@@ -1,5 +1,5 @@
 ---
-title: "EVY8BPRN"
+title: "Folkehelsebyrden i Norge knyttet til tann- og munnsjukdommer"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EVY8BPRN" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1781762" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/EVY8BPRN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
   </div>
   <div id="csl-bib-meta-container-EVY8BPRN"></div>
 </article>

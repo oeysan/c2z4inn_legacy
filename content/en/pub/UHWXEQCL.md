@@ -1,5 +1,5 @@
 ---
-title: "UHWXEQCL"
+title: "Examining the relationship between personality, organizational political skill and perceived team performance in a multinational military staff exercise context"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UHWXEQCL" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1452618" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/UHWXEQCL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-UHWXEQCL" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-UHWXEQCL" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-UHWXEQCL" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://sciendo.com/pdf/10.1515/jms-2016-0003" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-UHWXEQCL"></div>
 </article>
 <div id="csl-bib-meta-UHWXEQCL" class="csl-bib-meta">
+  <article id="abstract-article-UHWXEQCL" class="abstract-article">
+    <h1>Abstract</h1>
+    Military staffs are composed of many smaller teams that are interdependent upon each other for a positive functioning level of the whole staff. Many factors can improve or harm the harmony of the staff. Recently, there has been an increased interest in the soft factors that may affect team performance. The purpose of this study was to examine the relationship between the Big Five personality dimensions, political skill and perceived team performance in a multinational staff training event. The sample included 185 military staff officers (49% response rate). The results indicated that the personality dimension Emotional stability and Political skill had a limited, yet statistically significant, predictive power on team performance. Practical considerations and future research directions are suggested.
+  </article>
   <article id="contributors-article-UHWXEQCL" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

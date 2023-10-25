@@ -1,5 +1,5 @@
 ---
-title: "ZCS4XAU6"
+title: "Guilt and proneness to shame: Unethical behaviour in vulnerable and grandiose narcissism"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZCS4XAU6" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1573717" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZCS4XAU6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ZCS4XAU6" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-ZCS4XAU6" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-ZCS4XAU6" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://ejop.psychopen.eu/index.php/ejop/article/download/1355/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-ZCS4XAU6"></div>
 </article>
 <div id="csl-bib-meta-ZCS4XAU6" class="csl-bib-meta">
+  <article id="abstract-article-ZCS4XAU6" class="abstract-article">
+    <h1>Samandrag</h1>
+    Narcissists are described as individuals with dysfunctional personality traits such as lack of psychological awareness and empathy. Theories of ethical behaviour assume that unethical actions trigger moral emotions of guilt and shame. Currently, there is a lack of knowledge on moral emotions as dispositional traits and their potential influences on behaviour in individuals with narcissistic traits. The present study examined vulnerable and grandiose narcissism’s differences in the propensity to experience guilt and shame as a proneness, across a range of personal transgressions. Guilt proneness was measured by negative evaluation of unethical behaviour, and whether this evaluation could influence reparation of tendencies of unethical action in vulnerable and grandiose narcissism. Shame proneness was investigated by negative evaluation of the self, and then whether the previous tendency could affect unethical decision making and behaviour (e.g., hiding), in vulnerable and grandiose narcissism. Two hundred and sixteen participants responded to the Guilt and Shame Proneness Scale, the Narcissistic Personality Inventory Scale and the Hypersensitive Narcissism Scale in an online questionnaire. Findings indicate that grandiose narcissism was negatively associated with guilt proneness, and the relation between the vulnerable narcissism and guilt proneness was negative. Additionally, the results confirm a negative association between grandiose narcissism and shame proneness, especially related to the subscale ‘shame negative self-evaluation’. Furthermore, guilt and shame proneness explained 20% of the variance in vulnerable narcissism and 11% in grandiose narcissism. This research indicates that both vulnerable and grandiose narcissism have the tendency to make unethical decisions, and they are more likely to enact in unethical behaviour. These findings are relevant for the detection of narcissistic individual’s propensity to act unethically in social context.
+  </article>
   <article id="contributors-article-ZCS4XAU6" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

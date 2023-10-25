@@ -1,5 +1,5 @@
 ---
-title: "E6THHXEW"
+title: "Deer Behavior Affects Density Estimates With Camera Traps, but Is Outweighed by Spatial Variability"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,21 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E6THHXEW" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2048649" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/E6THHXEW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-E6THHXEW" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-E6THHXEW" class="csl-bib-button">Contributors</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fevo.2022.881502/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-E6THHXEW"></div>
 </article>
 <div id="csl-bib-meta-E6THHXEW" class="csl-bib-meta">
+  <article id="abstract-article-E6THHXEW" class="abstract-article">
+    <h1>Abstract</h1>
+    Density is a key trait of populations and an essential parameter in ecological research, wildlife conservation and management. Several models have been developed to estimate population density based on camera trapping data, including the random encounter model (REM) and camera trap distance sampling (CTDS). Both models need to account for variation in animal behavior that depends, for example, on the species and sex of the animals along with temporally varying environmental factors. We examined 
+whether the density estimates of REM and CTDS can be improved for Europe’s most numerous deer species, by adjusting the behavior-related model parameters per species and accounting for differences in movement speeds between sexes, seasons, and years. Our results showed that bias through inadequate consideration of animal behavior was exceeded by the uncertainty of the density estimates, which was mainly influenced by variation in the number of independent observations between camera trap locations. The neglection of seasonal and annual differences in movement speed estimates for REM overestimated densities of red deer in autumn and spring by ca. 14%. This GPS telemetry-derived parameter was found to be most problematic for roe deer females in summer and spring when movement behavior was characterized by small-scale displacements relative to the intervals of the GPS fixes. In CTDS, density estimates of red deer improved foremost through the consideration of behavioral reactions to the camera traps (avoiding bias of max. 19%), while species-specific delays between photos had a larger effect for roe deer. In general, the applicability of both REM and CTDS would profit profoundly from improvements in their precision along with the reduction in bias achieved by exploiting the available information on animal behavior in the camera 
+trap data.
+  </article>
   <article id="contributors-article-E6THHXEW" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "E6SFWUW2"
+title: "Mental health in refugee children"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E6SFWUW2" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2052934" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/E6SFWUW2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-E6SFWUW2" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-E6SFWUW2" class="csl-bib-button">Contributors</a>
     <a href="https://doi.org/10.1016/j.copsyc.2022.101460" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-E6SFWUW2"></div>
 </article>
 <div id="csl-bib-meta-E6SFWUW2" class="csl-bib-meta">
+  <article id="abstract-article-E6SFWUW2" class="abstract-article">
+    <h1>Abstract</h1>
+    Almost half of the world's forcibly displaced population are children, most commonly originating from Syria, Iraq, and Afghanistan. Health disparities are well documented, especially for mental health, but not consistent across groups, time or context. Despite high exposure to trauma and stress, refugee children also show remarkable resilience. An ecological model of refugee health including both risk and resilience factors is therefore recommended. The model also includes the dynamic inter-relationship of past traumatic experiences, ongoing daily stressors and the disruptions of basic systems affecting both the individual and families as a whole, offering a framework to better understand the health disparities and appropriate interventions for refugee children.
+  </article>
   <article id="contributors-article-E6SFWUW2" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

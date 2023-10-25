@@ -1,5 +1,5 @@
 ---
-title: "DKYM3JZS"
+title: "Maintaining subjectivity under coercion: Former patients’ experiences of being transformed into an object in psychiatric care"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DKYM3JZS" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1931663" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DKYM3JZS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-DKYM3JZS" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-DKYM3JZS" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/09593543211034231" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-DKYM3JZS"></div>
 </article>
 <div id="csl-bib-meta-DKYM3JZS" class="csl-bib-meta">
+  <article id="abstract-article-DKYM3JZS" class="abstract-article">
+    <h1>Samandrag</h1>
+    Coercion in psychiatric care may cause long-term negative effects such as trauma, reluctance to seek later treatment, as well as erosion of self-confidence and trust in one’s own feelings and thoughts. Based on data from a previous study and the theoretical framework developed by Hans Skjervheim, this article discusses how experiences with coercion may appear as a result of how the patients are approached and defined when involuntarily admitted. If patients admitted to involuntary psychiatric care are treated as objects they might respond by objectifying the professionals back or succumbing to the descriptions of themselves as sick. The latter may ultimately cause them to question their own sanity. In light of this, this paper argues that there is a need for an ongoing ethical discussion on how to find common ground between patients and health care workers, where both are viewed as subjects with knowledge and opinions worthy of respect.
+  </article>
   <article id="contributors-article-DKYM3JZS" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

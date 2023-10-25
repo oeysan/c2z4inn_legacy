@@ -1,5 +1,5 @@
 ---
-title: "PKT7S9VK"
+title: "Team learning capability – an instrument for innovation ambidexterity?"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PKT7S9VK" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1757782" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PKT7S9VK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-PKT7S9VK" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-PKT7S9VK" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-PKT7S9VK" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/IJQSS-02-2019-0026" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-PKT7S9VK"></div>
 </article>
 <div id="csl-bib-meta-PKT7S9VK" class="csl-bib-meta">
+  <article id="abstract-article-PKT7S9VK" class="abstract-article">
+    <h1>Abstract</h1>
+    PurposeThe aim of this paper is to develop the concept of team learning capability in professional service firms. Thereafter, to examine the effect of team learning capability on innovation ambidexterity. The aspects of exploitive and explorative knowledge creation in teams and its impact on incremental and radical service innovation are in focus. Design/methodology/approachStructural equation modelling was applied to establish reliability and validity and measure the size of relationships. Evidence is drawn upon an empirical sample of 210 consultants in the professional service industry. FindingsThe findings support the concept of team learning capability and reveal that team learning capability consists of relationship learning in teams, trusting team climate and employee commitment. The results indicate a strong positive relationship between team learning capability and innovation ambidexterity in professional service firms. Originality/valueThis study is the first to offer an empirical-based and contextualized framework for team learning capabilities and a valid measure.
+  </article>
   <article id="contributors-article-PKT7S9VK" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -91,7 +96,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg13" class="sdg">

@@ -1,5 +1,5 @@
 ---
-title: "K4SEU7EV"
+title: "Figurative production in a computer-mediated discussion forum: Metaphorical analogies about relationship abuse"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-K4SEU7EV" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1863503" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/K4SEU7EV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-K4SEU7EV" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-K4SEU7EV" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-K4SEU7EV" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-K4SEU7EV"></div>
 </article>
 <div id="csl-bib-meta-K4SEU7EV" class="csl-bib-meta">
+  <article id="abstract-article-K4SEU7EV" class="abstract-article">
+    <h1>Samandrag</h1>
+    When people undergo traumatic events, they frequently turn to metaphor in   an attempt to make what might initially seem indescribable into something comprehensible to others, and/or to help themselves reach a clearer understanding of what has happened to them. This investigation explores such metaphorical language produced in computer-mediated discourse by survivors of relationship abuse to communicate about various aspects of their experience, thus shedding light on a traditionally “taboo” subject that many people find difficult to broach. The analysis first explores the ways survivors “frame” their experience through a particular source domain, and then looks at the various source domain “scenarios” that are drawn upon to elaborate particular salient details of the abuse. The chapter thus builds upon established theories about metaphorical frames and scenarios to explore what we may learn about a particular group (i.e. relationship abuse survivors) through analyzing their 
+production of metaphor. In this way, it demonstrates why the theory of metaphor and the field of figurative language production matter in the real world.
+  </article>
   <article id="contributors-article-K4SEU7EV" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

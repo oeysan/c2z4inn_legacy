@@ -1,5 +1,5 @@
 ---
-title: "E6CFG2SJ"
+title: "Force-velocity profiling in athletes: Reliability and agreement across methods"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E6CFG2SJ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1900597" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/E6CFG2SJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-E6CFG2SJ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-E6CFG2SJ" class="csl-bib-button">Medverkande</a>
     <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0245791&amp;type=printable" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-E6CFG2SJ"></div>
 </article>
 <div id="csl-bib-meta-E6CFG2SJ" class="csl-bib-meta">
+  <article id="abstract-article-E6CFG2SJ" class="abstract-article">
+    <h1>Samandrag</h1>
+    The aim of the study was to examine the test-retest reliability and agreement across methods for assessing individual force-velocity (FV) profiles of the lower limbs in athletes. Using a multicenter approach, 27 male athletes completed all measurements for the main analysis, with up to 82 male and female athletes on some measurements. The athletes were tested twice before and twice after a 2- to 6-month period of regular training and sport participation. The double testing sessions were separated by ~1 week. Individual FV-profiles were acquired from incremental loading protocols in squat jump (SJ), countermovement jump (CMJ) and leg press. A force plate, linear encoder and a flight time calculation method were used for measuring force and velocity during SJ and CMJ. A linear regression was fitted to the average force and velocity values for each individual test to extrapolate the FV-variables: theoretical maximal force (F 0 ), velocity (V 0 ), power (P max ), and the slope of the FV-profile (S FV ). Despite strong linearity (R 2 &gt;0.95) for individual FV-profiles, the S FV was unreliable for all measurement methods assessed during vertical jumping (coefficient of variation (CV): 14–30%, interclass correlation coefficient (ICC): 0.36–0.79). Only the leg press exercise, of the four FV-variables, showed acceptable reliability (CV:3.7–8.3%, ICC:0.82–0.98). The agreement across methods for F 0 and P max ranged from (Pearson r): 0.56–0.95, standard error of estimate (SEE%): 5.8–18.8, and for V 0 and S FV r: -0.39–0.78, SEE%: 12.2–37.2. With a typical error of 1.5 cm (5–10% CV) in jump height, S FV and V 0 cannot be accurately obtained, regardless of the measurement method, using a loading range corresponding to 40–70% of F 0 . Efforts should be made to either reduce the variation in jumping performance or to assess loads closer to the FV-intercepts. Coaches and researchers should be aware of the poor reliability of the FV-variables obtained from vertical jumping, and of the differences across measurement methods.
+  </article>
   <article id="contributors-article-E6CFG2SJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

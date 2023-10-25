@@ -1,5 +1,5 @@
 ---
-title: "HUI4WYKN"
+title: "Audit and feedback in mental healthcare: staff experiences"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HUI4WYKN" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1638375" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HUI4WYKN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-HUI4WYKN" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-HUI4WYKN" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-HUI4WYKN" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.emerald.com/insight/content/doi/10.1108/IJHCQA-08-2017-0142/full/pdf?title=audit-and-feedback-in-mental-healthcare-staff-experiences" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-HUI4WYKN"></div>
 </article>
 <div id="csl-bib-meta-HUI4WYKN" class="csl-bib-meta">
+  <article id="abstract-article-HUI4WYKN" class="abstract-article">
+    <h1>Abstract</h1>
+    PurposeAudit and feedback (A&amp;F) often underlie implementation projects, described as a circular process; i.e. an A&amp;F cycle. They are widely used, but effect varies with no apparent explanation. We need to understand how A&amp;F work in real-life situations. The purpose of this paper, therefore, is to describe and explore mental healthcare full A&amp;F cycle experiences. Design/methodology/approachThis is a naturalistic qualitative study that uses four focus groups and qualitative content analysis. FindingsStaff accepted the initial A&amp;F stages, perceiving it to enhance awareness and reassure them about good practice. They were willing to participate in the full cycle and implement changes, but experienced poor follow-up and prioritization, not giving them a chance to own to the process. An important finding is the need for an A&amp;F cycle facilitator. Practical implicationsResearch teams cannot be expected to be involved in implementing clinical care. Guidelines will keep being produced to improve service quality and will be expected to be practiced. This study gives insights into planning and tailoring A&amp;F cycles. Originality/valueTools to ease implementation are not enough, and the key seems to lie with facilitating a process using A&amp;F. This study underscores leadership, designated responsibility and facilitation throughout a full audit cycle.
+  </article>
   <article id="contributors-article-HUI4WYKN" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

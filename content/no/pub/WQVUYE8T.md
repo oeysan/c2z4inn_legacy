@@ -1,5 +1,5 @@
 ---
-title: "WQVUYE8T"
+title: "Kirkelig gjestfrihet for andre religioners ritualer? Gjestebudet som prisme."
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WQVUYE8T" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1992537" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WQVUYE8T" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WQVUYE8T" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-WQVUYE8T" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/issn.1893-0271-2021-03-03" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-WQVUYE8T"></div>
 </article>
 <div id="csl-bib-meta-WQVUYE8T" class="csl-bib-meta">
+  <article id="abstract-article-WQVUYE8T" class="abstract-article">
+    <h1>Samandrag</h1>
+    I en veileder om religionsmøte ved kirkelige handlinger fra 2016 understreker Bispemøtet i Den norske kirke at kirken skal møte dem som tilhører andre religioner, som likeverdige og med gjestfrihet. Samtidig anbefales en restriktiv praksis når det gjelder å åpne kirken for andre religioners ritualer. Artikkelen problematiserer bruken av «gjestfrihet» som modell for religionsmøte både i biskopenes veileder og i andre tekster. Som et alternativ eller supplement foreslår forfatteren at tanken om et «gjestebud» bedre kan få fram et ideal om likeverd uten påtvunget likhet. Artikkelen problematiserer også Bispemøtets mangel på eksplisitt refleksjon om hvilke verdier som formidles gjennom ulike rituelle handlinger
+  </article>
   <article id="contributors-article-WQVUYE8T" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

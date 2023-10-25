@@ -1,5 +1,5 @@
 ---
-title: "KHDI6M7R"
+title: "Genomics-driven breeding for local adaptation of durum wheat is enhanced by farmers’ traditional knowledge"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KHDI6M7R" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2137452" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KHDI6M7R" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KHDI6M7R" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-KHDI6M7R" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-KHDI6M7R" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://doi.org/10.1073/pnas.2205774119" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-KHDI6M7R"></div>
 </article>
 <div id="csl-bib-meta-KHDI6M7R" class="csl-bib-meta">
+  <article id="abstract-article-KHDI6M7R" class="abstract-article">
+    <h1>Abstract</h1>
+    Smallholder farming systems support the livelihoods of estimated two billion people on the planet. They are often characterized by challenging environments critically exposed to the climate crisis, with limited access to inputs including improved seed technology. To achieve the sustainable intesification of smallholder farming systems, crop breeding needs to tailor varietal development to local farmer needs. Here, we devise a method to integrate wheat genomics with participatory varietal selection that allows to capture farmers’ traditional knowledge in a fully quantitative framework and inform breeding decisions. Our work demonstrates that cultural and natural agrobiodiversity can be leveraged together to increase the effectiveness of genomics-driven breeding toward varietal development for smallholder farming systems.
+  </article>
   <article id="contributors-article-KHDI6M7R" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

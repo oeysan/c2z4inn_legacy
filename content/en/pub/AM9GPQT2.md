@@ -1,5 +1,5 @@
 ---
-title: "AM9GPQT2"
+title: "Fostering Coexistence Between People and Large Carnivores in Africa: Using a Theory of Change to Identify Pathways to Impact and Their Underlying Assumptions"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AM9GPQT2" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1988379" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/AM9GPQT2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-AM9GPQT2" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-AM9GPQT2" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-AM9GPQT2" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fcosc.2021.698631/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-AM9GPQT2"></div>
 </article>
 <div id="csl-bib-meta-AM9GPQT2" class="csl-bib-meta">
+  <article id="abstract-article-AM9GPQT2" class="abstract-article">
+    <h1>Abstract</h1>
+    Coexistence with large carnivores poses challenges to human well-being, livelihoods, development, resource management, and policy. Even where people and carnivores have historically coexisted, traditional patterns of behavior toward large carnivores may be disrupted by wider processes of economic, social, political, and climate change. Conservation interventions have typically focused on changing behaviors of those living alongside large carnivores to promote sustainable practices. While these interventions remain important, their success is inextricably linked to broader socio-political contexts, including natural resource governance and equitable distribution of conservation-linked costs and benefits. In this context we propose a Theory of Change to identify logical pathways of action through which coexistence with large carnivores can be enhanced. We focus on Africa's dryland landscapes, known for their diverse guild of large carnivores that remain relatively widespread across the continent. We review the literature to understand coexistence and its challenges; explain our Theory of Change, including expected outcomes and pathways to impact; and discuss how our model could be implemented and operationalized. Our analysis draws on the experience of coauthors, who are scientists and practitioners, and on literature from conservation, political ecology, and anthropology to explore the challenges, local realities, and place-based conditions under which expected outcomes succeed or fail. Three pathways to impact were identified: (a) putting in place good governance harmonized across geographic scales; (b) addressing coexistence at the landscape level; and (c) reducing costs and increasing benefits of sharing a landscape with large carnivores. Coordinated conservation across the extensive, and potentially transboundary, landscapes needed by large carnivores requires harmonization of top-down approaches with bottom-up community-based conservation. We propose adaptive co-management approaches combined with processes for active community engagement and informed consent as useful dynamic mechanisms for navigating through this contested space, while enabling adaptation to climate change. Success depends on strengthening underlying enabling conditions, including governance, capacity, local empowerment, effective monitoring, and sustainable financial support. Implementing the Theory of Change requires ongoing monitoring and evaluation to inform adaptation and build confidence in the model. Overall, the model provides a flexible and practical framework that can be adapted to dynamic local socio-ecological contexts.
+  </article>
   <article id="contributors-article-AM9GPQT2" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

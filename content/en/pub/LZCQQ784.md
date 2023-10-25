@@ -1,5 +1,5 @@
 ---
-title: "LZCQQ784"
+title: "Planning to meet challenges in shrinking rural regions. Towards innovative approaches to local planning"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LZCQQ784" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2124183" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LZCQQ784" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-LZCQQ784" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-LZCQQ784" class="csl-bib-button">Contributors</a>
     <a href="https://fennia.journal.fi/article/download/119752/76022" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LZCQQ784"></div>
 </article>
 <div id="csl-bib-meta-LZCQQ784" class="csl-bib-meta">
+  <article id="abstract-article-LZCQQ784" class="abstract-article">
+    <h1>Abstract</h1>
+    In this article we ask to what extent is current demographic development reflected in the present planning and policy practice of shrinking municipalities; whether there is a focus on strategies and measures for population growth; and, finally, to what extent do politicians and planners think we should change the way we plan based on the expected demographic changes. Our study illustrates how challenging it is for shrinking municipalities to break with established practices and modes of policy development and to adopt a more sustainable position. The ‘stigma’ of shrinking (Sousa &amp; Pinho 2015) is at odds with the ideals of the local politicians. However, we find that the response in planning and policy is not uniform: several responses may appear simultaneously and connected to different parts of the societal (master) development plans, thus, making the plans incoherent and contradictory. Hence, we contribute to Beetz, Huning and Plieninger’s (2008) and Hospers’ (2014) types of responses by adding this muddled or hybrid response, which might be labelled an ‘incoherent response’. Overall, we suggest that today’s planning practice in rural areas in Norway has neither dared nor wanted to adapt to the most likely developments of a shrinking population, let alone actually doing so openly and consistently. This reluctance has had critical and negative implications for these municipalities. Future research should develop theories, concepts and models for more suitable knowledge-based and innovative local planning that can meet this complex societal challenge.
+  </article>
   <article id="contributors-article-LZCQQ784" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

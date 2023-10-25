@@ -1,5 +1,5 @@
 ---
-title: "ZPD8BDB8"
+title: "Subtractive hybridization for the isolation of differentially expressed genes using magnetic beads"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZPD8BDB8" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1916506" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZPD8BDB8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ZPD8BDB8" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1385/0-89603-383-x:115" class="csl-bib-button">EZproxy</a>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: "XBEVGY3L"
+title: "Metaphor analysis in vocational counselling: Moving from intuitive to reliable metaphor identification"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XBEVGY3L" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1812228" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/XBEVGY3L" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XBEVGY3L" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/03069885.2020.1763915" class="csl-bib-button">EZproxy</a>
   </div>

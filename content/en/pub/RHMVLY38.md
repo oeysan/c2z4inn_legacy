@@ -1,5 +1,5 @@
 ---
-title: "RHMVLY38"
+title: "Do organizations really co-evolve? Problematizing co-evolutionary change in management and organization studies"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RHMVLY38" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2096226" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/RHMVLY38" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RHMVLY38" class="csl-bib-button">Contributors</a>
     <a href="https://eprints.whiterose.ac.uk/158474/3/TFSC_Coevolution_Author_Accepted.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

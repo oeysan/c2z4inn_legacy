@@ -1,5 +1,5 @@
 ---
-title: "MWXHSF8H"
+title: "Post-Traumatic Stress Disorder and Associated Factors during the Early Stage of the COVID-19 Pandemic in Norway"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MWXHSF8H" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1857162" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/MWXHSF8H" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-MWXHSF8H" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-MWXHSF8H" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-MWXHSF8H" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/1660-4601/17/24/9210/pdf?version=1607592628" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-MWXHSF8H"></div>
 </article>
 <div id="csl-bib-meta-MWXHSF8H" class="csl-bib-meta">
+  <article id="abstract-article-MWXHSF8H" class="abstract-article">
+    <h1>Abstract</h1>
+    The COVID-19 outbreak and the sudden lockdown of society in March 2020 had a large impact on people’s daily life and gave rise to concerns for the mental health in the general population. The aim of the study was to examine post-traumatic stress reactions related to the COVID-19 pandemic, the prevalence of symptom-defined post-traumatic stress disorder (PTSD), and factors associated with post-traumatic stress in the Norwegian population during the early stages of the COVID-19 outbreak. A survey was administered via social media channels, to which a sample of 4527 adults (≥18 years) responded. Symptom-defined PTSD was measured with the PTSD Checklist for the DSM-5. The items were specifically linked to the COVID-19 pandemic. We used the DSM-5 diagnostic guidelines to categorize participants as fulfilling the PTSD symptom criteria or not. Associations with PTSD were examined with single and multiple logistic regression analyses. The prevalence of symptom-defined PTSD was 12.5% for men and 19.5% for women. PTSD was associated with lower age, female gender, lack of social support, and a range of pandemic-related variables such as economic concerns, expecting economic loss, having been in quarantine or isolation, being at high risk for complications from COVID-19 infection, and having concern for family and close friends. In conclusion, post-traumatic stress reactions appear to be common in the Norwegian population in the early stages of the COVID-19 outbreak. Concerns about finances, health, and family and friends seem to matter.
+  </article>
   <article id="contributors-article-MWXHSF8H" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

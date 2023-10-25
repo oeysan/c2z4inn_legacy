@@ -1,5 +1,5 @@
 ---
-title: "HE5T25YB"
+title: "Social Justice, Decoloniality, and Southern Epistemologies within Language Education: Theories, Knowledges, and Practices on TESOL from Brazil"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HE5T25YB" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2125307" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HE5T25YB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HE5T25YB" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-HE5T25YB"></div>

@@ -1,5 +1,5 @@
 ---
-title: "FSTBU8PK"
+title: "“Just because it's fun, it's not without purpose”: Exploring the blurred lines of physically active learning"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FSTBU8PK" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2165752" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/FSTBU8PK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FSTBU8PK" class="csl-bib-button">Contributors</a>
     <a href="https://doi.org/10.1016/j.tate.2023.104297" class="csl-bib-button">Unpaywall</a>
   </div>

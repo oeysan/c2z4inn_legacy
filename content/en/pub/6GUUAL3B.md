@@ -1,5 +1,5 @@
 ---
-title: "6GUUAL3B"
+title: "Learning spaces for inclusion and social justice: success stories from four Nordic countries"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6GUUAL3B" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1624449" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/6GUUAL3B" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-6GUUAL3B" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-6GUUAL3B" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-6GUUAL3B" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-6GUUAL3B"></div>
 </article>
 <div id="csl-bib-meta-6GUUAL3B" class="csl-bib-meta">
+  <article id="abstract-article-6GUUAL3B" class="abstract-article">
+    <h1>Abstract</h1>
+    his edited volume emanates from a Nordic research project which was conducted in Finland, Iceland, Norway and Sweden in 2013-2015. The main objective of the project was to draw lessons from success stories of individual immigrant students and whole school communities at different levels that have succeeded in developing learning contexts that are equitable and socially just, thus turning attention to good practices and what can be learnt from these. The book presents and discusses the main findings of the Learning Spaces project on the three school levels—pre-, compulsory and upper secondary—and contains chapters on research methodologies applied in the project, relevant educational policies, leadership and implementation of the project. While set in the Nordic context, this volume will serve to contribute to current global discussions around diversity and social justice in education. It will primarily appeal to educational practitioners and academics interested in issues of diversity in schools.
+  </article>
   <article id="contributors-article-6GUUAL3B" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "94YFACBB"
+title: "Building Inclusive Language Classroom Spaces through Multilingual Writing Practices for Newly-Arrived Students in Norway"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-94YFACBB" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1658309" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/94YFACBB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-94YFACBB" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-94YFACBB" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-94YFACBB" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/00313831.2018.1557741" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,12 @@ type: pub
   <div id="csl-bib-meta-container-94YFACBB"></div>
 </article>
 <div id="csl-bib-meta-94YFACBB" class="csl-bib-meta">
+  <article id="abstract-article-94YFACBB" class="abstract-article">
+    <h1>Abstract</h1>
+    This paper presents an action research project that aimed to increase opportunities for multilingual literacy engagement and identity investment for newly-arrived immigrant students in Norway. A language teacher and a researcher jointly developed a cross-curricular, multilingual module focusing on identity texts written in three languages: English, Norwegian, and each student’s home language. 
+Fourteen adolescent students speaking 15 different home languages participated. To assess the effectiveness of the multilingual pedagogical practices, the data collected included a language use questionnaire, student reflection logs, students’ identity texts, lesson plans, and the 
+teacher’s notes and reflections. The results suggest that explicit emphasis on including all languages in students’ linguistic repertories can help build inclusive classroom spaces and foster learners’ multilingual identities.
+  </article>
   <article id="contributors-article-94YFACBB" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

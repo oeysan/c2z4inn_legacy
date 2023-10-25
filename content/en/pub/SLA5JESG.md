@@ -1,5 +1,5 @@
 ---
-title: "SLA5JESG"
+title: "Hydrothermal Pretreatment of Wheat Straw: Effects of Temperature and Acidity on Byproduct Formation and Inhibition of Enzymatic Hydrolysis and Ethanolic Fermentation"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SLA5JESG" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2179764" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/SLA5JESG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-SLA5JESG" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-SLA5JESG" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-SLA5JESG" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/2073-4395/11/3/487/pdf?version=1615443668" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-SLA5JESG"></div>
 </article>
 <div id="csl-bib-meta-SLA5JESG" class="csl-bib-meta">
+  <article id="abstract-article-SLA5JESG" class="abstract-article">
+    <h1>Abstract</h1>
+    Biochemical conversion of wheat straw was investigated using hydrothermal pretreatment, enzymatic saccharification, and microbial fermentation. Pretreatment conditions that were compared included autocatalyzed hydrothermal pretreatment at 160, 175, 190, and 205 °C and sulfuric-acid-catalyzed hydrothermal pretreatment at 160 and 190 °C. The effects of using different pretreatment conditions were investigated with regard to (i) chemical composition and enzymatic digestibility of pretreated solids, (ii) carbohydrate composition of pretreatment liquids, (iii) inhibitory byproducts in pretreatment liquids, (iv) furfural in condensates, and (v) fermentability using yeast. The methods used included two-step analytical acid hydrolysis combined with high-performance anion-exchange chromatography (HPAEC), HPLC, ultra-high performance liquid chromatography-electrospray ionization-triple quadrupole-mass spectrometry (UHPLC-ESI-QqQ-MS), and pyrolysis-gas chromatography/mass spectrometry (Py-GC/MS). Lignin recoveries in the range of 108–119% for autocatalyzed hydrothermal pretreatment at 205 °C and sulfuric-acid-catalyzed hydrothermal pretreatment were attributed to pseudolignin formation. Xylose concentration in the pretreatment liquid increased with temperature up to 190 °C and then decreased. Enzymatic digestibility was correlated with the removal of hemicelluloses, which was almost quantitative for the autocatalyzed hydrothermal pretreatment at 205 °C. Except for the pretreatment liquid from the autocatalyzed hydrothermal pretreatment at 205 °C, the inhibitory effects on Saccharomyces cerevisiae yeast were low. The highest combined yield of glucose and xylose was achieved for autocatalyzed hydrothermal pretreatment at 190 °C and the subsequent enzymatic saccharification that resulted in approximately 480 kg/ton (dry weight) raw wheat straw.
+  </article>
   <article id="contributors-article-SLA5JESG" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

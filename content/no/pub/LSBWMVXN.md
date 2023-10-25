@@ -1,5 +1,5 @@
 ---
-title: "LSBWMVXN"
+title: "Effects of management practices for using the SaaS system on performance of hospitality firms in Norway"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LSBWMVXN" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2136165" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LSBWMVXN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LSBWMVXN" class="csl-bib-button">Medverkande</a>
     <a href="https://doi.org/10.1080/15022250.2023.2174182" class="csl-bib-button">Unpaywall</a>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: "E4C3XTYG"
+title: "Educational Roles in Corpus-Based Education: From Shift to Diversification"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E4C3XTYG" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1928052" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/E4C3XTYG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-E4C3XTYG" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-E4C3XTYG" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-E4C3XTYG" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journal.uia.no/index.php/NJLTL/article/download/833/715" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-E4C3XTYG"></div>
 </article>
 <div id="csl-bib-meta-E4C3XTYG" class="csl-bib-meta">
+  <article id="abstract-article-E4C3XTYG" class="abstract-article">
+    <h1>Abstract</h1>
+    This study discusses the educational roles afforded by the use of linguistic corpora as a teaching tool in pre-tertiary education and explores upper secondary students’ opinions and experiences of educational roles following corpus-based lessons. The data were collected through group interviews of 20 students following a two-week period where the students’ regular English teacher collaborated with the researcher/author to plan and implement a corpus-based approach in two first-year upper secondary school classes. The interview subjects were selected from the 69 total students across the two classes based on the teacher’s recommendations and the researcher’s observations throughout the implementation period. The results show that during the largely student-centered, corpus-based approach, students felt that the teacher was absent and unengaging at times, but that they were used to “self-study” in his lessons. The students also wanted more variation in the approaches taken by their teacher beyond purely student-centered ones. This paper advocates for a diversification of educational roles where both teachers and learners adopt and change between different roles depending on the particular situation. At the same time, the call for role shifts in the corpus-based education literature is criticized in favor of a change in discourse toward one of role diversification. 
+  </article>
   <article id="contributors-article-E4C3XTYG" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "LCLD4B9B"
+title: "Where, why and how carnivores kill domestic animals in different parts of their ranges: An example of the Eurasian lynx"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LCLD4B9B" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2172369" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LCLD4B9B" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LCLD4B9B" class="csl-bib-button">Medverkande</a>
     <a href="https://doi.org/10.1016/j.gecco.2023.e02585" class="csl-bib-button">Unpaywall</a>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: "DBYBLUTE"
+title: "Determinants of motivation in world-class musicians and Olympic athletes: Exploring the front and the back side of the medallion"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DBYBLUTE" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2140741" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DBYBLUTE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-DBYBLUTE" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-DBYBLUTE" class="csl-bib-button">Contributors</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/03057356231155973" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-DBYBLUTE"></div>
 </article>
 <div id="csl-bib-meta-DBYBLUTE" class="csl-bib-meta">
+  <article id="abstract-article-DBYBLUTE" class="abstract-article">
+    <h1>Abstract</h1>
+    The aim of the present case study was to obtain an in-depth understanding of the long-term motivation in four world-class musicians and two Olympic athletes. One part of the sample (Case 1) included three world famous musicians and one Olympic champion who all currently enjoy busy successful careers. These individuals are referred to as High Performing Stayers (HPS). The other part of the sample (Case 2) included one highly gifted musician and one Olympic athlete who both decided to put an end to their highly successful careers. These individuals are referred to as High Performing Quitters (HPQ). The performers’ perceptions of underlying driving forces and motivational impediments on their journey toward excellence were investigated through the lens of Self-Determination Theory. Semi-structured interviews revealed conspicuous and contrasting motivational patterns throughout the development of the six performers. All the four HPS were largely driven by autonomous forms of motivation such a self-initiative, passion, curiosity and a desire for endless discovery and aspiration. In contrast, despite reaching the highest international level, the two HPQ turned out to be driven by controlled coercive forms of motivation throughout their journey toward excellence. Educational implications are discussed in relation to the main findings.
+  </article>
   <article id="contributors-article-DBYBLUTE" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

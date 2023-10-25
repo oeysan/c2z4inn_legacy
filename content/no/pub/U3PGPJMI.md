@@ -1,5 +1,5 @@
 ---
-title: "U3PGPJMI"
+title: "Adolescents’ and young people’s needs and preferences for support when living with a parent with life-threatening cancer: a grounded theory study"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-U3PGPJMI" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2062286" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/U3PGPJMI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-U3PGPJMI" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-U3PGPJMI" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-U3PGPJMI" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://bmcpalliatcare.biomedcentral.com/counter/pdf/10.1186/s12904-022-01055-7" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-U3PGPJMI"></div>
 </article>
 <div id="csl-bib-meta-U3PGPJMI" class="csl-bib-meta">
+  <article id="abstract-article-U3PGPJMI" class="abstract-article">
+    <h1>Samandrag</h1>
+    BackgroundLiving with a parent facing life-threatening illness and losing a mom or dad at a young age can cause both short- and long-term health problems. Without satisfactory support, adolescents’ and young people are at risk of developing low self-esteem, behavioural difficulties (e.g., anger and aggression), long-term illness or premature death caused by severe mental illness, substance abuse, self-harm and suicide attempts. The aim of this study was to explore adolescents’ and young people’s needs and preferences for support as they live with a parent with life-threatening cancer. MethodsQualitative interviews were conducted with 10 respondents (17–24 years) in Norway and Sweden. Data were analysed through grounded theory according to Charmaz. ResultsAdolescents’ and young peoples’ needs and preferences for support were described through the main category ‘To feel safe and secure and to be prepared’ and further broken down into five subcategories ‘Relationships in the immediate family—balancing support and protection’; ‘The social network—support and normalcy in a carefully selected group’; ‘Maintaining everyday life—challenges in school and working life’; ‘The right support at the right time—competence, trust and continuity in meeting health care professionals’; and ‘Support outside the home—an opportunity for full transparency’. ConclusionAdolescents’ and young peoples’ preferences for support when living with a parent facing life-threatening illness are individual and unique, but they share a common need to feel safe and secure and to be prepared. Adolescents and young people express that they primarily want support from parents and friends, but they also want support from health care professionals, especially in situations when the ill parent becomes worse. Therefore, it is of the utmost importance for health care professionals to identify the most vulnerable adolescents and young people by mapping their social networks and paying extra attention to their needs for support when there is deterioration in the parent’s illness state. This study also highlights the importance for health care professionals to establish a good relationship with adolescents and young people to meet their needs and preferences for support. In addition, information and support are needed in a timely manner and adapted to the life-threatening ill parent’s illness state and individual’s needs and preferences to optimise preparedness.
+  </article>
   <article id="contributors-article-U3PGPJMI" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

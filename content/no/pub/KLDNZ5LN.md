@@ -1,5 +1,5 @@
 ---
-title: "KLDNZ5LN"
+title: "How can entrepreneurial orientation be promoted in service firms and what are the potential effects? An empirical study of frontline employees"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,28 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KLDNZ5LN" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1814511" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KLDNZ5LN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KLDNZ5LN" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-KLDNZ5LN" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-KLDNZ5LN" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-KLDNZ5LN"></div>
 </article>
 <div id="csl-bib-meta-KLDNZ5LN" class="csl-bib-meta">
+  <article id="abstract-article-KLDNZ5LN" class="abstract-article">
+    <h1>Samandrag</h1>
+    The aim of this paper is to explore how entrepreneurial orientation can be promoted in service firms. Previous research 
+seems to have, to a certain extent, taken a broad approach when studying entrepreneurial orientation in service firms. 
+In contrast, this study includes different levels of promoting factors and links these to service firms’ entrepreneurial 
+orientation. It also explores how service firms’ entrepreneurial orientation is linked to both internal and external 
+effects. A conceptual framework is developed and tested in an empirical study, where a total of 299 frontline service 
+employees participated. The findings reveal that open communication, job autonomy and working as a team are the 
+most influential factors in promoting service firms’ entrepreneurial orientation. Furthermore, the findings support that 
+service firms’ entrepreneurial orientation is closely related to employee commitment as well as driving its competitive 
+power when compared with relevant competitors. The paper discusses contributions and implications of these findings 
+both theoretically and practically.
+  </article>
   <article id="contributors-article-KLDNZ5LN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -62,7 +76,7 @@ Studiested Lillehammer
 </div> <div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

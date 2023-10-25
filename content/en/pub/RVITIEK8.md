@@ -1,5 +1,5 @@
 ---
-title: "RVITIEK8"
+title: "Familier i skogen – et essay om å bli etfellesskap i tid og rom"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,31 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RVITIEK8" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1523068" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/RVITIEK8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-RVITIEK8" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-RVITIEK8" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/issn.0807-7487-2017-04-03" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-RVITIEK8"></div>
 </article>
 <div id="csl-bib-meta-RVITIEK8" class="csl-bib-meta">
+  <article id="abstract-article-RVITIEK8" class="abstract-article">
+    <h1>Abstract</h1>
+    Dette essayet utforsker hvordan familier produserer en felles sosial verden når de er på 
+tur i skogen. Utgangspunkt er et feltarbeid hvor jeg har gått ut i skogen for å spørre 
+barnefamilier om hva de opplever som positivt med å tilbringe tid sammen ute i naturen. 
+Det kommer frem at familiene aktivt etablerer et felles pusterom i en hverdag som både i 
+arbeid og fritid er dominert av relasjoner til ikke-familiemedlemmer. Skogens fred og ro 
+danner en bakgrunn som muliggjør for familien å komme til syne for seg selv når de er i 
+en situasjon der alle hverdagslivets oppgaver ikke distraherer. Familien kan se seg selv 
+utenfra som en enhet i forgrunnen, men samtidig erfare hvordan det er å være familie 
+innenifra. Det er i grenseområdet mellom familiens innside og utside, mellom hvordan 
+individene erfarer familien og hvordan familien manifesterer seg, at forskere kan forsøke 
+å få et maksimalt grep på hvordan familien er et levd fenomen. 
+Nøkkelord: natur, fritid, fenomenologi, feltarbeid, familienarrativ, intensjonell bue, 
+pusterom, intersubjektivitet, narratage
+  </article>
   <article id="contributors-article-RVITIEK8" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "WQA8QZL9"
+title: "On Work Relevance of Adult Education: A Case Study Narrative"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WQA8QZL9" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1808093" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WQA8QZL9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WQA8QZL9" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-WQA8QZL9" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-WQA8QZL9" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://academic-publishing.org/index.php/ejkm/article/download/1147/1110" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-WQA8QZL9"></div>
 </article>
 <div id="csl-bib-meta-WQA8QZL9" class="csl-bib-meta">
+  <article id="abstract-article-WQA8QZL9" class="abstract-article">
+    <h1>Abstract</h1>
+    There is an increased focus on relevance of higher education. Mostly it is about enhanced job opportunities or job advancements for the individual. However, relevance of higher education may also be towards solving important issues or problems at a workplace. There are some necessary preconditions as to how an educational activity becomes relevant. Firstly, the student must be capable to discover how generic knowledge and acquired skills may or may not apply to concrete situations at work. This requires experience, understanding of the norms and culture of the organisation and a certain form of practical intelligence. Secondly, the conditions at work place must be conducive to innovation and change in various ways. In this article, we present a case study where employee turnover and lack of effective training routines were a major efficiency constraint in a Norwegian firm. With constant competition, changes in markets and other factors that influence the sustainability of an organization, cutting costs, such as high turnover and the time from being newcomer to being fully operative in the job. The responsible for training activities in the firm realized that additional formal education at the higher education level was needed, and he decided to enrol in a Knowledge Management study program at The Inland Norway University of Applied Sciences in order to learn how he could improve knowledge management and learning processes of new employees at his workplace. The case study ultimately demonstrates how crucial the interplay between content and form of education on one hand and specific conditions facilitating changes and improvements at work on the other is for the relevance in formal higher education narrative.
+  </article>
   <article id="contributors-article-WQA8QZL9" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -97,7 +102,7 @@ Room 3Ø110
 </div> <div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

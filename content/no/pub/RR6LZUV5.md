@@ -1,5 +1,5 @@
 ---
-title: "RR6LZUV5"
+title: "Resource use of crucian carp along a lake productivity gradient is related to body size, predation risk, and resource competition"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RR6LZUV5" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2050597" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/RR6LZUV5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RR6LZUV5" class="csl-bib-button">Medverkande</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/eff.12668" class="csl-bib-button">Unpaywall</a>
   </div>

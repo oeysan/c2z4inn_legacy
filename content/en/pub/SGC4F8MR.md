@@ -1,5 +1,5 @@
 ---
-title: "SGC4F8MR"
+title: "Morphological ontogeny of Zachvatkinibates svanhovdi (Acari, Oribatida, Punctoribatidae)"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SGC4F8MR" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2167250" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/SGC4F8MR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-SGC4F8MR" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-SGC4F8MR" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-SGC4F8MR" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.11646/zootaxa.5324.1.8" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-SGC4F8MR"></div>
 </article>
 <div id="csl-bib-meta-SGC4F8MR" class="csl-bib-meta">
+  <article id="abstract-article-SGC4F8MR" class="abstract-article">
+    <h1>Abstract</h1>
+    The morphological ontogeny of Zachvatkinibates svanhovdi A. Seniczak &amp; S. Seniczak, 2023 is described and illustrated. The juveniles of this species are light brown with slightly darker colour on the prodorsum, gastronotal shield, surrounding of gla opening, and legs. The larva has 12 pairs of gastronotal setae, most are of medium size and barbed; the nymphs have 15 pairs, most are short and smooth. In all juveniles, the setae of c-series are inserted on unsclerotized integument. In the larva, the pygidial shield is absent but, in the nymphs, the gastronotal shield is present and the setae p2 and p3 are inserted on unsclerotized integument. In the larva, a humeral organ is absent but is present in the nymphs. 
+  </article>
   <article id="contributors-article-SGC4F8MR" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

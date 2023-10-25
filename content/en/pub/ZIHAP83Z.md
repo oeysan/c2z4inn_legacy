@@ -1,5 +1,5 @@
 ---
-title: "ZIHAP83Z"
+title: "Alexia Alone"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZIHAP83Z" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2010811" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZIHAP83Z" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ZIHAP83Z" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-ZIHAP83Z" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-ZIHAP83Z" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://doi.org/10.37186/swrks/12.1/3" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-ZIHAP83Z"></div>
 </article>
 <div id="csl-bib-meta-ZIHAP83Z" class="csl-bib-meta">
+  <article id="abstract-article-ZIHAP83Z" class="abstract-article">
+    <h1>Abstract</h1>
+    Nina F. Grünfeld explores the effect of converting an epic psychological film portrayal meant for the movie theatre/art scene into a formatted reality series for commercial television, Alexia Alone. Grünfeld examines her relationship with the person she was filming, Alexia, and the process of negotiating with her how her character would be portrayed. Grünfeld applies an ethical lens to this experience and discusses the complexity of her concern as a filmmaker that Alexia was becoming a ‘victim’ for the viewing pleasure of the audience, and how this was in conflict with Alexia’s desire to be on the screen sharing her vulnerability. Grünfeld explores how her relationship with Alexia shifted after filming finished and Alexia was no longer the centre of attention. Alexia’s desire for attention and control over her depiction created tension with the broadcast processes.
+  </article>
   <article id="contributors-article-ZIHAP83Z" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

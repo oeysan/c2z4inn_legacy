@@ -1,5 +1,5 @@
 ---
-title: "T3RUWRT2"
+title: "Rapid identification of pathogens, antibiotic resistance genes and plasmids in blood cultures by nanopore sequencing"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-T3RUWRT2" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1809753" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/T3RUWRT2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-T3RUWRT2" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-T3RUWRT2" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-T3RUWRT2" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.nature.com/articles/s41598-020-64616-x.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-T3RUWRT2"></div>
 </article>
 <div id="csl-bib-meta-T3RUWRT2" class="csl-bib-meta">
+  <article id="abstract-article-T3RUWRT2" class="abstract-article">
+    <h1>Samandrag</h1>
+    Bloodstream infections (BSI) and sepsis are major causes of morbidity and mortality worldwide. Blood culture-based diagnostics usually requires 1–2 days for identification of bacterial agent and an additional 2–3 days for phenotypic determination of antibiotic susceptibility pattern. With the escalating burden of antimicrobial resistance (AMR) rapid diagnostics becomes increasingly important to secure adequate antibiotic therapy. Real-time whole genome sequencing represents a genotypic diagnostic approach with the ability to rapidly identify pathogens and AMR-encoding genes. Here we have used nanopore sequencing of bacterial DNA extracted from positive blood cultures for identification of pathogens, detection of plasmids and AMR-encoding genes. To our knowledge, this is the first study to gather the above-mentioned information from nanopore sequencing and conduct a comprehensive analysis for diagnostic purposes in real-time. Identification of pathogens was possible after 10 minutes of sequencing and all predefined AMR-encoding genes and plasmids from monoculture experiments were detected within one hour using raw nanopore sequencing data. Furthermore, we demonstrate the correct identification of plasmids and blaCTX-M subtypes using de novo assembled nanopore contigs. Results from this study hold great promise for future applications in clinical microbiology and for health care surveillance purposes.
+  </article>
   <article id="contributors-article-T3RUWRT2" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

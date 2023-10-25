@@ -1,5 +1,5 @@
 ---
-title: "GPD2PBIP"
+title: "Age at first reproduction in wolves: different patterns of density dependence for females and males"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GPD2PBIP" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1921732" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/GPD2PBIP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-GPD2PBIP" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-GPD2PBIP" class="csl-bib-button">Contributors</a>
     <a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2021.0207" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-GPD2PBIP"></div>
 </article>
 <div id="csl-bib-meta-GPD2PBIP" class="csl-bib-meta">
+  <article id="abstract-article-GPD2PBIP" class="abstract-article">
+    <h1>Abstract</h1>
+    Age at first reproduction constitutes a key life-history trait in animals and is evolutionarily shaped by fitness benefits and costs of delayed versus early reproduction. The understanding of how intrinsic and extrinsic changes affects age at first reproduction is crucial for conservation and management of threatened species because of its demographic effects on population growth and generation time. For a period of 40 years in the Scandinavian wolf ( Canis lupus ) population, including the recolonization phase, we estimated age at first successful reproduction (pup survival to at least three weeks of age) and examined how the variation among individuals was explained by sex, population size (from 1 to 74 packs), primiparous or multiparous origin, reproductive experience of the partner and inbreeding. Median age at first reproduction was 3 years for females ( n = 60) and 2 years for males ( n = 74), and ranged between 1 and 8–10 years of age ( n = 297). Female age at first reproduction decreased with increasing population size, and increased with higher levels of inbreeding. The probability for males to reproduce later first decreased, reaching its minimum when the number of territories approached 40–60, and then increased with increasing population size. Inbreeding for males and reproductive experience of parents and partners for both sexes had overall weak effects on age at first reproduction. These results allow for more accurate parameter estimates when modelling population dynamics for management and conservation of small and vulnerable wolf populations, and show how humans through legal harvest and illegal hunting influence an important life-history trait like age at first reproduction.
+  </article>
   <article id="contributors-article-GPD2PBIP" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "VH3GZGSN"
+title: "Multisyke eldre pasienters erfaringer med brukermedvirkning ved utskrivning fra sykehus: Er samproduksjon et uoppnåelig ideal?"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VH3GZGSN" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2176809" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VH3GZGSN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-VH3GZGSN" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-VH3GZGSN" class="csl-bib-button">Medverkande</a>
     <a href="https://septentrio.uit.no/index.php/helseforsk/article/download/6582/7628" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VH3GZGSN"></div>
 </article>
 <div id="csl-bib-meta-VH3GZGSN" class="csl-bib-meta">
+  <article id="abstract-article-VH3GZGSN" class="abstract-article">
+    <h1>Samandrag</h1>
+    Temaet for denne artikkelen er multisyke eldre pasienters erfaringer og opplevelser med mulighetene for gode medvirkningsprosesser ved utskrivning fra sykehus. Bakteppet er de politiske føringene om at brukermedvirkning i dag skal foregå som samproduksjon, der helsepersonell og pasienter aktivt anvender hverandres ressurser. Flere studier viser utfordringer i praksis, og at det er behov for mer kunnskap om pasientperspektivet i overganger mellom helsetjenester for å kunne finne effektive tilnærminger. Basert på en kvalitativ intervjuundersøkelse med femten eldre pasienter, som har hatt bruk for akutt helsehjelp på sykehus, undersøkes hvordan de erfarer betingelsene for samproduksjon. Resultatene viser flere spenninger mellom pasientsentrerte mål og organisatoriske rammer. Funnene viser blant annet at sentrale forutsetninger for brukermedvirkning ikke er til stede, og at pasientene i svært liten grad gis muligheter til å delta aktivt. Pasientene gis mangelfull informasjon, tidligere erfaringer og pasientkompetanse skaper ulikheter, og de pårørende blir i liten grad ivaretatt som ressurs.
+  </article>
   <article id="contributors-article-VH3GZGSN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

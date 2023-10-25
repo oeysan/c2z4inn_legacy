@@ -1,5 +1,5 @@
 ---
-title: "R9WZKNC2"
+title: "The Honeybee Gut Mycobiota Cluster by Season versus the Microbiota which Cluster by Gut Segment"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-R9WZKNC2" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1986942" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/R9WZKNC2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-R9WZKNC2" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-R9WZKNC2" class="csl-bib-button">Contributors</a>
     <a href="https://www.mdpi.com/2306-7381/8/1/4/pdf?version=1610528880" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-R9WZKNC2"></div>
 </article>
 <div id="csl-bib-meta-R9WZKNC2" class="csl-bib-meta">
+  <article id="abstract-article-R9WZKNC2" class="abstract-article">
+    <h1>Abstract</h1>
+    Honeybees represent one of the most important insect species we have, particularly due to their pollinating services. Several emerging fungal and bacterial diseases, however, are currently threatening honeybees without known mechanisms of pathogenicity. Therefore, the aim of the current work was to investigate the seasonal (winter, spring, summer, and autumn) fungal and bacterial distribution through different gut segments (crop, midgut, ileum, and rectum). This was done from two hives in Norway. Our main finding was that bacteria clustered by gut segments, while fungi were clustered by season. This knowledge can therefore be important in studying the epidemiology and potential mechanisms of emerging diseases in honeybees, and also serve as a baseline for understanding honeybee health.
+  </article>
   <article id="contributors-article-R9WZKNC2" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

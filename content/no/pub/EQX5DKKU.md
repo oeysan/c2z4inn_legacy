@@ -1,5 +1,5 @@
 ---
-title: "EQX5DKKU"
+title: "Å se mennesket i sitt kulturelle uttrykk"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EQX5DKKU" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1425486" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/EQX5DKKU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EQX5DKKU" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-EQX5DKKU"></div>

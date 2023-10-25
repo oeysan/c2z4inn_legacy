@@ -1,5 +1,5 @@
 ---
-title: "2DFL3ICM"
+title: "Translational implications of bradyarrhythmia in hibernating brown bears"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2DFL3ICM" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2118569" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/2DFL3ICM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-2DFL3ICM" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-2DFL3ICM" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-2DFL3ICM" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.14814/phy2.15550" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-2DFL3ICM"></div>
 </article>
 <div id="csl-bib-meta-2DFL3ICM" class="csl-bib-meta">
+  <article id="abstract-article-2DFL3ICM" class="abstract-article">
+    <h1>Abstract</h1>
+    The brown bear Ursus arctos undergoes exceptional physiological adaptions during annual hibernation that minimize energy consumption, including profound decrease in heart rate, cardiac output, and respiratory rate. These changes are completely reversible after the bears reenter into the active state in spring. In this case report, we show episodes of sinus arrest in a hibernating Scandinavian brown bear and in humans, recorded by implantable loop recorders and discuss the possible underlying mechanisms. Lessons learned from cardiac adaptations in hibernating bears might prove useful in the treatment of patients with sinus node dysfunction.
+  </article>
   <article id="contributors-article-2DFL3ICM" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

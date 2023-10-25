@@ -1,5 +1,5 @@
 ---
-title: "LIK9GSFB"
+title: "Pre-verbal Children’s Participation in a New Key. How Intersubjectivity Can Contribute to Understanding and Implementation of Child Rights in Early Childhood"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LIK9GSFB" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1932841" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LIK9GSFB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-LIK9GSFB" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-LIK9GSFB" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-LIK9GSFB" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.668015/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-LIK9GSFB"></div>
 </article>
 <div id="csl-bib-meta-LIK9GSFB" class="csl-bib-meta">
+  <article id="abstract-article-LIK9GSFB" class="abstract-article">
+    <h1>Abstract</h1>
+    Children’s participation and involvement has increasingly been on the agenda for the last few decades. The right for children to participate was established in the United Nations Convention on the Rights of the Child (UNCRC). However, even though the UNCRC gives the right to participate to all children, national policy and practice seems to draw a line on verbal language and exclude pre-verbal infants from participation. The spur of this paper is to challenge the exclusion of infants, to describe how pre-linguistic children communicate their intentions, and to show how an understanding of children’s participation grounded in intersubjectivity, can inform and reframe the participation of all children as being fundamentally about close relationships with sensitive and containing adults who look within themselves for the voice of the child. The infant’s proto-conversational narrative communicates interests and feelings through sympathetic rhythms of what infant researchers have named “communicative musicality,” and it can surface in the mother’s narrative about the child and their relationship. Intersubjectivity oppose the monadic view of man as separate and left only to imitate others and claims that humans from the very start are intertwined in a fundamental thirdness of co-created reality. Infants are powerful communicators who actively engage in intersubjective relationships with their caretakers only days after birth, and newborns actively influence and even control the mental process of those who communicate with them. Early childhood participation then, would be to find within ourselves the voice of the child. A research project building on the theories and ideas described in the first part of the article, is presented.
+  </article>
   <article id="contributors-article-LIK9GSFB" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

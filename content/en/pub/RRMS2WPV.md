@@ -1,5 +1,5 @@
 ---
-title: "RRMS2WPV"
+title: "Supporting pupils’ mental health through everyday practices: a qualitative study of teachers and head teachers"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RRMS2WPV" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1541671" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/RRMS2WPV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-RRMS2WPV" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-RRMS2WPV" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-RRMS2WPV" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/02643944.2017.1422005" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-RRMS2WPV"></div>
 </article>
 <div id="csl-bib-meta-RRMS2WPV" class="csl-bib-meta">
+  <article id="abstract-article-RRMS2WPV" class="abstract-article">
+    <h1>Abstract</h1>
+    This study aimed to explore teachers’ and head teachers’ understandings of how they work to support pupils’ mental health through their everyday practices. A qualitative study, including individual interviews with head teachers and focus groups with teachers, was conducted in lower secondary schools in Norway. Rich descriptions of teachers’ and head teachers’ everyday practices in supporting pupils’ mental health are presented in two main themes: working with individual pupils through teaching and learning, and working with the school context. Taken together, these themes illustrate the different ways teachers and head teachers (proactively and reactively) support young people’s mental health as a core aspect of their educational role, as well as some of the challenges therein. Implications for policy and practice are discussed
+  </article>
   <article id="contributors-article-RRMS2WPV" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

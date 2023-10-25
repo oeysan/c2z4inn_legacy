@@ -1,5 +1,5 @@
 ---
-title: "MWPRL8F2"
+title: "Crossing Borders, Writing Texts, Being Evaluated: Cultural and Disciplinary Norms in Academic Writing"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MWPRL8F2" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1969372" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/MWPRL8F2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-MWPRL8F2" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-MWPRL8F2" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-MWPRL8F2" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-MWPRL8F2"></div>
 </article>
 <div id="csl-bib-meta-MWPRL8F2" class="csl-bib-meta">
+  <article id="abstract-article-MWPRL8F2" class="abstract-article">
+    <h1>Abstract</h1>
+    This book provides critical perspectives on issues relating to writing norms and assessment, as well as writing proficiency development, and suggests that scholars need to both carefully examine testing regimes and develop research-informed perspectives on tests and testing practices. In this way schools, institutions of adult education and universities can better prepare learners with differing cultural experiences to meet the challenges. The book brings together empirical studies from diverse geographical contexts to address the crossing of literacy borders, with a focus on academic genres and practices. Most of the studies examine writing in countries where the norms and expectations are different, but some focus on writing in a new discourse community set in a new discipline. The chapters shed light on commonalities and differences between these two situations with respect to the expectations and evaluations facing the writers. They also consider the extent to which the norms that the writers bring with them from their educational backgrounds and own cultures are compromised in order to succeed in the new educational settings.
+  </article>
   <article id="contributors-article-MWPRL8F2" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

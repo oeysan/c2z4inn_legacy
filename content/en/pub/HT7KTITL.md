@@ -1,5 +1,5 @@
 ---
-title: "HT7KTITL"
+title: "The coping experiences of spouses of persons with dementia"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,33 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HT7KTITL" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1487727" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HT7KTITL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-HT7KTITL" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-HT7KTITL" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1111/jocn.14047" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-HT7KTITL"></div>
 </article>
 <div id="csl-bib-meta-HT7KTITL" class="csl-bib-meta">
+  <article id="abstract-article-HT7KTITL" class="abstract-article">
+    <h1>Abstract</h1>
+    Aims and objectives 
+ 
+The aim of the present study was to explore how spouses who are caregivers to persons with dementia experience everyday life six to twelve months after participation in the intervention condition in the Norwegian Cognitive Behavioural Therapy for Early Dementia (N-CORDIAL) study. 
+Background 
+ 
+There is no current medical curative treatment for cognitive impairment and dementia-associated conditions. These conditions will lead to an increased need for daily assistance and care, as well as greater stress for caregivers. The Norwegian CORDIAL Study is a manual-based randomized controlled trial based on the German CORDIAL study (Cognitive rehabilitation and cognitive behavioural treatment for early dementia in Alzheimer's disease), consisting of cognitive rehabilitation, cognitive behavioural therapy and life review methods. 
+Design and Methods 
+ 
+A descriptive exploratory study with qualitative semi-structured in-depth interviews with six spouses of persons with dementia who had participated in the Norwegian CORDIAL study. The transcribed text was analysed by systematic text condensation. 
+Result 
+ 
+The main theme identified, “An everyday search for meaning”, referred to the stress experienced by the caregivers and their coping strategies in everyday life. 
+Conclusion 
+ 
+The caregivers had gained increased awareness of coping strategies in everyday life six to twelve months after the intervention. Caregivers who experienced fewer neuropsychiatric symptoms in their spouses with dementia benefitted most from the intervention.
+  </article>
   <article id="contributors-article-HT7KTITL" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "4N2WE9US"
+title: "Dynamics of regional diversification: A new approach using trademark data"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4N2WE9US" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1925514" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/4N2WE9US" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-4N2WE9US" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-4N2WE9US" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-4N2WE9US" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/00343404.2021.1968365?needAccess=true" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-4N2WE9US"></div>
 </article>
 <div id="csl-bib-meta-4N2WE9US" class="csl-bib-meta">
+  <article id="abstract-article-4N2WE9US" class="abstract-article">
+    <h1>Samandrag</h1>
+    This paper pilots an approach for using trademark data to study regional diversification. Bridging the respective literatures, we develop a regional trademarking-intensity measure that can shed new light on how different regions diversify while also accounting for changing industrial structures and income levels (regional gross domestic product). The approach reveals that density has a moderate effect on trademarking intensity and confirms the strong relationship between new firm formation and regional diversification. These effects are found to vary by sector and to be sensitive to industry-level employment and turnover. Lastly, the analysis indicates that regional diversification differs sharply between urban and peripheral regions.
+  </article>
   <article id="contributors-article-4N2WE9US" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -59,7 +64,7 @@ Studiested Lillehammer
 </div> <div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg11" class="sdg">

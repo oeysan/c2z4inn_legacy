@@ -1,5 +1,5 @@
 ---
-title: "8LL5EQDJ"
+title: "High or hot—Perspectives on altitude camps and heat‐acclimation training as preparation for prolonged stage races"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8LL5EQDJ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2102420" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/8LL5EQDJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-8LL5EQDJ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-8LL5EQDJ" class="csl-bib-button">Contributors</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sms.14268" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-8LL5EQDJ"></div>
 </article>
 <div id="csl-bib-meta-8LL5EQDJ" class="csl-bib-meta">
+  <article id="abstract-article-8LL5EQDJ" class="abstract-article">
+    <h1>Abstract</h1>
+    Adaptation to heat stress and hypoxia are relevant for athletes participating in Tour de France or similar cycling races taking place during the summertime in landscapes with varying altitude. Both to minimize detrimental performance effects associated with arterial desaturation occurring at moderate altitudes in elite athletes, respectively, reduce the risk of hyperthermia on hot days, but also as a pre‐competition acclimatization strategy to boost blood volume in already highly adapted athletes. The hematological adaptations require weeks of exposure to manifest, but are attractive as an augmented hemoglobin mass may improve arterial oxygen delivery and hence benefit prolonged performances. Altitude training camps have in this context a long history in exercise physiology and are still common practice in elite cycling. However, heat‐acclimation training provides an attractive alternative for some athletes either as a stand‐alone approach or in combination with altitude. The present paper provides an update and practical perspectives on the potential to utilize hypoxia and heat exposure to optimize hematological adaptations. Furthermore, we will consider temporal aspects both in terms of onset and decay of the adaptations relevant for improved thermoregulatory capacity and respiratory adaptations to abate arterial desaturation during altitude exposure. From focus on involved physiological mechanisms, time course, and responsiveness in elite athletes, we will provide guidance based on our experience from practical implementation in cyclists preparing for prolonged stage races such as the Tour de France.
+  </article>
   <article id="contributors-article-8LL5EQDJ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

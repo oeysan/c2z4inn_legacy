@@ -1,5 +1,5 @@
 ---
-title: "8TUCJ8D5"
+title: "Camera trap records of leucistic Eurasian badgers ( Meles meles ) in central Norway"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8TUCJ8D5" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1932083" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/8TUCJ8D5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-8TUCJ8D5" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-8TUCJ8D5" class="csl-bib-button">Medverkande</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.8052" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-8TUCJ8D5"></div>
 </article>
 <div id="csl-bib-meta-8TUCJ8D5" class="csl-bib-meta">
+  <article id="abstract-article-8TUCJ8D5" class="abstract-article">
+    <h1>Samandrag</h1>
+    Coat coloration plays an important role in communication, camouflage, and sexual selection in animals. Genetic mutations can lead to anomalous colorations such as melanism and leucism, where animals appear, respectively, darker or lighter than normal. Reporting abnormal coloration in wild animals is an important first step to understand the distribution, prevalence, and potential fitness consequences of these rare events. Here, we report several records of suspected leucism in the Eurasian badger (Meles meles) in a population in central Norway. Several camera traps recorded at least two leucistic individuals between 2017 and 2020. It took considerable effort, almost 400,000 camera trap nights over a period of 10 years all over Norway, to obtain a total of eleven records of leucistic badgers, indicating the rarity of this phenotype. It is unclear what has caused the presence of multiple leucistic badgers in a single population, but recent colonization and lack of predators might have played a role. Due to our observations, future studies can now be developed to study the underlying mechanisms and potential consequences of leucism in this badger population. The increasing use of networks of camera traps in wildlife research will provide new opportunities to record rare coloration in wild animals. 
+albinism, anomalous color, Coat coloration, Mustelidae
+  </article>
   <article id="contributors-article-8TUCJ8D5" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

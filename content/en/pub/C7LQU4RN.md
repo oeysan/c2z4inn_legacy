@@ -1,5 +1,5 @@
 ---
-title: "C7LQU4RN"
+title: "Medisinsk simulering som metode i psykisk helsevern: en kvalitativ studie av psykisk helsearbeideres erfaringermed simuleringstrening"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-C7LQU4RN" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1738479" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/C7LQU4RN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-C7LQU4RN" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/issn.1504-3010-2019-01-03" class="csl-bib-button">EZproxy</a>
   </div>

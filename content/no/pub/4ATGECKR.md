@@ -1,5 +1,5 @@
 ---
-title: "4ATGECKR"
+title: "The influence on export performance of performance ambiguity among foreign sales agents"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4ATGECKR" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1770949" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/4ATGECKR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-4ATGECKR" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-4ATGECKR" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-4ATGECKR" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/EBR-02-2018-0041" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-4ATGECKR"></div>
 </article>
 <div id="csl-bib-meta-4ATGECKR" class="csl-bib-meta">
+  <article id="abstract-article-4ATGECKR" class="abstract-article">
+    <h1>Samandrag</h1>
+    PurposeThis paper aims to examine the extent to which exporter difficulties in evaluating foreign sales agent performance affect export performance, either directly or as mediated by opportunism. Design/methodology/approachIn developing the hypotheses, the study integrates transaction cost theory and principal-agent theory. The proposed relationships between the constructs (performance ambiguity, opportunism, and export performance) are examined for a multi-industry sample of Norwegian exporters in their dealings with foreign sales agents. A survey of 410 qualified key informants yielded 101 usable questionnaires – a response rate of 24.6%. Structural equation modeling is used for data analysis and hypothesis testing. FindingsThe analysis finds support for the hypothesis that sales agent performance ambiguity relates negatively to export performance. While performance ambiguity is positively related to sales agent opportunistic behavior, opportunism does not significantly influence export performance. It seems that the adaptation costs created by the evaluation problem are of greater importance in reducing export performance than the costs created by opportunistic behavior. Research limitations/implicationsIn focusing on the core dimensions of sales agent performance in foreign markets, other factors influencing export performance are not included. The fact that small Norwegian firms dominate the sample, further limits application and generalization of the findings. Hence, results should be interpreted with caution and the study considered as investigative. Nevertheless, the results indicate to export managers and theory potentially deteriorating dimensions in the relationship between exporter and foreign independent sales agent. Originality/valueTo the best of the authors’ knowledge, this study is the first to examine how performance ambiguity and opportunistic behavior among foreign sales agents affect export performance. By concentrating on basic deteriorating dimensions, the study adds to the few that focus on inhibiting drivers of exporter – foreign–sales–agent relationships.
+  </article>
   <article id="contributors-article-4ATGECKR" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -96,7 +101,7 @@ Rom 3Ø012
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">

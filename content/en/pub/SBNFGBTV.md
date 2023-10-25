@@ -1,5 +1,5 @@
 ---
-title: "SBNFGBTV"
+title: "Species richness, vegetation structure, and floristic composition of woody plants along the elevation gradient of Mt. Meru, Tanzania"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SBNFGBTV" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2150971" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/SBNFGBTV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-SBNFGBTV" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-SBNFGBTV" class="csl-bib-button">Contributors</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/btp.13232" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-SBNFGBTV"></div>
 </article>
 <div id="csl-bib-meta-SBNFGBTV" class="csl-bib-meta">
+  <article id="abstract-article-SBNFGBTV" class="abstract-article">
+    <h1>Abstract</h1>
+    Understanding the change in vegetation composition along elevational gradients is critical for species conservation in a changing world. We studied the species richness, tree height, and floristic composition of woody plants along an elevation gradient of protected habitats on the eastern slope of Mount Meru and analyzed how these vegetation variables are influenced by the interplay of temperature and precipitation. Vegetation data were collected on 44 plots systematically placed along five transects spanning an elevational gradient of 1600 to 3400 m a.s.l. We used ordinary linear models and multivariate analyses to test the effect of mean annual temperature and precipitation on woody plant species richness, tree height, and floristic composition. We found that species richness, mean tree height, and maximum tree height declined monotonically with elevation. Models that included only mean annual temperature as an explanatory variable were generally best supported to predict changes in species richness and tree height along the elevation gradient. We found significant changes in woody plant floristic composition with elevation, which were shaped by an interaction of mean annual temperature and precipitation. While plant communities consistently changed with temperature along the elevation gradient, levels of precipitation were more important for plant communities at lower than for those at higher elevations. Our study suggests that changes in temperature and precipitation regimes in the course of climate change will reshape elevational gradients of diversity, tree height, and correlated carbon storage in ecosystems, and the sequence of tree communities on East African mountains.
+  </article>
   <article id="contributors-article-SBNFGBTV" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

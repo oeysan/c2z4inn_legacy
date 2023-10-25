@@ -1,5 +1,5 @@
 ---
-title: "Y43KXGU5"
+title: "Taking real steps in virtual nature: a randomized blinded trial"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Y43KXGU5" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2040828" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/Y43KXGU5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-Y43KXGU5" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-Y43KXGU5" class="csl-bib-button">Medverkande</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s10055-022-00670-2.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-Y43KXGU5"></div>
 </article>
 <div id="csl-bib-meta-Y43KXGU5" class="csl-bib-meta">
+  <article id="abstract-article-Y43KXGU5" class="abstract-article">
+    <h1>Samandrag</h1>
+    Studies show that green exercise (i.e., physical activity in the presence of nature) can provide the synergistic psychophysiological benefits of both physical exercise and nature exposure. The present study aimed to investigate the extent to which virtual green exercise may extend these benefits to people that are unable to engage in active visits to natural environments, as well as to promote enhanced exercise behavior. After watching a video validated to elicit sadness, participants either performed a treadmill walk while exposed to one of two virtual conditions, which were created using different techniques (360° video or 3D model), or walked on a treadmill while facing a blank wall (control). Quantitative and qualitative data were collected in relation to three overarching themes: “Experience,” “Physical engagement” and “Psychophysiological recovery.” Compared to control, greater enjoyment was found in the 3D model, while lower walking speed was found in the 360° video. No significant differences among conditions were found with respect to heart rate, perceived exertion, or changes in blood pressure and affect. The analysis of qualitative data provided further understanding on the participants’ perceptions and experiences. These findings indicate that 3D model-based virtual green exercise can provide some additional benefits compared to indoor exercise, while 360° video-based virtual green exercise may result in lower physical engagement.
+  </article>
   <article id="contributors-article-Y43KXGU5" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

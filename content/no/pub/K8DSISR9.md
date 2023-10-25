@@ -1,5 +1,5 @@
 ---
-title: "K8DSISR9"
+title: "Special issue: “Darkness matters”"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-K8DSISR9" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1555665" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/K8DSISR9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-K8DSISR9" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-K8DSISR9" class="csl-bib-button">Medverkande</a>
     <a href="https://journals.oslomet.no/index.php/rerm/article/download/2230/2098" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-K8DSISR9"></div>
 </article>
 <div id="csl-bib-meta-K8DSISR9" class="csl-bib-meta">
+  <article id="abstract-article-K8DSISR9" class="abstract-article">
+    <h1>Samandrag</h1>
+      
+  </article>
   <article id="contributors-article-K8DSISR9" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

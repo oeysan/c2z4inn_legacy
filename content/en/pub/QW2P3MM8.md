@@ -1,5 +1,5 @@
 ---
-title: "QW2P3MM8"
+title: "How metacognition and (reading) strategies develop according to Vygotsky"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QW2P3MM8" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1668369" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/QW2P3MM8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-QW2P3MM8" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-QW2P3MM8" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-QW2P3MM8" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://czasopisma.bg.ug.edu.pl/index.php/pwe/article/download/1994/1444" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-QW2P3MM8"></div>
 </article>
 <div id="csl-bib-meta-QW2P3MM8" class="csl-bib-meta">
+  <article id="abstract-article-QW2P3MM8" class="abstract-article">
+    <h1>Abstract</h1>
+    The paper addresses the concepts of metacognition and (reading) strategies, the origin of which is usually traced back to the 1970s. However, the paper argues that conscious awareness, which Vygotsky introduced as early as the 1930s, is another term for metacognition. Further, according to Vygotsky, “… conscious awareness enters through the gate opened up by scientific concept” (Vygotsky 1987: 191, italics added), meaning that metacognitive skills develop in instruction, as a function of student’s work with academic concepts. This hypothesis, however, seems to be ignored by contemporary, mainstream researchers. For example, an influential study like PIRLS, contradictory to Vygotsky’s hypothesis, assumes that students already at the end of the elementary stage apply metacognitive skills – included reading strategies – in order to construct meaning in reading.
+  </article>
   <article id="contributors-article-QW2P3MM8" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

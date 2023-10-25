@@ -1,5 +1,5 @@
 ---
-title: "M5DK3W5W"
+title: "Endogeneity, heterogeneity, and determinants of inefficiency in Norwegian crop-producing farms"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-M5DK3W5W" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1582141" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/M5DK3W5W" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-M5DK3W5W" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-M5DK3W5W" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-M5DK3W5W" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.ijpe.2018.04.023" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,13 @@ type: pub
   <div id="csl-bib-meta-container-M5DK3W5W"></div>
 </article>
 <div id="csl-bib-meta-M5DK3W5W" class="csl-bib-meta">
+  <article id="abstract-article-M5DK3W5W" class="abstract-article">
+    <h1>Abstract</h1>
+    This paper addresses the endogeneity of inputs and output (which is mostly ignored in the stochastic frontier (SF) literature) in the SF panel data model under the behavioural assumption that firms maximize returns to the outlay. We consider a four component SF panel data model in which the four components are: firms' latent heterogeneity, persistent inefficiency, transient inefficiency and random shocks. Second, we include determinants in transient inefficiency. Finally, to avoid the impact of distributional assumptions in estimating the technology parameters, we apply a multi-step estimation strategy to an unbalanced panel dataset from Norwegian crop-producing farms observed from 1993 to 2014. Distributional assumptions are made in second and third steps to predict both persistent and transient inefficiency, and their marginal effects. 
+ 
+Keywords 
+Efficiency; Endogeneity; Returns to the outlay; Panel data
+  </article>
   <article id="contributors-article-M5DK3W5W" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

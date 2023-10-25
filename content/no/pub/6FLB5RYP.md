@@ -1,5 +1,5 @@
 ---
-title: "6FLB5RYP"
+title: "Metal chelators and neurotoxicity: lead, mercury, and arsenic"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,44 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6FLB5RYP" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1516562" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/6FLB5RYP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-6FLB5RYP" class="csl-bib-button">Samandrag</a>
     <a href="#sdg-article-6FLB5RYP" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/s00204-017-2100-0" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-6FLB5RYP"></div>
 </article>
 <div id="csl-bib-meta-6FLB5RYP" class="csl-bib-meta">
+  <article id="abstract-article-6FLB5RYP" class="abstract-article">
+    <h1>Samandrag</h1>
+    This article reviews the clinical use of the 
+metal chelators sodium 2,3-dimercapto-1-propanesulfonate 
+(DMPS), meso-2,3-dimercaptosuccinic acid (DMSA), 
+and calcium disodium edetate (CaEDTA, calcium EDTA) 
+in overexposure and poisonings with salts of lead (Pb), 
+mercury (Hg), and arsenic (As). DMSA has considerably 
+lower toxicity than the classic heavy metal antagonist BAL 
+(2,3-dimercaptopropanol) and is also less toxic than DMPS. 
+Because of its adverse efects, CaEDTA should be replaced 
+by DMSA as the antidote of choice in treating moderate Pb 
+poisoning. Combination therapy with BAL and CaEDTA 
+was previously recommended in cases of severe acute Pb 
+poisoning with encephalopathy. We suggest that BAL in 
+such cases acted as a shuttling Pb transporter from the intrato 
+the extracellular space. The present paper discusses if a 
+combination of the extracellularly distributed DMSA with 
+the ionophore, Monensin may provide a less toxic combination 
+for Pb mobilization by increasing both the efux of 
+intracellularly deposited Pb and the urinary Pb excretion. 
+Anyhow, oral therapy with DMSA should be continued with 
+several intermittent courses. DMPS and DMSA are also 
+promising antidotes in Hg poisoning, whereas DMPS seems 
+to be a more efcient agent against As poisoning. However, 
+new insight indicates that a combination of low-dosed BAL  
+plus DMPS could be a preferred antidotal therapy to obtain 
+mobilization of the intracerebral deposits into the circulation for subsequent rapid urinary excretion.
+  </article>
   <article id="sdg-article-6FLB5RYP" class="sdg-article">
     <h1>Berekraftsmål</h1>
     <div class="sdg-container"><div id="sdg3" class="sdg">

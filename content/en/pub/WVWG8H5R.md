@@ -1,5 +1,5 @@
 ---
-title: "WVWG8H5R"
+title: "Comparison of Conventional and IPM Cropping Systems: A Risk Efficiency Analysis"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WVWG8H5R" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1761755" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WVWG8H5R" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WVWG8H5R" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-WVWG8H5R" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-WVWG8H5R" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2819650DB7626AF2564359F6F288FFA4/S1074070820000085a.pdf/div-class-title-comparison-of-conventional-and-ipm-cropping-systems-a-risk-efficiency-analysis-div.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-WVWG8H5R"></div>
 </article>
 <div id="csl-bib-meta-WVWG8H5R" class="csl-bib-meta">
+  <article id="abstract-article-WVWG8H5R" class="abstract-article">
+    <h1>Abstract</h1>
+    To support decision-makers considering adopting integrated pest management (IPM) cropping in Norway, we used stochastic efficiency analysis to compare the risk efficiency of IPM cropping and conventional cropping, using data from a long-term field experiment in southeastern Norway, along with data on recent prices, costs, and subsidies. Initial results were not definitive, so we applied stochastic efficiency with respect to a function, limiting the assumed risk aversion of farmers to a plausible range. We found that, for farmers who are risk-indifferent to moderately (hardly) risk averse, the conventional system was, compared to IPM, less (equally) preferred.
+  </article>
   <article id="contributors-article-WVWG8H5R" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

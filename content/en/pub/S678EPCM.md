@@ -1,5 +1,5 @@
 ---
-title: "S678EPCM"
+title: "'En kraft bindende ordet i tingen, tingen i ordet' Om Gunvor Hofmo og tingdiktingstradisjonen"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-S678EPCM" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2133196" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/S678EPCM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-S678EPCM" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-S678EPCM"></div>

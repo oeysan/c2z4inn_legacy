@@ -1,5 +1,5 @@
 ---
-title: "R2G2THXR"
+title: "Gender issues in Scandinavian music education: from stereotypes to multiple possibilities"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-R2G2THXR" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1892178" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/R2G2THXR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-R2G2THXR" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-R2G2THXR" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-R2G2THXR" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-R2G2THXR"></div>
 </article>
 <div id="csl-bib-meta-R2G2THXR" class="csl-bib-meta">
+  <article id="abstract-article-R2G2THXR" class="abstract-article">
+    <h1>Abstract</h1>
+    "Gender Research in Scandinavian Music Education: From Stereotypes to Multiple Personalities presents research on gender issues as they relate to music education in Scandinavia, issues such as pedagogical practices, choice of instrument and genre, the educational context, and horizontal power and prestige structures. The intersection with social class, sexual orientation and teachers' beliefs is addressed, and it discusses the issues of music education and gender in a broad socio-political context. A comprehensive perspective of gender issues in music education outside the dominant Anglo-American-centered outlook is presented. By collecting empirical gender studies in a Scandinavian context, the book fills a growing need for exploring a broader scope of gender issues in music education research internationally"-
+  </article>
   <article id="contributors-article-R2G2THXR" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

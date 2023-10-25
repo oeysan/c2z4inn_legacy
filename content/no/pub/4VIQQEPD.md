@@ -1,5 +1,5 @@
 ---
-title: "4VIQQEPD"
+title: "Economics performativity and its consequences for accounting and organizational spaces – the case of public sector reforms."
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4VIQQEPD" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2070803" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/4VIQQEPD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-4VIQQEPD" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-4VIQQEPD" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-4VIQQEPD"></div>
 </article>
 <div id="csl-bib-meta-4VIQQEPD" class="csl-bib-meta">
+  <article id="abstract-article-4VIQQEPD" class="abstract-article">
+    <h1>Samandrag</h1>
+    Skærbæk, P., Tryggestad, K. and Christensen, M. (2023). Economics performativity and its consequences for accounting and organizational spaces – the case of public sector reforms. In Franck Cochoy, Gustavo Guzman, and Andreas Diedrich, (Eds.) “Space and Organizing. On spatial Agencing”, (Chapter 8), Edward Elgar Publishing. ISBN: 978 1 80088 155 6 (expected March 2023). https://www.e-elgar.com/shop/gbp/space-and-organizing-9781800881556.html
+  </article>
   <article id="contributors-article-4VIQQEPD" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

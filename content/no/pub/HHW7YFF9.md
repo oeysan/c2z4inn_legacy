@@ -1,5 +1,5 @@
 ---
-title: "HHW7YFF9"
+title: "Biological Nanofertilizers to Enhance Growth Potential of Strawberry Seedlings by Boosting Photosynthetic Pigments, Plant Enzymatic Antioxidants, and Nutritional Status"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HHW7YFF9" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2104362" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HHW7YFF9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-HHW7YFF9" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-HHW7YFF9" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-HHW7YFF9" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.mdpi.com/2223-7747/12/2/302/pdf?version=1673352101" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-HHW7YFF9"></div>
 </article>
 <div id="csl-bib-meta-HHW7YFF9" class="csl-bib-meta">
+  <article id="abstract-article-HHW7YFF9" class="abstract-article">
+    <h1>Samandrag</h1>
+    Strawberry production presents special challenges due the plants’ shallow roots. The rooting stage of strawberry is a crucial period in the production of this important crop. Several amendments have been applied to support the growth and production of strawberry, particularly fertilizers, to overcome rooting problems. Therefore, the current investigation was carried out to evaluate the application of biological nanofertilizers in promoting strawberry rooting. The treatments included applying two different nanofertilizers produced biologically, nano-selenium (i.e., 25, 50, 75, and 100 mg L−1) and nano-copper (i.e., 50 and 100 mg L−1), plus a control (untreated seedlings). The rooting of strawberry seedlings was investigated by measuring the vegetative growth parameters (root weight, seedling weight, seedling length, and number of leaves), plant enzymatic antioxidants (catalase, peroxidase, and polyphenol oxidase activity), and chlorophyll content and its fluorescence and by evaluating the nutritional status (content of nutrients in the fruit and their uptake). The results showed that the applied nanofertilizers improved the growth, photosynthetic pigments, antioxidant content, and nutritional status of the seedlings compared to the control. A high significant increase in nutrient contents reached to more than 14-fold, 6-fold, 5-folf, and 4-fold for Cu, Mn, N, and Se contents, respectively, due to the applied nanofertilizers compared with the control. The result was related to the biological roles of both Se and CuO in activating the many plant enzymes. Comparing the Se with the CuO nanofertilizer, Cu had the strongest effect, which was shown in the higher values in all studied properties. This study showed that nanofertilizers are useful to stimulate strawberry seedling growth and most likely would also be beneficial for other horticultural crops. In general, the applied 100 ppm of biological nano-Se or nano-CuO might achieve the best growth of strawberry seedlings under growth conditions in greenhouses compared to the control. Along with the economic dimension, the ecological dimension of biological nanofertilizers still needs more investigation.
+  </article>
   <article id="contributors-article-HHW7YFF9" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

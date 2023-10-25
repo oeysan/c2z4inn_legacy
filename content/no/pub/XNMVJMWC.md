@@ -1,5 +1,5 @@
 ---
-title: "XNMVJMWC"
+title: "'In Uganda, we collected them in the streets': On (the absence of) the street as a language learning space"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XNMVJMWC" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2043330" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/XNMVJMWC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XNMVJMWC" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-XNMVJMWC"></div>

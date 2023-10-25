@@ -1,5 +1,5 @@
 ---
-title: "M75XTRN7"
+title: "Exploring the pedagogical potential of virtual reality simulations for pre-service teachers from a Vygotskyan perspective"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-M75XTRN7" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1931868" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/M75XTRN7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-M75XTRN7" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-M75XTRN7" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-M75XTRN7" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-M75XTRN7"></div>
 </article>
 <div id="csl-bib-meta-M75XTRN7" class="csl-bib-meta">
+  <article id="abstract-article-M75XTRN7" class="abstract-article">
+    <h1>Abstract</h1>
+    This paper discusses the pedagogical potential of a flipped classroom practice in which advanced virtual reality simulations are used to place pre-service teachers in work-related situations, such as a home-school collaboration. The paper applies a Vygotskyan perspective and discusses the simulation’s potential for contributing to pre-service teachers’ professional development. The article argues that, as understood through the lens of Vygotsky’s sociocultural approach to learning, virtual reality simulations may enhance pre-service teachers’ ability to learn through imitation, while also encouraging collaborative interaction and reflection. The aim in using virtual reality simulations in the flipped classroom is to counteract the reduction of pre-service teachers to passive interpreters and teachers to the providers of prescribed curriculums. We end the article by drawing attention to the potential limitations of the simulation when used as a flipped classroom practice.
+  </article>
   <article id="contributors-article-M75XTRN7" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

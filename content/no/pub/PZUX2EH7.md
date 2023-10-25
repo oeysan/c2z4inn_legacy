@@ -1,5 +1,5 @@
 ---
-title: "PZUX2EH7"
+title: "Samproduksjon i forskning: Forskning med nye aktører"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PZUX2EH7" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1689034" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PZUX2EH7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://doi.org/10.18261/9788215031675-2019" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PZUX2EH7"></div>

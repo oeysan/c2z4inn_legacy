@@ -1,5 +1,5 @@
 ---
-title: "MM3T3FXY"
+title: "Integrating knowledge management and orientation dynamics for organization transition from eco-innovation to circular economy"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MM3T3FXY" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2125440" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/MM3T3FXY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-MM3T3FXY" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-MM3T3FXY" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-MM3T3FXY" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/JKM-05-2022-0424" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-MM3T3FXY"></div>
 </article>
 <div id="csl-bib-meta-MM3T3FXY" class="csl-bib-meta">
+  <article id="abstract-article-MM3T3FXY" class="abstract-article">
+    <h1>Samandrag</h1>
+    PurposeThis study focuses on establishing relations with some important but underestimated elements of knowledge dynamics and firm orientations to characterize organizational circular economy activities through eco-innovation (EIN). The advent of the circular economy (CE) in this post-pandemic era has brought unpredictable sustainable challenges for the manufacturing industries. This research paper aims to bring more clarity to the extant literature on the relationship between environmental innovation (EI) and CE. Design/methodology/approachIn this study, a systematic literature review methodology was used to research the determinants of EI in the knowledge environment that drives the implementation of a CE. FindingsThis paper proposes a framework that articulates organizational learning and orientation dynamics and offers a new set of internal knowledge resources for a corporate CE. It is found that change toward CE requires connection with EI. However, successful CE growth largely depends on leveraging knowledge resources and orientation dynamics (stakeholder orientation, sustainability orientation, organization learning orientation and entrepreneurial orientation). CE techniques are still in their early phases of adoption and their implementation is still in its development. Circular knowledge economy (CKE) has the potential to be a useful alternative to achieving thriving CE to achieve sustainability in local and global businesses operations. Practical implicationsThis study helps companies to understand the organizational learning and different orientation dynamics for achieving CE principles. The research findings imply that EI is critical in establishing a sustainable transition toward CE through organizational learning and orientation dynamics and has garnered significant attention from academics, public policymakers and practitioners. The proposed framework can guide managers to develop sustainable policies related to the CE. This research recognizes that firm-level CKE is important in shaping how knowledge resources relate to CE within transition management literature. Originality/valueThis paper abridges the knowledge gap in identifying key drivers and presents the current eminence, challenges and prognostications of sustainable EI parameters in the changing climate of CE. This study builds a framework that combines insights from different viewpoints and disciplines and extends one’s understanding of the relationship between EI and CE. From a theoretical perspective, this study explains the knowledge management complexity links between EI and CE. It builds a theoretical bridge between EI and CE to illustrate how firms transition toward CE following the recommendations. Thus, researchers should continue to support their research with appropriate theories that have the potential to explain EI and CE relationship phenomena, with a particular emphasis on some promising but underutilized theories such as organizational learning, dynamic capabilities and stakeholder theories.
+  </article>
   <article id="contributors-article-MM3T3FXY" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -63,7 +68,7 @@ Studiested Kongsvinger
 </div> <div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg13" class="sdg">

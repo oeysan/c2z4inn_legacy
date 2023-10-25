@@ -1,5 +1,5 @@
 ---
-title: "NLHM4YNQ"
+title: "Comparison of sperm adenosine triphosphate content, motility and fertility of immobilized and conventionally cryopreserved Norwegian Red bull semen"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NLHM4YNQ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1604941" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/NLHM4YNQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NLHM4YNQ" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.theriogenology.2018.08.016" class="csl-bib-button">EZproxy</a>
   </div>

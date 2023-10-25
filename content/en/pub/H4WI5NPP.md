@@ -1,5 +1,5 @@
 ---
-title: "H4WI5NPP"
+title: "Do local politicians really want collaborative governance?"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-H4WI5NPP" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1676807" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/H4WI5NPP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-H4WI5NPP" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-H4WI5NPP" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-H4WI5NPP" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/IJPSM-10-2017-0271" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-H4WI5NPP"></div>
 </article>
 <div id="csl-bib-meta-H4WI5NPP" class="csl-bib-meta">
+  <article id="abstract-article-H4WI5NPP" class="abstract-article">
+    <h1>Abstract</h1>
+    PurposeThe purpose of this paper is to assess, empirically, the opinions of local politicians concerning citizen participation in collaborative governance processes. Elected politicians play a key role as gatekeepers when it comes to the political impact of participatory initiatives, and by examining their attitudes, it is possible to get an understanding of perceived challenges from the perspective of elected representatives. Design/methodology/approachThe empirical findings come from an ongoing project studying democratic innovation, the primary objective of which is to understand how local politicians think about efforts to increase or deepen citizen participation in political decision making. The source of data is interviews with 29 members of the executive boards of four Norwegian municipalities. FindingsAlthough most of the politicians acknowledge that good reasons exist to facilitate greater citizen involvement, they are particularly worried about figuring out how to realise “inclusiveness” and “popular control” as two democratic goods. They appear to think most people are not motivated to participate; thus, they do not think it is possible or desirable to interact more directly with citizens in collaborative processes to develop shared recommendations for new solutions to public problems. Research limitations/implicationsThe municipalities in this study are not a representative sample of Norwegian municipalities, as each has expressed an interest in democratic innovation. Thus, they would be expected to have more positive attitudes than the average municipality. Originality/valueGiven that elected representatives decide whether and how to involve citizens in political decision-making processes, their attitudes are crucial to understanding and explaining collaborative governance efforts in western democracies.
+  </article>
   <article id="contributors-article-H4WI5NPP" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -57,7 +62,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">

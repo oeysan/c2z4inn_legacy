@@ -1,5 +1,5 @@
 ---
-title: "IJCCGFAS"
+title: "Settle Down! Ranging Behaviour Responses of Roe Deer to Different Capture and Release Methods"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IJCCGFAS" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1963201" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/IJCCGFAS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-IJCCGFAS" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-IJCCGFAS" class="csl-bib-button">Medverkande</a>
     <a href="https://www.mdpi.com/2076-2615/11/11/3299/pdf?version=1637662559" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-IJCCGFAS"></div>
 </article>
 <div id="csl-bib-meta-IJCCGFAS" class="csl-bib-meta">
+  <article id="abstract-article-IJCCGFAS" class="abstract-article">
+    <h1>Samandrag</h1>
+    The fitting of tracking devices to wild animals requires capture and handling which causes stress and can potentially cause injury, behavioural modifications that can affect animal welfare and the output of research. We evaluated post capture and release ranging behaviour responses of roe deer (Capreolus capreolus) for five different capture methods. We analysed the distance from the centre of gravity and between successive locations, using data from 14 different study sites within the EURODEER collaborative project. Independently of the capture method, we observed a shorter distance between successive locations and contextual shift away from the home range centre of gravity after the capture and release event. However, individuals converged towards the average behaviour within a relatively short space of time (between 10 days and one month). If researchers investigate questions based on the distance between successive locations of the home range, we recommend (1) initial investigation to establish when the animals start to behave normally again or (2) not using the first two to three weeks of data for their analysis. We also encourage researchers to continually adapt methods to minimize stress and prioritize animal welfare wherever possible, according to the Refinement of the Three R’s.
+  </article>
   <article id="contributors-article-IJCCGFAS" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

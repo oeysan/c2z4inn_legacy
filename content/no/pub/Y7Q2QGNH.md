@@ -1,5 +1,5 @@
 ---
-title: "Y7Q2QGNH"
+title: "Crowdfunding and co-creation of value The case of the fashion brand Linjer"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Y7Q2QGNH" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1931762" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/Y7Q2QGNH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-Y7Q2QGNH" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-Y7Q2QGNH" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4324/9781003197065-4" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-Y7Q2QGNH"></div>
 </article>
 <div id="csl-bib-meta-Y7Q2QGNH" class="csl-bib-meta">
+  <article id="abstract-article-Y7Q2QGNH" class="abstract-article">
+    <h1>Samandrag</h1>
+    The chapter investigates the unisex fashion brand Linjer’s adoption of crowdfunding as a business model. Our analysis focuses on how crowdfunding lends itself to processes of value co-creation and production between brand and consumers. An argument is that the consumption of symbolically charged goods like fashion, transfers cultural meaning to the individual consumer. At the same time, by consuming these goods, consumers also produce value. Seen from this perspective, crowdfunding becomes a brand development strategy based on consumer participation in processes of ascribing value. Additionally, the case exemplifies that the mechanism governing crowdfunding is more than just a fundraising tool.
+  </article>
   <article id="contributors-article-Y7Q2QGNH" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

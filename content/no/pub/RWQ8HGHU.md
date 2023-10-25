@@ -1,5 +1,5 @@
 ---
-title: "RWQ8HGHU"
+title: "National and Organizational Culture in Norwegian Elite Sport: The Account of National Handball Head Coaches"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RWQ8HGHU" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1841436" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/RWQ8HGHU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-RWQ8HGHU" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-RWQ8HGHU" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-RWQ8HGHU"></div>
 </article>
 <div id="csl-bib-meta-RWQ8HGHU" class="csl-bib-meta">
+  <article id="abstract-article-RWQ8HGHU" class="abstract-article">
+    <h1>Samandrag</h1>
+    The present study looks at the organizational culture of Norwegian elite sport which we capture as the meeting point of the national and elite sport cultures. Two successful national teams, the women’s and men’s handball are the point of departure. The selected elite sport contexts are apparently similar but at the same time distinctive. Informed by theories of culture and high reliability organizations, we analyzed in depth semi-structured interviews with the national team coaches and found that their organizational cultures were characterized by three common elements: a process-oriented approach, an athlete-centered approach, and a value-based approach towards development. Variations between teams were noticed, such as how the athletes partake in the team’s value-anchoring processes. Overall, we learned that at the international level results can be achieved even when embracing, and performing, under humanistic and social-democratic values, which deviates significantly from the commonly embraced win-at-all-costs approach. Norwegian elite sport culture appears to exemplify this cultural approach by actively employing a value-system in the development of its athletes, teams and sport. In that respect, the study contributes to the international elite sport organization literature as it relates daily practices with the overall culture theory and the specific theory of high reliability organizations. The study provides a detailed account of how national Norwegian values (and further overarching Scandinavian values) pair up with elite sport demands, in team and backstage practices within two elite sport contexts.
+  </article>
   <article id="contributors-article-RWQ8HGHU" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

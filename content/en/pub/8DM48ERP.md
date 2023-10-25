@@ -1,5 +1,5 @@
 ---
-title: "8DM48ERP"
+title: "Course of depression symptoms between 3 and 8 months after delivery using two screening tools (EPDS and HSCL-10) on a sample of Sudanese women in Khartoum state"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8DM48ERP" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1608367" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/8DM48ERP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-8DM48ERP" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-8DM48ERP" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-8DM48ERP" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://bmcpregnancychildbirth.biomedcentral.com/track/pdf/10.1186/s12884-018-1948-1" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,20 @@ type: pub
   <div id="csl-bib-meta-container-8DM48ERP"></div>
 </article>
 <div id="csl-bib-meta-8DM48ERP" class="csl-bib-meta">
+  <article id="abstract-article-8DM48ERP" class="abstract-article">
+    <h1>Abstract</h1>
+    Background 
+Effects of depression on parenting and on cognitive development of newborns are augmented when symptoms continue throughout the first postnatal year. Current classification systems recognize maternal depression as postnatal if symptoms commence within four to six weeks. Traditional cultural rituals in Sudan offer new mothers adequate family support in the first 6–8 weeks postpartum. The course of postnatal depression symptoms beyond that period is not explored in such settings. We therefore aim to investigate the change in screening status and in severity of depression and distress symptoms between three and eight months postpartum among a sample of Sudanese women using the Edinburgh Postnatal Depression Scale (EPDS) and a locally used tool: the 10-items Hopkins Symptoms Checklist (HSCL-10). 
+ 
+Methods 
+Three hundred pregnant women in their 2nd or 3rd trimester were recruited from two clinics in Khartoum state. They were followed up and screened for depression symptoms eight months after delivery by EPDS at ≥12, and by HSCL-10 at ≥1.85. The same sample was previously screened for depression at three months after birth. 
+ 
+Results 
+Prevalence of postnatal depression symptoms by EPDS was lower at eight months compared to three months after birth (3.6% at eight months (8/223) compared to 9.2% at three months (22/238), p &lt;  0.001). Eight Mothers exhibited depression symptoms eight months after birth. Depressed mothers at three months had a 56% reduction in EPDS mean scores by eight months and 96.4% of participants either remained in the same EPDS category, or improved eight months after birth. Four participants with major depression symptoms at eight months were also depressed three months after birth and four participants had new onset depression symptoms. The HSCL-10 measured higher distress than EPDS across the two screening points (19.3% at three months, 9.1% at eight months postpartum, p &lt;  0.001). Nonetheless, the two tests correlated positively at both points. 
+ 
+Conclusions 
+Repeated screenings by EPDS (depression surveillance) is recommended during the first postnatal year because a subset of mothers can have symptoms beyond the early postnatal period. Existing depression screening instruments can be assessed for their validity to detect PND.
+  </article>
   <article id="contributors-article-8DM48ERP" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

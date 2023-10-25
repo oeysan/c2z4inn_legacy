@@ -1,5 +1,5 @@
 ---
-title: "9RYRFG6J"
+title: "Contrasted propensity for waterborne and airborne dispersal between two closely related semi‐aquatic spider species"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9RYRFG6J" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2042358" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9RYRFG6J" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-9RYRFG6J" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-9RYRFG6J" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-9RYRFG6J" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://kau.diva-portal.org/smash/get/diva2:1688861/FULLTEXT01" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,15 @@ type: pub
   <div id="csl-bib-meta-container-9RYRFG6J"></div>
 </article>
 <div id="csl-bib-meta-9RYRFG6J" class="csl-bib-meta">
+  <article id="abstract-article-9RYRFG6J" class="abstract-article">
+    <h1>Abstract</h1>
+    Dispersal abilities are important to support metapopulation functioning and species distributions, yet it is rarely accounted for in conservation. Here, we compared the propensity for dispersal between the two fishing spiders present in Europe: the widespread habitat-generalist Dolomedes fimbriatus and the scarcer red-listed Dolomedes plantarius. 
+    We experimentally tested for airborne and waterborne dispersal using first instar juveniles sampled in nursery webs, and older juveniles. We estimated the propensity for short and long-distance dispersal of airborne and waterborne behaviours, and we tested the difference between species with generalised linear mixed models. 
+    Airborne (ballooning) and waterborne (sailing) behaviours were more frequent for D. fimbriatus than for D. plantarius, indicating a higher propensity of the former for long-distance dispersal. 
+    The frequency of rappelling behaviour, and thus the propensity for short-distance dispersal, did not differ between species. However, we found contrasting results for short-distance dispersal on the water, with rowing being more frequent and running less frequent for D. plantarius than for D. fimbriatus. 
+    The different propensity for dispersal between the two species might be partly explained by the ecology of D. plantarius, which is known to be more habitat-specialist and more dependent to water bodies than D. fimbriatus. 
+    The limited propensity for dispersal of the red-listed D. plantarius is another argument for conserving an interconnected network of wetlands in Fennoscandia. Indeed, increased isolation of populations would be detrimental for species maintenance.
+  </article>
   <article id="contributors-article-9RYRFG6J" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

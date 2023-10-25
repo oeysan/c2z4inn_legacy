@@ -1,5 +1,5 @@
 ---
-title: "FAVSVYZ5"
+title: "Om volden rammer. Forebygging av voldshendelser og alvorlige trusler i førstelinjen"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FAVSVYZ5" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1498663" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/FAVSVYZ5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FAVSVYZ5" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-FAVSVYZ5"></div>

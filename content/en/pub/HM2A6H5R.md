@@ -1,5 +1,5 @@
 ---
-title: "HM2A6H5R"
+title: "WiseEye: Next Generation Expandable and Programmable Camera Trap Platform for Wildlife Research"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HM2A6H5R" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1483126" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HM2A6H5R" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0169758&amp;type=printable" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-HM2A6H5R"></div>

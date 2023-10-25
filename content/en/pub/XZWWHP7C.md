@@ -1,5 +1,5 @@
 ---
-title: "XZWWHP7C"
+title: "‘There's more to a person than what's in front of you’: Nursing students’ experiences of consumer taught mental health education"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XZWWHP7C" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1718758" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/XZWWHP7C" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://openresearch-repository.anu.edu.au/bitstream/1885/267290/1/01_Happell_%2527There%2527s_more_to_a_person_than_2019.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-XZWWHP7C"></div>

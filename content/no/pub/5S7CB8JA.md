@@ -1,5 +1,5 @@
 ---
-title: "5S7CB8JA"
+title: "Empowering Parents as Co-producers: Personal Assistance for Families with Disabled Children"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5S7CB8JA" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1590981" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/5S7CB8JA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-5S7CB8JA" class="csl-bib-button">Medverkande</a>
     <a href="http://www.sjdr.se/articles/10.16993/sjdr.57/galley/1024/download/" class="csl-bib-button">Unpaywall</a>
   </div>

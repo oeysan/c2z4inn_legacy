@@ -1,5 +1,5 @@
 ---
-title: "6QHH5JRJ"
+title: "The double-bind of competitive funding: Exploring the consequences of state-funded bidding processes in a locally managed cycling infrastructure project"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6QHH5JRJ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1843072" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/6QHH5JRJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-6QHH5JRJ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-6QHH5JRJ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-6QHH5JRJ" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journals.open.tudelft.nl/ejtir/article/download/4364/4813" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-6QHH5JRJ"></div>
 </article>
 <div id="csl-bib-meta-6QHH5JRJ" class="csl-bib-meta">
+  <article id="abstract-article-6QHH5JRJ" class="abstract-article">
+    <h1>Abstract</h1>
+    In an era of sustained budget cuts, England’s local authorities are increasingly forced to ‘apply’ for infrastructure funding via competitive bidding processes. However, we currently know little about how this method of funding impacts implementation. Accordingly, we consider the consequences of competitive funding by exploring the constraints associated with implementing infrastructure under the state-funded Cycling Demonstration Towns programme. This was achieved via a case study in Chester, a city that was unable to deliver the ambitions of their bid. This study was informed by figurational sociology in order to focus on relational processes. Fifteen semi-structured interviews were conducted with personnel involved in the planning and implementation of the project. The key findings were: (1) participants considered the bidding process to be akin to a ‘beauty contest’ where authorities were consciously making fantasy-laden promises in order to ‘impress’ the awards panel; (2) those involved in the bid did not consult key delivery parties, many of whom held car-centric predispositions, until funding was secured, and this led to complications in the delivery process; (3) during project implementation as the chains of interdependency of those involved widened, several unintended outcomes emerged which contributed to the two ‘flagship’ infrastructure proposals being halted; (4) this led to an intervention package that was heavily weighted towards promotional, or ‘soft’, interventions. Theoretical insight from this study suggests that competitive funding is likely to encourage authorities to present bids that are largely detached from the realities of implementing infrastructure, thus leading to difficulties once funding has been awarded. European Journal of Transport and Infrastructure Research, Vol 20 No 4 (2020)
+  </article>
   <article id="contributors-article-6QHH5JRJ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -60,7 +65,7 @@ Room 4L3336
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">

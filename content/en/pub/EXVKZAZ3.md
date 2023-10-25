@@ -1,5 +1,5 @@
 ---
-title: "EXVKZAZ3"
+title: "The longitudinal association between objectively measured physical activity and mental health among Norwegian adolescents"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EXVKZAZ3" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1955383" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/EXVKZAZ3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-EXVKZAZ3" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-EXVKZAZ3" class="csl-bib-button">Contributors</a>
     <a href="https://ijbnpa.biomedcentral.com/track/pdf/10.1186/s12966-021-01211-x" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-EXVKZAZ3"></div>
 </article>
 <div id="csl-bib-meta-EXVKZAZ3" class="csl-bib-meta">
+  <article id="abstract-article-EXVKZAZ3" class="abstract-article">
+    <h1>Abstract</h1>
+    BackgroundMental health among young people in many countries, including Norway, seems to be deteriorating. Physical activity (PA) has been positively associated with mental health. However, methodological issues related to study design and measurement of PA and mental health outcomes currently limits our understanding of the relationship. The purpose of the present study is to explore the prospective relationship between objectively measured PA and mental health outcomes. More specifically, volume (total PA), intensity (moderate-to-vigorous PA [MVPA]) and sedentary behaviour (SED) were explored in relation to mental health problems (MHP) and mental wellbeing (MWB). MethodsData from 599 adolescents (54.4% female, mean age at baseline ±SD 13.3 ± 0.3 years) were collected annually during their 3 years (T1, T2 and T3) at lower secondary school. PA was measured using accelerometry. MWB was measured using the ‘Warwick-Edinburgh Mental Wellbeing Scale’ and MHP by the ‘Strengths and Difficulties Questionnaire’. Multiple linear regression was performed to explore relationships between changes in PA/SED (between T1-T3) and MWB/MHP (at T3). The term ‘movement categories’ was used to refer to components on the movement continuum and includes volume (total PA), intensity (MVPA) and SED. ResultsAmong boys, any increase in SED was positively associated with MWB (β = 0.05, 95% CI: 0.01 to 0.10), whereas a small positive association between an increase in total PA (volume) and MWB was found among girls (β = 1.13, 95% CI: 0.05 to 2.21). There were no associations between changes in any movement categories [total PA (volume), MVPA, SED] and score on MHP at T3, neither for girls nor boys. ConclusionThis study provided no clear evidence of any association between change in volume or intensity of PA and MHP among an overall healthy adolescent study sample. There was, however, evidence of a relationship between increased SED and MWB among boys and increased volume of PA and MWB among girls. The relationship between movement categories and mental health may depend on the measurement used to assess both PA/SED and variables of mental health. Future research would be strengthened by researchers clarifying what construct of mental health is being used and measured.
+  </article>
   <article id="contributors-article-EXVKZAZ3" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

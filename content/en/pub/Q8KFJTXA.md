@@ -1,5 +1,5 @@
 ---
-title: "Q8KFJTXA"
+title: "Taking time for new ideas: learning qualitative research methods in higher sports education"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Q8KFJTXA" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1969192" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/Q8KFJTXA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-Q8KFJTXA" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-Q8KFJTXA" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-Q8KFJTXA" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/13573322.2021.2014804" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,33 @@ type: pub
   <div id="csl-bib-meta-container-Q8KFJTXA"></div>
 </article>
 <div id="csl-bib-meta-Q8KFJTXA" class="csl-bib-meta">
+  <article id="abstract-article-Q8KFJTXA" class="abstract-article">
+    <h1>Abstract</h1>
+    Even though qualitative research methods are considered important and 
+have become more commonplace in research related to the sport 
+sciences, there is little insight into the efforts made by sport science 
+students to learn qualitative research methods. In this article, the 
+authors use a course on qualitative methods inspired by a 
+phenomenological approach to higher education in sport as a case 
+study to examine students’ learning efforts. The data is based on 
+qualitative interviews conducted with six students. Analysis of the 
+interviews reveals the challenges in learning to think from a 
+phenomenological perspective in an institutional context that 
+emphasises quantitative methods. The study shows that it is 
+challenging for students to shift from a linear, cause-and-effect 
+approach to a more social, inter-body and subjective approach to 
+learning and knowledge production. This becomes apparent both in the 
+students’ views on the framework of the course and in their responses 
+to teacher feedback. Our research indicates that the students’ 
+previously established learning methods involved receiving 
+unambiguous instructions and definitions from their teachers, but that 
+they had not been taught to include themselves in the meaningmaking 
+process. Since phenomenological language has not yet become 
+an embodied part of the students’ academic language, their 
+experiences of the course are marked by preconceived ideas about 
+teaching and research. The students’ experiences provide feedback on the quality of teaching and indicate that teachers are not sufficiently aware of how unfamiliar students are with the ideas and perspectives 
+they are teaching, and
+  </article>
   <article id="contributors-article-Q8KFJTXA" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

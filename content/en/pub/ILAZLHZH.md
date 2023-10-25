@@ -1,5 +1,5 @@
 ---
-title: "ILAZLHZH"
+title: "Examining the nexus of energy intensity, renewables, natural resources, and carbon intensity in India"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ILAZLHZH" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2143344" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ILAZLHZH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ILAZLHZH" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-ILAZLHZH" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/0958305X231169706" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-ILAZLHZH"></div>
 </article>
 <div id="csl-bib-meta-ILAZLHZH" class="csl-bib-meta">
+  <article id="abstract-article-ILAZLHZH" class="abstract-article">
+    <h1>Abstract</h1>
+    India remained the third-largest energy consumer in the world, responsible for around 7% of global carbon emissions due to rising incomes and improving living standards. Although resource extraction has quadrupled since 1970 due to rising population and demand for natural resources, energy use and transformation, notably of fossil fuel energy, have increased by around 45%, thus increasing greenhouse gas (GHG) emissions. In this view, this study aims to explore energy intensity, renewable energy, natural resources, economic growth, and environmental degradation nexus in India. The novel dynamic simulated autoregressive distributed lag and kernel-based regularized least squares (KRLS) approaches are used to explore the effects of energy intensity, renewable energy, natural resources, and economic growth on carbon intensity for India from 1970 to 2020. The empirical results reveal that renewable energy and natural resources improve India's environmental quality via the mitigation of carbon emissions. It is also found that energy intensity and economic growth deteriorate the country's environmental quality by increasing carbon emissions in the short- and long run. A series of robustness estimation affirms the above evidence, thus providing requisite guideline for relevant policy recommendations for the country.
+  </article>
   <article id="contributors-article-ILAZLHZH" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

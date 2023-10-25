@@ -1,5 +1,5 @@
 ---
-title: "3YLT2HEZ"
+title: "Psychological Burden During the COVID-19 Pandemic in Germany"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3YLT2HEZ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1926439" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/3YLT2HEZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-3YLT2HEZ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-3YLT2HEZ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-3YLT2HEZ" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.640518/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-3YLT2HEZ"></div>
 </article>
 <div id="csl-bib-meta-3YLT2HEZ" class="csl-bib-meta">
+  <article id="abstract-article-3YLT2HEZ" class="abstract-article">
+    <h1>Abstract</h1>
+    After the first COVID-19 case was diagnosed in Germany, various measures limiting contact between people were introduced across the country. The implementation of these measures varied between jurisdictions and potentially had a negative impact on the psychological well-being of many people. However, the prevalence, severity, and type of symptoms of psychological burden has not been documented in detail. In the current study, we analysed various self-reported symptoms of psychological burden in a German sample. The dataset was collected between April 8th and June 1st, 2020, through an online survey measuring psychological burden using the ICD-10-symptom rating scale. More than 2,000 individuals responded to the survey, with a total of 1,459 complete datasets. Data was then sampled to compare (1) the new data to an existing demographically comparable reference dataset including a total of 2,512 participants who did not undergo any kind of contact restrictions or other pandemic measurements, and (2) psychological burden in two different German states. In line with recent observations from Germany, Italy, China, Austria and Turkey, we found a high prevalence of depressive symptoms in comparison to the reference sample. Furthermore, we found a high prevalence of eating disorder and compulsion symptoms. Especially younger adults and women reported a higher symptom severity compared to other groups during our measurement period. However, no difference between the two states in psychological burden was found.
+  </article>
   <article id="contributors-article-3YLT2HEZ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

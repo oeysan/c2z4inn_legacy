@@ -1,5 +1,5 @@
 ---
-title: "H67AQ7YD"
+title: "Sámi sports and outdoor life at the indigenous Riddu Riđđu festival"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-H67AQ7YD" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1886498" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/H67AQ7YD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-H67AQ7YD" class="csl-bib-button">Contributors</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/14729679.2020.1838934?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>

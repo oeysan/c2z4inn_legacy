@@ -1,5 +1,5 @@
 ---
-title: "5B49AJZH"
+title: "Developing an entrepreneurial mindset for transformational entrepreneurship: The case of Nordic transformative learning circles"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5B49AJZH" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1700148" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/5B49AJZH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://jemi.edu.pl/uploadedFiles/file/all-issues/vol15/issue4/JEMI_Vol15_Issue4_2019_Article3.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-5B49AJZH"></div>

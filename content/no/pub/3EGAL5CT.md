@@ -1,5 +1,5 @@
 ---
-title: "3EGAL5CT"
+title: "Vulnerability of cocoa-based agroforestry systems to climate change in West Africa"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3EGAL5CT" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2156663" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/3EGAL5CT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-3EGAL5CT" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-3EGAL5CT" class="csl-bib-button">Medverkande</a>
     <a href="https://www.nature.com/articles/s41598-023-37180-3.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3EGAL5CT"></div>
 </article>
 <div id="csl-bib-meta-3EGAL5CT" class="csl-bib-meta">
+  <article id="abstract-article-3EGAL5CT" class="abstract-article">
+    <h1>Samandrag</h1>
+    Previous research indicates that some important cocoa cultivated areas in West Africa will become unsuitable for growing cocoa in the next decades. However, it is not clear if this change will be mirrored by the shade tree species that could be used in cocoa-based agroforestry systems (C-AFS). We characterized current and future patterns of habitat suitability for 38 tree species (including cocoa), using a consensus method for species distribution modelling considering for the first time climatic and soil variables. The models projected an increase of up to 6% of the potential suitable area for cocoa by 2060 compared to its current suitable area in West Africa. Furthermore, the suitable area was highly reduced (14.5%) once considering only available land-use not contributing to deforestation. Regarding shade trees, 50% of the 37 shade tree species modelled will experience a decrease in geographic rate extent by 2040 in West Africa, and 60% by 2060. Hotspots of shade tree species richness overlap the current core cocoa production areas in Ghana and Côte d’Ivoire, suggesting a potential mismatch for the outer areas in West Africa. Our results highlight the importance of transforming cocoa-based agroforestry systems by changing shade tree species composition to adapt this production systems for future climate conditions.
+  </article>
   <article id="contributors-article-3EGAL5CT" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

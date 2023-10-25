@@ -1,5 +1,5 @@
 ---
-title: "8SB35IXZ"
+title: "Minimizing the Annotation Effort for Detecting Wildlife in Camera Trap Images with Active Learning"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8SB35IXZ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2048656" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/8SB35IXZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-8SB35IXZ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-8SB35IXZ" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18420/INFORMATIK2021-042" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-8SB35IXZ"></div>
 </article>
 <div id="csl-bib-meta-8SB35IXZ" class="csl-bib-meta">
+  <article id="abstract-article-8SB35IXZ" class="abstract-article">
+    <h1>Samandrag</h1>
+    Analyzing camera trap images is a challenging task due to complex scene structures at different locations, heavy occlusions, and varying sizes of animals. One particular problem is the large fraction of images only showing background scenes, which are recorded when a motion detector gets triggered by signals other than animal movements. To identify these background images automatically, an active learning approach is used to train binary classifiers with small amounts of labeled data, keeping the annotation effort of humans minimal. By training classifiers for single sites or small sets of camera traps, we follow a region-based approach and particularly focus on distinct models for daytime and nighttime images. Our approach is evaluated on camera trap images from the Bavarian Forest National Park. Comparable or even superior performances to publicly available detectors trained with millions of labeled images are achieved while requiring significantly smaller amounts of annotated training images.
+  </article>
   <article id="contributors-article-8SB35IXZ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

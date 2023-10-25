@@ -1,5 +1,5 @@
 ---
-title: "VJH749DK"
+title: "Pronoun Use in Novice L1 and L2 Academic Writing"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VJH749DK" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1501244" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VJH749DK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-VJH749DK" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-VJH749DK" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-VJH749DK" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://journals.uio.no/osla/article/download/5849/4999" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-VJH749DK"></div>
 </article>
 <div id="csl-bib-meta-VJH749DK" class="csl-bib-meta">
+  <article id="abstract-article-VJH749DK" class="abstract-article">
+    <h1>Samandrag</h1>
+    This paper explores the use of pronouns in student academic writing in L1 Norwegian and L2 English. Three aspects of pronoun use are examined: general pronoun frequency, pronoun reference, and the uses of ‘I’ and ‘we’. Students of English are typically advised to avoid being explicitly present in their academic texts (Lysvåg &amp; Stenbrenden 2014), while students writing in Norwegian are often encouraged to use first-person pronouns. However, the results show that both sets of students use explicit self-reference in similar ways. Frequent uses of ‘I’ and ‘we’ are as conductors of research and as guides or navigators assisting the reader through the text.
+  </article>
   <article id="contributors-article-VJH749DK" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

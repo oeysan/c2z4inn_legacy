@@ -1,5 +1,5 @@
 ---
-title: "ZTHIIW5N"
+title: "Elements in the biographical discourse of the documentary Ole Bull"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZTHIIW5N" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1970579" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZTHIIW5N" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ZTHIIW5N" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-ZTHIIW5N" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1386/jsca_00058_1" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-ZTHIIW5N"></div>
 </article>
 <div id="csl-bib-meta-ZTHIIW5N" class="csl-bib-meta">
+  <article id="abstract-article-ZTHIIW5N" class="abstract-article">
+    <h1>Abstract</h1>
+    The article discusses how the biographical is represented in the documentary Ole Bull (), a film about the world-famous Norwegian composer and violin virtuoso (1810–80). It focuses on the biographical discourse – that is, by what kind of stylistic devices his life story is told and the audio-visual strategies the film employs to make the past present.
+  </article>
   <article id="contributors-article-ZTHIIW5N" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

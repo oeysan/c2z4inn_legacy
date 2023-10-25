@@ -1,5 +1,5 @@
 ---
-title: "MKWC9E4N"
+title: "Breaking the Cycle: Young People’s Stories of Protection and Support While Growing up with Parental Substance use Disorder"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MKWC9E4N" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1747266" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/MKWC9E4N" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/13575279.2019.1664989" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-MKWC9E4N"></div>

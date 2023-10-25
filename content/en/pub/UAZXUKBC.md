@@ -1,5 +1,5 @@
 ---
-title: "UAZXUKBC"
+title: "The Effect of Low-intensity Aerobic Training Combined with Blood Flow Restriction on Maximal Strength, Muscle Mass, and Cycling Performance in a Cyclist with Knee Displacement"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UAZXUKBC" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2027300" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/UAZXUKBC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-UAZXUKBC" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-UAZXUKBC" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-UAZXUKBC" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/1660-4601/19/5/2993/pdf?version=1646703276" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-UAZXUKBC"></div>
 </article>
 <div id="csl-bib-meta-UAZXUKBC" class="csl-bib-meta">
+  <article id="abstract-article-UAZXUKBC" class="abstract-article">
+    <h1>Abstract</h1>
+    Low-intensity aerobic training combined with blood flow restriction (LI + BFR) has resulted in increases in aerobic and neuromuscular capacities in untrained individuals. This strategy may help cyclists incapable of training with high intensity bouts or during a rehabilitation program. However, there is a lack of evidence about the use of LI + BFR in injured trained cyclists. Thus, we investigated the effects of LI + BFR on aerobic capacity, maximal isometric strength, cross-sectional area of vastus lateralis (CSAVL), time to exhaustion test (TTE), and 20 km cycling time-trial performance (TT20 km) in a male cyclist with knee osteoarthritis (OA). After a 4-week control period, a 9-week (2 days/week) intervention period started. Pre- and post-intervention TT20 km, peak oxygen consumption (VO2peak), power output of the 1st and 2nd ventilatory thresholds (1st WVT and 2nd WVT), maximum power output (Wmax), TTE, muscle strength and CSAVL of both legs were measured. Training intensity was fixed at 30% of Wmax while the duration was progressively increased from 12 min to 24 min. There was a reduction in time to complete TT20 km (−1%) with increases in TT20 km mean power output (3.9%), VO2peak (11.4%), 2nd WVT (8.3%), Wmax (3.8%), TTE (15.5%), right and left legs maximal strength (1.3% and 8.5%, respectively) and CSAVL (3.3% and 3.7%, respectively). There was no alteration in 1st WVT. Based on the results, we suggest that LI + BFR may be a promising training strategy to improve the performance of knee-injured cyclists with knee OA.
+  </article>
   <article id="contributors-article-UAZXUKBC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

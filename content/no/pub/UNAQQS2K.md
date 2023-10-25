@@ -1,5 +1,5 @@
 ---
-title: "UNAQQS2K"
+title: "Body mass is associated with hibernation length, body temperature, and heart rate in free-ranging brown bears"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UNAQQS2K" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2174228" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/UNAQQS2K" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-UNAQQS2K" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-UNAQQS2K" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-UNAQQS2K" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://frontiersinzoology.biomedcentral.com/counter/pdf/10.1186/s12983-023-00501-3" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-UNAQQS2K"></div>
 </article>
 <div id="csl-bib-meta-UNAQQS2K" class="csl-bib-meta">
+  <article id="abstract-article-UNAQQS2K" class="abstract-article">
+    <h1>Samandrag</h1>
+    Background Despite centuries of research, debate remains on the scaling of metabolic rate to mass especially for intraspecific cases. The high variation of body mass within brown bears presents a unique opportunity to study the intraspecific effects of body mass on physiological variables. The amplitude of metabolic rate reduction in hibernators is dependent on body mass of the species. Small hibernators have high metabolic rates when euthermic but experience a drastic decrease in body temperature during torpor, which is necessary to reach a very low metabolic rate. Conversely, large hibernators, such as the brown bear ( Ursus arctos ), show a moderate decrease in temperature during hibernation, thought to be related to the bear’s large size. We studied body mass, abdominal body temperature, heart rate, and accelerometer-derived activity from 63 free-ranging brown bears (1–15 years old, 15–233 kg). We tested for relationships between body mass and body temperature, heart rate, and hibernation duration. ResultsThe smallest individuals maintained lower body temperatures during hibernation, hibernated longer, and ended hibernation later than large bears. Unlike body temperature, winter heart rates were not associated with body mass. In summer, the opposite pattern was found, with smaller individuals having higher body temperature and daytime heart rates. Body mass was associated with body temperature in the winter hypometabolic state, even in a large hibernating mammal. Smaller bears, which are known to have higher thermal conductance, reached lower body temperatures during hibernation. During summer, smaller bears had higher body temperatures and daytime heart rates, a phenomenon not previously documented within a single mammalian species. ConclusionWe conclude that the smallest bears hibernated more deeply and longer than large bears, likely from a combined effect of basic thermodynamics, the higher need for energy savings, and a lower cost of warming up a smaller body.
+  </article>
   <article id="contributors-article-UNAQQS2K" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

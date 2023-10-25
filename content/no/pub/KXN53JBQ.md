@@ -1,5 +1,5 @@
 ---
-title: "KXN53JBQ"
+title: "Experiencing Nature through Immersive Virtual Environments: Environmental Perceptions, Physical Engagement, and Affective Responses during a Simulated Nature Walk"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KXN53JBQ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1532567" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KXN53JBQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KXN53JBQ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-KXN53JBQ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-KXN53JBQ" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2017.02321/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-KXN53JBQ"></div>
 </article>
 <div id="csl-bib-meta-KXN53JBQ" class="csl-bib-meta">
+  <article id="abstract-article-KXN53JBQ" class="abstract-article">
+    <h1>Samandrag</h1>
+    By combining physical activity and exposure to nature, green exercise can provide additional health benefits compared to physical activity alone. Immersive Virtual Environments (IVE) have emerged as a potentially valuable supplement to environmental and behavioral research, and might also provide new approaches to green exercise promotion. However, it is unknown to what extent green exercise in IVE can provide psychophysiological responses similar to those experienced in real natural environments. In this study, 26 healthy adults underwent three experimental conditions: nature walk, sitting-IVE, and treadmill-IVE. The nature walk took place on a paved trail along a large river. In the IVE conditions, the participants wore a head-mounted display with headphones reproducing a 360° video and audio of the nature walk, either sitting on a chair or walking on a manually driven treadmill. Measurements included environmental perceptions (presence and perceived environmental restorativeness – PER), physical engagement (walking speed, heart rate, and perceived exertion), and affective responses (enjoyment and affect). Additionally, qualitative information was collected through open-ended questions. The participants rated the IVEs with satisfactory levels of ‘being there’ and ‘sense of reality,’ but also reported discomforts such as ‘flatness,’ ‘movement lag’ and ‘cyber sickness.’ With equivalent heart rate and walking speed, participants reported higher perceived exertion in the IVEs than in the nature walk. The nature walk was associated with high enjoyment and enhanced affect. However, despite equivalent ratings of PER in the nature walk and in the IVEs, the latter were perceived as less enjoyable and gave rise to a poorer affect. Presence and PER did not differ between the two IVEs, although in the treadmill-IVE the negative affective responses had slightly smaller magnitude than in the sitting-IVE. In both the IVEs, the negative affective responses were mainly associated with cyber sickness, whereas PER was positively associated with enjoyment. From the qualitative analysis, it emerged that poor postural control and lack of a holistic sensory experience can also hinder immersion in the IVE. The results indicate that IVE technology might in future be a useful instrument in green exercise research and promotion, but only if image quality and cyber sickness can be addressed.
+  </article>
   <article id="contributors-article-KXN53JBQ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "QY4GQZZI"
+title: "The effects of gas flaring as moderated by government quality in leading natural gas flaring economies"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QY4GQZZI" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2176339" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/QY4GQZZI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-QY4GQZZI" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-QY4GQZZI" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-QY4GQZZI" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.nature.com/articles/s41598-023-38032-w.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-QY4GQZZI"></div>
 </article>
 <div id="csl-bib-meta-QY4GQZZI" class="csl-bib-meta">
+  <article id="abstract-article-QY4GQZZI" class="abstract-article">
+    <h1>Abstract</h1>
+    This study seeks to address pertinent economic and environmental issues associated with natural gas flaring, especially for the world's leading natural gas flaring economies (i.e. Russia, Iraq, Iran, the United States, Algeria, Venezuela, and Nigeria). By applying relevant empirical panel and country-specific approaches, the study found that fuel energy export positively impacts economic growth with elasticity of ~ 0.22 to ~ 0.24 for the panel examination. It is further revealed that environmental quality in the panel is hampered by increase in economic growth, gas flaring, fuel energy export, and urbanization. Moreover, for the country-wise inference, government quality desirably moderates economic and environmental aspects of gas flaring in Venezuela and Nigeria, and in Russia and Iran respectively. However, government quality moderates gas flaring to cause economic downturn in the USA. Additionally, economic growth increased with increase in urbanisation (in Iraq and the USA), gas flaring (in Iran and the USA), government quality (only in the USA), and fuel energy export (only in Algeria) while economic growth downturn is due to increase urbanisation in Russia and the USA, increase in fuel energy export in the USA, and increase in government quality in Russia. Meanwhile, environmental quality is worsened through intense carbon dioxide emission from increased urbanisation activity (in Iraq, Iran, Algeria, and Nigeria), increased fuel energy export (in Nigeria), increased natural gas flaring (in Algeria and Nigeria), increased GDP (in Russia, Iran, USA, Algeria, and Venezuela), and high government quality (in Iran). Interestingly, the result revealed that increase in GDP (in Nigeria), increase in urbanisation (in the USA), and increase in gas flaring (in Algeria and Nigeria) dampens environmental quality. Importantly, this study offers policy insight into sustainable approaches in natural gas production, government effectiveness, and regulatory quality.
+  </article>
   <article id="contributors-article-QY4GQZZI" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

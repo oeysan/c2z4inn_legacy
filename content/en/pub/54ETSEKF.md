@@ -1,5 +1,5 @@
 ---
-title: "54ETSEKF"
+title: "Flexible assertive community treatment teams can change complex and fragmented service systems: experiences of service providers"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-54ETSEKF" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1909192" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/54ETSEKF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-54ETSEKF" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-54ETSEKF" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-54ETSEKF" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://ijmhs.biomedcentral.com/track/pdf/10.1186/s13033-021-00463-1" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-54ETSEKF"></div>
 </article>
 <div id="csl-bib-meta-54ETSEKF" class="csl-bib-meta">
+  <article id="abstract-article-54ETSEKF" class="abstract-article">
+    <h1>Abstract</h1>
+    BackgroundImplementing innovative health service models in existing service systems is complicated and context dependent. Flexible assertive community treatment (FACT) is a multidisciplinary service model aimed at providing integrated care for people with severe mental illness. The model was developed in the Netherlands and is now used in several countries, such as Norway. The Norwegian service system is complex and fragmented, with challenges in collaboration. Limited research has been performed on FACT teams and other new integrative health service models as part of such systems. However, such knowledge is important for future adjustments of innovation processes and service systems. Our aim was to explore how FACT teams are integrated into the existing formal public service system, how they function and affect the system, and describe some influencing factors to this. We sought to address how service providers in the existing service system experience the functioning of FACT teams in the system. MethodsFive focus group interviews were undertaken 3 years after the FACT teams were implemented. Forty service providers representing different services from both levels of administration (primary and specialist healthcare) from different Norwegian regions participated in this study. Team leaders of the FACT teams also participated. Service providers were recruited through purposeful sampling. Interviews were analysed using thematic text analysis. ResultsThe analysis revealed five main themes regarding FACT teams: (1) They form a bridge between different services; (2) They collaborate with other services; (3) They undertake responsibility and reassure other services; (4) They do not close all gaps in service systems; and (5) They are part of a service system that hampers their functioning. ConclusionsThe FACT teams in this study contributed to positive changes in the existing service system. They largely contributed to less complex and fragmented systems by forming a bridge and undertaking responsibility in the system and by collaborating with and reassuring other services; this has reduced some gaps in the system. The way FACT teams function and needs of the existing system appear to have contributed positively to these findings. However, complexity and fragmentation of the system partly hamper functioning of the FACT teams.
+  </article>
   <article id="contributors-article-54ETSEKF" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -125,7 +130,7 @@ Room 4L3227
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">

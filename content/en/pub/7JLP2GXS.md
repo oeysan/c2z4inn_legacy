@@ -1,5 +1,5 @@
 ---
-title: "7JLP2GXS"
+title: "Meaningful approaches to content selection and ways of working: Norwegian instrumental music teachers’ experiences"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7JLP2GXS" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2122837" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/7JLP2GXS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-7JLP2GXS" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-7JLP2GXS" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-7JLP2GXS" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1105572/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-7JLP2GXS"></div>
 </article>
 <div id="csl-bib-meta-7JLP2GXS" class="csl-bib-meta">
+  <article id="abstract-article-7JLP2GXS" class="abstract-article">
+    <h1>Abstract</h1>
+    The Norwegian municipal schools of music and arts are publicly funded institutions which offer extra-curricular activities for children and adolescents in music and other art forms. The system is designed to ideally reach all children, but while each municipality is legally responsible for providing school of music and arts education for its inhabitants, the law does not state anything about teaching content or ways of working. Consequently, this is up to the teachers to decide. What is taught in these schools is, however, relevant to whether children feel included or excluded. This means that music teachers’ beliefs and actions are among the factors that influence who will feel welcomed and who will feel alienated. On this basis, in this article we explore music teachers’ approach to content-related decision-making processes by asking about their meaningful approaches to selecting content and ways of working within instrumental music teaching. To answer that question, we discuss what kinds of teaching content the teachers choose in general, as well as for beginner and advanced students, the reasons they express for selecting content, which, if any, music they find not to be suitable as teaching content, and how they work with the selected repertoire. We draw on empirical data from a survey among 151 music teachers and an interview study with 11 music teachers. Discussing results from these sources of data in relation to the Nordic and German music Didaktik theories, enables us to address meaningful approaches to selecting content and ways of working. From the analysis, we draw conclusions about what the music teachers experience as meaningful approaches. These can be summarized as (a) the centrality of the students in the process of selecting content; (b) genre versatility, meaning that students should be exposed to a broad range of musical genres and styles; and (c) that students are exposed to the “classical repertoire,” or the standard repertoire within a genre or tradition. In general, what seems to be meaningful for the teachers is working “close to the student’s wishes and preferences,” but in ways that relate to a variety of Didaktik principles.
+  </article>
   <article id="contributors-article-7JLP2GXS" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

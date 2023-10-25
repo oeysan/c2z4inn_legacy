@@ -1,5 +1,5 @@
 ---
-title: "PWLNQM84"
+title: "Adaptation and Psychometric Evidence of the ARABIC Version of the Diabetes Self-Management Questionnaire (A-DSMQ)"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PWLNQM84" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2025013" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PWLNQM84" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-PWLNQM84" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-PWLNQM84" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-PWLNQM84" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/2227-9032/10/5/951/pdf?version=1653112902" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-PWLNQM84"></div>
 </article>
 <div id="csl-bib-meta-PWLNQM84" class="csl-bib-meta">
+  <article id="abstract-article-PWLNQM84" class="abstract-article">
+    <h1>Abstract</h1>
+    (1) Background: Diabetic patients must engage in self-care practices in order to maintain optimal glycemic control, hence reducing the likelihood of developing complications, and enhance the overall quality of their lives. The Diabetes Self-care Management Questionnaire (DSMQ) is a tool for assessing self-management habits that may be used to predict glycemic control in people with diabetes. However, no Arabic language version of the instrument has been found. Therefore, we adapted an Arabic language version of the instrument in Tunisia. The purpose of the current research aimed to assess the psychometric features of the Tunisian version of the DSMQ in patients with type 2 diabetes. (2) Method: Two samples including both genders, one exploratory (n = 208, mean age 53.2 ± 8.3) and one confirmatory (n = 441, mean age 53.4 ± 7.4), completed an adapted Arabic language version of the DSMQ, a sociodemographic questionnaire and information about their HbA1C levels. (3) Results: The exploratory factor analysis revealed that the 15 items of the A-DSMQ fit well with the data. Likewise, the alpha coefficients for the A-DSMQ factors were above 0.80: for “Glucose Management” (GM), “Dietary Control” (DC), “Physical Activity” (PA), and “Heath-Care Use” (HU). The fit indices for the CFA were good, and the four-factor solution was confirmed. The Average Variance Extracted values and Fornell–Larcker criterion established the convergent and discriminant validity, respectively. The concurrent validity of the tool was established through the statistically significant negative relationships between the A-DSMQ factors and HbA1C, in addition to its positive association with the practice of physical activity measured by the IPAQ. (4) Conclusions: Given the high EFA factor loadings, the CFA fit indices, the correlation matrix, the sensitivity analysis, the convergent validity, and the excellent internal consistency of the A-DSMQ, it can be concluded that the A-DSMQ is an effective psychometric tool for diabetes self-management in Tunisia.
+  </article>
   <article id="contributors-article-PWLNQM84" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

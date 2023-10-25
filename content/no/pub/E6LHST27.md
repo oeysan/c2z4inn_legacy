@@ -1,5 +1,5 @@
 ---
-title: "E6LHST27"
+title: "Electronic media use and symptoms of depression among adolescents in Norway"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E6LHST27" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1923143" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/E6LHST27" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-E6LHST27" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-E6LHST27" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-E6LHST27" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0254197&amp;type=printable" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-E6LHST27"></div>
 </article>
 <div id="csl-bib-meta-E6LHST27" class="csl-bib-meta">
+  <article id="abstract-article-E6LHST27" class="abstract-article">
+    <h1>Samandrag</h1>
+    BackgroundThe purpose of this study was to examine the association between electronic media use, including use of social media and gaming, and symptoms of depression, and whether gender or having friends moderated these associations. MethodsThis study was based on self-reported cross-sectional data from the Ungdata survey, conducted in 2018 by the Norwegian Social Research (NOVA) Institute in cooperation with seven regional drug and alcohol competence centres. The target group comprised 12,353 15–16 years old adolescents. Binominal logistic regression was used to analyse the association between electronic media use and symptoms of depression. ResultsThe odds of having symptoms of depression were higher for those who used social media more than 3 hours per day (OR: 1.60, 95% CI: 1.43–1.80), compared to those who used social media 3 hours or less per day. Additionally, the odds of having symptoms of depression was higher for those who used more than 3 hours on gaming per day (OR: 1.57, 95% CI: 1.36–1.80), compared to those who used 3 hours and less on gaming per day after adjustment for potential confounders. There were no interaction effects between social media and gaming use with symptoms of depression. Neither were the associations between social media use and gaming with symptoms of depression moderated by gender or having friends. ConclusionsThe odds of having symptoms of depression were significantly higher for adolescents with a more frequent use of electronic media.
+  </article>
   <article id="contributors-article-E6LHST27" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

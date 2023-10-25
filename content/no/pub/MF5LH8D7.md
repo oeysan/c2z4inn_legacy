@@ -1,5 +1,5 @@
 ---
-title: "MF5LH8D7"
+title: "Enhancing Navigator Competence by Demonstrating Maritime Cyber Security"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MF5LH8D7" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1579731" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/MF5LH8D7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-MF5LH8D7" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-MF5LH8D7" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1017/S0373463318000164" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-MF5LH8D7"></div>
 </article>
 <div id="csl-bib-meta-MF5LH8D7" class="csl-bib-meta">
+  <article id="abstract-article-MF5LH8D7" class="abstract-article">
+    <h1>Samandrag</h1>
+    As technology continues to develop, information and communication technology and operational technology on board ships are increasingly being networked, and more frequently connected to the Internet. The introduction of cyber systems changes the work environment with the aim of decreasing the workload for the navigator, but at the same time introduces more complexity and vulnerabilities that in turn may alter the competencies needed to perform safe and efficient navigation. Contemporary examples of how cyber-attacks can distort situational awareness and interfere with operations are needed to enhance the navigator's competence through increased system awareness. This paper demonstrates some of the possible attack vectors that a cyber-attack can present to a ship, as well as discussing the plausibility and consequences of such attacks. In this study we provide a practical example to better understand how one can demystify cyber threats in order to enhance the navigators' competence.
+  </article>
   <article id="contributors-article-MF5LH8D7" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

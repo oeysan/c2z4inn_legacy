@@ -1,5 +1,5 @@
 ---
-title: "S989VTEW"
+title: "Framing experts' (dis)agreements about uncertain environmental events"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,23 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-S989VTEW" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1695949" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/S989VTEW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-S989VTEW" class="csl-bib-button">Samandrag</a>
     <a href="#sdg-article-S989VTEW" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1002/bdm.2132" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-S989VTEW"></div>
 </article>
 <div id="csl-bib-meta-S989VTEW" class="csl-bib-meta">
+  <article id="abstract-article-S989VTEW" class="abstract-article">
+    <h1>Samandrag</h1>
+    Agreements and disagreements between expert statements influence lay people's beliefs. But few studies have examined what is perceived as a disagreement. We report six experiments where people rated agreement between pairs of probabilistic statements about environmental events, attributed to two different experts or to the same expert at two different points in time. The statements differed in 
+frame, by focusing on complementary outcomes (45% probability that smog will have negative health effects vs. 55% probability that it will not have such effects), in probability level (45% vs. 55% probability of negative effects), or in both respects. Opposite frames strengthened disagreement when combined with different probability levels. Approximate probabilities can be “framed” in yet another way by indicating reference values they are “over” or “under”. Statements that use different directional verbal terms (over vs. under 50%) indicated greater disagreement 
+than statements with the same directional term but different probability levels (over 50% vs. over 70%). Framing and directional terms similarly affected consistency judgments when both statements were issued by the same expert at 
+different occasions. The effect of framing on perceived agreement was significant for medium (10 and 20 percentage points) differences between probabilities, whereas the effect of directional term was stable for numerical differences up to 40 percentage points. To emphasize agreement between different estimates, they should be framed in the same way. To accentuate disagreements or changes of 
+opinion, opposite framings should be used.
+  </article>
   <article id="sdg-article-S989VTEW" class="sdg-article">
     <h1>Berekraftsmål</h1>
     <div class="sdg-container"><div id="sdg10" class="sdg">

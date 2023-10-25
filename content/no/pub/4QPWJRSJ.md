@@ -1,5 +1,5 @@
 ---
-title: "4QPWJRSJ"
+title: "Co-creating dementia care: manoeuvring fractured reflexivity in service design"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4QPWJRSJ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1914183" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/4QPWJRSJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-4QPWJRSJ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-4QPWJRSJ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-4QPWJRSJ" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/JSTP-11-2020-0251" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-4QPWJRSJ"></div>
 </article>
 <div id="csl-bib-meta-4QPWJRSJ" class="csl-bib-meta">
+  <article id="abstract-article-4QPWJRSJ" class="abstract-article">
+    <h1>Samandrag</h1>
+    PurposeThis study aims to theorise and empirically investigate how vulnerable users suffering from cognitive impairments can be involved in service design. Design/methodology/approachThe data were collected through an ongoing field study following the processes of designing new forms of dementia care. The data consist of document studies, observations and interviews with actors involved in the service design process. FindingsThe findings demonstrate how the involvement of vulnerable users with cognitive impairment in service design requires the ability to manoeuvre users' “fractured reflexivity”. The design process was found to be constrained and enabled by three interrelated features: cognitive aspects, social aspects and representativeness. Practical implicationsThis paper provides insight into concrete ways of involving vulnerable user groups in service design. The introduced concept – fractured reflexivity – may create awareness of how the involvement of users with cognitive impairment can be difficult but is also valuable, providing a means to rethink what may enable involvement and how to manage the constraints. Originality/valueAlthough design processes rely on reflexivity, there is limited research addressing how reflexivity capacity differs among actors. The authors contribute by exploring how fractured reflexivity may aid the analysis and understandings of intertwined issues related to the involvement of users with cognitive impairment. Therefore, this study initiates research on how service design entails enactments of different modes of reflexivity. The paper concludes with directions for future research avenues on service design and reflexivity modes.
+  </article>
   <article id="contributors-article-4QPWJRSJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

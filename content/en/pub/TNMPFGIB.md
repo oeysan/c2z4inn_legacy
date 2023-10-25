@@ -1,5 +1,5 @@
 ---
-title: "TNMPFGIB"
+title: "Negative social media-related experiences and lower general self-efficacy are associated with depressive symptoms in adolescents"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TNMPFGIB" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2093379" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/TNMPFGIB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-TNMPFGIB" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-TNMPFGIB" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-TNMPFGIB" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2022.1037375/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-TNMPFGIB"></div>
 </article>
 <div id="csl-bib-meta-TNMPFGIB" class="csl-bib-meta">
+  <article id="abstract-article-TNMPFGIB" class="abstract-article">
+    <h1>Abstract</h1>
+    Social media are an integral part of adolescents' daily lives, and reviews have suggested an overall small association between more social media use and mental health problems. However, researchers have commonly investigated social media use in a time use perspective, rendering nuances in adolescents' social media experience less well explored. Thus, studies of relationships between social media use and mental health problems need also examine the nature of the events taking place on social media. This study aimed to examine depressive symptoms in adolescents in relationship to time spent on social media, negative social media-related experiences, and general self-efficacy. Data collected in a national survey, Ungdata 2021 ( n = 139,841), was used. Multivariate linear regression analyses showed that time spent on social media was associated with depressive symptoms (β = 0.09, p 0.001). However, negative social media-related experiences were more strongly associated with depressive symptoms (β ranging 0.09–0.22, all p 0.001), and their inclusion weakened the initial association between time on social media and depressive symptoms. General self-efficacy was directly associated with lower symptom levels (β = −0.29, p 0.001) but did not change the associations between social media use and depressive symptoms. The findings imply that not only time spent on social media, but in particular negative social media-related experiences, are related to depressive symptoms in Norwegian adolescents. General self-efficacy is an important resource for adolescents' mental health.
+  </article>
   <article id="contributors-article-TNMPFGIB" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

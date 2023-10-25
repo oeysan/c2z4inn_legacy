@@ -1,5 +1,5 @@
 ---
-title: "Q9AWLRXY"
+title: "Performance and Actual Pay in Norwegian Soccer"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Q9AWLRXY" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1744899" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/Q9AWLRXY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-Q9AWLRXY" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-Q9AWLRXY" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/1527002519851146" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-Q9AWLRXY"></div>
 </article>
 <div id="csl-bib-meta-Q9AWLRXY" class="csl-bib-meta">
+  <article id="abstract-article-Q9AWLRXY" class="abstract-article">
+    <h1>Abstract</h1>
+    Data on actual earnings for soccer players are virtually impossible to obtain. For this reason, most performance–pay studies on soccer use market values as a proxy for earnings. No study to date has questioned whether this fact has had any bearing on the conclusions reached in the literature. This study examines this question by comparing how certain performance variables and player characteristics affect the actual earnings and market values of soccer players in the Norwegian version of the “Premier League,” the so-called Eliteserien. In several important respects, the analyses show that the regression coefficient estimates differ for actual earnings and market values. It is concluded that caution is warranted when interpreting performance variables’ and player characteristics’ effects on market values as they were effects on actual earnings.
+  </article>
   <article id="contributors-article-Q9AWLRXY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

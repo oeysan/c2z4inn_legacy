@@ -1,5 +1,5 @@
 ---
-title: "XT6UKEXY"
+title: "Intrinsic relationships between learning conceptions, preferences for teaching and approaches to studying among occupational therapy students in the United States"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XT6UKEXY" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1973131" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/XT6UKEXY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XT6UKEXY" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/07380577.2022.2025512" class="csl-bib-button">EZproxy</a>
   </div>

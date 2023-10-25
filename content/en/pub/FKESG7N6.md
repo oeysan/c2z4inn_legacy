@@ -1,5 +1,5 @@
 ---
-title: "FKESG7N6"
+title: "Change in Mental Health Stigma After a Brief Intervention Among Internally Displaced Persons in Central Sudan"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FKESG7N6" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1685788" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/FKESG7N6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FKESG7N6" class="csl-bib-button">Contributors</a>
     <a href="https://www.duo.uio.no/bitstream/10852/73720/5/Zinat%2bManuscript%2bfinal%2b06.02.18.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

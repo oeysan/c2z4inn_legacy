@@ -1,5 +1,5 @@
 ---
-title: "TBBDVKKX"
+title: "Predation of endangered Arctic foxes by Golden eagles: What do we know?"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TBBDVKKX" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2134355" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/TBBDVKKX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-TBBDVKKX" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-TBBDVKKX" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-TBBDVKKX" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.9864" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-TBBDVKKX"></div>
 </article>
 <div id="csl-bib-meta-TBBDVKKX" class="csl-bib-meta">
+  <article id="abstract-article-TBBDVKKX" class="abstract-article">
+    <h1>Abstract</h1>
+    Dedicated conservation efforts spanning the past two decades have saved the Fennoscandian Arctic fox ( Vulpes lagopus ) population from local extinction, and extensive resources continue to be invested in the species' conservation and management. Although increasing, populations remain isolated, small and are not yet viable in the longer term. An understanding of causes of mortality are consequently important to optimize ongoing conservation actions. Golden eagles ( Aquila chrysaetos ) are a predator of Arctic foxes, yet little information on this interaction is available in the literature. We document and detail six confirmed cases of Golden eagle depredation of Arctic foxes at the Norwegian captive breeding facility (2019–2022), where foxes are housed in large open‐air enclosures in the species' natural habitat. Here, timely detection of missing/dead foxes was challenging, and new insights have been gained following recently improved enclosure monitoring. Golden eagle predation peaked during the winter months, with no cases reported from June to November. This finding contrasts with that which is reported from the field, both for Arctic and other fox species, where eagle depredation peaked at dens with young (summer). While the seasonality of depredation may be ecosystem specific, documented cases from the field may be biased by higher survey efforts associated with the monitoring of reproductive success during the summer. Both white and blue color morphs were housed at the breeding station, yet only white foxes were preyed upon, and mortality was male biased. Mitigation measures and their effectiveness implemented at the facility are presented. Findings are discussed in the broader Arctic fox population ecology and conservation context.
+  </article>
   <article id="contributors-article-TBBDVKKX" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

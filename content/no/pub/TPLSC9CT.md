@@ -1,5 +1,5 @@
 ---
-title: "TPLSC9CT"
+title: "Resource polymorphism in European whitefish: Analysis of fatty acid profiles provides more detailed evidence than traditional methods alone"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TPLSC9CT" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1735573" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/TPLSC9CT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0221338&amp;type=printable" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TPLSC9CT"></div>

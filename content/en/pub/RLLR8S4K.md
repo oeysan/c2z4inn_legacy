@@ -1,5 +1,5 @@
 ---
-title: "RLLR8S4K"
+title: "Habitat selection of free-ranging cattle in productive coniferous forests of south-eastern Norway"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RLLR8S4K" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1671170" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/RLLR8S4K" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RLLR8S4K" class="csl-bib-button">Contributors</a>
     <a href="https://doi.org/10.1016/j.foreco.2019.01.014" class="csl-bib-button">Unpaywall</a>
   </div>

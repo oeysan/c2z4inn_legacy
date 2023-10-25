@@ -1,5 +1,5 @@
 ---
-title: "7KA7HYCA"
+title: "Patterns of Exchange of Multiplying Onion (Allium cepa L. Aggregatum-Group) in Fennoscandian Home Gardens"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7KA7HYCA" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1637604" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/7KA7HYCA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7KA7HYCA" class="csl-bib-button">Contributors</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s12231-018-9426-2.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: "HI9U9MGT"
+title: "Social Media Use and Its Associations With Mental Health 9 Months After the COVID-19 Outbreak: A Cross-National Study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HI9U9MGT" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1970138" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HI9U9MGT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-HI9U9MGT" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-HI9U9MGT" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-HI9U9MGT" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2021.752004/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,18 @@ type: pub
   <div id="csl-bib-meta-container-HI9U9MGT"></div>
 </article>
 <div id="csl-bib-meta-HI9U9MGT" class="csl-bib-meta">
+  <article id="abstract-article-HI9U9MGT" class="abstract-article">
+    <h1>Abstract</h1>
+    Background: The covid-19 pandemic has impacted the health and well-being of millions across the globe. Strict social distancing policies and periodic lockdowns has led to an increased reliance on alternative online means of communication, including social media. 
+ 
+Objectives: to examine (i) social media use and mental health in the general population 9 months after the COVID-19 pandemic outbreak and (ii) mental health in relation to motives for and extent of social media use, while adjusting for sociodemographic variables. 
+ 
+Methods: A cross-national online survey was conducted in Norway, UK, USA and Australia. Participants (n = 3,474) reported extent of and motives for social media use and completed the 12-item General Health Questionnaire. The data were analyzed by chi-square tests, one-way analyses of variance, and multiple linear regression analysis. 
+ 
+Results: Poorer mental health was associated with using social media to decrease loneliness and for entertainment motives, while better mental health was associated with using social media for personal contact and maintaining relationships. Overall increased daily time on social media was associated with poorer mental health. The social media use variables were responsible for a substantial proportion of the outcome variance explained. These findings were consistent across the four countries, with only minor variations. 
+ 
+Conclusions: Motives for using, and time spent using, social media were associated with the participants' mental health. Guidance and recommendations for social media usage to the general public for prevention and intervention for behavioral health may be beneficial.
+  </article>
   <article id="contributors-article-HI9U9MGT" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

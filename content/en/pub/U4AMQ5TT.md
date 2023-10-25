@@ -1,5 +1,5 @@
 ---
-title: "U4AMQ5TT"
+title: "Simulating: Bridging the Gap Between Practice and Theory in Higher Professional Education"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-U4AMQ5TT" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1668329" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/U4AMQ5TT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-U4AMQ5TT" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-3-030-01096-6_3" class="csl-bib-button">EZproxy</a>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: "PD72XTZC"
+title: "Perceived facilitators and barriers for participation in leisure activities in children with disabilities: Perspectives of children, parents and professionals"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PD72XTZC" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1765136" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PD72XTZC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PD72XTZC" class="csl-bib-button">Medverkande</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/11038128.2019.1703037?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>

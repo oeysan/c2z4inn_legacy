@@ -1,5 +1,5 @@
 ---
-title: "EV7A62KK"
+title: "Regler om psykososialt miljø i skolen– enkelte svakheter?"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EV7A62KK" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1694876" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/EV7A62KK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EV7A62KK" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/issn.1504-3061-2019-02-04" class="csl-bib-button">EZproxy</a>
   </div>

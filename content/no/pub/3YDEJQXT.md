@@ -1,5 +1,5 @@
 ---
-title: "3YDEJQXT"
+title: "Selenium and Coenzyme Q10 Intervention Prevents Telomere Attrition, with Association to Reduced Cardiovascular Mortality—Sub-Study of a Randomized Clinical Trial"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3YDEJQXT" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2050223" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/3YDEJQXT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-3YDEJQXT" class="csl-bib-button">Samandrag</a>
     <a href="#sdg-article-3YDEJQXT" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.mdpi.com/2072-6643/14/16/3346/pdf?version=1661241366" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3YDEJQXT"></div>
 </article>
 <div id="csl-bib-meta-3YDEJQXT" class="csl-bib-meta">
+  <article id="abstract-article-3YDEJQXT" class="abstract-article">
+    <h1>Samandrag</h1>
+    Abstract 
+Short telomeres have been associated with ageing and cardiovascular disease. The influence on leukocyte telomere length (LTL) of long-term intervention with combined selenium and coenzyme Q10 is unknown. Our aim was to determine whether 42 months of selenium and coenzyme Q10 supplementation prevented telomere attrition and further cardiovascular mortality. The investigation is an explorative sub-study of a double-blind, placebo-controlled, randomized trial. Swedish citizens low in selenium (n = 118), aged 70–80 years, were included. Intervention time was 4 years, with 10 years’ follow-up time. LTL was relatively quantified with PCR at baseline and after 42 months. At baseline, LTL (SD) was 0.954 (0.260) in the active treatment group and 1.018 (0.317) in the placebo group (p = 0.23). At 42 months, less shortening of LTL was observed after active treatment compared with placebo (+0.019 vs. −0.129, respectively, p = 0.02), with a significant difference in change basing the analysis on individual changes in LTL (p &amp;lt; 0.001). Subjects suffering future death presented with significantly shorter LTL at 42 months than survivors [0.791 (0.190) vs. 0.941 (0.279), p = 0.01], with a significant difference in change of LTL according to cardiovascular mortality and survival (p = 0.03). To conclude, preservation of LTL after selenium and coenzyme Q10 supplementation associated with reduced cardiovascular mortality.
+  </article>
   <article id="sdg-article-3YDEJQXT" class="sdg-article">
     <h1>Berekraftsmål</h1>
     <div class="sdg-container"><div id="sdg2" class="sdg">

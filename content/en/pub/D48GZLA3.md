@@ -1,5 +1,5 @@
 ---
-title: "D48GZLA3"
+title: "Putting Arendt, Bakhtin and atmosphere to work: Exploring different paths concerning the language development of multilingual children"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-D48GZLA3" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1838327" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/D48GZLA3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/1463949120925895" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-D48GZLA3"></div>

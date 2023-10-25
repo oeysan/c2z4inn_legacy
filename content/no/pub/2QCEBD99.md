@@ -1,5 +1,5 @@
 ---
-title: "2QCEBD99"
+title: "Stimulating curiosity for global poverty and inequality : an explorative study of students' experiences with the exhibition A world at stake"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2QCEBD99" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1421001" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/2QCEBD99" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://www.journals.uio.no/index.php/museolog/article/download/4410/3873" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-2QCEBD99"></div>

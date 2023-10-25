@@ -1,5 +1,5 @@
 ---
-title: "2Q4MIDN6"
+title: "Dual governance structures in action sports: institutionalization processes of professional snowboarding revisited"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2Q4MIDN6" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1569053" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/2Q4MIDN6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-2Q4MIDN6" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-2Q4MIDN6" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-2Q4MIDN6" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/17430437.2018.1440696" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-2Q4MIDN6"></div>
 </article>
 <div id="csl-bib-meta-2Q4MIDN6" class="csl-bib-meta">
+  <article id="abstract-article-2Q4MIDN6" class="abstract-article">
+    <h1>Abstract</h1>
+    This article examines the current governance structures in international competitive snowboarding and analyses empirically how key actors operate within the diverging logics that shape such structures. We expand upon the existing literature on professional snowboarding by offering a more contemporary understanding of the constantly evolving processes of institutionalization. Qualitative data was gathered from the authors’ first-hand experiences with international snowboarding, based on (1) interviews with system insiders, (2) document analysis, and (3) participant observations. Two dominant and contradicting logics of competitive snowboarding were identified, forming a fragmented, dual institutional structure that we call the industry-based and nation-based governance model. Our findings suggest that recent professionalization processes have led to defragmentation efforts, thus signalling a shift towards a nation-based governance focus. Therefore, we conclude that other action sports that will join the Olympics, such as surfing and skateboarding, are advised to find solutions for mediating inherent contradictions of governance logics to avoid institutional fragmentation at an early stage.
+  </article>
   <article id="contributors-article-2Q4MIDN6" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

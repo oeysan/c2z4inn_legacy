@@ -1,5 +1,5 @@
 ---
-title: "ISVVMZBJ"
+title: "Validation of the Leiden Inventory for the Child’s Well-Being in Daycare (LICW-D) Questionnaire in Norwegian Early Childhood Education and Care Centers"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ISVVMZBJ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1958843" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ISVVMZBJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ISVVMZBJ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-ISVVMZBJ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-ISVVMZBJ" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.767137/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-ISVVMZBJ"></div>
 </article>
 <div id="csl-bib-meta-ISVVMZBJ" class="csl-bib-meta">
+  <article id="abstract-article-ISVVMZBJ" class="abstract-article">
+    <h1>Samandrag</h1>
+    The promotion of children’s development and well-being is a core concept in Early Childhood Education and Care (ECEC) quality frameworks. Yet, few validated instruments measuring young children’s well-being exist. This study examined the validity of The Leiden Inventory for the Child’s Well-being in Daycare (LICW-D) (De Schipper et al., 2004b) in a sample of toddlers (n = 1,472) attending ECEC centers in Norway, using confirmatory factor analysis. Factorial invariance across gender and concurrent validity were also investigated. Indicators of concurrent validity were problem behaviors and difficult temperament, as rated by professional caregivers. Results showed a marginally acceptable fit for the hypothesized one-factor model, when allowing the measurement error of four item pairs to be correlated. This slightly modified model showed satisfactory concurrent validity, and factorial invariance across gender was confirmed.
+  </article>
   <article id="contributors-article-ISVVMZBJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

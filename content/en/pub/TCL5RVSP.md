@@ -1,5 +1,5 @@
 ---
-title: "TCL5RVSP"
+title: "Longitudinal relationship between social skills and academic achievement in a gender perspective"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TCL5RVSP" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1527884" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/TCL5RVSP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TCL5RVSP" class="csl-bib-button">Contributors</a>
     <a href="https://doi.org/10.1080/2331186x.2017.1411035" class="csl-bib-button">Unpaywall</a>
   </div>

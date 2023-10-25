@@ -1,5 +1,5 @@
 ---
-title: "JYFSEX8Z"
+title: "Surveyeksperimentet: Et underutnyttet forskningsdesign for sosiologisk kausalanalyse"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JYFSEX8Z" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1858728" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JYFSEX8Z" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JYFSEX8Z" class="csl-bib-button">Contributors</a>
     <a href="https://www.idunn.no/file/pdf/67255920/surveyeksperimentet_et_underutnyttet_forskningsdesign_for_.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

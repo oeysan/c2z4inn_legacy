@@ -1,5 +1,5 @@
 ---
-title: "LRWWQ5IH"
+title: "Egen stemme"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,21 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LRWWQ5IH" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1827399" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LRWWQ5IH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-LRWWQ5IH" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-LRWWQ5IH" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.52734/4UZ6jJw5" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-LRWWQ5IH"></div>
 </article>
 <div id="csl-bib-meta-LRWWQ5IH" class="csl-bib-meta">
+  <article id="abstract-article-LRWWQ5IH" class="abstract-article">
+    <h1>Abstract</h1>
+    A voice of one’s own – singing as an individuation process 
+ 
+Background: Vocalizing is key to the individual’s psychological development, and singing can be vital in creating a sense of community. There is, however, scant knowledge on how singing can contribute to finding a voice of one’s own in youth. Method: We explored the impact of singing in a qualitative study with Bangladeshi village girls learning folk songs. The data material includes in-depth interviews with 10 girls coming from rural areas where girls often get married off early. Results: Analysis resulted in three main themes: 1) To become oneself through singing, 2) To comfort oneself through singing, and 3) To get to know oneself through the teacher. Conclusion: Findings demonstrate that the girls discover and integrate affect through singing, giving them courage to stand up for themselves. The paper argues that singing may be a driving force in psychological individuation processes towards increased autonomy.
+  </article>
   <article id="contributors-article-LRWWQ5IH" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

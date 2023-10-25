@@ -1,5 +1,5 @@
 ---
-title: "W7U6JAW6"
+title: "Distributor Strategies in the Face of Closed Cinemas: Norwegian Responses to Covid-19"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-W7U6JAW6" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1894145" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/W7U6JAW6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-W7U6JAW6" class="csl-bib-button">Abstract</a>
     <a href="https://sciendo.com/pdf/10.2478/bsmr-2020-0006" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-W7U6JAW6"></div>
 </article>
 <div id="csl-bib-meta-W7U6JAW6" class="csl-bib-meta">
+  <article id="abstract-article-W7U6JAW6" class="abstract-article">
+    <h1>Abstract</h1>
+    This article examines the choices made by Norwegian distribution companies during three key phases of cinema lockdown and reopening in 2020. Though the article mainly aims to chronicle this particular moment in time I find that Norwegian and Scandinavian VOD-services acted differently than international services and that, while distributor companies used several different strategies in the face of sudden change, no one was close to recouping the losses from the lack of ordinary cinematic exhibition.
+  </article>
   <article id="taxonomy-article-W7U6JAW6" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>

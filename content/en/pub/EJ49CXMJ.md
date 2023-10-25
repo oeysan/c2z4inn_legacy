@@ -1,5 +1,5 @@
 ---
-title: "EJ49CXMJ"
+title: "The growth impacts of agriculture value‐added , energy utilization, and environmental degradation in Pakistan: Causality in continuous wavelet transform approach"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EJ49CXMJ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2161723" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/EJ49CXMJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-EJ49CXMJ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-EJ49CXMJ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-EJ49CXMJ" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1477-8947.12306" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-EJ49CXMJ"></div>
 </article>
 <div id="csl-bib-meta-EJ49CXMJ" class="csl-bib-meta">
+  <article id="abstract-article-EJ49CXMJ" class="abstract-article">
+    <h1>Abstract</h1>
+    Considering the increasing challenge to Pakistan's sustainable economic growth and development, the current study posits a fresh perspective on the dimension of attainable sustainable economic growth in the country. Based on this, a more innovative Granger causality of wavelet coherence and frequency domain approaches are employed to proffer inference for the relationship between economic growth, agriculture value‐added, energy utilization, urbanization, and environmental degradation via carbon dioxide (CO 2 ) emissions over the period 1965 to 2021. The result reveals that economic growth in Pakistan is positively related to the aforementioned variables with a significant dimension. Moreover, with a statistically significant degree of evidence, there is bidirectional causality between energy utilization and economic expansion. Similarly, there is a significant bidirectional causality between environmental degradation (as captured by carbon emission) and economic expansion. This better translates that historical information of energy utilization and carbon emissions could explain the future dimension of economic growth in Pakistan and vice versa. Expectedly, increasing urbanization and value‐added from the agricultural sector of the economy both Granger causes economic growth in Pakistan. The implication for the policymaker is that as much as economic growth is a vital indicator of sustainable development, the policy initiatives should reflect environmental, energy development, agricultural sector, and urban activities dimensions.
+  </article>
   <article id="contributors-article-EJ49CXMJ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

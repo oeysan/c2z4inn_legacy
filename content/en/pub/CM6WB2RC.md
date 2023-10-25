@@ -1,5 +1,5 @@
 ---
-title: "CM6WB2RC"
+title: "Employment Uncertainty and Mental Health During the COVID-19 Pandemic Initial Social Distancing Implementation: a Cross-national Study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CM6WB2RC" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1844116" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/CM6WB2RC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-CM6WB2RC" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-CM6WB2RC" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-CM6WB2RC" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s40609-020-00201-4.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-CM6WB2RC"></div>
 </article>
 <div id="csl-bib-meta-CM6WB2RC" class="csl-bib-meta">
+  <article id="abstract-article-CM6WB2RC" class="abstract-article">
+    <h1>Abstract</h1>
+    BackgroundSocial distancing during the COVID-19 pandemic has resulted in changes in the work environment and employment uncertainty. This paper reports on a cross-national comparison of four countries (Norway, UK, USA and Australia) and examines the differences in mental health between those individuals employed and those not employed during the social distancing implementation. Methods Participants ( N  = 3,810) were recruited through social media in April/May 2020 and were invited to complete a self-administered electronic survey over a 3-week period. Differences between those employed and those not employed with regard to their sociodemographic characteristics and mental health were investigated with chi-square tests, independent t tests, and one-way analysis of variances (ANOVAs). Results Compared with their counterparts, participants who were employed reported lower levels of mental health distress ( p  &lt; 0.001), higher levels of psychosocial well-being ( p  &lt; 0.001), better overall quality of life ( p  &lt; 0.001), and lower levels of overall loneliness, social loneliness, and emotional loneliness ( p  &lt; 0.001). Small to medium but consistent differences (Cohen’s d  = 0.23–0.67) in mental health favor those with employment or those who were retired. ConclusionFurther study is needed to assess mental health over time as the COVID-19 pandemic and employment uncertainty continues.
+  </article>
   <article id="contributors-article-CM6WB2RC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

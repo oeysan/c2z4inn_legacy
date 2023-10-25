@@ -1,5 +1,5 @@
 ---
-title: "JG2HCPFD"
+title: "Effects of Initial Performance, Gross Efficiency and O2peak Characteristics on Subsequent Adaptations to Endurance Training in Competitive Cyclists"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JG2HCPFD" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1597033" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JG2HCPFD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JG2HCPFD" class="csl-bib-button">Contributors</a>
     <a href="https://fjfsdata01prod.blob.core.windows.net/articles/files/284975/pubmed-zip/.versions/1/.package-entries/fphys-09-00713/fphys-09-00713.pdf?sv=2018-03-28&amp;sr=b&amp;sig=ae%2FvHZd0lln%2BV38w2xco3YBhwO3F4tAx9v4zvqUA2Uk%3D&amp;se=2021-02-17T20%3A44%3A02Z&amp;sp=r&amp;rscd=attachment%3B%20filename%2A%3DUTF-8%27%27fphys-09-00713.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

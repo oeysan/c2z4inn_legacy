@@ -1,5 +1,5 @@
 ---
-title: "CDAL2Y6I"
+title: "Research-based education in undergraduate occupational therapy and physiotherapy education programmes: a scoping review"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CDAL2Y6I" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2024761" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/CDAL2Y6I" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-CDAL2Y6I" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-CDAL2Y6I" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-CDAL2Y6I" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://bmcmededuc.biomedcentral.com/track/pdf/10.1186/s12909-022-03354-2" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-CDAL2Y6I"></div>
 </article>
 <div id="csl-bib-meta-CDAL2Y6I" class="csl-bib-meta">
+  <article id="abstract-article-CDAL2Y6I" class="abstract-article">
+    <h1>Abstract</h1>
+    BackgroundIn a research-based learning environment, students learn how to become critical thinkers and lifelong learners, and to generate discipline-enriching knowledge. Research training is important for all healthcare professionals and the integration of research in education can be one approach to improve evidence-based practice among future professionals. The purpose of this scoping review was to identify studies reporting on research-based education in undergraduate occupational therapy and physiotherapy curricula to document the current state of knowledge and to map factors that reflect and support the implementation of research-based education in undergraduate occupational therapy and physiotherapy programmes. MethodsA scoping review was used to systematically select and summarize existing literature. The search was conducted using a combination of keywords and MeSH terms in the following databases: EBSCO (Academic Search Elite, CINAHL, ERIC), MEDLINE, Embase, Education Source and grey literature. A thematic analysis identified strategies used to implement and promote research-based education in occupational therapy and physiotherapy bachelor programmes. ResultsThe database search identified 3068 records. 75 were eligible for full-text assessment and 27 studies were included. The studies were published between 1999 and 2021 and were conducted in Norway, Canada, South Africa, Australia, the United Kingdom, the United States, New Zealand, Ireland, Taiwan, Italy, and Iran. The study designs were mainly quantitative and qualitative, and studies included primarily occupational therapy and physiotherapy students. We identified the following four strategies: ‘student engagement in research’, ‘curriculum improvement regarding EBP’, ‘EBP teaching’ and ‘journal club’, where ‘EBP teaching’ was most frequently identified. ConclusionsFindings from this scoping review suggest that ensuring students’ competence in research methods is necessary for students to be able to read and understand research articles, which are important as foundational skills in undergraduate research training. Journal clubs can be a foundation for student engagement with research literature, and students’ basic research skills may be facilitated through their involvement in research projects and by conducting systematic reviews. Further, cooperation with clinical practice is important, and the awareness of research-based education should be increased among both faculty members and students.
+  </article>
   <article id="contributors-article-CDAL2Y6I" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

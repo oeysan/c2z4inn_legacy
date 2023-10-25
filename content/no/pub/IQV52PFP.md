@@ -1,5 +1,5 @@
 ---
-title: "IQV52PFP"
+title: "Parent-Led Stepped Care Trauma Treatment: Parents’ Experiences With Helping Their Child Recover"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IQV52PFP" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2140355" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/IQV52PFP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-IQV52PFP" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-IQV52PFP" class="csl-bib-button">Medverkande</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s40653-023-00537-x.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-IQV52PFP"></div>
 </article>
 <div id="csl-bib-meta-IQV52PFP" class="csl-bib-meta">
+  <article id="abstract-article-IQV52PFP" class="abstract-article">
+    <h1>Samandrag</h1>
+    PurposeThere is a need for interventions for traumatized children that are easily accessible and effective, and that involve parents directly in the recovery process. To meet this challenge, stepped care trauma-focused cognitive behavioral treatment (SC TF-CBT), which consists of a parent-led therapist-assisted intervention as the first step, was developed. Parent-led trauma-treatment is a promising, but novel approach. The aim of this study was therefore to gain knowledge on how parents experience the model. MethodsParents who participated in a SC TF-CBT feasibility study were consecutively recruited and interviewed with semi-structured interviews, which were then analysed using interpretative phenomenological analysis. ResultsThe parents described that the intervention gave them insights that led to a sense of parental agency. Through the analysis we identified and labelled four themes: (i) understanding my child: how the trauma has affected my child and our relationship; (ii) understanding myself: how my reactions have stood in the way of helping my child; (iii) gaining competence: how to learn specific tasks that were not part of my normal parenting skills; and (iv) receiving support: how guidance, warmth and encouragement was necessary. ConclusionsThe results from this study show how the shifting of therapeutic tasks to parents may facilitate parental empowerment and improve the parent-child relationship. This knowledge may guide clinicians on how to provide support to parents so they can take a leading role in their child’s recovery process after trauma. Trial registration ClinicalTrials.gov, NCT04073862. Retrospectively registered 03 June 2019 (first patient recruited May 2019), https://clinicaltrials.gov/ct2/show/NCT04073862.
+  </article>
   <article id="contributors-article-IQV52PFP" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

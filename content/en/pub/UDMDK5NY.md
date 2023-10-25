@@ -1,5 +1,5 @@
 ---
-title: "UDMDK5NY"
+title: "Influence of roads on space use by European hares in different landscapes"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UDMDK5NY" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2097543" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/UDMDK5NY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UDMDK5NY" class="csl-bib-button">Contributors</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s10980-022-01552-3.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

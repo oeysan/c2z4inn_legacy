@@ -1,5 +1,5 @@
 ---
-title: "87LI9IIR"
+title: "Three Generations of Free Colored Women in St. Croix. 1750–1850"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-87LI9IIR" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2148920" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/87LI9IIR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-87LI9IIR" class="csl-bib-button">Samandrag</a>
     <a href="#sdg-article-87LI9IIR" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/03631990231172086" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-87LI9IIR"></div>
 </article>
 <div id="csl-bib-meta-87LI9IIR" class="csl-bib-meta">
+  <article id="abstract-article-87LI9IIR" class="abstract-article">
+    <h1>Samandrag</h1>
+    This paper explores the lives and agency of three generations free colored women on St. Croix, an island in the Danish-Norwegian West-Indies from the period 1760–1850. Different social strategies these women adopted in finding and defining their identities in a racially prejudiced society and how their social networks and family bonds affected their choices and lives have been studied. By applying a combination of prosopography and microhistory, new insights, and perspectives of free colored women's agency is gained. This paper suggests that free women of color were resourceful and independent and consciously employed complex social practices to climb the social ladder.
+  </article>
   <article id="sdg-article-87LI9IIR" class="sdg-article">
     <h1>Berekraftsmål</h1>
     <div class="sdg-container"><div id="sdg5" class="sdg">

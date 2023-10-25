@@ -1,5 +1,5 @@
 ---
-title: "XKAW8K2B"
+title: "Timeliness and traffic intensity in spring fieldwork in Norway"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XKAW8K2B" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1900126" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/XKAW8K2B" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-XKAW8K2B" class="csl-bib-button">Samandrag</a>
     <a href="https://journal.fi/afs/article/download/83441/53137" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-XKAW8K2B"></div>
 </article>
 <div id="csl-bib-meta-XKAW8K2B" class="csl-bib-meta">
+  <article id="abstract-article-XKAW8K2B" class="abstract-article">
+    <h1>Samandrag</h1>
+    Future increase in precipitation in Scandinavia may exacerbate the dilemma of spring fieldwork that farmers have, concerning topsoil compaction versus delayed sowing on autumn ploughed soil. The former may lead to soil physical degradation, while the latter may lead to a shorter growing season, both with consequential loss of cereal yield potential. In order to enable farmers to adapt their spring fieldwork to climate change, research needs to include seedbed preparation at higher soil moisture conditions. A split-plot experiment in southeastern Norway in 2014–2017 explored the effects of timing (early, medium, late) and traffic intensity (zero, one, two or three additional wheelings) of spring fieldwork on soil physics and yield. Early spring fieldwork in the unfavourably wet conditions of 2016 gave rise to larger and stronger aggregates, higher penetration resistance, changed pore characteristics and reduced yields. Increased penetration resistance persisted until autumn. The small effect of traffic intensity was explained by location, soil type and intensity range involved. In this context of spring fieldwork timeliness, the proportion of 2–6 mm aggregates and penetration resistance were the properties most strongly correlated with other soil physical properties and cereal yield.
+  </article>
   <article id="taxonomy-article-XKAW8K2B" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>

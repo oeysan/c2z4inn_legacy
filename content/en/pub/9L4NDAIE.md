@@ -1,5 +1,5 @@
 ---
-title: "9L4NDAIE"
+title: "The impact of organizational culture and leadership climate on organizational attractiveness and innovative behavior: a study of Norwegian hospital employees"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9L4NDAIE" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2024289" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9L4NDAIE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-9L4NDAIE" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-9L4NDAIE" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-9L4NDAIE" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://bmchealthservres.biomedcentral.com/track/pdf/10.1186/s12913-022-08042-x" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,25 @@ type: pub
   <div id="csl-bib-meta-container-9L4NDAIE"></div>
 </article>
 <div id="csl-bib-meta-9L4NDAIE" class="csl-bib-meta">
+  <article id="abstract-article-9L4NDAIE" class="abstract-article">
+    <h1>Abstract</h1>
+    In the domain of health services, little research has focused on how organizational culture, specifically internal market-oriented cultures (IMOCs), are associated with organizational climate resources, support for autonomy (SA), and whether and how IMOCs and SA are either individually or in combination related to employee perceptions of the attractiveness of the organization and their level of innovative behavior. These knowledge gaps in previous research motivated this study. 
+ 
+A conceptual model was tested on a sample (N = 1008) of hospital employees. Partial least-squares structural equation modeling (PLS–SEM) was employed to test the conceptual models, using the SmartPLS 3 software. To test the mediator effect, a bootstrapping test was used to determine whether the direct and indirect effects were statistically significant, and when combining two tests, to determine the type of mediator effect. 
+ 
+The results can be summarized as four key findings: i) organizational culture (referring to an IMOC) was positively 
+and directly related to SA (β = 0.87) and organizational attractiveness (β = 0.45); ii) SA was positively and directly 
+related to both organizational attractiveness (β = 0.22) and employee individual innovative behavior (β = 0.37); iii) 
+The relationships between an IMOC, SA, and employee innovative behavior were all mediated through organizational 
+attractiveness; and iv) SA mediated the relationship between the IMOC and organizational attractiveness as well as that between the IMOC and employee innovative behavior. Organizational culture, IMOC, organizational climate resources, and SA were highly correlated and necessary drivers of employee perceptions of organizational attractiveness and their innovative behavior. Managers 
+of hospitals should consider IMOC and SA as two organizational resources that are potentially manageable and 
+controllable. Consequently, managers should actively invest in these resources. Such investments will lead to resource 
+capitalization that will improve both employee perceptions of organizational attractiveness as well as their innovative 
+behavior. 
+ 
+Keywords: Organizational culture, Organizational climate, Internal market-oriented culture, Support for autonomy, 
+Organizational attractiveness, Innovative behavior, Hospital employees
+  </article>
   <article id="contributors-article-9L4NDAIE" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

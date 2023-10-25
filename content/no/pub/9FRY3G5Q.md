@@ -1,5 +1,5 @@
 ---
-title: "9FRY3G5Q"
+title: "Diagnose psykose - den problematiske linken mellom kunnskapsgrunnlaget og retningslinjer for behandling"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9FRY3G5Q" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1453870" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9FRY3G5Q" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-9FRY3G5Q" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-9FRY3G5Q" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-9FRY3G5Q"></div>
 </article>
 <div id="csl-bib-meta-9FRY3G5Q" class="csl-bib-meta">
+  <article id="abstract-article-9FRY3G5Q" class="abstract-article">
+    <h1>Samandrag</h1>
+    En kritisk refleksjon rundt diagnoser og diagnostiske praksiser, med 
+utgangspunkt i Helsedirektoratets manual for Utredning, behandling og 
+oppfølging av personer med psykoselidelser
+  </article>
   <article id="contributors-article-9FRY3G5Q" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "VKSDRB5G"
+title: "Dose-response relationship between dietary magnesium intake, serum magnesium concentration and risk of hypertension: a systematic review and meta-analysis of prospective cohort studies"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,33 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VKSDRB5G" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1471637" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VKSDRB5G" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-VKSDRB5G" class="csl-bib-button">Abstract</a>
     <a href="#sdg-article-VKSDRB5G" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://nutritionj.biomedcentral.com/track/pdf/10.1186/s12937-017-0247-4" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VKSDRB5G"></div>
 </article>
 <div id="csl-bib-meta-VKSDRB5G" class="csl-bib-meta">
+  <article id="abstract-article-VKSDRB5G" class="abstract-article">
+    <h1>Abstract</h1>
+    Background 
+ 
+The findings of prospective cohort studies are inconsistent regarding the association between dietary magnesium intake and serum magnesium concentration and the risk of hypertension. We aimed to review the evidence from prospective cohort studies and perform a dose-response meta-analysis to investigate the relationship between dietary magnesium intake and serum magnesium concentrations and the risk of hypertension. 
+ 
+Methods 
+ 
+We searched systematically PubMed, EMBASE and the Cochrane Library databases from October 1951 through June 2016. Prospective cohort studies reporting effect estimates with 95% confidence intervals (CIs) for hypertension in more than two categories of dietary magnesium intake and/or serum magnesium concentrations were included. Random-effects models were used to combine the estimated effects. 
+ 
+Results 
+ 
+Nine articles (six on dietary magnesium intake, two on serum magnesium concentration and one on both) of ten cohort studies, including 20,119 cases of hypertension and 180,566 participates, were eligible for inclusion in the meta-analysis. We found an inverse association between dietary magnesium intake and the risk of hypertension [relative risk (RR) = 0.92; 95% CI: 0.86, 0.98] comparing the highest intake group with the lowest. A 100 mg/day increment in magnesium intake was associated with a 5% reduction in the risk of hypertension (RR = 0.95; 95% CI: 0.90, 1.00). The association of serum magnesium concentration with the risk of hypertension was marginally significant (RR = 0.91; 95% CI: 0.80, 1.02). 
+ 
+Conclusions 
+ 
+Current evidence supports the inverse dose-response relationship between dietary magnesium intake and the risk of hypertension. However, the evidence about the relationship between serum magnesium concentration and hypertension is limited
+  </article>
   <article id="sdg-article-VKSDRB5G" class="sdg-article">
     <h1>Sustainable Development Goals</h1>
     <div class="sdg-container"><div id="sdg3" class="sdg">

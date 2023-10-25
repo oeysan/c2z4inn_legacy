@@ -1,5 +1,5 @@
 ---
-title: "JJBE85QE"
+title: "Antisocial Personality Disorder Among Patients in Treatment for Alcohol Use Disorder (AUD): Characteristics and Predictors of Early Relapse or Drop-Out"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JJBE85QE" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1931232" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JJBE85QE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JJBE85QE" class="csl-bib-button">Medverkande</a>
     <a href="https://www.dovepress.com/getfile.php?fileID=68643" class="csl-bib-button">Unpaywall</a>
   </div>

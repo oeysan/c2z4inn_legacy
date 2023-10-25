@@ -1,5 +1,5 @@
 ---
-title: "FQYKRZM2"
+title: "Learner translation of metaphor: Smooth sailing?"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FQYKRZM2" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1947982" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/FQYKRZM2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-FQYKRZM2" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-FQYKRZM2" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-FQYKRZM2" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1075/msw.00016.nac" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-FQYKRZM2"></div>
 </article>
 <div id="csl-bib-meta-FQYKRZM2" class="csl-bib-meta">
+  <article id="abstract-article-FQYKRZM2" class="abstract-article">
+    <h1>Abstract</h1>
+    This article explores metaphor translation strategies of novice translators: university students translating from L1 Norwegian to L2 English. We first describe the translation strategies they employ in their translated texts (TTs), thereby offering evidence of what translators do with metaphor based on multiple translations of the same metaphor-dense source text (ST). We then go beyond this descriptive analysis to discuss why these translators make their particular choices, analyzing the students’ in-class discussion and individual written reflections about their translations. We thus illuminate the challenges that the novice translators consciously perceive (that is, is metaphor a problem?), as well as their motivation for and evaluation of their translation solutions. In this way, we shed light on the concept of the ‘successful’ translation of metaphor.
+  </article>
   <article id="contributors-article-FQYKRZM2" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "SPI567QW"
+title: "Deservingness Transfers"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SPI567QW" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1746914" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/SPI567QW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-SPI567QW" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-SPI567QW" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-SPI567QW" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://philpapers.org/archive/SKADT.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-SPI567QW"></div>
 </article>
 <div id="csl-bib-meta-SPI567QW" class="csl-bib-meta">
+  <article id="abstract-article-SPI567QW" class="abstract-article">
+    <h1>Abstract</h1>
+    This article seeks to cause trouble for a brand of consequentialism known as ‘desertarianism’. In somewhat different ways, views of this kind evaluate outcomes more favourably, other things equal, the better the fit between the welfare different people enjoy and the welfare they each deserve. These views imply that we can improve outcomes by redistributing welfare to fit desert, which seems plausible enough. Unfortunately, they also imply that we can improve outcomes by redistributing desert to fit welfare: in other words, by making happy people more deserving, at the cost of making unhappy people less deserving. Extant versions of desertarianism predict that such ‘deservingness transfers’ are improvements and that we ought to carry them out. Even worse, they will sometimes rank deservingness transfers higher than simply benefitting deserving people who are poorly off.
+  </article>
   <article id="contributors-article-SPI567QW" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

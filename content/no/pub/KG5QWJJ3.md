@@ -1,5 +1,5 @@
 ---
-title: "KG5QWJJ3"
+title: "'Kampen på sidelinjen' - pårørende til akutt kritisk syke i intensivavdeling: forebygging av depresjon og posttraumatisk stress"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KG5QWJJ3" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1686672" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KG5QWJJ3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KG5QWJJ3" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-KG5QWJJ3"></div>

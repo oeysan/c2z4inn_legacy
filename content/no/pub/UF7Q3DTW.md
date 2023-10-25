@@ -1,5 +1,5 @@
 ---
-title: "UF7Q3DTW"
+title: "Using mHealth applications for self-care – An integrative review on perceptions among adults with type 1 diabetes"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UF7Q3DTW" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2046797" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/UF7Q3DTW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-UF7Q3DTW" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-UF7Q3DTW" class="csl-bib-button">Medverkande</a>
     <a href="https://bmcendocrdisord.biomedcentral.com/counter/pdf/10.1186/s12902-022-01039-x" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-UF7Q3DTW"></div>
 </article>
 <div id="csl-bib-meta-UF7Q3DTW" class="csl-bib-meta">
+  <article id="abstract-article-UF7Q3DTW" class="abstract-article">
+    <h1>Samandrag</h1>
+    BackgroundIndividually designed interventions delivered through mobile health applications (mHealth apps) may be able to effectively support diabetes self-care. Our aim was to review and synthesize available evidence in the literature regarding perception of adults with type 1 diabetes on the features of mHealth apps that help promote diabetes self-care, as well as facilitators and barriers to their use. An additional aim was to review literature on changes in patient reported outcome measures (PROMs) in the same population while using mHealth apps for diabetes self-care. MethodsQuantitative and qualitative studies focusing on adults aged 18 years and over with type 1 diabetes in any context were included. A systematic literature search using selected databases was conducted. Data was synthesised using narrative synthesis. ResultsWe found that features of mHealth apps designed to help promote and maintain diabetes self-care could be categorized into self-care data monitoring, app display, feedback &amp; reminders, data entry, data sharing, and additional features. Factors affecting the use of mHealth apps reported in the literature were personal factors, app design or usability factors, privacy and safety factors, or socioeconomic factors. Quality of life and diabetes distress were the most commonly reported PROMs in the included studies. ConclusionWe are unable to reach a conclusive result due to the heterogeneity of the included studies as well as the limited number of studies reporting on these areas among adults with type 1 diabetes. We therefore recommend further large-scale studies looking into these areas that can ultimately improve mHealth app use in type 1 diabetes self-care. Systematic review registration Prospero CRD42020157620.
+  </article>
   <article id="contributors-article-UF7Q3DTW" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

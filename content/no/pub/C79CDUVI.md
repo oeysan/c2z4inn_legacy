@@ -1,5 +1,5 @@
 ---
-title: "C79CDUVI"
+title: "Rewriting Ibsen for the big screen"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-C79CDUVI" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1958787" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/C79CDUVI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-C79CDUVI" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-C79CDUVI" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1386/jsca_00046_1" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-C79CDUVI"></div>
 </article>
 <div id="csl-bib-meta-C79CDUVI" class="csl-bib-meta">
+  <article id="abstract-article-C79CDUVI" class="abstract-article">
+    <h1>Samandrag</h1>
+    Henrik Ibsen is regarded as the champion of realist theatre. In the early days of cinema, there were several silent film adaptations of Ibsen’s plays. One would think, given his standing as a playwright, that there would be a continuous interest in Ibsen’s work after the conversion to sound. This article examines how the realist theatre – heralded by Ibsen – relates to classical (Hollywood) cinema and how Ibsen in various ways has been rewritten and has recently re-emerged within contemporary cinema.
+  </article>
   <article id="contributors-article-C79CDUVI" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

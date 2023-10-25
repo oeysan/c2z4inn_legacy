@@ -1,5 +1,5 @@
 ---
-title: "EBBPSA4A"
+title: "Using the Rasch measurement theory to assess the psychometric properties of the Hopkins Symptom Checklist-10 in adolescents"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EBBPSA4A" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1949731" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/EBBPSA4A" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-EBBPSA4A" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-EBBPSA4A" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-EBBPSA4A" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://hqlo.biomedcentral.com/track/pdf/10.1186/s12955-021-01884-9" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-EBBPSA4A"></div>
 </article>
 <div id="csl-bib-meta-EBBPSA4A" class="csl-bib-meta">
+  <article id="abstract-article-EBBPSA4A" class="abstract-article">
+    <h1>Samandrag</h1>
+    BackgroundThe Hopkins Symptom Checklist-10 (HSCL-10) is widely used to measure psychological distress in adolescents. To provide valid and reliable results and generate recommendations for practice and policies, instruments with sound psychometric properties are required. The purpose of this study is to use Rasch measurement theory to assess the psychometric properties of the HSCL-10 among adolescents aged 13–19. MethodsIn this cross-sectional study, 6445 adolescents responded to a web-based questionnaire. Data were collected from lower and upper secondary schools in Norway during 2018. The data were analysed using the partial credit parameterisation of the unidimensional Rasch model. ResultsHSCL-10 was found to be unidimensional and to have acceptable reliability. One pair of items showed response dependency. The targeting of the instrument could have been better. All items had ordered thresholds. Three items under-discriminated and three displayed differential item functioning regarding gender. ConclusionsHSCL-10 has potential for measuring psychological distress in adolescents, though there is room for improvement. To further improve this instrument, some items should be rephrased.
+  </article>
   <article id="contributors-article-EBBPSA4A" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

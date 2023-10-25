@@ -1,5 +1,5 @@
 ---
-title: "F2DTXQ7E"
+title: "Facilitating and supporting the elite athlete-to-coach transition: Lessons learned from Norwegian coaches and federations"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,21 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-F2DTXQ7E" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1896424" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/F2DTXQ7E" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-F2DTXQ7E" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-F2DTXQ7E" class="csl-bib-button">Medverkande</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/21520704.2020.1861145?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-F2DTXQ7E"></div>
 </article>
 <div id="csl-bib-meta-F2DTXQ7E" class="csl-bib-meta">
+  <article id="abstract-article-F2DTXQ7E" class="abstract-article">
+    <h1>Samandrag</h1>
+    Elite athletic career termination is inevitable in high performance sport. Whether due to interest, injury, age or combination of factors, athletes will undergo a shift in their professional and personal identity. While retirement out of sport has been scrutinized to both understand and support athletes, we have not thought through what the athlete-to-coach, within-sport retirement, signifies for the person undergoing it and for our applied practice and lack the approach(es) for supporting it. Based on recent research advances, we build on a range of 
+resources to be developed in supporting athletes during the 
+transition and in the coaching profession.
+  </article>
   <article id="contributors-article-F2DTXQ7E" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

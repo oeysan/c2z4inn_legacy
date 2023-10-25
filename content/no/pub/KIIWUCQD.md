@@ -1,5 +1,5 @@
 ---
-title: "KIIWUCQD"
+title: "Trust in crisis: Conspiracy mentality, lack of trust and religiosity predicted conspiracy beliefs about COVID-19 in a Norwegian sample"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KIIWUCQD" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1918744" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KIIWUCQD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KIIWUCQD" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-KIIWUCQD" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-KIIWUCQD" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://journal.fi/ar/article/download/107485/66000" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-KIIWUCQD"></div>
 </article>
 <div id="csl-bib-meta-KIIWUCQD" class="csl-bib-meta">
+  <article id="abstract-article-KIIWUCQD" class="abstract-article">
+    <h1>Samandrag</h1>
+    Crises are associated with a search for meaning and security. In recent years, they have also been associated with increased attention to conspiracy theories. Such theories about COVID-19 have been many. We have looked at several COVID-specific conspiracy theories and their relation to a number of other factors, including religiosity in a highly educated Norwegian convenience sample (n=1225). Conspiracy mentality, lack of trust, and religiosity were directly associated with conspiracy beliefs about COVID-19, whereas self-reported stress and negative emotions related to the pandemic had only small, indirect effects. Unlike previous research findings, we found no effect of gender or age.
+  </article>
   <article id="contributors-article-KIIWUCQD" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

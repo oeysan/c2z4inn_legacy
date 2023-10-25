@@ -1,5 +1,5 @@
 ---
-title: "N2VAMPUN"
+title: "The Norwegian particles jo and nok in second language writing. A qualitative study of three learner groups from the ASK-corpus"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-N2VAMPUN" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1745350" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/N2VAMPUN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-N2VAMPUN" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-N2VAMPUN"></div>

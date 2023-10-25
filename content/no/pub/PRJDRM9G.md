@@ -1,5 +1,5 @@
 ---
-title: "PRJDRM9G"
+title: "Associations of the serotonin transporter gene polymorphism, 5-HTTLPR, and adverse life events with late life depression in the elderly Lithuanian population"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PRJDRM9G" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2165929" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PRJDRM9G" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-PRJDRM9G" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-PRJDRM9G" class="csl-bib-button">Medverkande</a>
     <a href="https://www.nature.com/articles/s41598-023-40215-4.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PRJDRM9G"></div>
 </article>
 <div id="csl-bib-meta-PRJDRM9G" class="csl-bib-meta">
+  <article id="abstract-article-PRJDRM9G" class="abstract-article">
+    <h1>Samandrag</h1>
+    Late-life depression (LLD) is a multifactorial disorder, with susceptibility and vulnerability potentially influenced by gene - environment interaction. The aim of this study was to investigate whether the 5-HTTLPR polymorphism is associated with LLD. The sample of 353 participants aged 65 years and over was randomly selected from the list of Kaunas city inhabitants by Residents’ Register Service of Lithuania. Depressive symptoms were ascertained using the EURO-D scale. The List of Threatening Events Questionnaire was used to identify stressful life events that happened over the last 6 months and during lifetime. A 5-HTTLPR and lifetime stressful events interaction was indicated by higher odds of depression in those with s/s genotype who experienced high stress compared to l/l carriers with low or medium stress, while 5 -HTTLPR and current stressful events interaction analysis revealed that carriers of either one or two copies of the s allele had increased odds of depressive symptoms associated with stress compared to participants with the l/l genotype not exposed to stressful situations. Although no significant direct association was found between the 5-HTTLPR short allele and depression, our findings demonstrated that lifetime or current stressful life events and their modification by 5-HTTLPR genotype are risk factors for late-life depression.
+  </article>
   <article id="contributors-article-PRJDRM9G" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

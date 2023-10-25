@@ -1,5 +1,5 @@
 ---
-title: "5NUUJRHX"
+title: "Optimists’ and pessimists’ self-reported mental and global health during the COVID-19 pandemic in Norway"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5NUUJRHX" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1865818" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/5NUUJRHX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-5NUUJRHX" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-5NUUJRHX" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-5NUUJRHX" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://hpr.termedia.pl/pdf-130469-73969?filename=Optimists_ and.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-5NUUJRHX"></div>
 </article>
 <div id="csl-bib-meta-5NUUJRHX" class="csl-bib-meta">
+  <article id="abstract-article-5NUUJRHX" class="abstract-article">
+    <h1>Samandrag</h1>
+    BackgroundThe COVID-19 pandemic represents a global health crisis. How well people cope with this situation depends on many factors, including one’s personality, such as dispositional optimism. The aim of the study was to investi-gate: 1) optimists’ and pessimists’ concerns during lockdown, and mental and global health; 2) whether pessi-mists without known risk factors more often than optimists report being at risk for COVID-19. Participants and procedureA snowball sampling strategy was used; 4,527 people, 18 years or older, participated in a survey on a variety of mental health conditions and COVID-19 worries. In addition, they completed the Life Orientation Test-Revised (LOT-R). Optimism was defined by LOT-R f ≥ 17. ResultsFewer optimists than pessimists reported that they were worried about COVID-19, respectively 51.2% vs. 66.8%, p &lt; .001. Among those reporting none of the known somatic risk factors, more pessimists than optimists (14.3% vs. 9.1%, p &lt; .001) considered themselves at risk of a fatal outcome from COVID-19. Significantly fewer optimists reported that they had anxiety (5.1%), depression (3.4%), suicidal ideation (0.7%) and insomnia (19.3%) during the COVID-19 outbreak than pessimists (24.7% anxiety, 18.4% depression, 5.4% suicidal idea-tion, 39.8% insomnia, all p &lt; .001). Optimists reported better global health than pessimists (87.2 vs. 84.6, p &lt; .001). ConclusionsOptimists were generally less worried about the COVID-19 pandemic than pessimists and reported better men-tal and global health during lockdown. Pessimists more often than optimists reported being at risk for COVID-19 without reporting known risk factors.
+  </article>
   <article id="contributors-article-5NUUJRHX" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

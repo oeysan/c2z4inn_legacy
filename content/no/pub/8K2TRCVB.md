@@ -1,5 +1,5 @@
 ---
-title: "8K2TRCVB"
+title: "Valuing vulnerable children’s voices in educational research"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8K2TRCVB" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1925714" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/8K2TRCVB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-8K2TRCVB" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-8K2TRCVB" class="csl-bib-button">Medverkande</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/13603116.2021.1956602?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-8K2TRCVB"></div>
 </article>
 <div id="csl-bib-meta-8K2TRCVB" class="csl-bib-meta">
+  <article id="abstract-article-8K2TRCVB" class="abstract-article">
+    <h1>Samandrag</h1>
+    Changing views on childhood and children’s rights entail an increasing demand for listening to children's voices, even in research. All children are, in principle, seen as vulnerable participants in research, but our concern is the particularly vulnerable children. By listening to them, researchers increase the chances of contributing to the improvement of the children’s total situations based on their own experiences.  In this article, after discussing why vulnerable children should take part in research and exemplifying how they should do it, we consider advice for enabling particularly vulnerable students’ voices to be heard in research in ethically justifiable ways. Recommendations for considering vulnerable children’s participation in research are proposed. While children may be regarded particularly vulnerable for a range of reasons, we draw attention to the student group in regular classes identified as having special educational needs by referring to examples from a recent research project in Norwegian schools.
+  </article>
   <article id="contributors-article-8K2TRCVB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

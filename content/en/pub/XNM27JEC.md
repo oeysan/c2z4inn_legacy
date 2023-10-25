@@ -1,5 +1,5 @@
 ---
-title: "XNM27JEC"
+title: "Collaboration and communication in blended learning environments"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XNM27JEC" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2066638" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/XNM27JEC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-XNM27JEC" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-XNM27JEC" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-XNM27JEC" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.frontiersin.org/articles/10.3389/feduc.2022.980445/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-XNM27JEC"></div>
 </article>
 <div id="csl-bib-meta-XNM27JEC" class="csl-bib-meta">
+  <article id="abstract-article-XNM27JEC" class="abstract-article">
+    <h1>Abstract</h1>
+    Blended learning environments have become increasingly common during the past few years, and frequent access to digital technologies has influenced many areas of learning and classroom interaction. This paper investigates teacher-pupil and pupil-pupil communication and collaboration practices in a leading-edge Norwegian primary school. In this small-scale case study, seven teachers were interviewed individually and in their respective grade level teams, and two grade levels were observed for a 4-week period to find out how teachers in technology-rich classrooms utilize and consider the role of digital technologies in everyday communication and collaborative processes. Teachers’ overall perception in this study was that digital technologies are useful in communication and collaboration and thus, digital elements were frequently incorporated in their everyday classroom practices. However, the results also imply that while blended learning environments have opened new avenues for collaboration and communication happening parallel in physical and digital learning arenas, there is a lot of variation in how teachers guide their pupils in collaboration and communication and how digital technologies are utilized in such contexts. Particularly the comparison between proactive and reactive approaches to instruction regarding communication and collaboration indicates that explicit guidance in such processes can have a positive influence on the pupils’ group dynamics and effectiveness. Meanwhile, some of the benefits of supporting the act of collaboration and communication among pupils in a blended learning environment remained unexploited.
+  </article>
   <article id="contributors-article-XNM27JEC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

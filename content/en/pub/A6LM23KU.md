@@ -1,5 +1,5 @@
 ---
-title: "A6LM23KU"
+title: "Experiences of the Quality of the Interplay between Home-Living Young Adults with Serious Mental Illness and Their Social Environments"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-A6LM23KU" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2152886" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/A6LM23KU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-A6LM23KU" class="csl-bib-button">Contributors</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/01612840.2023.2224877?needAccess=true&amp;role=button" class="csl-bib-button">Unpaywall</a>
   </div>

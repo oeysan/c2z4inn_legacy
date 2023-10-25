@@ -1,5 +1,5 @@
 ---
-title: "PVWNWEL9"
+title: "Deforestation reduces fruit and vegetable consumption in rural Tanzania"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PVWNWEL9" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2023585" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PVWNWEL9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-PVWNWEL9" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-PVWNWEL9" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-PVWNWEL9" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://doi.org/10.1073/pnas.2112063119" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,11 @@ type: pub
   <div id="csl-bib-meta-container-PVWNWEL9"></div>
 </article>
 <div id="csl-bib-meta-PVWNWEL9" class="csl-bib-meta">
+  <article id="abstract-article-PVWNWEL9" class="abstract-article">
+    <h1>Samandrag</h1>
+    SignificanceTwo billion people across the planet suffer from nutrient deficiencies. Dietary diversification is key to solving this problem, yet many food and nutrition security policies, especially in low- and middle-income countries, still focus on increasing agricultural production and access to sufficient calories as the main solution. But calories are not all equal. Here, we show how deforestation in Tanzania caused a reduction in fruit and vegetable consumption (of 14 g per person per day) and thus vitamin A adequacy of diets. Using a combination of regression and weighting analyses to generate quasi-experimental quantitative estimates of the impacts of deforestation on people’s food intake, our study establishes a causal link between deforestation and people’s dietary quality.
+Strategies to improve food and nutrition security continue to promote increasing food via agricultural intensification. Little (if any) consideration is given to the role of natural landscapes such as forests in meeting nutrition goals, despite a growing body of literature that shows that having access to these landscapes can improve people’s diets, particularly in rural areas of low- and middle-income countries. In this study, we tested whether deforestation over a 5-y period (2008–2013) affected people’s dietary quality in rural Tanzania using a modeling approach that combined two-way fixed-effects regression analysis with covariate balancing generalized propensity score (CBGPS) weighting which allowed for causal inferences to be made. We found that, over the 5 y, deforestation caused a reduction in household fruit and vegetable consumption and thus vitamin A adequacy of diets. The average household member experienced a reduction in fruit and vegetable consumption of 14 g⋅d −1 , which represented a substantial proportion (11%) of average daily intake. Conversely, we found that forest fragmentation over the survey period led to an increase in consumption of these foods and dietary vitamin A adequacy. This study finds a causal link between deforestation and people’s dietary quality, and the results have important implications for policy makers given that forests are largely overlooked in strategies to improve nutrition, but offer potential “win–wins” in terms of meeting nutrition goals as well as conservation and environmental goals.
+  </article>
   <article id="contributors-article-PVWNWEL9" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

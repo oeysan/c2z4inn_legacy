@@ -1,5 +1,5 @@
 ---
-title: "WYLDV7UX"
+title: "Changes in Psychological Distress in Five Groups of Welfare State Service Workers over a Nine-Year Period"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WYLDV7UX" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2011713" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WYLDV7UX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WYLDV7UX" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-WYLDV7UX" class="csl-bib-button">Medverkande</a>
     <a href="https://www.mdpi.com/2227-9032/10/4/592/pdf?version=1647997457" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WYLDV7UX"></div>
 </article>
 <div id="csl-bib-meta-WYLDV7UX" class="csl-bib-meta">
+  <article id="abstract-article-WYLDV7UX" class="abstract-article">
+    <h1>Samandrag</h1>
+    Health and social care workers are exposed to varying degrees of stress in their work, which may be reflected in their trajectories of psychological distress during the education program and the first years in the job. The aim of this study was to add to the knowledge concerned with the long-term development of psychological distress in five groups of welfare state service workers in Norway. The study included 1612 individuals. Psychological distress was measured with General Health Questionnaire-12 at four occasions from the start of the education program to 6 years post-graduation (nine year follow-up period). Results of linear mixed models (LMM) for repeated measures showed that psychological distress changed significantly over time in the social work professional groups. At the start of the education program, the lowest and highest levels of psychological distress were found among the child welfare and social workers, respectively. Six years post-graduation, social workers had become less distressed and child welfare workers had become more distressed. No significant change pattern for psychological distress was found among any of the health care professional groups.
+  </article>
   <article id="contributors-article-WYLDV7UX" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

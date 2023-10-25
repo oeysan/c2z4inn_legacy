@@ -1,5 +1,5 @@
 ---
-title: "SUCLZ8F2"
+title: "Competing institutional logics in collaborative innovation: A case study"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SUCLZ8F2" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1966845" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/SUCLZ8F2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SUCLZ8F2" class="csl-bib-button">Medverkande</a>
     <a href="https://doi.org/10.18261/issn.2464-4161-2021-02-03" class="csl-bib-button">Unpaywall</a>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: "QVGJPMLN"
+title: "The relationship between Leadership Styles and Employee-driven Innovation: The mediating role of Leader-Member Exchange"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QVGJPMLN" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1829409" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/QVGJPMLN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-QVGJPMLN" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/EBHRM-10-2019-0091" class="csl-bib-button">EZproxy</a>
   </div>

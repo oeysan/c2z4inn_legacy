@@ -1,5 +1,5 @@
 ---
-title: "PKDSFRMM"
+title: "Diversifying selection drives parallel evolution of gill raker number and body size along the speciation continuum of European whitefish"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PKDSFRMM" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1562726" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PKDSFRMM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-PKDSFRMM" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-PKDSFRMM" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-PKDSFRMM" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.3876" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-PKDSFRMM"></div>
 </article>
 <div id="csl-bib-meta-PKDSFRMM" class="csl-bib-meta">
+  <article id="abstract-article-PKDSFRMM" class="abstract-article">
+    <h1>Samandrag</h1>
+    Adaptive radiation is the evolution of ecological and phenotypical diversity. It arises via ecological opportunity that promotes the exploration of underutilized or novel niches mediating specialization and reproductive isolation. The assumed precondition for rapid local adaptation is diversifying natural selection, but random genetic drift could also be a major driver of this process. We used 27 populations of European whitefish (Coregonus lavaretus) from nine lakes distributed in three neighboring subarctic watercourses in northern Fennoscandia as a model to test the importance of random drift versus diversifying natural selection for parallel evolution of adaptive phenotypic traits. We contrasted variation for two key adaptive phenotypic traits correlated with resource utilization of polymorphic fish; the number of gill rakers and the total length of fish, with the posterior distribution of neutral genetic differentiation from 13 microsatellite loci, to test whether the observed phenotypic divergence could be achieved by random genetic drift alone. Our results show that both traits have been under diversifying selection and that the evolution of these morphs has been driven by isolation through habitat adaptations. We conclude that diversifying selection acting on gill raker number and body size has played a significant role in the ongoing adaptive radiation of European whitefish morphs in this region.
+  </article>
   <article id="contributors-article-PKDSFRMM" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

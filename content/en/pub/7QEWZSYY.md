@@ -1,5 +1,5 @@
 ---
-title: "7QEWZSYY"
+title: "Recovery from work: testing the effects of chronic internal and external workload on health and well-being"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7QEWZSYY" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1845225" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/7QEWZSYY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-7QEWZSYY" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-7QEWZSYY" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-7QEWZSYY" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://jech.bmj.com/content/jech/74/11/919.full.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-7QEWZSYY"></div>
 </article>
 <div id="csl-bib-meta-7QEWZSYY" class="csl-bib-meta">
+  <article id="abstract-article-7QEWZSYY" class="abstract-article">
+    <h1>Abstract</h1>
+    BackgroundThe aim of this study was to examine the effects of reduced recovery opportunities on health, associated with chronic internal workload (ie, during work) and external workload (ie, following work). MethodsData from two consecutive surveys (2013 and 2016) from the Norwegian Living Conditions Survey on Work Environment were used. To assess a dose–response association between workload and health, self-reported ratings of internal workload (ie, having too much to do and skipping lunch breaks during work) and external workload (ie, using mobile technology for work-related issues during leisure time) over the two time periods were divided into tertile groups representing low, medium and high workload. Anxiety, depression, physiological and psychological fatigue and sleep were assessed as outcome symptoms. ResultsChronic medium levels of internal workload were associated with psychological fatigue (OR=2.84, 95% CI 1.75 to 4.62) and physical fatigue (OR=1.85, 95% CI 1.31 to 2.63), and high internal workload was associated with psychological fatigue (OR=7.24, 95% CI 4.59 to 11.40), physical fatigue (OR=4.23, 95% CI 3.06 to 5.83) and sleep problems (OR=1.81, 95% CI 1.07 to 3.05). Chronic external high workload was only associated with psychological fatigue (OR=1.67, 95% CI 1.26 to 2.22) and with physical fatigue problems (OR=1.47, 95% CI,1.09–1.98) when the data were adjusted for age, gender, education level, job autonomy and occupational status. ConclusionsThis study emphasises that individuals who chronically experience high workload are at an increased risk for reporting psychological and physical fatigue, and sleep problems.
+  </article>
   <article id="contributors-article-7QEWZSYY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

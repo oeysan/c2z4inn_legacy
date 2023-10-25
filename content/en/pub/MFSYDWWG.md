@@ -1,5 +1,5 @@
 ---
-title: "MFSYDWWG"
+title: "Reframing Hospital Practices: HR use of Big Data to Facilitate  Knowledge Creation"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MFSYDWWG" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1875307" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/MFSYDWWG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-MFSYDWWG" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-MFSYDWWG" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-MFSYDWWG"></div>
 </article>
 <div id="csl-bib-meta-MFSYDWWG" class="csl-bib-meta">
+  <article id="abstract-article-MFSYDWWG" class="abstract-article">
+    <h1>Abstract</h1>
+    Knowledge management (KM) is about managing information and knowledge and making sense of it. KM in hospitals is challenging because hospitals are complex organizations. To improve, they need to work with different groups and units and adjust their working practices. We focus on the role of human resource (HR) advisors and their role in change. In this paper we discuss how HR advisors are using big data to facilitate knowledge creation. The research question is: How do HR advisors use data to reframe hospital practices? The main theoretical contribution of this work is the role of HR advisors as sense makers in KM. Our findings suggest that big data are important artefacts for perspective making; by the use of a practical logic the participants representing different professions and work groups are able to create new knowledge and practices. HR facilitates a situation where the participants are able to use data interpretation to relate to each other from different perspectives. Knowledge management is in this paper viewed as the management of data and re-framing processes, where actors negotiate their understandings, using different frames or logics, and develop new practices – in other words, create knowledge and innovating. The data for the paper were collected through a qualitative case study. They comprised interview and observation data and documents. The paper adds to our understanding of HR’s role in facilitating knowledge creation in hospitals. We find that HR contribute to perspective making across different professions, but we also find that more perspective taking is created within each professional grouping
+  </article>
   <article id="contributors-article-MFSYDWWG" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

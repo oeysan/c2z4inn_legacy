@@ -1,5 +1,5 @@
 ---
-title: "XNTPDVBK"
+title: "Perceived stress in patients with inflammatory and non‐inflammatory skin conditions. An observational controlled study among 255 Norwegian dermatological outpatients"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XNTPDVBK" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2048905" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/XNTPDVBK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-XNTPDVBK" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-XNTPDVBK" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-XNTPDVBK" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9720195" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-XNTPDVBK"></div>
 </article>
 <div id="csl-bib-meta-XNTPDVBK" class="csl-bib-meta">
+  <article id="abstract-article-XNTPDVBK" class="abstract-article">
+    <h1>Samandrag</h1>
+    BackgroundInflammation may increase stress, while stress may promote inflammation. Most dermatological conditions are chronic and inflammatory, while some, such as cancer, naevi and tumours are non‐inflammatory, but may cause stress because of the fear of malignancy and the necessity for surgical and other invasive treatments. Stress among patients with skin diseases is little explored. ObjectivesTo assess perceived stress in patients with inflammatory and non‐inflammatory skin conditions compared to healthy controls. Methods Observational cross‐sectional study. Consecutive outpatients ( N  = 255) visiting the Department of Dermatology, Stavanger University Hospital, Norway and 148 skin‐healthy controls contributed by answering questionnaires on sociodemographics, stressful life events, economic difficulties, self‐rated health and perceived stress. The validated Perceived Stress Scale10 was used to evaluate stress. A dermatologist examined patients and registered their diagnoses and comorbidities. Controls included in this study were not examined by a dermatologist and self‐reported their comorbidities. ResultsPatients with an inflammatory skin disease or psoriasis have a tripled risk of reporting moderate to high stress compared with controls when adjusted for relevant confounders, including having experienced a stressful life event recently or having a comorbidity. Patients with a purely non‐inflammatory skin disease perceived stress no differently than controls. ConclusionPatients with inflammatory skin disease perceived higher stress than controls and patients with non‐inflammatory skin conditions. Dermatologists may play a role in awareness of the importance of stress in skin disease.
+  </article>
   <article id="contributors-article-XNTPDVBK" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "XN9PE6GJ"
+title: "The importance of timber prices and other factors for harvest increase among nonindustrial private forest owners"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XN9PE6GJ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1650094" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/XN9PE6GJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XN9PE6GJ" class="csl-bib-button">Medverkande</a>
     <a href="https://conservancy.umn.edu/bitstream/handle/11299/182332/staffpaper237.pdf?sequence=1&amp;isAllowed=y" class="csl-bib-button">Unpaywall</a>
   </div>

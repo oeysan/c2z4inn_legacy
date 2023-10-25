@@ -1,5 +1,5 @@
 ---
-title: "YFC2FS3W"
+title: "Terapirommet er ikke et nøytralt rom. Om Friluftssykehuset og potensialet i de fysiske omgivelsene for barn og unge i behandling."
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YFC2FS3W" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1998246" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/YFC2FS3W" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-YFC2FS3W" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-YFC2FS3W" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.52734/hPFE8529" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-YFC2FS3W"></div>
 </article>
 <div id="csl-bib-meta-YFC2FS3W" class="csl-bib-meta">
+  <article id="abstract-article-YFC2FS3W" class="abstract-article">
+    <h1>Abstract</h1>
+    Background and aim: The purpose of this article is to demonstrate how we can use nature cabins and their natural surroundings therapeutically. Method: Published research of relevance for this therapeutic practice is discussed in relation to and informed by experiences from practice, collected through conversations with therapists using the Outdoor care retreat at Rikshospitalet in Norway. Results: The literature review demonstrates how therapy in nature cabins can influence cognitive and emotional processes. All physical environments carry symbolic meanings; therefore, no therapy setting is neutral, and the setting will affect the client and therapist. Place attachment may contribute to create a safe foundation for exploration and self-development. The experiences from practice demonstrate how nature and natural objects are rich in potential for the creative application of symbols in therapy and opens for different stories on growth and development. Conclusions and implications: The evidence-based approach of this article supplies a therapeutic rationale to use cabins in natural surroundings more strategically for positive therapeutic outcomes. Keywords: nature, architecture, therapy settings, hospital environments
+  </article>
   <article id="contributors-article-YFC2FS3W" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "A3FNLX4E"
+title: "Deforestation in South America's tri-national Paraná Atlantic Forest: Trends and associational factors"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-A3FNLX4E" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2114475" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/A3FNLX4E" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-A3FNLX4E" class="csl-bib-button">Contributors</a>
     <a href="https://doi.org/10.1016/j.forpol.2022.102697" class="csl-bib-button">Unpaywall</a>
   </div>

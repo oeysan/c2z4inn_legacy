@@ -1,5 +1,5 @@
 ---
-title: "KFUITJ4U"
+title: "Hybrid Assembly Provides Improved Resolution of Plasmids, Antimicrobial Resistance Genes, and Virulence Factors in Escherichia coli and Klebsiella pneumoniae Clinical Isolates"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KFUITJ4U" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1967679" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KFUITJ4U" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KFUITJ4U" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-KFUITJ4U" class="csl-bib-button">Medverkande</a>
     <a href="https://www.mdpi.com/2076-2607/9/12/2560/pdf?version=1639460930" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-KFUITJ4U"></div>
 </article>
 <div id="csl-bib-meta-KFUITJ4U" class="csl-bib-meta">
+  <article id="abstract-article-KFUITJ4U" class="abstract-article">
+    <h1>Samandrag</h1>
+    Emerging new sequencing technologies have provided researchers with a unique opportunity to study factors related to microbial pathogenicity, such as antimicrobial resistance (AMR) genes and virulence factors. However, the use of whole-genome sequence (WGS) data requires good knowledge of the bioinformatics involved, as well as the necessary techniques. In this study, a total of nine Escherichia coli and Klebsiella pneumoniae isolates from Norwegian clinical samples were sequenced using both MinION and Illumina platforms. Three out of nine samples were sequenced directly from blood culture, and one sample was sequenced from a mixed-blood culture. For genome assembly, several long-read, (Canu, Flye, Unicycler, and Miniasm), short-read (ABySS, Unicycler and SPAdes) and hybrid assemblers (Unicycler, hybridSPAdes, and MaSurCa) were tested. Assembled genomes from the best-performing assemblers (according to quality checks using QUAST and BUSCO) were subjected to downstream analyses. Flye and Unicycler assemblers performed best for the assembly of long and short reads, respectively. For hybrid assembly, Unicycler was the top-performing assembler and produced more circularized and complete genome assemblies. Hybrid assembled genomes performed substantially better in downstream analyses to predict putative plasmids, AMR genes and β-lactamase gene variants, compared to MinION and Illumina assemblies. Thus, hybrid assembly has the potential to reveal factors related to microbial pathogenicity in clinical and mixed samples.
+  </article>
   <article id="contributors-article-KFUITJ4U" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

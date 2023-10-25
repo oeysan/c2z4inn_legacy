@@ -1,5 +1,5 @@
 ---
-title: "5AM2ZUTX"
+title: "Revisiting studies of multicultural school events from the perspective of strategic essentialism"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5AM2ZUTX" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1827253" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/5AM2ZUTX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-5AM2ZUTX" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-5AM2ZUTX" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-5AM2ZUTX" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://pedagogikkogkritikk.no/index.php/ntpk/article/download/2145/5517" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-5AM2ZUTX"></div>
 </article>
 <div id="csl-bib-meta-5AM2ZUTX" class="csl-bib-meta">
+  <article id="abstract-article-5AM2ZUTX" class="abstract-article">
+    <h1>Abstract</h1>
+    The article discusses schools’ use of multicultural school events as a practice designed to enhance inclusion and to prevent prejudice and negative intergroup attitudes in school. While prior research has largely criticized such events for promoting cultural stereotypes and essentialist cultural identities, in this article we argue for a more nuanced way of perceiving such practices. Based on our previous empirical work, we apply the idea of strategic essentialism (Spivak, 1996) and discuss how multicultural school events may also represent an opportunity for minority parents to achieve certain objectives. The minority temporarily adopts the image provided by the majority and uses it in a strategic manner to act and pursue chosen political advantages. However, we also critically discuss possible limitations and pitfalls of the idea of strategic essentialism as the concept may in fact essentialize the minority group contrary to the intention of the multicultural school event. The contribution of the article is a theoretically informed discussion of how these events may ascribe agency to the participating families, reducing the way critics perceive them solely as victims of a majority-dominated and non-inclusive practice.
+  </article>
   <article id="contributors-article-5AM2ZUTX" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

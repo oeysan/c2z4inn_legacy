@@ -1,5 +1,5 @@
 ---
-title: "N9HCU9PG"
+title: "Dørvakter til særforbundsstyrer: Valgkomitérepresentanters syn på seleksjonskriterier og kjønnsbalanse"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-N9HCU9PG" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1929192" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/N9HCU9PG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-N9HCU9PG" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-N9HCU9PG"></div>

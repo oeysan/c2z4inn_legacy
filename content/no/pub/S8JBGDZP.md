@@ -1,5 +1,5 @@
 ---
-title: "S8JBGDZP"
+title: "The Coexistence Potential of Different Wildlife Conservation Frameworks in a Historical Perspective"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-S8JBGDZP" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1967216" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/S8JBGDZP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-S8JBGDZP" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-S8JBGDZP" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-S8JBGDZP" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fcosc.2021.711480/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-S8JBGDZP"></div>
 </article>
 <div id="csl-bib-meta-S8JBGDZP" class="csl-bib-meta">
+  <article id="abstract-article-S8JBGDZP" class="abstract-article">
+    <h1>Samandrag</h1>
+    Wildlife management in contemporary society means balancing multiple demands in shared landscapes. Perhaps the greatest question facing today's policy makers and wildlife professionals is how to develop frameworks for coexistence between wildlife and the plethora of other land use interests. As a profession, the roots of wildlife management and conservation can be traced back to the 1600's, but most of the relevant frameworks that have shaped the management of wildlife over time have emerged after the mid-1800's and particularly since the 1960's. Here we examine the historical development of the main traits and concepts of a number of management and conservation frameworks that have all contributed to the multifaceted field of contemporary wildlife management and conservation in Europe and North America. We outline a chronology of concepts and ideologies with their underlying key ideas, values, and operational indicators, and make an assessment of the potential of each paradigm as a coexistence framework for dealing with wildlife. We tie this to a discussion of ethics and argue that the lack of unity in approaches is deeply embedded in the differences between rule-based (deontological) vs. results-based (consequentialist) or context dependent (particularist) ethics. We suggest that some of the conflicts between ideologies, value sets and frameworks can be resolved as an issue of scale and possibly zonation in shared landscapes. We also argue that approaches built on anthropocentrism, value pluralism and environmental pragmatism are most likely to succeed in complex socio-political landscapes. However, we caution against moral relativism and the belief that all types of cultural values are equally valid as a basis for contemporary wildlife management.
+  </article>
   <article id="contributors-article-S8JBGDZP" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

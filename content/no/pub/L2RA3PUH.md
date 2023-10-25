@@ -1,5 +1,5 @@
 ---
-title: "L2RA3PUH"
+title: "The Sources of Meaning and Meaning in Life Questionnaire in the Norwegian Context: Relations to Mental Health, Quality of Life, and Self-Efficacy"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-L2RA3PUH" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1646814" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/L2RA3PUH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-L2RA3PUH" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/10508619.2018.1547614" class="csl-bib-button">EZproxy</a>
   </div>

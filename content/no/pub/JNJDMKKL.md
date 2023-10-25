@@ -1,5 +1,5 @@
 ---
-title: "JNJDMKKL"
+title: "Musical gentrification: popular music, distinction and social mobility"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JNJDMKKL" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1822729" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JNJDMKKL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-JNJDMKKL" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-JNJDMKKL" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-JNJDMKKL" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-JNJDMKKL"></div>
 </article>
 <div id="csl-bib-meta-JNJDMKKL" class="csl-bib-meta">
+  <article id="abstract-article-JNJDMKKL" class="abstract-article">
+    <h1>Samandrag</h1>
+    Musical Gentrification is an exploration of the role of popular music in processes of socio-cultural inclusion and exclusion in a variety of contexts. Twelve chapters by international scholars reveal how cultural objects of relatively lower status, in this case popular musics, are made objects of acquisition by subjects or institutions of higher social status, thereby playing an important role in social elevation, mobility and distinction. The phenomenon of musical gentrification is approached from a variety of angles: theoretically, methodologically and with reference to a number of key issues in popular music, from class, gender and ethnicity to cultural consumption, activism, hegemony and musical agency. Drawing on a wide range of case studies, empirical examples and ethnographic data, this is a valuable study for scholars and researchers of Music Education, Ethnomusicology, Cultural Studies and Cultural Sociology.
+  </article>
   <article id="contributors-article-JNJDMKKL" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

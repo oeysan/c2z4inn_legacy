@@ -1,5 +1,5 @@
 ---
-title: "2DISLCQ4"
+title: "Studenters erfaringer med tverrprofesjonell samarbeidslæring: Fra «prøvekanin» til pioner"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2DISLCQ4" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1523368" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/2DISLCQ4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-2DISLCQ4" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-2DISLCQ4" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-2DISLCQ4" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/issn.2387-5984-2017-03-07" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,38 @@ type: pub
   <div id="csl-bib-meta-container-2DISLCQ4"></div>
 </article>
 <div id="csl-bib-meta-2DISLCQ4" class="csl-bib-meta">
+  <article id="abstract-article-2DISLCQ4" class="abstract-article">
+    <h1>Abstract</h1>
+    Utdanningsinstitusjoner     har      
+ansvar  for  å  utdanne  profesjonsutøvere  som  er   
+forberedt på tverrprofesjonelt samarbeid i sin yr- 
+kesutøvelse.  Det  er  behov  for  mer  kunnskap  om   
+studenters  erfaringer  når  ulike  profesjonsutdan- 
+ninger  har  felles  praksisstudier  over  flere  uker.   
+Målet  med  denne  studien  var  å  beskrive  studen- 
+ters erfaringer med tverrprofesjonell samarbeids- 
+læring gjennom en fire-ukers felles praksis.  
+Tjue  studenter  fra  to  sykepleierutdanninger,  en   
+ergoterapeututdanning  og  en  vernepleierutdan- 
+ning   samt   fem   veiledere   og   fire   kontaktlærere    
+deltok. Det ble gjennomført gruppeintervjuer som  
+ble  transkribert  og  analysert  med  kvalitativ  inn- 
+holdsanalyse.  
+Fire  kategorier  som  dannet  et  mønster  på  utvik 
+- 
+ling fra «prøvekanin» til pioner, ble avdekket: 1) På  
+ukjent grunn, 2) Nye oppdagelser, 3) Økt innsikt og  
+4) Læring som gjør en forskjell. Varighet av prak 
+- 
+sis,   refleksjonstid   over   felles   praksiserfaringer    
+samt  felles  arbeidskrav  stimulerte  læringen.  Vei- 
+ledere  og  kontaktlærere  hadde  en  viktig  rolle  i  å   
+legge til rette for felles læringsaktiviteter og felles  
+refleksjonstid.  
+Kunnskap  om  studenters  erfaringer  er  av  betyd- 
+ning når tverrprofesjonell samarbeidslæring skal  
+implementeres i ulike profesjonsutdanninger.
+  </article>
   <article id="contributors-article-2DISLCQ4" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

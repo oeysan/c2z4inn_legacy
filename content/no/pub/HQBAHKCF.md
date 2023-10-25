@@ -1,5 +1,5 @@
 ---
-title: "HQBAHKCF"
+title: "Understanding peer support: a qualitative interview study of doctors one year after seeking support"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HQBAHKCF" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2139244" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HQBAHKCF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-HQBAHKCF" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-HQBAHKCF" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-HQBAHKCF" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-023-09312-y" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-HQBAHKCF"></div>
 </article>
 <div id="csl-bib-meta-HQBAHKCF" class="csl-bib-meta">
+  <article id="abstract-article-HQBAHKCF" class="abstract-article">
+    <h1>Samandrag</h1>
+    BackgroundDoctors’ health is of importance for the quality and development of health care and to doctors themselves. As doctors are hesitant to seek medical treatment, peer support services, with an alleged lower threshold for seeking help, is provided in many countries. Peer support services may be the first place to which doctors turn when they search for support and advice relating to their own health and private or professional well-being. This paper explores how doctors perceive the peer support service and how it can meet their needs. Materials and methodsTwelve doctors were interviewed a year after attending a peer support service which is accessible to all doctors in Norway. The qualitative, semi-structured interviews took place by on-line video meetings or over the phone (due to the COVID-19 pandemic) during 2020 and were audiotaped. Analysis was data-driven, and systematic text condensation was used as strategy for the qualitative analysis. The empirical material was further interpreted with the use of theories of organizational culture by Edgar Schein. ResultsThe doctors sought peer support due to a range of different needs including both occupational and personal challenges. They attended peer support to engage in dialogue with a fellow doctor outside of the workplace, some were in search of a combination of dialogue and mental health care. The doctors wanted peer support to have a different quality from that of a regular doctor/patient appointment. The doctors expressed they needed and got psychological safety and an open conversation in a flexible and informal setting. Some of these qualities are related to the formal structure of the service, whereas others are based on the way the service is practised. ConclusionsPeer support seems to provide psychological safety through its flexible, informal, and confidential characteristics. The service thus offers doctors in need of support a valued and suitable space that is clearly distinct from a doctor/patient relationship. The doctors’ needs are met to a high extent by the peer-support service, through such conditions that the doctors experience as beneficial.
+  </article>
   <article id="contributors-article-HQBAHKCF" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

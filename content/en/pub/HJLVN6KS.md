@@ -1,5 +1,5 @@
 ---
-title: "HJLVN6KS"
+title: "‘After Belonging’: A study of proposals for architectural interventions for arrival of refugees in Oslo, Norway"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HJLVN6KS" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1956041" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HJLVN6KS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HJLVN6KS" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4324/9781003094142-10-14/belonging-eli-st%C3%B8a-anne-sigfrid-gr%C3%B8nseth?context=ubx&amp;refId=2c2588aa-39b4-4fdb-84bb-f9839665481d" class="csl-bib-button">EZproxy</a>
   </div>

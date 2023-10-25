@@ -1,5 +1,5 @@
 ---
-title: "4DV7KNP4"
+title: "Toward Smart and Sustainable Business Models in Retail"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4DV7KNP4" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1680634" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/4DV7KNP4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-3-319-97385-2_10" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-4DV7KNP4"></div>

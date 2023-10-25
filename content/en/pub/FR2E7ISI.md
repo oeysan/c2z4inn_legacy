@@ -1,5 +1,5 @@
 ---
-title: "FR2E7ISI"
+title: "Do work beliefs moderate the relationship between work interruptions, wellbeing and psychosomatic symptoms?"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FR2E7ISI" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1476707" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/FR2E7ISI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-FR2E7ISI" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-FR2E7ISI" class="csl-bib-button">Contributors</a>
     <a href="https://doi.org/10.5964/ejop.v13i2.1169" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-FR2E7ISI"></div>
 </article>
 <div id="csl-bib-meta-FR2E7ISI" class="csl-bib-meta">
+  <article id="abstract-article-FR2E7ISI" class="abstract-article">
+    <h1>Abstract</h1>
+    The purpose of this study was to explore the moderating effects of work beliefs in the relationship between work interruptions and general health, wellbeing and reports of psychosomatic symptoms. Self-report data were gathered from 310 employees from different occupational sectors. Results revealed that beliefs in hard work and morality ethic moderated the positive appraisal of work interruptions and acted as protective factors on impaired general health and wellbeing. The relationship was stronger among employees who endorsed strong beliefs in hard work and did not have regard for morality/ethics as a value. Likewise, beliefs in delay of gratification and morality/ethics moderated positive appraisal of work interruptions and reduced psychosomatic complaints. More specifically, the relationship was stronger among employees who had strong belief in the values of delayed gratification and weaker morality/ethics. These findings indicate that organisations should adopt work ideology or practices focused on work values particularly of hard work, delay of gratification and conformity to morality as protective factors that reduce the impact of work interruptions on employees’ general health and wellbeing.
+  </article>
   <article id="contributors-article-FR2E7ISI" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "9ZE4GDXR"
+title: "The migratory experience: Challenging inclusionary measures"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9ZE4GDXR" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2052083" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9ZE4GDXR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9ZE4GDXR" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-3-031-14113-3_5" class="csl-bib-button">EZproxy</a>
   </div>

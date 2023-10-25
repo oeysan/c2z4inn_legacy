@@ -1,5 +1,5 @@
 ---
-title: "2ZDH9R2Z"
+title: "Using discourse analysis to understand professional music teacher identity"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2ZDH9R2Z" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1903040" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/2ZDH9R2Z" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-2ZDH9R2Z" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-2ZDH9R2Z" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-2ZDH9R2Z" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://nrme.no/index.php/nrme/article/download/3025/5255" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-2ZDH9R2Z"></div>
 </article>
 <div id="csl-bib-meta-2ZDH9R2Z" class="csl-bib-meta">
+  <article id="abstract-article-2ZDH9R2Z" class="abstract-article">
+    <h1>Abstract</h1>
+    The purpose of this article is to discuss the use of discourse analysis in order to understand music teachers’ professional identities. This is done by elaborating on the theory and methodology of a study on professional identities of music teachers within the Norwegian municipal school of music and performing arts. Theoretical and methodological perspectives, including research design, analysis, results, validity and ethics, are discussed in the article. An argument in favour of discourse analysis is put forward: that it offers focus on the context, complexity and power relations of the field, as well as providing an understanding of how identities are constructed and negotiated. The use of discourse analysis in the study provided analytical tools which challenged taken-for-granted knowledge, discovered binary discursive oppositions, and unmasked power relations. The study found that teachers construct their identities within a contested discursive field where meanings are attached to the work they perform, as well as to the institutions they represent.
+  </article>
   <article id="contributors-article-2ZDH9R2Z" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

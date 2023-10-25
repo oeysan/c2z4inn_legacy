@@ -1,5 +1,5 @@
 ---
-title: "AYY86WZZ"
+title: "Association between single-nucleotide polymorphisms within candidate genes and fertility in Landrace and Duroc pigs"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AYY86WZZ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1779964" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/AYY86WZZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-AYY86WZZ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-AYY86WZZ" class="csl-bib-button">Medverkande</a>
     <a href="https://actavetscand.biomedcentral.com/track/pdf/10.1186/s13028-019-0493-x" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-AYY86WZZ"></div>
 </article>
 <div id="csl-bib-meta-AYY86WZZ" class="csl-bib-meta">
+  <article id="abstract-article-AYY86WZZ" class="abstract-article">
+    <h1>Samandrag</h1>
+    Finding effective predictors of traits related to boar fertility is essential for increasing the efficiency of artificial insemi‑nation systems in pig breeding. The objective of this study was to find associations between single‑nucleotide poly‑morphisms (SNPs) within candidate genes and fertility in the breeds Landrace and Duroc. Animals with breeding val‑ues for total number of piglets born, were re‑sequenced for exonic regions of 14 candidate genes related to male and female fertility using samples from 16 Landrace boars and 16 Duroc boars (four with high and four with low breeding value of total number of piglets born for each breed for male fertility, and the same for female fertility) to detect genetic variants. Genotyping for the detected SNPs was done in 619 Landrace boars and 513 Duroc boars. Two SNPs in BMPR1 and one SNP in COX-2 were found significantly associated with the total number of piglets born in Landrace. In Duroc, two SNPs in PLCz, one SNP in VWF and one SNP in ZP3 were found significantly associated with total number of piglets born. These SNPs explained between 0.27% and 1.18% of the genetic variance. These effects are too low for being used directly for selection purposes but can be of interest in SNP‑panels used for genomic selection.
+  </article>
   <article id="contributors-article-AYY86WZZ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

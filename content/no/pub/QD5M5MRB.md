@@ -1,5 +1,5 @@
 ---
-title: "QD5M5MRB"
+title: "Risk and Crisis Communication During the COVID-19 Pandemic Muddled Messages"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QD5M5MRB" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2170633" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/QD5M5MRB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-QD5M5MRB" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-QD5M5MRB"></div>

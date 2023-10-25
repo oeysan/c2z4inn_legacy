@@ -1,5 +1,5 @@
 ---
-title: "BER2VYJU"
+title: "Registered nurses’ experiences with master’s degree competence in the specialist health service: A qualitative descriptive study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BER2VYJU" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1856158" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/BER2VYJU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-BER2VYJU" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-BER2VYJU" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-BER2VYJU" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/2057158520946028" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-BER2VYJU"></div>
 </article>
 <div id="csl-bib-meta-BER2VYJU" class="csl-bib-meta">
+  <article id="abstract-article-BER2VYJU" class="abstract-article">
+    <h1>Abstract</h1>
+    The application of master’s degree competence in nursing practice has been a hot topic of debate in various forums in recent years. International findings suggest that nurses with master’s degrees can make a positive contribution to the quality of services and patient safety, and an association has been suggested between higher education in nursing and a reduced mortality rate in hospitals. Therefore, this study aimed to investigate registered nurses’ (RNs’) experiences with how a master’s level education affected their work in the specialist health service. An inductive qualitative study design was used. Data were collected through focus group interviews with 18 participants in five groups and analysed using content analysis. This study is reported in accordance with COREQ. The results showed an ‘expectation gap’ between the RNs with master’s degrees and their managers. Our findings also reflected the RNs’ ambivalent experiences of being both a threat and a resource. The application of the competence describes the desire to utilise and recognise the master’s qualification. Furthermore, expectations for the future in the specialist health service were focussed on more evidence-based practice. The results of this study highlight that enhanced competence is a priority area aimed at meeting current and future needs for evidence-based practice and effective services. Clinical master’s degrees place emphasis on both the RNs’ clinical skills and their ability to obtain and apply new knowledge.
+  </article>
   <article id="contributors-article-BER2VYJU" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

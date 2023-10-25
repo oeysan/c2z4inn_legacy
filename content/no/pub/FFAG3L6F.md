@@ -1,5 +1,5 @@
 ---
-title: "FFAG3L6F"
+title: "Using the Kaban Lakes Integrated Assessment Model for investigating potential levels of antibiotic pollution of the Nizhniy Kaban and Sredniy Kaban Lakes."
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FFAG3L6F" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1970960" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/FFAG3L6F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://soil.copernicus.org/articles/6/231/2020/soil-6-231-2020.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-FFAG3L6F"></div>

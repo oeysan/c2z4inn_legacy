@@ -1,5 +1,5 @@
 ---
-title: "PD7LIGZ2"
+title: "The role of organizational attractiveness in an internal market-oriented culture (IMOC): a study of hospital frontline employees"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PD7LIGZ2" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1697992" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PD7LIGZ2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-PD7LIGZ2" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-PD7LIGZ2" class="csl-bib-button">Medverkande</a>
     <a href="https://bmchealthservres.biomedcentral.com/track/pdf/10.1186/s12913-019-4144-8" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PD7LIGZ2"></div>
 </article>
 <div id="csl-bib-meta-PD7LIGZ2" class="csl-bib-meta">
+  <article id="abstract-article-PD7LIGZ2" class="abstract-article">
+    <h1>Samandrag</h1>
+    Hospitals need to understand how to reduce their frontline employees’ turnover rate as well as how to positively engage them and improve their service. Central to these issues, we find, is the employees’ perception of their organization’s attractiveness. This objective of this paper is to clarify how the role of organizational attractiveness relates to frontline employees’ perception of their internal market-oriented culture as well as their turnover rate, engagement, and service quality. To our knowledge, no previous research has explored the role of organizational attractiveness from a frontline employee perspective in health-service organizations.
+  </article>
   <article id="contributors-article-PD7LIGZ2" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

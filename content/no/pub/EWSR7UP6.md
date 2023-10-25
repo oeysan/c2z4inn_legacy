@@ -1,5 +1,5 @@
 ---
-title: "EWSR7UP6"
+title: "Music Therapy and Physical Activity to Ease Anxiety, Restlessness, Irritability, and Aggression in Individuals With Dementia With Signs of Frontotemporal Lobe Degeneration"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EWSR7UP6" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1490148" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/EWSR7UP6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-EWSR7UP6" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-EWSR7UP6" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-EWSR7UP6" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.3928/02793695-20190124-02" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-EWSR7UP6"></div>
 </article>
 <div id="csl-bib-meta-EWSR7UP6" class="csl-bib-meta">
+  <article id="abstract-article-EWSR7UP6" class="abstract-article">
+    <h1>Samandrag</h1>
+    The purpose of the current study was to evaluate whether a combined intervention of physical activity and music therapy could reduce anxiety, restlessness, irritability, and aggression among individuals with severe dementia. An exploratory design was used to evaluate a combined intervention of physical activity, music therapy, and daily walking. Interventions were systematically implemented for 8 weeks. Target groups were individuals with dementia with frontal lobe symptoms in institutional care. Primary outcome measure was the Brøset Violence Checklist (BVC). Four men and two women (mean age = 84.3 years) and their primary caretakers ( n = 6) participated. The most prominent symptoms among participants at baseline were confusion, irritability, and verbal threats. The individual BVC total scores indicated significant improvements ( p = 0.03). Implementation of individualized music therapy combined with increased physical activity for 8 weeks was a feasible intervention that reduced anxiety, restlessness, irritability, and aggression in the current study. [ Journal of Psychosocial Nursing and Mental Health Services, 57 (5), 29–37.
+  </article>
   <article id="contributors-article-EWSR7UP6" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "BTDH4V47"
+title: "Mental Health, Information and Being Connected: Qualitative Experiences of Social Media Use during the COVID-19 Pandemic from a Trans-National Sample"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BTDH4V47" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1914835" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/BTDH4V47" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-BTDH4V47" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-BTDH4V47" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-BTDH4V47" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/2227-9032/9/6/735/pdf?version=1624249126" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-BTDH4V47"></div>
 </article>
 <div id="csl-bib-meta-BTDH4V47" class="csl-bib-meta">
+  <article id="abstract-article-BTDH4V47" class="abstract-article">
+    <h1>Abstract</h1>
+    Background: Due to the COVID-19 pandemic and the strict national policies regarding social distancing behavior in Europe, America and Australia, people became reliant on social media as a means for gathering information and as a tool for staying connected to family, friends and work. This is the first trans-national study exploring the qualitative experiences and challenges of using social media while in lockdown or shelter-in-place during the current pandemic. Methods: This study was part of a wider cross-sectional online survey conducted in Norway, the UK, USA and Australia during April/May 2020. The manuscript reports on the qualitative free-text component of the study asking about the challenges of social media users during the COVID-19 pandemic in the UK, USA and Australia. A total of 1991 responses were included in the analysis. Thematic analysis was conducted independently by two researchers. Results: Three overarching themes identified were: Emotional/Mental Health, Information and Being Connected. Participants experienced that using social media during the pandemic amplified anxiety, depression, fear, panic, anger, frustration and loneliness. They felt that there was information overload and social media was full of misleading or polarized opinions which were difficult to switch off. Nonetheless, participants also thought that there was an urge for connection and learning, which was positive and stressful at the same time. Conclusion: Using social media while in a shelter-in-place or lockdown could have a negative impact on the emotional and mental health of some of the population. To support policy and practice in strengthening mental health care in the community, social media could be used to deliver practical advice on coping and stress management. Communication with the public should be strengthened by unambiguous and clear messages and clear communication pathways. We should be looking at alternative ways of staying connected.
+  </article>
   <article id="contributors-article-BTDH4V47" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

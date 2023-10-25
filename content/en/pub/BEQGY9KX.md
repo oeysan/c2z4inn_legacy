@@ -1,5 +1,5 @@
 ---
-title: "BEQGY9KX"
+title: "Relationship between sperm motility characteristics and ATP concentrations, and association with fertility in two different pig breeds"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BEQGY9KX" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1596531" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/BEQGY9KX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BEQGY9KX" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.anireprosci.2018.04.075" class="csl-bib-button">EZproxy</a>
   </div>

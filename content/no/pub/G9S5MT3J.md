@@ -1,5 +1,5 @@
 ---
-title: "G9S5MT3J"
+title: "The effect of web-based Hatha yoga on psychological distress and sleep quality in older adults: a randomized controlled trial"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-G9S5MT3J" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2092274" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/G9S5MT3J" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-G9S5MT3J" class="csl-bib-button">Medverkande</a>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9744484" class="csl-bib-button">Unpaywall</a>
   </div>

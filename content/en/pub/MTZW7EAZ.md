@@ -1,5 +1,5 @@
 ---
-title: "MTZW7EAZ"
+title: "Norsk film A/S: en kulturhistorie"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MTZW7EAZ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1824586" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/MTZW7EAZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-MTZW7EAZ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-MTZW7EAZ" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-MTZW7EAZ"></div>
 </article>
 <div id="csl-bib-meta-MTZW7EAZ" class="csl-bib-meta">
+  <article id="abstract-article-MTZW7EAZ" class="abstract-article">
+    <h1>Abstract</h1>
+    Dette er historien om en av Norges viktigste kulturinstitusjoner i det 20. århundre: Norsk Film A/S. Selskapet ble etablert i 1932 av de kommunale kinoene, men ble senere overtatt av staten. At staten finansierer og driver et produksjonsselskap for spillefilm.produksjon er svært uvanlig i internasjonal sammenheng. Historien om Norsk Film A/S er historien om filmproduksjon i annerledeslandet Norge. Norsk Film A/S var selve navet i norsk filmproduksjon og utvilsomt det viktigste norske produksjonsselskapet på 1900-tallet. Fra oppstarten og fram til nedleggelsen i 2001 var Norsk Film A/S involvert i nærmere en tredel av alle norske spillefilmproduksjoner, enten som produsent eller co-produsent. Selskapet ble slik det viktigste redskapet i den offentlige filmpolitikken i denne perioden. Lenge var selskapets studiofasiliteter på Jar i Bærum de eneste i landet og et kompetansesenter og viktig lærested for norske filmarbeidere. Som statens viktigste filmpolitiske redskap kom Norsk Film A/S til å spille en komplisert dobbeltrolle. Selskapet ble en aktør i den kommersielle filmbransjen samtidig som det skulle ivareta de kulturpolitiske forpliktelsene og forventningene som skiftende regjeringer hadde. Hvordan selskapet navigerte mellom disse på mange måter uforenlige hensynene, er et tilbakevendende tema i denne framstillingen. Medforfattere: Jan Anders Diesen, Gunnar Iversen, Leif Ove Larsen, Anne Marit Myrstad, Ove Solum, Ane Tryggeseid.
+  </article>
   <article id="contributors-article-MTZW7EAZ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

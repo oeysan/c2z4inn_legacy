@@ -1,5 +1,5 @@
 ---
-title: "JH8YNZKI"
+title: "Læreres bruk av spørsmål før gjennomføring av et eksperiment"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,13 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JH8YNZKI" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2180264" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JH8YNZKI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-JH8YNZKI" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-JH8YNZKI" class="csl-bib-button">Contributors</a>
+    <a href="#sdg-article-JH8YNZKI" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-JH8YNZKI"></div>
 </article>
 <div id="csl-bib-meta-JH8YNZKI" class="csl-bib-meta">
+  <article id="abstract-article-JH8YNZKI" class="abstract-article">
+    <h1>Abstract</h1>
+    This study analysed data in Norwegian classrooms in which teachers worked with the same materials and classroom activities, investigating teachers’ use of strategies to promote interaction and scaffolding when participating in a professional development program (PDP). Data material is collected from four case study teachers. In one lesson in this unit, students were involved in planning an experiment with sprouting seeds, and this (similar) lesson was videotaped in four settings. We investigated how teachers used ques-tions in different inquiry contexts to include students and recognize barriers in student understanding and language. The data analysis shows that teachers ask open, closed, influencing and orienting questions.The open, orienting questions induce students to generate their own ideas, while closed orienting and in-fluencing questions often scaffold language and understanding of science.  The study shows how teachers can use questions to scaffold pupils science literacy and thereby including them in classroom interaction.
+  </article>
   <article id="contributors-article-JH8YNZKI" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -115,6 +121,16 @@ Room 2N2203
 </div>
 <a href="https://app.cristin.no/persons/show.jsf?id=8667" alt="Cristin URL" class="personas-cristin">Cristin</a>
 </div>
+  </article>
+  <article id="sdg-article-JH8YNZKI" class="sdg-article">
+    <h1>Sustainable Development Goals</h1>
+    <div class="sdg-container"><div id="sdg4" class="sdg">
+<img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
+<div class="sdg-overlay">
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
+<p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
+</div>
+</div></div>
   </article>
   <article id="taxonomy-article-JH8YNZKI" class="taxonomy-article">
     <h1>Archive</h1>

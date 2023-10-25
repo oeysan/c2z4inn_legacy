@@ -1,5 +1,5 @@
 ---
-title: "TMDLRHYJ"
+title: "The importance of evaluating standard monitoring methods: Observer bias and detection probabilities for moose pellet group surveys"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TMDLRHYJ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2042361" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/TMDLRHYJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-TMDLRHYJ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-TMDLRHYJ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-TMDLRHYJ" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0268710&amp;type=printable" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-TMDLRHYJ"></div>
 </article>
 <div id="csl-bib-meta-TMDLRHYJ" class="csl-bib-meta">
+  <article id="abstract-article-TMDLRHYJ" class="abstract-article">
+    <h1>Abstract</h1>
+    Counting is not always a simple exercise. Specimens can be misidentified or not detected when they are present, giving rise to unidentified sources of error. Deer pellet group counts are a common method to monitor abundance, density, and population trend. Yet, detection errors and observer bias could introduce error into sometimes very large (spatially, temporally) datasets. For example, in Scandinavia, moose (Alces alces) pellet group counts are conducted by volunteer hunters and students, but it is unknown how much uncertainty observer error introduces into these datasets. Our objectives were to 1) estimate the detection probability of moose pellet groups; 2) identify the primary variables leading to detection errors including prior observer experience; and 3) compare density estimates using single and double observer counts. We selected a subset of single observer plots from a long-term monitoring project to be conducted as dependent double observer surveys, where primary and secondary observers worked simultaneously in the field. We did this to quantify detection errors for moose pellet groups, which were previously unknown in Scandinavia, and to identify covariates which introduced variation into our estimates. Our study area was in the boreal forests of southern Norway where we had a nested grid of 100-m2 plots that we surveyed each spring. Our observers were primarily inexperienced. We found that when pellet groups were detected by the primary observer, the secondary observer saw additional pellet groups 42% of the time. We found search time was the primary covariate influencing detection. We also found density estimates from double observer counts were 1.4 times higher than single observer counts, for the same plots. This density underestimation from single observer surveys could have consequences to managers, who sometimes use pellet counts to set harvest quotas. We recommend specific steps to improve future moose pellet counts.
+  </article>
   <article id="contributors-article-TMDLRHYJ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "N8SZ9GFU"
+title: "Rate of cooling in a moose (Alces alces) carcass"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-N8SZ9GFU" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1675411" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/N8SZ9GFU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-N8SZ9GFU" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.7589/2018-05-114" class="csl-bib-button">EZproxy</a>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: "6HTC8FFP"
+title: "Trading time seasonality in electricity futures"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6HTC8FFP" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2062276" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/6HTC8FFP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-6HTC8FFP" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-6HTC8FFP" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-6HTC8FFP" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://doi.org/10.1016/j.jcomm.2022.100291" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,12 @@ type: pub
   <div id="csl-bib-meta-container-6HTC8FFP"></div>
 </article>
 <div id="csl-bib-meta-6HTC8FFP" class="csl-bib-meta">
+  <article id="abstract-article-6HTC8FFP" class="abstract-article">
+    <h1>Samandrag</h1>
+    Trading time seasonality reflects the seasonal behavior of futures prices with the same time of maturity. Hence, it differs from classical seasonality, which reflects seasonal behavior induced by the spot price observed for varying maturities. This type of seasonality is linked  
+to the pricing kernel which in turn accounts for seasonal changes in preferences of agents and tied to risk aversion and thus the demand for hedging. In the present study we empirically examine trading time seasonality in yearly Nordic and German electricity futures contracts.   
+Visual inspection of both average monthly futures prices and the futures backward curves provides strong indications of futures prices systematically varying over the trading year. On average both Nordic and German futures prices are lowest in first quarter- and highest in third quarter trading months. This is confirmed by statistical tests of stochastic dominance. Exploiting this insight in a simple trading strategy induces positive and significant alphas in the sense of the capital asset pricing model. We relate the findings to potential seasonal risk preferences and hedging pressure in the electricity futures market.
+  </article>
   <article id="contributors-article-6HTC8FFP" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

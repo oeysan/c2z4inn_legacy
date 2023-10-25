@@ -1,5 +1,5 @@
 ---
-title: "9KQ8KH6K"
+title: "Samhandling og inkludering i arbeidslivet"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9KQ8KH6K" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2048933" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9KQ8KH6K" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9KQ8KH6K" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-9KQ8KH6K"></div>

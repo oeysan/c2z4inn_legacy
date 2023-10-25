@@ -1,5 +1,5 @@
 ---
-title: "U5ZK8S9D"
+title: "Elderly patients with complex health problems in the care trajectory: a qualitative case study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-U5ZK8S9D" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1820453" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/U5ZK8S9D" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-U5ZK8S9D" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-U5ZK8S9D" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-U5ZK8S9D" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://bmchealthservres.biomedcentral.com/track/pdf/10.1186/s12913-020-05437-6" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-U5ZK8S9D"></div>
 </article>
 <div id="csl-bib-meta-U5ZK8S9D" class="csl-bib-meta">
+  <article id="abstract-article-U5ZK8S9D" class="abstract-article">
+    <h1>Abstract</h1>
+    BackgroundElderly patients with multiple health problems often experience disease complications and functional failure, resulting in a need for health care across different health care systems during care trajectory. The patients’ perspective of the care trajectory has been insufficiently described, and thus there is a need for new insights and understanding. The study aims to explore how elderly patients with complex health problems engage in and interact with their care trajectory across different health care systems where several health care personnel are involved. Methods The study had an explorative design with a qualitative multi-case approach. Eleven patients ( n  = 11) aged 65–91 years participated. Patients were recruited from two hospitals in Norway. Observations and repeated interviews were conducted during patients’ hospital stays, discharge and after they returned to their homes. A thematic analysis method was undertaken. ResultsPatients engaged and positioned themselves in the care trajectory according to three identified themes: 1) the patients constantly considered opportunities and alternatives for handling the different challenges and situations they faced; 2) patients searched for appropriate alliance partners to support them and 3) patients sometimes circumvented the health care initiation of planned steps and took different directions in their care trajectory. ConclusionsThe patients’ considerations of their health care needs and adjustments to living arrangements are constant throughout care trajectories. These considerations are often long term, and the patient engagement in and management of their care trajectory is not associated with particular times or situations. Achieving consistency between the health care system and the patient’s pace in the decision-making process may lead to a more appropriate level of health care in line with the patient’s preferences and goals.
+  </article>
   <article id="contributors-article-U5ZK8S9D" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

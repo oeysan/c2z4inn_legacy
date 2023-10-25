@@ -1,5 +1,5 @@
 ---
-title: "G9GZCAU7"
+title: "Post-Traumatic Stress Disorder in People with Visual Impairment Compared with the General Population"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-G9GZCAU7" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1974892" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/G9GZCAU7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-G9GZCAU7" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-G9GZCAU7" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-G9GZCAU7" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/1660-4601/19/2/619/pdf?version=1641454521" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-G9GZCAU7"></div>
 </article>
 <div id="csl-bib-meta-G9GZCAU7" class="csl-bib-meta">
+  <article id="abstract-article-G9GZCAU7" class="abstract-article">
+    <h1>Abstract</h1>
+    Background: People with a visual impairment appear to have an increased risk of experiencing potentially traumatizing life events and possibly also subsequently developing post-traumatic stress disorder (PTSD). This study investigated the point prevalence of PTSD in people with a visual impairment compared with the general population of Norway and examined factors associated with PTSD among people with a visual impairment. Methods: A telephone-based survey was administered to a probability sample of 1216 adults with a visual impairment. Of these, 736 (61% response rate) participated. A probability sample from the general population served as a reference (n = 1792, 36% response rate). PTSD was measured with the PTSD Checklist for the DSM-5 (PCL-5), based on the currently most bothersome event reported from the Life Events Checklist for DSM-5 (LEC-5). We used the DSM-5 diagnostic guidelines to categorize participants as fulfilling the PTSD symptom criteria or not. Results: The prevalence of PTSD was higher among people with a visual impairment than in the general population, both for men (9.0% vs. 3.8%) and women (13.9% vs. 8.5%). The prevalence rates of PTSD from the illness or injury that had caused the vision loss (men 3.9%, women 2.2%) accounted for a considerable part of the difference between the populations. For women, PTSD related to sexual assaults also contributed significantly to a higher PTSD prevalence in the visually impaired versus the general population (5.2% vs. 2.2%), while for men there were no other event categories which resulted in significant differences. Among people with a visual impairment, the higher risk of PTSD was associated with lower age, female gender, having acquired the vision loss, and having other impairments in addition to the vision loss. Conclusion: The higher prevalence of PTSD in people with a visual impairment suggests that vulnerability to mental health problems is associated with serious life events. The higher incidence than in the general population is partly due to the illness or injury that had led to the vision loss and partly due to people with vision loss appearing to be more vulnerable through exposure to other types of potentially traumatizing events, such as sexual abuse.
+  </article>
   <article id="contributors-article-G9GZCAU7" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

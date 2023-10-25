@@ -1,5 +1,5 @@
 ---
-title: "GPFBID6M"
+title: "Becoming through an encounter with an artistic Congo Village event in Norway"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GPFBID6M" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1629677" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/GPFBID6M" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-GPFBID6M" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-GPFBID6M" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-GPFBID6M" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/1077800418806617" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-GPFBID6M"></div>
 </article>
 <div id="csl-bib-meta-GPFBID6M" class="csl-bib-meta">
+  <article id="abstract-article-GPFBID6M" class="abstract-article">
+    <h1>Abstract</h1>
+    Through Mohamed Ali Fadlabi and Lars Cuzner’s processual art project European Attraction Limited, I learned that there was a human zoo at a jubilee exhibition in the capital city of Norway around 100 years ago. This human zoo was set up as a “Congolese village” including 20 “primitive” huts built of reeds covered with palm leaves. Within the “village,” 80 presumably Congolese children, women, and men were performing “authentic African life” as a partly entertaining display to spectators. In the article, I explore what emerges when encountering this project, not as an art critique but as an educational researcher in Norway interested in race and racialization and how to create different ways of creating more livable worlds.
+  </article>
   <article id="contributors-article-GPFBID6M" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "VKV8GYDY"
+title: "The history syllabus in post-genocide Rwanda: Implications for teacher education"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VKV8GYDY" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1629316" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VKV8GYDY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VKV8GYDY" class="csl-bib-button">Medverkande</a>
     <a href="https://doi.org/10.1080/2331186x.2018.1541495" class="csl-bib-button">Unpaywall</a>
   </div>

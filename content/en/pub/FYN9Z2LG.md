@@ -1,5 +1,5 @@
 ---
-title: "FYN9Z2LG"
+title: "Social learning as a key factor in sustainability transitions: The case of Okayama City"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FYN9Z2LG" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1523682" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/FYN9Z2LG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FYN9Z2LG" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/s11159-017-9682-x" class="csl-bib-button">EZproxy</a>
   </div>

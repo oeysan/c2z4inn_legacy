@@ -1,5 +1,5 @@
 ---
-title: "869JUVHC"
+title: "Passive permissives: Being let and allowed"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-869JUVHC" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1608432" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/869JUVHC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-869JUVHC" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-869JUVHC" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1075/slcs.195.03ega" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-869JUVHC"></div>
 </article>
 <div id="csl-bib-meta-869JUVHC" class="csl-bib-meta">
+  <article id="abstract-article-869JUVHC" class="abstract-article">
+    <h1>Abstract</h1>
+    The ‘let NP bare infinitive’ construction differs from other common permissive constructions, such as ‘allow NP to-infinitive’ and ‘permit NP to-infinitive’ in being exceedingly rare in the passive. That is, while somebody may well be ‘allowed to do’ something, they are very seldom ‘let do’ something. Even more seldom are they ‘let to do’ something. This chapter explores possible reasons for the rarity of both of these passive let constructions, which are contrasted with passive allow constructions. It is argued that the difference in distribution between the constructions with the two matrix verbs is related to two factors. The first is a difference in the sorts of force dynamic relations which they typically encode. The second is related to the difference in semantics between the two infinitive forms. The argument is supported by corpus data from both British and American English.
+  </article>
   <article id="contributors-article-869JUVHC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

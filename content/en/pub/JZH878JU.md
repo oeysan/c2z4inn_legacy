@@ -1,5 +1,5 @@
 ---
-title: "JZH878JU"
+title: "A Rapid Feedback App: Possibilities and Pitfalls for Extended Democracy"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JZH878JU" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2155117" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JZH878JU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-JZH878JU" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-JZH878JU" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-JZH878JU" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://publicera.kb.se/sjpa/article/download/11368/11663" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-JZH878JU"></div>
 </article>
 <div id="csl-bib-meta-JZH878JU" class="csl-bib-meta">
+  <article id="abstract-article-JZH878JU" class="abstract-article">
+    <h1>Abstract</h1>
+    Recently, a democratic deficit has called for new forms of e-participation to increase or deepen citizens’ political participation. A new solution for rapid feedback, GiMening, is undergoing development and implementation in Norway. This article contributes to the understanding of the implementation of quick-response tools by suggesting which key points of awareness must be considered to enhance associated possibilities and avoid pitfalls. The research questions under examination are: How do municipal political leadership, school leadership and youth perceive the need for extended digital citizen participation? What are their thoughts on the possibilities and pitfalls that GiMening may trigger during its implementation and use in different contexts? Research on digital engagement and political participation among Scandinavian youth is used to theorise about the concept of democratic innovation. The data material consists of semi-structured interviews with actors from five Norwegian municipalities. The main findings of the analysis show that the use of GiMening could lower the threshold for participation, lead to better-informed decisions, increase citizens’ level of trust and improve awareness of people’s opinions; however, there are pitfalls related to the risk that GiMening might be used only as a one-way information sharing tool or that decision-makers will not apply input data.
+  </article>
   <article id="contributors-article-JZH878JU" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

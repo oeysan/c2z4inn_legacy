@@ -1,5 +1,5 @@
 ---
-title: "USQ4QBQF"
+title: "Sport Federation Ofﬁcials’ Practices and National Team Coaches’ Stress"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-USQ4QBQF" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1761613" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/USQ4QBQF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-USQ4QBQF" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-USQ4QBQF" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1123/iscj.2017-0086" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-USQ4QBQF"></div>
 </article>
 <div id="csl-bib-meta-USQ4QBQF" class="csl-bib-meta">
+  <article id="abstract-article-USQ4QBQF" class="abstract-article">
+    <h1>Samandrag</h1>
+    While there is growth in research recognizing the coach as a performer, little is known about the practices of federation ofﬁcials who are ‘responsible for’ and have the potential to inﬂuence coaches’ experiences. This study explores practices enacted by Norwegianfederationofﬁcialswithintheirroleofworkingcloselywiththenationalteamcoach.Semi-structuredinterviewswere conducted with seven sports directors employed by some of Norway’s medal-winning individual sports federations. Thematic analysis furnished three theme-practices: (a) sincerely caring for the employees, (b) fostering a development focus, and (c) recruiting coaches with the organizational culture in mind. We viewed these practices as ways of enacting the federation culture and the sports directors work with the coaches as being the main support for the coach, acting frequently as a buffer with regard to both administrative and sport issues. Considering recent ﬁndings on how Norwegian national team coaches evaluate their stress experiences, the identiﬁed practices appear to be ones that can have some bearing on the coaches’ stress evaluation mechanisms and outcome expectancies. Practical implications are outlined as well as suggestions for future research extending these ﬁndings across different cultures (sports and nations).
+  </article>
   <article id="contributors-article-USQ4QBQF" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

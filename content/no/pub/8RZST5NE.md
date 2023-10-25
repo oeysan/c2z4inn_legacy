@@ -1,5 +1,5 @@
 ---
-title: "8RZST5NE"
+title: "Et kulturperspektiv på sport"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,22 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8RZST5NE" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1462210" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/8RZST5NE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-8RZST5NE" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-8RZST5NE" class="csl-bib-button">Medverkande</a>
     <a href="https://www.idunn.no/file/pdf/66946546/et_kulturperspektiv_paa_sport.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-8RZST5NE"></div>
 </article>
 <div id="csl-bib-meta-8RZST5NE" class="csl-bib-meta">
+  <article id="abstract-article-8RZST5NE" class="abstract-article">
+    <h1>Samandrag</h1>
+    Hvordan kan det sterke programmet i kultursosiologi (SP) brukes i studier av sport? SP behandler hvordan kultur, sommeningsdannende prosesser, former sosiale relasjoner. I det følgende rettes søkelyset mot hvordan meningsdannelse i sport former sosialt liv. I tråd med SPs teoriutvikling hentes inspirasjon fra både sosiologiske og antropologiske klassikere som behandler hvordan sport, lek og spill former samfunn. Gjennom litteraturen forstås sport som kompromisset mellom lek og spill. Lek fremkommer som en kulturstruktur 
+som muliggjør kreativ forming av representasjoner, symboler og sosiale relasjoner. Spill er institusjonalisert lek, en sosial struktur med mål og regler som organiserer deltagernes 
+samhandling. Sport forstås som institusjonalisert konkurranselek der spill–struktur og lek–kreativitet, formalia og frihet samspiller. Slik blir sport et fruktbart kultursosiologisk laboratorium for SP-forskning på hvordan meningsdannelse former sosialt liv i institusjoner 
+og samfunn.
+  </article>
   <article id="contributors-article-8RZST5NE" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

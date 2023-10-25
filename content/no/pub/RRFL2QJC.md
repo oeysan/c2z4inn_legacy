@@ -1,5 +1,5 @@
 ---
-title: "RRFL2QJC"
+title: "The Beliefs and Intentions of Buridan's Ass"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RRFL2QJC" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1503968" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/RRFL2QJC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-RRFL2QJC" class="csl-bib-button">Samandrag</a>
     <a href="https://philpapers.org/archive/SHATBA-5.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-RRFL2QJC"></div>
 </article>
 <div id="csl-bib-meta-RRFL2QJC" class="csl-bib-meta">
+  <article id="abstract-article-RRFL2QJC" class="abstract-article">
+    <h1>Samandrag</h1>
+    :The moral of Buridan's ass is that it can sometimes be rational to perform one action rather than another even though one lacks stronger reason to do so. Yet, it is also commonly believed that it cannot ever be rational to believe one proposition rather than another if one lacks stronger reason to do so. This asymmetry has been taken to indicate a deep difference between epistemic and practical rationality. According to the view articulated here, the asymmetry should instead be explained by the difference between rational intentions and rational actions. Thus, it turns out, cases such as Buridan's ass do not indicate an asymmetry between epistemic and practical rationality as such.
+  </article>
   <article id="taxonomy-article-RRFL2QJC" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>

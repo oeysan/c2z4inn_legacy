@@ -1,5 +1,5 @@
 ---
-title: "6FQV2R7L"
+title: "Athlete Perceptions of Governance-Related Issues to Sexual Abuse in Sport"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6FQV2R7L" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2164157" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/6FQV2R7L" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-6FQV2R7L" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-6FQV2R7L" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-6FQV2R7L" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/2076-0760/12/3/141/pdf?version=1677653403" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-6FQV2R7L"></div>
 </article>
 <div id="csl-bib-meta-6FQV2R7L" class="csl-bib-meta">
+  <article id="abstract-article-6FQV2R7L" class="abstract-article">
+    <h1>Abstract</h1>
+    Cases of abuse in sport have emerged with frightening regularity over the past two decades. Scholarship has identified risk factors that can help facilitate abuse in sport and has explored athletes’ experiences with sexual abuse. However, less is known about athletes’ perceptions of the systematic organizational-level problems that fail to curtail sexual abuse. This article, therefore, explores what athletes believe to be the key issues in governance that facilitate sexual abuse in sport. An analysis of the lawsuits that athletes filed against US sport organizations and the testimonies they provided to the US Congress from 2017 to 2022 show four primary ways in which organizational culture, decisions and policies helped permit misconduct in sport. Athlete perspectives suggest governance issues related to monopolistic power structures, a lack of athlete representation, conflicts of interest, and commercialization facilitated an abuse-prone culture within Olympic and Paralympic sport in the United States. These findings show that athletes feel that the adjudication mechanisms that remain connected to sport bodies do not always curtail abuse.
+  </article>
   <article id="contributors-article-6FQV2R7L" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

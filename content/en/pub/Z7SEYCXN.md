@@ -1,5 +1,5 @@
 ---
-title: "Z7SEYCXN"
+title: "Strengthening friendship and pursuing artist dreams by informal musical practices: Musical agency in a cross-cultural context"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Z7SEYCXN" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1833042" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/Z7SEYCXN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-Z7SEYCXN" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-Z7SEYCXN" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-Z7SEYCXN" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journals.oslomet.no/index.php/information/article/download/4000/3581" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-Z7SEYCXN"></div>
 </article>
 <div id="csl-bib-meta-Z7SEYCXN" class="csl-bib-meta">
+  <article id="abstract-article-Z7SEYCXN" class="abstract-article">
+    <h1>Abstract</h1>
+    This article builds upon an ethnographic study of how young people growing up in cross-cultural contexts perform their musical agency (Strøm, 2016). The twofold focus of the article concerns the ways in which the pop duo GunnInga perform their collective musical agency as well as how they strengthen their friendship and fulfill their artist dreams through informal musical practices. The theoretical framework of the article builds upon Stones’s (2005) strong structuration theory. The analysis is structured using Karlsen’s (2011) musical agency lens as a point of departure. In line with Liamputtong’s (2010) request to cross-cultural researchers, the analysis also applies a poem as an analytical tool. The term cross-cultural is applied to situate the pop duo in a context characterized by diversity in terms of bothnationalities and options when it comes to activities, concerts, projects, workshops and so on, offered by both municipal and private cultural agents attempting to respond to this reality.Keywords:musical agency, strong structuration, informal learning,cross-cultural, friendship, artist dreams
+  </article>
   <article id="contributors-article-Z7SEYCXN" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "XCBKC8GF"
+title: "Virtual Reality som et tilbud til pasienter etter kirurgi: Erfaringer fra en pilotutprøving"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XCBKC8GF" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1804015" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/XCBKC8GF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XCBKC8GF" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.18261/issn.1892-2686-2020-01-02" class="csl-bib-button">EZproxy</a>
   </div>

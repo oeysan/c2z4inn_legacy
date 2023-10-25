@@ -1,5 +1,5 @@
 ---
-title: "F2SVCNCB"
+title: "Brown bear attacks on humans: a worldwide perspective"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-F2SVCNCB" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1707233" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/F2SVCNCB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-F2SVCNCB" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-F2SVCNCB" class="csl-bib-button">Medverkande</a>
     <a href="https://www.nature.com/articles/s41598-019-44341-w.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-F2SVCNCB"></div>
 </article>
 <div id="csl-bib-meta-F2SVCNCB" class="csl-bib-meta">
+  <article id="abstract-article-F2SVCNCB" class="abstract-article">
+    <h1>Samandrag</h1>
+    The increasing trend of large carnivore attacks on humans not only raises human safety concerns but may also undermine large carnivore conservation efforts. Although rare, attacks by brown bears Ursus arctos are also on the rise and, although several studies have addressed this issue at local scales, information is lacking on a worldwide scale. Here, we investigated brown bear attacks (n = 664) on humans between 2000 and 2015 across most of the range inhabited by the species: North America (n = 183), Europe (n = 291), and East (n = 190). When the attacks occurred, half of the people were engaged in leisure activities and the main scenario was an encounter with a female with cubs. Attacks have increased significantly over time and were more frequent at high bear and low human population densities. There was no significant difference in the number of attacks between continents or between countries with different hunting practices. Understanding global patterns of bear attacks can help reduce dangerous encounters and, consequently, is crucial for informing wildlife managers and the public about appropriate measures to reduce this kind of conflicts in bear country.
+  </article>
   <article id="contributors-article-F2SVCNCB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

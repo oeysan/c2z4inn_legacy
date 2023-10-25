@@ -1,5 +1,5 @@
 ---
-title: "2T8KBWU3"
+title: "Large expert-curated database for benchmarking document similarity detection in biomedical literature search"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2T8KBWU3" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1803725" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/2T8KBWU3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-2T8KBWU3" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-2T8KBWU3" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-2T8KBWU3" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://doi.org/10.1093/database/baz085" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-2T8KBWU3"></div>
 </article>
 <div id="csl-bib-meta-2T8KBWU3" class="csl-bib-meta">
+  <article id="abstract-article-2T8KBWU3" class="abstract-article">
+    <h1>Samandrag</h1>
+    Document recommendation systems for locating relevant literature have mostly relied on methods developed a decade ago. This is largely due to the lack of a large offline gold-standard benchmark of relevant documents that cover a variety of research fields such that newly developed literature search techniques can be compared, improved and translated into practice. To overcome this bottleneck, we have established the RElevant LIterature SearcH consortium consisting of more than 1500 scientists from 84 countries, who have collectively annotated the relevance of over 180 000 PubMed-listed articles with regard to their respective seed (input) article/s. The majority of annotations were contributed by highly experienced, original authors of the seed articles. The collected data cover 76% of all unique PubMed Medical Subject Headings descriptors. No systematic biases were observed across different experience levels, research fields or time spent on annotations. More importantly, annotations of the same document pairs contributed by different scientists were highly concordant. We further show that the three representative baseline methods used to generate recommended articles for evaluation (Okapi Best Matching 25, Term Frequency–Inverse Document Frequency and PubMed Related Articles) had similar overall performances. Additionally, we found that these methods each tend to produce distinct collections of recommended articles, suggesting that a hybrid method may be required to completely capture all relevant articles. The established database server located at https://relishdb.ict.griffith.edu.au is freely available for the downloading of annotation data and the blind testing of new methods. We expect that this benchmark will be useful for stimulating the development of new powerful techniques for title and title/abstract-based search engines for relevant articles in biomedical research.
+  </article>
   <article id="contributors-article-2T8KBWU3" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

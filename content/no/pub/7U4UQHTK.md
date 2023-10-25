@@ -1,5 +1,5 @@
 ---
-title: "7U4UQHTK"
+title: "Specific shifts in the endocannabinoid system in hibernating brown bears"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7U4UQHTK" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1875489" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/7U4UQHTK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-7U4UQHTK" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-7U4UQHTK" class="csl-bib-button">Medverkande</a>
     <a href="https://frontiersinzoology.biomedcentral.com/track/pdf/10.1186/s12983-020-00380-y" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7U4UQHTK"></div>
 </article>
 <div id="csl-bib-meta-7U4UQHTK" class="csl-bib-meta">
+  <article id="abstract-article-7U4UQHTK" class="abstract-article">
+    <h1>Samandrag</h1>
+    In small hibernators, global downregulation of the endocannabinoid system (ECS), which is involved in modulating neuronal signaling, feeding behavior, energy metabolism, and circannual rhythms, has been reported to possibly drive physiological adaptation to the hibernating state. In hibernating brown bears ( Ursus arctos ), we hypothesized that beyond an overall suppression of the ECS, seasonal shift in endocannabinoids compounds could be linked to bear’s peculiar features that include hibernation without arousal episodes and capacity to react to external disturbance. We explored circulating lipids in serum and the ECS in plasma and metabolically active tissues in free-ranging subadult Scandinavian brown bears when both active and hibernating. In winter bear serum, in addition to a 2-fold increase in total fatty acid concentration, we found significant changes in relative proportions of circulating fatty acids, such as a 2-fold increase in docosahexaenoic acid C22:6 n-3 and a decrease in arachidonic acid C20:4 n-6. In adipose and muscle tissues of hibernating bears, we found significant lower concentrations of 2-arachidonoylglycerol (2-AG), a major ligand of cannabinoid receptors 1 (CB1) and 2 (CB2). Lower mRNA level for genes encoding CB1 and CB2 were also found in winter muscle and adipose tissue, respectively. The observed reduction in ECS tone may promote fatty acid mobilization from body fat stores, and favor carbohydrate metabolism in skeletal muscle of hibernating bears. Additionally, high circulating level of the endocannabinoid-like compound N-oleoylethanolamide (OEA) in winter could favor lipolysis and fatty acid oxidation in peripheral tissues. We also speculated on a role of OEA in the conservation of an anorexigenic signal and in the maintenance of torpor during hibernation, while sustaining the capacity of bears to sense stimuli from the environment.
+  </article>
   <article id="contributors-article-7U4UQHTK" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

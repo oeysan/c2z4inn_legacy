@@ -1,5 +1,5 @@
 ---
-title: "6VNRSVPC"
+title: "The relationship between heart rate variability and canine aggression"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6VNRSVPC" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1463457" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/6VNRSVPC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-6VNRSVPC" class="csl-bib-button">Abstract</a>
     <a href="#sdg-article-6VNRSVPC" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.applanim.2016.12.015" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-6VNRSVPC"></div>
 </article>
 <div id="csl-bib-meta-6VNRSVPC" class="csl-bib-meta">
+  <article id="abstract-article-6VNRSVPC" class="abstract-article">
+    <h1>Abstract</h1>
+    Dog aggression affects many, with nearly 5 million dog bites reported yearly in the United States alone. Dog bites inflict considerable physical, emotional, and monetary costs annually (American Humane Association, 2014). One physiological measure that might serve as an index of aggression in dogs is heart rate variability (HRV). HRV refers to the vagally mediated beat-to-beat change in heart rate. Low HRV has been associated with impaired emotional and behavioral regulation and stress in both humans and animals. To assess whether this measure corresponds with aggression in dogs, the present study measured resting HRV in dogs with and without bite histories. It was observed that dogs with bite histories had significantly lower HRV (p = 0.024), and that owner reported aggression negatively correlated with HRV (p = 0.009). Dogs with a history of biting show poorer autonomic regulation as evidenced by their lower HRV. Knowing this information can help us to target dogs that may be at risk for biting and to devise and test treatments for dogs to improve behavioral and autonomic regulation.
+  </article>
   <article id="sdg-article-6VNRSVPC" class="sdg-article">
     <h1>Sustainable Development Goals</h1>
     <div class="sdg-container"><div id="sdg1" class="sdg">

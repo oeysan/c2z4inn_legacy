@@ -1,5 +1,5 @@
 ---
-title: "KTKZP7UD"
+title: "Plasma-Treated Nitrogen-Enriched Manure Does Not Impose Adverse Effects on Soil Fauna Feeding Activity or Springtails and Earthworms Abundance"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KTKZP7UD" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2056366" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KTKZP7UD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KTKZP7UD" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-KTKZP7UD" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-KTKZP7UD" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/2073-4395/12/10/2314/pdf?version=1664531359" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-KTKZP7UD"></div>
 </article>
 <div id="csl-bib-meta-KTKZP7UD" class="csl-bib-meta">
+  <article id="abstract-article-KTKZP7UD" class="abstract-article">
+    <h1>Abstract</h1>
+    Plasma treatment of animal manure is a new technology, enriching the manure with plant-available nitrogen. Therefore, the product is termed nitrogen-enriched organic fertilizer (NEO). The producer (N2 Applied) claims that NEO can be a sustainable alternative to conventional fertilizers used in agriculture. However, the effect of this product on soil-dwelling organisms is unknown. This study investigates and compares the effects of NEO on changes in soil fauna feeding activity, the abundance of springtails, and the abundance and weight of earthworms to mineral fertilizer, organic fertilizer (cattle slurry), and no fertilizer in pot and field experiments with sandy clay loam soil. Early effect evaluation (week 7) indicated influences on soil fauna feeding activity; among treatments, higher amounts of fertilizers went along with lower feeding activity, regardless of fertilizer type. However, the initial fertilizer application stimulation was transient and stabilized with time after fertilization towards mid-term (week 14) and late effect evaluations (week 21). Accordingly, differences between feeding activities were less than five percent at late effect evaluation. Similarly, none of the fertilizers used imposed adverse effects on the abundance of springtails and the abundance and weight of earthworms; these parameters were almost identical among all fertilizing treatments. After two years of application in field trials and in a pot experiment, NEO and the other used fertilizers seem not to harm the selected soil-dwelling organisms.
+  </article>
   <article id="contributors-article-KTKZP7UD" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

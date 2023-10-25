@@ -1,5 +1,5 @@
 ---
-title: "JJRCJDIB"
+title: "Consequence evaluations and moral concerns about climate change: insights from nationally representative surveys across four European countries"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JJRCJDIB" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1619412" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JJRCJDIB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JJRCJDIB" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/13669877.2018.1473468" class="csl-bib-button">EZproxy</a>
   </div>

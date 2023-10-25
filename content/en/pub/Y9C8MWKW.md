@@ -1,5 +1,5 @@
 ---
-title: "Y9C8MWKW"
+title: "Case Report: Subclinical Verminous Pneumonia and High Ambient Temperatures Had Severe Impact on the Anesthesia of Semi-domesticated Eurasian Tundra Reindeer (Rangifer tarandus tarandus) With Medetomidine–Ketamine"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Y9C8MWKW" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1901651" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/Y9C8MWKW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-Y9C8MWKW" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-Y9C8MWKW" class="csl-bib-button">Contributors</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fvets.2021.606323/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-Y9C8MWKW"></div>
 </article>
 <div id="csl-bib-meta-Y9C8MWKW" class="csl-bib-meta">
+  <article id="abstract-article-Y9C8MWKW" class="abstract-article">
+    <h1>Abstract</h1>
+    Semidomesticated Eurasian tundra reindeer ( Rangifer tarandus tarandus, n = 21) were scheduled twice for chemical immobilization with medetomidine–ketamine as part of a scientific experiment in June 2014. During the first round of immobilizations, seven animals developed severe respiratory depression (RD). Three individuals died, and 4 recovered. The ambient temperature during the 2 days of immobilization (June 3 and 4) was high (mean 13.9–17.6°C) compared to the normal mean temperature for these 2 days (7–8°C) based on statistical records. During the second round of immobilizations, using the same anesthetic protocol for the remaining animals as in the first round but conducted under cooler conditions (mean 6.6°C for the period June 9–18), no signs of RD were observed. Clinical and pathological investigations indicated that the animals suffered from circulatory changes possibly caused by high ambient temperatures and granulomatous interstitial pneumonia due to Elaphostrongylus rangiferi larvae. These conditions, together with the cardiovascular effects of medetomidine, were likely causes of RD and the fatal outcome. We conclude that chemical immobilization of reindeer with medetomidine–ketamine should be avoided in May–June due to the potential risk when animals partly in winter coats encounter rising ambient temperatures and usually have parasites developing in their airways.
+  </article>
   <article id="contributors-article-Y9C8MWKW" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

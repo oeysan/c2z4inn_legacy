@@ -1,5 +1,5 @@
 ---
-title: "3FEKIFJE"
+title: "Movement and heart rate in the Scandinavian brown bear (Ursus arctos)"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3FEKIFJE" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1728631" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/3FEKIFJE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-3FEKIFJE" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-3FEKIFJE" class="csl-bib-button">Medverkande</a>
     <a href="https://doi.org/10.1186/s40317-019-0181-7" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3FEKIFJE"></div>
 </article>
 <div id="csl-bib-meta-3FEKIFJE" class="csl-bib-meta">
+  <article id="abstract-article-3FEKIFJE" class="abstract-article">
+    <h1>Samandrag</h1>
+    BackgroundUnderstanding animal movement facilitates better management and conservation. The link between movement and physiology holds clues to the basic drivers of animal behaviours. In bears, heart rate increases with the metabolic rate during the active phase. Their movement and heart rate change at seasonal and daily scales, and can also depend on environmental factors. Their behaviour is, therefore, flexible in activity patterns with high individual variations. The aim of this study was to establish the relationship between heart rate and distance travelled, and test whether this relationship was influenced by environmental (e.g., time of year and time of day) and biological (e.g., reproductive status, sex, body mass and age of the bears) factors. We analysed data of distance travelled and heart rate of 15 GPS-collared brown bears, both males and females, equipped with cardiac loggers in the south of Sweden in 2014–2017. ResultsHeart rate increased with distances travelled exceeding 50 m in an hour, but this correlation depended on the day-of-year with higher heart rate in August than in May. Bears accompanied by cubs had lower heart rate than solitary bears especially in May. When movement was minimum (&lt; 50 m in an hour), heart rate was not related to distance travelled and was very variable, regardless of the months. ConclusionsOur findings suggest that heart rate increases with long distances travelled, but varies with day-of-year and reproductive status, depending on the metabolic rate. Studying the change in heart rate in bears can help to evaluate their seasonal rhythms and how different factors affect them. This study illustrates the usefulness of combined bio-logging proxies, i.e., movement and heart rates in our case, in animal ecology.
+  </article>
   <article id="contributors-article-3FEKIFJE" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

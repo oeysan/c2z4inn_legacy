@@ -1,5 +1,5 @@
 ---
-title: "EYGT58ZD"
+title: "Keeping it country while dancing with the elite"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EYGT58ZD" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1736751" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/EYGT58ZD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EYGT58ZD" class="csl-bib-button">Medverkande</a>
     <a href="https://iaspmjournal.net/index.php/IASPM_Journal/article/download/930/pdf" class="csl-bib-button">Unpaywall</a>
   </div>

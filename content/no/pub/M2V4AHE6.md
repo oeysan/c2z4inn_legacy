@@ -1,5 +1,5 @@
 ---
-title: "M2V4AHE6"
+title: "Vocalic Intrusions in Consonant Clusters in Child-Directed vs. Adult-Directed Speech"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-M2V4AHE6" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1922060" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/M2V4AHE6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-M2V4AHE6" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-M2V4AHE6" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-M2V4AHE6" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.688002/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-M2V4AHE6"></div>
 </article>
 <div id="csl-bib-meta-M2V4AHE6" class="csl-bib-meta">
+  <article id="abstract-article-M2V4AHE6" class="abstract-article">
+    <h1>Samandrag</h1>
+    In this paper, we investigate a prosodic-phonetic feature in child-directed speech within a dynamic, complex, interactive theoretical framework. We focus on vocalic intrusions, commonly occurring in Norwegian word initial consonant clusters. We analysed child-directed speech from nine Norwegian-speaking mothers to their children, aged 2;6, 4, and 6 years, and compared the incidence and duration of vocalic intrusions in initial consonant clusters in these data with those in adult-directed speech and child speech. When viewed overall, vocalic intrusion was found to be similar in incidence in child- and adult-directed speech. However, closer examination revealed differential behaviour in child-directed speech for certain conditions. Firstly, a difference emerged for one particular phonetic context: While vocalic intrusions in /Cr/ clusters are frequent in adult-directed speech, their presence is near-categorical in child-directed speech. Secondly, we found that the duration of vocalic intrusions was longer in child- than in adult-directed speech, but only when directed to 2;6-year-olds. We argue that vocalic intrusions in child-directed speech may have both a bonding as well as a didactic function, and that these may vary according to the age of the child being addressed.
+  </article>
   <article id="contributors-article-M2V4AHE6" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

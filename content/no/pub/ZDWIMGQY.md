@@ -1,5 +1,5 @@
 ---
-title: "ZDWIMGQY"
+title: "Nytt skjema er egnet til å vurdere praktiske studier i sykepleie"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,27 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZDWIMGQY" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1643120" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZDWIMGQY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ZDWIMGQY" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-ZDWIMGQY" class="csl-bib-button">Medverkande</a>
     <a href="https://www.regjeringen.no/contentassets/b27a1ef056e64f9d85e3a93460710ac4/no/pdfa/nou200020000014000dddpdfa.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ZDWIMGQY"></div>
 </article>
 <div id="csl-bib-meta-ZDWIMGQY" class="csl-bib-meta">
+  <article id="abstract-article-ZDWIMGQY" class="abstract-article">
+    <h1>Samandrag</h1>
+    Bakgrunn: Forskning viser at det både nasjonalt og internasjonalt er en vanskelig oppgave å vurdere studentenes læring i praktiske studier i sykepleie. Bologna-deklarasjonen har medført store konsekvenser for læring og undervisning og vurdering av studentenes læring. Det er forsket mye på problemer rundt vurdering i praktiske studier, men det etterlyses prosesser som videreutvikler vurderingskriterier som er relevante, håndterbare og robuste nok til å skille mellom studentenes kompetansenivå. 
+ 
+Hensikt: Hensikten med denne studien er å evaluere hva studenter og veiledere mener om et nytt vurderingsskjema for praktiske studier i sykepleie, basert på prinsipper for AssCE-skjemaet (Assessment for Clinical Education). 
+ 
+Metode: Studien har et deskriptivt surveydesign basert på data fra et spørreskjema til 158 studenter og 18 veiledere ved fire sykehus i Norge. Spørreskjemaet besto av åtte Likert-skalerte holdningsutsagn og fire spørsmål. Dette formularet har tatt utgangspunkt i spørreskjemaet som Löfmark og Thorell-Ekstrand anvendte da de evaluerte AssCE-skjemaet (1). 
+ 
+Resultat: Resultatet baseres på svar fra 129 studenter og 18 veiledere. Vi synliggjør en positiv respons i form av høy gjennomsnittlig skår på samtlige påstandsbaserte utsagn, både fra studentene (laveste gjennomsnittlige skår 3,6, høyeste 4,3, der maks var 5,0) og veilederne (laveste gjennomsnittlige skår 4, høyeste 4,7, der maks var 5,0). Resultat viser en positiv respons fra studentene og veilederne deres når det gjelder utsagn om læringsutbyttebeskrivelser, vurderingsskjemaet, progresjon og hvor instruktiv og dekkende informasjonen om skjemaet var. 
+ 
+Konklusjon: Hovedfunnene i studien er at studenter og deres veiledere i praksis har sammenfallende positiv oppfatning av det nye vurderingsskjemaet, og at det oppfattes som et godt verktøy i vurderingsprosessen. Det nye vurderingsskjemaet kan dermed være et viktig bidrag for å kvalitetssikre arbeidet med å vurdere praktiske studier i sykepleie gjennom en tydeliggjøring av kriterier for måloppnåelse. Tydelige kriterier for hva studenten forventes å oppnå for å bestå praksisperioden, kan bidra til å synliggjøre at studenter ikke har oppnådd forventet læringsutbytte, noe som er et problemområde i vurderingen av praktiske studier.
+  </article>
   <article id="contributors-article-ZDWIMGQY" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

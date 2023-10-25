@@ -1,5 +1,5 @@
 ---
-title: "WWJ8NL4R"
+title: "Sprint Interval Running and Continuous Running Produce Training Specific Adaptations, Despite a Similar Improvement of Aerobic Endurance Capacity—A Randomized Trial of Healthy Adults"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WWJ8NL4R" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1813273" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WWJ8NL4R" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WWJ8NL4R" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-WWJ8NL4R" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-WWJ8NL4R" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.mdpi.com/1660-4601/17/11/3865/pdf?version=1590754039" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-WWJ8NL4R"></div>
 </article>
 <div id="csl-bib-meta-WWJ8NL4R" class="csl-bib-meta">
+  <article id="abstract-article-WWJ8NL4R" class="abstract-article">
+    <h1>Samandrag</h1>
+    The purpose of the present study was to investigate training-specific adaptations to eight weeks of moderate intensity continuous training (CT) and sprint interval training (SIT). Young healthy subjects (n = 25; 9 males and 16 females) performed either continuous training (30–60 min, 70–80% peak heart rate) or sprint interval training (5–10 near maximal 30 s sprints, 3 min recovery) three times per week for eight weeks. Maximal oxygen consumption, 20 m shuttle run test and 5·60 m sprint test were performed before and after the intervention. Furthermore, heart rate, oxygen pulse, respiratory exchange ratio, lactate and running economy were assessed at five submaximal intensities, before and after the training interventions. Maximal oxygen uptake increased after CT (before: 47.9 ± 1.5; after: 49.7 ± 1.5 mL·kg−1·min−1, p &lt; 0.05) and SIT (before: 50.5 ± 1.6; after: 53.3 ± 1.5 mL·kg−1·min−1, p &lt; 0.01), with no statistically significant differences between groups. Both groups increased 20 m shuttle run performance and 60 m sprint performance, but SIT performed better than CT at the 4th and 5th 60 m sprint after the intervention (p &lt; 0.05). At submaximal intensities, CT, but not SIT, reduced heart rate (p &lt; 0.05), whereas lactate decreased in both groups. In conclusion, both groups demonstrated similar improvements of several performance measures including VO2max, but sprint performance was better after SIT, and CT caused training-specific adaptations at submaximal intensities.
+  </article>
   <article id="contributors-article-WWJ8NL4R" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

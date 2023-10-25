@@ -1,5 +1,5 @@
 ---
-title: "UDHH8YWX"
+title: "Spatial analysis of carbon emission effect of financial development in Africa: The role of energy and socioeconomic factors"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UDHH8YWX" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2177802" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/UDHH8YWX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-UDHH8YWX" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-UDHH8YWX" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-UDHH8YWX" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/0958305X231188101" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-UDHH8YWX"></div>
 </article>
 <div id="csl-bib-meta-UDHH8YWX" class="csl-bib-meta">
+  <article id="abstract-article-UDHH8YWX" class="abstract-article">
+    <h1>Samandrag</h1>
+    The need to mitigate global warming has led policymakers and other stakeholders to see further understanding of the driving forces behind CO 2 emissions. Financial development has been identified among the most influential factors. However, its importance has not been well explored in developing countries, especially in Africa. Several studies have explored the CO 2 emissions-effects of financial development in Africa but focused on the temporal aspect and overlooked the spatial dependence which has the potential to influence the estimated marginal effects. In so doing, they consider each country as an island which tends to suggest that there are no spatial spillover effects that could originate from countries’ proximity. In this study, such an inaccurate assumption is relaxed by deploying a spatial Durbin model to explore the spatial dependence in the financial development-CO 2 emissions nexus for 52 African countries between 1995 and 2017. Our results reveal a significant positive direct effect (0.020) on financial development in a given country and a significant positive indirect effect (0.074). Thus, our estimated marginal effects show a positive and significant total effect (0.095), indicating that a 1% increase in financial development will result in a net increase of CO 2 emissions of about 0.095%. This finding implies that financial development contributes negatively to the surge of CO 2 emissions in Africa. While the environmental Kuznets curve hypothesis is validated in the continent, renewable energy utilization is found to posit significant environmental effects. This finding is crucial to policymakers as it stands as a reminder about the role of the neighbourhood in designing and implementing environmentally friendly policies that aim at reducing pollution in Africa.
+  </article>
   <article id="contributors-article-UDHH8YWX" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

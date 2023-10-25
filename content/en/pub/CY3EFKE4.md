@@ -1,5 +1,5 @@
 ---
-title: "CY3EFKE4"
+title: "Is Rating of Perceived Exertion a Valuable Tool for Monitoring Exercise Intensity During Steady-State Conditions in Elite Endurance Athletes?"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CY3EFKE4" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1930336" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/CY3EFKE4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-CY3EFKE4" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-CY3EFKE4" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-CY3EFKE4" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1123/ijspp.2020-0866" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-CY3EFKE4"></div>
 </article>
 <div id="csl-bib-meta-CY3EFKE4" class="csl-bib-meta">
+  <article id="abstract-article-CY3EFKE4" class="abstract-article">
+    <h1>Abstract</h1>
+    Purpose: Rating of perceived exertion (RPE) is a widely used tool to assess subjective perception of effort during exercise. The authors investigated between-subject variation and effect of exercise mode and sex on Borg RPE (6–20) in relation to heart rate (HR), oxygen uptake (VO2), and capillary blood lactate concentrations. Methods: A total of 160 elite endurance athletes performed a submaximal and maximal test protocol either during cycling (n = 84, 37 women) or running (n = 76, 32 women). The submaximal test consisted of 4 to 7 progressive 5-minute steps within ∼50% to 85% of maximal VO2. For each step, steady-state HR, VO2, and capillary blood lactate concentrations were assessed and RPE reported. An incremental protocol to exhaustion was used to determine maximal VO2 and peak HR to provide relative (%) HR and VO2 values at submaximal work rates. Results: A strong relationship was found between RPE and %HR, %VO2, and capillary blood lactate concentrations (r = .80–.82, all Ps &lt; .05). The between-subject coefficient of variation (SD/mean) for %HR and %VO2 decreased linearly with increased RPE, from ∼10% to 15% at RPE 8 to ∼5% at RPE 17. Compared with cycling, running induced a systematically higher %HR and %VO2 (∼2% and 5%, respectively, P &lt; .05) with these differences being greater at lower intensities (RPE &lt; 13). At the same RPE, women showed a trivial, but significantly higher %HR and %VO2 than men (&lt;1%, P &lt; .05). Conclusions: Among elite endurance athletes, exercise mode influenced RPE at a given %HR and %VO2, with greater differences at lower exercise intensities. Athletes should manage different tools to evaluate training based on intensity and duration of workouts.
+  </article>
   <article id="contributors-article-CY3EFKE4" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

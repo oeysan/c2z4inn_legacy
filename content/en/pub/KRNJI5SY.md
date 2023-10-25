@@ -1,5 +1,5 @@
 ---
-title: "KRNJI5SY"
+title: "Mellom administrasjon og faglig-pedagogisk arbeid – rektorrollen i reformtid i Norge"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,13 +9,41 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KRNJI5SY" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2086339" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KRNJI5SY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KRNJI5SY" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-KRNJI5SY" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-KRNJI5SY"></div>
 </article>
 <div id="csl-bib-meta-KRNJI5SY" class="csl-bib-meta">
+  <article id="abstract-article-KRNJI5SY" class="abstract-article">
+    <h1>Abstract</h1>
+    I denne artikkelen tematiserer vi en velkjent problemstilling 
+som mange rektorer opplever i arbeidet 
+sitt: hvordan finne balansen mellom det 
+administrative og faglig-pedagogiske arbeidet? 
+Vi ser nærmere på utviklingen av balansen mellom 
+rektorers administrative og faglig-pedagogiske 
+arbeid i det som kan beskrives som en 
+intens reformtid i Norge. Ved hjelp av begrepene 
+strukturell og kunnskapsmessig avgrensning av 
+profesjonelt skjønn analyseres denne balansen 
+gjennom eksempler fra tidligere forskning og dokumentstudier 
+av forskningspublikasjoner. Studien 
+viser hvordan administrativt og faglig-pedagogisk 
+arbeid forstås ulikt over de siste 20 år. 
+Vi diskuterer hvordan slike variasjoner over tid 
+handler om kjennetegn ved reformene i samme 
+tidsrom, og hvordan rektorers administrative og 
+faglig-pedagogiske arbeid best kan forstås som 
+et samspill. En implikasjon av studien for skoleledere 
+og for forskere er at forståelser av hva 
+som er henholdsvis administrativt og faglig-pedagogisk 
+arbeid endres med skolelederes oppgaver 
+og ansvar over tid og må ses i relasjon til 
+reformers fokus og innhold.
+  </article>
   <article id="contributors-article-KRNJI5SY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

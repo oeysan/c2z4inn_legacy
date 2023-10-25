@@ -1,5 +1,5 @@
 ---
-title: "E5DM6BZU"
+title: "Leveraging sporting events to create sport participation: a case study of the 2016 Youth Olympic Games"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E5DM6BZU" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1931644" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/E5DM6BZU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-E5DM6BZU" class="csl-bib-button">Contributors</a>
     <a href="https://doi.org/10.1080/19406940.2021.1891946" class="csl-bib-button">Unpaywall</a>
   </div>

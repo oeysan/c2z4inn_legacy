@@ -1,5 +1,5 @@
 ---
-title: "DZ4Y3XFQ"
+title: "Investigating cow−calf contact in cow-driven systems: behaviour of the dairy cow and calf"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DZ4Y3XFQ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1897190" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DZ4Y3XFQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-DZ4Y3XFQ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-DZ4Y3XFQ" class="csl-bib-button">Medverkande</a>
     <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/717C1AF9BC6DF6928D62CC716F3220B0/S0022029921000194a.pdf/div-class-title-investigating-cow-calf-contact-in-cow-driven-systems-behaviour-of-the-dairy-cow-and-calf-div.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-DZ4Y3XFQ"></div>
 </article>
 <div id="csl-bib-meta-DZ4Y3XFQ" class="csl-bib-meta">
+  <article id="abstract-article-DZ4Y3XFQ" class="abstract-article">
+    <h1>Samandrag</h1>
+    Research is needed on how technology can facilitate cow−calf contact (CCC). This research communication describes the behaviour of dairy cow−calf pairs in two cow-driven CCC-systems differing in cows' access to the calves through computer-controlled access gates (smart gates, SG). Specifically, cow traffic through SG when visiting their calves, allogrooming, suckling and cross-suckling, cows' eating and resting behaviour and finally vocal response to separation were assessed. After 3 d in an individual calving pen, pairs ( n = 8) were moved to the CCC compartment with a cow area, a calf creep and a meeting area. During the next 31 d calves could suckle the cows whenever they visited the meeting area (suckling phase). Cows had free (group 1, n = 4 pairs) or restricted access to the calves based on previous activity in the automatic milking system (group 2, n = 4 pairs). SG's controlled cow traffic between the meeting area and the cow area, in which the cows could access resources such as feed, cubicles, and the automatic milking system. Following the suckling phase cow access into the meeting area was gradually decreased over 9 d (separation phase). During the suckling phase, cows paid frequent and short visits to their calves. Pairs spent in total approximately one h/d suckling and allogrooming. However, the duration and frequencies of these events varied among pairs and groups, as did the vocal response to separation. Restricted access − cows performed more (unrewarded) attempts to visit the calves who cross-suckled more. Collectively, free access to the calves may have been more intuitive and welfare friendly. Although a low sample size limits interpretation beyond description and enabling hypothesis formulation for future research, the results indicate that the cow is motivated to visit her calf, albeit through a SG, thus facilitating particular behaviours for which cow-calf pairs are highly motivated.
+  </article>
   <article id="contributors-article-DZ4Y3XFQ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

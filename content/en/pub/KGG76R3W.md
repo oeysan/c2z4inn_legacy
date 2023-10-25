@@ -1,5 +1,5 @@
 ---
-title: "KGG76R3W"
+title: "Genomic consequences of intensive inbreeding in an isolated wolf population"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KGG76R3W" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1535373" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KGG76R3W" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KGG76R3W" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-KGG76R3W" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-KGG76R3W" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1038/s41559-017-0375-4" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-KGG76R3W"></div>
 </article>
 <div id="csl-bib-meta-KGG76R3W" class="csl-bib-meta">
+  <article id="abstract-article-KGG76R3W" class="abstract-article">
+    <h1>Abstract</h1>
+    Inbreeding (mating between relatives) is a major concern for conservation as it decreases the fitness of offspring and can increase the extinction risk of populations. While pedigrees have traditionally been used to measure individual inbreeding, molecular markers have opened up new avenues to characterize inbreeding. However, a limitation has been that small numbers of markers can only roughly measure the proportion of an individual’s genome that is identical-by-descent (IBD) due to inbreeding. We used whole-genome resequencing of 97 grey wolves (Canis lupus) from the highly inbred Scandinavian wolf population, originally founded by only two individuals, to identify IBD chromosome segments as runs of homozygosity (ROH). This gave the very high resolution required to precisely measure the realized IBD fraction of the genome as FROH. We found a striking pattern of complete or near-complete homozygosity of entire chromosomes in many individuals. The majority of individual IBD was contributed by long IBD segments (&gt;5cM) originating from common ancestors of parents within the last ~10 generations. However, although most IBD segments were very short (&lt;0.02 cM) and originate from ancestors in deep history, they contributed little to the total amount of individual IBD. Individual inbreeding estimated with an extensive pedigree (FP) was strongly correlated with realized inbreeding measured with the entire genome (r2 = 0.86). However, inbreeding measured with the whole genome was more strongly correlated with multi-locus heterozygosity estimated with as few as 500 SNPs, and with FROH estimated with as few as 10,000 SNPs, than with FP. Some immigrants were inbred, and two substantially so and also related,, which is counter to the assumptions of unrelated and non-inbred founders and immigrants in pedigree analysis of inbreeding. These results document in unique detail the genomic consequences of intensive inbreeding in a population of conservation concern.
+  </article>
   <article id="contributors-article-KGG76R3W" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

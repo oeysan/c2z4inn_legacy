@@ -1,5 +1,5 @@
 ---
-title: "WLGPCNCM"
+title: "Perceived Trust in Public Authorities Nine Months after the COVID-19 Outbreak: A Cross-National Study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WLGPCNCM" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1934374" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WLGPCNCM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WLGPCNCM" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-WLGPCNCM" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-WLGPCNCM" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/2076-0760/10/9/349/pdf?version=1631968198" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-WLGPCNCM"></div>
 </article>
 <div id="csl-bib-meta-WLGPCNCM" class="csl-bib-meta">
+  <article id="abstract-article-WLGPCNCM" class="abstract-article">
+    <h1>Abstract</h1>
+    This study aimed to examine the perceived trust in information provided by public authorities and financial measures put in place to address the impact of COVID-19. Using a cross-national approach among four Western countries—the United States of America, Norway, Australia, and the United Kingdom—provides an analysis of responses related to trust and how they were associated with age group, gender, education level, employment status, size of place of residence, infection status, and social media use. When controlling for all included variables in logistic regression analyses, the likelihood of having trust in the public authorities’ information was higher for women, those with higher levels of education, and those living in urban areas. Being infected with the coronavirus, and spending more time daily on social media, were both associated with lower likelihood of reporting trust in information. Although policies implemented to respond to economic concerns varied cross-nationally, higher age, identifying as female, being employed, living in a city, no COVID-19 infection experience and lower levels of social media usage were associated with a higher likelihood of trusting in the financial measures put in place to counteract the economic effects of COVID-19.
+  </article>
   <article id="contributors-article-WLGPCNCM" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

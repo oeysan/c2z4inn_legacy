@@ -1,5 +1,5 @@
 ---
-title: "2PEKV82M"
+title: "Occurrence, chronicity and intensity of itch in a clinical consecutive sample of patients with skin diseases: A multi-centre study in 13 european countries"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2PEKV82M" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1697358" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/2PEKV82M" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-2PEKV82M" class="csl-bib-button">Contributors</a>
     <a href="https://www.medicaljournals.se/acta/download/10.2340/00015555-3040/" class="csl-bib-button">Unpaywall</a>
   </div>

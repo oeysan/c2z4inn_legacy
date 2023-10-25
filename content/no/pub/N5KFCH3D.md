@@ -1,5 +1,5 @@
 ---
-title: "N5KFCH3D"
+title: "Producing global awareness? An analysis of Norwegian pupils’ negotiations of images in a museum exhibition"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-N5KFCH3D" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1813030" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/N5KFCH3D" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-N5KFCH3D" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/00291951.2020.1765860" class="csl-bib-button">EZproxy</a>
   </div>

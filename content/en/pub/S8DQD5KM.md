@@ -1,5 +1,5 @@
 ---
-title: "S8DQD5KM"
+title: "Social inclusion of refugees is more than granting access to a university: a brief message to academic leaders in host countries"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-S8DQD5KM" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2122950" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/S8DQD5KM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-S8DQD5KM" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/13603108.2023.2167017" class="csl-bib-button">EZproxy</a>
   </div>

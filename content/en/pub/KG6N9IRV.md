@@ -1,5 +1,5 @@
 ---
-title: "KG6N9IRV"
+title: "The Changing Room in Physical Education as Cross Roads Between Fields and Curricula: The Experiences of Norwegian Students"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KG6N9IRV" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1646497" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KG6N9IRV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KG6N9IRV" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-KG6N9IRV" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-KG6N9IRV" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/2158244018818926" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-KG6N9IRV"></div>
 </article>
 <div id="csl-bib-meta-KG6N9IRV" class="csl-bib-meta">
+  <article id="abstract-article-KG6N9IRV" class="abstract-article">
+    <h1>Abstract</h1>
+    With a survey of physical education (PE) among a national representative sample of fifth to tenth grade students (N = 3,226) in Norway, we investigated how students experience the changing room situation in relation to PE classes. Most students find the changing room situation unproblematic, while some report problems. A majority (59.6%) of the students disagreed with the statement “I experience that an adult is looking after us when we change/shower.” It seems PE teachers, especially the male teachers, consider the lesson finished when students move from the gym into the changing room. We question whether we can learn from earlier formal curricula in Norway on how changing room activity was more adequately implemented in accordance with the sociopolitical aspects relevant at the time. Today, these are about Bildung, mentioned in both the general part of the curriculum and the PE curriculum. However, the lack of clarity makes the changing room a contested field, open for struggles of hegemony within fields.
+  </article>
   <article id="contributors-article-KG6N9IRV" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

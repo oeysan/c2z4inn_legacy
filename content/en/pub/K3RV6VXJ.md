@@ -1,5 +1,5 @@
 ---
-title: "K3RV6VXJ"
+title: "It is just that people treat you like a human being: The meaning of dignity for patients with substance use disorders"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-K3RV6VXJ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1788088" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/K3RV6VXJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-K3RV6VXJ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-K3RV6VXJ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-K3RV6VXJ" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jocn.15108" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,26 @@ type: pub
   <div id="csl-bib-meta-container-K3RV6VXJ"></div>
 </article>
 <div id="csl-bib-meta-K3RV6VXJ" class="csl-bib-meta">
+  <article id="abstract-article-K3RV6VXJ" class="abstract-article">
+    <h1>Abstract</h1>
+    Introduction 
+Patients who suffer from substance use disorder (SUD) might receive services from different service providers in an opioid maintenance treatment programme (OMT) and have a widespread and complex need for nursing. 
+ 
+Background 
+Literature reveals that prejudices against people with SUD exist. There is a lack of studies exploring patients with SUD experiences of preserving their dignity in the encounter with healthcare staff. The aim of the study was to gain insight into the meaning of dignity for patients with SUD. 
+ 
+Methods 
+The research design was descriptive and interpretative. In the interpretation of qualitative in‐depth interviews with six patients, a hermeneutical approach based on Gadamer (Truth and method, Sheed &amp; Ward, London, UK, 1989) was used. 
+ 
+Results 
+Analysis resulted in three mains themes about the meaning of dignity: (a) The material dimension. (b) To be respected by others. (c) The inner experience. Factors enhancing dignity in the encounters were as follows: (a) Being respected and acknowledged. (b) Being cared for. (c) Knowledge and persistent relation. Factors depriving dignity were as follows: (a) Stigma and prejudice. (b) Insufficient relations and lack of confirmation. (c) Experiencing disrespectful/patronising attitudes and lack of knowledge. 
+ 
+Conclusions 
+The material dimension of dignity containing an aesthetically aspect was important for these patients. Dignity was also experienced as strongly connected to respect. Dignity can be enhanced by treating patients with SUD with understanding and respect, and dignity can be inhibited through stigmatization of patients with SUD, as well as by caregivers’ lack of knowledge. 
+ 
+Relevance to clinical practice 
+The study clarifies a need for more knowledge about SUD among healthcare staff, as well as promotes ethical awareness in encounters with patients regardless of their background.
+  </article>
   <article id="contributors-article-K3RV6VXJ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

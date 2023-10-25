@@ -1,5 +1,5 @@
 ---
-title: "LIV26QEP"
+title: "Insights in the regulation of trimetylamine N-oxide production using a comparative biomimetic approach suggest a metabolic switch in hibernating bears"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LIV26QEP" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1875833" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LIV26QEP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-LIV26QEP" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-LIV26QEP" class="csl-bib-button">Contributors</a>
     <a href="https://www.nature.com/articles/s41598-020-76346-1.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LIV26QEP"></div>
 </article>
 <div id="csl-bib-meta-LIV26QEP" class="csl-bib-meta">
+  <article id="abstract-article-LIV26QEP" class="abstract-article">
+    <h1>Abstract</h1>
+    Experimental studies suggest involvement of trimethylamine N-oxide (TMAO) in the aetiology of cardiometabolic diseases and chronic kidney disease (CKD), in part via metabolism of ingested food. Using a comparative biomimetic approach, we have investigated circulating levels of the gut metabolites betaine, choline, and TMAO in human CKD, across animal species as well as during hibernation in two animal species. Betaine, choline, and TMAO levels were associated with renal function in humans and differed significantly across animal species. Free-ranging brown bears showed a distinct regulation pattern with an increase in betaine (422%) and choline (18%) levels during hibernation, but exhibited undetectable levels of TMAO. Free-ranging brown bears had higher betaine, lower choline, and undetectable TMAO levels compared to captive brown bears. Endogenously produced betaine may protect bears and garden dormice during the vulnerable hibernating period. Carnivorous eating habits are linked to TMAO levels in the animal kingdom. Captivity may alter the microbiota and cause a subsequent increase of TMAO production. Since free-ranging bears seems to turn on a metabolic switch that shunts choline to generate betaine instead of TMAO, characterisation and understanding of such an adaptive switch could hold clues for novel treatment options in burden of lifestyle diseases, such as CKD.
+  </article>
   <article id="contributors-article-LIV26QEP" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

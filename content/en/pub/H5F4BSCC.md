@@ -1,5 +1,5 @@
 ---
-title: "H5F4BSCC"
+title: "Novel interpretation of sperm stress test and morphology for maturity assessment of young Norwegian Red bulls"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-H5F4BSCC" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2148873" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/H5F4BSCC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-H5F4BSCC" class="csl-bib-button">Contributors</a>
     <a href="https://doi.org/10.1016/j.anireprosci.2023.107261" class="csl-bib-button">Unpaywall</a>
   </div>

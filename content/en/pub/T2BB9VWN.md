@@ -1,5 +1,5 @@
 ---
-title: "T2BB9VWN"
+title: "Conservation Gaps in Traditional Vegetables Native to Europe and Fennoscandia"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-T2BB9VWN" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1822138" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/T2BB9VWN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-T2BB9VWN" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-T2BB9VWN" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-T2BB9VWN" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/2077-0472/10/8/340/pdf?version=1597911833" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-T2BB9VWN"></div>
 </article>
 <div id="csl-bib-meta-T2BB9VWN" class="csl-bib-meta">
+  <article id="abstract-article-T2BB9VWN" class="abstract-article">
+    <h1>Abstract</h1>
+    Vegetables are rich in vitamins and other micronutrients and are important crops for healthy diets and diversification of the food system, and many traditional (also termed underutilized or indigenous) species may play a role. The current study analyzed 35 vegetables with a European region of diversity with the effort to map the conservation status in Fennoscandia and beyond. We mapped georeferenced occurrences and current genebank holdings based on global databases and conducted conservation gaps analysis based on representativeness scores in situ and ex situ. Out of the 35 target species, 19 got at a high priority score for further conservation initiatives, while another 14 species got a medium priority score. We identified a pattern where traditional vegetables are poorly represented in genebank holdings. This corresponds well to a lack of attention in the scientific community measured in number of published papers. Considering the grand challenges ahead in terms of climate change, population growth and demand for sustainability, traditional vegetables deserve greater attention. Our contribution is to provide a basis for conservation priorities among the identified vegetables species native to Fennoscandia.
+  </article>
   <article id="contributors-article-T2BB9VWN" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "I7W8XCSC"
+title: "Building a radical career imaginary: using Laclau and Mouffe and Hardt and Negri to reflexively re-read Ali and Graham’s counselling approach to career guidance"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-I7W8XCSC" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2020811" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/I7W8XCSC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-I7W8XCSC" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-I7W8XCSC" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-I7W8XCSC" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/03069885.2022.2058697?needAccess=true" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-I7W8XCSC"></div>
 </article>
 <div id="csl-bib-meta-I7W8XCSC" class="csl-bib-meta">
+  <article id="abstract-article-I7W8XCSC" class="abstract-article">
+    <h1>Samandrag</h1>
+    In this article I explore what the work of Laclau and Mouffe and Hardt and Negri has to offer career theory and models. There is value to engaging with key concepts from these political economists to inform and expand career guidance’s capability to support social justice. The argument is made that the concepts offer novel and valuable resources for the development of career theory. These concepts are applied to undertake a reflexive re-reading of Ali and Graham’s counselling approach to career guidance.
+  </article>
   <article id="contributors-article-I7W8XCSC" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

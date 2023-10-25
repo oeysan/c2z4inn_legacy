@@ -1,5 +1,5 @@
 ---
-title: "AD8USZLR"
+title: "Science, states, and salmon: Communicating through disagreement over a Cold War fault line"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AD8USZLR" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1807167" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/AD8USZLR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-AD8USZLR" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-AD8USZLR" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-AD8USZLR" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/0308518X16658160" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-AD8USZLR"></div>
 </article>
 <div id="csl-bib-meta-AD8USZLR" class="csl-bib-meta">
+  <article id="abstract-article-AD8USZLR" class="abstract-article">
+    <h1>Abstract</h1>
+    How are scientific communication and knowledge-production possible even in a politicized atmosphere pervaded by distrust and animosity? This essay takes the Soviet–Japanese Fisheries Convention of the Northwest Pacific Ocean of 1956 as a case study to consider the nature and characteristics of scientific disputes in highly politically-charged contexts outside frameworks of nation-states or international bodies. It shows that disagreements in this atmosphere were both scientific and political. What counted as evidence, reliable data, responsible resource management, and risk were contingent and deeply conditioned by geopolitics, political economies, and epistemological traditions. No purely scientific solution to the debate was possible. Methods to enable fruitful dialogue despite disagreement had to be both social and epistemic. Mathematical models of population dynamics proved particularly useful in this regard.
+  </article>
   <article id="contributors-article-AD8USZLR" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "MAIQW2GS"
+title: "Spatiotemporal Density and Ecology of Batoids (Elasmobranchii) Along a Turkish Shelf-upper Slope of the Mediterranean Sea During Years 2009–2015"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MAIQW2GS" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2023513" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/MAIQW2GS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/s41208-021-00391-4" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-MAIQW2GS"></div>

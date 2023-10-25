@@ -1,5 +1,5 @@
 ---
-title: "3ERA47YB"
+title: "Rehabilitation of the frail older adults in primary healthcare in rural areas: a scoping review protocol"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3ERA47YB" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1918554" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/3ERA47YB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-3ERA47YB" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-3ERA47YB" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-3ERA47YB" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://bmjopen.bmj.com/content/bmjopen/11/6/e048820.full.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,45 @@ type: pub
   <div id="csl-bib-meta-container-3ERA47YB"></div>
 </article>
 <div id="csl-bib-meta-3ERA47YB" class="csl-bib-meta">
+  <article id="abstract-article-3ERA47YB" class="abstract-article">
+    <h1>Samandrag</h1>
+    Introduction Frail older adults are particularly vulnerable 
+to functional decline and adverse outcomes because 
+they lack the necessary resistance and ability to cope. 
+Rehabilitation services for the frail older adults are thus 
+vital and require clarification. The aim of this review is 
+to identify and map the scope and breadth of literature 
+regarding rehabilitation of the frail older adults to develop 
+a holistic rehabilitation service in primary healthcare 
+in rural areas. The concept of rehabilitation, how 
+rehabilitation services are organised, how patients and 
+next of kin are involved in planning and evaluating services 
+during rehabilitation, as well as reported results will be 
+identified and mapped. 
+Methods and analysis This scoping review will be 
+conducted based on the methodology developed by 
+Arksey and O’Malley. The search strategy will aim to 
+locate both published and unpublished studies in relevant 
+databases. Key information sources include CINAHL, 
+MEDLINE, Embase, ProQuest and Google Scholar. Data 
+will be extracted from papers that all three reviewers 
+have chosen to include in the review. All three reviewers 
+will participate in screening, assessment and selection of 
+studies against the inclusion criteria for the review and 
+work in teams of two. The full text of selected citations 
+will be assessed in detail against the inclusion criteria 
+by the same teams. Data will be extracted from papers 
+included in the scoping review by two of the reviewers. 
+Modifications will be detailed in the full review report. Any 
+disagreements that arise between two reviewers will be 
+resolved through discussion or with the third reviewer’s 
+mediation. A narrative summary of the findings will be 
+presented accompanied by tables that reflect the objective 
+of the review. 
+Ethics and dissemination Data will be obtained only 
+from already publicly available materials. Special ethical 
+approval is, therefore, not required.
+  </article>
   <article id="contributors-article-3ERA47YB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

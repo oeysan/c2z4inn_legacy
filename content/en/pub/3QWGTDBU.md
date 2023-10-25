@@ -1,5 +1,5 @@
 ---
-title: "3QWGTDBU"
+title: "Paradigmekrig – den omstridde kombinasjonsforskinga"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3QWGTDBU" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2044864" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/3QWGTDBU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-3QWGTDBU" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-3QWGTDBU" class="csl-bib-button">Contributors</a>
     <a href="https://oa.fagbokforlaget.no/index.php/vboa/catalog/download/20/28/280" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3QWGTDBU"></div>
 </article>
 <div id="csl-bib-meta-3QWGTDBU" class="csl-bib-meta">
+  <article id="abstract-article-3QWGTDBU" class="abstract-article">
+    <h1>Abstract</h1>
+    Ved slutten av det førre milleniet, og i kjølvatnet av det noverande, har kombinasjonsforsking (av engelsk mixed research) fått ei auka oppslutning innan pedagogisk forsking. Parallelt med denne prosessen har det vore ein pågåande diskusjon kring både praktiske og vitskapsteoretiske utfordringar knytt til bruken av ei slik tilnærming. Medan enkelte hevdar at kombinasjonsforsking er utenkjeleg, at ulike metodar og vitskapsteoretiske ståstadar ikkje kan foreinast, er det andre som meiner at det kan vere starten for eit nytt vitskapeleg paradigme. Dette kapittelet ser nærare på kva som ligg til grunn for desse syna, og tar utgangspunkt i problemstillinga, kva karakteriserer kombinasjonsforsking, og i kva grad kan tilnærminga seiast å vere eit paradigme i pedagogisk forsking? For å kunne svare på spørsmålet lyt ein avklare paradigmeomgrepet. Dertil vil det vere naudsynt å presentere eit vitskapsteoretisk oversyn av tilhøvet mellom den kontinentale og den britisk-amerikanske pedagogikken, mellom dei tonegivande og polariserande retningane ein gjerne omtalar som konstruktivisme og positivisme og dertil kvalitativ og kvantitativ forsking. Teksten posisjonerer seg innan det ein omtalar som dialektisk pluralisme, og formålet er såleis å presentere eit alternativ til pragmatismen som har vore det rådande forskingsparadigmet assosiert med kombinasjonsforsking.
+  </article>
   <article id="contributors-article-3QWGTDBU" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

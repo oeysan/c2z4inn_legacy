@@ -1,5 +1,5 @@
 ---
-title: "DAPQERKA"
+title: "The receiving end: Namibian educators’ perceptions of international student exchange from the Global North"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DAPQERKA" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1818208" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DAPQERKA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-DAPQERKA" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-DAPQERKA" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-DAPQERKA" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.scienceopen.com/document_file/a426757d-77ce-490a-a588-af4bd7e4f544/ScienceOpen/ijdegl12010004.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-DAPQERKA"></div>
 </article>
 <div id="csl-bib-meta-DAPQERKA" class="csl-bib-meta">
+  <article id="abstract-article-DAPQERKA" class="abstract-article">
+    <h1>Samandrag</h1>
+    This article explores Namibian cooperating partners’ perceptions of receiving pre-service teachers on international practicums. The article focuses on what they perceive as the main benefits and challenges of receiving the pre-service teachers and the potential for developing intercultural competence and global awareness through such arrangements. The Namibian partners were mostly positive about the Norwegian pre-service teachers, although there were also challenges related to differences in cultural and educational backgrounds. The findings are discussed in light of postcolonial theory. The article concludes that a stronger focus on the school and its place in the local community may make the travelling pre-service teachers more capable of understanding the local realities, and thus open to more nuanced dialogue and learning.
+  </article>
   <article id="contributors-article-DAPQERKA" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

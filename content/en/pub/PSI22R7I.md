@@ -1,5 +1,5 @@
 ---
-title: "PSI22R7I"
+title: "No decline in ungulate prey for tigers in Bardia National Park in Nepal: comments on van Lunenburg et al. (2017) and Kral et al. (2017)"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PSI22R7I" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1702400" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PSI22R7I" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PSI22R7I" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/03949370.2019.1609094" class="csl-bib-button">EZproxy</a>
   </div>

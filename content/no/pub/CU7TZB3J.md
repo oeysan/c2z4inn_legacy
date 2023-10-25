@@ -1,5 +1,5 @@
 ---
-title: "CU7TZB3J"
+title: "Expanding arenas for learning hunting ethics, their grammars and dilemmas: An examination of young hunters’ enculturation into modern hunting"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CU7TZB3J" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2044983" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/CU7TZB3J" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-CU7TZB3J" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-CU7TZB3J" class="csl-bib-button">Medverkande</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/soru.12371" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-CU7TZB3J"></div>
 </article>
 <div id="csl-bib-meta-CU7TZB3J" class="csl-bib-meta">
+  <article id="abstract-article-CU7TZB3J" class="abstract-article">
+    <h1>Samandrag</h1>
+    Although hunting is declining in western countries, the number of people taking the hunting exam in Sweden are stable, and new demographic groups are becoming hunters. Through interviews done in Sweden with both new and experienced hunters, as well as focus groups with young hunters at agricultural colleges, we investigate how they navigate praxis and ethical frameworks taught in hunting. Using theories on moral learning, as well as Walzer's thick and thin moral argument, we contrast the views of these young hunters with the ethical principles outlined in the educational literature for the hunting exam. We then present how young hunters reasoned around issues regarding hunting ethics, animal welfare and the place of hunting in modern society, both inside and outside the classroom. The young hunters we spoke to acted as moderators of modern trends in hunting, often bringing ‘destabilising’ influences like social media and female hunters. Young hunters are enculturated into traditional hunting structures and, in the process, caught in a dialectic between modern influences and traditional hunting culture. Our findings highlight challenges such as ‘false consensus’ and ‘ethical trade‐offs’ in the learning of hunting ethics, which emerge potentially due to a lack of space for deliberation on hunting ethics.
+  </article>
   <article id="contributors-article-CU7TZB3J" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

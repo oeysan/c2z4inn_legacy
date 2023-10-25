@@ -1,5 +1,5 @@
 ---
-title: "8PDLYNZZ"
+title: "The Narrative of the Modernized Regulatory State"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,13 +9,24 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8PDLYNZZ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1442703" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/8PDLYNZZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-8PDLYNZZ" class="csl-bib-button">Abstract</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.17399/HP.2016.072103" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-8PDLYNZZ"></div>
 </article>
 <div id="csl-bib-meta-8PDLYNZZ" class="csl-bib-meta">
+  <article id="abstract-article-8PDLYNZZ" class="abstract-article">
+    <h1>Abstract</h1>
+    Scholars have formulated a  
+wide definition with reference to societal values. Phillip Selznick (1985, p.  
+363)  
+has, for instance, provided an uncritical understanding of regulation  
+that is of particular relevance. He states that the central meaning of  
+regulation “...refers to sustained and focused control exercised by  
+a public agency over activities that are valued by a community.”
+  </article>
   <article id="taxonomy-article-8PDLYNZZ" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>

@@ -1,5 +1,5 @@
 ---
-title: "VRD3JVX8"
+title: "Multilingualism and ageing: an overview"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VRD3JVX8" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1846181" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VRD3JVX8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-VRD3JVX8" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-VRD3JVX8" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-VRD3JVX8" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-VRD3JVX8"></div>
 </article>
 <div id="csl-bib-meta-VRD3JVX8" class="csl-bib-meta">
+  <article id="abstract-article-VRD3JVX8" class="abstract-article">
+    <h1>Samandrag</h1>
+    This publication provides an overview of research on a large range of topics relating to language processing and language use from a life-span perspective. It is unique in covering and combining psycholinguistic and sociolinguistic approaches, discussing questions such as: Is it beneficial to speak more than one language when growing old? How are languages processed in multilingual persons, and how does this change over time? What happens to language and communication in multilingual aphasia or dementia? How is multilingual ageing portrayed in the media? It is a joint, cross-disciplinary venture of researchers from the Centre for Multilingualism in Society across the Lifespan at The University of Oslo and the editors of this publication.
+  </article>
   <article id="contributors-article-VRD3JVX8" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

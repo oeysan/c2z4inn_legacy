@@ -1,5 +1,5 @@
 ---
-title: "3GLJTH7X"
+title: "Effect of two ‘progressively motile sperm–oocyte’ ratios on porcine in vitro fertilization and embryo development"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3GLJTH7X" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2023564" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/3GLJTH7X" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-3GLJTH7X" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-3GLJTH7X" class="csl-bib-button">Medverkande</a>
     <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6E660349169936E41173F7D33FDD29D9/S0967199422000053a.pdf/div-class-title-effect-of-two-progressively-motile-sperm-oocyte-ratios-on-porcine-span-class-italic-in-vitro-span-fertilization-and-embryo-development-div.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3GLJTH7X"></div>
 </article>
 <div id="csl-bib-meta-3GLJTH7X" class="csl-bib-meta">
+  <article id="abstract-article-3GLJTH7X" class="abstract-article">
+    <h1>Samandrag</h1>
+    Summary Sperm motility and viability of cryopreserved semen vary between boars and straws, which influences the outcomes of in vitro embryo production (IVEP). However, progressive motility is usually not considered during IVEP. The aim of this study was to assess fertilization with a 500:1 and 250:1 ‘progressively motile sperm to oocyte’ ratio on IVEP outcomes using semen from three Duroc and three Landrace boars. Frozen–thawed sperm was centrifuged through a 45/90% Percoll® density gradient and sperm quality parameters were assessed. In vitro matured oocytes were fertilized at the two ratios, a portion was stained 10–12 h after start of fertilization to analyze fertilization and polyspermy, while the remaining zygotes were cultured up to day 7. The 500:1 ratio resulted in a higher fertilization and blastocyst yield on day 6 compared with the 250:1 ratio, but no effect of ratio was observed for polyspermy, cleavage rate or blastocyst cell number. Individual differences between boars were observed for fertilization, cleavage and blastocyst rates, but not for the other IVEP outcomes. In conclusion, a higher fertilization and blastocyst yield was obtained with the 500:1 ratio compared with the 250:1 ratio, while polyspermy level was consistent across ratios. Differences in IVEP outcomes were still observed between the individual boars although adjusted for progressive motility. Promising blastocyst yields and high total blastocyst cell counts were obtained with sperm from both breeds.
+  </article>
   <article id="contributors-article-3GLJTH7X" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

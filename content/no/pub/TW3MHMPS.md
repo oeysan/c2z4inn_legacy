@@ -1,5 +1,5 @@
 ---
-title: "TW3MHMPS"
+title: "Gruppetilbud til unge med autismespekterforstyrrelse"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TW3MHMPS" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2027410" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/TW3MHMPS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-TW3MHMPS" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-TW3MHMPS"></div>

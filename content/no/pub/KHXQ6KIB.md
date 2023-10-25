@@ -1,5 +1,5 @@
 ---
-title: "KHXQ6KIB"
+title: "(Lack of) government policy for indigenous (Sámi) sport: A chain of legitimating and de-legitimating acts"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KHXQ6KIB" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1888352" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KHXQ6KIB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KHXQ6KIB" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-KHXQ6KIB" class="csl-bib-button">Medverkande</a>
     <a href="https://doi.org/10.1177/1012690220988650" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-KHXQ6KIB"></div>
 </article>
 <div id="csl-bib-meta-KHXQ6KIB" class="csl-bib-meta">
+  <article id="abstract-article-KHXQ6KIB" class="abstract-article">
+    <h1>Samandrag</h1>
+    While colonization as policy is formally a historic phenomenon in Norway and elsewhere, many former structures of state organization – including their relationship to sport – remain under post-colonial conditions. This paper is concerned with how the Norwegian government contributes to creating a situation, which includes the Norwegian sports confederation (NIF) but excludes the indigenous people Sámi’s sports organisation. Based on existing data and literature, we analyse how the state favours NIF through a chain of legitimating acts. Thus, sport is a preserve of colonization, where a one-sided legitimation parallels a de-legitimation of the overarching sport policy goal of sport-for-all. However, there are signs of change whereby actors are challenging NIF’s monopoly and ‘older’ state-sport regimes.
+  </article>
   <article id="contributors-article-KHXQ6KIB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

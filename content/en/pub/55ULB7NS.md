@@ -1,5 +1,5 @@
 ---
-title: "55ULB7NS"
+title: "Teacher education and international practice programmes: Reflections on transformative learning and global citizenship"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-55ULB7NS" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1674529" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/55ULB7NS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-55ULB7NS" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.tate.2018.12.003" class="csl-bib-button">EZproxy</a>
   </div>

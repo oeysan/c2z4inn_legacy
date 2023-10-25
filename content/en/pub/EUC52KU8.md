@@ -1,5 +1,5 @@
 ---
-title: "EUC52KU8"
+title: "Explicit integration of dispersal-related metrics improves predictions of SDM in predatory arthropods"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EUC52KU8" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1842507" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/EUC52KU8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-EUC52KU8" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-EUC52KU8" class="csl-bib-button">Contributors</a>
     <a href="https://www.nature.com/articles/s41598-020-73262-2.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-EUC52KU8"></div>
 </article>
 <div id="csl-bib-meta-EUC52KU8" class="csl-bib-meta">
+  <article id="abstract-article-EUC52KU8" class="abstract-article">
+    <h1>Abstract</h1>
+    Fishing spiders ( Dolomedes spp.) make an interesting model to predict the impact of global changes because they are generalist, opportunistic predators, whose distribution is driven mostly by abiotic factors. Yet, the two European species are expected to react differently to forthcoming environmental changes, because of habitat specialization and initial range. We used an original combination of habitat and dispersal data to revisit these predictions under various climatic scenarios. We used the future range of suitable habitat, predicted with habitat variables only, as a base layer to further predict the range or reachable habitat by accounting for both dispersal ability and landscape connectivity. Our results confirm the northward shift in range and indicate that the area of co-occurrences should also increase. However, reachable habitat should expand less than suitable habitat, especially when accounting for landscape connectivity. In addition, the potential range expansion was further limited for the red-listed D. plantarius, which is more of a habitat specialist and has a lower ability to disperse. This study highlights the importance of looking beyond habitat variables to produce more accurate predictions for the future of arthropods populations.
+  </article>
   <article id="contributors-article-EUC52KU8" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

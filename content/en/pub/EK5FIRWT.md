@@ -1,5 +1,5 @@
 ---
-title: "EK5FIRWT"
+title: "Structural Estimation of Switching Costs for Peaking Power Plants"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EK5FIRWT" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1690280" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/EK5FIRWT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-EK5FIRWT" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-EK5FIRWT" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-EK5FIRWT" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.ejor.2019.03.031" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,13 @@ type: pub
   <div id="csl-bib-meta-container-EK5FIRWT"></div>
 </article>
 <div id="csl-bib-meta-EK5FIRWT" class="csl-bib-meta">
+  <article id="abstract-article-EK5FIRWT" class="abstract-article">
+    <h1>Abstract</h1>
+    We estimates costs associated with mothballing, restarting, 
+abandoning and maintaining peaking power plants. We develop a real options model to explain switching and maintenance behavior of plant managers. The constrained optimization approach to estimate crucial costs accommodates non-parametric dynamics for the expectations of the plant  managers regarding future profitability.  
+ 
+The empirical analysis is based on the status of power plants reported annually to the United States Energy Information Administration (EIA) during 2001-2009. We arrive at economically meaningful estimates of maintenance costs and switching costs, and discuss these in light of rates used in the Pennsylvania-New Jersey-Maryland capacity market.
+  </article>
   <article id="contributors-article-EK5FIRWT" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

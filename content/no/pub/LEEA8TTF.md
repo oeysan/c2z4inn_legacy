@@ -1,5 +1,5 @@
 ---
-title: "LEEA8TTF"
+title: "The influence of fibre on gut physiology and feed intake regulation"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LEEA8TTF" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1795399" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LEEA8TTF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.3920/978-90-8686-893-3_7" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-LEEA8TTF"></div>

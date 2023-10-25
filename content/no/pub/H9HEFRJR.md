@@ -1,5 +1,5 @@
 ---
-title: "H9HEFRJR"
+title: "The Self-Rated Effects of Alcohol Are Related to Presystemic Metabolism of Alcohol"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-H9HEFRJR" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2140549" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/H9HEFRJR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-H9HEFRJR" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-H9HEFRJR" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-H9HEFRJR" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://academic.oup.com/alcalc/article-pdf/58/2/203/49498694/agad002.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-H9HEFRJR"></div>
 </article>
 <div id="csl-bib-meta-H9HEFRJR" class="csl-bib-meta">
+  <article id="abstract-article-H9HEFRJR" class="abstract-article">
+    <h1>Samandrag</h1>
+    AimsA high number of alcohol units required to feel a subjective effect of alcohol predicts future alcohol use disorders (AUDs). The subjective response to alcohol can be measured using the validated retrospective self-rated effects of alcohol (SRE) questionnaire. Few studies have investigated the specific relationship between SRE and blood alcohol concentration (BAC) in an experimental setting. MethodsTwenty healthy young adult male volunteers who had experience with binge drinking, but did not have AUD, filled out the SRE-questionnaire and were served with a fixed amount of alcohol per body weight. BACs were measured throughout a 12-hour period, reaching a maximum BAC of ~0.13%. Median split of SRE-scores was utilized to compare BACs among participants with relatively high effects (low SRE) and relatively low effects (high SRE) of alcohol. ResultsParticipants reporting a relatively low SRE-score had a statistically significant higher measured BAC at all time points until alcohol was eliminated. This was especially pronounced during the first 2 hours after alcohol (P = 0.015) without a significant difference in the alcohol elimination rate being detected. ConclusionThe study indicates that a self-ated SRE-score is related to BACs after the ingestion of a standardized amount of alcohol per body weight. Reporting a higher number of alcohol units before feeling an effect was related to a lower BAC. As the differences in BAC between relatively high and low self-rated effects appeared rapidly after intake, this could be interpreted as an effect of presystemic metabolism of alcohol.
+  </article>
   <article id="contributors-article-H9HEFRJR" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

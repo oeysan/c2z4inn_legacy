@@ -1,5 +1,5 @@
 ---
-title: "IBFU3T73"
+title: "Language policies and multilingual practices in Icelandic preschools"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IBFU3T73" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2173346" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/IBFU3T73" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-IBFU3T73" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-IBFU3T73" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-IBFU3T73" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/2005615X.2023.2250711" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-IBFU3T73"></div>
 </article>
 <div id="csl-bib-meta-IBFU3T73" class="csl-bib-meta">
+  <article id="abstract-article-IBFU3T73" class="abstract-article">
+    <h1>Samandrag</h1>
+    This article aims at exploring family language policies and practices of immigrant families in Iceland as well as educational practices and partnerships in their children’s preschools. The article draws on interviews with preschool principals and teachers in three preschools in Iceland, and presents findings related to state, municipal, and school language policies as well as multilingual practices in these preschools. The findings indicate that despite the generally positive attitudes and interest in multilingual practices among preschool personnel, there is room for improvement in terms of more structured and systematic integration of the diverse linguistic and cultural backgrounds of families, as well as fostering stronger partnerships with parents from different linguistic and cultural communities. Furthermore, teacher education should include both theoretical and practical knowledge of multicultural and multilingual education to better equip teachers for cultural and linguistic diversity in schools.
+  </article>
   <article id="contributors-article-IBFU3T73" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "3MYAPCEA"
+title: "Biotechnological Applications of Mushrooms under the Water-Energy-Food Nexus: Crucial Aspects and Prospects from Farm to Pharmacy"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3MYAPCEA" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2163570" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/3MYAPCEA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-3MYAPCEA" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-3MYAPCEA" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-3MYAPCEA" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/2304-8158/12/14/2671/pdf?version=1689078501" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-3MYAPCEA"></div>
 </article>
 <div id="csl-bib-meta-3MYAPCEA" class="csl-bib-meta">
+  <article id="abstract-article-3MYAPCEA" class="abstract-article">
+    <h1>Abstract</h1>
+    Mushrooms have always been an important source of food, with high nutritional value and medicinal attributes. With the use of biotechnological applications, mushrooms have gained further attention as a source of healthy food and bioenergy. This review presents different biotechnological applications and explores how these can support global food, energy, and water security. It highlights mushroom’s relevance to meet the sustainable development goals of the UN. This review also discusses mushroom farming and its requirements. The biotechnology review includes sections on how to use mushrooms in producing nanoparticles, bioenergy, and bioactive compounds, as well as how to use mushrooms in bioremediation. The different applications are discussed under the water, energy, and food (WEF) nexus. As far as we know, this is the first report on mushroom biotechnology and its relationships to the WEF nexus. Finally, the review valorizes mushroom biotechnology and suggests different possibilities for mushroom farming integration.
+  </article>
   <article id="contributors-article-3MYAPCEA" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

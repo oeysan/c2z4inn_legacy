@@ -1,5 +1,5 @@
 ---
-title: "3D5NUSLD"
+title: "Artskunnskap som introduksjon til naturfag i grunnskolelærerutdanningene"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3D5NUSLD" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1633774" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/3D5NUSLD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-3D5NUSLD" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-3D5NUSLD" class="csl-bib-button">Contributors</a>
     <a href="https://journals.uio.no/nordina/article/download/3964/5530" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-3D5NUSLD"></div>
 </article>
 <div id="csl-bib-meta-3D5NUSLD" class="csl-bib-meta">
+  <article id="abstract-article-3D5NUSLD" class="abstract-article">
+    <h1>Abstract</h1>
+    People’s contact with nature has become less frequent, and their experience of nature has become less comprehensive than earlier. The level of knowledge about species has significantly decreased and teaching biology outside the classroom has become less common. The motivation for this study is to try to counteract these trends: its aim is to evaluate a teaching sequence in teacher education where a field course and the collection of organisms were central components. Seventeen months after the teaching sequence, fifteen students took a species identification test and responded to a questionnaire, and four of them were interviewed. Findings indicate that although their level of knowledge about species had decreased by 39.1% since they had finished the course, the teaching had positively influenced the students’ interest in nature, their pleasure at being out in nature, and their overall experience of nature. Their ecological understanding and understanding of biodiversity and sustainable development was less influenced. The teaching was perceived as relevant for their own future work as science teachers.
+  </article>
   <article id="contributors-article-3D5NUSLD" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

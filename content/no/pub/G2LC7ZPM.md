@@ -1,5 +1,5 @@
 ---
-title: "G2LC7ZPM"
+title: "Assessing Firefighters’ Tourniquet Skill Attainment and Retention: A Controlled Simulation-Based Experiment"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-G2LC7ZPM" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2154901" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/G2LC7ZPM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-G2LC7ZPM" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-G2LC7ZPM" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-G2LC7ZPM" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E25CDBF3A37CEC821B635DA9992256DC/S193578932300068Xa.pdf/div-class-title-assessing-firefighters-tourniquet-skill-attainment-and-retention-a-controlled-simulation-based-experiment-div.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-G2LC7ZPM"></div>
 </article>
 <div id="csl-bib-meta-G2LC7ZPM" class="csl-bib-meta">
+  <article id="abstract-article-G2LC7ZPM" class="abstract-article">
+    <h1>Samandrag</h1>
+    Background:The aim of this study was to train and assess firefighters’ skill attainment in the use of tourniquets, and to assess their skill retention after 3 mo. The purpose is to show if firefighters can successfully apply a tourniquet after a short course based on the Norwegian national recommendation for civil prehospital tourniquet use. Methods:This is a prospective experimental study. The study population were firefighters, and the inclusion criterion was any on-duty firefighter. The first phase consisted of baseline precourse testing (T1), a 45-min course, followed by immediate retesting (T2). The second phase consisted of retesting of skill retention after 3 mo (T3). Results: A total of 109 participants at T1, 105 at T2, and 62 participants at T3. The firefighters achieved a higher proportion of successful tourniquet applications at T2 (91.4%; 96 of 105) as well as T3 (87.1%; 54 of 62) compared with 50.5% at T1 (55 of 109) ( P = 0.009). Mean application time was 59.6 s (55.1-64.2) in T1, 34.9 s (33.3-36.6) in T2 and 37.7 s (33.9-41.4) in T3. Conclusion:A sample of firefighters can successfully apply a tourniquet after a 45-min course based on the 2019 Norwegian recommendation for civil prehospital tourniquet use. Skill retention after 3 mo was satisfactory for both successful application and application time.
+  </article>
   <article id="contributors-article-G2LC7ZPM" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

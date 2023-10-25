@@ -1,5 +1,5 @@
 ---
-title: "EX7P8F6L"
+title: "Genetic population structure of the monogenean parasite Gyrodactylus thymalli and its host European grayling (Thymallus thymallus) in a large Norwegian lake"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EX7P8F6L" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1847842" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/EX7P8F6L" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EX7P8F6L" class="csl-bib-button">Medverkande</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s10750-020-04431-7.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

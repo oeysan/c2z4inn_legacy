@@ -1,5 +1,5 @@
 ---
-title: "WPPJSMKR"
+title: "Enabling sustainable innovation for social change: The Positive Deviance approach"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WPPJSMKR" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1821074" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WPPJSMKR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WPPJSMKR" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-WPPJSMKR" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-WPPJSMKR" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-WPPJSMKR"></div>
 </article>
 <div id="csl-bib-meta-WPPJSMKR" class="csl-bib-meta">
+  <article id="abstract-article-WPPJSMKR" class="abstract-article">
+    <h1>Abstract</h1>
+    Achieving sustainable innovation in settings characterized by complex social problems have so far been approached through the two relatively newer approaches – frugal innovation and grassroots or “beyond-the radar” (BRI) innovation. While these two approaches are useful for improving the quality of life of the socio-economically disadvantaged, their critique centers on the degree of community members’ (non) inclusiveness and (non) participation in the innovation process. The degree of inclusiveness and participation in frugal innovations is generally low, and somewhat higher in the BRI. However, the BRI is problematic in that it is not equitable in the distribution of the innovation benefits and has high transaction costs. To contribute and add value to the discussion in this area, we present the Positive Deviance (PD) approach as an alternative way to enable sustainable innovation for social impact and change. The Positive Deviance approach believes that in every community there are individuals or groups whose uncommon behaviors enable them to find better solutions to problems than their peers while having access to the same resources. This chapter describes the key tenets of the PD approach and illustrates its use to reduce school dropouts in Argentina and combat hospital-acquired infections in the US. We conclude by summarizing the advantages offered by the PD approach for enabling sustainable innovation in local communities. Keywords: positive deviance, complex social problems, inclusiveness, sustainable innovation
+  </article>
   <article id="contributors-article-WPPJSMKR" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -52,7 +57,7 @@ Campus Rena
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">

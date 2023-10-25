@@ -1,5 +1,5 @@
 ---
-title: "GUWFUCA7"
+title: "A Comparison of the Effect of Strength Training on Cycling Performance between Men and Women"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GUWFUCA7" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1920344" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/GUWFUCA7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-GUWFUCA7" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-GUWFUCA7" class="csl-bib-button">Medverkande</a>
     <a href="https://www.mdpi.com/2411-5142/6/1/29/pdf?version=1616134591" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-GUWFUCA7"></div>
 </article>
 <div id="csl-bib-meta-GUWFUCA7" class="csl-bib-meta">
+  <article id="abstract-article-GUWFUCA7" class="abstract-article">
+    <h1>Samandrag</h1>
+    During the last decade numerous review articles have been published on how concurrent strength and endurance training affect cycling performance. However, none of these have reviewed if there are any sex differences in the effects of concurrent training on cycling performance, and most research in this area has been performed with male cyclists. Thus, the aim of the current paper is to review the scientific literature on the effect of concurrent training on cycling performance in male and female cyclists with a special emphasis on potential sex differences. The results indicate that both male and female cyclists experience a similar beneficial effect from concurrent training on cycling performance and its physiological determinants compared to normal endurance training only. Some data indicate that women have a larger effect on cycling economy, but more studies are needed to explore this further. Furthermore, the adaptations to strength training thought to be responsible for the beneficial effects on cycling performance seem to be very similar between men and women. Interestingly, increased muscle cross-sectional area in the main locomotor muscles seems to be an important adaptation for improved performance, and, contrary to popular belief, cyclists should aim for increased muscle cross-sectional area when adding strength training to their normal training. We conclude that both male and female cyclists can improve their cycling performance by adding strength training to their normal training.
+  </article>
   <article id="contributors-article-GUWFUCA7" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

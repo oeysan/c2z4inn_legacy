@@ -1,5 +1,5 @@
 ---
-title: "S8IMSLTY"
+title: "Valorization of hydrolysis lignin from a spruce-based biorefinery by applying γ-valerolactone treatment"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-S8IMSLTY" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2042497" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/S8IMSLTY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-S8IMSLTY" class="csl-bib-button">Contributors</a>
     <a href="https://doi.org/10.1016/j.biortech.2022.127466" class="csl-bib-button">Unpaywall</a>
   </div>

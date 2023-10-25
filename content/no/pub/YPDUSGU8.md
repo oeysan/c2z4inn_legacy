@@ -1,5 +1,5 @@
 ---
-title: "YPDUSGU8"
+title: "Skoleutvikling: i forskning, politikk og praksis"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YPDUSGU8" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2028401" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/YPDUSGU8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-YPDUSGU8" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-YPDUSGU8" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-YPDUSGU8"></div>
 </article>
 <div id="csl-bib-meta-YPDUSGU8" class="csl-bib-meta">
+  <article id="abstract-article-YPDUSGU8" class="abstract-article">
+    <h1>Samandrag</h1>
+    I denne boka gir sentrale fagpersoner og forskere ulike blikk på skoleutvikling. Forfatterne presenterer ny forskning og peker på utviklingstrekk som vil ha betydning for skoleutvikling i årene fremover. De viser blant annet hvordan skoleutvikling kan forstås fra et lærerperspektiv, et ledelsesperspektiv, et læreplanperspektiv og et historisk perspektiv. Hva dreier skoleutvikling seg om - i forskning, politikk og praksis? Vi som jobber i og med skolen ønsker å utvikle den slik at den blir så god som mulig for elevene våre. Ofte har vi forskjellig forståelse av og erfaring med hva slags kunnskap og hvilke arbeidsmåter som kan føre til god skoleutvikling. Hvilket teoretisk eller metodisk ståsted vi har, vil også ha betydning. Gjennom 15 kapitler bidrar denne boka med en rekke innfallsvinkler til skoleutvikling, der både bredde- og dybdekunnskap vies plass. Boka er skrevet for studenter, lærere, skoleledere, lærerutdannere, forskere og andre som er involvert i utviklingsarbeid i skolen og som har interesse og engasjement for skoleutvikling.
+  </article>
   <article id="contributors-article-YPDUSGU8" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

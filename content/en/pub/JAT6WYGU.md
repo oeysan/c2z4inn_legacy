@@ -1,5 +1,5 @@
 ---
-title: "JAT6WYGU"
+title: "Determinants of the shape of species-area curves"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JAT6WYGU" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1936089" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JAT6WYGU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-JAT6WYGU" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1017/9781108569422.008" class="csl-bib-button">EZproxy</a>
   </div>

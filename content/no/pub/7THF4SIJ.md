@@ -1,5 +1,5 @@
 ---
-title: "7THF4SIJ"
+title: "An Agile Approach to Service Innovation: Creating Valuable Service Innovation with Agile Resource Integration"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7THF4SIJ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1846915" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/7THF4SIJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-7THF4SIJ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-7THF4SIJ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-7THF4SIJ" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/2394964320961886" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-7THF4SIJ"></div>
 </article>
 <div id="csl-bib-meta-7THF4SIJ" class="csl-bib-meta">
+  <article id="abstract-article-7THF4SIJ" class="abstract-article">
+    <h1>Samandrag</h1>
+    Value creation through service innovation is challenging in complex, changing markets. Agility may be the key to understanding resource integration in dynamic contexts and what drives and enables service innovation. To understand service innovation, 12 interviews were conducted in four innovative companies. This study’s findings indicate that agility links adaptive and creative resource integration efforts in organizations, enabling actors to function smoothly together in dynamic contexts while engaging in disruptive activities. Creative resource integration is experimenting and reusing resources and practices in new contexts for the purpose of improving value creation. In retrospect, creative resource integration activities, which may not be considered innovative in the moment, are labelled as innovation based on aggregation. Being truly innovative requires the ability to be agile by proactively and reactively balancing adaptive and creative resource integration, the drive to constantly improve, and embracing a culture for agility congruent throughout the organization.
+  </article>
   <article id="contributors-article-7THF4SIJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -70,7 +75,7 @@ Rom 3Ø004
 </div> <div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

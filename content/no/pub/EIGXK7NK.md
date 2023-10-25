@@ -1,5 +1,5 @@
 ---
-title: "EIGXK7NK"
+title: "Of wolves and bears: Seasonal drivers of interference and exploitation competition between apex predators"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EIGXK7NK" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1991396" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/EIGXK7NK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EIGXK7NK" class="csl-bib-button">Medverkande</a>
     <a href="https://pub.epsilon.slu.se/27974/1/tallian-a-et-al-220523%20%281%29.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

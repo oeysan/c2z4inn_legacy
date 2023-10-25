@@ -1,5 +1,5 @@
 ---
-title: "WK3RTFM3"
+title: "Natural disturbance regimes as a guide for sustainable forest management in Europe"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WK3RTFM3" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2050624" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WK3RTFM3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WK3RTFM3" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-WK3RTFM3" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-WK3RTFM3" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://repozitorij.uni-lj.si/Dokument.php?lang=slv&amp;id=157218&amp;dn=" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-WK3RTFM3"></div>
 </article>
 <div id="csl-bib-meta-WK3RTFM3" class="csl-bib-meta">
+  <article id="abstract-article-WK3RTFM3" class="abstract-article">
+    <h1>Samandrag</h1>
+    In Europe, forest management has controlled forest dynamics to sustain commodity production over multiple centuries. Yet over‐regulation for growth and yield diminishes resilience to environmental stress as well as threatens biodiversity, leading to increasing forest susceptibility to an array of disturbances. These trends have stimulated interest in alternative management systems, including natural dynamics silviculture (NDS). NDS aims to emulate natural disturbance dynamics at stand and landscape scales through silvicultural manipulations of forest structure and landscape patterns. We adapted a “Comparability Index” (CI) to assess convergence/divergence between natural disturbances and forest management effects. We extended the original CI concept based on disturbance size and frequency by adding the residual structure of canopy trees after a disturbance as a third dimension. We populated the model by compiling data on natural disturbance dynamics and management from 13 countries in Europe, covering four major forest types (i.e., spruce, beech, oak, and pine‐dominated forests). We found that natural disturbances are highly variable in size, frequency, and residual structure, but European forest management fails to encompass this complexity. Silviculture in Europe is skewed toward even‐aged systems, used predominately (72.9% of management) across the countries assessed. The residual structure proved crucial in the comparison of natural disturbances and silvicultural systems. CI indicated the highest congruence between uneven‐aged silvicultural systems and key natural disturbance attributes. Even so, uneven‐aged practices emulated only a portion of the complexity associated with natural disturbance effects. The remaining silvicultural systems perform poorly in terms of retention compared to tree survivorship after natural disturbances. We suggest that NDS can enrich Europe's portfolio of management systems, for example where wood production is not the primary objective. NDS is especially relevant to forests managed for habitat quality, risk reduction, and a variety of ecosystem services. We suggest a holistic approach integrating NDS with more conventional practices.
+  </article>
   <article id="contributors-article-WK3RTFM3" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "KCVB9Q38"
+title: "Crafting music education for all? The composite knowledge base of music education in times of cultural diversity and social polarisation"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KCVB9Q38" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1910768" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KCVB9Q38" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KCVB9Q38" class="csl-bib-button">Contributors</a>
     <a href="https://link.springer.com/content/pdf/bfm:978-3-030-67704-6/1?pdf=chapter%20toc" class="csl-bib-button">Unpaywall</a>
   </div>

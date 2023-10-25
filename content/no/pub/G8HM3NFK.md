@@ -1,5 +1,5 @@
 ---
-title: "G8HM3NFK"
+title: "Spatial variation in red deer density in a transboundary forest ecosystem"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-G8HM3NFK" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2139416" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/G8HM3NFK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-G8HM3NFK" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-G8HM3NFK" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-G8HM3NFK" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.nature.com/articles/s41598-023-31283-7.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-G8HM3NFK"></div>
 </article>
 <div id="csl-bib-meta-G8HM3NFK" class="csl-bib-meta">
+  <article id="abstract-article-G8HM3NFK" class="abstract-article">
+    <h1>Samandrag</h1>
+    Forests in Europe are exposed to increasingly frequent and severe disturbances. The resulting changes in the structure and composition of forests can have profound consequences for the wildlife inhabiting them. Moreover, wildlife populations in Europe are often subjected to differential management regimes as they regularly extend across multiple national and administrative borders. The red deer Cervus elaphus population in the Bohemian Forest Ecosystem, straddling the Czech-German border, has experienced forest disturbances, primarily caused by windfalls and bark beetle Ips typographus outbreaks during the past decades. To adapt local management strategies to the changing environmental conditions and to coordinate them across the international border, reliable estimates of red deer density and abundance are highly sought-after by policymakers, wildlife managers, and stakeholders. Covering a 1081-km 2 study area, we conducted a transnational non-invasive DNA sampling study in 2018 that yielded 1578 genotyped DNA samples from 1120 individual red deer. Using spatial capture-recapture models, we estimated total and jurisdiction-specific abundance of red deer throughout the ecosystem and quantified the role of forest disturbance and differential management strategies in shaping spatial heterogeneity in red deer density. We hypothesised that (a) forest disturbances provide favourable habitat conditions (e.g., forage and cover), and (b) contrasting red deer management regimes in different jurisdictions create a differential risk landscape, ultimately shaping density distributions. Overall, we estimated that 2851 red deer (95% Credible Interval = 2609–3119) resided in the study area during the sampling period, with a relatively even overall sex ratio (1406 females, 95% CI = 1229–1612 and 1445 males, 95% CI = 1288–1626). The average red deer density was higher in Czechia (3.5 km −2 , 95% CI = 1.2–12.3) compared to Germany (2 km −2 , 95% CI = 0.2–11). The effect of forest disturbances on red deer density was context-dependent. Forest disturbances had a positive effect on red deer density at higher elevations and a negative effect at lower elevations, which could be explained by partial migration and its drivers in this population. Density of red deer was generally higher in management units where hunting is prohibited. In addition, we found that sex ratios differed between administrative units and were more balanced in the non-intervention zones. Our results show that the effect of forest disturbances on wild ungulates is modulated by additional factors, such as elevation and ungulate management practices. Overall density patterns and sex ratios suggested strong gradients in density between administrative units. With climate change increasing the severity and frequency of forest disturbances, population-level monitoring and management are becoming increasingly important, especially for wide-ranging species as both wildlife and global change transcend administrative boundaries.
+  </article>
   <article id="contributors-article-G8HM3NFK" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

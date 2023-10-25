@@ -1,5 +1,5 @@
 ---
-title: "I8W7NAAU"
+title: "Inclusive Education and Exclusionary Practices in Norwegian Schools"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-I8W7NAAU" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1471398" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/I8W7NAAU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-I8W7NAAU" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-94-6300-857-0_4" class="csl-bib-button">EZproxy</a>
   </div>

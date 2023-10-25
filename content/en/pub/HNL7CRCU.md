@@ -1,5 +1,5 @@
 ---
-title: "HNL7CRCU"
+title: "Increasing Oxygen Uptake in Cross-Country 8 Skiers by Speed Variation in Work Intervals"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HNL7CRCU" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1992130" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HNL7CRCU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-HNL7CRCU" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-HNL7CRCU" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-HNL7CRCU" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1123/ijspp.2021-0226" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-HNL7CRCU"></div>
 </article>
 <div id="csl-bib-meta-HNL7CRCU" class="csl-bib-meta">
+  <article id="abstract-article-HNL7CRCU" class="abstract-article">
+    <h1>Abstract</h1>
+    Purpose: Accumulated time at a high percentage of peak oxygen consumption (VO2peak) is important for improving performance in endurance athletes. The present study compared the acute physiological and perceived effects of performing high-intensity intervals with roller ski double poling containing work intervals with (1) fast start followed by decreasing speed (DEC), (2) systematic variation in exercise intensity (VAR), and (3) constant speed (CON). Methods: Ten well-trained cross-country skiers (double-poling VO2peak 69.6 [3.5] mL·min−1·kg−1) performed speed- and duration-matched DEC, VAR, and CON on 3 separate days in a randomized order (5 × 5-min work intervals and 3-min recovery). Results: DEC and VAR led to longer time ≥90% VO2peak (P = .016 and P = .033, respectively) and higher mean %VO2peak (P = .036, and P = .009) compared with CON, with no differences between DEC and VAR (P = .930 and P = .759, respectively). VAR, DEC, and CON led to similar time ≥90% of peak heart rate (HRpeak), mean HR, mean breathing frequency, mean ventilation, and mean blood lactate concentration ([La−]). Furthermore, no differences between sessions were observed for perceptual responses, such as mean rate of perceived exertion, session rate of perceived exertion or pain score (all Ps &gt; .147). Conclusions: In well-trained XC skiers, DEC and VAR led to longer time ≥90% of VO2peak compared with CON, without excessive perceptual effort, indicating that these intervals can be a good alternative for accumulating more time at a high percentage of VO2peak and at the same time mimicking the pronounced variation in exercise intensities experienced during XC-skiing competitions.
+  </article>
   <article id="contributors-article-HNL7CRCU" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

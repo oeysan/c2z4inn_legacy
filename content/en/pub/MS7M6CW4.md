@@ -1,5 +1,5 @@
 ---
-title: "MS7M6CW4"
+title: "Cross-National Study of Worrying, Loneliness, and Mental Health during the COVID-19 Pandemic: A Comparison between Individuals with and without Infection in the Family"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MS7M6CW4" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1921570" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/MS7M6CW4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-MS7M6CW4" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-MS7M6CW4" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-MS7M6CW4" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/2227-9032/9/7/903/pdf?version=1626432125" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-MS7M6CW4"></div>
 </article>
 <div id="csl-bib-meta-MS7M6CW4" class="csl-bib-meta">
+  <article id="abstract-article-MS7M6CW4" class="abstract-article">
+    <h1>Abstract</h1>
+    Objective: The objective of this study was to examine differences in worry, loneliness, and mental health between those individuals infected by COVID-19 or having someone their family infected, and the rest of the population. Methods: A cross-sectional online survey was conducted in Norway, UK, USA, and Australia during April/May 2020. Participants (n = 3810) were recruited via social media postings by the researchers and the involved universities. Differences between those with and without infection in the family were investigated with chi-square tests and independent t-tests. Multiple regression analyses were used to assess associations between sociodemographic variables and psychological outcomes (worry, loneliness, and mental health) in both groups. Results: Compared to their counterparts, participants with infection in the family reported higher levels of worries about themselves (p &lt; 0.05) and their family members (p &lt; 0.001) and had poorer mental health (p &lt; 0.05). However, the effect sizes related to the differences were small. The largest effect (d = 0.24) concerned worries about their immediate family. Poorer psychological outcomes were observed in those who were younger, female, unemployed, living alone and had lower levels of education, yet with small effect sizes. Conclusions: In view of the small differences between those with and without infection, we generally conclude that the mental health effects of the COVID-19 situation are not limited to those who have been infected or have had an infection within the family but extend to the wider population.
+  </article>
   <article id="contributors-article-MS7M6CW4" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "5TPQZRAH"
+title: "The Association Between Regular Physical Activity and Depressive Symptoms Among Patients in Treatment of Alcohol and Substance Use Disorders"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5TPQZRAH" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2153781" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/5TPQZRAH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-5TPQZRAH" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-5TPQZRAH" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-5TPQZRAH" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/11782218231175813" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-5TPQZRAH"></div>
 </article>
 <div id="csl-bib-meta-5TPQZRAH" class="csl-bib-meta">
+  <article id="abstract-article-5TPQZRAH" class="abstract-article">
+    <h1>Abstract</h1>
+    Background:Alcohol and other substance use disorders and major depression often co-occur. A sedentary lifestyle is related to major depression and even moderate exercise may prevent and contribute to the treatment of depression. Studies have found an effect of physical activity on depression in alcohol and other substance use disorder patients even in clinical settings. Aim:To investigate the relationship between level of physical activity and depressive symptoms over time in alcohol and substance use disorder inpatients. Methods:Eighty-nine substance use disorder inpatients were followed for 6 months during treatment. The International Physical Activity Questionnaire was used to categorize 3 groups of low, moderate, or high level of physical activity. In addition to background variables and alcohol and drug use measures, data on biometric measures and on sleep were gathered. Becks Depression Inventory version II (BDI-II) measured depressive symptoms. A multilevel logistic regression was used to analyze the longitudinal relationship between physical activity and depressive symptoms. Results:Most patients (57%) reported low activity, while 24% reported moderate and 19% high activity. Few changed their activity level during treatment. Moderate physical activity was related to lower score on BDI-II ( P = .029). Level of physical activity was closely related to insomnia ( P = .024). In the multivariate analysis the relationship between depressive symptoms and physical activity did not withstand the adjustment for insomnia. However, in the multilevel logistic regression higher physical activity was related to lower BDI-II score in a dose dependent manner. Conclusions:Among these alcohol and other substance use disorders patients in treatment, there was a relationship between depressive symptoms and physical activity. The low level of physical activity identified among these patients was related to a high level of depressive symptoms. The level of depressive symptoms declined over time; but this change was not related to an increase in physical activity.
+  </article>
   <article id="contributors-article-5TPQZRAH" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

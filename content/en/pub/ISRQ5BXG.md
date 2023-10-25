@@ -1,5 +1,5 @@
 ---
-title: "ISRQ5BXG"
+title: "Customer complaint behaviour (CCB) in the retail sector: why do customers voice their complaints on Facebook?"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,39 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ISRQ5BXG" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1647429" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ISRQ5BXG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ISRQ5BXG" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-ISRQ5BXG" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/09593969.2018.1556179" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-ISRQ5BXG"></div>
 </article>
 <div id="csl-bib-meta-ISRQ5BXG" class="csl-bib-meta">
+  <article id="abstract-article-ISRQ5BXG" class="abstract-article">
+    <h1>Abstract</h1>
+    With the increasing usage of platforms such as Facebook, understanding 
+customer complaint behaviour (CCB) in the context of the 
+social media is imperative for any businesses. Of the two billion users 
+on Facebook, more than half of its users have shared their product related 
+experiences with others on the platform. This paper aims to 
+explore CCB in the context of social media in regards to customers’ 
+unfavourable buying experiences in the retail sector. A qualitative 
+research approach and 12 in-depth interviews were conducted. The 
+findings indicate that the respondents’ initial contact with the retailer 
+directly resulted in service recovery failures and undesirable outcomes. 
+Such double deviation then leads to frustration and uncertainty 
+of the situation, which furthermore led to the respondents’ 
+need to voice their complaint by sharing their unfavourable experiences 
+on Facebook. The main reasons for the respondents to voice 
+their complaints on the platform is to vent frustration, to share their 
+unfavourable experiences, a need to be seen, understood and 
+respected, to seek revenge by damaging the retailer’s reputation as 
+well as offering the retailer a chance to improve. A proper way to 
+manage complaints, in which frontline employees can solve the 
+problem before the customers feel the need to turn to the social media, is crucial. However, once the complaints are voiced on Facebook, it is imperative to respond to the complaints and acknowledge 
+the problem rather than ignoring the situation.
+  </article>
   <article id="contributors-article-ISRQ5BXG" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

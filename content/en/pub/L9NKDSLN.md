@@ -1,5 +1,5 @@
 ---
-title: "L9NKDSLN"
+title: "EURALLIVEG: ESTABLISHMENT OF A EUROPEAN CORE COLLECTION BY CRYOPRESERVATION AND VIRUS ELIMINATION IN GARLIC"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-L9NKDSLN" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1657766" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/L9NKDSLN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-L9NKDSLN" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-L9NKDSLN" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-L9NKDSLN" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.17660/ActaHortic.2012.969.41" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-L9NKDSLN"></div>
 </article>
 <div id="csl-bib-meta-L9NKDSLN" class="csl-bib-meta">
+  <article id="abstract-article-L9NKDSLN" class="abstract-article">
+    <h1>Abstract</h1>
+    A European project named EURALLIVEG (Vegetative Allium, Europe’s Core Collection, safe &amp; sound) was performed under Council Regulation EC 870/2004 from 2007 until 2011. It was coordinated by IPK. The main focus of the project was the development of a European integrated Allium Core collection provided by national collections of Germany, Czech Republic, Poland, Italy, France, and Nordic countries. This collection was designed as a part of the European Genebank Integrated System (AEGIS) of the European Cooperative Program for Plant Genetic Resources (ECPGR). The project consists of five work packages: documentation, molecular screening, cryopreservation, virus elimination, and coordination. Main aim was identification of a core collection of the 200 most important garlic accessions. This collection was cryopreserved using vitrification, which is the most economic way for long term storage. A Cryobanks Network was organized by three project partners. This system ensures safe storage of material by adopting a safety duplicate strategy. The documentation of the collection used passport and characterization data, pictures and other information. In addition genetic fingerprinting with AFLP markers was conducted. In the project, the garlic accessions were introduced into meristem culture for virus elimination. Of the viruses present in garlic, Onion Yellow Dwarf (OYDV) and Leek Yellow Stripe (LYSV) Viruses are most harmful. Therefore, because of the impossibility to do all treatments and tests on all germplasm, it was decided to test the major part of the collection on OYDV and LYSV only. However, a specific part with higher priority (backbone subset) was examined for five viruses. Virus detection used ELISA testing.
+  </article>
   <article id="contributors-article-L9NKDSLN" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "KS8B7YGR"
+title: "The gatekeepers of sport governance – nomination committees’ shaping potential in national sport organizations’ board composition processes"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KS8B7YGR" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1905113" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KS8B7YGR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KS8B7YGR" class="csl-bib-button">Medverkande</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/16184742.2021.1897640?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>

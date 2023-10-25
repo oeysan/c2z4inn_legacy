@@ -1,5 +1,5 @@
 ---
-title: "2E6HGFAX"
+title: "Risk factors for cardiovascular disease among people with mental illness in Namibia"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2E6HGFAX" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2094223" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/2E6HGFAX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-2E6HGFAX" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-2E6HGFAX" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-2E6HGFAX" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.ajol.info/index.php/gmj/article/download/237621/224540" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-2E6HGFAX"></div>
 </article>
 <div id="csl-bib-meta-2E6HGFAX" class="csl-bib-meta">
+  <article id="abstract-article-2E6HGFAX" class="abstract-article">
+    <h1>Samandrag</h1>
+    Objectives: To determine the prevalence of risk factors for cardiovascular disease (CVD) among people with mental illness attending the Mental Health Care Centre, Windhoek, NamibiaDesign: Observational, cross-sectional study.Setting: Mental health Care Centre, Windhoek Central Hospital. NamibiaParticipants: Adult patients with a mental illness attending the Mental Health Care Centre, Windhoek.Data collection: Within a systematic random sampling method, 385 adult patients with mental illness were recruited between May and December 2017.Statistical analysis: Validated assessment tools were used. Descriptive summary statistics and Chi-squared tests of association were conducted.Results: One-third (31.7%) of participants used alcohol, 21% used nicotine, 21.3% had hypertension, 55% were over-weight or obese, 59.2% of females and 11.5% of males had abdominal obesity. About twenty per cent (19.9%) of participants did meet the World Health Organisation recommended level of activity, while more than two-thirds of participants did not participate in moderate or vigorous physical activities. The patient’s psychiatric condition was significantly associated with alcohol use (Chi-square=20.450, p=0.002) and physical activity (Chi-square=20.989, p=0.002). The psychiatric condition was not associated with the waist circumference and gender of the participant.Conclusions: The increased prevalence of CVD risk factors in people with mental illness calls for mental health practitioners to screen, monitor and manage these risk factors regularly. Systematically screening and monitoring for cardiovascular risk factors is likely to contribute to National targets and significantly impact cardiovascular morbidity and mortality in people with mental illness.
+  </article>
   <article id="contributors-article-2E6HGFAX" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

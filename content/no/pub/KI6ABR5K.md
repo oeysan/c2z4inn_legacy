@@ -1,5 +1,5 @@
 ---
-title: "KI6ABR5K"
+title: "Praksisveiledning: Behov, ønsker og forventninger"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,21 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KI6ABR5K" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1989319" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KI6ABR5K" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KI6ABR5K" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-KI6ABR5K" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-KI6ABR5K"></div>
 </article>
 <div id="csl-bib-meta-KI6ABR5K" class="csl-bib-meta">
+  <article id="abstract-article-KI6ABR5K" class="abstract-article">
+    <h1>Samandrag</h1>
+    Hensikt: Ekstern praksis er en viktig del av en bioingeniørutdanning. I praksisstudier møter bioingeniørstudenten erfarne bioingeniører som sine praksisveiledere. Hensikten med denne studien er å beskrive behov og ønsker praksisveiledere innenfor bioingeniørfag har, for å fremme praksisstudier av høy kvalitet.   
+Metode: «Skulle ønske jeg hadde»-seminar etterfulgt av semistrukturerte dybdeintervjuer ble gjennomført med bioingeniører som er praksisveiledere. En kvalitativ innholdsanalyse ble gjennomført hvor mønstre i datamaterialet ble identifisert og kategorisert.  
+Resultat: Våre funn indikerer at praksisveiledere har ulike behov, ønsker og innspill som kan kategoriseres til «Før praksisperioden», «I praksisperioden», «Etter praksisperioden» og generelle rammebetingelser. Praksisveilederne trenger avsatt tid til både å forberede seg og til å gjennomføre veiledning, og behov/ønsker som identifiseres inkluderer (i) kompetanseheving innenfor veiledning, (ii) fora for erfaringsutveksling, (iii) praksisveiledning i team, (iii) mer kontakt, dialog og forventningsavklaringer med utdanningen (og studenten), (iv) harmoniserte praksissteder og (v) tilbakemeldinger om og evaluering av praksisperioden. 
+Konklusjon: Praksisveiledere innenfor bioingeniørfag har behov, ønsker, utfordringer og forventninger som bør kartlegges – med hensikt å fremme kvalitet i utdanningene.
+  </article>
   <article id="contributors-article-KI6ABR5K" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

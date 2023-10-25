@@ -1,5 +1,5 @@
 ---
-title: "YSAHF3AN"
+title: "The Youth Olympic Games as an opportunity for sports entrepreneurship"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YSAHF3AN" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1510361" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/YSAHF3AN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-YSAHF3AN" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-YSAHF3AN" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-YSAHF3AN" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1504/IJSMM.2017.087438" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-YSAHF3AN"></div>
 </article>
 <div id="csl-bib-meta-YSAHF3AN" class="csl-bib-meta">
+  <article id="abstract-article-YSAHF3AN" class="abstract-article">
+    <h1>Abstract</h1>
+    The aim of this article is to examine the possibilities that social entrepreneurs have for using a major sports event as an arena for their work. A case study using five different project leaders of social entrepreneurial projects were undertaken and qualitative interviews about their experiences and perceptions related to using the Youth Olympic Games in Lillehammer (LYOG) as an advantage for their cause, were conducted. The LYOG was considered a big entrepreneurial opportunity by the project leaders, especially for networking and improving bonding social capital and with several possibilities for creating social value for different groups, especially due to the Culture and Education Program (CEP). Theoretically, this article seeks to contribute to the field of sports entrepreneurship, social entrepreneurship and social capital in a sports context.
+  </article>
   <article id="contributors-article-YSAHF3AN" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

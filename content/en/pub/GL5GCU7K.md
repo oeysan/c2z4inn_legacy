@@ -1,5 +1,5 @@
 ---
-title: "GL5GCU7K"
+title: "“Prétendre comme si on connaît pas une autre langue que le swahili”: Multilingual parents in Norway on change and continuity in their family language policies"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GL5GCU7K" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1517446" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/GL5GCU7K" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-GL5GCU7K" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-GL5GCU7K" class="csl-bib-button">Contributors</a>
     <a href="https://www.duo.uio.no/bitstream/10852/73873/2/Purkarthofer%2bSteien.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-GL5GCU7K"></div>
 </article>
 <div id="csl-bib-meta-GL5GCU7K" class="csl-bib-meta">
+  <article id="abstract-article-GL5GCU7K" class="abstract-article">
+    <h1>Abstract</h1>
+    In this article, we examine how parents explain their choices of transmitting certain languages to their children, a key element of family language policies (FLP), in light of their dynamic linguistic repertoires and biographic experiences. Contributing to the framework of FLP, we focus in particular on parents’ memories, their narratives of multilingual upbringing in the past, and how these are used to construct present FLP. We analyze conversations where six multilingual parents in Norway talk about their experiences and intentions regarding FLP, and in particular, their reasons for the transmission of (some of their) languages to their children. The parents of three of the families are from the Democratic Republic of Congo (DRC), and in three others at least one of the parents migrated from Germany. We find that the parents align their decisions with both prior and new experiences. They relate to their language(s), their past and their current family life, and express the wish for continuity across the lifespan. At the same time, they demonstrate a certain flexibility and willingness to adapt to the constantly changing environments that they and their children experience and in which they navigate. Through their complex accounts, their memories and lived language experiences, we can understand parents’ manifold positions as regards their children’s linguistic repertoires.
+  </article>
   <article id="contributors-article-GL5GCU7K" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

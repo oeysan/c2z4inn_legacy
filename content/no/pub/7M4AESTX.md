@@ -1,5 +1,5 @@
 ---
-title: "7M4AESTX"
+title: "Det var nesten ittno på skulen som passe inn i hårdagen i Prøysenstugun. Hedmarkskultur og utdanning - i lys av Prøysen og Bourdieu"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7M4AESTX" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1610213" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/7M4AESTX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-7M4AESTX" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-7M4AESTX"></div>

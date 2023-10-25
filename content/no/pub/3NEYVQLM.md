@@ -1,5 +1,5 @@
 ---
-title: "3NEYVQLM"
+title: "Enabling relationship learning in intra-firm professional service teams"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3NEYVQLM" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1464359" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/3NEYVQLM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-3NEYVQLM" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-3NEYVQLM" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-3NEYVQLM" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/14783363.2017.1310706" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-3NEYVQLM"></div>
 </article>
 <div id="csl-bib-meta-3NEYVQLM" class="csl-bib-meta">
+  <article id="abstract-article-3NEYVQLM" class="abstract-article">
+    <h1>Samandrag</h1>
+    Purpose: This study focuses on relationship learning (RL) in intra-firm professional service teams (IPSTs). IPSTs refer to a particular form of knowledge-based service teams, consisting of people employed in the same company, but belonging to different departments, collaborating to solve problems and create value for their business clients (or customers). Moreover, the study explores three enabling factors that boost relational learning in IPSTs. Specifically, a firm’s market orientation (MO), a trusting team climate (TC) and leadership support are suggested as enabling factors for RL in IPSTs. The suggested enabling factors for RL in IPSTs were tested in a survey, in which 210 employees in consultancy service firms participated. The findings reveal that a firm’s MO and a trusting TC appear to play an imperative role in enabling RL in IPSTs. However, it is suggested that a combination of the three enabling factors collectively results in the capability to realise the full potential of RL in IPSTs. This study contributes to both deepen and extend our understanding of RL, which is a relatively new concept. Accordingly, it is a unique study that enriches our understanding of knowledge-based service firms where the ‘human factor’ of the individual team members seems to be an essential factor for both service offerings and service firm’s competitive advantage.
+  </article>
   <article id="contributors-article-3NEYVQLM" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -91,7 +96,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg13" class="sdg">

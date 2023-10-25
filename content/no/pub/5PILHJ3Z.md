@@ -1,5 +1,5 @@
 ---
-title: "5PILHJ3Z"
+title: "Minoritetsforældres konstruktion af kulturel identitet ved deltagelse på en flerkulturel skolefestival"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5PILHJ3Z" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2017251" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/5PILHJ3Z" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-5PILHJ3Z" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-5PILHJ3Z" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-5PILHJ3Z" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://tidsskrift.dk/FPPU/article/download/132319/177593" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-5PILHJ3Z"></div>
 </article>
 <div id="csl-bib-meta-5PILHJ3Z" class="csl-bib-meta">
+  <article id="abstract-article-5PILHJ3Z" class="abstract-article">
+    <h1>Samandrag</h1>
+    NO resuméI denne artikel vil jeg belyse, hvordan minoritetsforældre med kosovoalbansk baggrund konstruerer kulturelle identiteter på en flerkulturel skolefestival i Norge. Baggrunden for skolefestivalen er skolens markering af den Internationale FN-dag, som har til formål at bidrage til skolens mål om social retfærdighed, inklusion og tilhørsforhold. Projektets data er indsamlet gennem kvalitative interviews, observationer og studier af artefakter i 2016 og 2019. Resultaterne af studiet viser, at minoritetsforældre oplever skolefestivalen som et potentielt socialt, kulturelt og politisk samlingssted, som åbner for interaktion mellem majoritet og minoritet. Ofte er sådanne skolefestligheder dog blevet kritiseret af forskere. Kritikernes hovedargument er, at flerkulturelle skolefestivaler er baseret på essentialistiske kulturbegreber, og at disse arrangementer kan føre til eksklusion af minoriteter. Dette kvalitative casestudie både bekræfter og udfordrer forskningslitteraturens kritiske antagelser. Projektet har relevans for skolepædagoger, lærere og studerende i danske skoler. Abstract – UKIn this article, I examine how minority parents with Kosovo Albanian backgrounds construct cultural identities (Stuart Hall, 1996) at a multicultural school festival in the Eastern part of Norway. The school festival is organised in connection with the school’s celebration of the International United Nations Day and aims to contribute to the school’s goals regarding social justice, inclusion and belonging. Often, however, such school festivities have been criticised by researchers. The main argument of the critics is that multi-cultural school festivals are based on essentialist cultural concepts, and that these events may lead to exclusion rather than inclusion. This qualitative case study both confirms and challenges the critical assumptions of the research literature. Data were collected through qualitative interviews, observations and examination of artifacts in 2016 and 2019. The project is relevant for Danish schools.
+  </article>
   <article id="contributors-article-5PILHJ3Z" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

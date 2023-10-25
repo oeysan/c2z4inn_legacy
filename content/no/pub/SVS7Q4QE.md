@@ -1,5 +1,5 @@
 ---
-title: "SVS7Q4QE"
+title: "The causal nexus between bank indices and geopolitical risk: bootstrap causality analysis under horizontal sector dependence"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SVS7Q4QE" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2157794" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/SVS7Q4QE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-SVS7Q4QE" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-SVS7Q4QE" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-SVS7Q4QE" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://doi.org/10.1007/s40847-023-00257-w" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-SVS7Q4QE"></div>
 </article>
 <div id="csl-bib-meta-SVS7Q4QE" class="csl-bib-meta">
+  <article id="abstract-article-SVS7Q4QE" class="abstract-article">
+    <h1>Samandrag</h1>
+    As the global economy thrives and pushes for sustainable growth, there are also a plethora of non-economic challenges arising from the respective dimensions of insecurity and geopolitical tensions such as inter- and intra-country conflicts. Geopolitical risk mostly arises from security tensions, war, and terrorist incidents, which hamper peaceful inter-country and regional cooperation, thus endangering state institutions such as financial institutions. Given this observation, the current study examines the relationship between the geopolitical risk index and bank indices by employing the bootstrap panel causality approach over a monthly period from September 2003 to December 2018. In this case, the causality analysis of the geopolitical risk index and bank indices for six (6) countries (China, Indonesia, Israel, Philippines, Saudi Arabia, and Turkey) was performed. Importantly, the investigation found causality only from the geopolitical risk index to bank indices in Turkey and Israel. Given the statistical evidence from the study, we offer related policy recommendations, especially for the examined countries.
+  </article>
   <article id="contributors-article-SVS7Q4QE" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

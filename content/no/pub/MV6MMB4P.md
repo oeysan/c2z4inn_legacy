@@ -1,5 +1,5 @@
 ---
-title: "MV6MMB4P"
+title: "Da katolisismen kom att til Nordvestlandet"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MV6MMB4P" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1818876" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/MV6MMB4P" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-MV6MMB4P" class="csl-bib-button">Medverkande</a>
     <a href="https://press.nordicopenaccess.no/index.php/noasp/catalog/view/104/487/3715-3" class="csl-bib-button">Unpaywall</a>
   </div>

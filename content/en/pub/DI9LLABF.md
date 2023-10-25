@@ -1,5 +1,5 @@
 ---
-title: "DI9LLABF"
+title: "Demography of a Eurasian lynx (Lynx lynx) population within a strictly protected area in Central Europe"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DI9LLABF" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1954277" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DI9LLABF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-DI9LLABF" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-DI9LLABF" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-DI9LLABF" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.nature.com/articles/s41598-021-99337-2.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-DI9LLABF"></div>
 </article>
 <div id="csl-bib-meta-DI9LLABF" class="csl-bib-meta">
+  <article id="abstract-article-DI9LLABF" class="abstract-article">
+    <h1>Abstract</h1>
+    Large carnivores promote crucial ecosystem processes but are increasingly threatened by human persecution and habitat destruction. Successful conservation of this guild requires information on long-term population dynamics obtained through demographic surveys. We used camera traps to monitor Eurasian lynx between 2009 and 2018 in a strictly protected area in the Bohemian Forest Ecosystem, located in the core of the distribution of the Bohemian–Bavarian–Austrian lynx population. Thereby, we estimated sex-specific demographic parameters using spatial capture–recapture (SCR) models. Over 48,677 trap nights, we detected 65 unique lynx individuals. Density increased from 0.69 to 1.33 and from 1.09 to 2.35 individuals/100 km 2 for open and closed population SCR models, respectively, with corresponding positive population growth rates (mean = 1.06). Estimated yearly sex-specific survival probabilities for the entire monitoring period were high (females 82%, males 90%) and per capita recruitment rate was low (females 12%, males 9%), indicating a low yearly population turnover. We ascertained an average number of recruits of 1.97 and a generation time of 2.64 years when considering resident reproducing females. We confirmed that reproduction in the study area took place successfully every year. Despite the overall increase in local lynx densities, the number of detected family groups remained constant throughout the study period. These results indicated that the strictly protected study area acts as a source for the multi-use landscapes in its surroundings. In this first open population SCR study on lynx, we provide sex-specific demographic parameters that are fundamental information for lynx management in the study area as well as in similar contexts Europe-wide.
+  </article>
   <article id="contributors-article-DI9LLABF" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

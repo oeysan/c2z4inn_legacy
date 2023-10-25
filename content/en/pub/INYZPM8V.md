@@ -1,5 +1,5 @@
 ---
-title: "INYZPM8V"
+title: "Internal Communications During the Pandemic: Challenges and Implications"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-INYZPM8V" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2074346" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/INYZPM8V" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-INYZPM8V" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-INYZPM8V" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-INYZPM8V" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-3-030-94814-6_13" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-INYZPM8V"></div>
 </article>
 <div id="csl-bib-meta-INYZPM8V" class="csl-bib-meta">
+  <article id="abstract-article-INYZPM8V" class="abstract-article">
+    <h1>Abstract</h1>
+    The Covid-19 pandemic crisis exerted enormous stress on organizations across the world, setting dampers on business operations, effectiveness, and viability. It negatively impacted on both the organization’s internal and external environments. The immediate implications of the lockdown measures imposed during the Covid-19 is that non-essential organizations had to shut down their premises or reduce the number of employees in any physical spaces. Changes in the way workplace functions during the pandemic put internal communication practices into the fore. Employee communication is considered the lifeblood of any organization. The crisis compelled organizations to respond to and adapt to sudden disruptions in their communication order. This chapter examines the internal communication challenges experienced by universities during the pandemic, as well as how institutions responded to these disruptions and the new dispersed communication environment. It captures the experiences of a Head of Department in the aftermath of the lockdown and how the department navigated the turbulent situation.
+  </article>
   <article id="contributors-article-INYZPM8V" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

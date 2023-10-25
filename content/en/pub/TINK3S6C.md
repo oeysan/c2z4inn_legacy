@@ -1,5 +1,5 @@
 ---
-title: "TINK3S6C"
+title: "Metaphors in high-stakes language exams"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TINK3S6C" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1819145" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/TINK3S6C" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-TINK3S6C" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-TINK3S6C" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-TINK3S6C" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-TINK3S6C"></div>
 </article>
 <div id="csl-bib-meta-TINK3S6C" class="csl-bib-meta">
+  <article id="abstract-article-TINK3S6C" class="abstract-article">
+    <h1>Abstract</h1>
+    Metaphor is often thought to be difficult for second language (L2) learners, especially because successful interpretation may be dependent upon a degree of cultural knowledge that L2 learners may not fully share. As Low pointed out already in 1988 (p.  137), however, “it would be helpful to know whether the ways in which learners learn to cope with metaphor are similar from person to person”. This chapter directly addresses this acknowledged need by reporting on the findings from a corpus-based exploration into manifestations of understanding of metaphor in texts produced by speakers of L2 Norwegian. The empirical data consists of written texts produced by 22 adults with different linguistic and cultural backgrounds, where they respond to a task requiring them to interpret a literary metaphor and incorporate that metaphor in a text about their own lives: a task necessarily involving understanding of metaphor. Their texts were collected in the Norwegian Second Language Corpus, and originally produced as part of a high-stakes language examination primarily intended for immigrants to Norway. The learners were instructed to write a text incorporating their own opinions and experiences of friendship with the message(s) in the Kolbein Falkeid poem Det er langt mellom venner ‘It is far between friends’. At the poem’s core is metaphorical simile steeped in the background of culturally specific Norwegian traditions, suggesting that this task might prove particularly challenging for L2 learners.
+  </article>
   <article id="contributors-article-TINK3S6C" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

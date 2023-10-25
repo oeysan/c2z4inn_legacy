@@ -1,5 +1,5 @@
 ---
-title: "U2FI3JRD"
+title: "Contextual antecedents for team learning in professional service firms"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,20 +9,25 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-U2FI3JRD" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2144581" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/U2FI3JRD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-U2FI3JRD" class="csl-bib-button">Samandrag</a>
     <a href="#sdg-article-U2FI3JRD" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/TLO-11-2022-0139" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-U2FI3JRD"></div>
 </article>
 <div id="csl-bib-meta-U2FI3JRD" class="csl-bib-meta">
+  <article id="abstract-article-U2FI3JRD" class="abstract-article">
+    <h1>Samandrag</h1>
+    PurposeThe purpose of this study is to identify contextual antecedents for team learning in professional service firms. Design/methodology/approachStructural equation modelling was applied to establish reliability and validity and to measure the size of relationships. Evidence was drawn from an empirical sample of 210 consultants in the Nordic professional service industry. FindingsThe findings of this study reveal and strongly support that two important contextual antecedent factors that facilitate for team learning in professional service firms are market orientation and leader support for collaborative learning practices. The effect of leader support on team learning is also mediated by a market orientation. Originality/valueThere is a paucity of knowledge on contextual factors that contribute to team learning. This study provides insight of theoretical and practical value.
+  </article>
   <article id="sdg-article-U2FI3JRD" class="sdg-article">
     <h1>Berekraftsmål</h1>
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">

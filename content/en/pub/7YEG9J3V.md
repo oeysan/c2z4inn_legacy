@@ -1,5 +1,5 @@
 ---
-title: "7YEG9J3V"
+title: "In Search of a Better World?: Reconsidering Sociology and Music Education as Utopian Fields"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,13 +9,29 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7YEG9J3V" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2128143" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/7YEG9J3V" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-7YEG9J3V" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-7YEG9J3V" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-7YEG9J3V"></div>
 </article>
 <div id="csl-bib-meta-7YEG9J3V" class="csl-bib-meta">
+  <article id="abstract-article-7YEG9J3V" class="abstract-article">
+    <h1>Abstract</h1>
+    Music education research has in recent years been interested in defining music education’s societal mission. Concepts such as praxial music education, artistic citizenship, or an activist approach tried to 
+determine that music education’s foremost task would be to transform societies. This seemed urgent in 
+view of global crises. But is music education’s foremost mission really social change? To a certain degree, 
+this is a sociological question. To answer it, a look back to the beginnings of sociology as a field of 
+research is a promising way to go. When sociology emerged as a specific field of investigation, it was not 
+clear if its task would be only analyzing how societies work or proposing necessary changes. The tension 
+between the present and the future, between reality and “utopia” was significant for an emerging field. 
+But the close connection to utopia got lost over time. Sociologist Ruth Levitas revives the approach of 
+understanding sociology as a utopian field and develops the concept of the imaginary reconstitution of 
+society. Furthermore, scholars in utopian studies or political science emphasize the usefulness of utopia 
+in critical relation to transforming societies. Understanding sociology as a utopian field could provide 
+innovative ideas for music education.
+  </article>
   <article id="contributors-article-7YEG9J3V" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

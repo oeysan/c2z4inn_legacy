@@ -1,5 +1,5 @@
 ---
-title: "ICACYF3M"
+title: "Development of a biophysical economics module for the global integrated assessment WORLD7 model"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ICACYF3M" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2141686" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ICACYF3M" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ICACYF3M" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-ICACYF3M"></div>

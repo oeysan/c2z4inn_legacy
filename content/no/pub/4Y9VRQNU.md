@@ -1,5 +1,5 @@
 ---
-title: "4Y9VRQNU"
+title: "Å stjele fra guder"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4Y9VRQNU" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1687455" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/4Y9VRQNU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-4Y9VRQNU" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-4Y9VRQNU" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-4Y9VRQNU"></div>
 </article>
 <div id="csl-bib-meta-4Y9VRQNU" class="csl-bib-meta">
+  <article id="abstract-article-4Y9VRQNU" class="abstract-article">
+    <h1>Samandrag</h1>
+    Dette kapittelet utforsker problemene med å oversette subjektive erfaringer til fag- og profesjonsspråk og om en slik oversettelse er mulig uten å gjøre vold på erfaringene eller misforstå personens opplevde virkelighet. I hvilken grad kan vi beskrive og i neste omgang nå fram til mennesker uten å objektivere den andres virkelighet med allmenne teoretiske begreper? Det første skrittet er det generelle problemet å oversette eller uttrykke følelser i et verbalspråk. Dette var blant annet Jean-Jacques Rousseau (1712–1778) opptatt av, og han mente at følelsene hans aldri kunne uttrykkes godt nok ved hjelp av språket – selv om det var nødvendig for ham som forfatter. Neste skritt i oversettelsen er å få opplevelsen inn i profesjonsspråket, en ytterligere reduksjonisme. Dette var blant annet psykiateren Harry Stack Sullivan opptatt av, noe vi kommer tilbake til i dette kapitlet.
+  </article>
   <article id="contributors-article-4Y9VRQNU" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

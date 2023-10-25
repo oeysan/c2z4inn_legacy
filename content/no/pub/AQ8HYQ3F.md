@@ -1,5 +1,5 @@
 ---
-title: "AQ8HYQ3F"
+title: "The B cell antigen CD75 is a cell surface sialyltransferase"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AQ8HYQ3F" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1912985" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/AQ8HYQ3F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://rupress.org/jem/article-pdf/172/2/641/1394840/641.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-AQ8HYQ3F"></div>

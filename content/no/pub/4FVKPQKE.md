@@ -1,5 +1,5 @@
 ---
-title: "4FVKPQKE"
+title: "The influence of competitive co-action on kata performance"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4FVKPQKE" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1564425" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/4FVKPQKE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-4FVKPQKE" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-4FVKPQKE" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-4FVKPQKE" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://mas.cardiffuniversitypress.org/articles/10.18573/mas.49/galley/55/download/" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-4FVKPQKE"></div>
 </article>
 <div id="csl-bib-meta-4FVKPQKE" class="csl-bib-meta">
+  <article id="abstract-article-4FVKPQKE" class="abstract-article">
+    <h1>Samandrag</h1>
+    Social facilitation is a phenomenon that can help explain performance outcomes in competitive sports. Previous research has shown that performing in the presence of others may increase physiological arousal and that performance can be either facilitated or inhibited depending on the skill level of the performers and the complexity of the skill performed. Although extensive research on this phenomenon has been reported in the sport psychology and related literature, previous findings have not focused on individual differences in terms of how social facilitation influences performance, and very little research has focused on martial arts. To bridge these gaps in knowledge, we investigated how a co-action situation would affect performance among 17 participants performing karate kata routines at a regional competition in SE England, comparing outcomes across age and sex variables. Expert judges awarded scores to each participant in both solo and co-action settings. Results showed higher performance scores in the co-action setting across the entire sample, with female karateka and older performers appearing to benefit the most. We argue that more research is required to explain this phenomenon, specifically with respect to understanding the apparent effects of age and sex on social facilitation.
+  </article>
   <article id="contributors-article-4FVKPQKE" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

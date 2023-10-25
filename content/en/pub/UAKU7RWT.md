@@ -1,5 +1,5 @@
 ---
-title: "UAKU7RWT"
+title: "Big Data Analytics and Decision-Making: The Role of Data-driven Insight on Circular Economy Performance"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UAKU7RWT" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2096682" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/UAKU7RWT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UAKU7RWT" class="csl-bib-button">Contributors</a>
     <a href="https://kar.kent.ac.uk/87393/3/tfsc%20manuscript%2018mrch.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

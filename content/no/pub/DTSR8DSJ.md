@@ -1,5 +1,5 @@
 ---
-title: "DTSR8DSJ"
+title: "Effects of Income and Price on Household’s Charcoal Consumption in Three Cities of Tanzania"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DTSR8DSJ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2042179" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DTSR8DSJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-DTSR8DSJ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-DTSR8DSJ" class="csl-bib-button">Medverkande</a>
     <a href="https://downloads.hindawi.com/journals/ijfr/2022/9988979.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-DTSR8DSJ"></div>
 </article>
 <div id="csl-bib-meta-DTSR8DSJ" class="csl-bib-meta">
+  <article id="abstract-article-DTSR8DSJ" class="abstract-article">
+    <h1>Samandrag</h1>
+    More than 80% of the urban and periurban population in Tanzania depend on charcoal as their main source of energy for cooking. This charcoal is supplied from natural forests, mainly Miombo woodlands, and the high charcoal consumption is a main trigger for deforestation, forest degradation, and climate gas emissions. The country’s urban population is increasing at an annual rate of 5-6%, and better understanding of the urban demand for charcoal is of high interest regarding the country’s energy development, climate mitigation, and land use. We surveyed 360 households situated in the Tanzanian cities Dodoma, Morogoro, and Mtwara and analyzed statistically the impacts of household income, charcoal prices, and household size on the per capita charcoal consumption. For the total sample, statistically significant elasticities were found to be 0.03, −0.13, and −0.62 for per capita income, charcoal price, and household size, respectively. In the low-income group, the elasticities of charcoal price and household size were found to be statistically significant with the values of −0.44 and −0.59, respectively, whereas in the middle-income group, the household size was the only statistically significant variable, with elasticity −0.81. In the high-income group, we got statistically significant elasticities of 0.17 for per capita income and −0.44 for household size. These results are based on small samples and should be followed up by larger surveys.
+  </article>
   <article id="contributors-article-DTSR8DSJ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

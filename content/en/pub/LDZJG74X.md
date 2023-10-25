@@ -1,5 +1,5 @@
 ---
-title: "LDZJG74X"
+title: "Morphological Characterization of Nordic Horseradish (Armoracia rusticana)"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LDZJG74X" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1710308" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LDZJG74X" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-LDZJG74X" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-LDZJG74X" class="csl-bib-button">Contributors</a>
     <a href="https://doi.org/10.2478/botlit-2019-0008" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LDZJG74X"></div>
 </article>
 <div id="csl-bib-meta-LDZJG74X" class="csl-bib-meta">
+  <article id="abstract-article-LDZJG74X" class="abstract-article">
+    <h1>Abstract</h1>
+    Morphological diversity was studied in 101 accessions of horseradish (Armoracia rusticana) collected from old 
+gardens in Denmark, Norway, Finland and Sweden. The characterization work was performed over three years,where a total of 19 descriptors from the UPOV guidelines G/191/2-2001 were recorded each year. The results showed high diversity among the studied accessions, both for leaf and rhizome characters. A morphotype with long leaves and a high leaf length/leaf width quota was the most common, but also elliptic and heart-shaped leaf types were found. Some characters showed stability over the years, although there were variations in the results. Correlations between descriptors were found and five different clusters of descriptors were identified. In two of the clusters, only leaf characters were found, whereas the rhizome characters were divided into three other clusters. Correlation between descriptors can be used to reduce the number of descriptors for further studies of horseradish. The results showed that there is a high diversity both in leaf and rhizome characters, despite that horseradish is a vegetatively propagated plant.
+  </article>
   <article id="contributors-article-LDZJG74X" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

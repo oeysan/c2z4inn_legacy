@@ -1,21 +1,27 @@
 ---
-title: "G3WVHIR5"
+title: "Wise groups and humble persons: the best of both worlds?"
 type: pub
 ---
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-G3WVHIR5" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Skipper, M. (2023). Wise Groups and Humble Persons: The Best of Both Worlds? <i>Asian Journal of Philosophy</i>, <i>2</i>(4). <a href="https://hdl.handle.net/11250/3082493">https://hdl.handle.net/11250/3082493</a></div>
+  <div class="csl-entry">Skipper, M. (2023). Wise groups and humble persons: the best of both worlds? <i>Asian Journal of Philosophy</i>, <i>2</i>(1). <a href="https://doi.org/10.1007/s44204-022-00057-9">https://doi.org/10.1007/s44204-022-00057-9</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-G3WVHIR5" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2095942" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/G3WVHIR5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-G3WVHIR5" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-G3WVHIR5" class="csl-bib-button">Medverkande</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s44204-022-00057-9.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-G3WVHIR5"></div>
 </article>
 <div id="csl-bib-meta-G3WVHIR5" class="csl-bib-meta">
+  <article id="abstract-article-G3WVHIR5" class="abstract-article">
+    <h1>Samandrag</h1>
+    This paper is about a problem that can arise when we try to harness the “wisdom of the crowd” from groups comprised of individuals who exhibit a certain kind of epistemic humility in the way they respond to testimonial evidence. I begin by setting out the problem and then make some initial steps toward solving it. The solution I develop is tentative and may not apply in all circumstances, but it promises to alleviate what seems to me to be a problem of both theoretical interest and practical importance.
+  </article>
   <article id="contributors-article-G3WVHIR5" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

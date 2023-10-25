@@ -1,5 +1,5 @@
 ---
-title: "MDFTD8MG"
+title: "Virkningen av stress, angst og depresjon på livskvaliteten hos voksne med en tilstand innenfor autismespekteret (AST)"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MDFTD8MG" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2007334" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/MDFTD8MG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-MDFTD8MG" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-MDFTD8MG" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-MDFTD8MG"></div>
 </article>
 <div id="csl-bib-meta-MDFTD8MG" class="csl-bib-meta">
+  <article id="abstract-article-MDFTD8MG" class="abstract-article">
+    <h1>Samandrag</h1>
+    Studiene som ble vurdert i denne oversiktsartikkelen, vist at voksne med AST har gjennomgående dårligere livskvalitet enn kontrollgrupper av typisk utviklede voksne. I de studiene som ikke hadde inkludert en kontrollgruppe, sammenlignet man resultatene med populasjonsnormer eller undersøkte innenfor AST-gruppen hvordan stress, angst og depresjon, noen ganger sammen med andrevariabler, påvirket livskvaliteten hos voksne med AST. Funnene i disse enkeltstudiene viste gjennomgående at voksne og eldre med AST hadde mer stress, angst og depresjon enn ikke-autistiske personer, og disse problemene predikerte i betydelig grad dårlig livskvalitet hos målgruppen. Noen studier viste at forekomst av mobbing i barne- eller ungdomsårene var assosiert med dårlig livskvalitet i voksen-alderen, og den verbale mobbingen var alvorligere enn den fysiske eller indirekte mobbingen.
+  </article>
   <article id="contributors-article-MDFTD8MG" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

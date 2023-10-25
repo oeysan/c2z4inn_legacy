@@ -1,5 +1,5 @@
 ---
-title: "ARIMVQEC"
+title: "Syrian Refugee Youth Resettled in Norway: Mechanisms of Resilience Influencing Health-Related Quality of Life and Mental Distress"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ARIMVQEC" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1929119" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ARIMVQEC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ARIMVQEC" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-ARIMVQEC" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-ARIMVQEC" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2021.711451/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-ARIMVQEC"></div>
 </article>
 <div id="csl-bib-meta-ARIMVQEC" class="csl-bib-meta">
+  <article id="abstract-article-ARIMVQEC" class="abstract-article">
+    <h1>Abstract</h1>
+    Background: The importance of resilience factors in the positive adaptation of refugee youth is widely recognised. However, their actual mechanism of impact remains under-researched. The aim of this study was therefore to explore protective and promotive resilience mechanisms to inform future interventions and policy. Promotive resilience is seen as a direct main effect and protective resilience as a moderating effect. Methods: This was a cross-sectional study of Syrian youth recently resettled in Norway, aged 13–24 years. Regression and moderation analyses were used to explore different interactions, including moderated mediation using the PROCESS macro for SPSS. Result: A direct main effect of promotive resilience was found for health-related quality of life (HRQoL) and general mental distress, but not for post-traumatic stress disorder (PTSD). No moderating effects of protective resilience were found. Post-migration stressors mediated the effects of potentially traumatic events (PTE) from war and flight, and this indirect effect was present at all levels of resilience. Conclusion: Despite high risk exposure and mental distress, resilience was also high. Broad resilience interventions targeting multiple factors would likely benefit the group, but these should include both individual assets and building supportive environments. Additionally, reducing current stress and providing treatment for those in need could enable recovery and increase the efficacy of resilience factors already present.
+  </article>
   <article id="contributors-article-ARIMVQEC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

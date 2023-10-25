@@ -1,5 +1,5 @@
 ---
-title: "KE6C4HL3"
+title: "Språkreiser: festskrift til Anne Golden på 70-årsdagen 14. juli 2020"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KE6C4HL3" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1817223" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KE6C4HL3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KE6C4HL3" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-KE6C4HL3" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-KE6C4HL3"></div>
 </article>
 <div id="csl-bib-meta-KE6C4HL3" class="csl-bib-meta">
+  <article id="abstract-article-KE6C4HL3" class="abstract-article">
+    <h1>Samandrag</h1>
+    Professor Anne Golden er en av nestorene innen norsk andrespråksforskning, og med artikkelsamlingen Språkreiser - festskrift til Anne Golden på 70-års-dagen 14. juli 2020 hedres hun av venner og kolleger. Metaforen i tittelen - passer godt både til jubilantens liv og virke som forsker og til innholdet i festskriftet. Interesse for hva som skjer når personer så å si forflytter seg til språk, med språk og mellom språk, har preget Anne Golden gjennom hele karrieren. Hun har forsket om et bredt spekter av temaer som har med andrespråk og flerspråklighet å gjøre, blant annet tilegnelse av ordforråd, forståelse av metaforer, norsk grammatikk i andrespråksperspektiv, andrespråksskriving, transfer, vurdering av språkferdigheter og språkbruksmønstre i flerspråklige familier. De 15 bidragene i festskriftet dreier seg om flere av disse forskningstemaene. Artikkelforfattere utenfra Norge er Scott Jarvis, University of Utah, Åsa Palviainen, Jyväskylä universitet, Åke Viberg, Uppsala universitet og Anne Holmen, Københavns Universitet. Elizabeth Lanza, Bente Ailin Svendsen, Else Ryen og Ingebjørg Tonne er kolleger av Anne Golden ved Senter for flerspråklighet ved Universitetet i Oslo. Fra Høgskolen i Innlandet kommer Bård Uri Jensen, Lars Anders Kulbrandstad, Lise Iversen Kulbrandstad, Marte Monsen, Susan Nacey, Marte Nordanger og Guri Bordal Steien. Universitetet i Bergen er representert ved Ingvild Nistov, Helga Mannsåker og Kari Tenfjord, mens Ingri Dommersnes Jølbo er fra Universitetet i Stavanger og Ingunn I. Ims fra Uni.versitetet i Sørøst-Norge. Anne Goldens sønn, Johan Golden, har skrevet en hilsen til muttern, og Tabula Gratulatoria inneholder navn på i alt 125 personer og institusjoner fra innland og utland.
+  </article>
   <article id="contributors-article-KE6C4HL3" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

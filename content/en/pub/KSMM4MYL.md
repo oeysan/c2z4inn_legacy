@@ -1,5 +1,5 @@
 ---
-title: "KSMM4MYL"
+title: "How transformational learning promotes caring, consultation and creativity, and ultimately contributes to sustainable development: Lessons from the Partnership for Education and Research about Responsible Living (PERL) network"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KSMM4MYL" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1434654" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KSMM4MYL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KSMM4MYL" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-KSMM4MYL" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-KSMM4MYL" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/s11159-017-9688-4" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-KSMM4MYL"></div>
 </article>
 <div id="csl-bib-meta-KSMM4MYL" class="csl-bib-meta">
+  <article id="abstract-article-KSMM4MYL" class="abstract-article">
+    <h1>Abstract</h1>
+    Oases of learning which are transformative and lead to significant behavioural change can be found around the globe. Transformational learning has helped learners not only to understand what they have been taught but also to re-conceptualise and re-apply this understanding to their daily lives. Unfortunately, as many global reports indicate, inspirational transformational learning approaches for sustainable development are rare and have yet to become the norm – despite calls for such approaches by several outstanding educators and organisations. This article examines three learning approaches developed by the network of the Partnership for Education and Research about Responsible Living (PERL). These approaches are structured around core elements of transformative learning for sustainable development, yet focus particularly on the ability to care, consult with others and be creative. They seem to depend on the learners’ ability to articulate their perceptions of sustainable development in relation to their own values and to identify how these are actualised in their daily life. Together with other core elements of transformative learning, an almost magical (not precisely measurable) synergy then emerges. The intensity of this synergy appears to be directly related to the individual learner’s understanding of the contradictions, interlinkages and interdependencies of modern society. The impact of this synergy seems to be concurrent with the extent to which the learner engages in a continual learning process with those with whom he/she has contact. The findings of this study suggest that mainstreaming transformational learning for sustainable development in ways that release the “magic synergy of creative caring” can result in the emergence of individuals who are willing and able to move from “business as usual” towards more socially just, economically equitable, and environmentally sensitive behaviour.
+  </article>
   <article id="contributors-article-KSMM4MYL" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

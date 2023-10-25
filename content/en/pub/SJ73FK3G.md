@@ -1,5 +1,5 @@
 ---
-title: "SJ73FK3G"
+title: "Reply to comments by Treves et al. on Liberg et al. (2020)"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SJ73FK3G" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2032624" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/SJ73FK3G" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SJ73FK3G" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.biocon.2020.108644" class="csl-bib-button">EZproxy</a>
   </div>

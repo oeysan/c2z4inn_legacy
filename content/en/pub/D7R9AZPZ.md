@@ -1,5 +1,5 @@
 ---
-title: "D7R9AZPZ"
+title: "Ongoing niche differentiation under high gene flow in a polymorphic brackish water threespine stickleback (Gasterosteus aculeatus) population"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-D7R9AZPZ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1562481" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/D7R9AZPZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-D7R9AZPZ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-D7R9AZPZ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-D7R9AZPZ" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://bmcevolbiol.biomedcentral.com/track/pdf/10.1186/s12862-018-1128-y" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,31 @@ type: pub
   <div id="csl-bib-meta-container-D7R9AZPZ"></div>
 </article>
 <div id="csl-bib-meta-D7R9AZPZ" class="csl-bib-meta">
+  <article id="abstract-article-D7R9AZPZ" class="abstract-article">
+    <h1>Abstract</h1>
+    Background: Marine threespine sticklebacks colonized and adapted to brackish and freshwater environments since 
+the last Pleistocene glacial. Throughout the Holarctic, three lateral plate morphs are observed; the low, partial and 
+completely plated morph. We test if the three plate morphs in the brackish water Lake Engervann, Norway, differ in 
+body size, trophic morphology (gill raker number and length), niche (stable isotopes; δ15N, δ13C, and parasites 
+(Theristina gasterostei, Trematoda spp.)), genetic structure (microsatellites) and the lateral-plate encoding Stn382 
+(Ectodysplasin) gene. We examine differences temporally (autumn 2006/spring 2007) and spatially (upper/lower 
+sections of the lake – reflecting low versus high salinity). 
+Results: All morphs belonged to one gene pool. The complete morph was larger than the low plated, with the partial 
+morph intermediate. The number of lateral plates ranged 8–71, with means of 64.2 for complete, 40.3 for partial, and 
+14.9 for low plated morph. Stickleback δ15N was higher in the lower lake section, while δ13C was higher in the upper 
+section. Stickleback isotopic values were greater in autumn. The low plated morph had larger variances in δ15N and 
+δ13C than the other morphs. Sticklebacks in the upper section had more T. gasterostei than in the lower section which 
+had more Trematoda spp. Sticklebacks had less T. gasterostei, but more Trematoda spp. in autumn than spring. 
+Sticklebacks with few and short rakers had more T. gasterostei, while sticklebacks with longer rakers had more 
+Trematoda. spp. Stickleback with higher δ15N values had more T. gasterostei, while sticklebacks with higher δ15N and 
+δ13C values had more Trematoda spp. The low plated morph had fewer Trematoda spp. than other morphs. 
+Conclusions: Trait-ecology associations may imply that the three lateral plate morphs in the brackish water lagoon of 
+Lake Engervann are experiencing ongoing divergent selection for niche and migratory life history strategies under high 
+gene flow. As such, the brackish water zone may generally act as a generator of genomic diversity to be selected upon 
+in the different environments where threespine sticklebacks can live. 
+Adaptation, Ectodysplasin, Evolution, Gill raker, Natural selection, Panmixia, Stable isotope analyses, Stn382, 
+Theristina gasterostei, Trematoda spp
+  </article>
   <article id="contributors-article-D7R9AZPZ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

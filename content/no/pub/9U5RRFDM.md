@@ -1,5 +1,5 @@
 ---
-title: "9U5RRFDM"
+title: "Health Professionals’ Experiences with Treatment Engagement Among Immigrants with Co-occurring Substance Use- and Mental Health Disorders in Norway"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9U5RRFDM" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1922774" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9U5RRFDM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-9U5RRFDM" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-9U5RRFDM" class="csl-bib-button">Medverkande</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/11782218211028667" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-9U5RRFDM"></div>
 </article>
 <div id="csl-bib-meta-9U5RRFDM" class="csl-bib-meta">
+  <article id="abstract-article-9U5RRFDM" class="abstract-article">
+    <h1>Samandrag</h1>
+    Immigrants face barriers in seeking and accessing mental health and addiction services. Health professionals are crucial in providing and promoting healthcare and it is important to understand their experiences in order to enhance the access of mental healthcare. The aim of this paper is to explore and describe health professionals’ experiences with treatment engagement among immigrants with co-occurring substance use disorders (SUD) and mental health disorders (MHD) in Norwegian mental health and addiction services. Within a collaborative approach, 3 focus group interviews were conducted with health professionals, who had provided various mental health and addiction care services to immigrants with co-occurring SUD and MHD. The focus group interviews were transcribed verbatim and analyzed using systematic text condensation. The analysis resulted in 5 main categories: (1) difficulties due to language barriers, (2) difficulties due to lack of culturally competent services, (3) difficulties due to social factors, (4) being curious and flexible improves the user-provider relationship, and (5) increasing access to mental health and addiction services. This study provides an enhanced understanding of how health professionals’ experienced treatment engagement among immigrants with co-occurring SUD and MHD in the Norwegian context. Implications of the findings for clinical practice and future research are discussed.
+  </article>
   <article id="contributors-article-9U5RRFDM" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "Y25D2VHD"
+title: "Help and Care to Older Parents in the Digital Society"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Y25D2VHD" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2149830" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/Y25D2VHD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Y25D2VHD" class="csl-bib-button">Contributors</a>
     <a href="https://tidsskrift.dk/njwls/article/download/137453/181788" class="csl-bib-button">Unpaywall</a>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: "QXHT5KQF"
+title: "Accounting for cross-location technological heterogeneity in the measurement of operations efficiency and productivity"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QXHT5KQF" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1978794" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/QXHT5KQF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://arxiv.org/pdf/2302.13430" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-QXHT5KQF"></div>

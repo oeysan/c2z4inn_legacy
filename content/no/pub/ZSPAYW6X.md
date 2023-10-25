@@ -1,5 +1,5 @@
 ---
-title: "ZSPAYW6X"
+title: "Migration of an Escape Room–Style Educational Game to an Online Environment: Design Thinking Methodology"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZSPAYW6X" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2056351" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZSPAYW6X" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ZSPAYW6X" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-ZSPAYW6X" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-ZSPAYW6X" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9555328" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-ZSPAYW6X"></div>
 </article>
 <div id="csl-bib-meta-ZSPAYW6X" class="csl-bib-meta">
+  <article id="abstract-article-ZSPAYW6X" class="abstract-article">
+    <h1>Samandrag</h1>
+    The COVID-19 pandemic outbreak has led to a sudden change in education, closing schools and shifting to onlineteaching, which has become an enormous challenge for teachers and students. Implementing adequate online pedagogicalapproaches and integrating different digital tools in the teaching process have become a priority in educational systems. Findinga way to keep students' interest and persistence in learning is an important issue that online education is facing. One possible wayto establish engaging and interactive learning environments, using the energy and enthusiasm of students for educational purposes,is the use of game-based learning activities and gamification of different parts of the educational process.
+  </article>
   <article id="contributors-article-ZSPAYW6X" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

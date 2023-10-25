@@ -1,5 +1,5 @@
 ---
-title: "V99TNRF8"
+title: "Sports Coaches’ Athlete Talent Mindset and Views Regarding Talent Identification in Norway"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-V99TNRF8" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2096166" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/V99TNRF8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-V99TNRF8" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-V99TNRF8" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1123/iscj.2022-0010" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-V99TNRF8"></div>
 </article>
 <div id="csl-bib-meta-V99TNRF8" class="csl-bib-meta">
+  <article id="abstract-article-V99TNRF8" class="abstract-article">
+    <h1>Samandrag</h1>
+    We investigated coaches’ mindsets of athletic talent as conceptualised by Dweck (athlete talent mindset, A-TM) along with the athlete age at which they believe talent can be identified. We also looked at the age of talent identification in coaches of different A-TM. Using data collected as part of a survey conducted in Norway, the 3,830 participating coaches were men and women between 16 and 83 years of age. Overall, the coaches held a predominantly growth A-TM. However, older coaches, those not born in Norway, and coaches in athletics, gymnastics, and football were found to have a more fixed A-TM. Regarding their views about talent identification age, one fifth of the coaches believe that talent can be seen before 12 years of age, with football, gymnastics, and swimming coaches and those not born in Norway being more prone to detect talent at younger ages. Analyses also showed that the more fixed A-TM coaches believed that they could identify talented athletes at younger ages; however, not all of them reported such talent identification age views. These findings indicate that coaches’ A-TM and views regarding talent identification operate as two separate beliefs, which may be useful for understanding coaches’ early talent identification and development approaches.
+  </article>
   <article id="contributors-article-V99TNRF8" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

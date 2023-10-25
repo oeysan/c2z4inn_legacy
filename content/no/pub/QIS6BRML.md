@@ -1,5 +1,5 @@
 ---
-title: "QIS6BRML"
+title: "Low-Carbohydrate High-Fat Diet and Exercise: Effect of a 10-Week Intervention on Body Composition and CVD Risk Factors in Overweight and Obese Women—A Randomized Controlled Trial"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QIS6BRML" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1869642" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/QIS6BRML" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-QIS6BRML" class="csl-bib-button">Medverkande</a>
     <a href="https://www.mdpi.com/2072-6643/13/1/110/pdf?version=1609584793" class="csl-bib-button">Unpaywall</a>
   </div>

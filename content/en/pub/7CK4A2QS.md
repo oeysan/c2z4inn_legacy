@@ -1,5 +1,5 @@
 ---
-title: "7CK4A2QS"
+title: "Transitions into Coach Development: You Coached So You Can Develop"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7CK4A2QS" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2138361" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/7CK4A2QS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-7CK4A2QS" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-7CK4A2QS" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-7CK4A2QS"></div>
 </article>
 <div id="csl-bib-meta-7CK4A2QS" class="csl-bib-meta">
+  <article id="abstract-article-7CK4A2QS" class="abstract-article">
+    <h1>Abstract</h1>
+    This chapter explores the role and ways of development of the coach developer as well as the knowledge and skills they need to support the preparation and ongoing development of sport coaches. The role of the coach has been identified as central to supporting development, potential, and well-being of the athletes, and prior athletic experience has been recognized as being insufficient and not a reliable indication of proper preparation to coach. The recognition of the breadth and depth of sport settings across which coaches may perform in and thus need preparation support for and development support within highlights the need to understand the range of knowledge and skills a coach developer needs to be effective. It elaborates on the transition into the coach development role considering the coach developer tasks, context, and essential elements for capitalizing on it.
+  </article>
   <article id="contributors-article-7CK4A2QS" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

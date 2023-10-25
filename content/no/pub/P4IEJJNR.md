@@ -1,5 +1,5 @@
 ---
-title: "P4IEJJNR"
+title: "Children born to women in opioid maintenance treatment: A longitudinal study of child behavioral problems and parenting stress"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-P4IEJJNR" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2101070" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/P4IEJJNR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-P4IEJJNR" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-P4IEJJNR" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-P4IEJJNR" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fped.2022.1087956/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-P4IEJJNR"></div>
 </article>
 <div id="csl-bib-meta-P4IEJJNR" class="csl-bib-meta">
+  <article id="abstract-article-P4IEJJNR" class="abstract-article">
+    <h1>Samandrag</h1>
+    In the wake of the “opioid epidemic”, there is considerable concern regarding potential harmful long-term effects of prenatal opioid exposure. Opioid misuse and addiction confer increased exposure to lifestyle stressors and health burdens. Accordingly, it is challenging to disentangle effects of prenatal opioid exposure per se from factors related to maternal stress. In this study, we followed 36 women enrolled in comprehensive opioid maintenance treatment (OMT) program and their children alongside 36 age-matched mother-child dyads from a community sample (COMP) from pregnancy until child-age 8 years. Across five sessions, we used a battery of well-established questionnaires to investigate trajectories of parenting stress and mental health symptoms as well as child behavior problems. The 8-year retention was relatively high (OMT: 72%, COMP: 67%), and the OMT sample remarkably stable and well-functioning, with minimal concomitant illicit drug use. Mixed effects regressions showed significantly different trajectories of child behavior problems ( F  = 3.8, p  = 0.024) and parenting stress ( F  = 3.1, p  = 0.016) in the two groups. Differences in experienced stress were largely explained by more distress specifically related to the parenting role in the OMT group ( F  = 9.7, p  = 0.003). The OMT sample also reported higher psychological distress ( F  = 15.6, p   0.001) than the comparison group, but notably few participants presented with problems that warranted clinical intervention. The results underscore the benefits of tailored follow-up of children prenatally exposed to opioids and their families beyond infancy and toddlerhood. Long-term direct effects of prenatal opioid exposure on behavior problems are likely modest, given an otherwise stable caregiving environment conducive to healthy development.
+  </article>
   <article id="contributors-article-P4IEJJNR" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

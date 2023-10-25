@@ -1,5 +1,5 @@
 ---
-title: "R3IUDXZZ"
+title: "A Critical Realist Critique of “Measurement in Quantitative Educational Research: An Instrumental Mistake?” by Sigve Høgheim"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-R3IUDXZZ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2179357" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/R3IUDXZZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-R3IUDXZZ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-R3IUDXZZ" class="csl-bib-button">Contributors</a>
     <a href="https://pedagogikkogkritikk.no/index.php/ntpk/article/download/5660/8960" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-R3IUDXZZ"></div>
 </article>
 <div id="csl-bib-meta-R3IUDXZZ" class="csl-bib-meta">
+  <article id="abstract-article-R3IUDXZZ" class="abstract-article">
+    <h1>Abstract</h1>
+    Both Sigve Høgheim and I advance a similar critique of representationalism, operationalism and construct validity as found in psychology. Our respective critiques hinge on the way that these concepts do not adequately consider the ontological question about the reality of our constructs. Høgheim suggests that we can circumvent the problem by returning to the classic definition of measurement which avoids “coding,” but I think that avoiding coding (representation, modelling, theorising) is impossible. Instead of trying to avoid it, I suggest that we embrace it, using a number of critical realist concepts such as emergence, layered reality, retroduction, judgemental rationalism and the semiotic triangle. I also argue that the current approach to operationalism reflects a deep contradiction, known as the epistemic fallacy, in which scientists reduce questions of ontology to questions of epistemology. Nevertheless, despite their contradictory version of science, research scientists in the fields of psychology and education still manage to discover things about the world, but in order to do so, they need to break their own rules. Høgheim wants such scientists to avoid the contradiction – the breaking of the rules of science – by remaining faithful to Euclid, Newton, and Descartes. On the contrary, I suggest that the contradiction can be avoided by changing the theory of science to a more adequate, critical realist version that better reflects the scientific practice of psychologists and educators.
+  </article>
   <article id="contributors-article-R3IUDXZZ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

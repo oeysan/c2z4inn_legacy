@@ -1,5 +1,5 @@
 ---
-title: "HB2VD7BT"
+title: "Den norske skolen: utdanningssystemets historie"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HB2VD7BT" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1459477" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HB2VD7BT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HB2VD7BT" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-HB2VD7BT"></div>

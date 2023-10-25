@@ -1,5 +1,5 @@
 ---
-title: "ZD2AAMRM"
+title: "Cytokine Changes following Acute Ethanol Intoxication in Healthy Men: A Crossover Study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZD2AAMRM" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1420096" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZD2AAMRM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ZD2AAMRM" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-ZD2AAMRM" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-ZD2AAMRM" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://downloads.hindawi.com/journals/mi/2016/3758590.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-ZD2AAMRM"></div>
 </article>
 <div id="csl-bib-meta-ZD2AAMRM" class="csl-bib-meta">
+  <article id="abstract-article-ZD2AAMRM" class="abstract-article">
+    <h1>Abstract</h1>
+    Alcohol is a known modulator of the innate immune system. Owing to the absence of human studies, alcohol’s effect on circulating cytokine profile remains unclear. We investigated the effect of acute high dose alcohol consumption on systemic cytokine release. After an overnight fasting, alcohol-experienced healthy male volunteers () aged 25–45 years were given oral ethanol in the form of vodka (4.28 mL/kg) which they drank over a period of 30 minutes reaching peak blood alcohol concentration of 0.12% (SD 0.028). Blood samples were obtained prior to alcohol intake as well as 2, 7, and 12 hours thereafter. Serum levels of the inflammatory cytokines IL-1β, IL-1Ra, IL-6, IL-10, IL-17, IFN-γ, MCP-1, and TNF-α were determined by the multibead-based assay. Baseline cytokine levels were not related to BMI, hepatic parameters, electrolytes, glucose, or morning cortisol levels. Within 2 hours of alcohol intake, levels of IL-1Ra were elevated and remained so throughout the assessment period ( for trend = 0.015). In contrast, the levels of the chemokine MCP-1 dropped acutely followed by steadily increasing levels during the observation period (). The impact of sustained elevated levels of MCP-1 even after the clearance of blood alcohol content deserves attention.
+  </article>
   <article id="contributors-article-ZD2AAMRM" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

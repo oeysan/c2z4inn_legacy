@@ -1,5 +1,5 @@
 ---
-title: "J6X6QAML"
+title: "The burden of common skin diseases assessed with the EQ5D™: a European multicentre study in 13 countries"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-J6X6QAML" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1419774" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/J6X6QAML" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-J6X6QAML" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-J6X6QAML" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-J6X6QAML" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1111/bjd.15280" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,30 @@ type: pub
   <div id="csl-bib-meta-container-J6X6QAML"></div>
 </article>
 <div id="csl-bib-meta-J6X6QAML" class="csl-bib-meta">
+  <article id="abstract-article-J6X6QAML" class="abstract-article">
+    <h1>Abstract</h1>
+    Background Generic instruments measuring health related quality of life (HRQoL), like EQ5D,  
+enable comparison of skin diseases with healthy populations and non-dermatological medical  
+conditions, as well as calculation of utility data.  
+Objectives The aims were to measure HRQoL in patients with common skin diseases and healthy controls across Europe using the EQ5D.  
+Methods This multi-center observational cross-sectional study was conducted in 13 European  
+countries. Each dermatology clinic recruited at least 250 consecutive adult outpatients to complete  
+questionnaires, including the EQ5D.  
+Results There were 5369 participants, 4010 patients and 1359 controls. Mean self-rated health state  
+reported by patients was 69.9 (SD 19.7), controls 82.2 (SD 15.5). When adjusted for confounding  
+factors, including comorbidity, mean patient EQ-VAS scores were 10.5 points lower than for controls  
+(standardized β = −0.23). Odds ratio with 95% confidence interval for impairment in all 5 dimensions  
+of EQ5D adjusted for confounders was doubled for patients compared with controls. Patients with  
+hidradenitis suppurativa (HS), blistering conditions, leg ulcers, psoriasis and eczemas had the highest  
+risk for reduction in HRQoL in most dimensions (two-tenfold). Data on differences of impairment by  
+dimensions offer new insights.  
+Conclusions This study confirms the large impact skin conditions have on patients’ wellbeing,  
+differentiating between aspects of HRQoL. Patients with HS, blistering diseases, leg ulcers, infections  
+and most chronic skin diseases reported reduced HRQoL comparable to patients with chronic  
+obstructive lung disease, diabetes mellitus, cardio-vascular disease and cancers. These findings are  
+important in the prioritization of resource allocation between medical fields and within dermatological  
+sub-specialities.
+  </article>
   <article id="contributors-article-J6X6QAML" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "E25S8RZT"
+title: "Dilemmas and deliberations in managing the care trajectory of elderly patients with complex health needs: a single-case study"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E25S8RZT" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2045649" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/E25S8RZT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-E25S8RZT" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-E25S8RZT" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-E25S8RZT" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-022-08422-3" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-E25S8RZT"></div>
 </article>
 <div id="csl-bib-meta-E25S8RZT" class="csl-bib-meta">
+  <article id="abstract-article-E25S8RZT" class="abstract-article">
+    <h1>Samandrag</h1>
+    Today, the ageing population is larger than ever before, and people who are living longer with chronic illnesses and multimorbidity need support from multiple healthcare service levels. Similarly, healthcare systems are becoming increasingly specialised and fragmented. The World Health Organization has highlighted novel policies for developing integrated and person-centred services. However, patients, next of kin and health professionals face several challenges in managing healthcare during the care trajectory. Limited literature has addressed the challenges experienced by these groups. Therefore, this study aimed to identify the dilemmas and deliberations faced by patients, next of kin and health professionals during the care trajectory of elderly patients with complex healthcare needs.
+  </article>
   <article id="contributors-article-E25S8RZT" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

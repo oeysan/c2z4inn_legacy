@@ -1,5 +1,5 @@
 ---
-title: "HZ6UTIWT"
+title: "Partially Reversible Immobilization of Free-Ranging Huemul Deer (Hippocamelus bisulcus) with Medetomidine-Ketamine and Atipamezole"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HZ6UTIWT" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1955828" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HZ6UTIWT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HZ6UTIWT" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.7589/JWD-D-20-00199" class="csl-bib-button">EZproxy</a>
   </div>

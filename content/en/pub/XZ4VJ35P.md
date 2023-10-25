@@ -1,5 +1,5 @@
 ---
-title: "XZ4VJ35P"
+title: "«Dette er det vanskeligste av alt: å være seg sjøl – og synes at det duger»: En autoetnografisk artikkel om avvisning i akademia"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XZ4VJ35P" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1833363" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/XZ4VJ35P" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-XZ4VJ35P" class="csl-bib-button">Contributors</a>
     <a href="https://www.idunn.no/file/pdf/67228544/dette_er_det_vanskeligste_av_alt_aa_vaere_seg_sjoel_og_syn.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

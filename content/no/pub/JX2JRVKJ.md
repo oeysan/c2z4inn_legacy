@@ -1,5 +1,5 @@
 ---
-title: "JX2JRVKJ"
+title: "Stata tip 136: Between-group comparisons in a scatterplot with weighted markers"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JX2JRVKJ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1816481" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JX2JRVKJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/1536867X20931008" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-JX2JRVKJ"></div>

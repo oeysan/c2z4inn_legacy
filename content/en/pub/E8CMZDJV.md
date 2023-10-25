@@ -1,5 +1,5 @@
 ---
-title: "E8CMZDJV"
+title: "“I felt some prejudice in the back of my head”: Nursing students’ perspectives on learning about mental health from “Experts by Experience”"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E8CMZDJV" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1718715" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/E8CMZDJV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="http://minerva-access.unimelb.edu.au/bitstreams/b14ecf85-0883-5621-b62a-7acef60fe84c/download" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-E8CMZDJV"></div>

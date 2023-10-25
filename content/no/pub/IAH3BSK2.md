@@ -1,5 +1,5 @@
 ---
-title: "IAH3BSK2"
+title: "Wolf habitat selection when sympatric or allopatric with brown bears in Scandinavia"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,33 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IAH3BSK2" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1816274" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/IAH3BSK2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-IAH3BSK2" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-IAH3BSK2" class="csl-bib-button">Medverkande</a>
     <a href="https://www.nature.com/articles/s41598-020-66626-1.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-IAH3BSK2"></div>
 </article>
 <div id="csl-bib-meta-IAH3BSK2" class="csl-bib-meta">
+  <article id="abstract-article-IAH3BSK2" class="abstract-article">
+    <h1>Samandrag</h1>
+    Habitat selection of animals depends on factors such as food availability, landscape features, and intraand 
+interspecific interactions. Individuals can show several behavioral responses to reduce competition 
+for habitat, yet the mechanisms that drive them are poorly understood. This is particularly true for 
+large carnivores, whose fine-scale monitoring is logistically complex and expensive. In Scandinavia, the 
+home-range establishment and kill rates of gray wolves (Canis lupus) are affected by the coexistence 
+with brown bears (Ursus arctos). Here, we applied resource selection functions and a multivariate 
+approach to compare wolf habitat selection within home ranges of wolves that were either sympatric or 
+allopatric with bears. Wolves selected for lower altitudes in winter, particularly in the area where bears 
+and wolves are sympatric, where altitude is generally higher than where they are allopatric. Wolves 
+may follow the winter migration of their staple prey, moose (Alces alces), to lower altitudes. Otherwise, 
+we did not find any effect of bear presence on wolf habitat selection, in contrast with our previous 
+studies. Our new results indicate that the manifestation of a specific driver of habitat selection, namely 
+interspecific competition, can vary at different spatial-temporal scales. This is important to understand 
+the structure of ecological communities and the varying mechanisms underlying interspecific 
+interactions.
+  </article>
   <article id="contributors-article-IAH3BSK2" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

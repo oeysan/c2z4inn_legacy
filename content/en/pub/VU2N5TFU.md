@@ -1,5 +1,5 @@
 ---
-title: "VU2N5TFU"
+title: "Regulating Enzymatic Antioxidants, Biochemical and Physiological Properties of Tomato under Cold Stress: A Crucial Role of Ethylene"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VU2N5TFU" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2113519" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VU2N5TFU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-VU2N5TFU" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-VU2N5TFU" class="csl-bib-button">Contributors</a>
     <a href="https://www.mdpi.com/2077-0472/13/2/266/pdf?version=1674292339" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VU2N5TFU"></div>
 </article>
 <div id="csl-bib-meta-VU2N5TFU" class="csl-bib-meta">
+  <article id="abstract-article-VU2N5TFU" class="abstract-article">
+    <h1>Abstract</h1>
+    The production of tomato under low-temperature stress in the open fields is a challenge faced by many farmers. The current study compares the use of different ethylene treatments to accelerate the fruit ripening of tomato during two successive seasons under cold stress. The treatments included foliar application of ethrel (2500, 5000, and 7500 ppm) in the open field at the mature green stage, dipping collected fruits in ethrel solution (1000, 1500, and 2000 ppm) right after harvest, and application of gaseous ethylene (100, 200, and 300 ppm) to the harvested fruits. The effects were compared to untreated fruits (control). Characteristics, such as physical properties (ripening, weight loss, firmness, decay, and fruit color), chemical properties (ascorbic acid, acidity, total soluble sugars, and pigments), and enzymatic activities (polygalacturonase and pectin methylesterase), were sampled throughout the storage period. In general, the ethylene gas application was the most effective method in accelerating the fruit ripening process compared to the other methods applied. The highest vitamin C total soluble solid contents and redness parameters were found after applying the highest dose of ethylene gas (300 ppm). This indicates that the ripening of tomato fruits, which are cultivated under cold stress conditions as found during the early summer season in a Mediterranean climate, might be harvested at a mature green stage and exposed to ethylene application.
+  </article>
   <article id="contributors-article-VU2N5TFU" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

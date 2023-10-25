@@ -1,5 +1,5 @@
 ---
-title: "8DSGSLI9"
+title: "Blue sheep strongly affect snow leopard relative abundance but not livestock depredation in the Annapurna Conservation Area, Nepal"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8DSGSLI9" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2048650" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/8DSGSLI9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-8DSGSLI9" class="csl-bib-button">Medverkande</a>
     <a href="https://publications.goettingen-research-online.de/bitstream/2/112257/1/1-s2.0-S235198942200155X-main.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

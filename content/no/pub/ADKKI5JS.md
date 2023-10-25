@@ -1,5 +1,5 @@
 ---
-title: "ADKKI5JS"
+title: "Thermal and behavioural responses of moose to chemical immobilisation from a helicopter"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ADKKI5JS" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2147717" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ADKKI5JS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ADKKI5JS" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-ADKKI5JS" class="csl-bib-button">Medverkande</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s10344-023-01673-3.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ADKKI5JS"></div>
 </article>
 <div id="csl-bib-meta-ADKKI5JS" class="csl-bib-meta">
+  <article id="abstract-article-ADKKI5JS" class="abstract-article">
+    <h1>Samandrag</h1>
+    Instrumentation and sample collection for wildlife research and management may require chemical immobilisation of animals, which may entail physiological and behavioural effects on them. It is therefore important to evaluate the immobilisation protocols to reduce the risk of mortality and morbidity of the handled animals and their populations. Using a multi-sensor approach, we assessed the short-term (&lt; 10 days) thermal and behavioural responses of 10 adult female moose ( Alces alces ) equipped with ruminal temperature loggers and GPS collars with accelerometers to helicopter-based chemical immobilisations. We investigated the body temperature ( Tb ), movement rates, and resting time before, during, and after recapture. Chemical immobilisations on average increased maximum Tb by 0.71 °C during the capture day, and imposed longer travel distances during the capture day and the two following days (3.8 and 1.8 km, respectively), compared to a 10-day reference period before the immobilisation. The probability of resting was 5–6% lower on the capture day and the two following days compared to the reference period, and females with offspring had a higher probability of resting than females without. Maximum Tb , movement rate, and resting time returned to pre-capture levels on an individual level 2 h, 3 days, and 3 days after the immobilisation, respectively. Chemical immobilisation of moose from a helicopter increases the energy expenditure deduced through movement and Tb rise lasting for hours to days. Ecological and physiological studies aimed at inferring general patterns may encounter bias if including sensor and tracking data from tagged animals without accounting for potential post-capture effects.
+  </article>
   <article id="contributors-article-ADKKI5JS" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "NXAQBW6Z"
+title: "Validating the European Health Literacy Survey Questionnaire in people with type 2 diabetes: Latent trait analyses applying multidimensional Rasch modelling and confirmatory factor analysis"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NXAQBW6Z" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1472598" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/NXAQBW6Z" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-NXAQBW6Z" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-NXAQBW6Z" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-NXAQBW6Z" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://kau.diva-portal.org/smash/get/diva2:1111626/FULLTEXT01" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,31 @@ type: pub
   <div id="csl-bib-meta-container-NXAQBW6Z"></div>
 </article>
 <div id="csl-bib-meta-NXAQBW6Z" class="csl-bib-meta">
+  <article id="abstract-article-NXAQBW6Z" class="abstract-article">
+    <h1>Abstract</h1>
+    Aim. To validate the European Health Literacy Survey Questionnaire (HLS-EU-Q47) in 
+people with type 2 diabetes mellitus. 
+Background. The HLS-EU-Q47 latent variable is outlined in a framework with four 
+cognitive domains integrated in three health domains, implying 12 theoretically defined 
+subscales. Valid and reliable health literacy measurers are crucial to effectively adapt health 
+communication and education to individuals and groups of patients. 
+Design. Cross-sectional study applying confirmatory latent trait analyses. 
+Methods. Using a paper-and-pencil self-administered approach, 388 adults responded in 
+March 2015. The data were analysed using the Rasch methodology and confirmatory factor 
+analysis. 
+Results. Response violation and trait violation (multidimensionality) of local independence 
+were identified. Fitting the ‘multidimensional random coefficients multinomial logit’ model, 
+1-, 3- and 12-dimensional Rasch models were applied and compared. Poor model fit and 
+differential item functioning were present in some items and several subscales suffered from 
+poor targeting and low reliability. Despite multidimensionality in the data, we did not observe 
+any unordered response categories. 
+Conclusion. Interpreting the domains as distinct but related latent dimensions, the data fit a 
+12-dimensional Rasch model and a 12-factor confirmatory factor model best. Therefore, the 
+analyses did not support the estimation of one overall ‘health literacy score’. To support the 
+plausibility of claims based on the HLS-EU score(s), we suggest: removing the health care 
+aspect to reduce the magnitude of multidimensionality; rejecting redundant items to confine 
+response dependency; adding ‘harder’ items and applying a six-point rating scale to improve subscale targeting and reliability; and revising items to improve model fit.
+  </article>
   <article id="contributors-article-NXAQBW6Z" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

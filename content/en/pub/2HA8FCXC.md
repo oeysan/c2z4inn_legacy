@@ -1,5 +1,5 @@
 ---
-title: "2HA8FCXC"
+title: "The psychology of green entrepreneurship: Founder-driven development of green climate in small-scale companies"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2HA8FCXC" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2028028" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/2HA8FCXC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-2HA8FCXC" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-2HA8FCXC" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-2HA8FCXC" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/23311975.2022.2079245?needAccess=true" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-2HA8FCXC"></div>
 </article>
 <div id="csl-bib-meta-2HA8FCXC" class="csl-bib-meta">
+  <article id="abstract-article-2HA8FCXC" class="abstract-article">
+    <h1>Abstract</h1>
+    This study explores the psychology of green entrepreneurship and the role of the founder in establishing a green climate in organisations. The study examined the process of founding an environmentally sustainable organisational climate in small-scale Norwegian manufacturing companies. Focus group interviews were conducted and questionnaires were distributed in the field; subsequently, the founders participated in an in-depth follow-up interview to explore the evolving elements of the green climate. Thematic analysis revealed that the founders’ environmental focus had different origins, indicative of four motivational categories: opposition, frugality, activism and idealism. The founders played a crucial role in influencing employee green behaviour through both supervision and direct behavioural instructions. Moreover, the participants frequently mentioned the practical aspects of the environmental focus, while values and strategies were generally tacit. The findings indicate that the founders’ motivational position determined the trajectory of the development of a green climate.
+  </article>
   <article id="contributors-article-2HA8FCXC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

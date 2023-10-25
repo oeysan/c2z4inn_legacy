@@ -1,5 +1,5 @@
 ---
-title: "RA4WTYMK"
+title: "Ovarian follicular response to oestrous synchronisation and induction of ovulation in Norwegian Red cattle"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,25 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RA4WTYMK" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1803727" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/RA4WTYMK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-RA4WTYMK" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-RA4WTYMK" class="csl-bib-button">Medverkande</a>
     <a href="https://actavetscand.biomedcentral.com/track/pdf/10.1186/s13028-020-00514-6" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-RA4WTYMK"></div>
 </article>
 <div id="csl-bib-meta-RA4WTYMK" class="csl-bib-meta">
+  <article id="abstract-article-RA4WTYMK" class="abstract-article">
+    <h1>Samandrag</h1>
+    Oestrous synchronisation of cattle has been widely applied to accomplish simultaneous ovulation in animals and facilitate timed artificial insemination. The main aim of this study was to investigate the ovarian follicular growth and ovulatory response to oestrus and ovulation synchronisation in Norwegian Red heifers and cows. Oestrous cycles in 34 heifers and 10 cows from 4 herds were synchronised with two PGF2α analogue treatments 11 days apart, followed by GnRH analogue treatment for induction of ovulation. Thereafter, the ovaries were examined by ultrasonography at 3 h intervals until ovulation. 
+ 
+Results 
+The luteolytic effect of the PGF2α analogue was verified in 9 of 10 cows by progesterone contents in milk. Maximum physical activity of the cows occurred on average 69 h after PGF2α analogue treatment. An ovulatory response was recorded in 95.5% (42/44) of the animals. A significant difference in follicle size at ovulation was found between 2 of the herds. Animals with medium sized and large follicles and heifers aged &gt; 16 months ovulated earlier than other animals. 
+ 
+Conclusions 
+The applied sequence of treatments in the study was shown to be effective in synchronizing and inducing ovulation within a relatively narrow time interval in the Norwegian Red heifers and cows, consistent with findings in other cattle breeds.
+  </article>
   <article id="contributors-article-RA4WTYMK" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "BQ3A2R3L"
+title: "Contrasting patterns in trophic niche evolution of polymorphic Arctic charr populations in two subarctic Norwegian lakes"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BQ3A2R3L" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1708577" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/BQ3A2R3L" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://munin.uit.no/bitstream/10037/17370/2/article.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-BQ3A2R3L"></div>

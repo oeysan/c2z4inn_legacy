@@ -1,5 +1,5 @@
 ---
-title: "SX7DDJ56"
+title: "Mortality, cause of death and risk factors in patients with alcohol use disorder alone or poly-substance use disorders: a 19-year prospective cohort study"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SX7DDJ56" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1706090" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/SX7DDJ56" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SX7DDJ56" class="csl-bib-button">Medverkande</a>
     <a href="https://bmcpsychiatry.biomedcentral.com/track/pdf/10.1186/s12888-019-2077-8" class="csl-bib-button">Unpaywall</a>
   </div>

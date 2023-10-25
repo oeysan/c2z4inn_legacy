@@ -1,5 +1,5 @@
 ---
-title: "UDGNWRN2"
+title: "Justice (is not the same) for all: The role of relationship activity for post-recovery outcomes"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UDGNWRN2" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1973289" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/UDGNWRN2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-UDGNWRN2" class="csl-bib-button">Contributors</a>
     <a href="https://figshare.com/articles/journal_contribution/Justice_is_not_the_same_for_all_The_role_of_relationship_activity_for_post-recovery_outcomes/14717589/1/files/28298187.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

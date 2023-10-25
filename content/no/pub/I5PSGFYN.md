@@ -1,5 +1,5 @@
 ---
-title: "I5PSGFYN"
+title: "Rethinking the Intercultural Potential of Religious Education in Public Schools: Contributions from Intercultural Theology"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-I5PSGFYN" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2124083" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/I5PSGFYN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-I5PSGFYN" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-I5PSGFYN" class="csl-bib-button">Medverkande</a>
     <a href="https://www.mdpi.com/2077-1444/14/2/224/pdf?version=1675834631" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-I5PSGFYN"></div>
 </article>
 <div id="csl-bib-meta-I5PSGFYN" class="csl-bib-meta">
+  <article id="abstract-article-I5PSGFYN" class="abstract-article">
+    <h1>Samandrag</h1>
+    This paper asks how intercultural theology can inspire a critical and constructive reflection on the intercultural potential of non-confessional religious education (RE). Taking the Norwegian non-confessional RE subject as a starting point, the paper draws attention to the tendency to present religions, worldviews, and denominations as single entities with distinct characteristics. As emphasized by Jackson, Jones and Meyer, and others, a systemic-oriented approach will largely capture the institutionalized sides of religion. Consequently, in schools, the intercultural dimension of RE can easily be reduced by emphasizing students’ need for encyclopedic knowledge about different traditions, overlooking how religion is embedded in social life and transforms, develops, and interconnects through everyday practices outside of institutionalized religious life. This line of argument sets the stage for the next part, examining how intercultural theology can create critical awareness of the inner diversity and interconnectedness of denominations and religious traditions. The paper argues that the descriptive and normative framework of intercultural theology can inspire educators to reflect critically on the intercultural dimension of a non-confessional RE.
+  </article>
   <article id="contributors-article-I5PSGFYN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

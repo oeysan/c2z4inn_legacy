@@ -1,5 +1,5 @@
 ---
-title: "XU5QAQ3M"
+title: "The Application of Neural Networks for Facial Landmarking on Mobile Devices:"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XU5QAQ3M" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1795560" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/XU5QAQ3M" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://doi.org/10.5220/0006623101890197" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-XU5QAQ3M"></div>

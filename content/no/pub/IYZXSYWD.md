@@ -1,5 +1,5 @@
 ---
-title: "IYZXSYWD"
+title: "The effect of repertoire, routinization and enacted complexity: Explaining task performance through patterns of action"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IYZXSYWD" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1970780" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/IYZXSYWD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-IYZXSYWD" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-IYZXSYWD" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-IYZXSYWD" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://doi.org/10.1177/01708406211069438" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-IYZXSYWD"></div>
 </article>
 <div id="csl-bib-meta-IYZXSYWD" class="csl-bib-meta">
+  <article id="abstract-article-IYZXSYWD" class="abstract-article">
+    <h1>Samandrag</h1>
+    We use pattern mining tools from computer science to engage a classic problem in organizational theory: the relation between routinization and task performance. We develop and operationalize new measures of two key characteristics of organizational routines: repertoire and routinization. Repertoire refers to the number of recognizable patterns within a stream of actions used to perform the task, and routinization refers to the degree to which a stream of actions follows recognizable patterns. We use these measures to develop a novel theory that predicts task performance based on the size of repertoire, the degree of routinization, and enacted complexity. We test this theory in two settings that differ in their programmability: crisis management and invoice management. We find that repertoire and routinization are important determinants of task performance in both settings, but with opposite effects. In both settings, however, the effect of repertoire and routinization is mediated by enacted complexity. This theoretical contribution is enabled by the methodological innovation of pattern mining, which allows us to treat routines as a collection of sequential patterns or paths. This innovation also allows us to clarify the relation of routinization and complexity, which are often confused because the terms routine and routinization connote simplicity. We demonstrate that routinization and enacted complexity are distinct constructs, conceptually and empirically. It is possible to have a high degree of routinization and complex enactments that vary each time a task is performed. This is because enacted complexity depends on the repertoire of patterns and how those patterns are combined to enact a task.
+  </article>
   <article id="contributors-article-IYZXSYWD" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -53,7 +58,7 @@ Studiested Rena
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

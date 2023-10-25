@@ -1,5 +1,5 @@
 ---
-title: "KQVFPGA2"
+title: "Things You Cannot Do in Norway: Multilingual Transnational Action and Interaction in Digital Communication"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KQVFPGA2" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2015015" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KQVFPGA2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KQVFPGA2" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-KQVFPGA2" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-KQVFPGA2"></div>
 </article>
 <div id="csl-bib-meta-KQVFPGA2" class="csl-bib-meta">
+  <article id="abstract-article-KQVFPGA2" class="abstract-article">
+    <h1>Abstract</h1>
+    Migrants  from  Senegal  constitute  a  small  minority  in  Norway,  which  complicates  their  pos-sibilities  of  carrying  out  certain  linguistic  and  cultural  practices  face-to-face.  However,  with  increased  access  to  digital  means,  socio-cultural  practices,  including  multilingual  discourse,  may be participated in transnationally. In this paper, we analyse two stretches of multimodal conversation between a Senegalese living in Norway and two interlocutors in Senegal, more specifically one WhatsApp conversation with a nephew, and one Messenger interaction with a close friend. Based on interview and interactional data, we investigate how they use their vari-ous  communicative  resources  to  negotiate  transnational  relationships,  and  to  seek  emotional,  spiritual, and practical support. The analysis shows how language choice is used to create vir-tual togetherness (Baldassar 2008; Nedelcu and Wyss 2016) in different ways. The interlocutors engage in practices ranging from phatic communication, banter and gifting, to help with practi-cal issues and doing business as they manage different mobile chronotopes (Lyons and Tagg 2019). Our research extends the use of the mobile chronotope to include voice messages and considers more intimate relationships. It shines light on the immense resourcefulness of highly multilingual individuals in achieving their communicative aims and points this out as a fruitful area for future investigation.
+  </article>
   <article id="contributors-article-KQVFPGA2" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

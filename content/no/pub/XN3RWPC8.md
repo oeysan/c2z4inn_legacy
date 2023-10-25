@@ -1,5 +1,5 @@
 ---
-title: "XN3RWPC8"
+title: "Leadership behavior changes following a theory-based leadership development intervention: A longitudinal study of subordinates’ and leaders’ evaluations"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,24 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XN3RWPC8" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1452608" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/XN3RWPC8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-XN3RWPC8" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-XN3RWPC8" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1111/sjop.12337" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-XN3RWPC8"></div>
 </article>
 <div id="csl-bib-meta-XN3RWPC8" class="csl-bib-meta">
+  <article id="abstract-article-XN3RWPC8" class="abstract-article">
+    <h1>Samandrag</h1>
+    The aim was to evaluate effects of leadership courses based on the developmental leadership model at the leadership behavioral level. A longitudinal 
+design was employed with assessments before, one and six months after the leadership courses. The sample consisted of 59 leaders who made self-ratings 
+and were rated by at least three subordinates on each occasion. Leadership behaviors were measured with the Developmental Leadership Questionnaire 
+(DLQ). A limited increase of favorable leadership behaviors and a signiﬁcant reduction of unfavorable leadership behaviors were found, particularly 
+according to the subordinates’ ratings. A cluster analysis yielded three meaningful leader proﬁles and showed that this pattern was found in all three 
+proﬁles, irrespective of how favorably they were rated before the onset of the intervention.
+  </article>
   <article id="contributors-article-XN3RWPC8" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

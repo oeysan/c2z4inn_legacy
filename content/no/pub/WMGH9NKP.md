@@ -1,5 +1,5 @@
 ---
-title: "WMGH9NKP"
+title: "“We surely are researchers now!” Participatory methods as an empowering process with disabled children in research"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WMGH9NKP" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2174360" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WMGH9NKP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WMGH9NKP" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-WMGH9NKP" class="csl-bib-button">Medverkande</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/09075682231197115" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WMGH9NKP"></div>
 </article>
 <div id="csl-bib-meta-WMGH9NKP" class="csl-bib-meta">
+  <article id="abstract-article-WMGH9NKP" class="abstract-article">
+    <h1>Samandrag</h1>
+    The purpose of this study is to illuminate how participatory methods over time in a research project with disabled children may contribute to an empowerment process. Findings indicate that appropriate use of participatory methods over time may contribute to an empowerment process with disabled children. Based on the UNCRC article 12, this paper calls for seizing the great potential that lies in building on disabled children’s inner strength and efforts to increase their own power in research processes.
+  </article>
   <article id="contributors-article-WMGH9NKP" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

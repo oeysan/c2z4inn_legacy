@@ -1,5 +1,5 @@
 ---
-title: "4QS6ZWLT"
+title: "Establishing the HLS-Q12 short version of the European Health Literacy Survey Questionnaire: latent trait analyses applying Rasch modelling and confirmatory factor analysis"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4QS6ZWLT" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1594379" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/4QS6ZWLT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-4QS6ZWLT" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-4QS6ZWLT" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-4QS6ZWLT" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://bmchealthservres.biomedcentral.com/track/pdf/10.1186/s12913-018-3275-7" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,27 @@ type: pub
   <div id="csl-bib-meta-container-4QS6ZWLT"></div>
 </article>
 <div id="csl-bib-meta-4QS6ZWLT" class="csl-bib-meta">
+  <article id="abstract-article-4QS6ZWLT" class="abstract-article">
+    <h1>Abstract</h1>
+    Background: The European Health Literacy Survey Questionnaire (HLS-EU-Q47) is widely used in assessing health 
+literacy (HL). There has been some controversy whether the comprehensive HLS-EU-Q47 data, reflecting a 
+conceptual model of four cognitive domains across three health domains (i.e. 12 subscales), fit unidimensional 
+Rasch models. Still, the HLS-EU-Q47 raw score is commonly interpreted as a sufficient statistic. Combining Rasch 
+modelling and confirmatory factor analysis, we reduced the 47 item scale to a parsimonious 12 item scale that 
+meets the assumptions and requirements of objective measurement while offering a clinically feasible HL screening 
+tool. This paper aims at (1) evaluating the psychometric properties of the HLS-EU-Q47 and associated short versions 
+in a large Norwegian sample, and (2) establishing a short version (HLS-Q12) with sufficient psychometric properties. 
+Methods: Using computer-assisted telephone interviews during November 2014, data were collected from 900 
+randomly sampled individuals aged 16 and over. The data were analysed using the partial credit parameterization 
+of the unidimensional polytomous Rasch model (PRM) and the ‘between-item’ multidimensional PRM, and by using 
+one-factorial and multi-factorial confirmatory factor analysis (CFA) with categorical variables. 
+Results: Using likelihood-ratio tests to compare data-model fit for nested models, we found that the observed HLSEU-Q47 
+data were more likely under a 12-dimensional Rasch model than under a three- or a one-dimensional 
+Rasch model. Several of the 12 theoretically defined subscales suffered from low reliability owing to few items. 
+Excluding poorly discriminating items, items displaying differential item functioning and redundant items violating 
+the assumption of local independency, a parsimonious 12-item HLS-Q12 scale is suggested. The HLS-Q12 displayed 
+acceptable fit to the unidimensional Rasch model and achieved acceptable goodness-of-fit indexes using CFA
+  </article>
   <article id="contributors-article-4QS6ZWLT" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

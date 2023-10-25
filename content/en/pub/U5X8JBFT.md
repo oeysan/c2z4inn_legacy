@@ -1,5 +1,5 @@
 ---
-title: "U5X8JBFT"
+title: "Predicting kill sites of an apex predator from GPS data in different multi-prey systems"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-U5X8JBFT" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2087726" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/U5X8JBFT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-U5X8JBFT" class="csl-bib-button">Contributors</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/eap.2778" class="csl-bib-button">Unpaywall</a>
   </div>

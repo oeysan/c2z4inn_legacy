@@ -1,5 +1,5 @@
 ---
-title: "E34A4YVB"
+title: "Hematology reference intervals in 6–12-year-old children: the health-oriented pedagogical project (HOPP)"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E34A4YVB" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2045037" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/E34A4YVB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://doi.org/10.1080/00365513.2022.2100820" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-E34A4YVB"></div>

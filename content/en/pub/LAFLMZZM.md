@@ -1,5 +1,5 @@
 ---
-title: "LAFLMZZM"
+title: "Test of a brief scale designed to measure high-level managers’ indirect leadership"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LAFLMZZM" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2167675" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LAFLMZZM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-LAFLMZZM" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-LAFLMZZM" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-LAFLMZZM" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.emerald.com/insight/content/doi/10.1108/MRR-03-2022-0179/full/pdf?title=test-of-a-brief-scale-designed-to-measure-high-level-managers-indirect-leadership" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-LAFLMZZM"></div>
 </article>
 <div id="csl-bib-meta-LAFLMZZM" class="csl-bib-meta">
+  <article id="abstract-article-LAFLMZZM" class="abstract-article">
+    <h1>Abstract</h1>
+    PurposeThe Indirect Leadership Questionnaire (ILQ) is constructed to measure important parts of a theoretical model of indirect leadership to be used in leadership courses for high-level managers. The ILQ consists of 15 model-derived items plus extra space that provides for free-text comments. This study aims to evaluate the psychometric properties of the ILQ, its predictive power and practical usefulness in indirect leadership courses and to evaluate the indirect leadership model in the light of new data. Design/methodology/approachThe study sample consisted of 225 higher managers and 6–10 of their subordinates (total: 1,703). The latter were working at least two hierarchical levels below their higher manager. The managers made self-ratings, and the subordinates rated their respective higher manager using the ILQ. FindingsResults showed that the ILQ has acceptable psychometric properties in terms of dimensionality (two model-compatible factors were obtained), reliability, discriminability and predictive power. Previous problems with many “Don’t know” responses from subordinates working two or more hierarchical levels below their higher manager were considerably reduced. A qualitative analysis of the free-text responses showed that indirect leadership behaviors that can be seen as inspirational influence and communication skills should be more emphasized in future indirect leadership courses. The leaders’ personality, task-related competence and performance-orientation were also highlighted more than in the indirect leadership model. Research limitations/implicationsIt was concluded that the ILQ is a useful tool in indirect leadership courses but that it is too limited to be used as a basis for theory development of indirect leadership. Originality/valueThe ILQ has acceptable psychometric properties and provides an easy-to-use tool to gain practical, usable knowledge of the “how’s” of indirect leadership.
+  </article>
   <article id="contributors-article-LAFLMZZM" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

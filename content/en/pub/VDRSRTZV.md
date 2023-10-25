@@ -1,5 +1,5 @@
 ---
-title: "VDRSRTZV"
+title: "Young Adults in Nature-Based Services in Norway—In-Group and Between-Group Variations Related to Mental Health Problems"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VDRSRTZV" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1643080" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VDRSRTZV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-VDRSRTZV" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-VDRSRTZV" class="csl-bib-button">Contributors</a>
     <a href="https://doi.org/10.7577/njsr.2301" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VDRSRTZV"></div>
 </article>
 <div id="csl-bib-meta-VDRSRTZV" class="csl-bib-meta">
+  <article id="abstract-article-VDRSRTZV" class="abstract-article">
+    <h1>Abstract</h1>
+    Young adults with mental health problems who do not attend school or work constitute a significant welfare challenge in Norway. The welfare services available to these individuals include nature-based services, which are primarily located on farms and integrate the natural and agricultural environment into their daily activities. The aim of this study is to examine young adults (16–30 years old) not attending school or work who participated in nature-based services in Norway. In particular, the study analyses mental health problems among the participants and in-group variations regarding their symptoms of mental health problems using the Hopkins Symptoms Checklist (HSCL-10). This paper compares symptoms of mental health problems among participants in nature-based services with those of a sample from the general population and a sample of those receiving clinical in-patient mental healthcare. A questionnaire was developed for the study and was completed by 93 participants in nature-based services. The majority of these participants were recruited from the Norwegian Labour and Welfare Administration (NAV), local mental health services, and school authorities. Results indicate that just more than half of the respondents exhibited symptoms of mental health problems based on their HSCL-10 scores. In general, they reported fewer symptoms than the clinical in-patient sample (18–30 years old) and more symptoms than the general population sample (18–19 years old). Among the participants in nature-based services, those recruited through NAV and local mental health services exhibited no differences in symptoms. Half of the participants older than 23 years in nature-based services had not completed upper secondary school. The participants, including those with symptoms of mental health problems and low expectations at the outset of their participation, generally expressed high satisfaction with the services.
+  </article>
   <article id="contributors-article-VDRSRTZV" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "RNACRDAE"
+title: "Social media fandom for health promotion? Insights from East Los High, a transmedia edutainment initiative"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RNACRDAE" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1719584" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/RNACRDAE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-RNACRDAE" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-RNACRDAE" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-RNACRDAE"></div>
 </article>
 <div id="csl-bib-meta-RNACRDAE" class="csl-bib-meta">
+  <article id="abstract-article-RNACRDAE" class="abstract-article">
+    <h1>Abstract</h1>
+    As digital media technologies proliferate and social media spaces expand, how does one leverage popularity and cultivate fandom to promote health? Despite the easy entry, broad reach, and interactive features of social media such as Facebook and Twitter, health promoters are unsure how to meaningfully engage users and build lasting online communities. In this article, we examined the Facebook Insights and Twitter hashtag network over a nine-month period for Season 1 of the exemplary transmedia edutainment show East Los High. Premiered on Hulu, the popular entertainment streaming site, East Los High was purposefully designed to serve Latino youths in the United States, spurring conversations and promoting healthy relationships and safe sex practices across different digital platforms. We used Facebook analytics to gauge the audience reach, engagement, and dissemination; developed a 10-indicator index to identify the most successful among the 352 Facebook posts; analysed the position of East Los High in the Facebook co-commenting network; and assessed the top word pairs from those Facebook comments in accordance with the show’s social objectives. We also studied the underlying structure of the Twitter hashtag network representing the interactions between @EastLosHighShow and its 2,136 followers with tweets that included #ELH, #ELHaddict(s), and/or #EastLosHigh. While Challenges exist in initiating and maintaining user engagement on these social media platforms, our findings revealed effective and actionable strategies for health promotion by cultivating fandom and building communities on social media.
+  </article>
   <article id="contributors-article-RNACRDAE" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

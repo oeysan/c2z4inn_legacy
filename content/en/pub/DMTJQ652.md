@@ -1,5 +1,5 @@
 ---
-title: "DMTJQ652"
+title: "Co-designing emergent opportunities for sustainable development on the verges of inertia, sustaining tourism and re-imagining tourism"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DMTJQ652" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1831004" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DMTJQ652" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/02508281.2020.1814520?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-DMTJQ652"></div>

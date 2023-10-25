@@ -1,5 +1,5 @@
 ---
-title: "Q9W7LSWY"
+title: "Les difficultés du dialogue interculturel"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Q9W7LSWY" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1512247" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/Q9W7LSWY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-Q9W7LSWY" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.2143/LV.72.3.3242675" class="csl-bib-button">EZproxy</a>
   </div>

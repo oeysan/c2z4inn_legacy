@@ -1,5 +1,5 @@
 ---
-title: "XA5BJJFY"
+title: "Psychometric Properties of the Student-Teacher Relationship Scale-Short Form in a Norwegian Early Childhood Education and Care Context"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XA5BJJFY" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2138226" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/XA5BJJFY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-XA5BJJFY" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-XA5BJJFY" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-XA5BJJFY" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/07342829231166251" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-XA5BJJFY"></div>
 </article>
 <div id="csl-bib-meta-XA5BJJFY" class="csl-bib-meta">
+  <article id="abstract-article-XA5BJJFY" class="abstract-article">
+    <h1>Abstract</h1>
+    The Student-Teacher Relationship Scale-Short Form (STRS-SF) is one of the most frequently used instruments globally to measure professional caregivers’ perceptions of the relationship quality with a specific child. However, its psychometric properties for children younger than 3 years of age enrolled in early childhood education and care (ECEC) centers are largely unknown. Thus, this study aimed to investigate and evaluate the factorial validity of the STRS-SF and measurement invariance across children’s gender and age by combining two large Norwegian community samples ( N = 2900), covering the full age range of children enrolled in ECEC (1–6 years olds). Our findings indicate promising psychometric properties for the STRS-SF; thus, its applicability is supported for both younger and older children indiscriminate of their gender. However, some caution is advised when comparing latent means between older and younger ECEC children because professional caregivers interpret the STRS-SF differently based on children’s age.
+  </article>
   <article id="contributors-article-XA5BJJFY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

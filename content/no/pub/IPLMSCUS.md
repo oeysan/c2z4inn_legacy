@@ -1,5 +1,5 @@
 ---
-title: "IPLMSCUS"
+title: "Mother tongue education in four Nordic countries - problem, right or resource?"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IPLMSCUS" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2149060" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/IPLMSCUS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-IPLMSCUS" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-IPLMSCUS" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-IPLMSCUS" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://apples.journal.fi/article/download/113671/80250" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-IPLMSCUS"></div>
 </article>
 <div id="csl-bib-meta-IPLMSCUS" class="csl-bib-meta">
+  <article id="abstract-article-IPLMSCUS" class="abstract-article">
+    <h1>Samandrag</h1>
+    The Declaration of a Nordic Language Policy stipulates that all Nordic residents have the right to preserve and develop their mother tongue and their national minority languages. Hence, this article investigates the question of mother tongue education for linguistic minority students. Through four ‘telling cases’, the article explores how four Nordic countries, Denmark, Finland, Norway, and Sweden, orient towards mother tongues, Indigenous and national minority languages in their educational policies. Drawing on Ruíz’ (1984) framework of orientations in language planning, we investigate the following question: In what ways are mother tongues framed as rights, resources, or problems in four telling cases of educational policy in Denmark, Finland, Norway and Sweden? The analysis of the telling cases shows that although all four countries provide various forms of mother tongue education, thus apparently aligning with the intentions in the Declaration of a Nordic Language Policy, there are important differences between the provisions. Nevertheless, across the four countries, the official national languages are placed at the top of a language ideological hierarchy. The official national languages are followed by national minority languages as mother tongues. These languages are awarded rights but are not considered resources for the whole population (e.g., Ruíz, 1984). The Danish telling case inserts a supranational layer in the hierarchy, namely mother tongues with status as official languages in the European Union. The hierarchy of mother tongues thus reflects how some types of mother tongues are more readily granted rights and considered to be resources than others. 
+  </article>
   <article id="contributors-article-IPLMSCUS" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

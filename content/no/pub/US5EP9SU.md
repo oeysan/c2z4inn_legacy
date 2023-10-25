@@ -1,5 +1,5 @@
 ---
-title: "US5EP9SU"
+title: "Fostering egalitarianism for team learning in professional service teams"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-US5EP9SU" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2039491" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/US5EP9SU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-US5EP9SU" class="csl-bib-button">Samandrag</a>
     <a href="#sdg-article-US5EP9SU" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/TLO-01-2022-0007" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-US5EP9SU"></div>
 </article>
 <div id="csl-bib-meta-US5EP9SU" class="csl-bib-meta">
+  <article id="abstract-article-US5EP9SU" class="abstract-article">
+    <h1>Samandrag</h1>
+    PurposeThe purpose of this study is to explore what contributes to egalitarian teams and facilitates for team learning in professional service teams. Design/methodology/approach A qualitative case study, including 41 in-depth interviews ( n = 18) of professional service team members and managers in one of Nordics largest professional service companies was conducted. FindingsThis study reveals how acknowledgement of generational differences and humour can facilitate egalitarianism and psychological safety for members of professional service teams. This in turn relates to team learning processes and behaviours. Humour creates a “safe space” between team members representing different areas of the novice–expert continuum for idea generation and knowledge sharing. Originality/valueTo the best of the authors’ knowledge, this study is one of the first to contribute with insight on experiences and expectations of humour as an enabling mechanism for egalitarianism and team learning in professional service teams. The findings provide professional service firms with valuable and tangible insights, which could serve as a basis for designing learning and training practices.
+  </article>
   <article id="sdg-article-US5EP9SU" class="sdg-article">
     <h1>Berekraftsmål</h1>
     <div class="sdg-container"><div id="sdg10" class="sdg">

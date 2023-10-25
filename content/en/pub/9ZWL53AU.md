@@ -1,5 +1,5 @@
 ---
-title: "9ZWL53AU"
+title: "Healthcare professionals’ perceptions of palliative care quality in a combined acute oncology-palliative care unit: A cross-sectional study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9ZWL53AU" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1928673" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9ZWL53AU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-9ZWL53AU" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-9ZWL53AU" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-9ZWL53AU" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/2057158521997389" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-9ZWL53AU"></div>
 </article>
 <div id="csl-bib-meta-9ZWL53AU" class="csl-bib-meta">
+  <article id="abstract-article-9ZWL53AU" class="abstract-article">
+    <h1>Abstract</h1>
+    It is a challenge to ensure high-quality palliative care. The aim was to investigate the perceptions of health care professionals (HCPs) working in a combined acute oncology-palliative care unit regarding the quality of the palliative care received by the patients and how important the care was to the patients. A Swedish total-survey cross-sectional study including 41 HCPs (54% response rate) was conducted with the 52 items Quality from the Patient’s Perspective – Palliative Care instrument, answered in two different ways: as actual care received and subjective importance. The STROBE-checklist was used. The areas for improvements were related to symptom relief, spiritual and existential needs, information, patient participation, continuity of care, care planning, cooperation and coordination of care, as subjective importance scores were higher than corresponding scores for care received ( p ≤ .025). Providing high-quality palliative care alongside curative treatments for cancer patients is known to be challenging and could explain the results in this study. Implementation of a person-centred palliative care model based on the hospice philosophy could be a solution.
+  </article>
   <article id="contributors-article-9ZWL53AU" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

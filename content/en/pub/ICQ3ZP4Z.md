@@ -1,5 +1,5 @@
 ---
-title: "ICQ3ZP4Z"
+title: "Building a resilient coexistence with wildlife in a more crowded world"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ICQ3ZP4Z" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2139943" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ICQ3ZP4Z" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ICQ3ZP4Z" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-ICQ3ZP4Z" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-ICQ3ZP4Z" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://academic.oup.com/pnasnexus/article-pdf/2/3/pgad030/49702587/pgad030.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-ICQ3ZP4Z"></div>
 </article>
 <div id="csl-bib-meta-ICQ3ZP4Z" class="csl-bib-meta">
+  <article id="abstract-article-ICQ3ZP4Z" class="abstract-article">
+    <h1>Abstract</h1>
+    There is an urgent need to sustainably coexist with wildlife. However, realizing this goal is hampered by scant understanding of the processes that facilitate and maintain coexistence. Here, we synthesize human–wildlife interactions into eight archetypal outcomes, from eradication to sustained co-benefits, which collectively serve as a heuristic for forms of coexistence across a wide range of species and systems worldwide. We utilize resilience theory to elucidate how and why human–wildlife systems shift between these archetypes, yielding insights on research and policy priorities. We underscore the importance of governance structures that actively enhance the resilience of coexistence.
+  </article>
   <article id="contributors-article-ICQ3ZP4Z" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

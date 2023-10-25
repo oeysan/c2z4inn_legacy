@@ -1,5 +1,5 @@
 ---
-title: "VT3ESYE7"
+title: "A semi‐automated camera trap distance sampling approach for population density estimation"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VT3ESYE7" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2174215" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VT3ESYE7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-VT3ESYE7" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-VT3ESYE7" class="csl-bib-button">Medverkande</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.362" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-VT3ESYE7"></div>
 </article>
 <div id="csl-bib-meta-VT3ESYE7" class="csl-bib-meta">
+  <article id="abstract-article-VT3ESYE7" class="abstract-article">
+    <h1>Samandrag</h1>
+    Camera traps have become important tools for the monitoring of animal populations. However, the study‐specific estimation of animal detection probabilities is key if unbiased abundance estimates of unmarked species are to be obtained. Since this process can be very time‐consuming, we developed the first semi‐automated workflow for animals of any size and shape to estimate detection probabilities and population densities. In order to obtain observation distances, a deep learning algorithm is used to create relative depth images that are calibrated with a small set of reference photos for each location, with distances then extracted for animals automatically detected by MegaDetector 4.0. Animal detection by MegaDetector was generally independent of the distance to the camera trap for 10 animal species at two different study sites. If an animal was detected both manually and automatically, the difference in the distance estimates was often minimal at a distance about 4 m from the camera trap. The difference increased approximately linearly for larger distances. Nonetheless, population density estimates based on manual and semi‐automated camera trap distance sampling workflows did not differ significantly. Our results show that a readily available software for semi‐automated distance estimation can reliably be used within a camera trap distance sampling workflow, reducing the time required for data processing, by &gt;13‐fold. This greatly improves the accessibility of camera trap distance sampling for wildlife research and management.
+  </article>
   <article id="contributors-article-VT3ESYE7" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

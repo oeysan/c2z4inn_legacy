@@ -1,5 +1,5 @@
 ---
-title: "TSRP3S9W"
+title: "Large-Scale Sheep Losses to Wolves (Canis lupus) in Germany Are Related to the Expansion of the Wolf Population but Not to Increasing Wolf Numbers"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TSRP3S9W" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2025973" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/TSRP3S9W" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-TSRP3S9W" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-TSRP3S9W" class="csl-bib-button">Medverkande</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fevo.2022.778917/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-TSRP3S9W"></div>
 </article>
 <div id="csl-bib-meta-TSRP3S9W" class="csl-bib-meta">
+  <article id="abstract-article-TSRP3S9W" class="abstract-article">
+    <h1>Samandrag</h1>
+    Recovery of predator populations triggers conflicts due to livestock depredation losses, particularly in Germany where the wolf ( Canis lupus ) population grows exponentially and livestock (especially sheep) losses raise public concerns and motivate the authorities to control wolf numbers. Yet, the effects of wolf numbers and alternative factors, such as abundance of prey and livestock, on livestock losses in this country are not investigated. In this study, we collected and analyzed data on the numbers of reproductive units of wolves (packs and pairs together) as a surrogate of adult wolf numbers, sheep killed by wolves, living sheep, red deer ( Cervus elaphus ), roe deer ( Capreolus capreolus ), and wild boar ( Sus scrofa ) in every German state and year from 2002 to 2019. We applied a negative binomial Generalized Linear Mixed Model (GLMM) to estimate the effects of these predictors on the numbers of sheep killed by wolves. We also examined the relationships between the percentages of killed/living sheep and the numbers of living sheep. Ranking of 63 models based on the Akaike information criterion revealed that sheep losses were determined by state, year, and number of living sheep, not by wolf numbers, at high precision and accuracy. The number of sheep killed by wolves increased consistently by 41% per year and by 30% for every additional 10,000 sheep, mainly in the north where most wolf territories are concentrated. This means that sheep are protected insufficiently and/or ineffectively. The percentages of killed/living sheep consistently increased by 0.02–0.05% per state and year, with the maximum percentage of 0.7%, on a backdrop of decreasing numbers of living sheep. In conclusion, we demonstrate that sheep losses in Germany have been driven by the expansion of the wolf population, not by wolf numbers, and by the number of sheep available. We suggest that Germany’s wolf conservation policy should focus on alternative non-lethal interventions, enforcement and standardization of intervention monitoring, and promotion of wolf tolerance rather than on lethal control of wolf population size.
+  </article>
   <article id="contributors-article-TSRP3S9W" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

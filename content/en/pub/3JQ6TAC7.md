@@ -1,5 +1,5 @@
 ---
-title: "3JQ6TAC7"
+title: "Sharing SoTL Findings with Students: An Intentional Knowledge Mobilization Strategy"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-3JQ6TAC7" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1897050" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/3JQ6TAC7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-3JQ6TAC7" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-3JQ6TAC7" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-3JQ6TAC7" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journalhosting.ucalgary.ca/index.php/TLI/article/download/71061/56261" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-3JQ6TAC7"></div>
 </article>
 <div id="csl-bib-meta-3JQ6TAC7" class="csl-bib-meta">
+  <article id="abstract-article-3JQ6TAC7" class="abstract-article">
+    <h1>Abstract</h1>
+    This paper critically examines the reasons for and processes of sharing SoTL findings with students. Framed by our commitment to SoTL’s role to make teaching “community property,” we interpret sharing SoTL findings with students as an act of knowledge mobilization, where SoTL might be disseminated, translated, or co-created with the student as a legitimate knowledge broker. We connect these knowledge mobilization processes with four primary reasons why faculty might want to share SoTL findings with students. Finally, we provide examples of knowledge mobilization that use different “voices” found in contemporary communication settings and that reach various student audiences in micro, meso, macro, and mega contexts.
+  </article>
   <article id="contributors-article-3JQ6TAC7" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

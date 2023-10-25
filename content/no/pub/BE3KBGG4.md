@@ -1,5 +1,5 @@
 ---
-title: "BE3KBGG4"
+title: "Estimation of technical change: Direct semi/nonparametric approaches"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BE3KBGG4" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1902744" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/BE3KBGG4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.econlet.2021.109734" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-BE3KBGG4"></div>

@@ -1,5 +1,5 @@
 ---
-title: "ZDUQTWZ2"
+title: "Nanofungicides with Selenium and Silicon Can Boost the Growth and Yield of Common Bean (Phaseolus vulgaris L.) and Control Alternaria Leaf Spot Disease"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZDUQTWZ2" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2143228" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZDUQTWZ2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ZDUQTWZ2" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-ZDUQTWZ2" class="csl-bib-button">Contributors</a>
     <a href="https://www.mdpi.com/2076-2607/11/3/728/pdf?version=1678694742" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ZDUQTWZ2"></div>
 </article>
 <div id="csl-bib-meta-ZDUQTWZ2" class="csl-bib-meta">
+  <article id="abstract-article-ZDUQTWZ2" class="abstract-article">
+    <h1>Abstract</h1>
+    There is an urgent need to reduce the intensive use of chemical fungicides due to their potential damage to human health and the environment. The current study investigated whether nano-selenium (nano-Se) and nano-silica (nano-SiO2) could be used against the leaf spot disease caused by Alternaria alternata in a common bean (Phaseolus vulgaris L.). The engineered Se and SiO2 nanoparticles were compared to a traditional fungicide and a negative control with no treatment, and experiments were repeated during two successive seasons in fields and in vitro. The in vitro study showed that 100 ppm nano-Se had an efficacy rate of 85.1% on A. alternata mycelial growth, followed by the combined applications (Se + SiO2 at half doses) with an efficacy rate of 77.8%. The field study showed that nano-Se and the combined application of nano-Se and nano-SiO2 significantly decreased the disease severity of A. alternata. There were no significant differences among nano-Se, the combined application, and the fungicide treatment (positive control). As compared to the negative control (no treatment), leaf weight increased by 38.3%, the number of leaves per plant by 25.7%, chlorophyll A by 24%, chlorophyll B by 17.5%, and total dry seed yield by 30%. In addition, nano-Se significantly increased the enzymatic capacity (i.e., CAT, POX, PPO) and antioxidant activity in the leaves. Our current study is the first to report that the selected nano-minerals are real alternatives to chemical fungicides for controlling A. alternata in common beans. This work suggests the potential of nanoparticles as alternatives to fungicides. Further studies are needed to better understand the mechanisms and how different nano-materials could be used against phytopathogens.
+  </article>
   <article id="contributors-article-ZDUQTWZ2" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

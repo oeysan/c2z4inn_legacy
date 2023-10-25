@@ -1,5 +1,5 @@
 ---
-title: "9GSHTDR7"
+title: "The potency of resource efficiency and environmental technologies in carbon neutrality target for Finland"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9GSHTDR7" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2114897" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9GSHTDR7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9GSHTDR7" class="csl-bib-button">Contributors</a>
     <a href="https://doi.org/10.1016/j.jclepro.2023.136127" class="csl-bib-button">Unpaywall</a>
   </div>

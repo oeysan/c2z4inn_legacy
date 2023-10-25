@@ -1,5 +1,5 @@
 ---
-title: "APM3J2LM"
+title: "Neoliberalism, native-speakerism and the displacement of international students’ languages and cultures"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-APM3J2LM" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2041767" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/APM3J2LM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-APM3J2LM" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-APM3J2LM" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-APM3J2LM" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/01434632.2022.2084547?needAccess=true" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-APM3J2LM"></div>
 </article>
 <div id="csl-bib-meta-APM3J2LM" class="csl-bib-meta">
+  <article id="abstract-article-APM3J2LM" class="abstract-article">
+    <h1>Samandrag</h1>
+    With the number of international students growing rapidly within (international) higher education, more attention has been focused on the need to consider international students’ experiences, particularly those from the global south, from more critical, ethical and qualitative perspectives. This paper examines how the lived experiences of three multilingual international students at a Canadian university were impacted by ideologies stemming from neoliberalism and native-speakerism within higher education. Through in-depth interviews with each student, the findings point to complex ways in which such ideologies gradually worked to displace the students’ languages and cultures through processes of othering and inferiorisation. More specifically, the combined sociocultural and material impact of neoliberalism and native-speakerism resulted in the students appearing to reject participation in and affiliation to their cultural groups, repositioning their languages as deterrents to the development of their English language proficiencies, and adopting behaviours that could linguistically and socially approximate them to an imagined native speaker of ‘standard’ English, including attending speech therapy. The conclusion critically discusses the importance of reform in higher education with respect to language, diversity and social justice.
+  </article>
   <article id="contributors-article-APM3J2LM" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "WW7FVR8J"
+title: "Clinical Diagnostics of Bacterial Infections and Their Resistance to Antibiotics—Current State and Whole Genome Sequencing Implementation Perspectives"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WW7FVR8J" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2143011" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WW7FVR8J" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WW7FVR8J" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-WW7FVR8J" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-WW7FVR8J" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.mdpi.com/2079-6382/12/4/781/pdf?version=1681893662" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-WW7FVR8J"></div>
 </article>
 <div id="csl-bib-meta-WW7FVR8J" class="csl-bib-meta">
+  <article id="abstract-article-WW7FVR8J" class="abstract-article">
+    <h1>Samandrag</h1>
+    Antimicrobial resistance (AMR), defined as the ability of microorganisms to withstand antimicrobial treatment, is responsible for millions of deaths annually. The rapid spread of AMR across continents warrants systematic changes in healthcare routines and protocols. One of the fundamental issues with AMR spread is the lack of rapid diagnostic tools for pathogen identification and AMR detection. Resistance profile identification often depends on pathogen culturing and thus may last up to several days. This contributes to the misuse of antibiotics for viral infection, the use of inappropriate antibiotics, the overuse of broad-spectrum antibiotics, or delayed infection treatment. Current DNA sequencing technologies offer the potential to develop rapid infection and AMR diagnostic tools that can provide information in a few hours rather than days. However, these techniques commonly require advanced bioinformatics knowledge and, at present, are not suited for routine lab use. In this review, we give an overview of the AMR burden on healthcare, describe current pathogen identification and AMR screening methods, and provide perspectives on how DNA sequencing may be used for rapid diagnostics. Additionally, we discuss the common steps used for DNA data analysis, currently available pipelines, and tools for analysis. Direct, culture-independent sequencing has the potential to complement current culture-based methods in routine clinical settings. However, there is a need for a minimum set of standards in terms of evaluating the results generated. Additionally, we discuss the use of machine learning algorithms regarding pathogen phenotype detection (resistance/susceptibility to an antibiotic).
+  </article>
   <article id="contributors-article-WW7FVR8J" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

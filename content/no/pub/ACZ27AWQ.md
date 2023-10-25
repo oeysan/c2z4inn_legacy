@@ -1,5 +1,5 @@
 ---
-title: "ACZ27AWQ"
+title: "Turkey in the geopolitics of energy"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,29 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ACZ27AWQ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1471384" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ACZ27AWQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ACZ27AWQ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-ACZ27AWQ" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.enpol.2017.05.008" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-ACZ27AWQ"></div>
 </article>
 <div id="csl-bib-meta-ACZ27AWQ" class="csl-bib-meta">
+  <article id="abstract-article-ACZ27AWQ" class="abstract-article">
+    <h1>Samandrag</h1>
+    This article discusses how geography, energy markets and political developments determine Turkey's role in the 
+geopolitics of energy. Located strategically between two continents, Turkey has a desire of becoming an 
+international physical hub and transit corridor for natural gas, while at the same time improving its own energy 
+security. Domestic Turkish demand and market regulations, existing and new sources of supply, as well as 
+internal and external economic, regulatory and political factors interplay in the realization of these goals. The 
+article argues that the potential Turkey has to become a significant player in natural gas transit depends on the 
+simultaneous developments of the domestic political situation and the great political uncertainties in its 
+neighborhood. If market developments allow, Turkey may become a hub for Russian gas through the Western 
+part of the country, and it may become a hub for gas from Central Asia and the Middle East while also serving its 
+Middle and Eastern parts. The outcome depends on domestic decisions colored by the economics of natural gas 
+transportation and political developments in its surroundings.
+  </article>
   <article id="contributors-article-ACZ27AWQ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

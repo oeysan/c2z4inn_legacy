@@ -1,5 +1,5 @@
 ---
-title: "9BDDBSZ8"
+title: "Ute er de, men hva gjør barn under tre år ute i barnehagen?"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,27 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9BDDBSZ8" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1702647" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9BDDBSZ8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-9BDDBSZ8" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-9BDDBSZ8" class="csl-bib-button">Contributors</a>
     <a href="https://nordiskbarnehageforskning.no/index.php/nbf/article/download/180/181" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-9BDDBSZ8"></div>
 </article>
 <div id="csl-bib-meta-9BDDBSZ8" class="csl-bib-meta">
+  <article id="abstract-article-9BDDBSZ8" class="abstract-article">
+    <h1>Abstract</h1>
+    Denne studien bruker analyse av videobservasjoner for å supplere ITERS-R (Infant / Toddler 
+Environment Rating Scale –Revised) resultater fra 206 barnegrupper i Norge. Vi analyserer 53 
+videoobservasjoner av ett- til treåringer i utelek. Analysen drøftes mot resultater fra ITERS-R på temaene: 
+bevegelseslek, naturfag og sand- og vannlek. Funnene fra ITERS-R viser at de materielle rammene for 
+bevegelseslek og lek og læring er gode. Videoobservasjonene viser stor variasjon i hvordan ansatte tilrettelegger 
+for bevegelseslek og lek og læring. Ett- til toåringene gis færre utfordringer enn to- til treåringene. Det 
+tilrettelegges mer for bevegelseslek for to- til treåringene, og det tilrettelegges noe mer for bevegelseslek enn 
+naturfaglig lek og læring. Det faglig innholdet i interaksjonene mellom barn og ansatte er utydelig. Funnene 
+drøftes i lys av teori knyttet til bevegelseslæring, lek og læring.
+  </article>
   <article id="contributors-article-9BDDBSZ8" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

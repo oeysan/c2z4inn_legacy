@@ -1,5 +1,5 @@
 ---
-title: "TM3SNLJ4"
+title: "Kreativ bearbeiding av en modell gjennom transformasjon og narrativ skriving på mellomtrinnet: Being inside the Bottle Garden Meaning-making in science education for 11-12 year-old students working with transformations and models"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TM3SNLJ4" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2047021" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/TM3SNLJ4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-TM3SNLJ4" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-TM3SNLJ4" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-TM3SNLJ4" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journals.uio.no/nordina/article/download/8948/8253" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-TM3SNLJ4"></div>
 </article>
 <div id="csl-bib-meta-TM3SNLJ4" class="csl-bib-meta">
+  <article id="abstract-article-TM3SNLJ4" class="abstract-article">
+    <h1>Abstract</h1>
+    The article explores how 11-12 year-old pupils in linguistically diverse science classrooms utilize creative visual imaginations and mental models in meaning-making processes about life-cycles in a Bottlegarden. The students wrote narratives while imagining being inside a model (the Bottle-garden). Such transformations allow students to relate personal experiences to abstract scientific processes. Four student-texts are analyzed qualitatively. The tool for analysis is inspired by frameworks of creativity and meaning-making. The narratives revealed variation in the students´ experience with language and text, interests and attitudes. The findings indicate that writing-tasks giving students the opportunity to express themselves in imagined worlds in a scientific context, activates the students´ bodily experiences and emotions. This encourages meaning-making in different layers. The approach also represents a potential for formative assessment.
+  </article>
   <article id="contributors-article-TM3SNLJ4" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

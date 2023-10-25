@@ -1,5 +1,5 @@
 ---
-title: "YR97ZRI3"
+title: "Heart rate during hyperphagia differs between two bear species"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YR97ZRI3" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1669179" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/YR97ZRI3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-YR97ZRI3" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-YR97ZRI3" class="csl-bib-button">Contributors</a>
     <a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2018.0681" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-YR97ZRI3"></div>
 </article>
 <div id="csl-bib-meta-YR97ZRI3" class="csl-bib-meta">
+  <article id="abstract-article-YR97ZRI3" class="abstract-article">
+    <h1>Abstract</h1>
+    Hyperphagia is a critical part of the yearly cycle of bears when they gain fat reserves before entering hibernation. We used heart rate as a proxy to compare the metabolic rate between the Asian black bear ( Ursus thibetanus ) in Japan and the Eurasian brown bear ( Ursus arctos ) in Sweden from summer into hibernation. In the hyperphagic period, black bears feed on fat- and carbohydrate-rich hard masts whereas brown bears feed on sugar-rich berries. Availability of hard masts has quantitative and spatial annual fluctuations, which might require increased activity and result in intraspecific stress. Using generalized additive mixed models we analysed the differences in heart rate between the two species. Black bears had decreased heart rates during summer but had doubled heart rate values throughout the hyperphagic period compared to brown bears. This letter illustrates the different physiological consequences of seasonal differences in food availability in two species of the same genus dealing with the same phenological challenge.
+  </article>
   <article id="contributors-article-YR97ZRI3" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

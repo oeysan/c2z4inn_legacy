@@ -1,5 +1,5 @@
 ---
-title: "YVSV8BRD"
+title: "Inflammatory cytokines in alcohol use disorder patients are lower in smokers and users of smokeless tobacco"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YVSV8BRD" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2157027" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/YVSV8BRD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-YVSV8BRD" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-YVSV8BRD" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-YVSV8BRD" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://doi.org/10.1111/acer.15103" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-YVSV8BRD"></div>
 </article>
 <div id="csl-bib-meta-YVSV8BRD" class="csl-bib-meta">
+  <article id="abstract-article-YVSV8BRD" class="abstract-article">
+    <h1>Abstract</h1>
+    BackgroundSmoking and alcohol use often co‐occur, and the use of nicotine‐containing products is particularly common among persons with alcohol use disorder (AUD). Recent evidence shows that chronic alcohol use leads to inflammation through increased gut permeability and dysregulated cytokine levels. While cigarette smoking also has detrimental health effects, nicotine has immune dampening effects in some settings. Preclinical evidence demonstrates that nicotine can dampen alcohol‐induced inflammation, but inflammatory responses after nicotine use has not been studied in persons with AUD. This study compared the level of circulating cytokines in abstinent AUD inpatients who were non‐tobacco users, smokers, users of Swedish snus, or dual tobacco users. MethodsWe collected blood samples and information about somatic and mental health and tobacco habits from 111 patients in residential treatment for AUD and 69 healthy controls. Levels of interferon (IFN)‐γ, interleukin (IL)‐10, tumor necrosis factor (TNF)‐α, IL‐17a, IL‐1β, IL‐6, IL‐8, IL‐1 receptor antagonist (ra), and monocyte chemoattractant protein (MCP)‐1 were examined using a multiplex assay. Results Patients with AUD had higher levels of seven cytokines than healthy controls. Among the AUD patients, nicotine users had lower levels of IL‐10, TNF‐α, IL‐17a, IL‐1β, IL‐8, and MCP‐1 (all p  &lt; 0.05). ConclusionsOur findings may indicate that nicotine has anti‐inflammatory effects in patients with AUD. Nonetheless, nicotine use cannot be recommended as a viable therapeutic option to reduce alcohol‐induced inflammation because of its other adverse effects. Additional studies of the effects of tobacco or nicotine products on cytokine patterns in relation to mental or somatic health conditions are warranted.
+  </article>
   <article id="contributors-article-YVSV8BRD" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "QUUNEXN5"
+title: "Arbeid med religiøse skrifter i mangfoldige klasserom. En undersøkelse av religions­didaktiske innføringsbøker"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QUUNEXN5" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2156515" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/QUUNEXN5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-QUUNEXN5" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-QUUNEXN5" class="csl-bib-button">Medverkande</a>
     <a href="https://journals.uio.no/prismet/article/download/10360/8589" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-QUUNEXN5"></div>
 </article>
 <div id="csl-bib-meta-QUUNEXN5" class="csl-bib-meta">
+  <article id="abstract-article-QUUNEXN5" class="abstract-article">
+    <h1>Samandrag</h1>
+    Denne artikkelen undersøker hvilken kunnskap om og forståelse av religiøse skrifter som presenteres i syv religionsdidaktiske innføringsbøker, utgitt mellom 1997 og 2021. Artikkelens teoretiske rammeverk bygger på James Watts’ begreper som beskriver ritualisering av det han omtaler som ikoniske skrifter. Analyser av innføringsbøkene viser en vektlegging av arbeid med den semantiske dimensjonen, det vil si det tekstlige meningsinnholdet. Bøkene beskriver også forslag til arbeid med en ekspressiv dimensjon, som vil si visuelle, lydlige eller grafiske uttrykk av tekstene (for eksempel kunst, resitasjon og filmatiseringer). En ikonisk dimensjon, altså en særskilt behandling av skriftene, er ikke diskutert i arbeidet med religiøse skrifter i innføringsbøkene. Imidlertid er oppfordringene til varsomhet noe ulik i møte med en semantisk og en ekspressiv dimensjon. Artikkelen diskuterer hvordan en protestantisk forforståelse av religiøse tekster, hensyn til et økende religionsmangfold og en tydeligere vitenskapelig forankring av metodene kan belyse hvorfor disse forestillingene er videreført i innføringsbøkenes beskrivelser.
+  </article>
   <article id="contributors-article-QUUNEXN5" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

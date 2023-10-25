@@ -1,5 +1,5 @@
 ---
-title: "KKA2XA9B"
+title: "Data-driven approaches can harness crop diversity to address heterogeneous needs for breeding products"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KKA2XA9B" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2137458" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KKA2XA9B" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KKA2XA9B" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-KKA2XA9B" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-KKA2XA9B" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://doi.org/10.1073/pnas.2205771120" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-KKA2XA9B"></div>
 </article>
 <div id="csl-bib-meta-KKA2XA9B" class="csl-bib-meta">
+  <article id="abstract-article-KKA2XA9B" class="abstract-article">
+    <h1>Abstract</h1>
+    This perspective describes the opportunities and challenges of data-driven approaches for crop diversity management (genebanks and breeding) in the context of agricultural research for sustainable development in the Global South. Data-driven approaches build on larger volumes of data and flexible analyses that link different datasets across domains and disciplines. This can lead to more information-rich management of crop diversity, which can address the complex interactions between crop diversity, production environments, and socioeconomic heterogeneity and help to deliver more suitable portfolios of crop diversity to users with highly diverse demands. We describe recent efforts that illustrate the potential of data-driven approaches for crop diversity management. A continued investment in this area should fill remaining gaps and seize opportunities, including i) supporting genebanks to play a more active role in linking with farmers using data-driven approaches; ii) designing low-cost, appropriate technologies for phenotyping; iii) generating more and better gender and socioeconomic data; iv) designing information products to facilitate decision-making; and v) building more capacity in data science. Broad, well-coordinated policies and investments are needed to avoid fragmentation of such capacities and achieve coherence between domains and disciplines so that crop diversity management systems can become more effective in delivering benefits to farmers, consumers, and other users of crop diversity.
+  </article>
   <article id="contributors-article-KKA2XA9B" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

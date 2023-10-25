@@ -1,5 +1,5 @@
 ---
-title: "Q5HWEGFL"
+title: "Implementation of Virtual Reality in Health Professions Education: Scoping Review"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Q5HWEGFL" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2101774" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/Q5HWEGFL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-Q5HWEGFL" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-Q5HWEGFL" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-Q5HWEGFL" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://mededu.jmir.org/2023/1/e41589/PDF" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,30 @@ type: pub
   <div id="csl-bib-meta-container-Q5HWEGFL"></div>
 </article>
 <div id="csl-bib-meta-Q5HWEGFL" class="csl-bib-meta">
+  <article id="abstract-article-Q5HWEGFL" class="abstract-article">
+    <h1>Samandrag</h1>
+    Methods 
+Results 
+Discussion 
+References 
+Abbreviations 
+Copyright 
+Abstract 
+Background: 
+Virtual reality has been gaining ground in health professions education and may offer students a platform to experience and master situations without endangering patients or themselves. When implemented effectively, virtual reality technologies may enable highly engaging learning activities and interactive simulations. However, implementation processes present challenges, and the key to successful implementation is identifying barriers and facilitators as well as finding strategies to address them. 
+ 
+Objective: 
+This scoping review aimed to identify the literature on virtual reality implementation in health professions education, identify barriers to and facilitators of implementation, and highlight gaps in the literature in this area. 
+ 
+Methods: 
+The scoping review was conducted based on the Joanna Briggs Institute Evidence Synthesis methodologies. Electronic searches were conducted in the Academic Search Elite, Education Source, and CINAHL databases on January 5, 2022, in Google Scholar on February 2 and November 18, 2022, and in PubMed database on November 18, 2022. We conducted hand searches of key items, reference tracking, and citation tracking and searches on government webpages on February 2, 2022. At least 2 reviewers screened the identified literature. Eligible studies were considered based on predefined inclusion criteria. The results of the identified items were analyzed and synthesized using qualitative content analysis. 
+ 
+Results: 
+We included 7 papers and identified 7 categories related to facilitators of and barriers to implementation—collaborative participation, availability, expenses, guidelines, technology, careful design and evaluation, and training—and developed a model that links the categories to the 4 constructs from Carl May’s general theory of implementation. All the included reports provided recommendations for implementation, including recommendations for careful design and evaluation, training of faculty and students, and faculty presence during use. 
+ 
+Conclusions: 
+Virtual reality implementation in health professions education appears to be a new and underexplored research field. This scoping review has several limitations, including definitions and search words, language, and that we did not assess the included papers’ quality. Important implications from our findings are that ensuring faculty’s and students’ competence in using virtual reality technology is necessary for the implementation processes. Collaborative participation by including end users in the development process is another factor that may ensure successful implementation in higher education contexts. To ensure stakeholders’ motivation and potential to use virtual reality, faculty and students could be invited to participate in the development process to ensure that the educational content is valued. Moreover, technological challenges and usability issues should be resolved before implementation to ensure that pedagogical content is the focus. This accentuates the importance of piloting, sufficient time resources, basic testing, and sharing of experiences before implementation.
+  </article>
   <article id="contributors-article-Q5HWEGFL" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

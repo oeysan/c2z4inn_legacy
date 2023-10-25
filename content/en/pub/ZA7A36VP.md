@@ -1,5 +1,5 @@
 ---
-title: "ZA7A36VP"
+title: "Effect of the anticoagulant, storage time and temperature of blood samples on the concentrations of 27 multiplex assayed cytokines – Consequences for defining reference values in healthy humans"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZA7A36VP" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1472266" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZA7A36VP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ZA7A36VP" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-ZA7A36VP" class="csl-bib-button">Contributors</a>
     <a href="https://munin.uit.no/bitstream/10037/13444/2/article.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ZA7A36VP"></div>
 </article>
 <div id="csl-bib-meta-ZA7A36VP" class="csl-bib-meta">
+  <article id="abstract-article-ZA7A36VP" class="abstract-article">
+    <h1>Abstract</h1>
+    Cytokines are potentially useful biomarkers of sepsis and other inflammatory conditions. Many cytokines can be released by leukocytes and platelets after sampling. The sampling and processing techniques are consequently critically important to measure the in vivo levels. We therefore examined the effects of four different anticoagulants, EDTA, citrate, lepirudin, heparin compared to serum, on the levels of 27 different cytokines. The effects of storage temperature, freezing and thawing on the plasma cytokines were examined. Cytokines were analysed using a multiplex immunoassay. The cytokine levels in serum were significantly higher compared with plasma, consistent with release of cytokines in vitro during coagulation. In general, the lowest values for all cytokines were found in EDTA samples, stored on crushed ice, centrifuged within 4 h and thereafter stored at −80 °C. MCP-1 and MIP-1β levels were highest in heparin plasma and storage of blood for up to 4 h at room temperature significantly increased the interleukin (IL)-2, IL-6, IL-8, IFN-γ and GM-CSF levels in EDTA plasma, indicating post-sampling release. In contrast, the IP-10 levels were unaffected by sample storage at both temperatures. Our results indicate that the cytokines were more stable in plasma than in whole blood after sampling. Thus, cytokines should be analysed in EDTA plasma samples stored on ice and centrifuged within 4 h. Based on these data, the reference ranges of 27 cytokines in EDTA plasma in 162 healthy human donors were calculated.
+  </article>
   <article id="contributors-article-ZA7A36VP" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

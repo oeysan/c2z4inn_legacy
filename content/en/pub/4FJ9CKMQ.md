@@ -1,5 +1,5 @@
 ---
-title: "4FJ9CKMQ"
+title: "Intercultural learning in diverse schools: obstacles, opportunities, and outlooks"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4FJ9CKMQ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1648279" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/4FJ9CKMQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-4FJ9CKMQ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-4FJ9CKMQ" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-4FJ9CKMQ" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://czasopisma.bg.ug.edu.pl/index.php/pwe/article/download/1999/1457" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-4FJ9CKMQ"></div>
 </article>
 <div id="csl-bib-meta-4FJ9CKMQ" class="csl-bib-meta">
+  <article id="abstract-article-4FJ9CKMQ" class="abstract-article">
+    <h1>Abstract</h1>
+    The emergence in recent years of the concept of intercultural learning has raised questions about how the notion relates to a pedagogy that fosters openness, exploration, and critical thinking. In this article, the author provides a critical examination of a conventional understanding of intercultural learning to clarify its construction and to elucidate its instructional implications. Taking inspiration from the work of Nussbaum, Dewey, and Freire, the article suggests a different way of thinking than that of the conventional approach. Central to this alternative is a pedagogy that acknowledges students’ former experiences and competencies without making cultural predictions. Instead of reducing the process of understanding to a technical issue, this paper advocates the integration of intercultural learning in schools by connecting the curriculum to students’ lives and identities. This paper ends with a consideration of the future prospects of intercultural learning, suggesting more research on how intercultural learning actually takes place in schools and society.
+  </article>
   <article id="contributors-article-4FJ9CKMQ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

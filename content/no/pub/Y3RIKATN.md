@@ -1,5 +1,5 @@
 ---
-title: "Y3RIKATN"
+title: "Språklæring og tvungen migrasjon: en etnografisk tilnærming"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Y3RIKATN" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2138391" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/Y3RIKATN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-Y3RIKATN" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-Y3RIKATN" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-Y3RIKATN" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://journals.uio.no/adnorden/article/download/9655/8502" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-Y3RIKATN"></div>
 </article>
 <div id="csl-bib-meta-Y3RIKATN" class="csl-bib-meta">
+  <article id="abstract-article-Y3RIKATN" class="abstract-article">
+    <h1>Samandrag</h1>
+    De fleste som lærer norsk gjennom Introduksjonsprogrammet for nyankomne migranter, er tvungne migranter. Det vil si personer har flyktet fra hjemmene sine på grunn av krig, forfølgelse eller andre faktorer som gjør at flukt forekommer som eneste alternativ for å overleve. Gjennom etnografisk forskning blant 14 overføringsflyktninger fra Den demokratiske republikken Kongo til Norge har vi blitt oppmerksomme på hvordan erfaringer som flyktning kan påvirke investering i språklæring. Med utgangspunkt i historien til en av deltakerne, Joseph, viser vi med denne studien at strukturer som nasjonal og internasjonal flyktningpolitikk ikke bare samspiller med, men også begrenser muligheten til individuelt aktørskap. Vi argumenterer for at en opplevelse av begrenset aktørskap kan være en nøkkel til få forstå tvungne migranters investering i språklæring.
+  </article>
   <article id="contributors-article-Y3RIKATN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

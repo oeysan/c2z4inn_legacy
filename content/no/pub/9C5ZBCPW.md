@@ -1,5 +1,5 @@
 ---
-title: "9C5ZBCPW"
+title: "Leksikalsk frekvensprofil i tekster på norsk som andrespråk: En evaluering og videreutvikling"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9C5ZBCPW" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1825310" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9C5ZBCPW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9C5ZBCPW" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-9C5ZBCPW"></div>

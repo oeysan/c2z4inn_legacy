@@ -1,5 +1,5 @@
 ---
-title: "PQARTWNG"
+title: "Different men – similar meanings. Rural Norwegian men’s constructions of meanings related to health, body and physical activity"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PQARTWNG" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1794581" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PQARTWNG" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PQARTWNG" class="csl-bib-button">Medverkande</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/17430437.2019.1711371?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>

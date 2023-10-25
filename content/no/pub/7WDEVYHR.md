@@ -1,5 +1,5 @@
 ---
-title: "7WDEVYHR"
+title: "Evaluation of Three Medetomidine-Based Anesthetic Protocols in Free-Ranging Wild Boars (Sus scrofa)"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7WDEVYHR" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1956123" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/7WDEVYHR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-7WDEVYHR" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-7WDEVYHR" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-7WDEVYHR" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fvets.2021.655345/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-7WDEVYHR"></div>
 </article>
 <div id="csl-bib-meta-7WDEVYHR" class="csl-bib-meta">
+  <article id="abstract-article-7WDEVYHR" class="abstract-article">
+    <h1>Samandrag</h1>
+    Three medetomidine-based drug protocols were compared by evaluating time courses, reliability and physiological effects in wild boars. A total of 21 cage-trapped wild boars ( Sus scrofa ) were immobilized using one of the following drug combinations; MTZ: medetomidine (0.2 mg/kg) + tiletamine-zolazepam (2.0 mg/kg), MK: medetomidine (0.15 mg/kg) + ketamine (5 mg/kg), and MKB: medetomidine (0.1 mg/kg) + ketamine (5.0 mg/kg) + butorphanol (0.2 mg/kg). Induction time, recovery time, and physiological variables were recorded and arterial blood gas analysis measured twice, before and after 15 min of oxygen supplementation (0.5–1.0 L/min). For reversal, 4 mg of atipamezole per mg of medetomidine was administered intramuscularly. The boars recovered in the cage and were released once ataxia resolved. The MK group had significantly longer recovery times (mean 164 min ± 79 SD) compared to the other groups. MKB elicited longer and incomplete induction compared to the other groups (mean induction time 20 min ± 10 SD), decreasing the efficiency of the capture and increasing the risk of hyperthermia. Both ketamine-based protocols required additional ketamine intramuscularly to prolong the anesthesia after 20–40 min from induction. Agreement between the pulse oximeter and the blood gas analyzer was low, with the pulse oximeter underestimating the real values of arterial oxyhemoglobin saturation, particularly at higher readings. Mild acute respiratory acidosis (PaCO 2 45–60 mmHg) and mild to moderate hypoxemia (PaO 2 69–80 mmHg) occurred in most boars, regardless of the treatment group but especially in the MKB group. The acid-base status improved and hypoxemia resolved in all boars during oxygen supplementation, with the PaO 2 rising above the physiological reference range (81.6–107.7 mmHg) in many individuals. MK and MKB induced safe and reliable immobilization of wild boars for at least 20 min. Supplemental oxygen delivery is recommended in order to prevent hypoxemia in wild boars immobilized with the protocols used in the present study. Long and ataxic recoveries occurred in most animals, regardless of the protocol, but especially in the MKB group.
+  </article>
   <article id="contributors-article-7WDEVYHR" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

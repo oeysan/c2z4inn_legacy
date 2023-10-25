@@ -1,5 +1,5 @@
 ---
-title: "U67YKPAV"
+title: "Profesjonelle læringsfellesskap og læreres undervisningspraksis"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-U67YKPAV" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2001016" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/U67YKPAV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-U67YKPAV" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-U67YKPAV" class="csl-bib-button">Medverkande</a>
     <a href="https://journals.uio.no/adnorden/article/download/8144/8035" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-U67YKPAV"></div>
 </article>
 <div id="csl-bib-meta-U67YKPAV" class="csl-bib-meta">
+  <article id="abstract-article-U67YKPAV" class="abstract-article">
+    <h1>Samandrag</h1>
+    Overordnet del av læreplanverket (LK20) gir uttrykk for at lærere skal være aktivt del­takende i profesjonelle læringsfellesskap med den hensikt å utvikle et innovativt og faglig lærersamarbeid som bidrar til økt lærerkompetanse og forbedret undervisnings­praksis. Denne studien legger til grunn en retningsbestemt hypotese om at læreres til­hørighet i profesjonelle læringsfellesskap og deres profesjonstilfredshet påvirker deres undervisningspraksis. Studien er en tverrsnittstudie bestående av varians- og regresjons­analyser av lærervurderte variabler fra 20 barneskoler i tidligere Hedmark fylke. Resul­tatene viser at lærere vurderer sin undervisningspraksis som relativt god, uavhengig av styrken de tillegger det profesjonelle læringsfellesskapet. Læreres vurdering av sin profesjonstilfredshet betyr mer enn profesjonelle læringsfellesskap når det gjelder deres vurdering av sin undervisningspraksis. Studien avdekker likevel noen mønstre og sam­menhenger som kan tyde på at profesjonelle læringsfellesskap har betydning, og at studiens hypotese til dels kan bekreftes. Det er sterkere gjensidig forklaringskraft mellom variablene i skoler hvor lærere oppfatter at det er sterke profesjonelle lærings­fellesskap. I disse skolene kan læreres vurdering av profesjonelle læringsfellesskap og egen profesjonstilfredshet sammen i større grad forklare deres vurdering av egen undervisningspraksis, sammenlignet med skoler hvor profesjonelle læringsfellesskap vurderes som svake. Det er vesentlig å forstå utvikling av profesjonelle lærings­fellesskap som noe mer enn å redusere den privatpraktiserende lærers innflytelse. Det handler også i stor grad om å utfordre og endre både kollektive og individuelle verdier, oppfatninger og handlingsmønstre. Skolekulturen har sannsynligvis betydning for hvor­dan man opptrer som enkeltlærer i møte med elevene.
+  </article>
   <article id="contributors-article-U67YKPAV" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

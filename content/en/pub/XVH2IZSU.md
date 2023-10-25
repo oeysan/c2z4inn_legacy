@@ -1,5 +1,5 @@
 ---
-title: "XVH2IZSU"
+title: "A diagnosis of contemporary forms of racism, race and nationalism: a conversation with Professor Paul Gilroy"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XVH2IZSU" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1683235" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/XVH2IZSU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/09502386.2018.1546334?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-XVH2IZSU"></div>

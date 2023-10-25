@@ -1,5 +1,5 @@
 ---
-title: "ESA96ZYR"
+title: "Experiences of stressful situations and mindfulness training for persons with visual impairment"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ESA96ZYR" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2018432" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ESA96ZYR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/02646196211067361" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ESA96ZYR"></div>

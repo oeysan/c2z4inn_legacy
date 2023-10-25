@@ -1,5 +1,5 @@
 ---
-title: "VJKFRTDY"
+title: "Immobility-associated thromboprotection is conserved across mammalian species from bear to human"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VJKFRTDY" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2141479" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VJKFRTDY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-VJKFRTDY" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-VJKFRTDY" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-VJKFRTDY" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://centaur.reading.ac.uk/111253/1/Acccepted%20abo5044_CombinedPDF_v4.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,12 @@ type: pub
   <div id="csl-bib-meta-container-VJKFRTDY"></div>
 </article>
 <div id="csl-bib-meta-VJKFRTDY" class="csl-bib-meta">
+  <article id="abstract-article-VJKFRTDY" class="abstract-article">
+    <h1>Samandrag</h1>
+    Venous thromboembolism (VTE) comprising deep venous thrombosis and pulmonary embolism is a major cause of morbidity and mortality. Short-term immobility-related conditions are a major risk factor for the development of VTE. Paradoxically, long-term immobilized free-ranging hibernating brown bears and paralyzed spinal cord injury (SCI) patients are protected from VTE. We aimed to identify mechanisms of immobility-associated VTE protection in a cross-species approach. Mass spectrometry–based proteomics revealed an antithrombotic signature in platelets of hibernating brown bears with heat shock protein 47 (HSP47) as the most substantially reduced protein. HSP47 down-regulation or ablation attenuated immune cell activation and neutrophil extracellular trap formation, contributing to thromboprotection in bears, SCI patients, and mice. This cross-species conserved platelet signature may give rise to antithrombotic therapeutics and prognostic markers beyond immobility-associated VTE.
+The bear necessities for anticoagulation When humans experience acute immobility caused by illness or injury, they are at increased risk for potentially deadly venous thromboembolism. By contrast, hibernating bears remain immobile for months every year without experiencing any such complications. Similarly, chronically immobilized patients with spinal cord injury do not have an increased risk of thrombosis. By examining blood from humans experiencing chronic immobilization, healthy volunteers on extended bed rest, and free-ranging brown bears during their periods of activity and hibernation, Thienel et al . identified specific proteins that are down-regulated during periods of prolonged immobility and protect from thrombosis (see the Perspective by Schattner). —YN
+Long-term immobility induces an antithrombotic platelet signature, helping to reduce thromboinflammation and thrombosis risk.
+  </article>
   <article id="contributors-article-VJKFRTDY" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

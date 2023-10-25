@@ -1,5 +1,5 @@
 ---
-title: "PH67M5PK"
+title: "Enhancing social sustainability through education: Revisiting the concept of multicultural education"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PH67M5PK" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2011992" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PH67M5PK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-PH67M5PK" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-PH67M5PK" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-PH67M5PK" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.intechopen.com/citation-pdf-url/80822" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-PH67M5PK"></div>
 </article>
 <div id="csl-bib-meta-PH67M5PK" class="csl-bib-meta">
+  <article id="abstract-article-PH67M5PK" class="abstract-article">
+    <h1>Abstract</h1>
+    The 2030 Agenda for Sustainable Development holds that education is essential to achieving a sustainable future. Thus, many countries around the world have made multicultural education imperative. However, a pertinent question is how multicultural education should be understood and how inclusive teaching and learning approaches should be initiated and integrated within educational systems. In this chapter, I critically discuss the concept of multicultural education and explore how it may contribute to realising the 2030 Agenda for Sustainable Development. First, I give an overview of the main characteristics and goals of multicultural education. Second, I discuss what I see as two major hindrances to realising a sustainable multicultural education: the lack of integrating issues of diversity into everyday school practices and the deficit discourse that still characterises contemporary educational debates on diversity.
+  </article>
   <article id="contributors-article-PH67M5PK" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

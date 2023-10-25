@@ -1,5 +1,5 @@
 ---
-title: "AHXD4C2B"
+title: "Developing professional knowledge through innovation in higher education"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AHXD4C2B" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1805956" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/AHXD4C2B" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-AHXD4C2B" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/HESWBL-06-2019-0082" class="csl-bib-button">EZproxy</a>
   </div>

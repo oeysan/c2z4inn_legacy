@@ -1,5 +1,5 @@
 ---
-title: "RABC87XM"
+title: "Being a part of it: People with Intellectual Disabillities as volunteers in the Youth Olympic Games"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RABC87XM" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1689268" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/RABC87XM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-RABC87XM" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-RABC87XM"></div>

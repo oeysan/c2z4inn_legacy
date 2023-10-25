@@ -1,5 +1,5 @@
 ---
-title: "8KG6BHPX"
+title: "Macroecological Research in Boreal Forest Reveals the Effects of Moose on Economically and Ecologically Important Tree Species"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8KG6BHPX" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1602387" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/8KG6BHPX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-8KG6BHPX" class="csl-bib-button">Medverkande</a>
     <a href="https://doi.org/10.17238/issn0536-1036.2018.4.9" class="csl-bib-button">Unpaywall</a>
   </div>

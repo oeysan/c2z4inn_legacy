@@ -1,5 +1,5 @@
 ---
-title: "VPZSY8HT"
+title: "Outlook of oil prices and volatility from 1970 to 2040 through global energy mix-security from production to reserves: A nonparametric causality-in-quantiles approach"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VPZSY8HT" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2075037" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VPZSY8HT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VPZSY8HT" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.resourpol.2022.103054" class="csl-bib-button">EZproxy</a>
   </div>

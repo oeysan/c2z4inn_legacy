@@ -1,5 +1,5 @@
 ---
-title: "CXXKZHM5"
+title: "Identification and Amplification of Tacit Knowledge: The Positive Deviance Approach as Knowledge Management Praxis"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CXXKZHM5" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1466907" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/CXXKZHM5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-CXXKZHM5" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-CXXKZHM5" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-CXXKZHM5" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-CXXKZHM5"></div>
 </article>
 <div id="csl-bib-meta-CXXKZHM5" class="csl-bib-meta">
+  <article id="abstract-article-CXXKZHM5" class="abstract-article">
+    <h1>Abstract</h1>
+    Often the answer to solving complex social problems already exists in the community as some type of tacit knowledge, but it is hidden from plain view. By demonstrating how tacit indigenous knowledge can be identified and amplified through a problem-solving approach known as Positive Deviance (Singhal et al., 2014), this article contributes to the understanding of the knowledge externalization process (Nonaka, 1994). The Positive Deviance (PD) approach is premised on the belief that in every community there are certain individuals or groups whose uncommon behaviours and strategies enable them to find better solutions to problems than their peers, while having access to the same resources. We propose five stages for the identification and amplification of the tacit knowledge in the PD approach. The first stage concerns awareness and breakout of the community “mental prisons.” The second stage refers to identifying the positive deviants—the carriers of the authentic experience and valuable tacit knowledge. The third stage suggests creation of particular conditions to facilitate the “paradigm shift”. The fourth stage indicates self-discovery as the mechanism of knowledge transfer. Finally, the fifth stage highlights the importance of social proof as the justification mechanism for the adoption of self-discovered knowledge as community members embrace the new practice. Through an analysis of two highly effective PD implementations in Vietnam and Argentina, we show how unearthing of tacit knowledge is fundamental to the PD approach, and represents a source of creativity and inspiration for finding efficacious solutions.
+  </article>
   <article id="contributors-article-CXXKZHM5" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

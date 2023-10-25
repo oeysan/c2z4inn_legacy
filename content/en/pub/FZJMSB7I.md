@@ -1,5 +1,5 @@
 ---
-title: "FZJMSB7I"
+title: "The Effects of Growth Regulators and Apical Bud Removal on Growth, Flowering, and Corms Production of Two Gladiolus Varieties"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FZJMSB7I" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2050454" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/FZJMSB7I" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-FZJMSB7I" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-FZJMSB7I" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-FZJMSB7I" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/2311-7524/8/9/789/pdf?version=1662112117" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-FZJMSB7I"></div>
 </article>
 <div id="csl-bib-meta-FZJMSB7I" class="csl-bib-meta">
+  <article id="abstract-article-FZJMSB7I" class="abstract-article">
+    <h1>Abstract</h1>
+    Gladiolus is commonly propagated from corms. The multiplication rate of corms is low and to increase the propagation rate, we examined a combination of apical bud removal and the application of growth regulators. The experiments were conducted in two varieties, ‘Rose Supreme’ and ‘White Prosperity’, and over two seasons. The apical buds on the planting corms were either removed or left intact before the same corms were soaked in a suspension with either 100 ppm of benzyladenine (BA), 100 ppm of gibberellic acid (GA3), or pure water. The results showed that apical bud removal increased the number of corms and shoots. GA3 had limited the effect on corm and shoot production, but instead resulted in increased total leaf area and leaf weight per shoot. BA, on the other hand, increased the number of corms and shoots. Overall, the removal of the apical bud plus application of BA increased the number of corms and shoots but reduced the average corm diameter and leaf weight per shoot. This was clearer in ‘Rose Supreme’ than in ‘White Prosperity’. To maximize flower production for the coming season, farmers need to produce a high number of planting corms, but they also need to balance this with a sufficient corm size and the production of flowers of good quality. The application of growth regulators in combination with apical bud removal should be fine-tuned to avoid a situation that leads to the production of too many small or too few large corms.
+  </article>
   <article id="contributors-article-FZJMSB7I" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

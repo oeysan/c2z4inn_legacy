@@ -1,5 +1,5 @@
 ---
-title: "I3GBWRN2"
+title: "Barriers in Implementing Coach Education in Grassroots Youth Football in Norway"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-I3GBWRN2" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1530963" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/I3GBWRN2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-I3GBWRN2" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-I3GBWRN2" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-I3GBWRN2" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1123/iscj.2016-0106" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,22 @@ type: pub
   <div id="csl-bib-meta-container-I3GBWRN2"></div>
 </article>
 <div id="csl-bib-meta-I3GBWRN2" class="csl-bib-meta">
+  <article id="abstract-article-I3GBWRN2" class="abstract-article">
+    <h1>Abstract</h1>
+    This study explores grassroots coaches’ (GCs’) perceptions of the content of a one-day coach education workshop, 
+the programme’s applicability, their use of the content, and the perceived barriers to implementing the 
+programme in their coaching practice. One hundred and thirteen GCs completed follow-up questionnaires, 
+while 12 of them were also interviewed. Descriptive statistics and qualitative analyses were conducted. The 
+quantitative results indicate that the GCs were mainly positive about the programme content and found it easy 
+to apply and adapt to. However, few GCs seemed to apply the programme principles to a great extent. The 
+qualitative results illustrate that the GCs reported barriers that seem to relate to programme characteristics, in 
+particular a lack of follow-up; individual factors, such as a lack of time; and organizational factors, like the 
+lack of a shared understanding of the programme with their co-coaches, and lack of support from club officials. 
+Thus, the findings imply that there is a need for an extended focus on organisational factors, especially support 
+by club officials, when implementing coach education content in youth sports. Future recommendations 
+for implementation of coach education workshops for youth grassroots coaches have been suggested, where 
+support for the coaches is a key issue.
+  </article>
   <article id="contributors-article-I3GBWRN2" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "KNBPZRA9"
+title: "Design as redesign in the case of architectural competitions: The role of design visualisations and juries"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KNBPZRA9" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1814804" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KNBPZRA9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KNBPZRA9" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-KNBPZRA9" class="csl-bib-button">Contributors</a>
     <a href="https://openresearch.lsbu.ac.uk/download/c6cf02ddb3a9d5eb5e5ba14e91abffba8240cd9b3adfc8ee9a1b40ad8e60d465/1152691/21Jul2020Manuscript%20for%20Culture%20and%20Organization%20-%20final%20upload%20%2B%20figures.docx" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-KNBPZRA9"></div>
 </article>
 <div id="csl-bib-meta-KNBPZRA9" class="csl-bib-meta">
+  <article id="abstract-article-KNBPZRA9" class="abstract-article">
+    <h1>Abstract</h1>
+    Organisational research positions design as complex and open-ended. We contribute to research on design and the organisation of competition by conceptualising design as redesign and as a collective ‘thing’ consisting of an interconnected and dynamically evolving set of new design issues and matters of concern that blur actors’ professional roles. Our approach builds on actor-network theory using an ethnographic study to follow architects’ design work in a commercial case of a dialogue-based architectural competition. Building scales and design concepts were translated and inscribed into different forms of design visualisations and circulated amongst the client, the architect office, and the workshop during the encounter between the team of architects and the jury. As circulating references, design visualisations retain and transform the design and give rise to new contradictory design issues during the actors’ verbal dialogue.
+  </article>
   <article id="contributors-article-KNBPZRA9" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

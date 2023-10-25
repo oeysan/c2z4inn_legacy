@@ -1,5 +1,5 @@
 ---
-title: "GUIQ367S"
+title: "Meaning in Life for Patients With Severe Dementia: A Qualitative Study of Healthcare Professionals' Interpretations"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GUIQ367S" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1931721" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/GUIQ367S" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-GUIQ367S" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-GUIQ367S" class="csl-bib-button">Contributors</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.701353/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-GUIQ367S"></div>
 </article>
 <div id="csl-bib-meta-GUIQ367S" class="csl-bib-meta">
+  <article id="abstract-article-GUIQ367S" class="abstract-article">
+    <h1>Abstract</h1>
+    The need for meaning in life is a key aspect of being human, and a central issue in the psychology of religion. Understanding experience of meaning for persons with severe dementia is challenging due to the impairments associated with the illness. Despite these challenges, this article argues that meaning in life is as important for a person with severe dementia as it is for everyone else. This study was conducted in a Norwegian hospital and nursing home context and was part of a research project on meaning in life for persons with severe dementia. The study builds on two other studies which focused on how meaning-making and experience of meaningfulness appeared in patients with severe dementia. By presenting the findings from these two studies for a group of healthcare professionals and introducing them to research on meaning in life, the aim of this study was to explore how healthcare professionals interpret the patients' experience of meaning in life in practise for patients with severe dementia in a hospital and nursing home context, and to highlight its clinical implications. The study was conducted using a qualitative method with exploratory design. The data were collected at a round table conference, a method inspired by a mode of action research called “co-operative inquiry.” Altogether 27 professional healthcarers, from a variety of professions, with high competence in dementia care participated together with six researchers authoring this article. This study revealed that healthcare professionals were constantly dealing with different forms of meaning in their everyday care for people with dementia. The findings also showed clear connexions between understanding of meaning and fundamental aspects of good dementia care. Meaning corresponded well with the principles of person-centred care, and this compatibility allowed the healthcare professionals to associate meaning in life as a perspective into their work without having much prior knowledge or being familiar with the use of this perspective. The study points out that awareness of meaning in life as an integrated perspective in clinical practise will contribute to a broader and enhanced repertoire, and hence to improved dementia care. Facilitating experience of meaning calls for increased resources in personnel and competence in future dementia care.
+  </article>
   <article id="contributors-article-GUIQ367S" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

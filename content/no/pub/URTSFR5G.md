@@ -1,5 +1,5 @@
 ---
-title: "URTSFR5G"
+title: "Rethinking long‐term condition management: An actor‐level framework"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-URTSFR5G" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1894151" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/URTSFR5G" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://munin.uit.no/bitstream/10037/23787/4/article.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-URTSFR5G"></div>

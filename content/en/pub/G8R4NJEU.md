@@ -1,5 +1,5 @@
 ---
-title: "G8R4NJEU"
+title: "Industry 4.0 and the circular economy: A literature review and recommendations for future research"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-G8R4NJEU" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2096686" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/G8R4NJEU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-G8R4NJEU" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-G8R4NJEU" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-G8R4NJEU" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1002/bse.2731" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-G8R4NJEU"></div>
 </article>
 <div id="csl-bib-meta-G8R4NJEU" class="csl-bib-meta">
+  <article id="abstract-article-G8R4NJEU" class="abstract-article">
+    <h1>Abstract</h1>
+    Research regarding the Fourth Industrial Revolution (Industry 4.0) and the circular economy has gained traction since 2014. Paralleling the growth in the internet of things (IoT), the circular economy poses both risks and opportunities to various stakeholders in its development. This literature review aims to identify Industry 4.0 stakeholders' interests and expectations regarding how the IoT can be part of circular economy management. Contributions include identifying various IoT tools for dealing with circular economy challenges while also addressing implementation best practices. The transition of the circular economy within Industry 4.0 requires a better understanding of government, suppliers, international organizational interests, and expectations regarding the IoT. This study enables future research on circular economy practices and their potential sustainability benefits for manufacturing firms. This study's findings allow practitioners and researchers to understand the literature and critical elements of the transition toward a more circular economy.
+  </article>
   <article id="contributors-article-G8R4NJEU" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -57,7 +62,7 @@ Campus Kongsvinger
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

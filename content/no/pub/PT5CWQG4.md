@@ -1,5 +1,5 @@
 ---
-title: "PT5CWQG4"
+title: "Environment and air pollution: health services bequeath to grotesque menace"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PT5CWQG4" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2096713" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PT5CWQG4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-PT5CWQG4" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/s11356-014-3584-2" class="csl-bib-button">EZproxy</a>
   </div>

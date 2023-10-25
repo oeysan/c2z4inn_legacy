@@ -1,5 +1,5 @@
 ---
-title: "8Q87SQRI"
+title: "Blickar och betydelser"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8Q87SQRI" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1996711" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/8Q87SQRI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-8Q87SQRI" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-8Q87SQRI" class="csl-bib-button">Medverkande</a>
     <a href="https://septentrio.uit.no/index.php/1700/article/download/4881/4846" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-8Q87SQRI"></div>
 </article>
 <div id="csl-bib-meta-8Q87SQRI" class="csl-bib-meta">
+  <article id="abstract-article-8Q87SQRI" class="abstract-article">
+    <h1>Samandrag</h1>
+    During the years 1795–1866 the Swedish national art collection, today’s Nationalmuseum, was on display at the Royal Palace in Stockholm at what was known as Kongl. Museum. This museum consisted of two sculpture galleries adjacent to the palace garden Logården and a paintings gallery and a few more rooms on the second floor. While the sculpture galleries are well known as well as reconstructed in situ, there has been much less research on the display of paintings at the museum. In the cross disciplinary research project »Virtual Museum at the Royal Palace» we are using a digital 3D model to reconstruct the display of paintings in the so-called smaller gallery of the palace, as it was displayed during the period. The reconstruction deals with two different hangings of the gallery, in 1795 and c. 1843, made by the curators Carl Fredric Fredenheim and Lars Jacob von Röök respectively. Our preliminary findings show that, contrary to earlier claims, the two hangings are rather different and constructed on quite different ideologies of museum display, something that is possible to see thanks to the method of using digital 3D-models as a basis for analysis.
+  </article>
   <article id="contributors-article-8Q87SQRI" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

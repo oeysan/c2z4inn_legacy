@@ -1,5 +1,5 @@
 ---
-title: "XPABPWFH"
+title: "Environmental Attitudes, Behaviors, and Responsibility Perceptions Among Norwegian Youth: Associations With Positive Youth Development Indicators"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XPABPWFH" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2014936" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/XPABPWFH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-XPABPWFH" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-XPABPWFH" class="csl-bib-button">Contributors</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2022.844324/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-XPABPWFH"></div>
 </article>
 <div id="csl-bib-meta-XPABPWFH" class="csl-bib-meta">
+  <article id="abstract-article-XPABPWFH" class="abstract-article">
+    <h1>Abstract</h1>
+    Young people’s environmental attitudes and behaviors are essential for environmental conservation, hence the need to identify facilitating factors. Promoting positive development among young people may empower them to contribute actively to their environment through positive attitudes and behaviors. In the present study, we examine the associations between the 5Cs of Positive Youth Development (Character, Confidence, Connection, Caring, and Competence) and environmental concerns among Norwegian youth, measured through environmental attitudes, conservation behavior, and responsibility. Cross-sectional data on demographic variables, the 5Cs and environmental concerns were collected from high school students ( N = 220, Mage = 17.30, SD = 1.12). For results, Character was associated with several of the environmental variables (β s = 0.28–0.58, p 0.05), followed by Competence (β s = 0.26–0.31, p 0.05) and Caring (β s = 0.23, p 0.05), and finally Confidence, which showed a negative association with conservation behavior (β = −0.29, p 0.05). There was no significant association with Connection. While these preliminary findings pave the way for future research that should involve more representative samples, the significant associations between several of the 5Cs and the environmental factors may have some implications for policy and programs on youth development and sustainable behaviors.
+  </article>
   <article id="contributors-article-XPABPWFH" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "IIIU359S"
+title: "Determinants of Nonindustrial Private Forest Owners’ Willingness to Harvest Timber in Norway"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-IIIU359S" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1812147" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/IIIU359S" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-IIIU359S" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-IIIU359S" class="csl-bib-button">Medverkande</a>
     <a href="https://www.mdpi.com/1999-4907/11/1/60/pdf?version=1633739602" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-IIIU359S"></div>
 </article>
 <div id="csl-bib-meta-IIIU359S" class="csl-bib-meta">
+  <article id="abstract-article-IIIU359S" class="abstract-article">
+    <h1>Samandrag</h1>
+    In Norway, 84% of the productive forest is privately owned, and these forests dominate the supply of timber to industries. However, during last 80 years, annual forest growth has seen a substantial upsurge while annual timber harvest has been rather stable, generating an increasing potential for timber supply. In this study, we provide new insights to better understand Norwegian non-industrial private forest owners’ timber harvesting decisions. This was achieved by comparing the outcomes of two different statistical approaches (i.e., a combination of probit-linear models with a tobit model). These approaches are commonly applied in timber supply studies, but to the best of our knowledge have never been compared on the same dataset. The survey utilized for this study constitutes a population of Active and Inactive forest owners, based on whether the owner had harvested timber for sale during the last fifteen years. Two gross samples of 1500 and 1650 were drawn, with response rates of 56% and 49% for the Active and Inactive owner samples, respectively. The study results reveal that the average holding size varied from 25.2 ha for Inactive to 49.5 ha for both samples and 73.8 ha for Active owners. The probit model analysis indicated that knowledge of forest fund and financial objectives had the most significant impact on the willingness to harvest, with marginal effects of 11% and 12%, respectively. In the linear regression, being a female owner increased the historical timber supply by 1.48 m3 ha−1 year−1 compared to male ownership. In the second regression pathway (tobit model), the two variables female forest owner and owning forests for financial objectives triggered the supply of timber by 1.85 m3 ha−1 year−1 and 1.25 m3 ha−1 year−1, respectively. Timber prices were significant in the linear model (elasticity 1.18) and tobit model (elasticity 0.66), whereas they were non-significant in the probit model. Our study concludes that Active owners had a better understanding of acknowledging forests for economic security. Policy-makers and extension services should recognize that the Inactive forest owner group may require different actions than Active owners.
+  </article>
   <article id="contributors-article-IIIU359S" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "MYJ5SAEC"
+title: "The Scope of Possibilities for User Influence in Norwegian Municipal Care Services"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MYJ5SAEC" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1793541" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/MYJ5SAEC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-MYJ5SAEC" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-MYJ5SAEC" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1017/S0047279419000771" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-MYJ5SAEC"></div>
 </article>
 <div id="csl-bib-meta-MYJ5SAEC" class="csl-bib-meta">
+  <article id="abstract-article-MYJ5SAEC" class="abstract-article">
+    <h1>Abstract</h1>
+    The importance of service-user participation has been growing in the care services, but what possibilities do service users have to influence these services? This article analyses how structural factors have an impact on the scope of possibilities for user influence in care services, especially with respect to how established structures and frameworks determine users’ opportunities to influence both the allocation and the provision of services. A study of five Norwegian municipalities where managers at different levels and within different areas of the services have been interviewed forms the basis of the empirical material. In the managers’ general opinion, over time there has been a stronger individual adjustment of the services and stronger user influence over both the allocation and the provision of services. However, if we look more closely at the service-delivery process, several structural factors limiting the scope of possibilities for user influence become apparent. These factors are discussed in light of different user typologies.
+  </article>
   <article id="contributors-article-MYJ5SAEC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

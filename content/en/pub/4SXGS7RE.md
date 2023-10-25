@@ -1,5 +1,5 @@
 ---
-title: "4SXGS7RE"
+title: "Effects of Lake Productivity on Density and Size Structure of Pelagic Fish Estimated by Means of Echosounding in 17 Lakes in Southeast Norway"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4SXGS7RE" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1989070" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/4SXGS7RE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-4SXGS7RE" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-4SXGS7RE" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-4SXGS7RE" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/1424-8220/21/10/3391/pdf?version=1620893954" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-4SXGS7RE"></div>
 </article>
 <div id="csl-bib-meta-4SXGS7RE" class="csl-bib-meta">
+  <article id="abstract-article-4SXGS7RE" class="abstract-article">
+    <h1>Abstract</h1>
+    Density estimation of pelagic fish was performed by means of single beam echosounding in 17 lakes within a period of 34 years, from 1985 to 2018. Surveys were performed repeatedly (two to fourteen times) in five lakes. The density estimates ranged from 34 to 4720 fish/ha and were significantly correlated with total phosphorus concentration. The high density in relatively phosphorus rich lakes (TP &gt; 10 µg/L) was comprised of small fish (&lt;20 cm) and was partly due to the higher number of pelagic fish species. The number of pelagic species varied from one, Arctic charr, in the most elevated and oligotrophic lakes, and whitefish dominated in less elevated oligotrophic lakes. In lowland lakes characterized as mesotrophic or tending to mesotrophy, smelt, vendace, and two to three cyprinids comprised the pelagic fish stock. These fish species predate zooplankton effectively, and species composition and body size of planktonic cladocerans was affected by fish density. Large species of Daphnia were lacking in lakes with high fish density, and body size of present species, D. galeata, D. cristata, and Bosmina spp. were negatively correlated with pelagic fish density.
+  </article>
   <article id="contributors-article-4SXGS7RE" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

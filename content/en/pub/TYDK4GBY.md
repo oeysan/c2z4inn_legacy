@@ -1,5 +1,5 @@
 ---
-title: "TYDK4GBY"
+title: "Post-Race Sleep Recovery and Sleep Problems in Mushers and Helpers Participating in Finnmarksløpet"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-TYDK4GBY" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1687321" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/TYDK4GBY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-TYDK4GBY" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-TYDK4GBY" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/1099800412475077" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-TYDK4GBY"></div>
 </article>
 <div id="csl-bib-meta-TYDK4GBY" class="csl-bib-meta">
+  <article id="abstract-article-TYDK4GBY" class="abstract-article">
+    <h1>Abstract</h1>
+    Sleep deprivation can lead to a series of health problems such as of cognitive and neurobehavioral deficits, as well as alterations in the metabolic, endocrine, and immune systems. This paper summarizes our research on sleep recovery and sleep problems in participants in the Finnmarksløp (FL), Europe’s longest dog-sled race that takes place every year in Northern Norway. During FL, the participants undergo severe sleep deprivation, which is often not followed by adequate sleep-recovery at completion of the race. The inadequate sleep-recovery process in FL participants can be party explained by lack of awareness, but in some cases also by the emergence of sleep problems such as the inability of achieve and maintain a restful sleep. Such sleep problems, which appear to be caused by an impairment of the rest-activity circadian rhythm, are more pronounced among the participants in the longer race category (1000-km) as compared with the participants in the shorter one (500-km). Sleep deprivation and sleep problems do not only affect the mushers, but also other participants such as handlers, members or the organization team, and support staff. Recommendations for future research as well as a series of practical recommendations to participants and race organizers are proposed and discussed. Key words: Biological rhythms, dog sled, long-distance racing, mushing, sleep debt, wilderness medicine
+  </article>
   <article id="contributors-article-TYDK4GBY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

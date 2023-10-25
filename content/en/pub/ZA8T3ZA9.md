@@ -1,5 +1,5 @@
 ---
-title: "ZA8T3ZA9"
+title: "How to allow SAR collapse across local and continental scales: a resolution of the controversy between Storch et al. (2012) and Lazarina et al. (2013)"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZA8T3ZA9" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1491305" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZA8T3ZA9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ZA8T3ZA9" class="csl-bib-button">Contributors</a>
     <a href="http://eprints.whiterose.ac.uk/103411/1/SAR__%20collapse_MS_%2823%2007%202016%29_Submit.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

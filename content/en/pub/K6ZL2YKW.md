@@ -1,5 +1,5 @@
 ---
-title: "K6ZL2YKW"
+title: "Trading time seasonality in commodity futures: An opportunity for arbitrage in the natural gas and crude oil markets?"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-K6ZL2YKW" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2057330" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/K6ZL2YKW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-K6ZL2YKW" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-K6ZL2YKW" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-K6ZL2YKW" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://doi.org/10.1016/j.eneco.2022.106324" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-K6ZL2YKW"></div>
 </article>
 <div id="csl-bib-meta-K6ZL2YKW" class="csl-bib-meta">
+  <article id="abstract-article-K6ZL2YKW" class="abstract-article">
+    <h1>Abstract</h1>
+    In this paper we investigate energy futures contracts and the presence of a type of seasonality, that has been given very little to no attention in the literature – we call it trading time seasonality.  Such seasonality is exposed through the futures trading time, not its maturity time, nor the underlying spot price. As we show, it can be linked to seasonality in the pricing kernel, but the latter can’t explain it fully. Its relationship to arbitrage and CAPM violation is investigated, and its presence is confirmed for natural gas and crude oil futures markets using descriptive analysis, Kruskal—Wallis testing and CAPM methodology. We provide an informal discussion around possible reasons for the effect and identify seasonal hedging pressure and market sentiments as such.
+  </article>
   <article id="contributors-article-K6ZL2YKW" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

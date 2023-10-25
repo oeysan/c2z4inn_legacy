@@ -1,5 +1,5 @@
 ---
-title: "SPRD6KT4"
+title: "A scoping review—Missed nursing care in community healthcare contexts and how it is measured"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SPRD6KT4" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1966560" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/SPRD6KT4" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-SPRD6KT4" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-SPRD6KT4" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-SPRD6KT4" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/nop2.945" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,20 @@ type: pub
   <div id="csl-bib-meta-container-SPRD6KT4"></div>
 </article>
 <div id="csl-bib-meta-SPRD6KT4" class="csl-bib-meta">
+  <article id="abstract-article-SPRD6KT4" class="abstract-article">
+    <h1>Samandrag</h1>
+    Aim 
+To examine the extent and nature of missed nursing care in elderly care in community healthcare contexts from the perspective of healthcare staff, and to identify instruments used to measure missed nursing care and the content of these instruments. 
+ 
+Design 
+Scoping review. 
+ 
+Methods 
+Searches were conducted in the CINAHL, PubMed, Scopus and Google Scholar databases in March 2020. The selection process followed the PRISMA flow diagram. 
+ 
+Results 
+Sixteen research papers were found from nine countries. The instruments used in the studies were Basel Extent of Rationing of Nursing Care for nursing homes (BERNCA-NH), modified MISSCARE survey and study-specific instruments or items. The item content differed, as did the number of items, which was between one and 44. The studies reported values for missed nursing care, as well as described reasons for and/or the relation between missed nursing care and organization, working climate and patient outcomes.
+  </article>
   <article id="contributors-article-SPRD6KT4" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

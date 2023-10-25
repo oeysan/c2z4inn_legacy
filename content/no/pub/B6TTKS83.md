@@ -1,5 +1,5 @@
 ---
-title: "B6TTKS83"
+title: "Public libraries as public sphere institutions: A comparative study of perceptions of the public library’s role in six European countries"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,26 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-B6TTKS83" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1716036" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/B6TTKS83" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-B6TTKS83" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-B6TTKS83" class="csl-bib-button">Medverkande</a>
     <a href="https://munin.uit.no/bitstream/10037/16296/3/article.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-B6TTKS83"></div>
 </article>
 <div id="csl-bib-meta-B6TTKS83" class="csl-bib-meta">
+  <article id="abstract-article-B6TTKS83" class="abstract-article">
+    <h1>Samandrag</h1>
+    Abstract 
+Purpose–The purpose of this paper is to analyze the role of public libraries as institutions underpinning ademocratic public sphere as reasons legitimizing libraries compared to reasons that are more traditional and the actual use of libraries as public sphere arenas.  
+Design/methodology/approach–A survey of representative samples of the adult population in sixcountries–Denmark, Sweden, Norway, Germany, Hungary and Switzerland–was undertaken. 
+Findings–Legitimations related to the libraries role as a meeting place and arena for public debate areranked as the 3 least important out of 12 possible legitimations for upholding a public library service.Libraries are, however, used extensively by the users to access citizenship information and to participate inpublic sphere relevant meetings. 
+Originality/value–Few studies have empirically analyzed the role of libraries in upholding a democraticand sustainable public sphere. This study contributes in filling that gap. 
+Keywords 
+Public libraries, Democracy, Public sphere, Citizenship information, Community meeting place,Social role of libraries 
+Paper type Research paper
+  </article>
   <article id="contributors-article-B6TTKS83" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

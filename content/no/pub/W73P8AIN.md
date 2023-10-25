@@ -1,5 +1,5 @@
 ---
-title: "W73P8AIN"
+title: "The Pedagogue and the Poetic - Kristeva and the Quest for Singularity in Education."
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-W73P8AIN" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2097679" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/W73P8AIN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-W73P8AIN" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-W73P8AIN" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-W73P8AIN" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.5281/ZENODO.7451812" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-W73P8AIN"></div>
 </article>
 <div id="csl-bib-meta-W73P8AIN" class="csl-bib-meta">
+  <article id="abstract-article-W73P8AIN" class="abstract-article">
+    <h1>Samandrag</h1>
+    In this article, I argue that Julia Kristeva&amp;rsquo;s concepts of semiotization and transubstantiation may contribute both to an understanding of the way in which the human subject might realize itself, and to the way in which educational institutions may serve as keepers of such a notion of humanity. To focus the human subject is urgent in a time of various neo-liberal pressures &amp;ndash; including the area of education. Mechanisms of effectivization and standardization in education are unable to bring forth the singularity of the human being. Inspired by the Russian Futurists and their word-creation, I follow up on the theoretical discussion with a classroom exercise for students, that potentially provides them with a space to begin the process of exploring (regaining) their semiotic selves and their potential to experience and share human singularity.
+  </article>
   <article id="contributors-article-W73P8AIN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

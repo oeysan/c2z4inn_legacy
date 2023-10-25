@@ -1,5 +1,5 @@
 ---
-title: "97FAYPQX"
+title: "Fra 'Kvinnefotball-VM' til 'Fotball-VM' - Utviklingen av fotball for kvinner fra 1919 til 2021"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,21 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-97FAYPQX" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1911734" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/97FAYPQX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-97FAYPQX" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-97FAYPQX" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-97FAYPQX" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-97FAYPQX"></div>
 </article>
 <div id="csl-bib-meta-97FAYPQX" class="csl-bib-meta">
+  <article id="abstract-article-97FAYPQX" class="abstract-article">
+    <h1>Abstract</h1>
+    Hvordan var det å være fotballspiller for kvinner på 1970-tallet, og hvordan opplever kvinner i norsk fotball situasjonen i dag? Jeg har selv levd gjennom denne perioden som spiller, trener, leder og dommer. I dette kapittelet vil jeg gi et innblikk i hva som kjennetegner det å være kvinne i fotballen – før og nå. For å belyse dette bygger jeg både på egne og andres erfaringer, og fortolker disse erfaringene i lys av milepæler i utviklingen av fotball for kvinner i Norge og tidligere forskning.  
+Fra 1970 var Målfrid Kuvås viktig i utviklingen av fotballtilbudet for kvinner. Hun kalles ofte for «Kvinnefotballens mor» i Norge og var bl.a. med på å vinne NM-gull i 1973, organisert utenfor Norges Fotballforbund (NFF). Kuvås var ansatt i Oslo fotballkrets og hadde ulike lederverv i BUL Oslo i 25 år. Hun var den første kvinne som ble innehaver av gullmerket på NFF-tinget i 2002, og tittelen «gullmerkemann» måtte endres til «gullmerkeinnehaver». Kuvås spilte også en sentral rolle i den tidlige profesjonaliseringen på kvinnesiden. Hun døde av lungekreft 12.mai 2011.  
+På grunn av innsatsen til pionerer som Kuvås, har Norge vært en av de ledende nasjonene i utviklingen av kvinnefotball på verdensbasis, særlig fra 1990-tallet og på begynnelsen av 2000-tallet (Skogvang, 2006; 2007; 2019). Dette er i ferd med å endre seg. De siste årene har flere andre land både i og utenfor Europa utkonkurrert Norge med sine landslag. På klubbnivå har ikke Toppserieklubbene klart å hevde seg i Women’s Club Championship (UWCL-UEFAs turnering for toppklubber i Europa). Klubber som Olympique Lyonnais, Paris Saint-Germain, Wolfsburg, FC Barcelona, som er i Europa-toppen på herresiden, er også blitt ledende i Europa på kvinnesiden. Likevel utvikler Norge noen av de beste kvinnelige fotballspillere. Norske Ada Hegerberg som spiller for Olympique Lyonnais og Caroline Graham Hansen som spiller for FC Barcelona, er eksempler på dette. I 2018 mottok Hegerberg, som første kvinne noensinne, Ballon d’Or, FIFAs høyeste utmerkelse for gode spillerprestasjoner. Opplevelsen av å være kvinne i fotballen, både i Norge og internasjonalt, er altså i endring, og fotball for kvinner i Norge har utviklet seg betraktelig de siste 50 årene.
+  </article>
   <article id="contributors-article-97FAYPQX" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

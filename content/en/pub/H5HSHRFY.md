@@ -1,5 +1,5 @@
 ---
-title: "H5HSHRFY"
+title: "Retrovasjon : innovasjon med utspring i tradisjon i matbransjen"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-H5HSHRFY" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1567695" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/H5HSHRFY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-H5HSHRFY" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-H5HSHRFY" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-H5HSHRFY"></div>
 </article>
 <div id="csl-bib-meta-H5HSHRFY" class="csl-bib-meta">
+  <article id="abstract-article-H5HSHRFY" class="abstract-article">
+    <h1>Abstract</h1>
+    Retrovasjon defineres som innovasjon med utspring i tradisjon. I den eksplorative studien i artikkelen er hensikten å videreutvikle det begrepsmessige innholdet i retrovasjon i matbransjen. Vi har kommet fram til seks egenskaper ved nye eller forbedrede kundetilbud som kjennetegner retrovasjon av lokalmat: 1) lokalmaten og opplevelsen av den, 2) merkevaren og visuell identitet, 3) historien og historiefortelling, 4) stedsidentitet, 5) produksjon og 6) distribusjon. Vi diskuterer hvordan retrovasjon kan være en bærekraftig differensieringsstrategi for lokalmatprodusenter. Lokalmatkategorien vokser 2,5 ganger raskere enn matmarkedet for øvrig. Mange av innovasjonene innen lokalmat skjer gjennom å orientere seg tilbake i tid og bruke historiske elementer for å skape nye tilbud. Artikkelen baseres på doktorgradsarbeidet til artikkelforfatter Gunhild Wedum.
+  </article>
   <article id="contributors-article-H5HSHRFY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

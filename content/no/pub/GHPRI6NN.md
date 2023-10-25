@@ -1,5 +1,5 @@
 ---
-title: "GHPRI6NN"
+title: "Why “majors” surge in the post-disruptive recording industry"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GHPRI6NN" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2096230" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/GHPRI6NN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-GHPRI6NN" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-GHPRI6NN" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-GHPRI6NN" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/EJM-11-2017-0841" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-GHPRI6NN"></div>
 </article>
 <div id="csl-bib-meta-GHPRI6NN" class="csl-bib-meta">
+  <article id="abstract-article-GHPRI6NN" class="abstract-article">
+    <h1>Samandrag</h1>
+    PurposeThe recording industry has gone through a far-reaching disruption, but the major record companies from the past continue to surge. The following question is addressed: Why has disruption in the recording industry not followed the patterns of generic examples from other sectors? The purpose of this paper is to describe and explain why the digital disruption does not lead to the disruption of all types of companies. Design/methodology/approachThis longitudinal study is based on a large set of secondary sources combined with in-depth interviews in Sweden’s recording industry. FindingsFindings indicate that when customers turn to streaming, the major record companies’ direct control of which music the consumer is exposed to increases. This main finding contrasts statements that streaming services would facilitate peer-to-peer sharing activities between music customers and make record companies redundant. The major record companies have remained at a prosperous position due to the control of valuable content and marketing assets, as well as asymmetric interdependency among parties in the supply chain. Research limitations/implicationsThe recording industry is different to many other sectors based on the latent value of catalogues, and the conclusions drawn from this paper should thereby not be taken for granted for other industries. Practical/implicationsFindings suggest that by “reading” the development of the industry and understanding what key resources create dependencies and revenue flows, managers would be better at tackling disruption. Originality/valueThe paper contributes to previous literature by describing how incumbent companies survive and even prosper post-disruption. It adds to the understanding of the digitalization of the recording industry and points at how dependencies help to understand disruption.
+  </article>
   <article id="contributors-article-GHPRI6NN" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -58,7 +63,7 @@ Studiested Kongsvinger
     <div class="sdg-container"><div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

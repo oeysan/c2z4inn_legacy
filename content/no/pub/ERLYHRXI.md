@@ -1,5 +1,5 @@
 ---
-title: "ERLYHRXI"
+title: "Cultures of anarchy: Images of Russia in the narrative of Norwegian mainstream news media during the Ukraine crisis 2014"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ERLYHRXI" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2043826" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ERLYHRXI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ERLYHRXI" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-ERLYHRXI" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-ERLYHRXI" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1177/1750635219864024" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-ERLYHRXI"></div>
 </article>
 <div id="csl-bib-meta-ERLYHRXI" class="csl-bib-meta">
+  <article id="abstract-article-ERLYHRXI" class="abstract-article">
+    <h1>Samandrag</h1>
+    This article examines the role of the news media through a case study of the narratives about the 2014 Ukraine crisis in three major Norwegian newspapers. The conflict also contained a ‘war’ between competing strategic narratives from the involved actors, with a potential for cross-national cascades into the Norwegian narrative. The authors’ focus is on the framing of Russia during the most dramatic month of March 2014. They applied the images related to Wendt’s cultures of anarchy (see Social Theory of International Politics, 1999) to classify the framing of Russia. The Norwegian media narrative was relatively consistent in framing Russia as choosing a path leading away from being a rival of Norway and the West, towards becoming their enemy. This was close to the narrative of the Norwegian government and in clear opposition to the Russian narrative. While this supports Hoskins and O’Loughlin’s ‘arrested war’ hypothesis (published in Information, Communication &amp; Society, 2015), it also raises questions about professional media norms.
+  </article>
   <article id="contributors-article-ERLYHRXI" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

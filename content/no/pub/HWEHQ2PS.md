@@ -1,5 +1,5 @@
 ---
-title: "HWEHQ2PS"
+title: "Perlingens poesi - med en oppmerksomhet for hverdagslige gjentagelser"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HWEHQ2PS" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1736791" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HWEHQ2PS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-HWEHQ2PS" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-HWEHQ2PS"></div>

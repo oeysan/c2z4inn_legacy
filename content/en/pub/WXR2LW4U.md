@@ -1,5 +1,5 @@
 ---
-title: "WXR2LW4U"
+title: "Struggling for home where home is not meant to be: A study of asylum seekers in reception centers in Norway"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WXR2LW4U" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2021022" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WXR2LW4U" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WXR2LW4U" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-WXR2LW4U" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-WXR2LW4U" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.berghahnjournals.com/downloadpdf/journals/focaal/2022/92/fcl920102.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-WXR2LW4U"></div>
 </article>
 <div id="csl-bib-meta-WXR2LW4U" class="csl-bib-meta">
+  <article id="abstract-article-WXR2LW4U" class="abstract-article">
+    <h1>Abstract</h1>
+    This article focuses on how asylum seekers in Norway struggle to create a sense of home within a physical and political environment that puts significant challenges to their efforts to do so. Based on a national survey and fieldwork, we demonstrate that poor housing and the political derived marginality challenge existential and material home-making processes, thus making it an ambiguous and strenuous experience. This view is rooted in a critical phenomenological understanding in which home is built through inter-relational and intersubjective relations that constitute self and senses of belonging and/or estrangement, as well as well-being and mental health. The agentive struggle for home is a crucial aspect of asylum seekers’ experiences of belonging, well-being and mental health, thus being at the heart of questions of social justice.
+  </article>
   <article id="contributors-article-WXR2LW4U" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

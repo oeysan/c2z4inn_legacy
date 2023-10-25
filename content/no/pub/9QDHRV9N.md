@@ -1,5 +1,5 @@
 ---
-title: "9QDHRV9N"
+title: "Arbete, familjeliv och återhämtning: En explorativ studie om ”tredje skiftet”"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9QDHRV9N" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1768710" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9QDHRV9N" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-9QDHRV9N" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-9QDHRV9N" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-9QDHRV9N"></div>
 </article>
 <div id="csl-bib-meta-9QDHRV9N" class="csl-bib-meta">
+  <article id="abstract-article-9QDHRV9N" class="abstract-article">
+    <h1>Samandrag</h1>
+    Med utgångspunkt i dygnsberättelser undersöker föreliggande studie förutsättningar för återhämtning. Baserat på gruppintervjuer och en dagboksstudie med anställda på ett svenskt försäkringsbolag fokuserar vi relationen och spänningen mellan första (arbete), andra (icke betalt 
+hemarbete) och tredje (planering/organisering av andra skiftet) skiftet. Begränsade möjligheter för intern återhämtning under arbetet kompenserades 
+av de flesta deltagarna med extern återhämtning under arbetsfri tid. Att ha ensamt ansvar för tredje skiftet reducerade emellertid möjligheterna för återhämtning under dagen och veckan. Materialet visade att kvinnor i åldern 30-45 - i större utsträckning än andra - hade huvudansvaret ett komplext tredje skift.
+  </article>
   <article id="contributors-article-9QDHRV9N" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

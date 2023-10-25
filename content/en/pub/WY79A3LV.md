@@ -1,5 +1,5 @@
 ---
-title: "WY79A3LV"
+title: "Refrigeration or anti-theft? Food-caching behavior of wolverines (Gulo gulo) in Scandinavia"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WY79A3LV" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1806524" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WY79A3LV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WY79A3LV" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-WY79A3LV" class="csl-bib-button">Contributors</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s00265-020-2823-4.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WY79A3LV"></div>
 </article>
 <div id="csl-bib-meta-WY79A3LV" class="csl-bib-meta">
+  <article id="abstract-article-WY79A3LV" class="abstract-article">
+    <h1>Abstract</h1>
+    Food-caching animals can gain nutritional advantages by buffering seasonality in food availability, especially during times of scarcity. The wolverine ( Gulo gulo ) is a facultative predator that occupies environments of low productivity. As an adaptation to fluctuating food availability, wolverines cache perishable food in snow, boulders, and bogs for short- and long-term storage. We studied caching behavior of 38 GPS-collared wolverines in four study areas in Scandinavia. By investigating clusters of GPS locations, we identified a total of 303 food caches from 17 male and 21 female wolverines. Wolverines cached food all year around, from both scavenging and predation events, and spaced their caches widely within their home range. Wolverines cached food items on average 1.1 km from the food source and made between 1 and 6 caches per source. Wolverines cached closer to the source when scavenging carcasses killed by other large carnivores; this might be a strategy to optimize food gain when under pressure of interspecific competition. When caching, wolverines selected for steep and rugged terrain in unproductive habitat types or in forest, indicating a preference for less-exposed sites that can provide cold storage and/or protection against pilferage. The observed year-round investment in caching by wolverines underlines the importance of food predictability for survival and reproductive success in this species. Increasing temperatures as a consequence of climate change may provide new challenges for wolverines by negatively affecting the preservation of cached food and by increasing competition from pilferers that benefit from a warmer climate. It is however still not fully understood which consequences this may have for the demography and behavior of the wolverine. Significance statementFood caching is a behavioral strategy used by a wide range of animals to store food for future use. Choosing appropriate caching sites appears important for slowing down decomposition rates and minimizes competition. In this study, we demonstrate that the wolverine, an opportunistic predator and scavenger, utilizes available carrion to create caches all year around. By following wolverines with GPS collars, we registered that they carried food far away to cache it in secluded and cold places, which are often located on steep slopes or in forest. However, when scavenging other carnivores’ prey, they move food in shorter distances, possibly to be able to quickly return for more. The observed efficiency in wolverine caching behavior is likely vital for their survival and reproductive success in the harsh and highly seasonal environment in which they live.
+  </article>
   <article id="contributors-article-WY79A3LV" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

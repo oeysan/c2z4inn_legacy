@@ -1,5 +1,5 @@
 ---
-title: "WL73LIDX"
+title: "Landscape genetics of northern crested newt Triturus cristatus populations in a contrasting natural and human-impacted boreal forest"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WL73LIDX" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1821096" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WL73LIDX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WL73LIDX" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-WL73LIDX" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-WL73LIDX" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s10592-020-01266-6.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-WL73LIDX"></div>
 </article>
 <div id="csl-bib-meta-WL73LIDX" class="csl-bib-meta">
+  <article id="abstract-article-WL73LIDX" class="abstract-article">
+    <h1>Abstract</h1>
+    Among vertebrates, amphibians currently have the highest proportion of threatened species worldwide, mainly through loss of habitat, leading to increased population isolation. Smaller amphibian populations may lose more genetic diversity, and become more dependent on immigration for survival. Investigations of landscape factors and patterns mediating migration and population genetic differentiation are fundamental for knowledge-based conservation. The pond-breeding northern crested newt ( Triturus cristatus ) populations are decreasing throughout Europe, and are a conservation concern. Using microsatellites, we studied the genetic structure of the northern crested newt in a boreal forest ecosystem containing two contrasting landscapes, one subject to recent change and habitat loss by clear-cutting and roadbuilding, and one with little anthropogenic disturbance. Newts from 12 breeding ponds were analyzed for 13 microsatellites and 7 landscape and spatial variables. With a Maximum-likelihood population-effects model we investigated important landscape factors potentially explaining genetic patterns. Results indicate that intervening landscape factors between breeding ponds, explain the genetic differentiation in addition to an isolation-by-distance effect. Geographic distance, gravel roads, and south/south-west facing slopes reduced landscape permeability and increased genetic differentiation for these newts. The effect was opposite for streams, presumably being more favorable for newt dispersal. Populations within or bordering on old growth forest had a higher allelic richness than populations in managed forest outside these areas. Old growth forest areas may be important source habitats in the conservation of northern crested newt populations.
+  </article>
   <article id="contributors-article-WL73LIDX" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

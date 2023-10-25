@@ -1,5 +1,5 @@
 ---
-title: "VPS4SHWK"
+title: "Communication infrastructure and community mobilization: the case of Gram Vaani's Covid-19 response network for the marginalized in India"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VPS4SHWK" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1992769" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VPS4SHWK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-VPS4SHWK" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-VPS4SHWK" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-VPS4SHWK" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-VPS4SHWK"></div>
 </article>
 <div id="csl-bib-meta-VPS4SHWK" class="csl-bib-meta">
+  <article id="abstract-article-VPS4SHWK" class="abstract-article">
+    <h1>Abstract</h1>
+    In this article, we employed communication infrastructure theory (CIT) to analyze Gram Vaani’s 
+(“Voice of the Village”) Covid-19 Response Network in India. We reviewed key CIT components (i.e., storytelling network and communication action context) and their applications in civic engagement, health disparities, and crisis mitigation. Our results showed that Gram Vaani’s Covid-19 Response Network merged all three types of CIT application into an integrated whole and extended it to marginalized rural and migrant/resident worker communities in India. In 15 months, 870,000 individuals used the organization’s Mobile Vaani platforms, made 2.5 million calls, recorded 24,880 voice reports, and shared 2,327 impact stories. Taken together, they amplified the voices of the most vulnerable, provided direct assistance, and held government agencies accountable in three major areas: health promotion and healthcare access, livelihood support and working conditions, and safety nets and essential services. We identified (1) storytelling network actors at all levels (micro, meso, interstitial, and macro), (2) enabling and constraining communication action contexts of pandemic community mobilization, and (3) specific impact pathways for different storytelling network actors to overcome barriers and leverage Mobile Vaani as an enabling and empowering communication action context. This first CIT application and articulation of pandemic community mobilization in the Global South holds important implications for better serving the needs of the marginalized and information have-nots.
+  </article>
   <article id="contributors-article-VPS4SHWK" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">
@@ -58,7 +64,7 @@ Campus Rena
 </div> <div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">

@@ -1,5 +1,5 @@
 ---
-title: "P5VE35HX"
+title: "Evaluation of Medetomidine-Ketamine for Immobilization of Feral Horses in Romania"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-P5VE35HX" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1956125" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/P5VE35HX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-P5VE35HX" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-P5VE35HX" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-P5VE35HX" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fvets.2021.655217/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-P5VE35HX"></div>
 </article>
 <div id="csl-bib-meta-P5VE35HX" class="csl-bib-meta">
+  <article id="abstract-article-P5VE35HX" class="abstract-article">
+    <h1>Samandrag</h1>
+    Feral horses are immobilized for a variety of reasons including population control via contraceptives. Although opioid combinations have been successfully used for immobilization of feral horses, there is a need for combinations using drugs that are more readily available and present less of a human health hazard. We evaluated the chemical immobilization with physiological measurements and blood gas analyses of 91 free-ranging feral horses ( Equus ferus caballus ) remotely immobilized with a combination of 30 mg medetomidine and 775 mg ketamine in a single disposable 6 ml dart. During immobilization, heart rate, respiratory rate, rectal temperature, capillary refill time and peripheral oxygen hemoglobin saturation (SpO 2 ) were evaluated. In eight horses, arterial blood samples were analyzed to evaluate the blood gases, acid-base status and hematologic variables. Targeted horses presented a wide range of age, size and body condition. Eighty-one horses had an uneventful mean induction of 7.2 min. Eighty-nine horses were immobilized in lateral recumbency with good muscle relaxation and a median recumbency time of 67 min. Ten horses required supplemental ketamine intravenously (x̄ = 434 mg) due to incomplete immobilization. In 58 horses the effects of medetomidine were antagonized with atipamezole intravenously. Increased respiratory rate (;20 breaths/min), increased heart rate (;45 beats/min) and decreased SpO 2 90% were noted in more than half of the individuals, while increased rectal temperature (;39.0°C) was recorded in six animals. Blood parameters showed hypoxemia (90 mmHg, n = 8), hypercapnia (;45 mmHg, n = 5), high glucose levels (;134 mmol/L, n = 3), increased blood lactate (;1.5 mmol/L), total carbon dioxide, bicarbonate and base excess which further increased in the second sample, whereas SpO 2 and calcium values decreased. Recoveries were smooth, with one ( n = 86) or more ( n = 5) attempts of standing. Eighty-nine recoveries were uneventful, besides one male that showed signs of monoparesis of the left front leg and one mare with signs consistent with exertional myopathy. In conclusion, medetomidine-ketamine provided a reliable immobilization in feral horses over a wide range of body mass and age. However, based on the observed hypoxemia during immobilization, oxygen supplementation is strongly recommended for this protocol.
+  </article>
   <article id="contributors-article-P5VE35HX" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

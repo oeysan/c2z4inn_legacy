@@ -1,5 +1,5 @@
 ---
-title: "9BJT26MQ"
+title: "Increasing inclusion through differentiated instruction in a technology-rich primary school classroom in Norway"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9BJT26MQ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2088358" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9BJT26MQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9BJT26MQ" class="csl-bib-button">Contributors</a>
     <a href="https://doi.org/10.1080/03004279.2022.2143721" class="csl-bib-button">Unpaywall</a>
   </div>

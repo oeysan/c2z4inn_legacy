@@ -1,5 +1,5 @@
 ---
-title: "FS3AP5HT"
+title: "National context is a key determinant of energy security concerns across Europe"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FS3AP5HT" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1618359" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/FS3AP5HT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FS3AP5HT" class="csl-bib-button">Medverkande</a>
     <a href="http://orca.cf.ac.uk/114393/1/Demski.%20National%20context.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

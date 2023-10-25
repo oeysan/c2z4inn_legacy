@@ -1,5 +1,5 @@
 ---
-title: "LJHGZJNE"
+title: "Quantifying capture stress in free ranging European roe deer (Capreolus capreolus)"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LJHGZJNE" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1484600" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LJHGZJNE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-LJHGZJNE" class="csl-bib-button">Contributors</a>
     <a href="https://bmcvetres.biomedcentral.com/track/pdf/10.1186/s12917-017-1045-0" class="csl-bib-button">Unpaywall</a>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: "WRTTQMRV"
+title: "Long-Term Outcomes for Young People With Substance Use Problems in Outpatient Treatment: Gender-Specific Patterns"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WRTTQMRV" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2025031" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WRTTQMRV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WRTTQMRV" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-WRTTQMRV" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-WRTTQMRV" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fpsyt.2022.888197/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-WRTTQMRV"></div>
 </article>
 <div id="csl-bib-meta-WRTTQMRV" class="csl-bib-meta">
+  <article id="abstract-article-WRTTQMRV" class="abstract-article">
+    <h1>Samandrag</h1>
+    This study presents the results of a longitudinal research project focusing on long-term outcomes among young people after initiation of outpatient treatment for substance use problems (SUP) in Sweden. Young people are defined with the age group 13–25 years. A clinical sample of 451 young people (29% girls, median age 17 years) completed a structured interview at baseline and was followed using official records one, two, and 3 years after initiation of treatment. Gender-specific patterns at intake were described and bivariate associations and logistic regressions were calculated to analyse the links between risk factors at treatment start and indications of substance use problems 3 years later. Significantly more boys than girls displayed indications of continued SUP at 3-year follow-up. More specifically, 49% of the boys vs. 35% of the girls were identified through records as still having problems with substance use. Predictive risk factors also displayed gender-specific patterns. Primary drug use frequency and age at intake predicted indications of SUP among boys but not among girls. Placement in foster care/residential homes, depression, and early drug debut had significant predictive value regarding indications of SUP among females but not among males. Girls also displayed a greater psychosocial burden at treatment start, but a more favorable treatment outcome at follow-up. Youths with a heavy risk load at treatment start (i.e., over six risk factors) did not display a greater risk of SUP at 3-year follow-up, although our results suggest that this subgroup has indications of continued problems with mental health. Consequently, future studies should further explore gender-specific treatment pathways for young people with substance use problems. Since women and girls seem to have different risk factors, co-occurring psychiatric problems and more experiences of trauma compared to men, they might need multidimensional and more comprehensive treatment interventions that run over a longer period of time.
+  </article>
   <article id="contributors-article-WRTTQMRV" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "YSZRWXTB"
+title: "Regional innovation systems and global knowledge flows"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YSZRWXTB" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1602469" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/YSZRWXTB" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-YSZRWXTB" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-YSZRWXTB" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-YSZRWXTB" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://wp.circle.lu.se/upload/CIRCLE/workingpapers/201707_martin_et_al.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-YSZRWXTB"></div>
 </article>
 <div id="csl-bib-meta-YSZRWXTB" class="csl-bib-meta">
+  <article id="abstract-article-YSZRWXTB" class="abstract-article">
+    <h1>Samandrag</h1>
+    The literature on regional innovation systems emphasizes the role of the region as locus for interactive learning and knowledge exchange, stressing the importance of (geographical) proximity for innovation. Even though the importance of extra-regional knowledge is widely acknowledged, there has been only little emphasis on the particular role and the nature of global knowledge flows. The aim of this chapter is to explore the differentiated nature of global knowledge flows in regional innovation systems. We provide an overview of the different ways firms can gain access to global knowledge sources. Identified knowledge sourcing channels include international R&amp;D collaborations, foreign direct investments, personally embedded relationships, international mobility of skilled labour, virtual communities and online platforms, and the participation in temporary clusters such as fairs, exhibitions, and conferences. Depending on regional innovation system preconditions, firms use and combine different knowledge sourcing channels to access global knowledge. Firms in organisationally thick and diversified regional innovation systems have a geographical advantage in accessing knowledge globally, but even firms in peripheral areas can exchange knowledge worldwide, due to improved means of transport and communication at distance. Furthermore, not only multinational companies that are dominated by analytical or synthetic knowledge bases, but even small and medium sized enterprises in symbolic industries are often deeply involved in global knowledge sourcing activities. We illustrate our arguments with interview data collected among New Media firms in southern Sweden and in the Oslo Region in Norway.
+  </article>
   <article id="contributors-article-YSZRWXTB" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -59,7 +64,7 @@ Studiested Lillehammer
 </div> <div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>64</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">

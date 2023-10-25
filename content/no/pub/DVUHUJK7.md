@@ -1,5 +1,5 @@
 ---
-title: "DVUHUJK7"
+title: "Increased biological relevance of transcriptome analyses in human skeletal muscle using a model-specific pipeline"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DVUHUJK7" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1855636" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DVUHUJK7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-DVUHUJK7" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-DVUHUJK7" class="csl-bib-button">Medverkande</a>
     <a href="https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-020-03866-y" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-DVUHUJK7"></div>
 </article>
 <div id="csl-bib-meta-DVUHUJK7" class="csl-bib-meta">
+  <article id="abstract-article-DVUHUJK7" class="abstract-article">
+    <h1>Samandrag</h1>
+    Background Human skeletal muscle responds to weight-bearing exercise with significant inter-individual differences. Investigation of transcriptome responses could improve our understanding of this variation. However, this requires bioinformatic pipelines to be established and evaluated in study-specific contexts. Skeletal muscle subjected to mechanical stress, such as through resistance training (RT), accumulates RNA due to increased ribosomal biogenesis. When a fixed amount of total-RNA is used for RNA-seq library preparations, mRNA counts are thus assessed in different amounts of tissue, potentially invalidating subsequent conclusions. The purpose of this study was to establish a bioinformatic pipeline specific for analysis of RNA-seq data from skeletal muscles, to explore the effects of different normalization strategies and to identify genes responding to RT in a volume-dependent manner (moderate vs. low volume). To this end, we analyzed RNA-seq data derived from a twelve-week RT intervention, wherein 25 participants performed both low- and moderate-volume leg RT, allocated to the two legs in a randomized manner. Bilateral muscle biopsies were sampled from m. vastus lateralis before and after the intervention, as well as before and after the fifth training session (Week 2). ResultBioinformatic tools were selected based on read quality, observed gene counts, methodological variation between paired observations, and correlations between mRNA abundance and protein expression of myosin heavy chain family proteins. Different normalization strategies were compared to account for global changes in RNA to tissue ratio. After accounting for the amounts of muscle tissue used in library preparation, global mRNA expression increased by 43–53%. At Week 2, this was accompanied by dose-dependent increases for 21 genes in rested-state muscle, most of which were related to the extracellular matrix. In contrast, at Week 12, no readily explainable dose-dependencies were observed. Instead, traditional normalization and non-normalized models resulted in counterintuitive reverse dose-dependency for many genes. Overall, training led to robust transcriptome changes, with the number of differentially expressed genes ranging from 603 to 5110, varying with time point and normalization strategy. ConclusionOptimized selection of bioinformatic tools increases the biological relevance of transcriptome analyses from resistance-trained skeletal muscle. Moreover, normalization procedures need to account for global changes in rRNA and mRNA abundance.
+  </article>
   <article id="contributors-article-DVUHUJK7" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

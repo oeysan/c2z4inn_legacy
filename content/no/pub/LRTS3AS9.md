@@ -1,5 +1,5 @@
 ---
-title: "LRTS3AS9"
+title: "After Hospital: Should Older Care-Needing Patients Be Transferred to Their Homes or to an Intermediate Care Institution?"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LRTS3AS9" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2007668" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LRTS3AS9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-LRTS3AS9" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-LRTS3AS9" class="csl-bib-button">Medverkande</a>
     <a href="https://www.mdpi.com/2227-9032/10/3/475/pdf?version=1646357842" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LRTS3AS9"></div>
 </article>
 <div id="csl-bib-meta-LRTS3AS9" class="csl-bib-meta">
+  <article id="abstract-article-LRTS3AS9" class="abstract-article">
+    <h1>Samandrag</h1>
+    Background: In most European countries, communities need to provide health and social care services to an increasing number of severely ill patients discharged from hospitals. We investigated whether nurses in hospitals and in the communities’ health and social care services experienced that the administration in the municipalities allocated older patients the right type of services after hospital discharge. Methods: We used data from Norway, with a qualitative pilot study and quantitative analysis (structural equation modeling) of surveys involving 2431 nurses on inpatient wards in acute hospitals and 4312 nurses working in nursing homes or home nursing. Results: Dissatisfaction was widespread with the use of patients’ homes the first days after hospital discharge. Among nurses working in hospitals, 38% were commonly or very commonly disagreeing with the use of the patient’s home after hospital discharge, 25% among home nurses, and 18% among nurses in nursing homes. Home nurses were more prone to oppose the use of patients’ homes if they also experienced that their service had inadequate staffing or inadequate medical equipment. Conclusions: This research indicates conflicting priorities between the bureaucracy and nurses involved in actual work with older patients. From the nurses’ perspective, the municipalities’ administration was offering too few older patients short-term-stay in an intermediate care institution as part of the clinical pathway from hospital to home. However, providing more recourses to home nursing would improve their ability to provide sufficient care to older patients discharged from hospital.
+  </article>
   <article id="contributors-article-LRTS3AS9" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

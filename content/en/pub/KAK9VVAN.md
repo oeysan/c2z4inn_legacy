@@ -1,5 +1,5 @@
 ---
-title: "KAK9VVAN"
+title: "Psychometric evaluation of Nurse Professional Competence Scale—Short‐form Chinese language version among nursing graduate students"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KAK9VVAN" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1934367" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KAK9VVAN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KAK9VVAN" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-KAK9VVAN" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-KAK9VVAN" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://hig.diva-portal.org/smash/get/diva2:1590681/FULLTEXT01" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-KAK9VVAN"></div>
 </article>
 <div id="csl-bib-meta-KAK9VVAN" class="csl-bib-meta">
+  <article id="abstract-article-KAK9VVAN" class="abstract-article">
+    <h1>Abstract</h1>
+    AimThe aim of the study was to determine the psychometric properties, construct validity and internal consistency of the Chinese language version of the Nurse Professional Competence scale short form. DesignA methodological design was used. MethodsQuestionnaire data from 260 nursing students nearing graduation from 2 universities in China were analysed using confirmatory factor analysis, known‐group validity and internal consistency. ResultsThe confirmatory factor analysis revealed that the model was acceptable, and the analyses for known‐group validity revealed statistically significant differences in all factors and the total scale of the Nurse Professional Competence scale short form. Internal consistency revealed that Cronbach's alpha values exceeded 0.70 for all factors and the total scale. The Chinese language version of the Nurse Professional Competence scale short form has acceptable construct validity and good internal consistency.
+  </article>
   <article id="contributors-article-KAK9VVAN" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

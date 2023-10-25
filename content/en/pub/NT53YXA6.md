@@ -1,5 +1,5 @@
 ---
-title: "NT53YXA6"
+title: "Dynamic pricing assuming demand shifting: the alpine skiing industry"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NT53YXA6" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1854037" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/NT53YXA6" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-NT53YXA6" class="csl-bib-button">Contributors</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/10548408.2020.1835787?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>

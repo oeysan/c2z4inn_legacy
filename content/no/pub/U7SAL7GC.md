@@ -1,5 +1,5 @@
 ---
-title: "U7SAL7GC"
+title: "Beyond ‘periphery’: a detailed and nuanced taxonomy of the Norwegian regions"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-U7SAL7GC" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2070345" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/U7SAL7GC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-U7SAL7GC" class="csl-bib-button">Medverkande</a>
     <a href="https://doi.org/10.1080/04353684.2022.2141654" class="csl-bib-button">Unpaywall</a>
   </div>

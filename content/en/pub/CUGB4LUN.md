@@ -1,5 +1,5 @@
 ---
-title: "CUGB4LUN"
+title: "Samfunnets konstitusjon: Searle versus Luhmann"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CUGB4LUN" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1831423" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/CUGB4LUN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-CUGB4LUN" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-CUGB4LUN" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-CUGB4LUN" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-CUGB4LUN"></div>
 </article>
 <div id="csl-bib-meta-CUGB4LUN" class="csl-bib-meta">
+  <article id="abstract-article-CUGB4LUN" class="abstract-article">
+    <h1>Abstract</h1>
+    Sosiologiens klassikere har skrevet bindsterke verk om hvordan samfunn integreres og opprettholdes eller er konfliktfylte og ustabile, men få har vært opptatt av hvordan et samfunn konstitueres. Denne boken diskuterer konstitusjonsproblematikken med utgangspunkt i to sentrale bidragsytere til sosialteorien de siste årene, den amerikanske filosofen John Searle og den tyske sosiologen Niklas Luhmann. Heller enn å fokusere på motsetninger mellom de to drøfter boken mulige sammenføyninger i synet på hvordan et samfunn konstitueres. Boken drøfter teorisammenligning som metode, og stiller spørsmålet: Hva har Searles illokusjonære språkhandling å gjøre med Luhmanns begrep om det selvreferensielle samfunn? Finnes det en meningsfull forbindelse mellom disse ytterpunktene? For å kunne gi et adekvat svar på dette spørsmålet analyserer, sammenligner og sammenføyer boken de grunnleggende forklaringsfigurer i teoriene til Searle og Luhmann. Boken drøfter til slutt konstitusjonsproblemet med utgangspunkt i sosial ontologi og selvreferanseproblematikken.
+  </article>
   <article id="contributors-article-CUGB4LUN" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

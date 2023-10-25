@@ -1,5 +1,5 @@
 ---
-title: "9QN2GK9N"
+title: "Tro, musikalske røtter og anerkjennelse i en krysskulturell kontekst"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9QN2GK9N" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1708188" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9QN2GK9N" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-9QN2GK9N" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-9QN2GK9N" class="csl-bib-button">Medverkande</a>
     <a href="https://journals.oslomet.no/index.php/information/article/download/3439/3238" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-9QN2GK9N"></div>
 </article>
 <div id="csl-bib-meta-9QN2GK9N" class="csl-bib-meta">
+  <article id="abstract-article-9QN2GK9N" class="abstract-article">
+    <h1>Samandrag</h1>
+    Artikkelen dreier seg om betydningen av å anerkjenne egne og andres musikalske røtter. Utgangspunkt for tematikken er hvordan opplevelser av ubehag kan oppstå i situasjoner der religiøst musikalsk innhold er brakt spontant inn i undervisningen av musikklærerstudenter. Artikkelen bygger på erfaringer fra egen lærerutdanningspraksis og kvalitative data samlet inn i forbindelse med mitt doktorgradsprosjekt (Strøm, 2016). Intervjuer med ungdommer som vokser opp i en krysskulturell kontekst danner artikkelens kjerne. Disse dataene brukes for å belyse forholdet mellom religiøs tro og musikalsk identitet samt ressurser og utfordringer som noen av disse ungdommene kan kjenne på i utøvingen av sine musikalske aktørskap. Artikkelen anvender Stones’ (2005) strukturasjonsteori, kalt «strong structuration», som utgangspunkt for å si noe om forholdet mellom aktør og struktur. Jeg ønsker med denne artikkelen å argumentere for krysskulturbegrepets relevans i en musikkundervisningssammenheng samt bidra til økt forståelse for og anerkjennelse av elevers religiøse musikalske røtter og identitet i musikkfaget i grunnskolen.
+  </article>
   <article id="contributors-article-9QN2GK9N" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

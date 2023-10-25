@@ -1,5 +1,5 @@
 ---
-title: "AHJJ5KQW"
+title: "What do I want to be? Predictors of communal occupational aspirations in early to middle childhood"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-AHJJ5KQW" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2062288" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/AHJJ5KQW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-AHJJ5KQW" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-AHJJ5KQW" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-AHJJ5KQW" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://munin.uit.no/bitstream/10037/27518/2/article.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-AHJJ5KQW"></div>
 </article>
 <div id="csl-bib-meta-AHJJ5KQW" class="csl-bib-meta">
+  <article id="abstract-article-AHJJ5KQW" class="abstract-article">
+    <h1>Samandrag</h1>
+    Research investigating occupational aspirations in childhood is scarce. In addition, most research on occupational aspirations has focused on increasing the number of women in agentic jobs. In the present work, we investigate factors associated with communal occupational aspirations in two studies with young children (Study 1: 159 children [84 boys, 75 girls], M age  = 5.51 years, SD = 0.37; Study 2: 96 children [48 boys, 48 girls]; M age  = 9.44 years, SD = 1.91). We found gender differences in communal aspirations only among the older children. In both samples, as well as when combining the two samples, the stronger the communal occupational gender stereotypes children reported, the less boys (and the more girls) aspired toward communal occupations. In the combined sample, communal self-perceptions mediated the relationship between child gender and occupational aspirations. Finally, the perceived status of the occupations was positively associated with communal aspirations among older children.
+  </article>
   <article id="contributors-article-AHJJ5KQW" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

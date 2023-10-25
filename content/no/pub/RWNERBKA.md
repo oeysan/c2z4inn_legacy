@@ -1,5 +1,5 @@
 ---
-title: "RWNERBKA"
+title: "Does organizational vision really matter? An empirical examination of factors related to organizational vision integration among hospital employees"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RWNERBKA" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1911208" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/RWNERBKA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-RWNERBKA" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-RWNERBKA" class="csl-bib-button">Medverkande</a>
     <a href="https://bmchealthservres.biomedcentral.com/track/pdf/10.1186/s12913-021-06503-3" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-RWNERBKA"></div>
 </article>
 <div id="csl-bib-meta-RWNERBKA" class="csl-bib-meta">
+  <article id="abstract-article-RWNERBKA" class="abstract-article">
+    <h1>Samandrag</h1>
+    BackgroundThere seems to be a consensus that a vision for an organization is a valuable thing for organizations to have. However, research on organizational vision has predominantly been studied from a leadership perspective. In contrast to previous research, organizational vision in this paper takes an employee perspective. Specifically, the purpose is to examine factors associated with the integration of organizational vision among employees in hospital organizations. Consequently, it focuses on a relatively neglected domain within health services research. Methods A conceptual model, centred on the concept of organizational vision integration, was developed and tested on a sample ( N  = 1008) consisting of hospital employees. Partial least-squares structural equation modelling (PLS-SEM) was used to test the hypotheses, using SmartPLS 3 software. Furthermore, a bootstrapping test was used to inspect potential mediating effects. Specifically, the test assessed whether the proposed direct and indirect effects were statistically significant, and at the same time revealed the nature of the mediation effect. Results The results from the empirical study reveal three key findings: i) organizational vision integration among employees is directly and positively related to creative performance in their respective work role ( β = 0.16). Organizational vision integration and employees’ psychological capital explains almost 40% ( R2 = 0.36) in employees’ creative performance, ii) psychological capital and employees’ perception of organizational attractiveness are directly and positively related to employees’ organizational vision integration ( β = 0.19 and β = 0.40, respectively) and explains about 30% ( R2 = 0.29) of employees’ organizational vision integration, iii) employees’ organizational vision integration mediates the relationship between employees’ psychological capital, perception of organizational attractiveness and employees’ creative performance. ConclusionsTaking an employee perspective, this study contributes to revealing whether and how organizational vision matters and its impact on hospital employees’ work performance. To achieve organizational vision integration among hospital employees successfully, this study shows that it is important for hospital leaders to be aware of the pattern of impact of both personal as well as environmental-related factors.
+  </article>
   <article id="contributors-article-RWNERBKA" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

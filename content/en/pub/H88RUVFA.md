@@ -1,5 +1,5 @@
 ---
-title: "H88RUVFA"
+title: "Mestringsforventning, trivsel og frafall"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-H88RUVFA" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1824610" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/H88RUVFA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-H88RUVFA" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-H88RUVFA"></div>

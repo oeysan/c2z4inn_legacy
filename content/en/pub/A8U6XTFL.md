@@ -1,5 +1,5 @@
 ---
-title: "A8U6XTFL"
+title: "Job satisfaction as a form of organizational commitment at the military strategic level: A grounded theory study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-A8U6XTFL" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1473045" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/A8U6XTFL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-A8U6XTFL" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-A8U6XTFL" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-A8U6XTFL" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/IJOA-10-2015-0919" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,26 @@ type: pub
   <div id="csl-bib-meta-container-A8U6XTFL"></div>
 </article>
 <div id="csl-bib-meta-A8U6XTFL" class="csl-bib-meta">
+  <article id="abstract-article-A8U6XTFL" class="abstract-article">
+    <h1>Abstract</h1>
+    Purpose 
+It has been claimed that job satisfaction is the most important and frequently studied attitude in organizational behaviour research. However, as most studies relate to lower hierarchical levels, the purpose of this paper is to gain a deeper understanding of job satisfaction and organizational commitment among high-level managers – military leaders in this case. 
+ 
+Design/methodology/approach 
+A grounded theory approach was used. The empirical material is based on 12 interviews, two of which were with women. The informants had wide experience of a number of leadership positions as well as participation in international operations. Their ranks ranged from Colonel to Brigadier General, and they represented army and naval units, the Armed Forces Headquarters and Swedish Defence University. 
+ 
+Findings 
+The qualitative analysis resulted in a theoretical model that describes the job satisfaction of military leaders at the strategic level, which concerns establishing and balancing organizational commitment. This means that top level managers develop, manage and recreate a “sense of oneness” between themselves and the organization – a strong identification that is established, challenged, changed and renegotiated in a continuous process. Establishing and balancing organizational commitment is built on two overarching categories: keeping up the organizational image and responding to organizational greediness. 
+ 
+Research limitations/implications 
+Research limitations are as follows: small sample, lack of representativeness and lack of elaboration on possible gender-related aspects. 
+ 
+Practical implications 
+The suggested model may be valuable in educational settings when evaluating the job satisfaction and organizational commitment of high-level officers. The model may have practical implications when it comes to selection, retention and leader development of high-level military officers. 
+ 
+Originality/value 
+A new integrative, theoretical model of job satisfaction and organizational commitment of high-level officers is developed and discussed.
+  </article>
   <article id="contributors-article-A8U6XTFL" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

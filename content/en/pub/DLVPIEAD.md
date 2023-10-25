@@ -1,5 +1,5 @@
 ---
-title: "DLVPIEAD"
+title: "Unpacking Healthcare Professionals’ Work to Achieve Coherence in the Healthcare Journey of Elderly Patients: An Interview Study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,23 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-DLVPIEAD" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1897082" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/DLVPIEAD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-DLVPIEAD" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-DLVPIEAD" class="csl-bib-button">Contributors</a>
     <a href="https://www.dovepress.com/getfile.php?fileID=67340" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-DLVPIEAD"></div>
 </article>
 <div id="csl-bib-meta-DLVPIEAD" class="csl-bib-meta">
+  <article id="abstract-article-DLVPIEAD" class="abstract-article">
+    <h1>Abstract</h1>
+    Aim: Today, seamless, person-centered healthcare is emphasized when dealing with elderly patients with comprehensive needs. Studies have uncovered a complex healthcare terrain. Despite a great deal of effort on the part of policy makers and healthcare providers, the work healthcare professionals undertake to develop seamless healthcare is still unclear. Therefore, the aim of this study was to uncover the work that healthcare professionals undertake to achieve coherent and comprehensive healthcare for elderly patients with multiple health problems during their journey through the complex healthcare terrain. 
+Methods: This study has an explorative design with individual interviews. Twenty-five healthcare professionals from primary and specialist care agreed to participate. A thematic analysis method was employed. 
+Results: The analyses revealed three central themes in the healthcare professionals’ work to build coherence in the patients’ care trajectory: Working to manage a patient’s illness trajectory during the course of the patient’s life, working to achieve a comprehensive overall picture, and considering multiple options in a “patchwork” terrain. 
+Conclusion: Healthcare professionals have a common understanding that hospital stays are a short part of the elderly person’s journey in the healthcare system. In the comprehensive work to obtain the overall picture of the illness trajectory within the patient’s life story, healthcare professionals emphasized the importance of working in an interdisciplinary manner. Interprofessional consulting and collaboration should be strengthened to build coherence in the older patient’s complex care trajectory. 
+Keywords: older, care trajectory, complex healthcare, health personnel, interdisciplinary
+  </article>
   <article id="contributors-article-DLVPIEAD" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

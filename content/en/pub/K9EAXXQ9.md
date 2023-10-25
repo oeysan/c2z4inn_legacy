@@ -1,5 +1,5 @@
 ---
-title: "K9EAXXQ9"
+title: "Co-designing tourism for sustainable development"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-K9EAXXQ9" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1843781" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/K9EAXXQ9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://findresearcher.sdu.dk/ws/files/180550301/Liburd_el_al_2020_Codesigning_STD_final.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-K9EAXXQ9"></div>

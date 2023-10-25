@@ -1,5 +1,5 @@
 ---
-title: "RXBNIFQV"
+title: "Arbeidsrettet rehabilitering; Tilbake i arbeid etter arbeidsplassintervensjon og oppfølging ved Hernes Institutt?"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,21 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RXBNIFQV" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1946801" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/RXBNIFQV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-RXBNIFQV" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-RXBNIFQV" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-RXBNIFQV"></div>
 </article>
 <div id="csl-bib-meta-RXBNIFQV" class="csl-bib-meta">
+  <article id="abstract-article-RXBNIFQV" class="abstract-article">
+    <h1>Samandrag</h1>
+    Bacground: Occupational rehabilitation seeks to facilitate the return of people who have been in long-term sick leave back into work, and workplace visits (WPV) has been proposed as an instrument within this process. The purpose of this prospective longitudinal study was to increase knowledge about participants who attend WPV by studying a specific case at Hernes Institutt.  
+Methods: 102 patients, of which 45 underwent WPV, reported socio-demographic characteristics and work-related psychological variables. Work-status was assessed after 12-months. Additionally, in the WPV group, assessments were performed at the first WPV and after 3- and 6 months. Cross-tabulations were performed to examine the participants’ characteristics and their work-status after 12 months. For the WPV group, Generalized Estimating Equations and Ordinal Regression were performed to examine possible associations of work-status with the participants’ characteristics. 
+Results: The majority of patients had low education and low income. Most were mid-aged and employed in manual works. There were no significant differences in work-status after 12 months between the WPV-group and those attending regular rehabilitation. Among those who received the WPV, lower age, reduced fear avoidance beliefs and higher belief in self-improvement predicted returning to work within 6-moths after, while lower fear avoidance beliefs and work-status after 6 months predicted returning into work 12 months after occupational rehabilitation. 
+Conclusions: More research is needed to establish the effectiveness of WPV within occupational rehabilitation. Fostering belief in self-improvement and reduced work-related fear avoidance is important for a successful occupational rehabilitation.
+  </article>
   <article id="contributors-article-RXBNIFQV" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

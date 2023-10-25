@@ -1,5 +1,5 @@
 ---
-title: "Y6XXJ6EZ"
+title: "Proposing a Framework for the Restorative Effects of Nature through Conditioning: Conditioned Restoration Theory"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Y6XXJ6EZ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1831053" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/Y6XXJ6EZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-Y6XXJ6EZ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-Y6XXJ6EZ" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-Y6XXJ6EZ" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.mdpi.com/1660-4601/17/18/6792/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-Y6XXJ6EZ"></div>
 </article>
 <div id="csl-bib-meta-Y6XXJ6EZ" class="csl-bib-meta">
+  <article id="abstract-article-Y6XXJ6EZ" class="abstract-article">
+    <h1>Samandrag</h1>
+    Natural environments have been shown to trigger psychological and physiological restoration in humans. A new framework regarding natural environments restorative properties is proposed. Conditioned restoration theory builds on a classical conditioning paradigm, postulating the occurrence of four stages: (i) unconditioned restoration, unconditioned positive affective responses reliably occur in a given environment (such as in a natural setting); (ii) restorative conditioning, the positive affective responses become conditioned to the environment; (iii) conditioned restoration, subsequent exposure to the environment, in the absence of the unconditioned stimulus, retrieves the same positive affective responses; and (iv) stimulus generalization, subsequent exposure to associated environmental cues retrieves the same positive affective responses. The process, hypothetically not unique to natural environments, involve the well-documented phenomenon of conditioning, retrieval, and association and relies on evaluative conditioning, classical conditioning, core affect, and conscious expectancy. Empirical findings showing that restoration can occur in non-natural environments and through various sensory stimuli, as well as findings demonstrating that previous negative experience with nature can subsequently lower restorative effects, are also presented in support of the theory. In integration with other existing theories, the theory should prove to be a valuable framework for future research.
+  </article>
   <article id="contributors-article-Y6XXJ6EZ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

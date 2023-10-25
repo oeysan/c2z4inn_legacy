@@ -1,5 +1,5 @@
 ---
-title: "LT3VVQDR"
+title: "Patterns of predation by the Eurasian lynx Lynx lynx throughout its range: ecological and conservation implications"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LT3VVQDR" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2150198" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LT3VVQDR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-LT3VVQDR" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-LT3VVQDR" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1111/mam.12317" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-LT3VVQDR"></div>
 </article>
 <div id="csl-bib-meta-LT3VVQDR" class="csl-bib-meta">
+  <article id="abstract-article-LT3VVQDR" class="abstract-article">
+    <h1>Abstract</h1>
+    Predation on ungulates exposes large predators to conflicts with farmers and hunters if they kill livestock and shared game species. Therefore, it is crucial to know the drivers of predation on large prey, understand how they differ from predation on smaller prey and reveal general large‐scale patterns. We tested three hypotheses in the global Eurasian lynx Lynx lynx population: 1) consumption of ungulates and hares increases with their densities, 2) effects of predictors on ungulate and hare predation differ between continents, latitudes, longitudes and landscapes, 3) effects of predictors are generally applicable regardless of study materials (scats, carcasses and intestinal tracts). We collected information from 70 publications, including data from 174 study cases (107 from Europe and 67 from Asia) and 114 sites in 30 countries, mainly Russia (73 cases and 46 sites). Linear regression of logit‐transformed data and logistic regression were used to test the hypotheses. We found that ungulates made up more than half of the lynx diet in areas containing at least 570 individual ungulates/100 km 2 and/or located south of 56°N. Predominance of ungulates in the diet could be related to the higher availability of the main medium‐sized ungulate prey species, and to the presence of (mixed) broadleaf deciduous forests with open spaces providing optimal hunting conditions. No significant effects on hare consumption by lynx were revealed, possibly because of a small sample size of hare density data from lynx habitats, fluctuations and instability of hares as a food resource, declines of some hare populations and separation in habitat use by lynx and hares. We conclude that the Eurasian lynx is an adaptable predator, not a lagomorph specialist; throughout its range, the lynx takes ungulates according to their availability. The use of practical nonlethal interventions is important to limit the availability of domestic ungulates (livestock and game) for predation by lynx, and to promote human‐lynx coexistence.
+  </article>
   <article id="contributors-article-LT3VVQDR" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

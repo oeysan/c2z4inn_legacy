@@ -1,5 +1,5 @@
 ---
-title: "PX9S5MXH"
+title: "Changing attitudes: The impact of Expert by Experience involvement in Mental Health Nursing Education: An international survey study."
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PX9S5MXH" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1640989" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PX9S5MXH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="http://minerva-access.unimelb.edu.au/bitstreams/7f4a03c6-c142-5686-a8fe-f229355822b6/download" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-PX9S5MXH"></div>

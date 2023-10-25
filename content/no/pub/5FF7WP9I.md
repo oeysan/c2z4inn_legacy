@@ -1,5 +1,5 @@
 ---
-title: "5FF7WP9I"
+title: "Agricultural Intensification Reduces the Portfolio of Wetland Ecosystem Services: European Danube River Lowlands as a Global Biodiversity Hotspot"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-5FF7WP9I" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2143432" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/5FF7WP9I" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-5FF7WP9I" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-5FF7WP9I" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-5FF7WP9I" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.mdpi.com/2073-445X/12/3/722/pdf?version=1679451746" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-5FF7WP9I"></div>
 </article>
 <div id="csl-bib-meta-5FF7WP9I" class="csl-bib-meta">
+  <article id="abstract-article-5FF7WP9I" class="abstract-article">
+    <h1>Samandrag</h1>
+    Anthropogenic landscape transformations have promoted the provision of ecosystem services (ES) at the expense of other ES, biodiversity, and human well-being. We analysed the transformation portfolios of ES provisions, the costs of transformation, and the rivalry between ES categories and biodiversity conservation during the pre-communist and communist eras. We also examined EU influences in Romania’s Danube River lowlands. The environmental history of social-ecological systems was used to: (1) map transformations of natural environments; (2) analyse the outputs of human modes of production, including crops, fish, timber, and livestock, using economic valuation methods and by appropriating the primary means of production; and (3) describe ideologies and values as drivers of ES transformations. During the communist era, the surface area of the agricultural land increased at the expense of natural ecosystems. This resulted in increased provisions being made for crops and timber at the expense of the fish supply; it also caused a reduction in livestock. The costs of land reclamation, hydrotechnical works, and the use of fertilizers and pesticides, resulted in a net annual loss of EUR 36 million for the entire case study area, disregarding the losses of other ES. Achieving a balanced portfolio of ES requires a discussion about the need for nature restoration, transdisciplinary social-ecological research, and the identification of key leverage points.
+  </article>
   <article id="contributors-article-5FF7WP9I" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "EMQ4Y4RY"
+title: "Are diversification and structural change good policy? An empirical analysis of Norwegian agriculture"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EMQ4Y4RY" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1596033" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/EMQ4Y4RY" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-EMQ4Y4RY" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-EMQ4Y4RY" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-EMQ4Y4RY" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1C51DFE28C8453EA4AABF29580D1D877/S1074070818000172a.pdf/div-class-title-are-diversification-and-structural-change-good-policy-an-empirical-analysis-of-norwegian-agriculture-div.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-EMQ4Y4RY"></div>
 </article>
 <div id="csl-bib-meta-EMQ4Y4RY" class="csl-bib-meta">
+  <article id="abstract-article-EMQ4Y4RY" class="abstract-article">
+    <h1>Abstract</h1>
+    We investigated whether diversification and/or structural change would improve Norwegian agriculture. Using a flexible technology approach to account for different technologies, we assessed economies of scope and scale of dairy and cropping farms, including regional differences. We fitted translog cost functions to farm-level panel data for the period 1991–2014. We found both economies of scope and scale on the farms. Dairy farms have an economic incentive to integrate dairying with cropping in all regions of Norway, and vice versa. Thus, policy makers should eschew interventions that inhibit diversification or structural change and that increase the costs of food production.
+  </article>
   <article id="contributors-article-EMQ4Y4RY" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

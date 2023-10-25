@@ -1,5 +1,5 @@
 ---
-title: "VJVDN32E"
+title: "Woman/lesbian/researcher? Creating credibility and trust as a researcher on a mailing list for lesbian and bisexual women"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VJVDN32E" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2163107" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VJVDN32E" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VJVDN32E" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-VJVDN32E"></div>

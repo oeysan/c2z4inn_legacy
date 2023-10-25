@@ -1,5 +1,5 @@
 ---
-title: "KYWHWJJ8"
+title: "Comparative risk science for the coronavirus pandemic"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KYWHWJJ8" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1877954" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KYWHWJJ8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KYWHWJJ8" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/13669877.2020.1756384" class="csl-bib-button">EZproxy</a>
   </div>

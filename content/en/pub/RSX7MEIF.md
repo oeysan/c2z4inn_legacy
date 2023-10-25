@@ -1,5 +1,5 @@
 ---
-title: "RSX7MEIF"
+title: "Modelling Global Nickel Mining, Supply, Recycling, Stocks-in-Use and Price Under Different Resources and Demand Assumptions for 1850–2200"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-RSX7MEIF" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1883603" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/RSX7MEIF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-RSX7MEIF" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-RSX7MEIF" class="csl-bib-button">Contributors</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s42461-020-00370-y.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-RSX7MEIF"></div>
 </article>
 <div id="csl-bib-meta-RSX7MEIF" class="csl-bib-meta">
+  <article id="abstract-article-RSX7MEIF" class="abstract-article">
+    <h1>Abstract</h1>
+    The long-term supply of nickel to society was assessed with the WORLD7 model for the global nickel cycle, using new estimates of nickel reserves and resources, indicating that the best estimate of the ultimately recoverable resources for nickel is in the range of 650–720 million ton. This is significantly larger than earlier estimates. The extractable amounts were stratified by extraction cost and ore grade in the model, making them extractable only after price increases and cost reductions. The model simulated extraction, supply, ore grades, and market prices. The assessment predicts future scarcity and supply problems after 2100 for nickel. The model reconstructs observed extraction, supply and market prices for the period 1850–2020, and is used to simulate development for the period 2020–2200. The quality of nickel ore has decreased significantly from 1850 to 2020 and will continue to do so in the future according to the simulated predictions from the WORLD7 model. For nickel, extraction rates are suggested to reach their maximum value in 2050, and that most primary nickel resources will have been exhausted by 2130. After 2100, the supply per capita for nickel will decline towards exhaustion if business-as-usual is continuing. This will be manifested as reduced supply and increased prices. The peak year can be delayed by a maximum of 100 years if recycling rates are improved significantly and long before scarcity is visible.
+  </article>
   <article id="contributors-article-RSX7MEIF" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

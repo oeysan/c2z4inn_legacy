@@ -1,5 +1,5 @@
 ---
-title: "QYWX9ICF"
+title: "Partnering with persons in long-term recovery from substance use disorder: experiences from a collaborative research project"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QYWX9ICF" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1707556" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/QYWX9ICF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-QYWX9ICF" class="csl-bib-button">Medverkande</a>
     <a href="https://harmreductionjournal.biomedcentral.com/track/pdf/10.1186/s12954-019-0310-x" class="csl-bib-button">Unpaywall</a>
   </div>

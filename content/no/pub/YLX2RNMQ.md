@@ -1,5 +1,5 @@
 ---
-title: "YLX2RNMQ"
+title: "Dybdelæring i naturfag"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YLX2RNMQ" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1713043" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/YLX2RNMQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-YLX2RNMQ" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-YLX2RNMQ" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-YLX2RNMQ"></div>
 </article>
 <div id="csl-bib-meta-YLX2RNMQ" class="csl-bib-meta">
+  <article id="abstract-article-YLX2RNMQ" class="abstract-article">
+    <h1>Samandrag</h1>
+    Skolens naturfagundervisning har blitt karakterisert som «a mile wide and an inch deep». Ludvigsenutvalget har anbefalt å heller konsentrere seg om dybdelæring i noen sentrale og grunnleggende byggesteiner i fagene. Men hva innebærer dybdelæring?«Dybdelæring i naturfag» presenterer ny forskning om hvordan skolens naturfagundervisning kan skape interesse for naturfag og legge til rette for at elevene utvikler sin fagforståelse og greier å anvende det de har lært. Forfatterne gjennomgår hva dybdelæring er, og hvordan læreren kan legge opp til god progresjon i faglig forståelse, kunnskaper og ferdigheter. Dybdelæring og progresjon er gjennomgående i alle kapitlene og sees i sammenheng med fagdidaktiske tema som valg av kjerneelementer i faget, utforskende undervisning, bruk av modeller, ulike læringsarenaer og grunnleggende ferdigheter.
+Hvordan kan naturfaglæreren skape interesse for naturfaget hos elevene og legge til rette for at de utvikler sin fagforståelse og evne til å anvende det de har lært? Skolens naturfagundervisning har blitt karakterisert som en mil bred og en tomme dyp, men anbefalingen nå er å konsentrere undervisningen rundt dybdelæring i noen sentrale og grunnleggende byggesteiner i faget. Hva betyr dette i praksis?I «Dybdelæring i naturfag» viser forfatterne hva dybdelæring er, og de presenterer ny forskning på hvordan man kan legge opp undervisningen for å fremme god progresjon i faglig forståelse, kunnskaper og ferdigheter. Dybdelæring er gjennomgående i alle kapitlene og sees i sammenheng med fagdidaktiske tema som valg av kjerneelementer i faget, utforskende undervisning, bruk av modeller, ulike læringsarenaer og grunnleggende ferdigheter.Boka er skrevet for lærere, lærerutdannere og lærerstudenter som vil utvikle og forbedre skolens naturfagundervisning. . - Forlaget
+  </article>
   <article id="contributors-article-YLX2RNMQ" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

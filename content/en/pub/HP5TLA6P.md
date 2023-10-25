@@ -1,5 +1,5 @@
 ---
-title: "HP5TLA6P"
+title: "The Nordic model and multiculturalism: the case of Sámi sport"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HP5TLA6P" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1625036" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/HP5TLA6P" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-HP5TLA6P" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-HP5TLA6P" class="csl-bib-button">Contributors</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/17430437.2018.1424108" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-HP5TLA6P"></div>
 </article>
 <div id="csl-bib-meta-HP5TLA6P" class="csl-bib-meta">
+  <article id="abstract-article-HP5TLA6P" class="abstract-article">
+    <h1>Abstract</h1>
+    The Sámi are the indigenous people of the North Calotte, living in Sápmi (land of the Sámi, which covers the north parts of Norway, Sweden, Finland and north east of Russia). This paper examines the role of Sámi sport with reference to the Nordic model – centred on the welfare state and social democracy – and draws on Norwegian and some Swedish empirical data. Theoretically, I combine Bourdieu’s field theory with two possible trajectories of post-colonialism: neo-traditionalism and biculturalism. Methodologically, I lean onresearch into Sámi sport, sport organization and state policy. The analysis shows that on a state level, Nordic sport policy towards Sámi sport corresponds to the neo-traditionalist perspective, that the revitalization of indigeneity is an issue primarily for the indigenous peoples and not for the entire population of the nation state. However, there are several nuances. First, the situation for Sámi sport is better in Norway than in other countries of the Sápmi region. Second, the experiences reported by representatives of local sport clubs show a bicultural, integrated approach to sport organizations.
+  </article>
   <article id="contributors-article-HP5TLA6P" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

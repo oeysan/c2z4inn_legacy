@@ -1,5 +1,5 @@
 ---
-title: "ERE4QZD2"
+title: "Lessons for progressing narrative reporting: Learning from the experience of disseminating the Danish Intellectual Capital Statement approach"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ERE4QZD2" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1568620" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ERE4QZD2" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://discovery.dundee.ac.uk/files/18296223/NewerHorses.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ERE4QZD2"></div>

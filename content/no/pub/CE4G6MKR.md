@@ -1,5 +1,5 @@
 ---
-title: "CE4G6MKR"
+title: "CAPTURE AND IMMOBILIZATION OF AFRICAN WOLVES (CANIS LUPASTER) IN THE ETHIOPIAN HIGHLANDS"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-CE4G6MKR" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1511698" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/CE4G6MKR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-CE4G6MKR" class="csl-bib-button">Medverkande</a>
     <a href="https://ora.ox.ac.uk/objects/uuid:68be7476-efc3-4172-9edc-b51ed31a1e74/files/m01dfc7a2fe2d5483024e21588469db54" class="csl-bib-button">Unpaywall</a>
   </div>

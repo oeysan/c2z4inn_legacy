@@ -1,5 +1,5 @@
 ---
-title: "E47KEY5A"
+title: "The Kynurenine Pathway in Healthy Subjects and Subjects with Obesity, Depression and Chronic Obstructive Pulmonary Disease"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-E47KEY5A" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2144126" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/E47KEY5A" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-E47KEY5A" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-E47KEY5A" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-E47KEY5A" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/1424-8247/16/3/351/pdf?version=1677636088" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-E47KEY5A"></div>
 </article>
 <div id="csl-bib-meta-E47KEY5A" class="csl-bib-meta">
+  <article id="abstract-article-E47KEY5A" class="abstract-article">
+    <h1>Abstract</h1>
+    Background: Changes in tryptophan metabolism through the kynurenine pathway (KP) are observed in several disorders and coupled with pathophysiological deviations. Methods: This study retrospectively compared the KP in serum in healthy subjects (108) with subjects with obesity (141), depression (49), and chronic obstructive pulmonary disease (COPD) (22) participating in four clinical studies and explored predictors of the changes in the KP metabolites. Results: Compared with the healthy group, the KP was upregulated in the disease groups with high kynurenine, quinolinic acid (QA), kynurenine/tryptophan-ratio and QA/xanthurenic acid-ratio and low kynurenic acid/QA-ratio. Tryptophan and xanthurenic acid were upregulated in the depressed group compared with the groups with obesity and COPD. The covariates BMI, smoking, diabetes, and C-reactive protein explained the significant differences between the healthy group and the group with obesity but not between the healthy group and the groups with depression and COPD, indicating that different pathophysiological conditions result in the same changes in the KP. Conclusions: The KP was significantly upregulated in the disease groups compared with the healthy group, and there were significant differences between the disease groups. Different pathophysiological abnormalities seemed to result in the same deviations in the KP.
+  </article>
   <article id="contributors-article-E47KEY5A" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

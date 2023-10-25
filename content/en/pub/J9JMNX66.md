@@ -1,5 +1,5 @@
 ---
-title: "J9JMNX66"
+title: "Interessentperspektiv på krisekommunikasjon"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-J9JMNX66" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1791117" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/J9JMNX66" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-J9JMNX66" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-J9JMNX66" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-J9JMNX66" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-J9JMNX66"></div>
 </article>
 <div id="csl-bib-meta-J9JMNX66" class="csl-bib-meta">
+  <article id="abstract-article-J9JMNX66" class="abstract-article">
+    <h1>Abstract</h1>
+    En organisasjons interessenter er kort forklart alle den har mål eller konsekvenser for - og omvendt. Denne boka handler om krisesituasjoner og har som utgangspunkt at krisehåndtering krever god kommunikasjon med alle de som krisen påvirker - interessentene - både før, under og etter en krise. En krise kommer som regel uventet, men det er likevel mulig å bli «kriseberedt», det finnes alltid noe som kan forutsees og planlegges for. Med utgangspunkt i en oversikt over «mulige kriser» er det for eksempel mulig å tenke seg hvilke behov for kommunikasjon som vil oppstå, mulige konflikter osv. Denne boka presenterer en oppdatert, forskningsbasert introduksjon til dette flerfaglige feltet og tilbyr konkrete modeller og metoder for effektiv interessentbasert krisekommunikasjon.
+  </article>
   <article id="contributors-article-J9JMNX66" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

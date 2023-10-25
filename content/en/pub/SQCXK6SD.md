@@ -1,5 +1,5 @@
 ---
-title: "SQCXK6SD"
+title: "“Bene, ma non benissimo”: le nuove mobilità degli italiani in Norvegia"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SQCXK6SD" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1872472" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/SQCXK6SD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-SQCXK6SD" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-SQCXK6SD" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-SQCXK6SD" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-SQCXK6SD"></div>
 </article>
 <div id="csl-bib-meta-SQCXK6SD" class="csl-bib-meta">
+  <article id="abstract-article-SQCXK6SD" class="abstract-article">
+    <h1>Abstract</h1>
+    Norway is becoming one of the new destinations of the Italian immigration, and the number of Italians living in Norway has substantially increased since 2008. Using data from official sources and from a recent mixed-methods research, the purpose of this paper is to present the main characteristics of the Italians in Norway and shed light on the profile of the Italian new mobility – why they moved and how they live in Norway. The analysis indicates that the sociodemographic characteristics of the Italians in Norway and their motives for migrating are rather different from those of the previous migration waves. Today, most Italians in Norway have a high educational level, with highly qualified jobs, and are less dependent upon the migrants’ networks. Also the number of women migrating alone has increased. Despite higher resources and life satisfaction, the Italians living in Norway experience difficulties in establishing satisfactory social relations.
+  </article>
   <article id="contributors-article-SQCXK6SD" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

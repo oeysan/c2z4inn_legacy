@@ -1,5 +1,5 @@
 ---
-title: "Z6S5MGX7"
+title: "Media’s portrayal of large predators in Norway from the protection by law in the 1970’s till today: an insight into local and national newspapers"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-Z6S5MGX7" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2075045" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/Z6S5MGX7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s10708-022-10763-9.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-Z6S5MGX7"></div>

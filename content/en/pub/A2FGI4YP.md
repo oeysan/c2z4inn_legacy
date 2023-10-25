@@ -1,5 +1,5 @@
 ---
-title: "A2FGI4YP"
+title: "Production of Exopolysaccharides by Cultivation of Halotolerant Bacillus atrophaeus BU4 in Glucose- and Xylose-Based Synthetic Media and in Hydrolysates of Quinoa Stalks"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-A2FGI4YP" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2042509" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/A2FGI4YP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-A2FGI4YP" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-A2FGI4YP" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-A2FGI4YP" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/2311-5637/8/2/79/pdf?version=1645178476" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-A2FGI4YP"></div>
 </article>
 <div id="csl-bib-meta-A2FGI4YP" class="csl-bib-meta">
+  <article id="abstract-article-A2FGI4YP" class="abstract-article">
+    <h1>Abstract</h1>
+    A halotolerant, exopolysaccharide-producing bacterium isolated from the Salar de Uyuni salt flat in Bolivia was identified as Bacillus atrophaeus using next-generation sequencing. Comparisons indicate that the genome most likely (p-value: 0.0024) belongs to a subspecies previously not represented in the database. The growth of the bacterial strain and its ability to produce exopolysaccharides (EPS) in synthetic media with glucose or xylose as carbon sources, and in hydrolysates of quinoa stalks, was investigated. The strain grew well in all synthetic media, but the growth in glucose was better than that in xylose. Sugar consumption was better when initial concentrations were low. The growth was good in enzymatically produced cellulosic hydrolysates but was inhibited in hemicellulosic hydrolysates produced using hydrothermal pretreatment. The EPS yields were up to 0.064 g/g on initial glucose and 0.047 g/g on initial xylose, and was higher in media with relatively low sugar concentrations. The EPS was isolated and purified by a sequential procedure including centrifugation, cold ethanol precipitation, trichloroacetic acid treatment, dialysis, and freeze-drying. Glucose and mannose were the main sugars identified in hydrolyzed EPS. The EPS was characterized by size-exclusion chromatography, Fourier-transform infrared (FTIR) spectroscopy, heteronuclear single-quantum coherence nuclear magnetic resonance (HSQC NMR) spectroscopy, scanning electron microscopy, X-ray diffraction, and thermogravimetric analysis. No major differences were elucidated between EPS resulting from cultivations in glucose- or-xylose-based synthetic media, while some divergences with regard to molecular-weight averages and FTIR and HSQC NMR spectra were detected for EPS from hydrolysate-based media.
+  </article>
   <article id="contributors-article-A2FGI4YP" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

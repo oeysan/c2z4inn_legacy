@@ -1,5 +1,5 @@
 ---
-title: "FXX2P9EC"
+title: "Fotopoetikk: om dikt og fotografi i norsk lyrikk"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FXX2P9EC" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1527774" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/FXX2P9EC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-FXX2P9EC" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-FXX2P9EC" class="csl-bib-button">Contributors</a>
   </div>
   <div id="csl-bib-meta-container-FXX2P9EC"></div>
 </article>
 <div id="csl-bib-meta-FXX2P9EC" class="csl-bib-meta">
+  <article id="abstract-article-FXX2P9EC" class="abstract-article">
+    <h1>Abstract</h1>
+    Fotopoetikk. Om dikt og fotografi i norsk lyrikk er ei bok om forholdet mellom dikt og fotografi, om poetiske refleksjoner om fotografi, om hvordan fotografi som medium og som uttrykksform kan forme hvordan poeten ser og skriver, og om hvordan dikt skaper forståelse for hva fotografi er og hva det gjør. Boka skiller mellom tre måter som fotografi kan inngå i relasjon med dikt på: fotografiske ekfraser, foto.lyrikk og fotografisk lyrikk. Gjennom teoretiske drøftinger og nærlesninger av dikt og diktbøker utforsker Fotopoetikk. Om dikt og fotografi i norsk lyrikk hvordan forholdet mellom dikt og fotografi mer bestemt kan forstås. Et av hovedargumentene i boka er at diktene kan leses som uttrykk for en fotopoetikk. Boka tar for seg dikt som på ulike måter tematiserer fotografi, fra tidlige innskriving av en fotografisk tenkning, som hos Henrik Wergeland, Hans Thøger Winther og Aasmund Olavsson Vinje, og et fotografisk blikk, som hos Sigbjørn Obstfelder, til bruken av fotografi hos samtidspoeter som Paal-Helge Haugen, Einar Økland, Jan Erik Vold, Cecilie Løveid, Hanne Bramness og Tomas Espedal. Ett kapittel er viet dikt av nyere poeter som Ingvild Lothe, Auden Mortensen, Isabell El-Melhaoui og Crispin Gurholt.
+  </article>
   <article id="contributors-article-FXX2P9EC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

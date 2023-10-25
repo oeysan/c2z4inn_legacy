@@ -1,5 +1,5 @@
 ---
-title: "83QV9IPF"
+title: "Teacher-chameleons: the glue in the alignment of teacher practices and learning in policy"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-83QV9IPF" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1603799" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/83QV9IPF" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-83QV9IPF" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-83QV9IPF" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-83QV9IPF" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/00220272.2018.1504120" class="csl-bib-button">EZproxy</a>
@@ -18,6 +19,29 @@ type: pub
   <div id="csl-bib-meta-container-83QV9IPF"></div>
 </article>
 <div id="csl-bib-meta-83QV9IPF" class="csl-bib-meta">
+  <article id="abstract-article-83QV9IPF" class="abstract-article">
+    <h1>Abstract</h1>
+    This article investigates how learning outcomes, a concept inspired 
+by an Anglo-Saxon curriculum approach, are expressed in policy 
+documents, with an emphasis on expectations articulated to teachers. 
+Developments in education policy for the last two decades 
+reflect a widespread expansion of learning outcome orientation in 
+curricula and assessment in most of the modern world. These developments 
+have led to changes in how education is governed and 
+practised, and this makes it necessary to form critical concepts to 
+understand how curricula are formed and functioned today. The 
+research questions of the study are: How is learning outcomeoriented 
+policy defined in key policy documents and what are the 
+implications of these policies for the teaching profession? The topic 
+is investigated through a document content analysis of key policy 
+documents. A complex picture of teachers emerges in which they are 
+to be both controlled and autonomous. The study also identifies a 
+strong belief in ‘alignment between teachers’ competences and 
+practices and students’ life opportunities. The findings indicate that 
+the policies move back and forth between different parameters for 
+describing teachers and teaching, and as such, teachers must be able 
+to adapt as chameleons in the context of each policy.
+  </article>
   <article id="contributors-article-83QV9IPF" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

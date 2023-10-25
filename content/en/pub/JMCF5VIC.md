@@ -1,5 +1,5 @@
 ---
-title: "JMCF5VIC"
+title: "Spatial mismatch between management units and movement ecology of a partially migratory ungulate"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-JMCF5VIC" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1511775" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/JMCF5VIC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-JMCF5VIC" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-JMCF5VIC" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-JMCF5VIC" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.duo.uio.no/bitstream/10852/59616/2/Meisingset_2017_JApplEcol_spatial%2bmismatch%2bbetween%2bmanagement%2bunits%2band%2bmovement%2becology%2bof%2ba%2bpartially%2bmigratory%2bungulate.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,16 @@ type: pub
   <div id="csl-bib-meta-container-JMCF5VIC"></div>
 </article>
 <div id="csl-bib-meta-JMCF5VIC" class="csl-bib-meta">
+  <article id="abstract-article-JMCF5VIC" class="abstract-article">
+    <h1>Abstract</h1>
+    1. Population-level management is difficult to achieve if wildlife routinely crosses administrative boundaries, as is particularly frequent for migratory populations. However, the degree of mismatch between management units and scales at which ecological processes operate has rarely been quantified. Such insight is vital for delimiting functional population units of partially migratory species common in northern forest ecosystems. 
+ 
+2. We combined an extensive dataset of 412 GPS-marked red deer (Cervus elaphus) across Norway with information on the size and borders of two administrative levels, the governmental level (municipality) and landowner level (local management units, LMUs), to determine the timing and scale of mismatch between animal space use and management units. We analysed how landscape characteristics affected the use of management units and the timing and likelihood of crossing borders between them, in an effort to delineate more appropriate units in various landscapes. 
+ 
+3. Median municipality size could potentially cover 70% of female and 62% of male annual ranges, while only 12% and 4% of LMUs were expansive enough to accommodate migratory routes in females and males, respectively. Red deer migrate along elevational gradients and are more likely to find both suitable lowland winter habitat and higher summer habitat within management units with variable topography. Consistent with this, the likelihood of border crossing decreased with increasing diversity of elevations. 
+ 
+4. Synthesis and applications. We demonstrate a considerable mismatch between animal space use and management units. Far-ranging movements and frequent administrative border crossings during autumn migration coincides with the period of active management (hunting season). Our study also highlights that, due to extensive movements of males, coordination of management aims may provide a more realistic avenue than increasing sizes of local management units. A more general insight is that the degree of mismatch between range use and management units depends on the season and landscape type. This needs to be accounted for when delimitating functional population units of migratory populations.
+  </article>
   <article id="contributors-article-JMCF5VIC" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

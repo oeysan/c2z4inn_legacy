@@ -1,5 +1,5 @@
 ---
-title: "8CPK8PKI"
+title: "The moderating influence of self-efficacy on interoceptive ability and counterintuitive decision making in officer cadets"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8CPK8PKI" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1421324" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/8CPK8PKI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-8CPK8PKI" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-8CPK8PKI" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-8CPK8PKI" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://sciendo.com/pdf/10.1515/jms-2016-0005" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,33 @@ type: pub
   <div id="csl-bib-meta-container-8CPK8PKI"></div>
 </article>
 <div id="csl-bib-meta-8CPK8PKI" class="csl-bib-meta">
+  <article id="abstract-article-8CPK8PKI" class="abstract-article">
+    <h1>Abstract</h1>
+    The rapid technical progress in cyber threats 
+and cyber security poses increased cognitive demands on 
+cyber officers. The macrocognitive demand characteristics 
+placed on the cyber officers exceed those in most common 
+military contexts and are new in nature. Research on 
+decision-making competence within the cyber domain 
+is needed to identify strategies and give a better understanding 
+of how these strategies can have consequences 
+depending on task characteristics. Belief in one’s capabilities 
+to handle a certain task has been shown to be a key 
+factor for cognitive performance. This study investigated 
+how high self-efficacy negatively moderated intuitive 
+decision-making tendencies on performance when facing 
+a problem that required counterintuitive strategies. 
+Twenty-seven cyber officer cadets from the Norwegian 
+Defence Cyber Academy participated in an experiment 
+assessing self-efficacy, interoceptive sensitivity, 
+and decision-making. Participants with high situational 
+self-efficacy generally performed better, but this relationship 
+was moderated by interoceptive sensitivity. 
+The findings suggest potential detrimental effects of 
+intuitive decision-making tendencies in combination with 
+high self-efficacy. Implications for training and feedback 
+structures in cyber defense are discussed.
+  </article>
   <article id="contributors-article-8CPK8PKI" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "QJ6HHWFW"
+title: "How Social Relationships Influence Substance Use Disorder Recovery: A Collaborative Narrative Study"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QJ6HHWFW" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1758910" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/QJ6HHWFW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-QJ6HHWFW" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-QJ6HHWFW" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-QJ6HHWFW" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/1178221819833379" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-QJ6HHWFW"></div>
 </article>
 <div id="csl-bib-meta-QJ6HHWFW" class="csl-bib-meta">
+  <article id="abstract-article-QJ6HHWFW" class="abstract-article">
+    <h1>Abstract</h1>
+    Individuals with a substance use disorder (SUD) often have fewer social support network resources than those without SUDs. This qualitative study examined the role of social relationships in achieving and maintaining stable recovery after many years of SUD. Semi-structured interviews were conducted with 18 participants, each of whom had been diagnosed with a SUD and each of whom had been abstinent for at least 5 years. A resource group of peer consultants in long-term recovery from SUDs contributed to the study planning, preparation, and initial analyses. The relationship that most participants described as helpful for initiating abstinence was recognition by a peer or a caring relationship with a service provider or sibling. These findings suggest that, to reach and maintain abstinence, it is important to maintain positive relationships and to engage self-agency to protect oneself from the influences of negative relationships. Substance use disorder service providers should increase the extent to which they involve the social networks of clients when designing new treatment approaches. Service providers should also focus more on individualizing services to meet their clients on a personal level, without neglecting professionalism or treatment strategies.
+  </article>
   <article id="contributors-article-QJ6HHWFW" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

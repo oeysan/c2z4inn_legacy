@@ -1,5 +1,5 @@
 ---
-title: "WYX24LN9"
+title: "Understanding Intimate Partner Violence Among Ethnic and Sexual Minorities: Lived Experiences of Queer Women in Norway"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WYX24LN9" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2098102" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WYX24LN9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WYX24LN9" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-WYX24LN9" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-WYX24LN9" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://doi.org/10.1177/10778012221147912" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-WYX24LN9"></div>
 </article>
 <div id="csl-bib-meta-WYX24LN9" class="csl-bib-meta">
+  <article id="abstract-article-WYX24LN9" class="abstract-article">
+    <h1>Samandrag</h1>
+    Drawing upon in-depth, semi-structured interviews, this study explored how queer women from ethnic minority backgrounds in Norway understand and experience intimate partner violence (IPV). Based on an intersectional approach, the study highlights and discusses how having multiple minority positions may inform and affect the way participants experience IPV. The analysis shows that participants’ experiences of IPV are shaped by their multiple minority statuses in Norwegian society. A discussion is provided that revolves around how being a sexual as well as an ethnic minority generates a significant power imbalance for the participants in their relationships.
+  </article>
   <article id="contributors-article-WYX24LN9" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

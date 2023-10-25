@@ -44,7 +44,7 @@ SdgUnits("en")
 # Render README
 RenderSave("README.Rmd", remove.blank = FALSE)
 
-commit.name <- "c2z4uni 0.1.0.9006"
+commit.name <- "hugo library 0.1.6"
 branch.name <- "main"
 
 init <- system(

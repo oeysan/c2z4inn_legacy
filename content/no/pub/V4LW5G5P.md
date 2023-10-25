@@ -1,5 +1,5 @@
 ---
-title: "V4LW5G5P"
+title: "Linguistic metaphor identification in Scandinavian"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-V4LW5G5P" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1754173" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/V4LW5G5P" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-V4LW5G5P" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1075/celcr.22.07nac" class="csl-bib-button">EZproxy</a>
   </div>

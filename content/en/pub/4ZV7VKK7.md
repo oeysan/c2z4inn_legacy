@@ -1,5 +1,5 @@
 ---
-title: "4ZV7VKK7"
+title: "Supportive study climate and academic performance among university students: the role of psychological capital, positive emotions and study engagement"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-4ZV7VKK7" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1903257" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/4ZV7VKK7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-4ZV7VKK7" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-4ZV7VKK7" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-4ZV7VKK7" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.emerald.com/insight/content/doi/10.1108/IJQSS-03-2020-0045/full/pdf?title=supportive-study-climate-and-academic-performance-among-university-students-the-role-of-psychological-capital-positive-emotions-and-study-engagement" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,28 @@ type: pub
   <div id="csl-bib-meta-container-4ZV7VKK7"></div>
 </article>
 <div id="csl-bib-meta-4ZV7VKK7" class="csl-bib-meta">
+  <article id="abstract-article-4ZV7VKK7" class="abstract-article">
+    <h1>Abstract</h1>
+    Purpose – The overall aim of this study is to explore factors associated with academic performance among 
+university students. Specifically, it explores whether a supportive study climate is directly related to academic 
+performance and whether students’ psychological capital (PsyCap), positive emotions and study engagement 
+play a role in the relationship between supportive study climate and academic performance. 
+Design/methodology/approach – A total of 588 bachelor students from a range of academic programs 
+participated in a survey. The partial least squares (PLS)-based structural equation modeling (SEM) was used 
+to test the conceptual models and the hypothesized relationships, using the software SmartPLS. 
+Findings – No support was found for a direct relationship between supportive study climate and academic 
+performance. However, the results show that PsyCap, positive emotions and study engagement have a 
+mediating role between supportive study climate and academic performance. In addition, the findings reveal a 
+multifaceted pattern among PsyCap, positive emotions and study engagement that promotes academic 
+performance. 
+Originality/value – This is the first study that simultaneously explores the role of PsyCap, emotions and 
+study engagement between supportive study climate and academic performance among university students. 
+Consequently, it broadens and deepens previous research and offers both theoretical and practical 
+implications. 
+ 
+Keywords Psychological Capital, Positive emotions, Study engagement, Academic performance, 
+Supportive study climate, University students
+  </article>
   <article id="contributors-article-4ZV7VKK7" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

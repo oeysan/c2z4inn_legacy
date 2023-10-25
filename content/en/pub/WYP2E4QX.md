@@ -1,5 +1,5 @@
 ---
-title: "WYP2E4QX"
+title: "Undervisningsteknologi for læring eller effektivisering i høyere utdanning: Et spørsmål om rammeforståelser"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WYP2E4QX" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2041076" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/WYP2E4QX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-WYP2E4QX" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-WYP2E4QX" class="csl-bib-button">Contributors</a>
     <a href="https://oa.fagbokforlaget.no/index.php/vboa/catalog/download/20/28/280" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WYP2E4QX"></div>
 </article>
 <div id="csl-bib-meta-WYP2E4QX" class="csl-bib-meta">
+  <article id="abstract-article-WYP2E4QX" class="abstract-article">
+    <h1>Abstract</h1>
+    Dette kapittelet diskuterer hvordan studenter fortolker rammene for undervisning med bruk av digital teknologi, samt hva dette betyr for deltakelse og læring. Data er hentet fra kvalitative intervjuer og en spørreundersøkelse med bachelorstudenter. Med koronapandemien og digitalisering av undervisningen fikk vi en utvidet mulighet til å studere studenters rammeforståelser. Det presenteres eksempler på studentenes fortolkninger av digital teknologi i undervisning, og disse drøftes i lys av Goffmans rammeteori. Dessuten henter vi inspirasjon fra Bolter og Grusin for å forstå hvordan ulike remedieringsstrategier influerer på vår forståelse av digitale praksiser.Våre resultater indikerer at mens underviserne hadde intensjoner om å skape aktivitet og læring gjennom bruk av digital teknologi, så forsto studentene undervisningsteknologien ut fra en effektivitetsramme. Resultatene viste også at motsetninger i rammeforståelser kan forsterkes når digital teknologi benyttes som overføringskanal for tradisjonell undervisning. Ved å studere rammeforståelser synliggjøres et spenningsforhold mellom studenter og underviseres fortolkninger og intensjoner. Et spenningsforhold som også peker tilbake på et paradoks mellom ønsker og muligheter i undervisning generelt.
+  </article>
   <article id="contributors-article-WYP2E4QX" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

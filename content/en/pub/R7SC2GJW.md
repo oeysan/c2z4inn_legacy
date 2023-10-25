@@ -1,5 +1,5 @@
 ---
-title: "R7SC2GJW"
+title: "Environmental and anthropogenic features mediate risk from human hunters and wolves for moose"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-R7SC2GJW" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2101380" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/R7SC2GJW" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-R7SC2GJW" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-R7SC2GJW" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-R7SC2GJW" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecs2.4323" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-R7SC2GJW"></div>
 </article>
 <div id="csl-bib-meta-R7SC2GJW" class="csl-bib-meta">
+  <article id="abstract-article-R7SC2GJW" class="abstract-article">
+    <h1>Abstract</h1>
+    Landscape characteristics, seasonal changes in the environment, and daylight conditions influence space use and detection of prey and predators, resulting in spatiotemporal patterns of predation risk for the prey. When predators have different hunting modes, the combined effects of multiple predators are mediated by the physical landscape and can result in overlapping or contrasting patterns of predation risk. Humans have become super‐predators in many anthropogenic landscapes by harvesting game species and competing with large carnivores for prey. Here, we used the locations of wolf ( Canis lupus )‐killed and hunter‐killed moose ( Alces alces ) in south‐central Scandinavia to investigate whether environmental and anthropogenic features influenced where wolves and hunters killed moose. We predicted that the combined effects of wolves and hunters would result in contrasting spatial risk patterns due to differences in hunting modes. We expected these contrasting spatial risk patterns also to differ temporally. During the hunting season, the probability of a wolf kill increased with distance to bogs, whereas it decreased with increasing building density and distance to clearcuts and young forests. After the hunting season, the probability of a wolf kill increased with increasing terrain ruggedness and decreased with increasing building density, distance to main roads, and distance to clearcuts and young forests. The probability of a hunter kill was highest closer to bogs, main and secondary roads, in less rugged terrain and in areas with lower building density. Hunters killed all moose during the day, whereas wolves killed most moose at night during and after the hunting season. Our findings suggest that environmental and anthropogenic features mediate hunting and wolf predation risk. Additionally, we found that hunter‐ and wolf‐killed moose exhibited contrasting spatial associations to landscape features, most likely due to the different hunting modes displayed by hunters and wolves. However, wolf predation and hunting risks also contrasted over time since wolves killed mostly at night and hunters were restricted to hunting during daytime and during the hunting season. This temporal segregation in risk might therefore suggest that moose could minimize risk exposure by taking advantage of spatiotemporally vacant hunting domains.
+  </article>
   <article id="contributors-article-R7SC2GJW" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

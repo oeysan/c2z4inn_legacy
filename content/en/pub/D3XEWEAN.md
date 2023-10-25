@@ -1,5 +1,5 @@
 ---
-title: "D3XEWEAN"
+title: "Development and Preliminary Validation of the Physical Education-Study Process Questionnaire : Insights for Physical Education University Students"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-D3XEWEAN" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2004305" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/D3XEWEAN" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-D3XEWEAN" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-D3XEWEAN" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-D3XEWEAN" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2022.856167/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-D3XEWEAN"></div>
 </article>
 <div id="csl-bib-meta-D3XEWEAN" class="csl-bib-meta">
+  <article id="abstract-article-D3XEWEAN" class="abstract-article">
+    <h1>Abstract</h1>
+    BackgroundThe Revised Two Factor Study Process Questionnaire (R-SPQ-2F) is used to examine students' study approaches in higher education. The questionnaire is designed to measure two factors: deep and surface approaches. In order to measure these approaches for students in physical education and sport, a new measurement instrument should take into consideration the practical context of this field of education that makes it specific to other fields. ObjectiveThe present study aims (a) to develop and empirical test of a new instrument for measuring the study process in physical education and sports students, and (b) to test psychometric properties of the tool. Methods Two exploratory and confirmatory samples of physical education students enrolled in a bachelor's degree program in physical education at the High Institute of Physical Education and Sports of Kef-Tunisia, aged 19–26 years, were recruited online among female students ( n = 414) and male students ( n = 393). The participants filled in Google Form survey including Physical Education-Study Process Questionnaire (PE-SPQ) and the Arabic version of the Revised Study Process Questionnaire-2 Factors (R-SPQ-2F). ResultsExploratory factor analysis showed a suitable four factors solution, which is approved by confirmatory factor analysis indices [χ2 = 466.47, TLI = 0.94, CFI = 0.95; RMSEA = 0.56 IC 90% (0.050–0.062)]. Internal consistency of the PE-SPQ simultaneously checked by McDonald's ω, Cronbach's α and Gutmann's λ6 showed good reliability of the PE-SPQ. Convergent validity examined by Average variance extracted (AVE) was good. The comparison between the AVE root mean square and Pearson correlation coefficients of each factor with his indicators reveals the discriminant validity of the PE-SPQ. Furthermore, Pearson's correlation between the PE-SPQ factors and the R-SPQ-2F establishes the concurrent validity of the new scale. ConclusionThe PE-SPQ scale is valid and reliable and can be used to assess study process factors in physical education students.
+  </article>
   <article id="contributors-article-D3XEWEAN" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

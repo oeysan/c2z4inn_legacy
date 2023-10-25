@@ -1,5 +1,5 @@
 ---
-title: "ZYFRF69S"
+title: "HLS19-NAV—Validation of a New Instrument Measuring Navigational Health Literacy in Eight European Countries"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZYFRF69S" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2095610" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/ZYFRF69S" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-ZYFRF69S" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-ZYFRF69S" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-ZYFRF69S" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/1660-4601/19/21/13863/pdf?version=1666703695" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-ZYFRF69S"></div>
 </article>
 <div id="csl-bib-meta-ZYFRF69S" class="csl-bib-meta">
+  <article id="abstract-article-ZYFRF69S" class="abstract-article">
+    <h1>Abstract</h1>
+    To manoeuvre a complex and fragmented health care system, people need sufficient navigational health literacy (NAV-HL). The objective of this study was to validate the HLS19-NAV measurement scale applied in the European Health Literacy Population Survey 2019–2021 (HLS19). From December 2019 to January 2021, data on NAV-HL was collected in eight European countries. The HLS19-NAV was translated into seven languages and successfully applied in and validated for eight countries, where language and survey method differed. The psychometric properties of the scale were assessed using confirmatory factor analysis (CFA) and Rasch modelling. The tested CFA models sufficiently well described the observed correlation structures. In most countries, the NAV-HL data displayed acceptable fit to the unidimensional Rasch partial credit model (PCM). For some countries, some items showed poor data–model fit when tested against the PCM, and some items displayed differential item functioning for selected person factors. The HLS19-NAV demonstrated high internal consistency. To ensure content validity, the HLS19-NAV was developed based on a conceptual framework. As an estimate of discriminant validity, the Pearson correlations between the NAV-HL and general health literacy (GEN-HL) scales were computed. Concurrent predictive validity was estimated by testing whether the HLS19-NAV, like general HL measures, follows a social gradient and whether it forms a predictor of general health status as a health-related outcome of general HL. In some countries, adjustments at the item level may be beneficial.
+  </article>
   <article id="contributors-article-ZYFRF69S" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

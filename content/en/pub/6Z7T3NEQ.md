@@ -1,5 +1,5 @@
 ---
-title: "6Z7T3NEQ"
+title: "Introduction: Rethinking career development"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6Z7T3NEQ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1929911" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/6Z7T3NEQ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-6Z7T3NEQ" class="csl-bib-button">Contributors</a>
     <a href="https://napier-repository.worktribe.com/preview/2717068/McCash%20Hooley%20%20Robertson%20-%20Introduction%20-%20Chapter%201%20%20June%202020.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

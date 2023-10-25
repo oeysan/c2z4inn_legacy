@@ -1,5 +1,5 @@
 ---
-title: "PQ9WAYN5"
+title: "Sangfoni : Magisk realisme,leken læring og identitetsutforsking i barns audiovisuelle musikkultur"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-PQ9WAYN5" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1633673" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/PQ9WAYN5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-PQ9WAYN5" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-PQ9WAYN5" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-PQ9WAYN5" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.idunn.no/file/pdf/67087418/________sangfoni_magisk_realisme_leken_laering_og_.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-PQ9WAYN5"></div>
 </article>
 <div id="csl-bib-meta-PQ9WAYN5" class="csl-bib-meta">
+  <article id="abstract-article-PQ9WAYN5" class="abstract-article">
+    <h1>Samandrag</h1>
+    This article investigates the children’s TV programme "Sangfoni", with a focus on its intersecting aesthetic, pedagogical and sociocultural dimensions. Combining theories and methods from the fields of music education, critical musicology, and popular music studies, the author’s approach is interdisciplinary and places a particular emphasis on interpretation and audiovisual analysis. As a contribution to the burgeoning field of research into children’s audiovisual culture, the article attempts to clarify how the augmented reality that is presented in "Sangfoni" functions as a catalyst both for an aesthetic learning process and the exploration of identity. The significance of children’s audiovisual music experiences as a foundation for identity work is central. The audiovisual construction of gender identity receives particular attention, and the author argues that "Sangfoni" presents young viewers with a repertoire of symbolic expressions that can be incorporated in their own exploration of identity.
+  </article>
   <article id="contributors-article-PQ9WAYN5" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

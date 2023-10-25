@@ -1,5 +1,5 @@
 ---
-title: "7RA9GM7J"
+title: "Understanding scientific progress: the noetic account"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-7RA9GM7J" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1958895" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/7RA9GM7J" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-7RA9GM7J" class="csl-bib-button">Samandrag</a>
     <a href="#sdg-article-7RA9GM7J" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s11229-021-03289-z.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-7RA9GM7J"></div>
 </article>
 <div id="csl-bib-meta-7RA9GM7J" class="csl-bib-meta">
+  <article id="abstract-article-7RA9GM7J" class="abstract-article">
+    <h1>Samandrag</h1>
+    What is scientific progress? This paper advances an interpretation of this question, and an account that serves to answer it (thus interpreted). Roughly, the question is here understood to concern what type of cognitive change with respect to a topic X constitutes a scientific improvement (to a greater or lesser extent) with respect to X . The answer explored in the paper is that the requisite type of cognitive change occurs when scientific results are made publicly available so as to make it possible for anyone to increase their understanding of X . This account is briefly compared to two rival accounts of scientific progress, based respectively on increasing truthlikeness and accumulating knowledge, and is argued to be preferable to both.
+  </article>
   <article id="sdg-article-7RA9GM7J" class="sdg-article">
     <h1>Berekraftsmål</h1>
     <div class="sdg-container"><div id="sdg4" class="sdg">

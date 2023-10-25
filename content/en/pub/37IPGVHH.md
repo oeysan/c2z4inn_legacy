@@ -1,5 +1,5 @@
 ---
-title: "37IPGVHH"
+title: "Microrefuges and the occurrence of thermal specialists: implications for wildlife persistence amidst changing temperatures"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-37IPGVHH" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1664151" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/37IPGVHH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="https://climatechangeresponses.biomedcentral.com/track/pdf/10.1186/s40665-016-0021-4" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-37IPGVHH"></div>

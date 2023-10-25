@@ -1,5 +1,5 @@
 ---
-title: "VAKB8K6B"
+title: "Norwegian youngsters' perceptions of physical education: exploring the implications for mental health"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VAKB8K6B" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1707773" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VAKB8K6B" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-VAKB8K6B" class="csl-bib-button">Medverkande</a>
     <a href="https://chesterrep.openrepository.com/bitstream/10034/622613/4/PE%20and%20mental%20health%20in%20Norway%20FINAL%20VERSION%20100619.pdf" class="csl-bib-button">Unpaywall</a>
   </div>

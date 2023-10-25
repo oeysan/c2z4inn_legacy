@@ -1,5 +1,5 @@
 ---
-title: "GHPV3C6R"
+title: "Å gjøre «hørestyrke» til en mindre fortelling om barns språk"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GHPV3C6R" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2046624" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/GHPV3C6R" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-GHPV3C6R" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-GHPV3C6R" class="csl-bib-button">Contributors</a>
     <a href="https://nordiskbarnehageforskning.no/index.php/nbf/article/download/246/356" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-GHPV3C6R"></div>
 </article>
 <div id="csl-bib-meta-GHPV3C6R" class="csl-bib-meta">
+  <article id="abstract-article-GHPV3C6R" class="abstract-article">
+    <h1>Abstract</h1>
+    I boka Lyttende pedagogikk trekker Ann Åberg og Hillevi Lenz Taguchi (2006) hørestyrke fram som en del av en lyttende pedagogikk. I boka refereres det til Filip som omtaler hørestyrke som å høre nøye etter. Vi er inspirert av Filip og hans ide om hørestyrke for å undersøke tettere hva barns språk kan romme. Vi prøver ut «å gjøre hørestyrke » og spør hva det kan være. Vi er interessert i hva, hvor og hvordan «å gjøre hørestyrke» kan åpne for å lytte til hele kroppen, rytmer, tramp og lette bevegelser. I prosessen med å utforske potensial av hva «å gjøre hørestyrke » kan handle om, har vårt empiriske materiale vært en mobilfilm av et barn som utforsker en kjøkkentrapp ute, samt utvalgte stillbilder, samlet inn via en mobiltelefon. Med spesiell interesse for hvordan kropper, vitalitet, bevegelser, lyd og rytme kommer fram gjennom mobilfilmen, bruker vi begrepene til Deleuze og Guattari; et mindre språk, maskineri og territorier (1994) som analyseverktøy. Begrepene brukes som mulige inspirasjoner til å undersøke det «å gjøre hørestyrke». Et av potensialene til «å gjøre hørestyrke» kan være «emergent lytting» (Davies, 2014) der også taushet og det mer-enn-menneskelige fenomenet gis verdi. Drøftingen kommer fram innunder overskriftene territorium, fellesskap som vitalitetskraft og det stille tause.  ENGLISH ABSTRACT Exercising ‘strong listening’ towards a minor story of children’s languageIn the book ‘Lyttende pedagogikk’/Pedagogy of listening by Ann Åberg and Hillevi Lenz Taguchi (2006) it is suggested ‘strong listening’ (hørestyrke) as a part of pedagogy of listening. The book describes the voice of the child Filip who says that ‘strong listening’ is about listening carefully. Inspired by Filip and his idea of ‘strong listening’, we try to investigate what children’s language can offer. By exercising ‘strong listening’ and ask what it could be, our interest is to question what, where and how ‘strong listening’ can open for listening to the whole body, rhythms and movements. In the process of exploring the potentials of ‘strong listening’, our empirical material has been a mobile film of a child exploring a step ladder outside, as well as selected still images collected via a mobile phone. With special interest of how bodies, vitalities, movements, sounds, and rhythms emerge through the mobile film, we use the concepts of Deleuze and Guattari; a minor language, machines, and territories (1994) as analytical tools. The concepts are used as possible inspirations to examine the ‘strong listening’. One of the potentials of ‘strong listening’ can be ‘emergent listening’ (Davies, 2014) where silence and the more-than-human also are given value. The discussions in the article are presented under the headings ‘Territorium/territories’, ‘Fellesskap som vitalitetskraft/collectivness as vitalities’ and ‘Det stille tause/the silent silence. 
+  </article>
   <article id="contributors-article-GHPV3C6R" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

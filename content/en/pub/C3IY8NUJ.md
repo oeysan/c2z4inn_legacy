@@ -1,5 +1,5 @@
 ---
-title: "C3IY8NUJ"
+title: "Personer med demens kan ha nytte av kognitiv atferdsterapi"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,27 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-C3IY8NUJ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1515255" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/C3IY8NUJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-C3IY8NUJ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-C3IY8NUJ" class="csl-bib-button">Contributors</a>
     <a href="https://static.sykepleien.no/sites/default/files/pdf-export/pdf-export-63874.pdf?c=1510846162" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-C3IY8NUJ"></div>
 </article>
 <div id="csl-bib-meta-C3IY8NUJ" class="csl-bib-meta">
+  <article id="abstract-article-C3IY8NUJ" class="abstract-article">
+    <h1>Abstract</h1>
+    Bakgrunn: Studier viser at psykoterapi kan bidra til å bevare funksjonsnivå og livskvalitet hos personer med demens. 
+ 
+Hensikt: Denne casestudien er en del av KORDIAL-studien. Hensikten med denne randomiserte kontrollerte intervensjonsstudien, var å vurdere hvordan en intervensjon påvirket deltakernes hverdagsliv og livskvalitet. Videre ønsker vi å beskrive samhandlingen mellom deltakerne og terapeuten. 
+ 
+Metode: Intervensjonen var basert på kognitiv atferdsterapi som fokuserte på meningsfylte aktiviteter for å modifisere depresjon, hukommelseshjelpemidler og reminisens. Intervensjonen besto av elleve ukentlige møter. Vi førte loggnotater fra hvert møte. Loggnotatene ble analysert etter prinsippene som er formulert i Graneheim og Lundmans kvalitative innholdsanalyse. 
+ 
+Resultat: Den ene personen forsto ikke hensikten med intervensjonen og klarte dermed ikke å gjøre nytte av verktøyene. Den andre var motivert for å lære og erfarte hva hun kunne gjøre for å ha en meningsfylt hverdag, noe som blant annet bidro til at hun var mindre nedstemt. 
+ 
+Konklusjon: Sykdomsinnsikt og motivasjon er faktorer som må vurderes ved valg av terapeutisk tilnærming overfor personer med demens i tidlig sykdomsfase. Den ene personen hadde muligens hatt bedre utbytte av en annen tilnærming. For den andre personen hadde intervensjonen god innvirkning på hverdagsliv og livskvalitet. Pårørendes deltakelse syntes å være positiv og til støtte for personen med demens
+  </article>
   <article id="contributors-article-C3IY8NUJ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

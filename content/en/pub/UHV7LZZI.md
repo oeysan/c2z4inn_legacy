@@ -1,5 +1,5 @@
 ---
-title: "UHV7LZZI"
+title: "Does regular strength training cause urinary incontinence in overweight inactive women? A randomized controlled trial"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UHV7LZZI" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1902748" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/UHV7LZZI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-UHV7LZZI" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-UHV7LZZI" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-UHV7LZZI" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s00192-021-04739-5.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,20 @@ type: pub
   <div id="csl-bib-meta-container-UHV7LZZI"></div>
 </article>
 <div id="csl-bib-meta-UHV7LZZI" class="csl-bib-meta">
+  <article id="abstract-article-UHV7LZZI" class="abstract-article">
+    <h1>Abstract</h1>
+    Introduction and hypothesis: 
+Urinary incontinence (UI) is common in women who exercise. We aimed to investigate new onset UI in formerly inactive, overweight or obese women (BMI &gt; 25) participating in three different strength training modalities compared with a non-exercising control group. 
+ 
+Methods: 
+This was a secondary analysis of an assessor blinded randomized controlled trial investigating the effect of 12 weeks of three strength training concepts for women on muscle strength and body composition. None of the programs included pelvic floor muscle training. International Consensus on Incontinence Questionnaire Urinary Incontinence Short Form (ICIQ-UI-SF) was used to investigate primary outcome; new onset UI, and secondary outcome; ICIQ-UI-SF sum score. Suissa and Shuster’s exact unconditional test was used to analyze difference in new onset UI. Difference in ICIQ-UI-SF sum score is presented as mean with 95% CI. 
+ 
+Results: 
+At baseline 40 out of 128 (31.2%) participants reported UI. Three out of 27, 2 out of 17, 2 out of 23, and 0 out of 21 women in the three training and control groups respectively had new onset UI. There were no statistically significant differences in new onset UI across the groups or when collapsing new onset UI in the intervention groups compared with the controls (7 out of 67 vs 0 out of 21), p = 0.124. After the intervention the control group reported worse ICIQ-UI-SF sum score than any of the training groups; mean difference − 6.6 (95% CI: −11.9, −1.27), p = 0.012, but there was no difference in change from baseline to 12 weeks between the groups p = 0.145). 
+ 
+Conclusions: 
+There was no statistically significant change in UI after strength training.
+  </article>
   <article id="contributors-article-UHV7LZZI" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

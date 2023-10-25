@@ -1,5 +1,5 @@
 ---
-title: "SC34BUS7"
+title: "Heat suit training increases hemoglobin mass in elite cross‐country skiers"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SC34BUS7" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2023574" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/SC34BUS7" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-SC34BUS7" class="csl-bib-button">Medverkande</a>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9544462" class="csl-bib-button">Unpaywall</a>
   </div>

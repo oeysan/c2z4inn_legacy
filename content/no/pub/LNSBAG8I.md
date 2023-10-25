@@ -1,5 +1,5 @@
 ---
-title: "LNSBAG8I"
+title: "Contract interpretation in investment treaty arbitration: a theory of the incidental issue"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LNSBAG8I" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1982961" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LNSBAG8I" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-LNSBAG8I" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-LNSBAG8I" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-LNSBAG8I" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-LNSBAG8I"></div>
 </article>
 <div id="csl-bib-meta-LNSBAG8I" class="csl-bib-meta">
+  <article id="abstract-article-LNSBAG8I" class="abstract-article">
+    <h1>Samandrag</h1>
+    Contracts are relevant, frequently central, for a significant number of investment disputes. Yet, the way tribunals ascertain their content remains largely underexplored. How do tribunals interpret contracts in investment treaty arbitration? How should they interpret contracts? Does national law have any role to play? Contract Interpretation in Investment Treaty Arbitration: A Theory of the Incidental Issue addresses these questions. The monograph offers a valuable insight into the practice and theory of contract interpretation in investment treaty arbitration. By proposing a theoretical frame for seamless integration of contract interpretation into the overall structure of decision-making, the book contributes to predictability, coherence, sufficiency and correctness of the tribunals’ interpretative practices in investment treaty arbitration.
+  </article>
   <article id="contributors-article-LNSBAG8I" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

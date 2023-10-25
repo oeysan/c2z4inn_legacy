@@ -1,5 +1,5 @@
 ---
-title: "YTXL75F8"
+title: "Research-based occupational therapy education: An exploration of students’ and faculty members’ experiences and perceptions"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YTXL75F8" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1862810" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/YTXL75F8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-YTXL75F8" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-YTXL75F8" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-YTXL75F8" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0243544&amp;type=printable" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-YTXL75F8"></div>
 </article>
 <div id="csl-bib-meta-YTXL75F8" class="csl-bib-meta">
+  <article id="abstract-article-YTXL75F8" class="abstract-article">
+    <h1>Samandrag</h1>
+    IntroductionOne argument for introducing research in bachelor`s degree in health care is to ensure the quality of future health care delivery. The requirements for research-based education have increased, and research on how research-based education is experienced is limited, especially in bachelor health care education programmes. The aim of this study was to explore how occupational therapy students and faculty members experienced and perceived research-based education. MethodsThis qualitative, interpretative description consisted of three focus group interviews with occupational therapy students in their final year (n = 8, 6 and 4), and three focus group interviews with faculty members affiliated with occupational therapy programmes in Norway (n = 5, 2 and 5). Interviewing both students and faculty members enabled us to explore the differences in their experiences and perceptions. ResultsFive integrative themes emerged from the analysis: “introducing research early”, “setting higher expectations”, “ensuring competence in research methods”, “having role models” and “providing future best practice”. Research was described as an important aspect of the occupational therapy bachelor program as it helps ensure that students achieve the necessary competence for offering future best practice. Students expressed a need to be introduced to research early in the program, and they preferred to have higher expectations regarding use of research. Competence in research methods and the importance of role models were also highlighted. ConclusionsUndergraduate health care students are expected to be competent in using research. Findings from our study demonstrated that the participants perceived the use of research during training as important to ensure future best practice. Increasing the focus on research in the programme’s curricula and efforts to improve students’ formal training in research-specific skills could be a starting point towards increased use of research in the occupational therapy profession.
+  </article>
   <article id="contributors-article-YTXL75F8" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

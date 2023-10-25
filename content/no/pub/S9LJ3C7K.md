@@ -1,5 +1,5 @@
 ---
-title: "S9LJ3C7K"
+title: "DNA methylation patterns vary in boar sperm cells with different levels of DNA fragmentation"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-S9LJ3C7K" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1752895" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/S9LJ3C7K" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-S9LJ3C7K" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-S9LJ3C7K" class="csl-bib-button">Medverkande</a>
     <a href="https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-019-6307-8" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-S9LJ3C7K"></div>
 </article>
 <div id="csl-bib-meta-S9LJ3C7K" class="csl-bib-meta">
+  <article id="abstract-article-S9LJ3C7K" class="abstract-article">
+    <h1>Samandrag</h1>
+    BackgroundSperm DNA integrity is considered essential for successful transmission of the paternal genome, fertilization and normal embryo development. DNA fragmentation index (DFI, %) has become a key parameter in the swine artificial insemination industry to assess sperm DNA integrity. Recently, in some elite Norwegian Landrace boars (boars with excellent field fertility records), a higher level of sperm DFI has been observed. In order to obtain a better understanding of this, and to study the complexity of sperm DNA integrity, liquid preserved semen samples from elite boars with contrasting DFI levels were examined for protamine deficiency, thiol profile and disulphide bonds. Additionally, the DNA methylation profiles of the samples were determined by reduced representation bisulphite sequencing (RRBS). Results In this study, different traits related to sperm DNA integrity were investigated ( n  = 18 ejaculates). Upon liquid storage, the levels of total thiols and disulphide bonds decreased significantly, while the DFI and protamine deficiency level increased significantly. The RRBS results revealed similar global patterns of low methylation from semen samples with different levels of DFI (low, medium and high). Differential methylation analyses indicated that the number of differentially methylated cytosines (DMCs) increased in the low-high compared to the low-medium and the medium-high DFI groups. Annotating the DMCs with gene and CpG features revealed clear differences between DFI groups. In addition, the number of annotated transcription starting sites (TSS) and associated pathways in the low-high comparison was greater than the other two groups. Pathway analysis showed that genes (based on the closest TSS to DMCs) corresponding to low-high DFI comparison were associated with important processes such as membrane function, metabolic cascade and antioxidant defence system. ConclusionTo our knowledge, this is the first study evaluating DNA methylation in boar sperm cells with different levels of DFI. The present study shows that sperm cells with varying levels of DNA fragmentation exhibit similar global methylation, but different site-specific DNA methylation signatures. Moreover, with increasing DNA fragmentation in spermatozoa, there is an increase in the number of potentially affected downstream genes and their respective regulatory pathways.
+  </article>
   <article id="contributors-article-S9LJ3C7K" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "9DHDPK83"
+title: "Creating or Destructing Value in Use? Handling Cognitive Impairments in Co-Creation with Serious and Chronically Ill Users"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9DHDPK83" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1889942" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/9DHDPK83" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-9DHDPK83" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-9DHDPK83" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-9DHDPK83" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.mdpi.com/2076-3387/11/1/16/pdf?version=1613389524" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-9DHDPK83"></div>
 </article>
 <div id="csl-bib-meta-9DHDPK83" class="csl-bib-meta">
+  <article id="abstract-article-9DHDPK83" class="abstract-article">
+    <h1>Abstract</h1>
+    Theoretically based on public service logic (PSL), this article addresses how users’ cognitive impairments can affect co-creation processes and value outcomes in a public sector environment, and how the service providers can handle this issue. It directs attention to value creation in the context of vulnerable and unwilling service users and contributes to understanding how cognitive gaps between public health care services and users inhibit value co-creation. Based on qualitative interview data, findings substantiate that cognitive impairments reduce the users’ health literacy and therefore affect both their ability and willingness to participate in co-creation. The study recognizes that there is a built-in asymmetry between the involved actors and that failing to reduce this asymmetry through adequate facilitation by the service providers, can result in co-destruction of value in use. It is acknowledged that the users might not be cognitively able to determine whether they actually come better or worse off in the end. Therefore, it is suggested that the service provider might need to play a larger role in determining what is positive or negative value in use. Hence, this article adds to PSL by clearly emphasizing the key role played by public service organizations (PSOs) in facilitating the value creation process, which takes place during service delivery.
+  </article>
   <article id="contributors-article-9DHDPK83" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

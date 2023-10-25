@@ -1,5 +1,5 @@
 ---
-title: "VZL9XJ2B"
+title: "The Refugee Crisis and the EU Border Security Policies"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-VZL9XJ2B" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1836332" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/VZL9XJ2B" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-3-030-51791-5_26" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-VZL9XJ2B"></div>

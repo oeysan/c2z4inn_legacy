@@ -1,5 +1,5 @@
 ---
-title: "FG5T6IYS"
+title: "Rainfall variability over Malawi during the late 19th century: RAINFALL VARIABILITY OVER MALAWI DURING THE LATE 19TH CENTURY"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,14 +9,20 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FG5T6IYS" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1603310" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/FG5T6IYS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-FG5T6IYS" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-FG5T6IYS" class="csl-bib-button">Medverkande</a>
     <a href="https://cris.brighton.ac.uk/ws/files/475111/Malawi%2017-R1%20Clean%20version%20(1).pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-FG5T6IYS"></div>
 </article>
 <div id="csl-bib-meta-FG5T6IYS" class="csl-bib-meta">
+  <article id="abstract-article-FG5T6IYS" class="abstract-article">
+    <h1>Samandrag</h1>
+    Establishing long-term records of rainfall variability is essential for understanding changes in the magnitude 
+and frequency of extreme events. The need is particularly pressing for much of Africa, where the instrumental meteorological record rarely stretches back beyond the early 20th century. This study extends the rainfall record for present-day Malawi back to the mid-19th century through the analysis of historical documentary materials from British and African archives. Textual evidence within documents is used to construct a semi-quantitative chronology of rainfall variability spanning the period 1858–1900. Widespread and severe droughts are identied during the austral summer rainy seasons of 1861–1863, 1877–1879, 1885–1888, and 1892–1894, and two unusually wet periods in 1889–1892 and 1894–1898. Instrumental rainfall data from Cape Maclear, Bandawe, and Kaningina spanning the period 1876–1880 – the earliest so far discovered for Malawi – are compared with nearby long-term records from the Global Historical Climatology Network database. These analyses conrm the classications for the equivalent years in the semi-quantitative chronology. The results of this study are considered alongside other annually resolved rainfall reconstructions for the southern African summer rainfall zone to assess the spatial extent of late 19th century drought and wetter episodes and to explore the distribution of teleconnections arising from historical El Niño events. The very strong 1877 El Niño event was associated with drought from northern Malawi to the Eastern Cape. In contrast, drier conditions during the strong 1885 El Niño extended from Malawi as far south as the southern Kalahari, with Lesotho and KwaZulu-Natal experiencing relatively wet conditions. The very strong 1891 El Niño was associated with very wet conditions from Malawi to KwaZulu-Natal. In contrast, wetter conditions only extended as far south as Zimbabwe following the moderate 1896 El Niño. The study concludes with suggestions on how to extend historical climate information for the region.
+  </article>
   <article id="contributors-article-FG5T6IYS" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

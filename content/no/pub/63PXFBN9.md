@@ -1,5 +1,5 @@
 ---
-title: "63PXFBN9"
+title: "On Popular Music and Its Unruly Entanglements"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,18 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-63PXFBN9" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1729361" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/63PXFBN9" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-63PXFBN9" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-63PXFBN9" class="csl-bib-button">Medverkande</a>
   </div>
   <div id="csl-bib-meta-container-63PXFBN9"></div>
 </article>
 <div id="csl-bib-meta-63PXFBN9" class="csl-bib-meta">
+  <article id="abstract-article-63PXFBN9" class="abstract-article">
+    <h1>Samandrag</h1>
+    On Popular Music and Its Unruly Entanglements comprises eleven essays that explore the myriad ways in which popular music is entwined within social, cultural, musical, historical, and media networks. The authors discuss genres as diverse as mainstream pop, hip hop, classic rock, instrumental synthwave, video game music, amateur ukelele groups, and audiovisual remixes, while also considering the music’s relationship to technological developments, various media and material(itie)s, and personal and social identity. The collection presents a range of different methodologies and theoretical positions, which results in an eclecticism that aptly demonstrates the breadth of contemporary popular music research. The chapters are divided into three major sections that address: wider theoretical and analytical issues (“Broad Strokes”), familiar repertoire or concepts from a new perspective (“Second Takes”), and the meanings to arise from music’s connections with other media forms (“Audiovisual Entanglements”).
+  </article>
   <article id="contributors-article-63PXFBN9" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

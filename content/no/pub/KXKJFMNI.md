@@ -1,5 +1,5 @@
 ---
-title: "KXKJFMNI"
+title: "African and Afro-Brazilian Cultural Themes as Possible Paths Towards Decolonizing English as a Foreign Language Education"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KXKJFMNI" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2127919" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KXKJFMNI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-KXKJFMNI" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.4324/9781003332336-17" class="csl-bib-button">EZproxy</a>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: "XHDMN8U8"
+title: "Explaining variance in health literacy among people with type 2 diabetes: the association between health literacy and health behaviour and empowerment"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XHDMN8U8" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1790627" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/XHDMN8U8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-XHDMN8U8" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-XHDMN8U8" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-XHDMN8U8" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-020-8274-z" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-XHDMN8U8"></div>
 </article>
 <div id="csl-bib-meta-XHDMN8U8" class="csl-bib-meta">
+  <article id="abstract-article-XHDMN8U8" class="abstract-article">
+    <h1>Samandrag</h1>
+    BackgroundTo reflect the health literacy (HL) skills needed for managing type 2 diabetes (T2DM) in everyday life, HL in people with T2DM should be measured from a broader perspective than basic skills, such as proficiency in reading and writing. The HLS-Q12, based on the European Health Literacy Survey Questionnaire (HLS-EU-Q47), assesses four cognitive domains across three health domains. International studies on people with T2DM show inconsistent results regarding the association between HL and general health and the association between HL and glycaemic control. Moreover, knowledge is needed related to the link between HL and empowerment for those with T2DM. The aims of this study were to examine the association between i) HL and general health and diabetes outcomes, ii) HL and health behaviours and iii) HL and empowerment in people with T2DM. MethodsDuring March and April 2015, 388 adults with T2DM responded to a paper-and-pencil self-administered questionnaire. A sequential multiple regression analysis was applied to explore the association between HL, as measured by the HLS-Q12, and health conditions, HbA1c, health behaviours and empowerment. ResultsFor people with T2DM, higher levels of HL were associated with higher levels of education, better overall health conditions and higher self-perceived empowerment. No empirical evidence strengthening either the link between HL and glycaemic control or the link between HL and health behaviours was found. ConclusionsThe independent variables education level, overall health condition and empowerment explained about one-third of the total observed variance in HL.
+  </article>
   <article id="contributors-article-XHDMN8U8" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

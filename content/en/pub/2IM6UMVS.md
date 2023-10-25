@@ -1,5 +1,5 @@
 ---
-title: "2IM6UMVS"
+title: "Organotins in obesity and associated metabolic disturbances"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-2IM6UMVS" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1677106" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/2IM6UMVS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-2IM6UMVS" class="csl-bib-button">Abstract</a>
     <a href="#sdg-article-2IM6UMVS" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1016/j.jinorgbio.2018.11.002" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-2IM6UMVS"></div>
 </article>
 <div id="csl-bib-meta-2IM6UMVS" class="csl-bib-meta">
+  <article id="abstract-article-2IM6UMVS" class="abstract-article">
+    <h1>Abstract</h1>
+    The objective of the present study was to review the mechanisms of organotin-induced adipogenesis, obesity, and associated metabolic disturbances. Peroxisome proliferator-activated receptor γ (PPARγ) and retinoid X receptor α (RXRα) activation is considered as the key mechanism of organotin-induced adipogenesis. Particularly, organotin exposure results in increased adipogenesis both in cell and animal models. Moreover, transgenerational inheritance of organotin-induced obese phenotype was demonstrated in vivo. At the same time, the existing data demonstrate that organotin compounds (OTCs) induces aberrant expression of PPARγ-targeted genes, resulting in altered of adipokine, glucose transporter, proinflammatory cytokines levels, and lipid and carbohydrate metabolism. The latter is generally characterized by hyperglycemia and insulin resistance. Other mechanisms involved in organotin-induced obesity may include estrogen receptor and corticosteroid signaling, altered DNA methylation, and gut dysfunction. In addition to cellular effects, organotin exposure may also affect neural circuits of appetite regulation, being characterized by neuropeptide Y (NPY) up-regulation in parallel with of pro-opiomelanocortin (POMC), Agouti-related protein (AgRP), and cocaine and amphetamine regulated transcript (CART) down-regulation in the arcuate nucleus. These changes result in increased orexigenic and reduced anorexigenic signaling, leading to increased food intake. The existing data demonstrate that organotins are potent adipogenic agents, however, no epidemiologic studies have been performed to reveal the association between organotin exposure and obesity and the existing indirect human data are contradictory.
+  </article>
   <article id="sdg-article-2IM6UMVS" class="sdg-article">
     <h1>Sustainable Development Goals</h1>
     <div class="sdg-container"><div id="sdg3" class="sdg">

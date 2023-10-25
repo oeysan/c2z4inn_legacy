@@ -1,5 +1,5 @@
 ---
-title: "6FFPLBBK"
+title: "Service User Experiences of How Flexible Assertive Community Treatment May Support or Inhibit Citizenship: A Qualitative Study"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-6FFPLBBK" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1937453" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/6FFPLBBK" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-6FFPLBBK" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-6FFPLBBK" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-6FFPLBBK" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.727013/pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-6FFPLBBK"></div>
 </article>
 <div id="csl-bib-meta-6FFPLBBK" class="csl-bib-meta">
+  <article id="abstract-article-6FFPLBBK" class="abstract-article">
+    <h1>Samandrag</h1>
+    The aim of this study was to explore and describe service user experiences of how receiving services from a Flexible Assertive Community Treatment (FACT) team may support or inhibit citizenship. Within a participatory design, individual interviews with 32 service users from five Norwegian FACT teams were analyzed using thematic, cross-sectional analysis. The findings showed that FACT may support citizenship by relating to service users as whole people, facilitating empowerment and involvement, and providing practical and accessible help. Experiences of coercion, limited involvement and authoritarian aspects of the system surrounding FACT had inhibited citizenship for participants in this study.
+  </article>
   <article id="contributors-article-6FFPLBBK" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "BRWD2LTD"
+title: "Young people’s experiences and meaning-making at a multicultural festival in Norway"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BRWD2LTD" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1903825" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/BRWD2LTD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-BRWD2LTD" class="csl-bib-button">Medverkande</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/17400201.2021.1911792?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>

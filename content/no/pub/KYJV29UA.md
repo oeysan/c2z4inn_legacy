@@ -1,5 +1,5 @@
 ---
-title: "KYJV29UA"
+title: "Barnehagelærere med masterutdanning – potensial for å styrke profesjonen og ivareta barnehagens samfunnsmandat?"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,13 +9,25 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KYJV29UA" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1587066" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/KYJV29UA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-KYJV29UA" class="csl-bib-button">Samandrag</a>
     <a href="https://pedagogikkogkritikk.no/index.php/ntpk/article/download/720/2567" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-KYJV29UA"></div>
 </article>
 <div id="csl-bib-meta-KYJV29UA" class="csl-bib-meta">
+  <article id="abstract-article-KYJV29UA" class="abstract-article">
+    <h1>Samandrag</h1>
+    Stadig flere barnehagelærere i Norge har masterutdanning, til tross for at det ikke stilles krav om 
+slik kompetanse og det heller ikke er gitt at kompetansen verdsettes. Det finnes liten, eller ingen, 
+systematisk kunnskap om hva barnehagelærere med masterutdanning gjør etter avsluttet studium, 
+og hva de kan tilføre barnehagen. I denne artikkelen presenteres nye innsikter om dette. 
+Utgangspunktet for diskusjonen som føres, er 33 barnehagelæreres svar på et semistrukturert 
+spørreskjema om hva masterutdanningen har betydd for deres karrierevei, og om kompetansen 
+anerkjennes og kommer barnehagen til gode. Konklusjonen er at det er mange tilfeldigheter og 
+store variasjoner i hvorvidt potensialet kompetansen kan representere, utnyttes.
+  </article>
   <article id="taxonomy-article-KYJV29UA" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>

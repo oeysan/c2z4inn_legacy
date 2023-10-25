@@ -1,5 +1,5 @@
 ---
-title: "LS6YMCDH"
+title: "Russian timber industry in the 1920s: on the short history of Russnorvegoles"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-LS6YMCDH" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1468729" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/LS6YMCDH" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-LS6YMCDH" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-LS6YMCDH" class="csl-bib-button">Contributors</a>
     <a href="https://munin.uit.no/bitstream/10037/13129/2/article.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LS6YMCDH"></div>
 </article>
 <div id="csl-bib-meta-LS6YMCDH" class="csl-bib-meta">
+  <article id="abstract-article-LS6YMCDH" class="abstract-article">
+    <h1>Abstract</h1>
+    After the Russian Revolution, with civil war and interventions, war communism (1918–1921) led to a period of great economic difficulties in Russia. The New Economic Policy was the solution, and concessions offered to Western business interests were a part of it. In the timber industry of the 1920s, the jointly Western and Soviet controlled company Russnorvegoles was an important concession. The majority of the Western interests were Norwegian, and the company was registered as a Norwegian limited liability company with seat in Oslo. The four-and-a-half-year history, involving Western interests in the operations of Russnorvegoles, is both interesting and dramatic. Profitability was undermined, and intricate currency arrangements played a significant role during the last eighteen months in which Western interests were involved. The prominent Norwegian fascist politicians Quisling and Prytz were both involved, and the latter emerged a wealthy man. Living on his means for some years following 1928, he contributed financially to the formation in 1933 of a Norwegian Nazi party (Nasjonal Samling/National Reunion). This dimension of Norwegian political history demonstrates the role that Russnorvegoles played beyond the timber industry.
+  </article>
   <article id="contributors-article-LS6YMCDH" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

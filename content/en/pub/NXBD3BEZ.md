@@ -1,5 +1,5 @@
 ---
-title: "NXBD3BEZ"
+title: "Patterns and correlates of physical activity in adult Norwegians: a forecasted evolution up to 2025 based on machine learning approach"
 type: pub
 ---
 <h1>Publication</h1>
@@ -9,14 +9,19 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NXBD3BEZ" class="csl-bib-button">Archive</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1598789" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/NXBD3BEZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-NXBD3BEZ" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-NXBD3BEZ" class="csl-bib-button">Contributors</a>
     <a href="https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-018-5854-2" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-NXBD3BEZ"></div>
 </article>
 <div id="csl-bib-meta-NXBD3BEZ" class="csl-bib-meta">
+  <article id="abstract-article-NXBD3BEZ" class="abstract-article">
+    <h1>Abstract</h1>
+    Background - As other westerns countries, a large portion of Norwegians do not meet the minimum recommendations for weekly physical activity (PA). One of the primary targets of the WHO’s Global action plan for the prevention and control of noncommunicable diseases is to reduce insufficient PA by 10% within 2025. In order to effectively increase the PA levels in the population, an in-depth understanding of PA habits within different sub-groups is therefore vital. Using a machine learning (ML) approach, the aim of this study was to investigate patterns and correlates of PA in adult Norwegians, as well as to construct a predictive model of future PA. Methods - Data were retrieved from the Norsk Monitor survey, which consists of about 3000 items on individual characteristics and sociocultural factors. The dataset contained information about 52,477 adult Norwegians, collected between 1985 and 2013. Past patterns and changes of three PA components (Frequency, Duration, and Intensity) were initially assessed using a series of ANOVAs. A Conditional Mutual Information Maximization Method and a recursive feature elimination with cross-validation were then used to examine the factors associated with such patterns and changes. Finally, the future evolution of the three PA components up to 2025 was predicted using an autoregressive model. Results - In line with previous literature, the analysis of the PA patterns showed a progressive increment of the PA Frequency (which was greater in women), while the PA Duration and Intensity (which were in general higher among men) resulted fairly stable. The PA correlates identified by the ML analysis, which include men and women of different age groups, are presented and discussed. The autoregressive model predicted a general increment of the PA Frequency and PA Intensity by 2025, while the PA Duration is predicted to reduce. Different patterns emerged among the different sub-groups, overall suggesting smaller increments of PA in men and older individuals, as compared to women and younger individuals. Conclusions - The findings of this study can inform public health efforts that aim at increasing PA levels in specific target groups. The ML approach is proposed as a useful tool in public health monitoring and assurance.
+  </article>
   <article id="contributors-article-NXBD3BEZ" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas">

@@ -1,5 +1,5 @@
 ---
-title: "M7WXPGLS"
+title: "Migrating rituals: negotiations of belonging and otherness among Tamils in Norway"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,8 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-M7WXPGLS" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1516490" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/M7WXPGLS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-M7WXPGLS" class="csl-bib-button">Medverkande</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1080/1369183X.2017.1389026" class="csl-bib-button">EZproxy</a>
   </div>

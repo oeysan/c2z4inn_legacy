@@ -1,5 +1,5 @@
 ---
-title: "BQDPNRMU"
+title: "Displacement Effects of Conservation Grazing on Red Deer (Cervus elaphus) Spatial Behaviour"
 type: pub
 ---
 <h1>Publikasjon</h1>
@@ -9,8 +9,9 @@ type: pub
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BQDPNRMU" class="csl-bib-button">Arkiv</a>
-    <a href alt="Cristin URL" class="csl-bib-button">Cristin</a>
-    <a href alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2048634" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5022929/items/BQDPNRMU" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-BQDPNRMU" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-BQDPNRMU" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-BQDPNRMU" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s00267-022-01697-6.pdf" class="csl-bib-button">Unpaywall</a>
@@ -18,6 +19,10 @@ type: pub
   <div id="csl-bib-meta-container-BQDPNRMU"></div>
 </article>
 <div id="csl-bib-meta-BQDPNRMU" class="csl-bib-meta">
+  <article id="abstract-article-BQDPNRMU" class="abstract-article">
+    <h1>Samandrag</h1>
+    Conservation grazing uses semi-feral or domesticated herbivores to limit encroachment in open areas and to promote biodiversity. However, we are still unaware of its effects on wild herbivores. This study investigates the influence of herded sheep and goats on red deer ( Cervus elaphus ) spatial behavior by testing three a-priori hypotheses: (i) red deer are expected to avoid areas used by livestock, as well as adjacent areas, when livestock are present, albeit (ii) red deer increase the use of these areas when sheep and goats are temporarily absent and (iii) there is a time-lagged disruption in red deer spatial behavior when conservation grazing practice ends. Using GPS-telemetry data on red deer from a German heathland area, we modelled their use of areas grazed by sheep and goats, using mixed-effect logistic regression. Additionally, we developed seasonal resource selection functions (use-availability design) to depict habitat selection by red deer before, during, and after conservation grazing. Red deer used areas less during conservation grazing throughout all times of the day and there was no compensatory use during nighttime. This effect mostly persisted within 21 days after conservation grazing. Effects on habitat selection of red deer were detectable up to 3000 meters away from the conservation grazing sites, with no signs of either habituation or adaption. For the first time, we demonstrate that conservation grazing can affect the spatio-temporal behavior of wild herbivores. Our findings are relevant for optimizing landscape and wildlife management when conservation grazing is used in areas where wild herbivores are present.
+  </article>
   <article id="contributors-article-BQDPNRMU" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
