@@ -16,11 +16,11 @@ project.
  * [Chart.js](https://www.chartjs.org/) charting library
  * i18n (currently Norwegian and English)
 
-# Versioning (0.1.6)
+# Versioning (0.2.0)
 
 The theme uses a semantic versioning (Major.Minor.Patch), where breaking changes
 may occur at both new major and minor versions but not with patches. Thus, Hugo
-will throw an error if the version in `config.yaml` does not equal 0.1.x. 
+will throw an error if the version in `config.yaml` does not equal 0.2.x. 
 
 ## Limitations
 

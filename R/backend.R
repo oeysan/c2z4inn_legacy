@@ -21,6 +21,10 @@ headless <- file.path(r.folder, "headless.Rmd")
 about.no <- file.path(r.folder, "about_no.Rmd")
 # Define about.en Rmd
 about.en <- file.path(r.folder, "about_en.Rmd")
+# Define stats_no Rmd
+stats.no <- file.path(r.folder, "stats_no.Rmd")
+# Define stats_no Rmd
+stats.en <- file.path(r.folder, "stats_en.Rmd")
 # Define zotero
 zotero <- c2z::Zotero(
   user = FALSE,
@@ -45,6 +49,366 @@ items <<- readRDS(file.path(local.storage, "items.rds"))
 ################################################################################
 ###############################Internal Functions###############################
 ################################################################################
+
+#' @title UnitNames
+#' @keywords internal
+#' @noRd
+UnitNames <- \(unit.paths) {
+  
+  names <- c(
+    "inn",
+    "adm",
+    "dnf",
+    "alb",
+    "bio",
+    "jor",
+    "sou",
+    "amek",
+    "ffv",
+    "spu",
+    "tvu",
+    "hsv",
+    "foi",
+    "hos",
+    "sov",
+    "lup",
+    "eng",
+    "kok",
+    "mnk",
+    "nol",
+    "pvl",
+    "ped",
+    "sre",
+    "sell-lup",
+    "sepu",
+    "hhs",
+    "ols",
+    "psy",
+    "rom",
+    "rfi",
+    "oko",
+    "sell-hhs",
+    "ost"
+  )
+  
+  unit.paths |>
+    dplyr::mutate(acronym  = names)
+}
+
+#' @title Dict
+#' @keywords internal
+#' @noRd
+i18n.no <- readr::read_csv(
+  file.path(r.folder, "i18n", "no.csv"), 
+  col_types = readr::cols()
+)
+i18n.en <- readr::read_csv(
+  file.path(r.folder, "i18n", "en.csv"), 
+  col_types = readr::cols()
+)
+Dict <- \(x = NULL,
+          lang = "no",
+          count = 1,
+          to.lower = FALSE,
+          prefix = FALSE,
+          error = NULL,
+          i18n = NULL) {
+  i18n <- if (lang == "no") i18n.no else i18n.en
+  c2z4uni:::Dict(x, lang, count, to.lower, prefix, error, i18n)
+}
+
+#' @title SdgData
+#' @keywords internal
+#' @noRd
+SdgSum <- \(x, data, sdg.data = NULL, split = NULL, total = FALSE) {
+  
+  # Visible bindings
+  sdg.sum <- n.publications <- names <- NULL
+  
+  unit.data <- data |>
+    dplyr::filter(grepl(x, collections)) |>
+    list()
+
+  if (!is.null(split)) {
+    names <- names(table(unit.data[[1]][, split]))
+    unit.data <- unit.data[[1]] |>
+      dplyr::group_split(!!ensym(split))
+  }
+  
+  if (any(nrow(sdg.data$sdg))) { 
+    sdg.sum <- lapply(unit.data, \(x) {
+      sdg <- sdg.data$sdg |> 
+        dplyr::semi_join(x, by = "key") |>
+        c2z4uni:::SdgCutoff()
+      if (total) sdg$sum <- sum(sdg$sum)
+      return (sdg$sum)
+    })
+    if (total) sdg.sum <- unlist(sdg.sum)
+  }
+  
+  if (is.list(sdg.sum) & length(sdg.sum) == 1) {
+    sdg.sum <- unlist(sdg.sum)
+  }
+  
+  n.publications <- unlist(lapply(unit.data, nrow))
+
+  return.list <- list(
+    sdg.sum = sdg.sum,
+    n.publications = n.publications,
+    names = names
+  )
+  
+  return (return.list)
+}
+
+#' @title Stats
+#' @keywords internal
+#' @noRd
+Stats <- \(unit = NULL, 
+           unit.paths, 
+           items, 
+           monthlies, 
+           extras, 
+           sdg.data, 
+           lang = "no",
+           render = TRUE,
+           min = 30,
+           max.level = 2) {
+  
+  
+  unit.paths <- UnitNames(unit.paths)
+  unit <- unit.paths |>
+    dplyr::filter(id == unit | acronym == unit | name == unit | key == unit)
+  
+  if (!any(nrow(unit))) {
+    return (NULL)
+  }
+  
+  data <- items |>
+    dplyr::left_join(monthlies, by = "key", suffix = c("", ".remove")) |>
+    dplyr::left_join(extras, by = "key", suffix = c("", ".remove")) |>
+    dplyr::select(-c(dplyr::ends_with(".remove"))) |>
+    dplyr::filter(grepl(unit$key, collections))
+  
+  if (!c2z4uni:::GoFish(min < nrow(data) , FALSE)) {
+    return (NULL)
+  }
+  
+  sdg.unit <- sdg.data$sdg |>
+    dplyr::filter(key %in% data$key) |>
+    c2z4uni:::SdgCutoff()
+  
+  if (!any(nrow(sdg.unit$sdg))) {
+    return (NULL)
+  }
+  
+  sdg.overview <- SdgOverview(
+    lang = lang, 
+    sdg.data = sdg.unit, 
+    render = FALSE, 
+    archive.append = paste0("&collection=", unit$key), 
+    sort = TRUE, 
+    delete = TRUE,
+    header = FALSE
+  ) 
+  
+  unit.name <- unit$name
+  archive.url <- paste0(
+    "{{< params subfolder >}}", 
+    lang, 
+    "/archive/?",
+    paste0("&collection=", unit$key)
+  )
+  n.publications <- nrow(data)
+  n.sdg <- sum(sdg.unit$sum)
+  
+  publication.trend <- PublicationTrend(
+    SdgSum(unit$key, data, sdg.unit, "year", TRUE)
+  )
+  sdg.doughnut <- SdgDoughnut("no", sdg.unit, FALSE, FALSE)
+  
+  # Only use publication.trend on level less than max level
+  ## Default is 2, meaning institutions (e.g., INN) and faculties.
+  if (unit$level > max.level) {
+    publication.trend <- NULL
+  }
+  
+  params <- list(
+    unit.name = unit.name,
+    archive.url = archive.url,
+    n.publications = n.publications,
+    n.sdg = n.sdg,
+    sdg.overview = sdg.overview,
+    publication.trend = publication.trend,
+    sdg.doughnut = sdg.doughnut
+  )
+  
+  path <- unit.paths |>
+    dplyr::filter(key %in% unit$paths[[1]]) |>
+    dplyr::pull(acronym) |>
+    (\(x) do.call(file.path, as.list(c("stats", x))))() 
+  
+  return.list <- list(
+    unit = unit,
+    path = path,
+    params = params
+  )
+  
+  if (!render) {
+    return (return.list)
+  }
+  
+  stats.file <- if (lang == "no") stats.no else stats.en
+  
+  RenderSave(
+    stats.file,
+    params = params,
+    md.dir = file.path(
+      content, 
+      lang, 
+      dirname(path)
+    ),
+    md.name = basename(path)
+  )
+  
+  return (return.list)
+}
+
+#' @title CreateStats
+#' @keywords internal
+#' @noRd
+CreateStats <- \(lang = "no") {
+  
+  unit.paths <- readRDS(
+    file.path(local.storage, sprintf("unit_paths_%s.rds", lang))
+  )
+  monthlies <- readRDS(
+    file.path(local.storage, sprintf("monthlies_%s.rds", lang))
+  )
+  
+  stats <- lapply(unit.paths$id, \(x) {
+    Stats(
+      unit = x,
+      unit.paths = unit.paths, 
+      items = items, 
+      monthlies = monthlies, 
+      extras = extras, 
+      sdg.data = sdg.data, 
+      lang = lang,
+      render = TRUE
+    )
+  })
+  
+  stats.units <- dplyr::bind_rows(lapply(stats, \(x) x$unit))
+  tree <- as.character(NestedList(stats.units, lang = lang))
+  tree.select <- SelectBox(stats.units, lang = lang)
+  html <- sprintf(
+    "<figure class=\"include\">%s</figure>",
+    paste0("\n", c2z:::ToString(c(tree, tree.select), "\n"), "\n")
+  )
+  RenderSave(
+    headless,
+    params = list(html = html),
+    md.dir = file.path(content, lang, "headless"),
+    md.name = "stats"
+  )
+  
+}
+
+#' @title SelectBox
+#' @keywords internal
+#' @noRd
+SelectBox <- \(data,
+               folder = "stats", 
+               subfolder = "{{< params subfolder >}}",
+               id = "tree-select",
+               lang = "no") {
+  
+
+  options <- lapply(seq_len(nrow(data)), \(i) {
+    x <- data[i,] 
+    path <- data |>
+      dplyr::filter(key %in% x$paths[[1]]) |>
+      dplyr::pull(acronym) |>
+      (\(x) do.call(
+        file.path, 
+        as.list(c(paste0(subfolder, lang), folder, x)))
+      )()
+    sprintf("<option value=\"%s\">%s</option>", path, x$name)
+  })
+  
+  options <- c(
+    sprintf("<option value=\"\">%s</option>", Dict("selection", lang)),
+    c2z:::ToString(options, "\n")
+  )
+  
+  select <- sprintf(
+    "<select id=\"%s\", name=\"%s\">%s</select>", 
+    id, 
+    id, 
+    paste0("\n", c2z:::ToString(options, "\n"), "\n")
+  )
+  
+  return (select)
+}
+
+
+#' @title NestedList
+#' @keywords internal
+#' @noRd
+NestedList <- \(data, 
+                parent = "FALSE", 
+                folder = "stats", 
+                subfolder = "{{< params subfolder >}}",
+                lang = "no") {
+  
+  
+  CreateLi <- \(data, parent, folder, subfolder, lang) {
+    
+    this.data <- data |>
+      dplyr::filter(parentCollection == parent)
+    
+    sublist <- lapply(seq_len(nrow(this.data)), \(i) {
+      x <- this.data[i, ]
+      
+      if (!is.null(folder)) {
+        path <- data |>
+          dplyr::filter(key %in% x$paths[[1]]) |>
+          dplyr::pull(acronym) |>
+          (\(x) do.call(
+            file.path, 
+            as.list(c(paste0(subfolder, lang), folder, x)))
+          )()
+        name <- htmltools::HTML(
+          sprintf("<a href=\"%s\">%s</a>",  path, x$name)
+        )
+      } else {
+        name <- htmltools::tags$span(x$name, lang = lang) 
+      }
+      
+      name <- htmltools::tags$li(
+        name, 
+        class = paste0("level", x$level), 
+        id = paste0("key-", x$key)
+      )
+      child.data <- CreateLi(data, x$key, folder, subfolder, lang)
+      if (any(length(child.data))) {
+        return(htmltools::tagAppendChild(name, htmltools::tags$ul(child.data)))
+      } else {
+        return(name)
+      }
+    })
+    
+    return(sublist)
+    
+  }
+  
+  final.list <- htmltools::tags$ul(class = "tree vertical-tree") |>
+    htmltools::tagAppendChild(CreateLi(data, parent, folder, subfolder, lang))
+  
+  return (final.list)
+  
+}
 
 #' @title RemoveBlank
 #' @keywords internal
@@ -117,6 +481,7 @@ RenderSave <- \(Rmd.path,
                 params,
                 md.dir = NULL,
                 md.name = NULL,
+                output.format = "html_document",
                 silent = TRUE,
                 remove.blank = TRUE) {
   
@@ -126,7 +491,7 @@ RenderSave <- \(Rmd.path,
   if (is.null(md.dir)) {
     md.dir <- dirname(Rmd.path)
   }
-  # Replace Rmd twith md if md.name is not defined
+  # Replace Rmd with md if md.name is not defined
   if (is.null(md.name)) {
     md.name <- gsub("Rmd", "md", Rmd.name)
     # Else append md to defined md name
@@ -139,6 +504,11 @@ RenderSave <- \(Rmd.path,
     params = params,
     output_file = md.name,
     output_dir = md.dir,
+    output_format = output.format,
+    output_options = list(
+      preserve_yaml = TRUE,
+      keep_md = TRUE
+    ),
     quiet = silent
   )
   
@@ -405,7 +775,7 @@ SdgLabels <- \(lang = "no") {
 #' @title SdgDoughnut
 #' @keywords internal
 #' @noRd
-SdgDoughnut <- \(lang) {
+SdgDoughnut <- \(lang, sdg.data, render = TRUE, header = TRUE) {
   
   # Define SDG Labels
   labels <- SdgLabels(lang)
@@ -428,7 +798,7 @@ SdgDoughnut <- \(lang) {
   chart <- CreateChart(
     type = type,
     labels = labels, 
-    dataset.labels = c2z4uni:::Dict("publications", lang, 2),
+    dataset.labels = Dict("publications", lang, 2),
     datasets = datasets, 
     background.color = background.color,
     font.color = "black",
@@ -441,87 +811,180 @@ SdgDoughnut <- \(lang) {
   
   # Create HTML 
   html <- tagList(
-    h1(c2z4uni:::Dict("sdg.publications", lang, 1)),
+    if (header) h1(Dict("sdg.publications", lang, 1)),
     HTML(shortcode)
-  )
+  )  |>
+    as.character() |>
+    c2z4uni:::GoFish(type = NULL)
   
   # Add to MD file
+  if (!render) {
+    return (html)
+  }
+  
   RenderSave(
     headless,
-    params = list(html = as.character(html)),
+    params = list(html = html),
     md.dir = file.path(content, lang, "headless"),
     md.name = "sdg_doughnut"
   )
+  
+  
 }
 
 #' @title SdgOverview
 #' @keywords internal
 #' @noRd
-SdgOverview <- \(lang) {
+SdgOverview <- \(lang, 
+                 sdg.data, 
+                 render = TRUE, 
+                 archive.append = NULL,
+                 sort = FALSE,
+                 delete = FALSE,
+                 header = TRUE) {
   
   # Fetch data
   sdg <- c2z4uni:::SdgInfo(
     sdg.data$sum,
     lang = lang,
     sdg.path = "{{< params subfolder >}}images/sdg",
-    archive.url = paste0("{{< params subfolder >}}", lang, "/archive/")
+    archive.url = paste0("{{< params subfolder >}}", lang, "/archive/"),
+    archive.append = archive.append,
+    sort = sort,
+    delete = delete
   ) |>
     paste(collapse = "")
   
   # Create HTML
   html <- tagList(
-    h1(c2z4uni:::Dict("sdg", lang)),
+    if (header) h1(Dict("sdg", lang)),
     div(class = "sdg-container") |>
       tagAppendChild(HTML(sdg))
-  )
+  ) |>
+    as.character() |>
+    c2z4uni:::GoFish(type = NULL)
+  
+  if (!render) {
+    return(html)
+  }
   
   # Add to MD
   RenderSave(
     headless,
-    params = list(html = as.character(html)),
+    params = list(html = html),
     md.dir = file.path(content, lang, "headless"),
     md.name = "sdg"
   )
 }
 
-#' @title SdgUnits
+#' @title PublicationTren 
 #' @keywords internal
 #' @noRd
-SdgUnits <- \(lang) {
+PublicationTrend <- \(data) {
   
+  dataset.labels <- c(Dict("publications", lang, 2), Dict("sdg", lang, 2))
+  labels <- data$names
+  datasets <- list(data$n.publications, data$sdg.sum)
+  # Chart configuration
+  chart <- CreateChart(
+    type = "line",
+    labels = labels,
+    datasets = datasets,
+    dataset.labels = dataset.labels,
+    legend.position = "bottom",
+    x.text = Dict("year", lang),
+    y.text = Dict("n.publications", lang),
+    line.width = 2
+  )
+  
+  shortcode <- paste('{{< chart >}}\n', chart, '\n{{< /chart >}}', sep = '')
+  
+  # Create HTML 
+  html <- HTML(shortcode)
+  
+  
+}
+
+#' @title SdgTrend
+#' @keywords internal
+#' @noRd
+SdgTrend <- \(lang, sdg.data, header = TRUE) {
   
   unit.paths <- readRDS(
     file.path(local.storage, sprintf("unit_paths_%s.rds", lang))
   )
-  bibliography <- readRDS(
+  monthlies <- readRDS(
     file.path(local.storage, sprintf("monthlies_%s.rds", lang))
   )
+ 
+   # Main publishing faculties
+  ids <- c("209.0.0.0", "209.2.0.0", "209.4.0.0", "209.5.0.0", "209.6.0.0")
+  # Find units
+  units <- dplyr::filter(unit.paths, id %in% ids) |>
+    dplyr::mutate(
+      sdg = purrr::map(key, ~ SdgSum(.x, monthlies, sdg.data, "year", TRUE))
+    )
   
+  dataset.labels <- c("INN", "ALB", "HSV", "LUP", "HHS")
+  labels <- names(table(monthlies$year))
+  datasets <- lapply(units$sdg, \(x) x$sdg.sum)
   
-  # Function to find sdg per unit
-  SdgData <- \(x) {
-    sdg <- sdg.data$sdg |> 
-      dplyr::semi_join(
-        bibliography |>
-          dplyr::filter(grepl(x, collections)), 
-        by = "key"
-      ) |>
-      c2z4uni:::SdgCutoff()
-    
-    return (sdg$sum)
-  }
+  # Chart configuration
+  chart <- CreateChart(
+    type = "line",
+    labels = labels,
+    datasets = datasets,
+    dataset.labels = dataset.labels,
+    legend.position = "bottom",
+    x.text = Dict("year", lang),
+    y.text = Dict("n.publications", lang),
+    line.width = 2
+  )
+  
+  shortcode <- paste('{{< chart >}}\n', chart, '\n{{< /chart >}}', sep = '')
+  
+  # Create HTML 
+  html <- tagList(
+    if (header) h1(Dict("sdg.publications", lang, 1)),
+    HTML(shortcode) 
+  )  |>
+    as.character() |>
+    c2z4uni:::GoFish(type = NULL)
+  
+  RenderSave(
+    headless,
+    params = list(html = html),
+    md.dir = file.path(content, lang, "headless"),
+    md.name = "sdg_trend"
+  )
+  
+}
+
+#' @title SdgUnits
+#' @keywords internal
+#' @noRd
+SdgUnits <- \(lang, sdg.data, header = TRUE) {
+  
+  unit.paths <- readRDS(
+    file.path(local.storage, sprintf("unit_paths_%s.rds", lang))
+  )
+  monthlies <- readRDS(
+    file.path(local.storage, sprintf("monthlies_%s.rds", lang))
+  )
   
   # Main publishing faculties
   ids <- c("209.2.0.0", "209.4.0.0", "209.5.0.0", "209.6.0.0")
   # Find units
   units <- dplyr::filter(unit.paths, id %in% ids) |>
     dplyr::mutate(
-      sdg = purrr::map(key, SdgData)
+      sdg = purrr::map(key, ~ SdgSum(.x, monthlies, sdg.data))
     )
-  
+
   labels <- c("ALB", "HSV", "LUP", "HHS")
   dataset.labels <- as.list(SdgLabels())
-  datasets <- as.list((dplyr::bind_rows(units$sdg)))
+  datasets <-   as.list(
+    do.call(dplyr::bind_rows,lapply(units$sdg, \(x) x$sdg.sum))
+  )
   background.color <- as.list(SdgColors(1))
   # Create a stacked bar chart shortcode
   chart <- CreateChart(
@@ -539,13 +1002,13 @@ SdgUnits <- \(lang) {
   
   # Create HTML 
   html <- tagList(
-    h1(c2z4uni:::Dict("sdg.publications", lang, 1)),
+    if (header) h1(Dict("sdg.publications", lang, 1)),
     HTML(shortcode)
   )
   
   RenderSave(
     headless,
-    params = list(html = as.character(html)),
+    params = list(html = html),
     md.dir = file.path(content, lang, "headless"),
     md.name = "sdg_units"
   )
@@ -558,7 +1021,7 @@ SdgUnits <- \(lang) {
 About <- \(lang) {
   RenderSave(
     eval(parse(text = paste0("about.", lang))),
-    params = list(html = as.character(html)),
+    params = list(html = html),
     md.dir = file.path(content, lang, "headless"),
     md.name = "about",
     remove.blank = FALSE
@@ -651,7 +1114,10 @@ GetLibrary <- \(lang,
   sdg.data <<- readRDS(file.path(local.storage, "sdg_predictions.rds")) |>
     c2z4uni:::SdgCutoff()
   items <<- readRDS(file.path(local.storage, "items.rds"))
-  cristin.monthly <- list(
+  extras <<- readRDS(
+    file.path(local.storage, "monthlies_extras.rds")
+  )
+  cristin.monthly <<- list(
     unit.paths = readRDS(
       file.path(local.storage, sprintf("unit_paths_%s.rds", lang))
     ),
@@ -659,10 +1125,7 @@ GetLibrary <- \(lang,
       file.path(local.storage, sprintf("monthlies_%s.rds", lang))
     )
   )
-  extras <- readRDS(
-    file.path(local.storage, "monthlies_extras.rds")
-  )
-  cristin.monthly$monthlies <- cristin.monthly$monthlies |>
+  cristin.monthly$monthlies <<- cristin.monthly$monthlies |>
     dplyr::left_join(dplyr::select(extras, -cristin.id), by = join_by(key))
   
   updated.keys <<- readRDS(file.path(local.storage, "updated_keys.rds"))

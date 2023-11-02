@@ -135,3 +135,18 @@
   transform: scale(1.2);
   color: $black;
 }
+
+.page-loader {
+  border: 4px solid $global-font-color;
+  border-radius: 50%;
+  border-top: 4px solid $global-flashy;
+  width: 30px;
+  height: 30px;
+  animation: spin 2s linear infinite;
+  margin: 20px auto;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

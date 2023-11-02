@@ -1,9 +1,5 @@
 ---
 headless: true
-output: 
-  html_document:
-    keep_md: true
-    preserve_yaml: true
 ---
 <h1>Publikasjonar om berekraftsmål</h1>
 {{< chart >}}
@@ -35,7 +31,7 @@ output:
                 "data": [
                     39,
                     46,
-                    225,
+                    227,
                     166,
                     93,
                     29,
@@ -47,9 +43,9 @@ output:
                     12,
                     45,
                     42,
-                    79,
+                    81,
                     112,
-                    102
+                    103
                 ],
                 "backgroundColor": [
                     "rgba(229, 36, 59, 1)",

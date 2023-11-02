@@ -21,7 +21,7 @@ type: pub
     <ul>
       <li>Inland Norway University of Applied Sciences</li>
       <li>Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</li>
-      <li>Department of Agricultural Sciences</li>
+      <li>Department of Forestry and Wildlife Management</li>
       <li>2023</li>
       <li>March</li>
     </ul>

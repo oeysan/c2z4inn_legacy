@@ -5,13 +5,14 @@ type: pub
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-H6BN4L5J" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Haug, E. H., Schulstok, T., Paulsen, M. K., Kj&#xE6;rg&#xE5;rd, R., &amp; Ling&#xE5;s, L. G. (2023). Policy Processes that led to Norway&#x2019;s first Master in Career Guidance in 2014. <i>Nordic Journal of Transitions, Careers and Guidance</i>.</div>
+  <div class="csl-entry">Haug, E. H., Kj&#xE6;rg&#xE5;rd, R., Ling&#xE5;s, L. G., Paulsen, M. K., &amp; Schulstok, T. (2023). Policy Processes that led to Norway&#x2019;s first Master in Career Guidance in 2014. <i>Nordic Journal of Transitions, Careers and Guidance</i>, <i>4</i>(1), 15&#x2013;28. <a href="https://doi.org/10.16993/njtcg.54">https://doi.org/10.16993/njtcg.54</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-H6BN4L5J" class="csl-bib-button">Arkiv</a>
     <a href="https://app.cristin.no/results/show.jsf?id=2187798" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5022929/items/H6BN4L5J" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-H6BN4L5J" class="csl-bib-button">Medverkande</a>
+    <a href="https://storage.googleapis.com/jnl-su-j-njtcg-files/journals/1/articles/54/6527f186b725b.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-H6BN4L5J"></div>
 </article>

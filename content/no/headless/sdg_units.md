@@ -1,11 +1,7 @@
 ---
 headless: true
-output: 
-  html_document:
-    keep_md: true
-    preserve_yaml: true
 ---
-<h1>Publikasjonar om berekraftsmål</h1>
+`<h1>Publikasjonar om berekraftsmål</h1>
 {{< chart >}}
 {
     "type": "bar",
@@ -43,9 +39,9 @@ output:
                 "label": "Mål 3: Gode helse og livskvalitet",
                 "data": [
                     22,
-                    164,
+                    165,
                     7,
-                    32
+                    33
                 ],
                 "backgroundColor": "rgba(76, 159, 56, 1)",
                 "borderRadius": 0
@@ -174,7 +170,7 @@ output:
             {
                 "label": "Mål 15: Livet på land",
                 "data": [
-                    73,
+                    75,
                     1,
                     1,
                     4
@@ -199,7 +195,7 @@ output:
                     4,
                     25,
                     12,
-                    59
+                    60
                 ],
                 "backgroundColor": "rgba(25, 72, 106, 1)",
                 "borderRadius": 0
@@ -256,4 +252,4 @@ output:
         }
     }
 }
-{{< /chart >}}
+{{< /chart >}}`{=html}

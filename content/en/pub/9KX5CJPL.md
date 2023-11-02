@@ -5,13 +5,14 @@ type: pub
 <h1>Publication</h1>
 <article id="csl-bib-container-9KX5CJPL" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Krieger, J. (2023). Better, Bigger, Bitter&#x2014;The Rise of the Asian Games in a Toxic Political Environment. In K. Kobayashi, J. Horne, C. Younghan, &amp; J. W. Lee (Eds.), <i>Sports Mega-Events in Asia</i> (pp. 123&#x2013;142). Palgrave Macmillan.</div>
+  <div class="csl-entry">Krieger, J. (2023). Better, Bigger, Bitter&#x2014;The Rise of the Asian Games in a Toxic Political Environment. In K. Kobayashi, J. Horne, C. Younghan, &amp; J. W. Lee (Eds.), <i>Sports Mega-Events in Asia</i> (pp. 123&#x2013;141). Palgrave Macmillan. <a href="https://doi.org/10.1007/978-981-99-0011-4_6">https://doi.org/10.1007/978-981-99-0011-4_6</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9KX5CJPL" class="csl-bib-button">Archive</a>
     <a href="https://app.cristin.no/results/show.jsf?id=2156865" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5022929/items/9KX5CJPL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9KX5CJPL" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-981-99-0011-4_6" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-9KX5CJPL"></div>
 </article>

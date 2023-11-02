@@ -21,7 +21,7 @@ type: pub
     <ul>
       <li>Høgskolen i Innlandet</li>
       <li>Fakultet for anvendt økologi, landbruksfag og bioteknologi</li>
-      <li>Institutt for jordbruksfag</li>
+      <li>Institutt for skog- og utmarksfag</li>
       <li>2023</li>
       <li>Mars</li>
     </ul>

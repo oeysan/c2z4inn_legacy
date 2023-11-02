@@ -2,7 +2,7 @@ theme: "hugo-library"
 baseURL: "http://localhost:4321/"
 defaultContentLanguage: "no"
 defaultContentLanguageInSubdir: true
-disableFastRender: true
+disableFastRender: false
 disablePathToLower: true
 languages:
   "no":
@@ -15,15 +15,19 @@ languages:
     languageName: Norsk
     menu:
       main:
-      - name: Oversikt
-        url: "/no/overview"
+      - name: Statistikk
+        identifier: stats
+        params:
+          class: dropdown-button
+          include: stats
         weight: 10
       - name: Arkivet
         url: "/no/archive"
         weight: 20
       - name: English
         identifier: "change-lang"
-        url: "en"
+        params:
+          lang: "en"
         weight: 30
     params:
       subtitle: eit Zotero-bibliotek for INN
@@ -37,15 +41,18 @@ languages:
     languageName: English
     menu:
       main:
-      - name: Overview
-        url: "/en/overview"
+      - name: Statistics
+        identifier: stats
+        params:
+          class: "dropdown-button"
         weight: 10
       - name: Archive
         url: "/en/archive"
         weight: 20
       - name: Norsk
         identifier: "change-lang"
-        url: "no"
+        params:
+          lang: "no"
         weight: 30
     params:
       subtitle: a Zotero library for INN
@@ -71,7 +78,7 @@ taxonomies:
   tag: "tags"
 
 params:
-  version: "0.1.1"
+  version: "0.2.0"
   subfolder: "/"
   keywords: 
   - "Hugo"
@@ -89,4 +96,5 @@ params:
     - "about"
     - "sdg_doughnut"
     - "sdg_units"
+    - "sdg_trend"
   image: "sdg"

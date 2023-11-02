@@ -1,0 +1,251 @@
+@use '_utils/_serve' as *;
+
+#tree-select {
+    margin: 0 auto;
+    max-width: 95%;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    padding: 10px;
+    border: 1px solid $global-secondary-color;
+    background-color: $global-background;
+    color: $global-font-color;
+    width: 100%;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  
+    &:hover {
+      background-color: $global-flashy;
+      color: $white;
+    }
+  
+    /* Style the select arrow icon (you may need to use an image) */
+    &::-ms-expand {
+      display: none; /* Remove arrow icon in IE */
+    }
+    &::after {
+      content: '\25BC'; /* Unicode character for down arrow */
+      position: absolute;
+      right: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      pointer-events: none; /* Prevent clicking on the arrow */
+    }
+  
+    /* Style the options in the dropdown */
+    option:hover {
+      background-color: $global-flashy;
+      color: $white;
+    }
+  
+    option {
+      background-color: $global-background;
+      color: $global-font-color;
+      font-size: 16px;
+    }
+  
+    @include min-screen(769px) {
+        display: none;
+    }
+}
+  
+
+.tree {
+    margin: 0 auto !important;
+    text-align: center;
+    padding: 10px;
+    font-size: $tree-font-size;
+    padding: 0;
+    position: relative;
+
+    ul, li {
+        list-style: none;
+        margin: 0 !important;
+        padding: 0 !important;
+        position: relative;
+    }
+}
+
+.tree li a:hover, .tree li a:hover+ul li a,
+.tree li span:hover, .tree li span:hover+ul li span {
+    background: $global-flashy; 
+    color: $white;
+}
+
+.tree, .tree ul {
+    display: table;
+}
+
+.tree li {
+    display: table-cell;
+    padding: .5em .2em !important;
+    vertical-align: top;
+}
+
+.tree li:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: $connector-width;
+    background: $global-flashy;
+    z-index: 5;
+}
+
+.tree:not(.vertical-tree) ul li:only-child:before {
+    display: none;
+}
+
+.tree ul li:first-child:before {
+    left: 50%;
+}
+
+.tree li:last-child:before {
+    width: 50%;
+}
+
+.tree span, .tree a {
+    border: solid .05em $global-flashy;
+    border-radius: .2em;
+    display: inline-block;
+    margin: 0 .2em .5em;
+    padding: .2em .5em;
+    position: relative;
+    width: 10em;
+    cursor: pointer;
+    transition: all 0.3s;
+    overflow-wrap: normal;
+    text-align: center;
+}
+
+.tree ul:before,
+.tree span:before,
+.tree a:before {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: $connector-width;
+    height: $connector-length;
+    background: $global-flashy;
+    z-index: 1;
+}
+
+.tree span:before,
+.tree a:before {
+    width: $connector-width;
+    height: $connector-length;
+}
+
+.tree ul:before {
+    top: calc(-1 * $connector-length);
+}
+
+.tree span:before,
+.tree a:before {
+    top: calc(-1 * ($connector-length + $connector-width));
+}
+
+.tree > li {
+    margin-top: 0;
+}
+
+.tree > li:before,
+.tree > li:after,
+.tree > li > span:before,
+.tree > li > a:before {
+    display: none;
+}
+
+
+/* VERTICAL */
+
+.vertical-tree ul ul li:not(:first-child):before {
+    display: none;
+ }
+     
+
+.tree ul ul > li {
+  display: block;
+  text-align: left;
+  padding: .5em .6em !important;
+}
+
+/* TOP HORIZONTAL CONNECTOR */
+.tree ul ul li:first-child:before {
+    content: "";
+     position: absolute;
+     top: 0%;
+     left: 0%;
+     width: calc(50% + .025em);
+     height: $connector-width;
+     background: $global-flashy;
+ }
+
+ /* TOP CHILD HORIZONTAL CONNECTOR */
+ .tree ul ul ul li:first-child:before {
+    content: "";
+     position: absolute;
+     top: 0%;
+     left: 0%;
+     width: calc(5em + 0.8em);
+     height: $connector-width;
+     background: $global-flashy;
+ }
+ 
+/* VERTICAL CONNECTOR */
+.vertical-tree ul ul:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: $connector-width;
+    height: $tree-height;
+    background: $global-flashy;
+}
+
+/* GRAND TEXTBOX VERTICAL CONNECTOR */
+.vertical-tree ul li:has(ul) > span:after,
+.vertical-tree ul li:has(ul) > a:after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: $connector-width;
+    height: .59em;
+    background: $global-flashy;
+    z-index: 1;
+}
+
+/* GRAND TEXTBOX HORIZONTAL CONNECTOR */
+.vertical-tree ul ul span:before,
+.vertical-tree ul ul a:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    transform: translate(-100%, -50%);
+    width: .825em;
+    height: $connector-width;
+    background: $global-flashy;
+}
+
+.vertical-tree li span:hover {
+  font-weight: bolder;
+}
+
+
+.tree, .vertical-tree {
+
+    @include max-screen(768px) {
+        display: none;
+    }
+
+    @include min-screen(769px) {
+    }
+}

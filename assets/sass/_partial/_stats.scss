@@ -1,0 +1,59 @@
+// ==============================
+// Statistics
+// =============================
+@use '_utils/_serve' as *;
+
+#content #stats {
+	max-width: 1000px;
+	margin: 0 auto;
+    background-color: $global-background;
+    color: $global-font-color;
+    border: 1px solid #000;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    padding: 1cm;
+    position: relative;
+
+    #archive-url {
+        position: absolute;
+        top: 15px;
+        right: 15px;
+        transition: color 0.3s;
+        color: $global-flashy;
+    }
+    #archive-url:hover {
+        color: $global-font-color;
+    }
+
+    p {
+        margin: 0;
+    }
+
+    .stats-n {
+        display: inline-block;
+        font-size: 150%;
+        color: $global-flashy;
+        font-weight: bolder;
+    }
+
+    .stats-graphs {
+        margin: 10px auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .stats-graphs div {
+        width: 480px;
+        min-height: 200px;
+        margin-bottom: 10px;
+        box-sizing: border-box;
+    }
+    
+    @media (max-width: 999px) {
+        .stats-graphs div {
+            width: 100%;
+        }
+    }
+    
+
+}

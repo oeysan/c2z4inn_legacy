@@ -1,9 +1,5 @@
 ---
 headless: true
-output: 
-  html_document:
-    keep_md: true
-    preserve_yaml: true
 ---
 <h1>Berekraftsmål</h1>
 <div class="sdg-container"><div id="sdg1" class="sdg">
@@ -21,7 +17,7 @@ output:
 </div><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>227</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div><div id="sdg4" class="sdg">
@@ -93,7 +89,7 @@ output:
 </div><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>81</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div><div id="sdg16" class="sdg">
@@ -105,7 +101,7 @@ output:
 </div><div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>102</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>103</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

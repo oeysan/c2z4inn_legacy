@@ -1,0 +1,44 @@
+---
+headless: true
+---
+
+```{r knitrrrr, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  out.width = "100%",
+  warning = FALSE,
+  message = FALSE
+)
+
+```
+
+```{r updated, include=FALSE}
+updated <- format(Sys.time(), "%m-%d-%Y (at %H:%M)")
+```
+
+<h1>Oversikt for `r params$unit.name`</h1>
+
+<a id="archive-url" href="`r params$archive.url`">Gå til arkivet</a>
+
+<div id="stats-descriptives">
+<p>Publikasjonar: <span class="stats-n">`r params$n.publications`</span></p>
+<p>Publikasjonar om berekraftsmål: <span class="stats-n">`r params$n.sdg`</span></p>
+</div>
+
+
+<div class="stats-graphs">
+```{r chart, echo=FALSE, results='asis'}
+if (!is.null(params$publication.trend)) { 
+  cat(paste0("<div>", params$publication.trend, "</div>"))
+}
+if (!is.null(params$sdg.doughnut)) { 
+  cat(paste0("<div>", params$sdg.doughnut, "</div>"))
+}
+```
+</div>
+
+
+<div id="sdg-overview">
+  `r params$sdg.overview`
+</div>

@@ -5,7 +5,7 @@ type: pub
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-H5S8HAKQ" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Borenstein, H., &amp; Krieger, J. (2023). Putting Logos on the World&#x2019;s Best Running Feet: The Emergence of Apparel Sponsors in Ethiopian and Kenyan Athletics. <i>International Journal of the History of Sport</i>. <a href="https://doi.org/10.1080/09523367.2023.2266395">https://doi.org/10.1080/09523367.2023.2266395</a></div>
+  <div class="csl-entry">Borenstein, H., &amp; Krieger, J. (2023). Putting Logos on the World&#x2019;s Best Running Feet: The Emergence of Apparel Sponsors in Ethiopian and Kenyan Athletics. <i>The International Journal of the History of Sport</i>, 1&#x2013;21. <a href="https://doi.org/10.1080/09523367.2023.2266395">https://doi.org/10.1080/09523367.2023.2266395</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-H5S8HAKQ" class="csl-bib-button">Arkiv</a>
@@ -68,7 +68,7 @@ Studiested Lillehammer
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>46</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

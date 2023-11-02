@@ -1,3 +1,9 @@
+---
+output:
+  github_document:
+    html_preview: false
+---
+
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -18,8 +24,8 @@ scientific publications at Inland Norway University of Applied Sciences
 (registered in Cristin since the institution was established on January
 1, 2017).
 
-The archive was last updated **10-25-2023 (at 19:38)** and contains
-**4206** publications.
+The archive was last updated **11-02-2023 (at 23:44)** and contains
+**4223** publications.
 
 You may also visit the [Zotero
 library](https://www.zotero.org/groups/5022929/hinn/library).

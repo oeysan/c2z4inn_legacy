@@ -3,17 +3,24 @@
 		<nav class="navbar">
 			<a href="{{ .Site.BaseURL }}{{ .Site.Language }}" title="Go to Main Page" id="logo">
 				<img src="{{ .Site.BaseURL }}images/logo.svg" alt="Logo" />
-			  </a>
+			</a>
 			<ul class="menu" id="menu">
 				{{ range .Site.Menus.main }}
-				<li>
-				  <a href="{{ .URL }}" {{ with .Identifier -}} id="{{.}}" {{ end -}}>
-					{{ with .Pre -}} <i class="{{.}}"></i> {{ end -}}
-					<span {{ with .Params.i18n -}} data-i18n="{{.}}" {{ end -}}>
-					  {{ with .Name -}} {{.}} {{ end -}}
-					</span>
-				  </a>
-				</li>
+					<li {{ with .Identifier }} id="{{.}}" {{ end }} 
+						{{ with .Params.lang }} data-lang="{{.}}" {{ end }}
+						{{ with .Params.class }} class="{{.}}" {{ end }}>
+					{{ with .Pre }} {{.}} {{ end }}
+					{{ if eq .Params.class "dropdown-button" }}
+					<i class="las la-chevron-down"></i>
+					{{ end }}
+					{{ if .URL }}<a href="{{ .URL }}">{{ end }}
+						<span {{ with .Params.i18n }} data-i18n="{{.}}" {{ end }}>
+							{{ with .Name }} {{.}} {{ end }}
+						</span>
+					{{ if .URL }}</a>{{ end }}
+					{{ with .Post }} {{.}} {{ end }}
+					</li>
+					<div class="dropdown-content"></div>
 				{{ end }}
 				<li id="dark-mode" class="la la-sun view-mode" title="Dark theme"></li>
 				<li id="light-mode" class="la la-moon view-mode" title="Light theme"></li>

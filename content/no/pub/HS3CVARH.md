@@ -5,7 +5,7 @@ type: pub
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-HS3CVARH" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Skrefsrud, T. A. (2023). Multicultural School Events: Possibilities and Pitfalls for Refugee Students and Their Families. I T. D. Wolsey &amp; I. M. Karkouti (Red.), <i>Teaching Refugees and Displaced Students. What Every Educator Should Know</i> (s. 197&#x2013;208). Springer Nature. <a href="https://doi.org/10.1007/978-3-031-33834-2_13">https://doi.org/10.1007/978-3-031-33834-2_13</a></div>
+  <div class="csl-entry">Skrefsrud, T. A. (2023). Multicultural School Events: Possibilities and Pitfalls for Refugee Students and Their Families. I T. D. Wolsey (Red.), <i>Teaching refugees and displaced students: what every educator should know</i> (s. 197&#x2013;208). Springer. <a href="https://doi.org/10.1007/978-3-031-33834-2_13">https://doi.org/10.1007/978-3-031-33834-2_13</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-HS3CVARH" class="csl-bib-button">Arkiv</a>
@@ -68,7 +68,7 @@ Rom 2P306
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>39</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

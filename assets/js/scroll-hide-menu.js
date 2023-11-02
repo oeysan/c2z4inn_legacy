@@ -18,6 +18,7 @@ function initializeMenu() {
       const menuClosed = document.querySelector('#menu-closed');
       const menuOpen = document.querySelector('#menu-open');
       const menuIcons = document.querySelectorAll('.menu-icon i');
+      const dropdownContent = document.querySelector('.dropdown-content');
   
       /**
        * Function: toggleMenu
@@ -73,6 +74,7 @@ function initializeMenu() {
           menu.classList.remove('active');
           menuOpen.classList.add('inactive');
           menuClosed.classList.remove('inactive');
+          dropdownContent.classList.remove('show');
         } else {
           if (st + window.innerHeight < document.documentElement.scrollHeight) {
             header.classList.remove('nav-up');

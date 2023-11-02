@@ -1,3 +1,11 @@
+# Hugo Library 0.2.0
+
+* Added the a `stats` section with the possibility of presenting various 
+statistics for a given unit
+* Added a tree (e.g., organizational chart)
+* Added a shortcode for including javascript
+* Various bug-fixes
+
 # Hugo Library 0.1.6 
 
 * Minor bug in `SCSS` concerning charts section on handheld devices

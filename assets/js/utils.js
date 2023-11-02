@@ -43,8 +43,14 @@ function wait(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-// IncludePage function with a simulated delay and loader
-async function includePage(url, targetDiv, containerDiv, delay = 0, useLoader = true) {
+async function includePage(
+  url, 
+  targetDiv, 
+  containerDiv, 
+  delay = 0, 
+  useLoader = true, 
+  customFunctions = []
+) {
   let loader = null;
 
   if (useLoader) {
@@ -73,6 +79,15 @@ async function includePage(url, targetDiv, containerDiv, delay = 0, useLoader = 
     if (extractedContent) {
       // Append the extracted content to the container div
       containerDiv.appendChild(extractedContent);
+
+      // Execute the custom functions if provided
+      if (customFunctions && Array.isArray(customFunctions)) {
+        customFunctions.forEach((customFunction) => {
+          if (typeof customFunction === "function") {
+            customFunction();
+          }
+        });
+      }
     } else {
       console.error("Error: Element with selector '" + targetDiv + "' not found in the fetched content.");
     }
@@ -84,8 +99,6 @@ async function includePage(url, targetDiv, containerDiv, delay = 0, useLoader = 
     }
   }
 }
-// Example usage:
-// includePage("target-page.html", "#targetDivId", "contentContainer", false);
 
 // Object to store key-element pairs
 const keyElementPairs = [];
@@ -267,3 +280,145 @@ function showPopup(text, messageKey, includeText = true, copyText = true) {
       }, 3000);
     });
 }
+
+document.addEventListener("DOMContentLoaded", function() {
+  var dropdownButtons = document.querySelectorAll('.dropdown-button');
+
+  function toggleDropdownIcon() {
+    var dropdown = document.querySelector('.dropdown-button');
+    var dropdownContent = document.querySelector('.dropdown-content');
+
+    if (dropdown && dropdownContent) {
+        var firstIcon = dropdown.querySelector('i');
+
+        if (dropdownContent.classList.contains('show')) {
+            firstIcon.classList.remove('la-chevron-down');
+            firstIcon.classList.add('la-chevron-up');
+        } else {
+            firstIcon.classList.remove('la-chevron-up');
+            firstIcon.classList.add('la-chevron-down');
+        }
+    }
+  }
+
+  dropdownButtons.forEach(function(dropdown) {
+    var dropdownContent = dropdown.nextElementSibling;
+
+    // Toggle the dropdown menu visibility for each dropdown button
+    dropdown.addEventListener('click', function(event) {
+      event.stopPropagation();
+      dropdownContent.classList.toggle('show');
+
+      if (dropdownContent.classList.contains('show')) {
+        var section = document.createElement('section');
+        dropdownContent.appendChild(section);
+        var dropdownId = dropdown.id;
+        const targetPageURL = baseURL + `${defaultContentLanguage}/headless/${dropdownId}`;
+        const containerDiv = dropdownContent.querySelector('section');
+        containerDiv.innerHTML = "";
+        includePage(targetPageURL, ".include", containerDiv, 0, false, [updateTreeUlHeight, checkTreeDimensions]);
+      } else {
+        // Remove the section when the dropdown is hidden
+        var section = dropdownContent.querySelector('section');
+        if (section) {
+          dropdownContent.removeChild(section);
+        }
+      }
+
+      toggleDropdownIcon(dropdown, dropdownContent);
+    });
+
+    // Close the dropdown menu if user clicks outside of it
+    document.addEventListener('click', function(event) {
+      if (!dropdownContent.contains(event.target)) {
+        // Check if the section exists before removing it
+        var existingSection = dropdownContent.querySelector('section');
+        if (existingSection) {
+          dropdownContent.removeChild(existingSection);
+        }
+
+        dropdownContent.classList.remove('show');
+        toggleDropdownIcon(dropdown, dropdownContent);
+      }
+    });
+
+    // Prevent clicks inside the dropdown content from closing the dropdown
+    dropdownContent.addEventListener('click', function(event) {
+      event.stopPropagation();
+    });
+  });
+});
+
+
+function updateTreeUlHeight() {
+  // Get all .tree ul ul elements
+  const ulElements = document.querySelectorAll('.tree ul ul');
+  // Iterate through each ul element
+  ulElements.forEach((ul) => {
+
+      // Clone the ul element to preserve the original ul structure
+      const clonedUl = ul.cloneNode(true);
+
+      // Remove any nested ul elements from the cloned ul
+      clonedUl.querySelectorAll('ul').forEach(nestedUl => 
+          nestedUl.parentNode.removeChild(nestedUl));
+      
+      // Get the id of the last li element inside the cloned ul
+      const cloneId = clonedUl.querySelector('li:last-child').
+      getAttribute('id');
+      
+      // Find the corresponding original li element by its id
+      const lastLi = ul.querySelector(`#${cloneId}`);
+  
+      if (lastLi) {
+      
+          // Find the first <a> or <span> element within lastLi
+          const liText = lastLi.querySelector('a, span');
+      
+          // Get the bounding rectangle for the <ul> element
+          const ulRect = ul.getBoundingClientRect();
+  
+          // Get the bounding rectangle for the text element
+          const textRect = liText.getBoundingClientRect();
+  
+          // Calculate the middle position of the text element
+          const textMiddle = textRect.top + textRect.height / 2;
+  
+          // Calculate the distance from the top of the <ul> to the middle of the text element
+          const ulHeight = Math.abs(ulRect.top - textMiddle);
+          
+          // Set the height of ul using calculated height
+          ul.style.setProperty(
+              '--tree-connector', ulHeight + 'px'
+          );
+      }
+  });
+}
+
+function checkTreeDimensions() {
+  let treeElement = document.querySelector('.tree');
+  let treeSelectElement = document.querySelector('#tree-select');
+
+  if (treeElement) {
+    var treeHeight = treeElement.offsetHeight + 100;
+    var treeWidth = treeElement.offsetWidth;
+    var viewportHeight = window.innerHeight;
+    var viewportWidth = window.innerWidth;
+    if (treeHeight > viewportHeight || treeWidth > viewportWidth) {
+        treeElement.style.display = 'none';
+        treeSelectElement.style.display = 'block';
+    }
+  }
+
+  treeSelectElement.addEventListener('change', function() {
+    // Get the selected option's value (which is the URL)
+    const selectedUrl = this.value;
+    // Check if the selected URL is not empty
+    if (selectedUrl) {
+        // Navigate to the selected URL
+        window.location.href = selectedUrl;
+    }
+});
+}
+
+

@@ -5,7 +5,7 @@ type: pub
 <h1>Publication</h1>
 <article id="csl-bib-container-ZDXAZC7M" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Bakkenget, B., &amp; V&#xE5;penstad, E. V. (2023). Looking for the infant voice. How depth hermeneutics (scenic-narrative microanalysis) contributes to an understanding of how a child participates from the beginning of life. <i>Journal of Social Work Practice</i>, 1&#x2013;14. <a href="https://doi.org/10.1080/02650533.2022.2162492">https://doi.org/10.1080/02650533.2022.2162492</a></div>
+  <div class="csl-entry">Bakkenget, B., &amp; V&#xE5;penstad, E. V. (2023). Looking for the infant voice. How depth hermeneutics (scenic-narrative microanalysis) contributes to an understanding of how a child participates from the beginning of life. <i>Journal of Social Work Practice</i>, <i>37</i>(4), 419&#x2013;432. <a href="https://doi.org/10.1080/02650533.2022.2162492">https://doi.org/10.1080/02650533.2022.2162492</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZDXAZC7M" class="csl-bib-button">Archive</a>

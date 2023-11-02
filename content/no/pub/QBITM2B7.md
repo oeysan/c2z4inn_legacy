@@ -5,7 +5,7 @@ type: pub
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-QBITM2B7" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Norvik, M. I., Ribu, I. S., Hansen, P., &amp; Simonsen, H. G. (2023). Beyond Naming: Narrative Production in L1 and L2 in Multilingual Individuals with and without Dementia. I M. Goral &amp; A. Lerman (Red.), <i>Advances in the Neurolinguistic Study of Multilingual and Monolingual Adults</i>. Routledge. <a href="https://doi.org/10.4324/9781003330318-10">https://doi.org/10.4324/9781003330318-10</a></div>
+  <div class="csl-entry">Norvik, M. I., Ribu, I. S., Hansen, P., &amp; Simonsen, H. G. (2024). Beyond Naming: Narrative Production in L1 and L2 in Multilingual Individuals with and without Dementia. I M. Goral &amp; A. Lerman (Red.), <i>Advances in the Neurolinguistic Study of Multilingual and Monolingual Adults</i> (s. 95&#x2013;112). Routledge. <a href="https://doi.org/10.4324/9781003330318-10">https://doi.org/10.4324/9781003330318-10</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-QBITM2B7" class="csl-bib-button">Arkiv</a>
@@ -68,7 +68,7 @@ Rom 2C275
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>39</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

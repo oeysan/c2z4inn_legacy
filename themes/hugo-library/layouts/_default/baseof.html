@@ -1,7 +1,7 @@
 {{ $versionParts := split .Site.Params.version "." }}
 {{ $majorMinorVersion := slice (index $versionParts 0) (index $versionParts 1) }}
 
-{{ if ne (printf "%s.%s" (index $majorMinorVersion 0) (index $majorMinorVersion 1)) "0.1" }}
+{{ if ne (printf "%s.%s" (index $majorMinorVersion 0) (index $majorMinorVersion 1)) "0.2" }}
   {{ errorf "\n\nCheck your theme version\n" }}
 {{ end }}
 <!DOCTYPE html>

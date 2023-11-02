@@ -1,0 +1,26 @@
+---
+headless: true
+---
+
+```{r knitrrrr, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  out.width = "100%",
+  warning = FALSE,
+  message = FALSE
+)
+
+```
+
+```{r updated, include=FALSE}
+updated <- format(Sys.time(), "%m-%d-%Y (at %H:%M)")
+```
+
+
+<figure class="include">
+<ul class="tree vertical-tree">
+  `r params$tree`
+</ul>
+  `r params$tree-select`
+</figure>

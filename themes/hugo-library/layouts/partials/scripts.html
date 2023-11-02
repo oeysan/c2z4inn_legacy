@@ -62,6 +62,8 @@ document.addEventListener('DOMContentLoaded', function () {
   // Call the updateLocale function with the selected language
   // To initialize the translation updater, call the function
   initializeTranslationUpdater(defaultContentLanguage);
+  updateTreeUlHeight();
+
   // Hide the loader with a delay of 500 ms after the page is fully loaded
   const loaderContainer = document.querySelector('#loader-container');
   window.addEventListener("load", function () {

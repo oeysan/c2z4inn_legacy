@@ -18,6 +18,7 @@
   --cover-image: url(#{h.$subfolder}images/nature.jpg);
   --cover-filter: none;
   --image-brightness: brightness(100%);
+  --tree-connector: 100%;
 }
   
 // we only override the variables we need:
@@ -96,3 +97,9 @@ $global-headings: (
   h5: 14px,
   h6: 14px
 ) !default;
+
+// Tree
+$tree-font-size: 12px;
+$tree-height: var(--tree-connector);
+$connector-length: .5em;
+$connector-width: .05em;

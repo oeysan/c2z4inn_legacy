@@ -28,7 +28,7 @@
         {{ if .Site.Params.image }}
         <div class="right">
         {{ $headless := .Site.GetPage .Site.Params.image }}
-        {{ with $headless.Content -}} {{.}} {{ end -}}
+        {{ with $headless.Content }} {{.}} {{ end }}
         </div>
         {{ end }}
     </article>

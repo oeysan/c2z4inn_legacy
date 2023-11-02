@@ -103,9 +103,7 @@ function initializeTranslationUpdater(defaultLocale) {
   if (changeLangLink) {
     // Add a click event listener to the 'change-lang' link
     changeLangLink.addEventListener('click', function (e) {
-        // Prevent the default link behavior (e.g., navigating to a new page)
-        e.preventDefault();
-
+    
         // Given URL
         var givenURL = window.location.href;
 
@@ -125,8 +123,8 @@ function initializeTranslationUpdater(defaultLocale) {
           var restOfURL = parts.slice(1).join('/');
 
           // Get the target language from the link's 'href' attribute
-          const newLang = changeLangLink.getAttribute('href');
-          
+          const newLang = changeLangLink.getAttribute('data-lang');
+
           // Create the new URL
           var newURL = baseURL + newLang + '/' + restOfURL;
         

@@ -1,17 +1,18 @@
 ---
-title: "Epilogue: The Future of Work and How to Organize and Manage It."
+title: "Epilogue: The Future of Work and How to Organize and Manage It"
 type: pub
 ---
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-9NG74KQZ" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Bergum, S., Peters, P., &amp; Vold, A. T. (2023). Epilogue: The Future of Work and How to Organize and Manage It. I S. Bergum &amp; P. Peters (Red.), <i>Virtual management and the new normal: new perspectives on human resources since the COVID-19 pandemic</i> (s. 405&#x2013;434). Palgrave Macmillan.</div>
+  <div class="csl-entry">Bergum, S., Peters, P., &amp; Vold, A. T. (2023). Epilogue: The Future of Work and How to Organize and Manage It. I S. Bergum &amp; P. Peters (Red.), <i>Virtual management and the new normal: new perspectives on human resources since the COVID-19 pandemic</i> (s. 405&#x2013;434). Palgrave Macmillan. <a href="https://doi.org/10.1007/978-3-031-06813-3_20">https://doi.org/10.1007/978-3-031-06813-3_20</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-9NG74KQZ" class="csl-bib-button">Arkiv</a>
     <a href="https://app.cristin.no/results/show.jsf?id=2130435" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5022929/items/9NG74KQZ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-9NG74KQZ" class="csl-bib-button">Medverkande</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1007/978-3-031-06813-3_20" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-9NG74KQZ"></div>
 </article>

@@ -5,6 +5,7 @@ rm(list=ls())
 graphics.off()
 source("backend.R")
 
+
 # Fetch Norwegian library
 lib.no <- GetLibrary(
   lang = "no", 
@@ -12,7 +13,7 @@ lib.no <- GetLibrary(
   start.date = "2017-01",
   end.date = "2023-11",
   update = TRUE,
-  post = TRUE
+  # post = TRUE
 )
 
 # Fetch English library
@@ -26,25 +27,29 @@ lib.en <- GetLibrary(
 )
 
 # Create SDG overview
-SdgOverview("no")
-SdgOverview("en")
+SdgOverview("no", sdg.data)
+SdgOverview("en", sdg.data)
 
 # Create about
 About("no")
 About("en")
 
 # Create doughtnuts
-SdgDoughnut("no")
-SdgDoughnut("en")
+SdgDoughnut("no", sdg.data)
+SdgDoughnut("en", sdg.data)
 
 # Create SDG per units
 SdgUnits("no")
 SdgUnits("en")
 
+# Create SDG trend
+SdgTrend("no")
+SdgTrend("en")
+
 # Render README
 RenderSave("README.Rmd", remove.blank = FALSE)
 
-commit.name <- "hugo library 0.1.6"
+commit.name <- "c2z4uni 0.1.0.9009"
 branch.name <- "main"
 
 init <- system(

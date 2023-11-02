@@ -1,9 +1,5 @@
 ---
 headless: true
-output: 
-  html_document:
-    keep_md: true
-    preserve_yaml: true
 ---
 
 ```{r knitrrrr, include = FALSE}

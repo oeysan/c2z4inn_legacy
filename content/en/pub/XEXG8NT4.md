@@ -5,7 +5,7 @@ type: pub
 <h1>Publication</h1>
 <article id="csl-bib-container-XEXG8NT4" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Fyndanis, V., Cameron, S., Hansen, P., Norvik, M. I., &amp; Simonsen, H. G. (2022). Multilingualism and verbal short-term/working memory: Evidence from academics. <i>Bilingualism: Language and Cognition</i>, 1&#x2013;14. <a href="https://doi.org/10.1017/S1366728922000621">https://doi.org/10.1017/S1366728922000621</a></div>
+  <div class="csl-entry">Fyndanis, V., Cameron, S., Hansen, P., Norvik, M. I., &amp; Simonsen, H. G. (2022). Multilingualism and verbal short-term/working memory: Evidence from academics. <i>Bilingualism: Language and Cognition</i>, <i>26</i>(3), 490&#x2013;503. <a href="https://doi.org/10.1017/S1366728922000621">https://doi.org/10.1017/S1366728922000621</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-XEXG8NT4" class="csl-bib-button">Archive</a>
@@ -76,7 +76,7 @@ Room 2C275
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>39</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>
