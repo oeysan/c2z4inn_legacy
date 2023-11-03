@@ -16,16 +16,12 @@ knitr::opts_chunk$set(
 ```{r updated, include=FALSE}
 updated <- format(Sys.time(), "%m-%d-%Y (at %H:%M)")
 ```
-
-<h1>Oversikt for `r params$unit.name`</h1>
-
 <a id="archive-url" href="`r params$archive.url`">Gå til arkivet</a>
-
+<h1>Oversikt for `r params$unit.name`</h1>
 <div id="stats-descriptives">
 <p>Publikasjonar: <span class="stats-n">`r params$n.publications`</span></p>
-<p>Publikasjonar om berekraftsmål: <span class="stats-n">`r params$n.sdg`</span></p>
+<p>Berekraftsmål: <span class="stats-n">`r params$n.sdg`</span></p>
 </div>
-
 
 <div class="stats-graphs">
 ```{r chart, echo=FALSE, results='asis'}
@@ -37,7 +33,6 @@ if (!is.null(params$sdg.doughnut)) {
 }
 ```
 </div>
-
 
 <div id="sdg-overview">
   `r params$sdg.overview`

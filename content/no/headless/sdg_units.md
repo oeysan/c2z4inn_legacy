@@ -1,9 +1,8 @@
 ---
 headless: true
 ---
-`<h1>Publikasjonar om berekraftsmål</h1>
-{{< chart >}}
-{
+<h1>Publikasjonar om berekraftsmål</h1>
+{{< chart >}}{
     "type": "bar",
     "data": {
         "labels": [
@@ -252,4 +251,4 @@ headless: true
         }
     }
 }
-{{< /chart >}}`{=html}
+{{< /chart >}}

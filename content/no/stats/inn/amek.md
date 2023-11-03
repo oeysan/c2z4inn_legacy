@@ -1,15 +1,14 @@
 ---
 headless: true
 ---
-<h1>Oversikt for Fakultet for audiovisuelle medier og kreativ teknologi</h1>
 <a id="archive-url" href="{{< params subfolder >}}no/archive/?&collection=FDL6F5QB">Gå til arkivet</a>
+<h1>Oversikt for Fakultet for audiovisuelle medier og kreativ teknologi</h1>
 <div id="stats-descriptives">
 <p>Publikasjonar: <span class="stats-n">98</span></p>
-<p>Publikasjonar om berekraftsmål: <span class="stats-n">12</span></p>
+<p>Berekraftsmål: <span class="stats-n">12</span></p>
 </div>
 <div class="stats-graphs">
-<div>{{< chart >}}
-{
+<div>{{< chart >}}{
     "type": "line",
     "data": {
         "labels": [
@@ -95,8 +94,7 @@ headless: true
         }
     }
 }
-{{< /chart >}}</div><div>{{< chart >}}
-{
+{{< /chart >}}</div><div>{{< chart 550px 500px >}}{
     "type": "doughnut",
     "data": {
         "labels": [

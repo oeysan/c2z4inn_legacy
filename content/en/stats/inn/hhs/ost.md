@@ -1,15 +1,14 @@
 ---
 headless: true
 ---
-<h1>Overview for Eastern Norway Research Institute</h1>
 <a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=PX7ZS5TB">Go to archive</a>
+<h1>Overview for Eastern Norway Research Institute</h1>
 <div id="stats-descriptives">
 <p>Publications: <span class="stats-n">91</span></p>
-<p>Publications on Sustainable Development Goals: <span class="stats-n">10</span></p>
+<p>Sustainable Development Goals: <span class="stats-n">10</span></p>
 </div>
 <div class="stats-graphs">
-<div>{{< chart >}}
-{
+<div>{{< chart 550px 500px >}}{
     "type": "doughnut",
     "data": {
         "labels": [

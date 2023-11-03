@@ -2,8 +2,7 @@
 headless: true
 ---
 <h1>Publications on Sustainable Development Goals</h1>
-{{< chart >}}
-{
+{{< chart >}}{
     "type": "line",
     "data": {
         "labels": [

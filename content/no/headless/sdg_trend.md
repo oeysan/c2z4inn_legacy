@@ -2,8 +2,7 @@
 headless: true
 ---
 <h1>Publikasjonar om berekraftsmål</h1>
-{{< chart >}}
-{
+{{< chart >}}{
     "type": "line",
     "data": {
         "labels": [

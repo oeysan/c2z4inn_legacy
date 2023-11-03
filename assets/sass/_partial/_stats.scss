@@ -14,11 +14,9 @@
     position: relative;
 
     #archive-url {
-        position: absolute;
-        top: 15px;
-        right: 15px;
         transition: color 0.3s;
         color: $global-flashy;
+        float: right;
     }
     #archive-url:hover {
         color: $global-font-color;
@@ -43,15 +41,28 @@
     }
     
     .stats-graphs div {
-        width: 480px;
-        min-height: 200px;
+        width: 50%;
         margin-bottom: 10px;
         box-sizing: border-box;
     }
+
+    @include max-screen(768px) {
+        border: 0;
+        padding: 0;
+        box-shadow: none;
+
+        #stats-descriptives {
+            padding: 5px;
+        }
+      }
     
     @media (max-width: 999px) {
         .stats-graphs div {
-            width: 100%;
+            width: 100% !important;
+        }
+        .stats-graphs div canvas {
+            width: 100% !important;
+            height: 500px !important;
         }
     }
     

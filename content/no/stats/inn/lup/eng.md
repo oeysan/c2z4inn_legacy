@@ -1,15 +1,14 @@
 ---
 headless: true
 ---
-<h1>Oversikt for Institutt for engelsk</h1>
 <a id="archive-url" href="{{< params subfolder >}}no/archive/?&collection=CSGRPYRG">Gå til arkivet</a>
+<h1>Oversikt for Institutt for engelsk</h1>
 <div id="stats-descriptives">
 <p>Publikasjonar: <span class="stats-n">50</span></p>
-<p>Publikasjonar om berekraftsmål: <span class="stats-n">12</span></p>
+<p>Berekraftsmål: <span class="stats-n">12</span></p>
 </div>
 <div class="stats-graphs">
-<div>{{< chart >}}
-{
+<div>{{< chart 550px 500px >}}{
     "type": "doughnut",
     "data": {
         "labels": [

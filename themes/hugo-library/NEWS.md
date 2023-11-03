@@ -1,3 +1,8 @@
+# Hugo Library 0.2.1
+
+* Minor adjustments to `SCSS` (will make a thorough review of the `SCSS` sooner
+or later)
+
 # Hugo Library 0.2.0
 
 * Added the a `stats` section with the possibility of presenting various 

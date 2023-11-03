@@ -1,15 +1,14 @@
 ---
 headless: true
 ---
-<h1>Overview for Administration</h1>
 <a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=HJPESYSH">Go to archive</a>
+<h1>Overview for Administration</h1>
 <div id="stats-descriptives">
 <p>Publications: <span class="stats-n">53</span></p>
-<p>Publications on Sustainable Development Goals: <span class="stats-n">16</span></p>
+<p>Sustainable Development Goals: <span class="stats-n">16</span></p>
 </div>
 <div class="stats-graphs">
-<div>{{< chart >}}
-{
+<div>{{< chart >}}{
     "type": "line",
     "data": {
         "labels": [
@@ -95,8 +94,7 @@ headless: true
         }
     }
 }
-{{< /chart >}}</div><div>{{< chart >}}
-{
+{{< /chart >}}</div><div>{{< chart 550px 500px >}}{
     "type": "doughnut",
     "data": {
         "labels": [

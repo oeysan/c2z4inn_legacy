@@ -1,15 +1,14 @@
 ---
 headless: true
 ---
-<h1>Overview for Department of Organisation, Leadership and Management</h1>
 <a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=K8U6VG8W">Go to archive</a>
+<h1>Overview for Department of Organisation, Leadership and Management</h1>
 <div id="stats-descriptives">
 <p>Publications: <span class="stats-n">497</span></p>
-<p>Publications on Sustainable Development Goals: <span class="stats-n">150</span></p>
+<p>Sustainable Development Goals: <span class="stats-n">150</span></p>
 </div>
 <div class="stats-graphs">
-<div>{{< chart >}}
-{
+<div>{{< chart 550px 500px >}}{
     "type": "doughnut",
     "data": {
         "labels": [

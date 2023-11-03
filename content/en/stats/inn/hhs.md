@@ -1,15 +1,14 @@
 ---
 headless: true
 ---
-<h1>Overview for Inland School of Business and Social Sciences</h1>
 <a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=AA9DH6AR">Go to archive</a>
+<h1>Overview for Inland School of Business and Social Sciences</h1>
 <div id="stats-descriptives">
 <p>Publications: <span class="stats-n">1389</span></p>
-<p>Publications on Sustainable Development Goals: <span class="stats-n">406</span></p>
+<p>Sustainable Development Goals: <span class="stats-n">406</span></p>
 </div>
 <div class="stats-graphs">
-<div>{{< chart >}}
-{
+<div>{{< chart >}}{
     "type": "line",
     "data": {
         "labels": [
@@ -95,8 +94,7 @@ headless: true
         }
     }
 }
-{{< /chart >}}</div><div>{{< chart >}}
-{
+{{< /chart >}}</div><div>{{< chart 550px 500px >}}{
     "type": "doughnut",
     "data": {
         "labels": [

@@ -1,15 +1,14 @@
 ---
 headless: true
 ---
-<h1>Oversikt for Institutt for organisasjon, ledelse, styring</h1>
 <a id="archive-url" href="{{< params subfolder >}}no/archive/?&collection=K8U6VG8W">Gå til arkivet</a>
+<h1>Oversikt for Institutt for organisasjon, ledelse, styring</h1>
 <div id="stats-descriptives">
 <p>Publikasjonar: <span class="stats-n">497</span></p>
-<p>Publikasjonar om berekraftsmål: <span class="stats-n">150</span></p>
+<p>Berekraftsmål: <span class="stats-n">150</span></p>
 </div>
 <div class="stats-graphs">
-<div>{{< chart >}}
-{
+<div>{{< chart 550px 500px >}}{
     "type": "doughnut",
     "data": {
         "labels": [

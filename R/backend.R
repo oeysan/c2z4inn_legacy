@@ -223,9 +223,16 @@ Stats <- \(unit = NULL,
   n.sdg <- sum(sdg.unit$sum)
   
   publication.trend <- PublicationTrend(
-    SdgSum(unit$key, data, sdg.unit, "year", TRUE)
+    SdgSum(unit$key, data, sdg.unit, "year", TRUE),
+    lang
   )
-  sdg.doughnut <- SdgDoughnut("no", sdg.unit, FALSE, FALSE)
+  sdg.doughnut <- SdgDoughnut(
+    "no", 
+    sdg.unit, 
+    FALSE, 
+    FALSE,
+    div.width = "550px",
+    div.height = "500px")
   
   # Only use publication.trend on level less than max level
   ## Default is 2, meaning institutions (e.g., INN) and faculties.
@@ -306,6 +313,7 @@ CreateStats <- \(lang = "no") {
     "<figure class=\"include\">%s</figure>",
     paste0("\n", c2z:::ToString(c(tree, tree.select), "\n"), "\n")
   )
+  
   RenderSave(
     headless,
     params = list(html = html),
@@ -482,8 +490,12 @@ RenderSave <- \(Rmd.path,
                 md.dir = NULL,
                 md.name = NULL,
                 output.format = "html_document",
+                keep.yaml = TRUE,
                 silent = TRUE,
                 remove.blank = TRUE) {
+  
+  # Visible bindings
+  output.options <- NULL
   
   # Find Rmd name
   Rmd.name <- basename(Rmd.path)
@@ -498,6 +510,14 @@ RenderSave <- \(Rmd.path,
   } else {
     md.name <- paste0(md.name, ".md")
   }
+  # Define output.options
+  if (keep.yaml) {
+    output.options <- list(
+      preserve_yaml = TRUE,
+      keep_md = TRUE
+    )
+  }
+  
   # Render Rmd
   rmarkdown::render(
     input  = Rmd.path,
@@ -505,10 +525,7 @@ RenderSave <- \(Rmd.path,
     output_file = md.name,
     output_dir = md.dir,
     output_format = output.format,
-    output_options = list(
-      preserve_yaml = TRUE,
-      keep_md = TRUE
-    ),
+    output_options = output.options,
     quiet = silent
   )
   
@@ -558,7 +575,10 @@ CreateChart <- function(
     point.background = NULL,
     point.border = NULL,
     point.background.hover = NULL,
-    point.border.hover = NULL
+    point.border.hover = NULL,
+    shortcode = TRUE,
+    div.width = NULL,
+    div.height = NULL
 ) {
   
   # Function to set lenght of variables
@@ -689,6 +709,15 @@ CreateChart <- function(
     jsonlite::prettify() |>
     # String to function
     (function(x) gsub("\"\\*code\\*|\\*code\\*\"", "", x))()
+
+  if (shortcode) {
+    # Complete shortcode
+    json <- paste0(
+      c2z:::Trim(paste("{{< chart", div.width, div.height, ">}}\n")),
+      json, 
+      '\n{{< /chart >}}'
+    )
+  }
   
   return(json)
   
@@ -775,7 +804,13 @@ SdgLabels <- \(lang = "no") {
 #' @title SdgDoughnut
 #' @keywords internal
 #' @noRd
-SdgDoughnut <- \(lang, sdg.data, render = TRUE, header = TRUE) {
+SdgDoughnut <- \(lang, 
+                 sdg.data, 
+                 render = TRUE, 
+                 header = TRUE,
+                 shortcode = TRUE,
+                 div.width = NULL,
+                 div.height = NULL) {
   
   # Define SDG Labels
   labels <- SdgLabels(lang)
@@ -803,16 +838,16 @@ SdgDoughnut <- \(lang, sdg.data, render = TRUE, header = TRUE) {
     background.color = background.color,
     font.color = "black",
     x.axis = FALSE,
-    y.axis = FALSE
+    y.axis = FALSE,
+    shortcode = shortcode,
+    div.width = div.width,
+    div.height = div.height
   )
-  
-  # Complete shortcode
-  shortcode <- paste('{{< chart >}}\n', chart, '\n{{< /chart >}}', sep = '')
   
   # Create HTML 
   html <- tagList(
     if (header) h1(Dict("sdg.publications", lang, 1)),
-    HTML(shortcode)
+    HTML(chart)
   )  |>
     as.character() |>
     c2z4uni:::GoFish(type = NULL)
@@ -880,7 +915,7 @@ SdgOverview <- \(lang,
 #' @title PublicationTren 
 #' @keywords internal
 #' @noRd
-PublicationTrend <- \(data) {
+PublicationTrend <- \(data, lang) {
   
   dataset.labels <- c(Dict("publications", lang, 2), Dict("sdg", lang, 2))
   labels <- data$names
@@ -897,10 +932,8 @@ PublicationTrend <- \(data) {
     line.width = 2
   )
   
-  shortcode <- paste('{{< chart >}}\n', chart, '\n{{< /chart >}}', sep = '')
-  
   # Create HTML 
-  html <- HTML(shortcode)
+  html <- HTML(chart)
   
   
 }
@@ -940,13 +973,10 @@ SdgTrend <- \(lang, sdg.data, header = TRUE) {
     y.text = Dict("n.publications", lang),
     line.width = 2
   )
-  
-  shortcode <- paste('{{< chart >}}\n', chart, '\n{{< /chart >}}', sep = '')
-  
   # Create HTML 
   html <- tagList(
     if (header) h1(Dict("sdg.publications", lang, 1)),
-    HTML(shortcode) 
+    HTML(chart) 
   )  |>
     as.character() |>
     c2z4uni:::GoFish(type = NULL)
@@ -998,13 +1028,13 @@ SdgUnits <- \(lang, sdg.data, header = TRUE) {
     stack.y = TRUE
   )
   
-  shortcode <- paste('{{< chart >}}\n', chart, '\n{{< /chart >}}', sep = '')
-  
   # Create HTML 
   html <- tagList(
     if (header) h1(Dict("sdg.publications", lang, 1)),
-    HTML(shortcode)
-  )
+    HTML(chart)
+  ) |>
+    as.character() |>
+    c2z4uni:::GoFish(type = NULL)
   
   RenderSave(
     headless,
