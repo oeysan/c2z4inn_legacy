@@ -45,6 +45,7 @@ sdg.host <- NULL
 sdg.data <<- readRDS(file.path(local.storage, "sdg_predictions.rds")) |>
   c2z4uni:::SdgCutoff()
 items <<- readRDS(file.path(local.storage, "items.rds"))
+extras <<- readRDS(file.path(local.storage, "monthlies_extras.rds"))
 
 ################################################################################
 ###############################Internal Functions###############################
