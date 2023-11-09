@@ -24,14 +24,13 @@ headless: true
             {
                 "label": "Publikasjonar",
                 "data": [
-                    505,
-                    475,
+                    506,
+                    476,
                     539,
                     548,
                     645,
-                    768,
-                    717,
-                    27
+                    770,
+                    740
                 ],
                 "borderRadius": 0
             },
@@ -44,8 +43,7 @@ headless: true
                     133,
                     225,
                     287,
-                    286,
-                    15
+                    301
                 ],
                 "borderRadius": 0
             }

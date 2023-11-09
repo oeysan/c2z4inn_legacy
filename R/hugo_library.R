@@ -26,24 +26,24 @@ lib.en <- GetLibrary(
 )
 
 # Create SDG overview
-SdgOverview("no", sdg.data)
-SdgOverview("en", sdg.data)
+SdgOverview("no")
+SdgOverview("en")
 
 # Create about
 About("no")
 About("en")
 
 # Create doughtnuts
-SdgDoughnut("no", sdg.data)
-SdgDoughnut("en", sdg.data)
+SdgDoughnut("no")
+SdgDoughnut("en")
 
 # Create SDG per units
-SdgUnits("no", sdg.data)
-SdgUnits("en", sdg.data)
+SdgUnits("no")
+SdgUnits("en")
 
 # Create SDG trend
-SdgTrend("no", sdg.data)
-SdgTrend("en", sdg.data)
+SdgTrend("no")
+SdgTrend("en")
 
 # Create stats
 CreateStats("no")
@@ -56,7 +56,7 @@ RenderSave(
   keep.yaml = FALSE,
   remove.blank = FALSE
 )
-commit.name <- "c2z4uni 0.1.0.9013"
+commit.name <- "c2z4uni 0.1.0.9015"
 branch.name <- "main"
 
 init <- system(

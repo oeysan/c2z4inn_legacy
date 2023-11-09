@@ -26,10 +26,10 @@ headless: true
             {
                 "label": "Mål 2: Utrydde svolt",
                 "data": [
-                    27,
+                    28,
                     10,
                     1,
-                    8
+                    9
                 ],
                 "backgroundColor": "rgba(221, 166, 58, 1)",
                 "borderRadius": 0
@@ -37,10 +37,10 @@ headless: true
             {
                 "label": "Mål 3: Gode helse og livskvalitet",
                 "data": [
-                    22,
+                    24,
                     165,
                     7,
-                    33
+                    34
                 ],
                 "backgroundColor": "rgba(76, 159, 56, 1)",
                 "borderRadius": 0

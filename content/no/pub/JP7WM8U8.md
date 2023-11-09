@@ -104,13 +104,13 @@ Studiested Evenstad
 </div> <div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>46</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>47</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>227</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>229</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

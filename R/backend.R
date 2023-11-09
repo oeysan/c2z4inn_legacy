@@ -42,10 +42,83 @@ sdg.host <- NULL
 ###############################Internal Data####################################
 ################################################################################
 
-sdg.data <<- readRDS(file.path(local.storage, "sdg_predictions.rds")) |>
-  c2z4uni:::SdgCutoff()
-items <<- readRDS(file.path(local.storage, "items.rds"))
-extras <<- readRDS(file.path(local.storage, "monthlies_extras.rds"))
+
+#' @title MountData
+#' @keywords internal
+#' @noRd
+MountData <- \(lang, sdg.data = NULL, sdg.cutoff = 0.98) {
+
+  if (is.null(sdg.data)) {
+    assign(
+      "sdg.data", 
+      readRDS(file.path(local.storage, "sdg_predictions.rds")) |>
+        c2z4uni:::SdgCutoff(sdg.cutoff),
+      envir = parent.frame()
+    )
+  }
+
+  assign(
+    "items", 
+    readRDS(file.path(local.storage, "items.rds")), 
+    envir = parent.frame()
+  )
+  
+  assign(
+    "bibliography", 
+    readRDS(
+      file.path(local.storage, sprintf("bibliography_%s.rds", lang))
+    ),
+    envir = parent.frame()
+  )
+  
+  unit.paths <- readRDS(
+    file.path(local.storage, sprintf("unit_paths_%s.rds", lang))
+  )
+  monthlies <- readRDS(
+    file.path(local.storage, sprintf("monthlies_%s.rds", lang))
+  )
+  extras <- readRDS(file.path(local.storage, "monthlies_extras.rds"))
+  cristin.monthly <- list(
+    unit.paths = unit.paths,
+    monthlies = monthlies
+  )
+  cristin.monthly$monthlies <- cristin.monthly$monthlies |>
+    dplyr::left_join(dplyr::select(extras, -cristin.id), by = join_by(key))
+  
+
+  assign(
+    "unit.paths", 
+    unit.paths,
+    envir = parent.frame()
+  )
+    
+  assign(
+    "monthlies", 
+    monthlies,
+    envir = parent.frame()
+  )
+  
+  assign(
+    "extras", 
+    extras,
+    envir = parent.frame()
+  )
+  
+  assign(
+    "cristin.monthly", 
+    cristin.monthly,
+    envir = parent.frame()
+  )
+  
+  assign(
+    "updated.keys", 
+    readRDS(file.path(local.storage, "updated_keys.rds")),
+    envir = parent.frame()
+  )
+ 
+}
+
+
 
 ################################################################################
 ###############################Internal Functions###############################
@@ -235,6 +308,7 @@ Stats <- \(unit = NULL,
   sdg.doughnut <- SdgDoughnut(
     lang, 
     sdg.unit, 
+    sdg.cutoff,
     FALSE, 
     FALSE,
     div.width = "550px",
@@ -290,14 +364,10 @@ Stats <- \(unit = NULL,
 #' @title CreateStats
 #' @keywords internal
 #' @noRd
-CreateStats <- \(lang = "no", sdg.cutoff = 0.98) {
+CreateStats <- \(lang = "no", sdg.data = NULL, sdg.cutoff = 0.98) {
   
-  unit.paths <- readRDS(
-    file.path(local.storage, sprintf("unit_paths_%s.rds", lang))
-  )
-  monthlies <- readRDS(
-    file.path(local.storage, sprintf("monthlies_%s.rds", lang))
-  )
+  # Mount Data
+  MountData(lang, sdg.data, sdg.cutoff)
   
   stats <- lapply(unit.paths$id, \(x) {
     Stats(
@@ -812,12 +882,16 @@ SdgLabels <- \(lang = "no") {
 #' @keywords internal
 #' @noRd
 SdgDoughnut <- \(lang, 
-                 sdg.data, 
+                 sdg.data = NULL, 
+                 sdg.cutoff = 0.98,
                  render = TRUE, 
                  header = TRUE,
                  shortcode = TRUE,
                  div.width = NULL,
                  div.height = NULL) {
+  
+  # Mount Data
+  MountData(lang, sdg.data, sdg.cutoff)
   
   # Create numeric sdg data
   data <- as.numeric(sdg.data$sum)
@@ -879,12 +953,16 @@ SdgDoughnut <- \(lang,
 #' @keywords internal
 #' @noRd
 SdgOverview <- \(lang, 
-                 sdg.data, 
+                 sdg.data = NULL, 
+                 sdg.cutoff = 0.98,
                  render = TRUE, 
                  archive.append = NULL,
                  sort = FALSE,
                  delete = FALSE,
                  header = TRUE) {
+  
+  # Mount Data
+  MountData(lang, sdg.data, sdg.cutoff)
   
   # Fetch data
   sdg <- c2z4uni:::SdgInfo(
@@ -949,14 +1027,10 @@ PublicationTrend <- \(data, lang) {
 #' @title SdgTrend
 #' @keywords internal
 #' @noRd
-SdgTrend <- \(lang, sdg.data, sdg.cutoff = 0.98, header = TRUE) {
+SdgTrend <- \(lang, sdg.data = NULL, sdg.cutoff = 0.98, header = TRUE) {
   
-  unit.paths <- readRDS(
-    file.path(local.storage, sprintf("unit_paths_%s.rds", lang))
-  )
-  monthlies <- readRDS(
-    file.path(local.storage, sprintf("monthlies_%s.rds", lang))
-  )
+  # Mount Data
+  MountData(lang, sdg.data, sdg.cutoff)
  
   # Main publishing faculties
   ids <- c("209.0.0.0", "209.2.0.0", "209.4.0.0", "209.5.0.0", "209.6.0.0")
@@ -1004,14 +1078,10 @@ SdgTrend <- \(lang, sdg.data, sdg.cutoff = 0.98, header = TRUE) {
 #' @title SdgUnits
 #' @keywords internal
 #' @noRd
-SdgUnits <- \(lang, sdg.data, sdg.cutoff = 0.98, header = TRUE) {
+SdgUnits <- \(lang, sdg.data = NULL, sdg.cutoff = 0.98, header = TRUE) {
   
-  unit.paths <- readRDS(
-    file.path(local.storage, sprintf("unit_paths_%s.rds", lang))
-  )
-  monthlies <- readRDS(
-    file.path(local.storage, sprintf("monthlies_%s.rds", lang))
-  )
+  # Mount Data
+  MountData(lang, sdg.data, sdg.cutoff)
   
   # Main publishing faculties
   ids <- c("209.2.0.0", "209.4.0.0", "209.5.0.0", "209.6.0.0")
@@ -1118,6 +1188,7 @@ GetLibrary <- \(lang,
                 full.update = FALSE,
                 get.unpaywall = TRUE,
                 get.ezproxy = TRUE,
+                sdg.cutoff = 0.98,
                 silent = FALSE,
                 log = list()) {
   
@@ -1140,6 +1211,7 @@ GetLibrary <- \(lang,
       local.storage = local.storage,
       sdg.model = sdg.model,
       sdg.script = sdg.script,
+      sdg.cutoff = sdg.cutoff,
       sdg.host = sdg.host,
       locale = locale,
       post = post,
@@ -1150,27 +1222,10 @@ GetLibrary <- \(lang,
     )
     
   }
+  
+  # Mount Data
+  MountData(lang, sdg.cutoff = sdg.cutoff)
 
-  # Fetch data
-  sdg.data <<- readRDS(file.path(local.storage, "sdg_predictions.rds")) |>
-    c2z4uni:::SdgCutoff()
-  items <<- readRDS(file.path(local.storage, "items.rds"))
-  extras <<- readRDS(
-    file.path(local.storage, "monthlies_extras.rds")
-  )
-  cristin.monthly <<- list(
-    unit.paths = readRDS(
-      file.path(local.storage, sprintf("unit_paths_%s.rds", lang))
-    ),
-    monthlies = readRDS(
-      file.path(local.storage, sprintf("monthlies_%s.rds", lang))
-    )
-  )
-  cristin.monthly$monthlies <<- cristin.monthly$monthlies |>
-    dplyr::left_join(dplyr::select(extras, -cristin.id), by = join_by(key))
-  
-  updated.keys <<- readRDS(file.path(local.storage, "updated_keys.rds"))
-  
   # Log
   log <-  c2z:::LogCat(
     "Creating email",

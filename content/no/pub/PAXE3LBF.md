@@ -114,7 +114,7 @@ Studiested Lillehammer
 </div> <div id="sdg12" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg12_no.png" class="image" alt="SDG 12">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=12#archive" class="sdg-publication-count"><span>46</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=12#archive" class="sdg-publication-count"><span>47</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/ansvarlig-forbruk-og-produksjon?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

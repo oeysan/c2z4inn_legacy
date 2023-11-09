@@ -16,9 +16,9 @@ headless: true
                 "label": "Mål 1: Utrydde fattigdom",
                 "data": [
                     2,
-                    26,
+                    25,
                     1,
-                    12
+                    11
                 ],
                 "backgroundColor": "rgba(229, 36, 59, 1)",
                 "borderRadius": 0
@@ -38,7 +38,7 @@ headless: true
                 "label": "Mål 3: Gode helse og livskvalitet",
                 "data": [
                     24,
-                    168,
+                    165,
                     7,
                     34
                 ],
@@ -60,7 +60,7 @@ headless: true
                 "label": "Mål 5: Likestilling mellom kjønna",
                 "data": [
                     3,
-                    45,
+                    44,
                     18,
                     28
                 ],
@@ -115,7 +115,7 @@ headless: true
                 "label": "Mål 10: Mindre ulikskap",
                 "data": [
                     4,
-                    82,
+                    81,
                     55,
                     55
                 ],
@@ -136,7 +136,7 @@ headless: true
             {
                 "label": "Mål 12: Ansvarleg forbruk og produksjon",
                 "data": [
-                    5,
+                    4,
                     6,
                     0,
                     2
@@ -158,7 +158,7 @@ headless: true
             {
                 "label": "Mål 14: Livet i havet",
                 "data": [
-                    36,
+                    35,
                     2,
                     2,
                     3
@@ -169,7 +169,7 @@ headless: true
             {
                 "label": "Mål 15: Livet på land",
                 "data": [
-                    76,
+                    75,
                     1,
                     1,
                     4
@@ -193,8 +193,8 @@ headless: true
                 "data": [
                     4,
                     25,
-                    13,
-                    61
+                    12,
+                    60
                 ],
                 "backgroundColor": "rgba(25, 72, 106, 1)",
                 "borderRadius": 0

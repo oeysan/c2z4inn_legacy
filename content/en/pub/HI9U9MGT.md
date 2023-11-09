@@ -78,7 +78,7 @@ Room 4L3213
 </div> <div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>46</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>47</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

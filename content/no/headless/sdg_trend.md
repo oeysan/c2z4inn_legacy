@@ -24,7 +24,7 @@ headless: true
                     133,
                     225,
                     287,
-                    298
+                    301
                 ],
                 "borderRadius": 0
             },
@@ -37,7 +37,7 @@ headless: true
                     20,
                     34,
                     48,
-                    83
+                    86
                 ],
                 "borderRadius": 0
             },
@@ -76,7 +76,7 @@ headless: true
                     40,
                     61,
                     86,
-                    99
+                    101
                 ],
                 "borderRadius": 0
             }

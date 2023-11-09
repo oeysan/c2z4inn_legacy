@@ -33,13 +33,13 @@ type: pub
 </div> <div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>46</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>47</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>227</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>229</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

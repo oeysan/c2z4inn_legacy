@@ -104,7 +104,7 @@ Room 4L3227
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>46</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>47</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -33,13 +33,13 @@ type: pub
 </div> <div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>46</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>47</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg12" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg12_en.png" class="image" alt="SDG 12">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=12#archive" class="sdg-publication-count"><span>227</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=12#archive" class="sdg-publication-count"><span>229</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal12" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>
