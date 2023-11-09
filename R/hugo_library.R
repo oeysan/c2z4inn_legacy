@@ -56,8 +56,7 @@ RenderSave(
   keep.yaml = FALSE,
   remove.blank = FALSE
 )
-
-commit.name <- "hugo library 0.2.0"
+commit.name <- "c2z4uni 0.1.0.9013"
 branch.name <- "main"
 
 init <- system(

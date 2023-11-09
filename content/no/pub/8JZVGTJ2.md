@@ -91,7 +91,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>39</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

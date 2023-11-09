@@ -5,7 +5,7 @@ headless: true
 <h1>Overview for Inland School of Business and Social Sciences</h1>
 <div id="stats-descriptives">
 <p>Publications: <span class="stats-n">1389</span></p>
-<p>Sustainable Development Goals: <span class="stats-n">406</span></p>
+<p>Sustainable Development Goals: <span class="stats-n">408</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart >}}{
@@ -43,7 +43,7 @@ headless: true
                     40,
                     61,
                     86,
-                    99
+                    101
                 ],
                 "borderRadius": 0
             }
@@ -98,34 +98,32 @@ headless: true
     "type": "doughnut",
     "data": {
         "labels": [
-            "Mål 1: Utrydde fattigdom",
-            "Mål 2: Utrydde svolt",
-            "Mål 3: Gode helse og livskvalitet",
-            "Mål 4: God utdanning",
-            "Mål 5: Likestilling mellom kjønna",
-            "Mål 6: Reint vatn og gode sanitær forhold",
-            "Mål 7: Rein energi til alle",
-            "Mål 8: Anstendig arbeid og økonomisk vekst",
-            "Mål 9: Industri, innovasjon og infrastruktur",
-            "Mål 10: Mindre ulikskap",
-            "Mål 11: Berekraftig byar og lokalsamfunn",
-            "Mål 12: Ansvarleg forbruk og produksjon",
-            "Mål 13: Stoppe klimaendringane",
-            "Mål 14: Livet i havet",
-            "Mål 15: Livet på land",
-            "Mål 16: Fred, rettferd og velfungerande institusjonar",
-            "Mål 17: Samarbeid for å nå måla"
+            "Goal 1: No poverty",
+            "Goal 2: Zero hunger",
+            "Goal 3: Good health and well-being",
+            "Goal 4: Quality Education",
+            "Goal 5: Gender equality",
+            "Goal 7: Affordable and clean energy",
+            "Goal 8: Decent work and economic growth",
+            "Goal 9: Industry, innovation and infrastructure",
+            "Goal 10: Reduced inequalities",
+            "Goal 11: Sustainable cities and communities",
+            "Goal 12: Responsible consumption and production",
+            "Goal 13: Climate action",
+            "Goal 14: Life below water",
+            "Goal 15: Life in Land",
+            "Goal 16: Peace, Justice and strong institutions",
+            "Goal 17: Partnerships for the goals"
         ],
         "datasets": [
             {
-                "label": "Publikasjonar",
+                "label": "Publications",
                 "data": [
                     11,
-                    8,
-                    33,
+                    9,
+                    34,
                     16,
                     28,
-                    0,
                     11,
                     40,
                     53,
@@ -144,7 +142,6 @@ headless: true
                     "rgba(76, 159, 56, 1)",
                     "rgba(197, 25, 45, 1)",
                     "rgba(255, 58, 33, 1)",
-                    "rgba(38, 189, 226, 1)",
                     "rgba(252, 195, 11, 1)",
                     "rgba(162, 25, 66, 1)",
                     "rgba(253, 105, 37, 1)",
@@ -247,7 +244,7 @@ headless: true
 </div><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=3&collection=AA9DH6AR#archive" class="sdg-publication-count"><span>33</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=3&collection=AA9DH6AR#archive" class="sdg-publication-count"><span>34</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div><div id="sdg5" class="sdg">
@@ -289,7 +286,7 @@ headless: true
 </div><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=2&collection=AA9DH6AR#archive" class="sdg-publication-count"><span>8</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=2&collection=AA9DH6AR#archive" class="sdg-publication-count"><span>9</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p>
 </div>
 </div><div id="sdg15" class="sdg">

@@ -13,6 +13,7 @@ type: pub
     <a href="http://zotero.org/groups/5022929/items/WMKBH7AI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-WMKBH7AI" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-WMKBH7AI" class="csl-bib-button">Contributors</a>
+    <a href="#sdg-article-WMKBH7AI" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ddi.13784" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WMKBH7AI"></div>
@@ -82,6 +83,16 @@ Campus Evenstad
 </div>
 <a href="https://app.cristin.no/persons/show.jsf?id=26001" alt="Cristin URL" class="personas-cristin">Cristin</a>
 </div>
+  </article>
+  <article id="sdg-article-WMKBH7AI" class="sdg-article">
+    <h1>Sustainable Development Goals</h1>
+    <div class="sdg-container"><div id="sdg15" class="sdg">
+<img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
+<div class="sdg-overlay">
+<a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>39</span> Publications</a>
+<p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
+</div>
+</div></div>
   </article>
   <article id="taxonomy-article-WMKBH7AI" class="taxonomy-article">
     <h1>Archive</h1>

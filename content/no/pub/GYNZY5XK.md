@@ -5,7 +5,7 @@ type: pub
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-GYNZY5XK" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Brick, C., Nielsen, K. S., &amp; Hofmann, W. (2023). Opportunities for Emotion Research on Biodiversity. <i>Emotion Review</i>. <a href="https://doi.org/10.1177/17540739231193755">https://doi.org/10.1177/17540739231193755</a></div>
+  <div class="csl-entry">Brick, C., Nielsen, K. S., &amp; Hofmann, W. (2023). Opportunities for Emotion Research on Biodiversity. <i>Emotion Review</i>, <i>15</i>(4), 263&#x2013;266. <a href="https://doi.org/10.1177/17540739231193755">https://doi.org/10.1177/17540739231193755</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GYNZY5XK" class="csl-bib-button">Arkiv</a>
@@ -66,7 +66,7 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>41</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

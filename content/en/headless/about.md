@@ -13,7 +13,7 @@ Inland Norway University of Applied Sciences
 (registered in Cristin since the institution was established on January 1, 2017). 
 It is updated monthly.
 
-The archive was last updated **11-03-2023 (at 09:34)** and contains **4223** publications.
+The archive was last updated **11-09-2023 (at 15:51)** and contains **4250** publications.
 
 Use [the archive](#archive) to find publications for faculties and departments 
 at the university for a specific year or month. You can also use the search 

@@ -118,10 +118,15 @@ Dict <- \(x = NULL,
   c2z4uni:::Dict(x, lang, count, to.lower, prefix, error, i18n)
 }
 
-#' @title SdgData
+#' @title SdgSum
 #' @keywords internal
 #' @noRd
-SdgSum <- \(x, data, sdg.data = NULL, split = NULL, total = FALSE) {
+SdgSum <- \(x, 
+            data, 
+            sdg.data = NULL, 
+            sdg.cutoff = 0.98,
+            split = NULL, 
+            total = FALSE) {
   
   # Visible bindings
   sdg.sum <- n.publications <- names <- NULL
@@ -136,11 +141,11 @@ SdgSum <- \(x, data, sdg.data = NULL, split = NULL, total = FALSE) {
       dplyr::group_split(!!ensym(split))
   }
   
-  if (any(nrow(sdg.data$sdg))) { 
+  if (any(nrow(sdg.data))) { 
     sdg.sum <- lapply(unit.data, \(x) {
-      sdg <- sdg.data$sdg |> 
+      sdg <- sdg.data |> 
         dplyr::semi_join(x, by = "key") |>
-        c2z4uni:::SdgCutoff()
+        c2z4uni:::SdgCutoff(sdg.cutoff = sdg.cutoff)
       if (total) sdg$sum <- sum(sdg$sum)
       return (sdg$sum)
     })
@@ -171,12 +176,12 @@ Stats <- \(unit = NULL,
            monthlies, 
            extras, 
            sdg.data, 
+           sdg.cutoff = 0.98,
            lang = "no",
            render = TRUE,
            min = 30,
            max.level = 2) {
-  
-  
+
   unit.paths <- UnitNames(unit.paths)
   unit <- unit.paths |>
     dplyr::filter(id == unit | acronym == unit | name == unit | key == unit)
@@ -197,7 +202,7 @@ Stats <- \(unit = NULL,
   
   sdg.unit <- sdg.data$sdg |>
     dplyr::filter(key %in% data$key) |>
-    c2z4uni:::SdgCutoff()
+    c2z4uni:::SdgCutoff(sdg.cutoff = sdg.cutoff)
   
   if (!any(nrow(sdg.unit$sdg))) {
     return (NULL)
@@ -224,11 +229,11 @@ Stats <- \(unit = NULL,
   n.sdg <- sum(sdg.unit$sum)
   
   publication.trend <- PublicationTrend(
-    SdgSum(unit$key, data, sdg.unit, "year", TRUE),
+    SdgSum(unit$key, data, sdg.unit$sdg, sdg.cutoff, "year", TRUE),
     lang
   )
   sdg.doughnut <- SdgDoughnut(
-    "no", 
+    lang, 
     sdg.unit, 
     FALSE, 
     FALSE,
@@ -285,7 +290,7 @@ Stats <- \(unit = NULL,
 #' @title CreateStats
 #' @keywords internal
 #' @noRd
-CreateStats <- \(lang = "no") {
+CreateStats <- \(lang = "no", sdg.cutoff = 0.98) {
   
   unit.paths <- readRDS(
     file.path(local.storage, sprintf("unit_paths_%s.rds", lang))
@@ -302,6 +307,7 @@ CreateStats <- \(lang = "no") {
       monthlies = monthlies, 
       extras = extras, 
       sdg.data = sdg.data, 
+      sdg.cutoff = sdg.cutoff,
       lang = lang,
       render = TRUE
     )
@@ -813,16 +819,17 @@ SdgDoughnut <- \(lang,
                  div.width = NULL,
                  div.height = NULL) {
   
-  # Define SDG Labels
-  labels <- SdgLabels(lang)
+  # Create numeric sdg data
+  data <- as.numeric(sdg.data$sum)
   
   # Define SDG dataset
-  datasets <- list(
-    as.numeric(sdg.data$sum)
-  )
+  datasets <- list(data[data > 0])
+
+  # Define SDG Labels
+  labels <- SdgLabels(lang)[data > 0]
   
   # Define SDG colors
-  background.color <- list(SdgColors())
+  background.color <- list(SdgColors()[data > 0])
   
   # Set type as doughnut
   type <- "doughnut"
@@ -942,7 +949,7 @@ PublicationTrend <- \(data, lang) {
 #' @title SdgTrend
 #' @keywords internal
 #' @noRd
-SdgTrend <- \(lang, sdg.data, header = TRUE) {
+SdgTrend <- \(lang, sdg.data, sdg.cutoff = 0.98, header = TRUE) {
   
   unit.paths <- readRDS(
     file.path(local.storage, sprintf("unit_paths_%s.rds", lang))
@@ -951,12 +958,15 @@ SdgTrend <- \(lang, sdg.data, header = TRUE) {
     file.path(local.storage, sprintf("monthlies_%s.rds", lang))
   )
  
-   # Main publishing faculties
+  # Main publishing faculties
   ids <- c("209.0.0.0", "209.2.0.0", "209.4.0.0", "209.5.0.0", "209.6.0.0")
   # Find units
+
   units <- dplyr::filter(unit.paths, id %in% ids) |>
     dplyr::mutate(
-      sdg = purrr::map(key, ~ SdgSum(.x, monthlies, sdg.data, "year", TRUE))
+      sdg = purrr::map(key, ~ SdgSum(
+        .x, monthlies, sdg.data$sdg, sdg.cutoff, "year", TRUE)
+      )
     )
   
   dataset.labels <- c("INN", "ALB", "HSV", "LUP", "HHS")
@@ -994,7 +1004,7 @@ SdgTrend <- \(lang, sdg.data, header = TRUE) {
 #' @title SdgUnits
 #' @keywords internal
 #' @noRd
-SdgUnits <- \(lang, sdg.data, header = TRUE) {
+SdgUnits <- \(lang, sdg.data, sdg.cutoff = 0.98, header = TRUE) {
   
   unit.paths <- readRDS(
     file.path(local.storage, sprintf("unit_paths_%s.rds", lang))
@@ -1008,7 +1018,7 @@ SdgUnits <- \(lang, sdg.data, header = TRUE) {
   # Find units
   units <- dplyr::filter(unit.paths, id %in% ids) |>
     dplyr::mutate(
-      sdg = purrr::map(key, ~ SdgSum(.x, monthlies, sdg.data))
+      sdg = purrr::map(key, ~ SdgSum(.x, monthlies, sdg.data$sdg, sdg.cutoff))
     )
 
   labels <- c("ALB", "HSV", "LUP", "HHS")

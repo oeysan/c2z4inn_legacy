@@ -16,9 +16,9 @@ headless: true
                 "label": "Mål 1: Utrydde fattigdom",
                 "data": [
                     2,
-                    25,
+                    26,
                     1,
-                    11
+                    12
                 ],
                 "backgroundColor": "rgba(229, 36, 59, 1)",
                 "borderRadius": 0
@@ -26,10 +26,10 @@ headless: true
             {
                 "label": "Mål 2: Utrydde svolt",
                 "data": [
-                    27,
+                    28,
                     10,
                     1,
-                    8
+                    9
                 ],
                 "backgroundColor": "rgba(221, 166, 58, 1)",
                 "borderRadius": 0
@@ -37,10 +37,10 @@ headless: true
             {
                 "label": "Mål 3: Gode helse og livskvalitet",
                 "data": [
-                    22,
-                    165,
+                    24,
+                    168,
                     7,
-                    33
+                    34
                 ],
                 "backgroundColor": "rgba(76, 159, 56, 1)",
                 "borderRadius": 0
@@ -60,7 +60,7 @@ headless: true
                 "label": "Mål 5: Likestilling mellom kjønna",
                 "data": [
                     3,
-                    44,
+                    45,
                     18,
                     28
                 ],
@@ -115,7 +115,7 @@ headless: true
                 "label": "Mål 10: Mindre ulikskap",
                 "data": [
                     4,
-                    81,
+                    82,
                     55,
                     55
                 ],
@@ -136,7 +136,7 @@ headless: true
             {
                 "label": "Mål 12: Ansvarleg forbruk og produksjon",
                 "data": [
-                    4,
+                    5,
                     6,
                     0,
                     2
@@ -158,7 +158,7 @@ headless: true
             {
                 "label": "Mål 14: Livet i havet",
                 "data": [
-                    35,
+                    36,
                     2,
                     2,
                     3
@@ -169,7 +169,7 @@ headless: true
             {
                 "label": "Mål 15: Livet på land",
                 "data": [
-                    75,
+                    76,
                     1,
                     1,
                     4
@@ -193,8 +193,8 @@ headless: true
                 "data": [
                     4,
                     25,
-                    12,
-                    60
+                    13,
+                    61
                 ],
                 "backgroundColor": "rgba(25, 72, 106, 1)",
                 "borderRadius": 0

@@ -5,13 +5,14 @@ type: pub
 <h1>Publication</h1>
 <article id="csl-bib-container-56JJCEDL" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Skogvang, B. O. (2023). Professional women&#x2019;s football in Norway - a field of empowerment and discrimination. In A. Culvin &amp; A. Bowes (Eds.), <i>Women&#x2019;s football in a global, professional era</i> (pp. 49&#x2013;65). Emerald Publishing.</div>
+  <div class="csl-entry">Skogvang, B. O. (2023). Professional women&#x2019;s football in Norway - a field of empowerment and discrimination. In A. Culvin &amp; A. Bowes (Eds.), <i>Women&#x2019;s football in a global, professional era</i> (pp. 49&#x2013;65). Emerald Publishing. <a href="https://doi.org/10.1108/978-1-80071-052-820230004">https://doi.org/10.1108/978-1-80071-052-820230004</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-56JJCEDL" class="csl-bib-button">Archive</a>
     <a href="https://app.cristin.no/results/show.jsf?id=2184076" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5022929/items/56JJCEDL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-56JJCEDL" class="csl-bib-button">Contributors</a>
+    <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1108/978-1-80071-052-820230004" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-56JJCEDL"></div>
 </article>

@@ -13,6 +13,7 @@ type: pub
     <a href="http://zotero.org/groups/5022929/items/WMKBH7AI" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-WMKBH7AI" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-WMKBH7AI" class="csl-bib-button">Medverkande</a>
+    <a href="#sdg-article-WMKBH7AI" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ddi.13784" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WMKBH7AI"></div>
@@ -81,6 +82,16 @@ Studiested Evenstad
 </div>
 <a href="https://app.cristin.no/persons/show.jsf?id=26001" alt="Cristin URL" class="personas-cristin">Cristin</a>
 </div>
+  </article>
+  <article id="sdg-article-WMKBH7AI" class="sdg-article">
+    <h1>Berekraftsmål</h1>
+    <div class="sdg-container"><div id="sdg15" class="sdg">
+<img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
+<div class="sdg-overlay">
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>39</span> Publikasjonar</a>
+<p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
+</div>
+</div></div>
   </article>
   <article id="taxonomy-article-WMKBH7AI" class="taxonomy-article">
     <h1>Arkiv</h1>

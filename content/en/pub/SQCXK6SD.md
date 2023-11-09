@@ -63,13 +63,13 @@ Room 4L3335
     <div class="sdg-container"><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>39</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>46</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

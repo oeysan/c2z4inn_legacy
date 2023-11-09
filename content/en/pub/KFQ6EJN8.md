@@ -5,7 +5,7 @@ type: pub
 <h1>Publication</h1>
 <article id="csl-bib-container-KFQ6EJN8" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Moen, K. M., Aasland, E., &amp; L&#xF8;ndal, K. (2023). Krenkelser og patologier i norsk kropps&#xF8;ving - En kunnskapsgjennomgang. In K. M. Moen &amp; A. N. Jordet (Eds.), <i>Et anerkjennende kropps&#xF8;vingsfag</i>. Cappelen Damm akademisk.</div>
+  <div class="csl-entry">Moen, K. M., Aasland, E., &amp; L&#xF8;ndal, K. (2023). Krenkelser og patologier i norsk kropps&#xF8;ving - En kunnskapsgjennomgang. In K. M. Moen &amp; A. N. Jordet (Eds.), <i>Et anerkjennende kropps&#xF8;vingsfag</i> (pp. 53&#x2013;79). Cappelen Damm akademisk.</div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-KFQ6EJN8" class="csl-bib-button">Archive</a>

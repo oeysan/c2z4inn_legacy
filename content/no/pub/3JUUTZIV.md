@@ -64,7 +64,7 @@ Rom 2N2211
     <div class="sdg-container"><div id="sdg14" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg14_no.png" class="image" alt="SDG 14">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=14#archive" class="sdg-publication-count"><span>42</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=14#archive" class="sdg-publication-count"><span>39</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-i-havet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

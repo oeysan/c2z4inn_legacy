@@ -95,7 +95,7 @@ Campus Hamar
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>39</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

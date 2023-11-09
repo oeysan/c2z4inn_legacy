@@ -5,7 +5,7 @@ type: pub
 <h1>Publication</h1>
 <article id="csl-bib-container-GYNZY5XK" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Brick, C., Nielsen, K. S., &amp; Hofmann, W. (2023). Opportunities for Emotion Research on Biodiversity. <i>Emotion Review</i>. <a href="https://doi.org/10.1177/17540739231193755">https://doi.org/10.1177/17540739231193755</a></div>
+  <div class="csl-entry">Brick, C., Nielsen, K. S., &amp; Hofmann, W. (2023). Opportunities for Emotion Research on Biodiversity. <i>Emotion Review</i>, <i>15</i>(4), 263&#x2013;266. <a href="https://doi.org/10.1177/17540739231193755">https://doi.org/10.1177/17540739231193755</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-GYNZY5XK" class="csl-bib-button">Archive</a>
@@ -66,7 +66,7 @@ Campus Lillehammer
     <div class="sdg-container"><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>41</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

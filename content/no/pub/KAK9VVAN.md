@@ -66,7 +66,7 @@ Studiested Elverum
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>39</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

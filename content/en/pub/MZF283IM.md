@@ -5,14 +5,14 @@ type: pub
 <h1>Publication</h1>
 <article id="csl-bib-container-MZF283IM" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Hauge, &#xC5;. L., Lindheim, M. &#xD8;., R&#xF8;tting, K., &amp; Johnsen, S. &#xC5;. K. (2023). The Meaning of the Physical Environment in Child and Adolescent Therapy: A Qualitative Study of the Outdoor Care Retreat. <i>Ecopsychology</i>. <a href="https://doi.org/10.1089/eco.2022.0087">https://doi.org/10.1089/eco.2022.0087</a></div>
+  <div class="csl-entry">Hauge, &#xC5;. L., Lindheim, M. &#xD8;., R&#xF8;tting, K., &amp; Johnsen, S. &#xC5;. K. (2023). The Meaning of the Physical Environment in Child and Adolescent Therapy: A Qualitative Study of the Outdoor Care Retreat. <i>Ecopsychology</i>, <i>15</i>(3), 244&#x2013;258. <a href="https://doi.org/10.1089/eco.2022.0087">https://doi.org/10.1089/eco.2022.0087</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MZF283IM" class="csl-bib-button">Archive</a>
     <a href="https://app.cristin.no/results/show.jsf?id=2139724" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5022929/items/MZF283IM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-MZF283IM" class="csl-bib-button">Contributors</a>
-    <a href="https://www.duo.uio.no/bitstream/10852/101893/1/PostPrint%2bOutdoor%2bcare%2bretreat%2band%2btherapy.pdf" class="csl-bib-button">Unpaywall</a>
+    <a href="https://doi.org/10.1089/eco.2022.0087" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-MZF283IM"></div>
 </article>

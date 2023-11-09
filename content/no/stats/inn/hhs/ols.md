@@ -13,12 +13,9 @@ headless: true
     "data": {
         "labels": [
             "Mål 1: Utrydde fattigdom",
-            "Mål 2: Utrydde svolt",
             "Mål 3: Gode helse og livskvalitet",
             "Mål 4: God utdanning",
             "Mål 5: Likestilling mellom kjønna",
-            "Mål 6: Reint vatn og gode sanitær forhold",
-            "Mål 7: Rein energi til alle",
             "Mål 8: Anstendig arbeid og økonomisk vekst",
             "Mål 9: Industri, innovasjon og infrastruktur",
             "Mål 10: Mindre ulikskap",
@@ -35,12 +32,9 @@ headless: true
                 "label": "Publikasjonar",
                 "data": [
                     6,
-                    0,
                     10,
                     6,
                     8,
-                    0,
-                    0,
                     13,
                     23,
                     27,
@@ -54,12 +48,9 @@ headless: true
                 ],
                 "backgroundColor": [
                     "rgba(229, 36, 59, 1)",
-                    "rgba(221, 166, 58, 1)",
                     "rgba(76, 159, 56, 1)",
                     "rgba(197, 25, 45, 1)",
                     "rgba(255, 58, 33, 1)",
-                    "rgba(38, 189, 226, 1)",
-                    "rgba(252, 195, 11, 1)",
                     "rgba(162, 25, 66, 1)",
                     "rgba(253, 105, 37, 1)",
                     "rgba(221, 19, 103, 1)",

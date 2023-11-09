@@ -4,8 +4,8 @@ headless: true
 <a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=7DB72EHW">Go to archive</a>
 <h1>Overview for Inland Norway University of Applied Sciences</h1>
 <div id="stats-descriptives">
-<p>Publications: <span class="stats-n">4223</span></p>
-<p>Sustainable Development Goals: <span class="stats-n">1357</span></p>
+<p>Publications: <span class="stats-n">4224</span></p>
+<p>Sustainable Development Goals: <span class="stats-n">1360</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart >}}{
@@ -30,7 +30,7 @@ headless: true
                     548,
                     645,
                     770,
-                    739
+                    740
                 ],
                 "borderRadius": 0
             },
@@ -43,7 +43,7 @@ headless: true
                     133,
                     225,
                     287,
-                    298
+                    301
                 ],
                 "borderRadius": 0
             }
@@ -98,31 +98,31 @@ headless: true
     "type": "doughnut",
     "data": {
         "labels": [
-            "Mål 1: Utrydde fattigdom",
-            "Mål 2: Utrydde svolt",
-            "Mål 3: Gode helse og livskvalitet",
-            "Mål 4: God utdanning",
-            "Mål 5: Likestilling mellom kjønna",
-            "Mål 6: Reint vatn og gode sanitær forhold",
-            "Mål 7: Rein energi til alle",
-            "Mål 8: Anstendig arbeid og økonomisk vekst",
-            "Mål 9: Industri, innovasjon og infrastruktur",
-            "Mål 10: Mindre ulikskap",
-            "Mål 11: Berekraftig byar og lokalsamfunn",
-            "Mål 12: Ansvarleg forbruk og produksjon",
-            "Mål 13: Stoppe klimaendringane",
-            "Mål 14: Livet i havet",
-            "Mål 15: Livet på land",
-            "Mål 16: Fred, rettferd og velfungerande institusjonar",
-            "Mål 17: Samarbeid for å nå måla"
+            "Goal 1: No poverty",
+            "Goal 2: Zero hunger",
+            "Goal 3: Good health and well-being",
+            "Goal 4: Quality Education",
+            "Goal 5: Gender equality",
+            "Goal 6: Clean water and sanitation",
+            "Goal 7: Affordable and clean energy",
+            "Goal 8: Decent work and economic growth",
+            "Goal 9: Industry, innovation and infrastructure",
+            "Goal 10: Reduced inequalities",
+            "Goal 11: Sustainable cities and communities",
+            "Goal 12: Responsible consumption and production",
+            "Goal 13: Climate action",
+            "Goal 14: Life below water",
+            "Goal 15: Life in Land",
+            "Goal 16: Peace, Justice and strong institutions",
+            "Goal 17: Partnerships for the goals"
         ],
         "datasets": [
             {
-                "label": "Publikasjonar",
+                "label": "Publications",
                 "data": [
                     39,
-                    46,
-                    227,
+                    47,
+                    229,
                     166,
                     93,
                     29,
@@ -217,7 +217,7 @@ headless: true
   <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=3&collection=7DB72EHW#archive" class="sdg-publication-count"><span>227</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=3&collection=7DB72EHW#archive" class="sdg-publication-count"><span>229</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
 </div>
 </div><div id="sdg10" class="sdg">
@@ -271,7 +271,7 @@ headless: true
 </div><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=2&collection=7DB72EHW#archive" class="sdg-publication-count"><span>46</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=2&collection=7DB72EHW#archive" class="sdg-publication-count"><span>47</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p>
 </div>
 </div><div id="sdg13" class="sdg">

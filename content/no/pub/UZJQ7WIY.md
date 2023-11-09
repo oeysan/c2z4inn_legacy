@@ -5,7 +5,7 @@ type: pub
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-UZJQ7WIY" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Molander, O., M&#xE5;nsson, V., Berman, A. H., Grant, J. E., &amp; Wennberg, P. (2023). Assessing Gambling Disorder Using Semistructured Interviews or Self-Report? Evaluation of the Structured Clinical Interview for Gambling Disorder Among Swedish Gamblers. <i>Assessment</i>, 107319112211470. <a href="https://doi.org/10.1177/10731911221147038">https://doi.org/10.1177/10731911221147038</a></div>
+  <div class="csl-entry">Molander, O., M&#xE5;nsson, V., Berman, A. H., Grant, J. E., &amp; Wennberg, P. (2023). Assessing Gambling Disorder Using Semistructured Interviews or Self-Report? Evaluation of the Structured Clinical Interview for Gambling Disorder Among Swedish Gamblers. <i>Assessment</i>, <i>30</i>(8), 2387&#x2013;2397. <a href="https://doi.org/10.1177/10731911221147038">https://doi.org/10.1177/10731911221147038</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-UZJQ7WIY" class="csl-bib-button">Arkiv</a>
@@ -66,13 +66,13 @@ Studiested Lillehammer
     <div class="sdg-container"><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>41</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>112</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>47</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -98,19 +98,19 @@ Campus Evenstad
     <div class="sdg-container"><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>39</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>46</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>79</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>227</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

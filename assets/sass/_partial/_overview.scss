@@ -311,7 +311,7 @@
 
 @media only screen and (orientation: portrait) and (max-width: 768px)  {
   .chartjs {
-    height: 100vh;
+    height: 100vh !important;
   }
 }
 

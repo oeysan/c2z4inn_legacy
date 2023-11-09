@@ -67,13 +67,13 @@ Studiested Kongsvinger
     <div class="sdg-container"><div id="sdg8" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>54</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>39</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>101</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>46</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

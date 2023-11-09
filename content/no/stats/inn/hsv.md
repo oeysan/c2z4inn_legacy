@@ -29,8 +29,9 @@ headless: true
                     166,
                     178,
                     195,
-                    177,
-                    129
+                    176,
+                    124,
+                    6
                 ],
                 "borderRadius": 0
             },
@@ -43,7 +44,8 @@ headless: true
                     48,
                     89,
                     106,
-                    64
+                    58,
+                    6
                 ],
                 "borderRadius": 0
             }

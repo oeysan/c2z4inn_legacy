@@ -64,19 +64,19 @@ Room 2P244
     <div class="sdg-container"><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=2#archive" class="sdg-publication-count"><span>46</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=2#archive" class="sdg-publication-count"><span>39</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>166</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>46</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div> <div id="sdg9" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>65</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>227</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
 </div>
 </div></div>

@@ -4,8 +4,8 @@ headless: true
 <a id="archive-url" href="{{< params subfolder >}}no/archive/?&collection=2ZB4WY22">Gå til arkivet</a>
 <h1>Oversikt for Fakultet for anvendt økologi, landbruksfag og bioteknologi</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">621</span></p>
-<p>Berekraftsmål: <span class="stats-n">225</span></p>
+<p>Publikasjonar: <span class="stats-n">622</span></p>
+<p>Berekraftsmål: <span class="stats-n">228</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart >}}{
@@ -24,13 +24,14 @@ headless: true
             {
                 "label": "Publikasjonar",
                 "data": [
-                    45,
+                    44,
                     61,
                     72,
                     57,
                     112,
                     124,
-                    150
+                    141,
+                    11
                 ],
                 "borderRadius": 0
             },
@@ -43,7 +44,8 @@ headless: true
                     20,
                     34,
                     48,
-                    83
+                    80,
+                    6
                 ],
                 "borderRadius": 0
             }
@@ -121,8 +123,8 @@ headless: true
                 "label": "Publikasjonar",
                 "data": [
                     2,
-                    27,
-                    22,
+                    28,
+                    24,
                     2,
                     3,
                     21,
@@ -229,13 +231,13 @@ headless: true
 </div><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_no.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=2&collection=2ZB4WY22#archive" class="sdg-publication-count"><span>27</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=2&collection=2ZB4WY22#archive" class="sdg-publication-count"><span>28</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=3&collection=2ZB4WY22#archive" class="sdg-publication-count"><span>22</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=3&collection=2ZB4WY22#archive" class="sdg-publication-count"><span>24</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div><div id="sdg6" class="sdg">

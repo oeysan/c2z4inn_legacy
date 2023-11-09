@@ -62,13 +62,13 @@ Campus Hamar
     <div class="sdg-container"><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_no.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=2#archive" class="sdg-publication-count"><span>46</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=2#archive" class="sdg-publication-count"><span>39</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg13" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg13_no.png" class="image" alt="SDG 13">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=13#archive" class="sdg-publication-count"><span>45</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=13#archive" class="sdg-publication-count"><span>46</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/stoppe-klimaendringene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

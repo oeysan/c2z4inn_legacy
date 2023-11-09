@@ -59,10 +59,7 @@
     @media (max-width: 999px) {
         .stats-graphs div {
             width: 100% !important;
-        }
-        .stats-graphs div canvas {
-            width: 100% !important;
-            height: 500px !important;
+            height: 100vh !important;
         }
     }
     

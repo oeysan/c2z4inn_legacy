@@ -26,7 +26,6 @@ headless: true
             "Mål 12: Ansvarleg forbruk og produksjon",
             "Mål 13: Stoppe klimaendringane",
             "Mål 14: Livet i havet",
-            "Mål 15: Livet på land",
             "Mål 16: Fred, rettferd og velfungerande institusjonar",
             "Mål 17: Samarbeid for å nå måla"
         ],
@@ -48,7 +47,6 @@ headless: true
                     2,
                     3,
                     1,
-                    0,
                     26,
                     18
                 ],
@@ -67,7 +65,6 @@ headless: true
                     "rgba(191, 139, 46, 1)",
                     "rgba(63, 126, 68, 1)",
                     "rgba(10, 151, 217, 1)",
-                    "rgba(86, 192, 43, 1)",
                     "rgba(0, 104, 157, 1)",
                     "rgba(25, 72, 106, 1)"
                 ],

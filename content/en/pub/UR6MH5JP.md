@@ -12,6 +12,7 @@ type: pub
     <a href="https://app.cristin.no/results/show.jsf?id=2189129" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5022929/items/UR6MH5JP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-UR6MH5JP" class="csl-bib-button">Abstract</a>
+    <a href="#sdg-article-UR6MH5JP" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://doi.org/10.17645/pag.v11i4.7240" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-UR6MH5JP"></div>
@@ -20,6 +21,16 @@ type: pub
   <article id="abstract-article-UR6MH5JP" class="abstract-article">
     <h1>Abstract</h1>
     This article analyses the revenue capacity at the “centre” of the EU. It first outlines major elements (“segments”) of EU “federal” fiscal capacity, both on the revenue and expenditure side, as well as on- and off-budget. It provides a new typology of taxes in a multi-level setting, based on tax ownership and decision-making on tax bases and/or rates. It then enters the so-called EU budgetary galaxy and (a) analyses how the centre utilises different types of revenue capacity and (b) discusses if the so-called “own resources” have tax features. The article finds that these own resources, to a large extent, de facto constitute taxing power, that the EU significantly uses off-budget borrowing capacity (through the European Investment Bank and the European Commission) and that the EU has a variety of schemes that offer revenue capacity to the centre, through the pooling of resources (transfers, guarantees) by its member states and by third countries. The way in which a large portion of the Next Generation EU resources have been channelled into the EU budget (by means of externally assigned revenue) completes the image of a centre with fiscal capacity, rather than an entity that spends but has no true fiscal powers.
+  </article>
+  <article id="sdg-article-UR6MH5JP" class="sdg-article">
+    <h1>Sustainable Development Goals</h1>
+    <div class="sdg-container"><div id="sdg17" class="sdg">
+<img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
+<div class="sdg-overlay">
+<a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>39</span> Publications</a>
+<p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
+</div>
+</div></div>
   </article>
   <article id="taxonomy-article-UR6MH5JP" class="taxonomy-article">
     <h1>Archive</h1>

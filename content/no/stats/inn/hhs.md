@@ -5,7 +5,7 @@ headless: true
 <h1>Oversikt for Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</h1>
 <div id="stats-descriptives">
 <p>Publikasjonar: <span class="stats-n">1389</span></p>
-<p>Berekraftsmål: <span class="stats-n">406</span></p>
+<p>Berekraftsmål: <span class="stats-n">408</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart >}}{
@@ -30,7 +30,8 @@ headless: true
                     168,
                     171,
                     281,
-                    281
+                    277,
+                    4
                 ],
                 "borderRadius": 0
             },
@@ -43,7 +44,8 @@ headless: true
                     40,
                     61,
                     86,
-                    99
+                    97,
+                    4
                 ],
                 "borderRadius": 0
             }
@@ -103,7 +105,6 @@ headless: true
             "Mål 3: Gode helse og livskvalitet",
             "Mål 4: God utdanning",
             "Mål 5: Likestilling mellom kjønna",
-            "Mål 6: Reint vatn og gode sanitær forhold",
             "Mål 7: Rein energi til alle",
             "Mål 8: Anstendig arbeid og økonomisk vekst",
             "Mål 9: Industri, innovasjon og infrastruktur",
@@ -121,11 +122,10 @@ headless: true
                 "label": "Publikasjonar",
                 "data": [
                     11,
-                    8,
-                    33,
+                    9,
+                    34,
                     16,
                     28,
-                    0,
                     11,
                     40,
                     53,
@@ -144,7 +144,6 @@ headless: true
                     "rgba(76, 159, 56, 1)",
                     "rgba(197, 25, 45, 1)",
                     "rgba(255, 58, 33, 1)",
-                    "rgba(38, 189, 226, 1)",
                     "rgba(252, 195, 11, 1)",
                     "rgba(162, 25, 66, 1)",
                     "rgba(253, 105, 37, 1)",
@@ -247,7 +246,7 @@ headless: true
 </div><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=3&collection=AA9DH6AR#archive" class="sdg-publication-count"><span>33</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=3&collection=AA9DH6AR#archive" class="sdg-publication-count"><span>34</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div><div id="sdg5" class="sdg">
@@ -289,7 +288,7 @@ headless: true
 </div><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_no.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=2&collection=AA9DH6AR#archive" class="sdg-publication-count"><span>8</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=2&collection=AA9DH6AR#archive" class="sdg-publication-count"><span>9</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div><div id="sdg15" class="sdg">

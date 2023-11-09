@@ -25,12 +25,13 @@ headless: true
                 "label": "Publikasjonar",
                 "data": [
                     125,
-                    158,
+                    157,
                     136,
                     122,
                     159,
-                    177,
-                    158
+                    176,
+                    153,
+                    7
                 ],
                 "borderRadius": 0
             },
@@ -43,7 +44,8 @@ headless: true
                     23,
                     50,
                     42,
-                    46
+                    45,
+                    1
                 ],
                 "borderRadius": 0
             }
@@ -103,13 +105,10 @@ headless: true
             "Mål 3: Gode helse og livskvalitet",
             "Mål 4: God utdanning",
             "Mål 5: Likestilling mellom kjønna",
-            "Mål 6: Reint vatn og gode sanitær forhold",
-            "Mål 7: Rein energi til alle",
             "Mål 8: Anstendig arbeid og økonomisk vekst",
             "Mål 9: Industri, innovasjon og infrastruktur",
             "Mål 10: Mindre ulikskap",
             "Mål 11: Berekraftig byar og lokalsamfunn",
-            "Mål 12: Ansvarleg forbruk og produksjon",
             "Mål 13: Stoppe klimaendringane",
             "Mål 14: Livet i havet",
             "Mål 15: Livet på land",
@@ -125,13 +124,10 @@ headless: true
                     7,
                     102,
                     18,
-                    0,
-                    0,
                     2,
                     4,
                     55,
                     2,
-                    0,
                     5,
                     2,
                     1,
@@ -144,13 +140,10 @@ headless: true
                     "rgba(76, 159, 56, 1)",
                     "rgba(197, 25, 45, 1)",
                     "rgba(255, 58, 33, 1)",
-                    "rgba(38, 189, 226, 1)",
-                    "rgba(252, 195, 11, 1)",
                     "rgba(162, 25, 66, 1)",
                     "rgba(253, 105, 37, 1)",
                     "rgba(221, 19, 103, 1)",
                     "rgba(253, 157, 36, 1)",
-                    "rgba(191, 139, 46, 1)",
                     "rgba(63, 126, 68, 1)",
                     "rgba(10, 151, 217, 1)",
                     "rgba(86, 192, 43, 1)",

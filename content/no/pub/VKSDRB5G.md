@@ -41,13 +41,13 @@ Current evidence supports the inverse dose-response relationship between dietary
     <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>225</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>39</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div> <div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>46</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

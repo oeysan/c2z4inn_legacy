@@ -5,19 +5,19 @@ headless: true
 <div class="sdg-container"><div id="sdg1" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg01_no.png" class="image" alt="SDG 1">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=1#archive" class="sdg-publication-count"><span>39</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=1#archive" class="sdg-publication-count"><span>41</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/utrydde-fattigdom?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_no.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=2#archive" class="sdg-publication-count"><span>46</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=2#archive" class="sdg-publication-count"><span>47</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>227</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>232</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div><div id="sdg4" class="sdg">
@@ -29,7 +29,7 @@ headless: true
 </div><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>93</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=5#archive" class="sdg-publication-count"><span>94</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div><div id="sdg6" class="sdg">
@@ -59,7 +59,7 @@ headless: true
 </div><div id="sdg10" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>194</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>195</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div><div id="sdg11" class="sdg">
@@ -71,7 +71,7 @@ headless: true
 </div><div id="sdg12" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg12_no.png" class="image" alt="SDG 12">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=12#archive" class="sdg-publication-count"><span>12</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=12#archive" class="sdg-publication-count"><span>13</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/ansvarlig-forbruk-og-produksjon?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div><div id="sdg13" class="sdg">
@@ -83,13 +83,13 @@ headless: true
 </div><div id="sdg14" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg14_no.png" class="image" alt="SDG 14">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=14#archive" class="sdg-publication-count"><span>42</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=14#archive" class="sdg-publication-count"><span>43</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-i-havet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div><div id="sdg15" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>81</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=15#archive" class="sdg-publication-count"><span>82</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div><div id="sdg16" class="sdg">
@@ -101,7 +101,7 @@ headless: true
 </div><div id="sdg17" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>103</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>105</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

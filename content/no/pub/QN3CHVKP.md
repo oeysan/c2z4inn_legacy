@@ -135,7 +135,7 @@ Rom 2N1246
     <div class="sdg-container"><div id="sdg6" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg06_no.png" class="image" alt="SDG 6">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=6#archive" class="sdg-publication-count"><span>29</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=6#archive" class="sdg-publication-count"><span>39</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/rent-vann-og-gode-sanitaerforhold?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div></div>

@@ -4,8 +4,8 @@ headless: true
 <a id="archive-url" href="{{< params subfolder >}}no/archive/?&collection=7DB72EHW">Gå til arkivet</a>
 <h1>Oversikt for Høgskolen i Innlandet</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">4223</span></p>
-<p>Berekraftsmål: <span class="stats-n">1357</span></p>
+<p>Publikasjonar: <span class="stats-n">4224</span></p>
+<p>Berekraftsmål: <span class="stats-n">1360</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart >}}{
@@ -24,13 +24,14 @@ headless: true
             {
                 "label": "Publikasjonar",
                 "data": [
-                    506,
-                    476,
+                    505,
+                    475,
                     539,
                     548,
                     645,
-                    770,
-                    739
+                    768,
+                    717,
+                    27
                 ],
                 "borderRadius": 0
             },
@@ -43,7 +44,8 @@ headless: true
                     133,
                     225,
                     287,
-                    298
+                    286,
+                    15
                 ],
                 "borderRadius": 0
             }
@@ -121,8 +123,8 @@ headless: true
                 "label": "Publikasjonar",
                 "data": [
                     39,
-                    46,
-                    227,
+                    47,
+                    229,
                     166,
                     93,
                     29,
@@ -217,7 +219,7 @@ headless: true
   <div class="sdg-container"><div id="sdg3" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=3&collection=7DB72EHW#archive" class="sdg-publication-count"><span>227</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=3&collection=7DB72EHW#archive" class="sdg-publication-count"><span>229</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div><div id="sdg10" class="sdg">
@@ -271,7 +273,7 @@ headless: true
 </div><div id="sdg2" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg02_no.png" class="image" alt="SDG 2">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=2&collection=7DB72EHW#archive" class="sdg-publication-count"><span>46</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=2&collection=7DB72EHW#archive" class="sdg-publication-count"><span>47</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div><div id="sdg13" class="sdg">

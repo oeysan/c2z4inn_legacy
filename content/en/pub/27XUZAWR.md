@@ -13,6 +13,7 @@ type: pub
     <a href="http://zotero.org/groups/5022929/items/27XUZAWR" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-27XUZAWR" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-27XUZAWR" class="csl-bib-button">Contributors</a>
+    <a href="#sdg-article-27XUZAWR" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://ezproxy.inn.no/login?url=https://doi.org/10.1111/hdi.13118" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-27XUZAWR"></div>
@@ -59,6 +60,16 @@ Campus Lillehammer
 </div>
 <a href="https://app.cristin.no/persons/show.jsf?id=1162452" alt="Cristin URL" class="personas-cristin">Cristin</a>
 </div>
+  </article>
+  <article id="sdg-article-27XUZAWR" class="sdg-article">
+    <h1>Sustainable Development Goals</h1>
+    <div class="sdg-container"><div id="sdg3" class="sdg">
+<img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
+<div class="sdg-overlay">
+<a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>39</span> Publications</a>
+<p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
+</div>
+</div></div>
   </article>
   <article id="taxonomy-article-27XUZAWR" class="taxonomy-article">
     <h1>Archive</h1>
