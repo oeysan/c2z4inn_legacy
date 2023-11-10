@@ -5,7 +5,7 @@ headless: true
 <h1>Oversikt for Fakultet for helse- og sosialvitenskap</h1>
 <div id="stats-descriptives">
 <p>Publikasjonar: <span class="stats-n">1089</span></p>
-<p>Berekraftsmål: <span class="stats-n">495</span></p>
+<p>Berekraftsmål: <span class="stats-n">496</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart >}}{
@@ -43,7 +43,7 @@ headless: true
                     48,
                     89,
                     106,
-                    64
+                    65
                 ],
                 "borderRadius": 0
             }
@@ -123,7 +123,7 @@ headless: true
                     25,
                     10,
                     165,
-                    46,
+                    47,
                     44,
                     6,
                     11,
@@ -226,17 +226,17 @@ headless: true
 <a href="{{< params subfolder >}}no/archive/?sdg=10&collection=85PRBA3X#archive" class="sdg-publication-count"><span>81</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
+</div><div id="sdg4" class="sdg">
+<img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
+<div class="sdg-overlay">
+<a href="{{< params subfolder >}}no/archive/?sdg=4&collection=85PRBA3X#archive" class="sdg-publication-count"><span>47</span> Publikasjonar</a>
+<p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
+</div>
 </div><div id="sdg16" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16">
 <div class="sdg-overlay">
 <a href="{{< params subfolder >}}no/archive/?sdg=16&collection=85PRBA3X#archive" class="sdg-publication-count"><span>47</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
-</div>
-</div><div id="sdg4" class="sdg">
-<img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
-<div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=4&collection=85PRBA3X#archive" class="sdg-publication-count"><span>46</span> Publikasjonar</a>
-<p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div><div id="sdg5" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5">

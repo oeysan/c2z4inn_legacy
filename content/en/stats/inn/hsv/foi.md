@@ -5,7 +5,7 @@ headless: true
 <h1>Overview for Department of Public Health and Sport Sciences</h1>
 <div id="stats-descriptives">
 <p>Publications: <span class="stats-n">435</span></p>
-<p>Sustainable Development Goals: <span class="stats-n">161</span></p>
+<p>Sustainable Development Goals: <span class="stats-n">162</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -36,7 +36,7 @@ headless: true
                     5,
                     1,
                     44,
-                    17,
+                    18,
                     12,
                     10,
                     2,
@@ -140,7 +140,7 @@ headless: true
 </div><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=4&collection=L8DEMQV5#archive" class="sdg-publication-count"><span>17</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=4&collection=L8DEMQV5#archive" class="sdg-publication-count"><span>18</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div><div id="sdg16" class="sdg">

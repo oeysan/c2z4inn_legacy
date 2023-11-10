@@ -49,7 +49,7 @@ headless: true
                 "label": "Mål 4: God utdanning",
                 "data": [
                     2,
-                    46,
+                    47,
                     102,
                     16
                 ],

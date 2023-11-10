@@ -5,7 +5,7 @@ headless: true
 <h1>Oversikt for Høgskolen i Innlandet</h1>
 <div id="stats-descriptives">
 <p>Publikasjonar: <span class="stats-n">4224</span></p>
-<p>Berekraftsmål: <span class="stats-n">1360</span></p>
+<p>Berekraftsmål: <span class="stats-n">1361</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart >}}{
@@ -43,7 +43,7 @@ headless: true
                     133,
                     225,
                     287,
-                    301
+                    302
                 ],
                 "borderRadius": 0
             }
@@ -123,7 +123,7 @@ headless: true
                     39,
                     47,
                     229,
-                    166,
+                    167,
                     93,
                     29,
                     26,
@@ -229,7 +229,7 @@ headless: true
 </div><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}no/archive/?sdg=4&collection=7DB72EHW#archive" class="sdg-publication-count"><span>166</span> Publikasjonar</a>
+<a href="{{< params subfolder >}}no/archive/?sdg=4&collection=7DB72EHW#archive" class="sdg-publication-count"><span>167</span> Publikasjonar</a>
 <p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
 </div>
 </div><div id="sdg16" class="sdg">

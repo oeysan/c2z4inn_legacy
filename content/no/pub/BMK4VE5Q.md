@@ -5,18 +5,24 @@ type: pub
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-BMK4VE5Q" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Brekke Mandelid, M., Thurston, M., Reinboth, M., Resaland, G. K., &amp; Tjomsland, H. E. (2023). &#x201C;Just because it&#x2019;s fun, it&#x2019;s not without purpose&#x201D;: Exploring the blurred lines of physically active learning. <i>Teaching and Teacher Education</i>, <i>133</i>, 104297. <a href="https://doi.org/10.1016/j.tate.2023.104297">https://doi.org/10.1016/j.tate.2023.104297</a></div>
+  <div class="csl-entry">Mandelid, M. B., Thurston, M., Reinboth, M. S., Resaland, G. K., &amp; Tjomsland, H. E. (2023). &#x201C;Just because it&#x2019;s fun, it&#x2019;s not without purpose&#x201D;: Exploring the blurred lines of physically active learning. <i>Teaching and Teacher Education&#x202F;: An International Journal of Research and Studies</i>, <i>133</i>, 104297. <a href="https://doi.org/10.1016/j.tate.2023.104297">https://doi.org/10.1016/j.tate.2023.104297</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BMK4VE5Q" class="csl-bib-button">Arkiv</a>
     <a href="https://app.cristin.no/results/show.jsf?id=2165758" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5022929/items/BMK4VE5Q" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-BMK4VE5Q" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-BMK4VE5Q" class="csl-bib-button">Medverkande</a>
+    <a href="#sdg-article-BMK4VE5Q" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://doi.org/10.1016/j.tate.2023.104297" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-BMK4VE5Q"></div>
 </article>
 <div id="csl-bib-meta-BMK4VE5Q" class="csl-bib-meta">
+  <article id="abstract-article-BMK4VE5Q" class="abstract-article">
+    <h1>Samandrag</h1>
+    While physically active learning has been positioned as a research field that deals with physical activity and learning, little attention has been given to pedagogy. This study aimed to explore teachers as constitutive of the teaching-learning process and conceptualise pedagogical aspects of physically active learning by understanding its enactment in a pedagogical practice. Findings indicate blurred lines between the underpinning pedagogies of physically active learning and other teaching methods. We discuss pedagogical aspects that constitute physically active learning in terms of integrating movement into educational activities to support pupils' subjective growth through the process of learning.
+  </article>
   <article id="contributors-article-BMK4VE5Q" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas">
@@ -82,6 +88,16 @@ Studiested Elverum
 </div>
 <a href="https://app.cristin.no/persons/show.jsf?id=47214" alt="Cristin URL" class="personas-cristin">Cristin</a>
 </div>
+  </article>
+  <article id="sdg-article-BMK4VE5Q" class="sdg-article">
+    <h1>Berekraftsmål</h1>
+    <div class="sdg-container"><div id="sdg4" class="sdg">
+<img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4">
+<div class="sdg-overlay">
+<a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>39</span> Publikasjonar</a>
+<p><a href="https://www.fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
+</div>
+</div></div>
   </article>
   <article id="taxonomy-article-BMK4VE5Q" class="taxonomy-article">
     <h1>Arkiv</h1>

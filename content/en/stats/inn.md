@@ -5,7 +5,7 @@ headless: true
 <h1>Overview for Inland Norway University of Applied Sciences</h1>
 <div id="stats-descriptives">
 <p>Publications: <span class="stats-n">4224</span></p>
-<p>Sustainable Development Goals: <span class="stats-n">1360</span></p>
+<p>Sustainable Development Goals: <span class="stats-n">1361</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart >}}{
@@ -43,7 +43,7 @@ headless: true
                     133,
                     225,
                     287,
-                    301
+                    302
                 ],
                 "borderRadius": 0
             }
@@ -123,7 +123,7 @@ headless: true
                     39,
                     47,
                     229,
-                    166,
+                    167,
                     93,
                     29,
                     26,
@@ -229,7 +229,7 @@ headless: true
 </div><div id="sdg4" class="sdg">
 <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
 <div class="sdg-overlay">
-<a href="{{< params subfolder >}}en/archive/?sdg=4&collection=7DB72EHW#archive" class="sdg-publication-count"><span>166</span> Publications</a>
+<a href="{{< params subfolder >}}en/archive/?sdg=4&collection=7DB72EHW#archive" class="sdg-publication-count"><span>167</span> Publications</a>
 <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
 </div>
 </div><div id="sdg16" class="sdg">
