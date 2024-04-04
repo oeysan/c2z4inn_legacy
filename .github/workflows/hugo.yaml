@@ -19,7 +19,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  targetURL: "https://oeysan.github.io/c2z4inn/"
+  targetURL: "https://oeysan.github.io/c2z4inn_legacy/"
   
 jobs:
   build:
